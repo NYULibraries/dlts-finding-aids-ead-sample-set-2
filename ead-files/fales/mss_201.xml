@@ -1,78 +1,344 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/senskin/">mss_201</eadid><filedesc><titlestmt><titleproper>Guide to the Sensitive Skin Magazine Archive <num>MSS.201</num></titleproper><author>Luke Martin</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>2009</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:07:41 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>September 2018</date><item>Edited by Jennifer E. Neal for compliance with DACS and ACM Required Elements for Archival Description</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Fales Library and Special Collections</corpname>
-    </repository>
-    <unittitle>Sensitive Skin Magazine Archive</unittitle>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">Sensitive Skin</corpname>
-    </origination>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/senskin/">mss_201</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Sensitive Skin Magazine Archive <num>MSS.201</num></titleproper>
+        <author>Luke Martin</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:07:41 -0500</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>September 2018</date>
+        <item>Edited by Jennifer E. Neal for compliance with DACS and ACM Required Elements for Archival Description</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Sensitive Skin Magazine Archive</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">Sensitive Skin</corpname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Meisler, Bernard</persname>
+      </origination>
+      <unitid>MSS.201</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+        <extent altrender="carrier">in 1 record carton</extent>
+      </physdesc>
+      <unitdate normal="1991/1996" type="inclusive">1991-1996</unitdate>
+      <abstract id="aspace_3e70f212b6af1f0fb8e62af08651d12e">Sensitive Skin magazine was a short-lived publication created and edited by Buddy Kold and Norman Douglas in 1991. The magazine published short fiction, poetry, screenwriting, reviews, essays, drawings, and photographs by established and emerging writers and artists, mostly from New York. The Sensitive Skin Magazine Archive consists of general documentation of the administrative activities of the magazine, as well as submissions and production files related to specific issues.</abstract>
+      <physloc id="aspace_ca5a6cc074cc994777bf8334f3ebb800">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_19c45b32447d660dc867dd8c4e9e9e94">Materials primarily in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_8e7482d6c84ae9873b415fd76ab41f29">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restricitions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_0cbd5392b160820d2b86f4e4d2db484e">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Bernard Meisler in 2008. The accession number related to this gift is 2007.201.</p>
+    </acqinfo>
+    <arrangement id="aspace_b1b4ebec741c220caf574da17ce19d1a">
+      <head>Arrangement</head>
+      <p>The folders are arranged in alphabetical order by folder title. For the most part, original arrangement of material has been preserved.
+Much of the material arrived already grouped according to corresponding issue, and this arrangement has been maintained.</p>
+    </arrangement>
+    <bioghist id="aspace_43a969e4624919d5ce46de344b5cc835">
+      <head>Historical Note</head>
+      <p><emph render="italic">Sensitive Skin</emph> magazine was a short-lived publication created and edited by Buddy Kold and Norman Douglas in 1991. The first four issues were printed under the title "Peau Sensible" (French for "sensitive skin"), which had been translated to the English for subsequent issues. John Farris, Patricia Winter, and Darius James joined the editorial fold in 1992, while Mr. E. Oso took over editorial duties for the final issue in 1994. Kold remained the publisher throughout these years. <lb/></p>
+      <p>The magazine published short fiction, poetry, screenwriting, reviews, essays, drawings, and photographs by established and emerging writers and artists, mostly from New York. <emph render="italic">Sensitive Skin</emph> also frequently partnered with The Living Theatre to host release parties/ benefits where many of the published authors would read from their work and/or perform. St. Mark's Poetry Project and the Fez also hosted readings in conjunction with the magazine. <lb/></p>
+      <p>During its brief existence, <emph render="italic">Sensitive Skin</emph> published seminal downtown New York writers including John Giorno, Eileen Myles, David Rattray, Chris Kraus, David Ulin, Sparrow, Mike Topp, Ron Kolm, Richard Hell, Bob Holman, Wanda Phipps, Taylor Mead, among many others. Many of its published writers are part of the transgressive New York school, but a high degree of humour and wit also pervaded each issue. From haughty, pseudo-manifestoes to faux interviews, <emph render="italic">Sensitive Skin</emph> was careful not to take itself too seriously. Referring to the tongue-in-cheek subtitle of issue #2--"The magazine of art and literature that makes reading as fun and easy as watching TV!"--the editors, displaying this balance struck between the disturbing and the droll, write: "our magazine is not necessarily fun, or easy, to read. But for those who still search for interesting literature, and for the profound, the dark and the disturbing, <emph render="italic">Sensitive Skin</emph> is the place to look." (Box 1, Folder 5)</p>
+    </bioghist>
+    <prefercite id="aspace_366e5b2ed2ac8a2e964c746c22b515e2">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Sensitive Skin Magazine Archive; MSS 201; box number; folder number; Fales Library and Special Collections, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_7cc403b9c2e38c29a3e66e3f46b9ae38">
+      <head>Processing Information</head>
+      <p>Processing decisions made prior to September 2018 have not been recorded.</p>
+    </processinfo>
+    <scopecontent id="aspace_bc3db9533470a0f11f8a86e2198fe73f">
+      <head>Scope and Contents</head>
+      <p>The Sensitive Skin Magazine Archive consists of general documentation of the administrative activities of the magazine from 1991 to 1995, as well as submissions and production files related to specific issues. Each issue folder may include correspondence, promotional material, original submissions (some annotated by editors), master copies, receipts, press, as well as other production documentation.</p>
+    </scopecontent>
+    <userestrict id="aspace_e9356485993e6136a5d42d504489690d">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Sensitive Skin Magazine, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <geogname source="lcsh">New York (N.Y.).</geogname>
+      <subject source="lcsh">American fiction -- 20th century.</subject>
+      <genreform source="aat">Magazines (Periodicals)</genreform>
+      <genreform source="aat">Grant proposals.</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <subject source="lcsh">American poetry -- 20th century.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <title source="local">Sensitive skin magazine</title>
       <persname role="dnr" rules="dacs" source="local">Meisler, Bernard</persname>
-    </origination>
-    <unitid>MSS.201</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-      <extent altrender="carrier">in 1 record carton</extent>
-    </physdesc>
-    <unitdate normal="1991/1996" type="inclusive">1991-1996</unitdate>
-    <abstract id="aspace_3e70f212b6af1f0fb8e62af08651d12e">Sensitive Skin magazine was a short-lived publication created and edited by Buddy Kold and Norman Douglas in 1991. The magazine published short fiction, poetry, screenwriting, reviews, essays, drawings, and photographs by established and emerging writers and artists, mostly from New York. The Sensitive Skin Magazine Archive consists of general documentation of the administrative activities of the magazine, as well as submissions and production files related to specific issues.</abstract>
-    <physloc id="aspace_ca5a6cc074cc994777bf8334f3ebb800">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-    <langmaterial id="aspace_19c45b32447d660dc867dd8c4e9e9e94">Materials primarily in English.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_8e7482d6c84ae9873b415fd76ab41f29">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restricitions.</p>  </accessrestrict>
-  <acqinfo id="aspace_0cbd5392b160820d2b86f4e4d2db484e">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Bernard Meisler in 2008. The accession number related to this gift is 2007.201.</p>  </acqinfo>
-  <arrangement id="aspace_b1b4ebec741c220caf574da17ce19d1a">
-    <head>Arrangement</head>
-<p>The folders are arranged in alphabetical order by folder title. For the most part, original arrangement of material has been preserved.
-Much of the material arrived already grouped according to corresponding issue, and this arrangement has been maintained.</p>  </arrangement>
-  <bioghist id="aspace_43a969e4624919d5ce46de344b5cc835">
-    <head>Historical Note</head>
-<p><emph render="italic">Sensitive Skin</emph> magazine was a short-lived publication created and edited by Buddy Kold and Norman Douglas in 1991. The first four issues were printed under the title "Peau Sensible" (French for "sensitive skin"), which had been translated to the English for subsequent issues. John Farris, Patricia Winter, and Darius James joined the editorial fold in 1992, while Mr. E. Oso took over editorial duties for the final issue in 1994. Kold remained the publisher throughout these years. <lb/></p><p>The magazine published short fiction, poetry, screenwriting, reviews, essays, drawings, and photographs by established and emerging writers and artists, mostly from New York. <emph render="italic">Sensitive Skin</emph> also frequently partnered with The Living Theatre to host release parties/ benefits where many of the published authors would read from their work and/or perform. St. Mark's Poetry Project and the Fez also hosted readings in conjunction with the magazine. <lb/></p><p>During its brief existence, <emph render="italic">Sensitive Skin</emph> published seminal downtown New York writers including John Giorno, Eileen Myles, David Rattray, Chris Kraus, David Ulin, Sparrow, Mike Topp, Ron Kolm, Richard Hell, Bob Holman, Wanda Phipps, Taylor Mead, among many others. Many of its published writers are part of the transgressive New York school, but a high degree of humour and wit also pervaded each issue. From haughty, pseudo-manifestoes to faux interviews, <emph render="italic">Sensitive Skin</emph> was careful not to take itself too seriously. Referring to the tongue-in-cheek subtitle of issue #2--"The magazine of art and literature that makes reading as fun and easy as watching TV!"--the editors, displaying this balance struck between the disturbing and the droll, write: "our magazine is not necessarily fun, or easy, to read. But for those who still search for interesting literature, and for the profound, the dark and the disturbing, <emph render="italic">Sensitive Skin</emph> is the place to look." (Box 1, Folder 5)</p>  </bioghist>
-  <prefercite id="aspace_366e5b2ed2ac8a2e964c746c22b515e2">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Sensitive Skin Magazine Archive; MSS 201; box number; folder number; Fales Library and Special Collections, New York University.</p>  </prefercite>
-  <processinfo id="aspace_7cc403b9c2e38c29a3e66e3f46b9ae38">
-    <head>Processing Information</head>
-<p>Processing decisions made prior to September 2018 have not been recorded.</p>  </processinfo>
-  <scopecontent id="aspace_bc3db9533470a0f11f8a86e2198fe73f">
-    <head>Scope and Contents</head>
-<p>The Sensitive Skin Magazine Archive consists of general documentation of the administrative activities of the magazine from 1991 to 1995, as well as submissions and production files related to specific issues. Each issue folder may include correspondence, promotional material, original submissions (some annotated by editors), master copies, receipts, press, as well as other production documentation.</p>  </scopecontent>
-  <userestrict id="aspace_e9356485993e6136a5d42d504489690d">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Sensitive Skin Magazine, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <controlaccess>
-    <geogname source="lcsh">New York (N.Y.).</geogname>
-    <subject source="lcsh">American fiction -- 20th century.</subject>
-    <genreform source="aat">Magazines (Periodicals)</genreform>
-    <genreform source="aat">Grant proposals.</genreform>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <genreform source="aat">Manuscripts for publication.</genreform>
-    <subject source="lcsh">American poetry -- 20th century.</subject>
-    <genreform source="aat">Correspondence.</genreform>
-    <title source="local">Sensitive skin magazine</title>
-    <persname role="dnr" rules="dacs" source="local">Meisler, Bernard</persname>
-    <persname source="naf">Sirowitz, Hal</persname>
-    <persname source="naf">Dawson, Fielding, 1930-2002</persname>
-    <persname source="naf">Giorno, John</persname>
-    <persname source="naf">Afflick, Lester, 1956-2000</persname>
-    <persname source="naf">Kolm, Ron</persname>
-    <persname source="naf">Sparrow, (American poet)</persname>
-    <persname source="naf">Mead, Taylor</persname>
-    <persname source="naf">Sukenick, Ronald</persname>
-    <persname source="naf">Kern, Richard</persname>
-    <persname rules="aacr" source="naf">Hell, Richard</persname>
-    <persname rules="aacr" source="naf">Rower, Ann, 1938-</persname>
-    <persname source="naf">Blagg, Max</persname>
-    <persname rules="aacr" source="naf">Myles, Eileen</persname>
-    <persname source="naf">Holman, Bob, 1948-</persname>
-    <persname source="naf">Carter, Michael -- Correspondence</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref2" level="file"><did><unittitle>Business-related documentation </unittitle><unitdate normal="1991/1995" type="inclusive">circa 1991-1995</unitdate><container altrender="Record carton" id="aspace_699077f7b9f220b887fd4c67b2185d25" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_a7d74887597f26c30e78d1ed8bc9b927" parent="aspace_699077f7b9f220b887fd4c67b2185d25" type="folder">1</container></did><odd id="aspace_2dd17122d12a0d576c74b8f532b76b09"><head>General</head><p>Incl. business certificate, ISSN Application, resumes, and other related files</p></odd></c><c id="aspace_ref11" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1992/1995" type="inclusive">1992-1995</unitdate><container altrender="Record carton" id="aspace_45e8d0545d10f7db613e372ff5631ccc" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_4a3d415b4a1ea8e708de432694f2e471" parent="aspace_45e8d0545d10f7db613e372ff5631ccc" type="folder">2</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Correspondence - Misc.</unittitle><unitdate normal="1991/1995" type="inclusive">circa 1991-1995</unitdate><container altrender="Record carton" id="aspace_5bc06a1af1dc908cf5ec019deb856636" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_0f8fa27b8e052dd85b0b4fa2f2663940" parent="aspace_5bc06a1af1dc908cf5ec019deb856636" type="folder">3</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Financial Documentation - Stores and Distribution, Advertising</unittitle><unitdate normal="1993/1996" type="inclusive">1993-1996</unitdate><container altrender="Record carton" id="aspace_fdd7cadf69a5c76b114da7fc842e80e5" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_0cb8b586d2536fcc3313221969570299" parent="aspace_fdd7cadf69a5c76b114da7fc842e80e5" type="folder">4</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Grant Documentation</unittitle><unitdate normal="1990/1996" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_6b0bbf95865ccee5a99bb9a24cc7b489" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_0ba14651bcf9bcddb06611ee150aa2d9" parent="aspace_6b0bbf95865ccee5a99bb9a24cc7b489" type="folder">5</container></did><odd id="aspace_223060f1d16a99ace6d4a8d2f2fad724"><head>General</head><p>Incl. Financial documentation; NYSCA (1985-86) and NEA (1988-89) applications for Ikon Press</p></odd></c><c id="aspace_ref12" level="file"><did><unittitle>Issues #1-5</unittitle><unitdate>1991-1993</unitdate><container altrender="Record carton" id="aspace_e50b8ee7b12ff376d00e51a5ac9eea13" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_535bb075bd9c24240e8a5a9689bef86d" parent="aspace_e50b8ee7b12ff376d00e51a5ac9eea13" type="folder">6</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Issue #5 - signed by contributors</unittitle><unitdate>1993</unitdate><container altrender="Record carton" id="aspace_ec25f2b930323ada4ccfe7e16579c738" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_2f6dedb3d0bf59b0434ee87752b613f1" parent="aspace_ec25f2b930323ada4ccfe7e16579c738" type="folder">7</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Mailing Lists</unittitle><unitdate normal="1990/1996" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_fb9214617525f3d688357f47844bfc99" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_60c826472078ae1d5419e43001dce417" parent="aspace_fb9214617525f3d688357f47844bfc99" type="folder">8</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>MIscellaneous</unittitle><unitdate normal="1990/1996" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_9362221a6740b722e5fec301aefb6958" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_1e8d7a99280841eeb2eb1aa8ab49e0b9" parent="aspace_9362221a6740b722e5fec301aefb6958" type="folder">9</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Peau Sensible #1 (Nov./Dec. 1991) - submissions, receipts, master copy</unittitle><unitdate>1991</unitdate><container altrender="Record carton" id="aspace_b929315784823395d5277138486790f1" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_d72f34ae57575e94b43fbc811ca949e2" parent="aspace_b929315784823395d5277138486790f1" type="folder">10</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Peau Sensible #2 (Winter 1992) - submissions</unittitle><unitdate>1992</unitdate><container altrender="Record carton" id="aspace_52afeb14b7ffb03cc371b5580a0fb9d3" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_730a8ba306a64841feabfaf7ec431318" parent="aspace_52afeb14b7ffb03cc371b5580a0fb9d3" type="folder">11</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Peau Sensible #3 (Spring 1992) - submissions, correspondence, master copy</unittitle><unitdate>1992</unitdate><container altrender="Record carton" id="aspace_ac794cb5c514ef00d95bc953b4d6f124" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_31cceaa9534dd4314318eb7f0b9bb2dd" parent="aspace_ac794cb5c514ef00d95bc953b4d6f124" type="folder">12</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Peau Sensible #3 (Spring 1992) - submissions, correspondence, clippings</unittitle><unitdate>1992</unitdate><container altrender="Record carton" id="aspace_dc12f14711840a2dc6f2197169a65150" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_30a26d5de602b7575bfe867b0c3c4137" parent="aspace_dc12f14711840a2dc6f2197169a65150" type="folder">13</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Peau Sensible #4 (Summer 1992) - submissions, receipts, master copy</unittitle><unitdate>1992</unitdate><container altrender="Record carton" id="aspace_6d59d72eab2cc7594b8dbb442ba174be" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_b3da7c955be9f49b2e3a53039b457489" parent="aspace_6d59d72eab2cc7594b8dbb442ba174be" type="folder">14</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Peau Sensible #4 (Summer 1992) - artwork submissions</unittitle><unitdate>1992</unitdate><container altrender="Record carton" id="aspace_794d034f5641f481d7d9d6b4acfbf459" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_64a31687c5fafbaff6ab3c4e9502e9e5" parent="aspace_794d034f5641f481d7d9d6b4acfbf459" type="folder">15</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Peau Sensible #4 (Summer 1992) - rejected submissions</unittitle><unitdate>1992</unitdate><container altrender="Record carton" id="aspace_7438659b9092e236e1f74e9b80934b3b" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_4c15ef6ef4eba33d27ad11a0e5918a63" parent="aspace_7438659b9092e236e1f74e9b80934b3b" type="folder">16</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Promotional - Readings/Event Announcements</unittitle><unitdate>1992</unitdate><container altrender="Record carton" id="aspace_bc21a7df665348ae1e74293ef421e678" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_b641f75294cb30590eecec15e34b46cd" parent="aspace_bc21a7df665348ae1e74293ef421e678" type="folder">17</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Sensitive Skin #5 (Summer/Fall 1993) - submissions, correspondence</unittitle><unitdate>1993</unitdate><container altrender="Record carton" id="aspace_ec14def9caf79639fc5e41e279e21cb6" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_ca4b38be444b741e0241b6aee7026a75" parent="aspace_ec14def9caf79639fc5e41e279e21cb6" type="folder">18</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Sensitive Skin #2 (Spring/Summer 1994) - submissions, correspondence, master copy</unittitle><unitdate>1994</unitdate><container altrender="Record carton" id="aspace_c2c10fcf79a3acb11cf7824d58c731bf" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_06bf80c25312b481ccccdc9494336e3e" parent="aspace_c2c10fcf79a3acb11cf7824d58c731bf" type="folder">19</container></did><odd id="aspace_2adbc4f1c41293769105271c2f8e1ad9"><head>General</head><p>[original folder titled "Sensitive Skin #6]</p></odd></c><c id="aspace_ref27" level="file"><did><unittitle>Submissions - Alternates A</unittitle><unitdate normal="1990/1996" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_e662d78115f472a2780a086622244ec3" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_d8bee211784aee5452950f49725eb5a9" parent="aspace_e662d78115f472a2780a086622244ec3" type="folder">20</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Submissions - Alternates A</unittitle><unitdate normal="1990/1996" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_1418fc6ca803363dcab6c62df7617a87" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_a7a5c969b7d7e13cbb8703d1685dbf28" parent="aspace_1418fc6ca803363dcab6c62df7617a87" type="folder">21</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Submissions - Alternates B</unittitle><unitdate normal="1990/1996" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_d9ead94cb5929087927d7c70050a400c" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_5e9865d66726c623ffbf7678931bcc68" parent="aspace_d9ead94cb5929087927d7c70050a400c" type="folder">22</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Submissions - "maybes"</unittitle><unitdate normal="1990/1996" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_cda80b392bbe969009e5da543e2948f2" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_e329ec6027624ac74c503e53ad7d03a2" parent="aspace_cda80b392bbe969009e5da543e2948f2" type="folder">23</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Submissions - misc.</unittitle><unitdate normal="1990/1996" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_258964f93baf0f039e7cb31cd3072621" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_c94f6cede779185ce974d2b41da6bc45" parent="aspace_258964f93baf0f039e7cb31cd3072621" type="folder">24</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Submissions - rejected artwork</unittitle><unitdate normal="1990/1996" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_e53e13ef8b00c4851abda753d4ef3493" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_4f04f0861e337d5d2eb3177c104ca716" parent="aspace_e53e13ef8b00c4851abda753d4ef3493" type="folder">25</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Submissions - to be read</unittitle><unitdate>1994-1995</unitdate><container altrender="Record carton" id="aspace_7894204b352da375979b45fcbedabb3c" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_5179a40171d6242a8f11ea2016c84e9d" parent="aspace_7894204b352da375979b45fcbedabb3c" type="folder">26</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Submissions - to be read</unittitle><unitdate>1995</unitdate><container altrender="Record carton" id="aspace_b0dad0bdefec230d39df0f0d9050d262" label="Mixed Materials [31142063599677]" type="box">1</container><container id="aspace_46da00a6dbadb7370de85b502dbf2005" parent="aspace_b0dad0bdefec230d39df0f0d9050d262" type="folder">27</container></did></c></dsc>
-</archdesc>
+      <persname source="naf">Sirowitz, Hal</persname>
+      <persname source="naf">Dawson, Fielding, 1930-2002</persname>
+      <persname source="naf">Giorno, John</persname>
+      <persname source="naf">Afflick, Lester, 1956-2000</persname>
+      <persname source="naf">Kolm, Ron</persname>
+      <persname source="naf">Sparrow, (American poet)</persname>
+      <persname source="naf">Mead, Taylor</persname>
+      <persname source="naf">Sukenick, Ronald</persname>
+      <persname source="naf">Kern, Richard</persname>
+      <persname rules="aacr" source="naf">Hell, Richard</persname>
+      <persname rules="aacr" source="naf">Rower, Ann, 1938-</persname>
+      <persname source="naf">Blagg, Max</persname>
+      <persname rules="aacr" source="naf">Myles, Eileen</persname>
+      <persname source="naf">Holman, Bob, 1948-</persname>
+      <persname source="naf">Carter, Michael -- Correspondence</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref2" level="file">
+        <did>
+          <unittitle>Business-related documentation </unittitle>
+          <unitdate normal="1991/1995" type="inclusive">circa 1991-1995</unitdate>
+          <container altrender="Record carton" id="aspace_699077f7b9f220b887fd4c67b2185d25" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_a7d74887597f26c30e78d1ed8bc9b927" parent="aspace_699077f7b9f220b887fd4c67b2185d25" type="folder">1</container>
+        </did>
+        <odd id="aspace_2dd17122d12a0d576c74b8f532b76b09">
+          <head>General</head>
+          <p>Incl. business certificate, ISSN Application, resumes, and other related files</p>
+        </odd>
+      </c>
+      <c id="aspace_ref11" level="file">
+        <did>
+          <unittitle>Clippings</unittitle>
+          <unitdate normal="1992/1995" type="inclusive">1992-1995</unitdate>
+          <container altrender="Record carton" id="aspace_45e8d0545d10f7db613e372ff5631ccc" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_4a3d415b4a1ea8e708de432694f2e471" parent="aspace_45e8d0545d10f7db613e372ff5631ccc" type="folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref4" level="file">
+        <did>
+          <unittitle>Correspondence - Misc.</unittitle>
+          <unitdate normal="1991/1995" type="inclusive">circa 1991-1995</unitdate>
+          <container altrender="Record carton" id="aspace_5bc06a1af1dc908cf5ec019deb856636" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_0f8fa27b8e052dd85b0b4fa2f2663940" parent="aspace_5bc06a1af1dc908cf5ec019deb856636" type="folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref6" level="file">
+        <did>
+          <unittitle>Financial Documentation - Stores and Distribution, Advertising</unittitle>
+          <unitdate normal="1993/1996" type="inclusive">1993-1996</unitdate>
+          <container altrender="Record carton" id="aspace_fdd7cadf69a5c76b114da7fc842e80e5" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_0cb8b586d2536fcc3313221969570299" parent="aspace_fdd7cadf69a5c76b114da7fc842e80e5" type="folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref7" level="file">
+        <did>
+          <unittitle>Grant Documentation</unittitle>
+          <unitdate normal="1990/1996" type="inclusive">undated</unitdate>
+          <container altrender="Record carton" id="aspace_6b0bbf95865ccee5a99bb9a24cc7b489" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_0ba14651bcf9bcddb06611ee150aa2d9" parent="aspace_6b0bbf95865ccee5a99bb9a24cc7b489" type="folder">5</container>
+        </did>
+        <odd id="aspace_223060f1d16a99ace6d4a8d2f2fad724">
+          <head>General</head>
+          <p>Incl. Financial documentation; NYSCA (1985-86) and NEA (1988-89) applications for Ikon Press</p>
+        </odd>
+      </c>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>Issues #1-5</unittitle>
+          <unitdate>1991-1993</unitdate>
+          <container altrender="Record carton" id="aspace_e50b8ee7b12ff376d00e51a5ac9eea13" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_535bb075bd9c24240e8a5a9689bef86d" parent="aspace_e50b8ee7b12ff376d00e51a5ac9eea13" type="folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Issue #5 - signed by contributors</unittitle>
+          <unitdate>1993</unitdate>
+          <container altrender="Record carton" id="aspace_ec25f2b930323ada4ccfe7e16579c738" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_2f6dedb3d0bf59b0434ee87752b613f1" parent="aspace_ec25f2b930323ada4ccfe7e16579c738" type="folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref5" level="file">
+        <did>
+          <unittitle>Mailing Lists</unittitle>
+          <unitdate normal="1990/1996" type="inclusive">undated</unitdate>
+          <container altrender="Record carton" id="aspace_fb9214617525f3d688357f47844bfc99" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_60c826472078ae1d5419e43001dce417" parent="aspace_fb9214617525f3d688357f47844bfc99" type="folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>MIscellaneous</unittitle>
+          <unitdate normal="1990/1996" type="inclusive">undated</unitdate>
+          <container altrender="Record carton" id="aspace_9362221a6740b722e5fec301aefb6958" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_1e8d7a99280841eeb2eb1aa8ab49e0b9" parent="aspace_9362221a6740b722e5fec301aefb6958" type="folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>Peau Sensible #1 (Nov./Dec. 1991) - submissions, receipts, master copy</unittitle>
+          <unitdate>1991</unitdate>
+          <container altrender="Record carton" id="aspace_b929315784823395d5277138486790f1" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_d72f34ae57575e94b43fbc811ca949e2" parent="aspace_b929315784823395d5277138486790f1" type="folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>Peau Sensible #2 (Winter 1992) - submissions</unittitle>
+          <unitdate>1992</unitdate>
+          <container altrender="Record carton" id="aspace_52afeb14b7ffb03cc371b5580a0fb9d3" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_730a8ba306a64841feabfaf7ec431318" parent="aspace_52afeb14b7ffb03cc371b5580a0fb9d3" type="folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Peau Sensible #3 (Spring 1992) - submissions, correspondence, master copy</unittitle>
+          <unitdate>1992</unitdate>
+          <container altrender="Record carton" id="aspace_ac794cb5c514ef00d95bc953b4d6f124" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_31cceaa9534dd4314318eb7f0b9bb2dd" parent="aspace_ac794cb5c514ef00d95bc953b4d6f124" type="folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Peau Sensible #3 (Spring 1992) - submissions, correspondence, clippings</unittitle>
+          <unitdate>1992</unitdate>
+          <container altrender="Record carton" id="aspace_dc12f14711840a2dc6f2197169a65150" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_30a26d5de602b7575bfe867b0c3c4137" parent="aspace_dc12f14711840a2dc6f2197169a65150" type="folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>Peau Sensible #4 (Summer 1992) - submissions, receipts, master copy</unittitle>
+          <unitdate>1992</unitdate>
+          <container altrender="Record carton" id="aspace_6d59d72eab2cc7594b8dbb442ba174be" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_b3da7c955be9f49b2e3a53039b457489" parent="aspace_6d59d72eab2cc7594b8dbb442ba174be" type="folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>Peau Sensible #4 (Summer 1992) - artwork submissions</unittitle>
+          <unitdate>1992</unitdate>
+          <container altrender="Record carton" id="aspace_794d034f5641f481d7d9d6b4acfbf459" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_64a31687c5fafbaff6ab3c4e9502e9e5" parent="aspace_794d034f5641f481d7d9d6b4acfbf459" type="folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>Peau Sensible #4 (Summer 1992) - rejected submissions</unittitle>
+          <unitdate>1992</unitdate>
+          <container altrender="Record carton" id="aspace_7438659b9092e236e1f74e9b80934b3b" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_4c15ef6ef4eba33d27ad11a0e5918a63" parent="aspace_7438659b9092e236e1f74e9b80934b3b" type="folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref10" level="file">
+        <did>
+          <unittitle>Promotional - Readings/Event Announcements</unittitle>
+          <unitdate>1992</unitdate>
+          <container altrender="Record carton" id="aspace_bc21a7df665348ae1e74293ef421e678" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_b641f75294cb30590eecec15e34b46cd" parent="aspace_bc21a7df665348ae1e74293ef421e678" type="folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Sensitive Skin #5 (Summer/Fall 1993) - submissions, correspondence</unittitle>
+          <unitdate>1993</unitdate>
+          <container altrender="Record carton" id="aspace_ec14def9caf79639fc5e41e279e21cb6" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_ca4b38be444b741e0241b6aee7026a75" parent="aspace_ec14def9caf79639fc5e41e279e21cb6" type="folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>Sensitive Skin #2 (Spring/Summer 1994) - submissions, correspondence, master copy</unittitle>
+          <unitdate>1994</unitdate>
+          <container altrender="Record carton" id="aspace_c2c10fcf79a3acb11cf7824d58c731bf" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_06bf80c25312b481ccccdc9494336e3e" parent="aspace_c2c10fcf79a3acb11cf7824d58c731bf" type="folder">19</container>
+        </did>
+        <odd id="aspace_2adbc4f1c41293769105271c2f8e1ad9">
+          <head>General</head>
+          <p>[original folder titled "Sensitive Skin #6]</p>
+        </odd>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>Submissions - Alternates A</unittitle>
+          <unitdate normal="1990/1996" type="inclusive">undated</unitdate>
+          <container altrender="Record carton" id="aspace_e662d78115f472a2780a086622244ec3" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_d8bee211784aee5452950f49725eb5a9" parent="aspace_e662d78115f472a2780a086622244ec3" type="folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>Submissions - Alternates A</unittitle>
+          <unitdate normal="1990/1996" type="inclusive">undated</unitdate>
+          <container altrender="Record carton" id="aspace_1418fc6ca803363dcab6c62df7617a87" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_a7a5c969b7d7e13cbb8703d1685dbf28" parent="aspace_1418fc6ca803363dcab6c62df7617a87" type="folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>Submissions - Alternates B</unittitle>
+          <unitdate normal="1990/1996" type="inclusive">undated</unitdate>
+          <container altrender="Record carton" id="aspace_d9ead94cb5929087927d7c70050a400c" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_5e9865d66726c623ffbf7678931bcc68" parent="aspace_d9ead94cb5929087927d7c70050a400c" type="folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>Submissions - "maybes"</unittitle>
+          <unitdate normal="1990/1996" type="inclusive">undated</unitdate>
+          <container altrender="Record carton" id="aspace_cda80b392bbe969009e5da543e2948f2" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_e329ec6027624ac74c503e53ad7d03a2" parent="aspace_cda80b392bbe969009e5da543e2948f2" type="folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>Submissions - misc.</unittitle>
+          <unitdate normal="1990/1996" type="inclusive">undated</unitdate>
+          <container altrender="Record carton" id="aspace_258964f93baf0f039e7cb31cd3072621" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_c94f6cede779185ce974d2b41da6bc45" parent="aspace_258964f93baf0f039e7cb31cd3072621" type="folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Submissions - rejected artwork</unittitle>
+          <unitdate normal="1990/1996" type="inclusive">undated</unitdate>
+          <container altrender="Record carton" id="aspace_e53e13ef8b00c4851abda753d4ef3493" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_4f04f0861e337d5d2eb3177c104ca716" parent="aspace_e53e13ef8b00c4851abda753d4ef3493" type="folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>Submissions - to be read</unittitle>
+          <unitdate>1994-1995</unitdate>
+          <container altrender="Record carton" id="aspace_7894204b352da375979b45fcbedabb3c" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_5179a40171d6242a8f11ea2016c84e9d" parent="aspace_7894204b352da375979b45fcbedabb3c" type="folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>Submissions - to be read</unittitle>
+          <unitdate>1995</unitdate>
+          <container altrender="Record carton" id="aspace_b0dad0bdefec230d39df0f0d9050d262" label="Mixed Materials [31142063599677]" type="box">1</container>
+          <container id="aspace_46da00a6dbadb7370de85b502dbf2005" parent="aspace_b0dad0bdefec230d39df0f0d9050d262" type="folder">27</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

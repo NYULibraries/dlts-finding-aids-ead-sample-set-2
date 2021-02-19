@@ -1,77 +1,1537 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/vaccaro">mss_321</eadid><filedesc><titlestmt><titleproper>Guide to the John Vaccaro and the Play-House of the Ridiculous Papers <num>MSS.321</num></titleproper><author>Colin Torre</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>2012</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:11:10 -0500</date>.</creation><langusage>Finding aid written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>September 2018</date><item>Updated by Jasmine Larkin to include unprocessed publications, ephemera, and project files from accession number 2011.321, and edited for compliance with DACS and ACM Required Elements for Archival Description.</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Fales Library and Special Collections</corpname>
-    </repository>
-    <unittitle>John Vaccaro and the Play-House of the Ridiculous Papers</unittitle>
-    <origination label="Creator">
-      <persname rules="dacs" source="local">Vaccaro, John</persname>
-    </origination>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/vaccaro">mss_321</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the John Vaccaro and the Play-House of the Ridiculous Papers <num>MSS.321</num></titleproper>
+        <author>Colin Torre</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>2012</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:11:10 -0500</date>.</creation>
+      <langusage>Finding aid written in English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>September 2018</date>
+        <item>Updated by Jasmine Larkin to include unprocessed publications, ephemera, and project files from accession number 2011.321, and edited for compliance with DACS and ACM Required Elements for Archival Description.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>John Vaccaro and the Play-House of the Ridiculous Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Vaccaro, John</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Vaccaro, John</persname>
+      </origination>
+      <unitid>MSS.321</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">8.25 Linear Feet</extent>
+        <extent altrender="carrier">in 3 records cartons, 5 flat boxes, 4 manuscript boxes, 2 oversize flat boxes, 2 flat file folders, and 1 half manuscript box.</extent>
+      </physdesc>
+      <unitdate normal="1959/2005" type="inclusive">1959-2005</unitdate>
+      <abstract id="aspace_2c0be1a926d9d14b974f49be3837100b">John Vaccaro is an actor and theatrical director who became a primary figure of the Off-Off Broadway and gay theater communities in New York City. The John Vaccaro Papers preserve the items related to Vaccaro's theatrical productions, including scripts, correspondence, photographs, posters and critical notices. Materials date from 1959 to 2005.</abstract>
+      <physloc id="aspace_9819f140de62172d88a03fc5bc537816">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_21d27601d05a66401ec38afaba4100d8">Materials primarily in English, with some publications in French, German, Italian, and Dutch.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_f63b5f62e1f2f6e8528f235af1cf8050">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_55282cd362ded286448c1255e85728fd">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by John Vaccaro, 2011. The accession number associated with this gift is 2011.321.</p>
+    </acqinfo>
+    <arrangement id="aspace_edc67350cc84933bd7a2d8f467c52128">
+      <head>Arrangement</head>
+      <p>The collection is arranged into 4 series. Oversize materials are listed at the end of the finding aid.</p>
+      <list type="ordered">
+        <item>Series I: Projects</item>
+        <item>Series II: Posters and Ephemera</item>
+        <item>Series III: Photographs</item>
+        <item>Series IV: Publications</item>
+        <item>Oversize - Series I: Projects</item>
+        <item>Oversize - Series II: Posters and Ephemera</item>
+      </list>
+    </arrangement>
+    <bioghist id="aspace_18c5ca636ddf386a8e220afc647f631b">
+      <head>Biographical Note</head>
+      <p>John Vaccaro was born in Steubenville, Ohio on December 6, 1929. After serving in the U.S. Navy from 1951-1955, and receiving a B.A. in English from Ohio State University in 1961, he moved to New York City and became involved in the underground art and film community of the early sixties. After acting in Jack Smith's <emph render="italic">Normal Love</emph> and <emph render="italic">Flaming Creatures</emph>, and performing in the "Happenings" of Robert Whitman and Walter DeMaria, Vaccaro founded the Play-House of the Ridiculous in the summer of 1965. Early collaborators and playwrights in this community included Ronald Tavel, Charles Ludlam and Kenneth Bernard. In 1967, during preparatory work for a production of Ludlam's play <emph render="italic">Conquest of the Universe, or When Queens Collide</emph> Vaccaro and Ludlam came to a disagreement and split into competing companies (Vaccaro retained the Play-House of the Ridiculous; Ludlam founded the Ridiculous Theatrical Company).  </p>
+      <p>Vaccaro's productions were staged at the Coda Gallery, La Mama ETC, the Gotham Art Theater, Max's Kansas City, The American Place Theater, and other Off-Broadway and Off-Off-Broadway venues in New York. In 1970 Vaccaro received a special citation OBIE award. While sometimes performing in and writing the music for his own productions, Vaccaro took his companies on tours of Europe throughout the 1970s and served as director of the Native American Theatrical Ensemble. His theatrical influences include Alfred Jarry, Amiri Baraka, Eugene Ionesco, Charlie Chaplin, Antonin Artaud, and Jack Smith. In addition to the non-professional actors often employed in his productions, Vaccaro is associated with a variety of figures from the New York art and theater worlds, including Taylor Mead, Beverly Grant, Mary Woronov, Rene Ricard, Rosalyn Drexler, Ultra Violet, and Richard Weinstock. Vaccaro has lectured at a number universities and workshops, and has directed performances of his productions for the BBC and Dutch television.</p>
+      <p>
+        <emph render="bold">Partial List of Productions (as director)</emph>
+      </p>
+      <p>"Life of Juanita Castro" by Ronald Tavel (1965)</p>
+      <p>"Shower" by Ronald Tavel (1965)</p>
+      <p>"The Life of Lady Godiva" by Ronald Tavel (1966)</p>
+      <p>"Screen Test"/"Indira Gandhi's Daring Device" both by Ronald Tavel (1966)</p>
+      <p>"Big Hotel" by Charles Ludlam (1967)</p>
+      <p>"Conquest of the Universe" by Charles Ludlam (1967)</p>
+      <p>"The Moke Eater" by Kenneth Bernard (1968)</p>
+      <p>"Monkeys of the Organ Grinder" by Kenneth Bernard (1969)</p>
+      <p>"Cock Strong" by Tom Murrin (1969)</p>
+      <p>"Heaven Grand In Amber Orbit" by Jackie Curtis (1969)</p>
+      <p>"Son of Cock Strong" by Tom Murrin (1970)</p>
+      <p>"Night Club" by Kenneth Bernard (1970)</p>
+      <p>"XXXXX" by William M. HOffman (1970)</p>
+      <p>"Life of Lady Godiva" by Ronald Tavel (1971)</p>
+      <p>"The Life of Juanita Castro" by Ronald Tavel (1971)</p>
+      <p>"Persia, A Desert Cheapie" by Bernard Roth &amp; Vaccaro (1972)</p>
+      <p>"Sissy" by Seth Allen (1972)</p>
+      <p>"Satyricon" by Paul Foster (1973)</p>
+      <p>"Elegy for a Down Queen" by Leslie Lee (1973)</p>
+      <p>"Body Indian" by Hanay Getgoman (1973-1974)</p>
+      <p>"The Magic Show of Dr. Magico" by Kenneth Bernard (1973-1974)</p>
+      <p>"La Bohemia" by Vaccaro (1974)</p>
+      <p>"Workshop of Y.M.C.A." by Gerome Ragni &amp; James Rado (1975-1976)</p>
+      <p>"The Sixty Minute Queer Show" by Kenneth Bernard (1977)</p>
+      <p>"Juba" by Lawrence Holder (1978)</p>
+      <p>"Gulliver's Travels" by William M. Hoffman (1978)</p>
+      <p>"The Book of Etiquette" by William M. Hoffman (1979)</p>
+      <p>"The Writer's Opera" by Rosalyn Drexler (1979)</p>
+      <p>"Derby" by Barry Arnold (1979)</p>
+      <p>"Vulgar Lives" by Rosalyn Drexler (1979)</p>
+      <p>"Graven Image" by Rosalyn Drexler (1980)</p>
+      <p>"Flop" by Seth Allen (1980)</p>
+      <p>"A Midsummer Night's Dream" by William Shakespeare (1980)</p>
+      <p>"Starburn" by Rosalyn Drexler (1983)</p>
+      <p>"La Fin du Cirque" by Kenneth Bernard (1984)</p>
+      <p>"Transients Welcome" by Rosalyn Drexler (1984-1985)</p>
+      <p>"Goatman" by Raymond Schanz (1986)</p>
+      <p>"The Heart That Eats Itself" by Rosalyn Drexler (1987)</p>
+      <p>"Cara Pina" by Rosalyn Drexler (1992)</p>
+    </bioghist>
+    <prefercite id="aspace_36dd7dc7d8b081a6b8ceb2eccbfe211b">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; John Vaccaro and the Play-House of the Ridiculous Papers; MSS 321; box number; folder number; Fales Library and Special Collections, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_26f192e709816e1b71cbe9636582fa1a">
+      <head>Processing Information</head>
+      <p>Processing decisions made prior to September 2018 have not been recorded. </p>
+      <p>In September 2018, unprocessed publications, ephemera, and project files were housed in archival folders and boxes.</p>
+    </processinfo>
+    <scopecontent id="aspace_486f3dcf0a27b96791a485889c2ffabd">
+      <head>Scope and Contents</head>
+      <p>The John Vaccaro and the Play-House of the Ridiculous Papers contain materials that document Vaccaro's professional theatrical career, ranging from the early 1960s through 2005. The collection preserves Vaccaro's primarily collaborative work, including scripts, notebooks, articles, essays, and correspondence that date back to his early career as an actor in the emerging world of Off-Off Broadway theater in New York. Elements include source material for his productions as well as promotional material in the form of ephemera, flyers, festival programs, posters and postcards. This body of components also includes the work of collaborating playwrights, and material related to the theatrical and Greenwich Village communities of the 1960s, 70s and 80s. In addition, this collection includes professional and personal correspondence, production and personal photography, original illustrations, publications, and a scrapbook. Materials date from 1959 to 2005.</p>
+    </scopecontent>
+    <userestrict id="aspace_6781ade1bfa99713ba4e34dd7e20d0ee">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by John Vaccaro was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Experimental theater -- New York (State) -- New York.</subject>
+      <subject source="lcsh">Off Off-Broadway theater.</subject>
+      <subject source="lcsh">Off-Broadway theater</subject>
+      <subject source="local">Downtown Collection.</subject>
+      <genreform source="aat">Plays (performed works)</genreform>
+      <subject source="lcsh">Playwriting.</subject>
+      <subject source="lcsh">Theatrical producers and directors.</subject>
+      <subject source="lcsh">Actors.</subject>
       <persname role="dnr" rules="dacs" source="local">Vaccaro, John</persname>
-    </origination>
-    <unitid>MSS.321</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">8.25 Linear Feet</extent>
-      <extent altrender="carrier">in 3 records cartons, 5 flat boxes, 4 manuscript boxes, 2 oversize flat boxes, 2 flat file folders, and 1 half manuscript box.</extent>
-    </physdesc>
-    <unitdate normal="1959/2005" type="inclusive">1959-2005</unitdate>
-    <abstract id="aspace_2c0be1a926d9d14b974f49be3837100b">John Vaccaro is an actor and theatrical director who became a primary figure of the Off-Off Broadway and gay theater communities in New York City. The John Vaccaro Papers preserve the items related to Vaccaro's theatrical productions, including scripts, correspondence, photographs, posters and critical notices. Materials date from 1959 to 2005.</abstract>
-    <physloc id="aspace_9819f140de62172d88a03fc5bc537816">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-    <langmaterial id="aspace_21d27601d05a66401ec38afaba4100d8">Materials primarily in English, with some publications in French, German, Italian, and Dutch.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_f63b5f62e1f2f6e8528f235af1cf8050">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_55282cd362ded286448c1255e85728fd">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by John Vaccaro, 2011. The accession number associated with this gift is 2011.321.</p>  </acqinfo>
-  <arrangement id="aspace_edc67350cc84933bd7a2d8f467c52128">
-    <head>Arrangement</head>
-<p>The collection is arranged into 4 series. Oversize materials are listed at the end of the finding aid.</p>    <list type="ordered">
-      <item>Series I: Projects</item>
-      <item>Series II: Posters and Ephemera</item>
-      <item>Series III: Photographs</item>
-      <item>Series IV: Publications</item>
-      <item>Oversize - Series I: Projects</item>
-      <item>Oversize - Series II: Posters and Ephemera</item>
-    </list>
-  </arrangement>
-  <bioghist id="aspace_18c5ca636ddf386a8e220afc647f631b">
-    <head>Biographical Note</head>
-<p>John Vaccaro was born in Steubenville, Ohio on December 6, 1929. After serving in the U.S. Navy from 1951-1955, and receiving a B.A. in English from Ohio State University in 1961, he moved to New York City and became involved in the underground art and film community of the early sixties. After acting in Jack Smith's <emph render="italic">Normal Love</emph> and <emph render="italic">Flaming Creatures</emph>, and performing in the "Happenings" of Robert Whitman and Walter DeMaria, Vaccaro founded the Play-House of the Ridiculous in the summer of 1965. Early collaborators and playwrights in this community included Ronald Tavel, Charles Ludlam and Kenneth Bernard. In 1967, during preparatory work for a production of Ludlam's play <emph render="italic">Conquest of the Universe, or When Queens Collide</emph> Vaccaro and Ludlam came to a disagreement and split into competing companies (Vaccaro retained the Play-House of the Ridiculous; Ludlam founded the Ridiculous Theatrical Company).  </p><p>Vaccaro's productions were staged at the Coda Gallery, La Mama ETC, the Gotham Art Theater, Max's Kansas City, The American Place Theater, and other Off-Broadway and Off-Off-Broadway venues in New York. In 1970 Vaccaro received a special citation OBIE award. While sometimes performing in and writing the music for his own productions, Vaccaro took his companies on tours of Europe throughout the 1970s and served as director of the Native American Theatrical Ensemble. His theatrical influences include Alfred Jarry, Amiri Baraka, Eugene Ionesco, Charlie Chaplin, Antonin Artaud, and Jack Smith. In addition to the non-professional actors often employed in his productions, Vaccaro is associated with a variety of figures from the New York art and theater worlds, including Taylor Mead, Beverly Grant, Mary Woronov, Rene Ricard, Rosalyn Drexler, Ultra Violet, and Richard Weinstock. Vaccaro has lectured at a number universities and workshops, and has directed performances of his productions for the BBC and Dutch television.</p><p>
-<emph render="bold">Partial List of Productions (as director)</emph></p><p>"Life of Juanita Castro" by Ronald Tavel (1965)</p><p>"Shower" by Ronald Tavel (1965)</p><p>"The Life of Lady Godiva" by Ronald Tavel (1966)</p><p>"Screen Test"/"Indira Gandhi's Daring Device" both by Ronald Tavel (1966)</p><p>"Big Hotel" by Charles Ludlam (1967)</p><p>"Conquest of the Universe" by Charles Ludlam (1967)</p><p>"The Moke Eater" by Kenneth Bernard (1968)</p><p>"Monkeys of the Organ Grinder" by Kenneth Bernard (1969)</p><p>"Cock Strong" by Tom Murrin (1969)</p><p>"Heaven Grand In Amber Orbit" by Jackie Curtis (1969)</p><p>"Son of Cock Strong" by Tom Murrin (1970)</p><p>"Night Club" by Kenneth Bernard (1970)</p><p>"XXXXX" by William M. HOffman (1970)</p><p>"Life of Lady Godiva" by Ronald Tavel (1971)</p><p>"The Life of Juanita Castro" by Ronald Tavel (1971)</p><p>"Persia, A Desert Cheapie" by Bernard Roth &amp; Vaccaro (1972)</p><p>"Sissy" by Seth Allen (1972)</p><p>"Satyricon" by Paul Foster (1973)</p><p>"Elegy for a Down Queen" by Leslie Lee (1973)</p><p>"Body Indian" by Hanay Getgoman (1973-1974)</p><p>"The Magic Show of Dr. Magico" by Kenneth Bernard (1973-1974)</p><p>"La Bohemia" by Vaccaro (1974)</p><p>"Workshop of Y.M.C.A." by Gerome Ragni &amp; James Rado (1975-1976)</p><p>"The Sixty Minute Queer Show" by Kenneth Bernard (1977)</p><p>"Juba" by Lawrence Holder (1978)</p><p>"Gulliver's Travels" by William M. Hoffman (1978)</p><p>"The Book of Etiquette" by William M. Hoffman (1979)</p><p>"The Writer's Opera" by Rosalyn Drexler (1979)</p><p>"Derby" by Barry Arnold (1979)</p><p>"Vulgar Lives" by Rosalyn Drexler (1979)</p><p>"Graven Image" by Rosalyn Drexler (1980)</p><p>"Flop" by Seth Allen (1980)</p><p>"A Midsummer Night's Dream" by William Shakespeare (1980)</p><p>"Starburn" by Rosalyn Drexler (1983)</p><p>"La Fin du Cirque" by Kenneth Bernard (1984)</p><p>"Transients Welcome" by Rosalyn Drexler (1984-1985)</p><p>"Goatman" by Raymond Schanz (1986)</p><p>"The Heart That Eats Itself" by Rosalyn Drexler (1987)</p><p>"Cara Pina" by Rosalyn Drexler (1992)</p>  </bioghist>
-  <prefercite id="aspace_36dd7dc7d8b081a6b8ceb2eccbfe211b">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; John Vaccaro and the Play-House of the Ridiculous Papers; MSS 321; box number; folder number; Fales Library and Special Collections, New York University.</p>  </prefercite>
-  <processinfo id="aspace_26f192e709816e1b71cbe9636582fa1a">
-    <head>Processing Information</head>
-<p>Processing decisions made prior to September 2018 have not been recorded. </p><p>In September 2018, unprocessed publications, ephemera, and project files were housed in archival folders and boxes.</p>  </processinfo>
-  <scopecontent id="aspace_486f3dcf0a27b96791a485889c2ffabd">
-    <head>Scope and Contents</head>
-<p>The John Vaccaro and the Play-House of the Ridiculous Papers contain materials that document Vaccaro's professional theatrical career, ranging from the early 1960s through 2005. The collection preserves Vaccaro's primarily collaborative work, including scripts, notebooks, articles, essays, and correspondence that date back to his early career as an actor in the emerging world of Off-Off Broadway theater in New York. Elements include source material for his productions as well as promotional material in the form of ephemera, flyers, festival programs, posters and postcards. This body of components also includes the work of collaborating playwrights, and material related to the theatrical and Greenwich Village communities of the 1960s, 70s and 80s. In addition, this collection includes professional and personal correspondence, production and personal photography, original illustrations, publications, and a scrapbook. Materials date from 1959 to 2005.</p>  </scopecontent>
-  <userestrict id="aspace_6781ade1bfa99713ba4e34dd7e20d0ee">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by John Vaccaro was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <controlaccess>
-    <subject source="lcsh">Experimental theater -- New York (State) -- New York.</subject>
-    <subject source="lcsh">Off Off-Broadway theater.</subject>
-    <subject source="lcsh">Off-Broadway theater</subject>
-    <subject source="local">Downtown Collection.</subject>
-    <genreform source="aat">Plays (performed works)</genreform>
-    <subject source="lcsh">Playwriting.</subject>
-    <subject source="lcsh">Theatrical producers and directors.</subject>
-    <subject source="lcsh">Actors.</subject>
-    <persname role="dnr" rules="dacs" source="local">Vaccaro, John</persname>
-    <persname source="naf">Bernard, Kenneth</persname>
-    <persname source="naf">Drexler, Rosalyn</persname>
-    <persname source="naf">Ludlam, Charles</persname>
-    <persname source="naf">Tavel, Ronald</persname>
-    <corpname source="naf">La Mama Experimental Theatre Club</corpname>
-    <corpname rules="dacs" source="local">Play-House of the Ridiculous</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref1" level="series"><did><unittitle>Series I: Projects</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2.75 Linear Feet</extent><extent altrender="carrier">in 2 record cartons, 1 manuscript box, and 1 half manuscript box.</extent></physdesc><unitdate normal="1959/1992" type="inclusive">1959-1992</unitdate></did><scopecontent id="aspace_45df280fcd172ffc43119db56a42bd03"><head>Scope and Contents</head><p>Series I: Projects contains the work of John Vaccaro and others. Materials inculde press clippings, screenplays, contracts, and ephemera generally related to the titular project. Materials date from 1959 to 1992.</p></scopecontent><arrangement id="aspace_f7f1ae0d758ff51656d84720d0267146"><head>Arrangement</head><p>Series I: Projects is organized alphabetically by project title.</p></arrangement><c id="aspace_ref6" level="file"><did><unittitle>American Indians N.A.T.E.</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">9 media elements</extent><extent altrender="carrier">
-</extent></physdesc><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Record carton" id="aspace_fb27caf6f9910ab82208584ee3270b04" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_c9f21a80a88cd6c719c4d72d9e7d8db6" parent="aspace_fb27caf6f9910ab82208584ee3270b04" type="folder">1</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>"American Indians (Niagara Falls)"</unittitle><unitdate normal="1973/1981" type="inclusive">1973, 1981</unitdate><container altrender="Record carton" id="aspace_3a375bba64dc589fd8961c2d9e56974d" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_4003344c68873592bc9665ccf01aeeff" parent="aspace_3a375bba64dc589fd8961c2d9e56974d" type="folder">2</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>"Article About Cino etc."</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">29 media elements</extent></physdesc><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_5403a2f1ecc2ecc4696be05cae324285" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_88db79aaf48993c906ff71211854776d" parent="aspace_5403a2f1ecc2ecc4696be05cae324285" type="folder">3</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Big Hotel</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">10 media elements</extent></physdesc><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record carton" id="aspace_cb12b9377e9f03063e4208a218fd54b4" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_3f3eb4563f84ff6780dd6428c0c2efb8" parent="aspace_cb12b9377e9f03063e4208a218fd54b4" type="folder">4</container></did><controlaccess><persname role="wam" source="naf">Ludlam, Charles -- History-Sources</persname></controlaccess></c><c id="aspace_ref10" level="file"><did><unittitle>Body Indian I and II</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">3 media elements</extent></physdesc><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_c5062faf802bef31b7fc4d10c2ac03e6" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_108bc03b63c87a1d9c303a6c1c440234" parent="aspace_c5062faf802bef31b7fc4d10c2ac03e6" type="folder">5</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>"The Book of Etiquette"</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">16 media elements</extent></physdesc><unitdate normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Record carton" id="aspace_7725a8ff325ae42ecdf0f7d197964a04" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_29f243b55cc5fd9484771dc0abb4d065" parent="aspace_7725a8ff325ae42ecdf0f7d197964a04" type="folder">6</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Cara Pina Script</unittitle><unitdate normal="1992/1992" type="inclusive">1992</unitdate><container altrender="Record carton" id="aspace_97dc9e653a601292aede5d5b20c1a28d" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_a27c88b141019e93418fcd8ad43fdb36" parent="aspace_97dc9e653a601292aede5d5b20c1a28d" type="folder">7</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Cockstrong</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">73 media elements</extent></physdesc><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Record carton" id="aspace_ed03537606ac41afb4aa195d35250a8f" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_0029c1821f801575507e0164ab1ae296" parent="aspace_ed03537606ac41afb4aa195d35250a8f" type="folder">8</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>"Colleges (Lectures)"</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_fb2aa951b96576e1746906aba0c7e6d6" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_554b7e2d9d7e0c7616887576d1bdeae4" parent="aspace_fb2aa951b96576e1746906aba0c7e6d6" type="folder">9</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Conquest of the Universe Script</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_7d4e044976101e8566643fa46f45645d" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_ca155890b19f5c3ed96a5a3bb73ac224" parent="aspace_7d4e044976101e8566643fa46f45645d" type="folder">10</container></did></c><c id="aspace_b379e04a4c2cb0c03828109c28434429" level="file"><did><unittitle>Conquest of the Universe Contract</unittitle><unitdate normal="1967/1967">1967</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9232436c05564cf2c0372ac09126d0ff" label="Mixed Materials [31142062723229]" type="box">11</container><container id="aspace_51d0424e811d333e3016c89f0e38df12" parent="aspace_9232436c05564cf2c0372ac09126d0ff" type="folder">1</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Conquest of the Universe 1 of 2</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record carton" id="aspace_f4adc708af70a8b775d389c6e588d776" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_f2923b8759262e68dd859aba75e24b2e" parent="aspace_f4adc708af70a8b775d389c6e588d776" type="folder">11</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Conquest of the Universe 2 of 2</unittitle><unitdate normal="1967/1968" type="inclusive">1967, 1968</unitdate><container altrender="Record carton" id="aspace_311d40dfddda8a8c7df6183840c9c5dc" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_0b0da2c24db02fb2ec024cc76d15f75c" parent="aspace_311d40dfddda8a8c7df6183840c9c5dc" type="folder">12</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Derby Script</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_7fe05a1e72bac21610e517e834d6582d" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_822cc10dc316082ed58465b234776b6d" parent="aspace_7fe05a1e72bac21610e517e834d6582d" type="folder">13</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>The Derby</unittitle><unitdate normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Record carton" id="aspace_890b38ce868549542132fe47671aea3f" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_c5a94acf3136c0ecd56c69c8b4a83376" parent="aspace_890b38ce868549542132fe47671aea3f" type="folder">14</container></did></c><c id="aspace_9034026424e071298e0038270ade8f0e" level="file"><did><unittitle>The Destruction of Atlantis Rehersal</unittitle><unitdate normal="1965/1965">1965</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_75fc66c839e791d76dcac0036309bc08" label="Mixed Materials [31142062723229]" type="box">11</container><container id="aspace_d9e9234f673080c4a1a72f5fee4479dc" parent="aspace_75fc66c839e791d76dcac0036309bc08" type="folder">2</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Dr. Magico</unittitle><unitdate normal="1973/1979" type="inclusive">1973, 1979</unitdate><container altrender="Record carton" id="aspace_fe98640ac3e2a9973958bd590f7bf0f5" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_23fea391da7fa66546a7a3481a9a10a7" parent="aspace_fe98640ac3e2a9973958bd590f7bf0f5" type="folder">15</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Etiquette Script</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_937fd4cf01af5cb24eca8d60675348ae" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_8c82e9a6ec0ac6fe9884529494f3d747" parent="aspace_937fd4cf01af5cb24eca8d60675348ae" type="folder">16</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Etiquette Revival</unittitle><unitdate normal="1978/1986" type="inclusive">1978, 1986</unitdate><container altrender="Record carton" id="aspace_1667072a50642240a335c9caa86dbb40" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_22c31f122d85e038061365082aec7d7f" parent="aspace_1667072a50642240a335c9caa86dbb40" type="folder">17</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Evergreen Review</unittitle><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Record carton" id="aspace_ae760bd673c34b613ff4861069611b6d" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_11305cdd1aad517ae55265c79582b83a" parent="aspace_ae760bd673c34b613ff4861069611b6d" type="folder">18</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Flop</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_8228c8a6bef469d6e863a435ce067d34" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_b642a5816a6a8b0bffc23427852de916" parent="aspace_8228c8a6bef469d6e863a435ce067d34" type="folder">19</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Flop Script</unittitle><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Record carton" id="aspace_c220fb4976703c86a8f1a29d1b0c7d80" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_571a1e1228fe96cae6969d3c312c6925" parent="aspace_c220fb4976703c86a8f1a29d1b0c7d80" type="folder">20</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Goatman</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Record carton" id="aspace_f6ef49be0f9509e264cd52375f0a2598" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_88f2fd2ecc1c5685813fc05147dd8b58" parent="aspace_f6ef49be0f9509e264cd52375f0a2598" type="folder">21</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Goatman Script</unittitle><unitdate normal="1984/1984" type="inclusive">1984</unitdate><container altrender="Record carton" id="aspace_e4b37e40a174c5763c0288e74671dcdd" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_409ea457d74c12146839d4617ea39751" parent="aspace_e4b37e40a174c5763c0288e74671dcdd" type="folder">22</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Graven Image Script</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_07a029a1d852099e558815580d1a03fc" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_0b4846e2df642b8942eda8100969c747" parent="aspace_07a029a1d852099e558815580d1a03fc" type="folder">23</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Graven Image</unittitle><unitdate normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Record carton" id="aspace_6eb8c3450fe14b520ffa75f725e453d5" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_9f03f061223531b84603ff41dd8e7d16" parent="aspace_6eb8c3450fe14b520ffa75f725e453d5" type="folder">24</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Gulliver's Travels Script</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_a9ad0b16d3c00b64f14e80cd31577fa1" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_e0a5c7fd41a78856c805d492c253b04a" parent="aspace_a9ad0b16d3c00b64f14e80cd31577fa1" type="folder">25</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Gulliver's Travels</unittitle><unitdate normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Record carton" id="aspace_0fbba1a61102372340d8dd719207f8bd" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_b8a7bda5a1c5afff2632a1fe9fb4af6a" parent="aspace_0fbba1a61102372340d8dd719207f8bd" type="folder">26</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>The Heart That Eats Itself</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Record carton" id="aspace_beec5d3d0f7a75d834499b2b3b877387" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_43a6b77183183d417f10acee96c6e2ca" parent="aspace_beec5d3d0f7a75d834499b2b3b877387" type="folder">27</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>The Heart That Eats Itself Script</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Record carton" id="aspace_72675ac51e2ddcd74e23a4e6915ee25e" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_c41b3782799573f694339422daf04252" parent="aspace_72675ac51e2ddcd74e23a4e6915ee25e" type="folder">28</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Heaven Grand 1 of 2</unittitle><unitdate normal="1969/1976" type="inclusive">1969-1976</unitdate><container altrender="Record carton" id="aspace_a191e79ccb5b47211f0141a5b092067b" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_b8b00b550ca24afacfe4252439872483" parent="aspace_a191e79ccb5b47211f0141a5b092067b" type="folder">29</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Heaven Grand 2 of 2</unittitle><unitdate normal="1969/1976" type="inclusive">1969 - 1976</unitdate><container altrender="Record carton" id="aspace_e4eddc3e37cbef744b90e5873480d518" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_5da0801e01a9deb8ecdf251f3282d65e" parent="aspace_e4eddc3e37cbef744b90e5873480d518" type="folder">30</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Heaven Grand Script</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_03e9bed790f5ef479a2c1ae8562efbba" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_1f373e9b7685c688d54a0b6cedc5904f" parent="aspace_03e9bed790f5ef479a2c1ae8562efbba" type="folder">31</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>"Indira Gandhi"</unittitle><unitdate normal="1966/1967" type="inclusive">1966, 1967</unitdate><container altrender="Record carton" id="aspace_81e8670877819a0e28702a9017321b08" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_0d339dbec187fe34a2c8e695b80573b3" parent="aspace_81e8670877819a0e28702a9017321b08" type="folder">32</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Indira Gandhi's Daring Device Script</unittitle><unitdate normal="1965/1966" type="inclusive">1965, 1966</unitdate><container altrender="Record carton" id="aspace_64c2268595eb2ea33800843fdb75aa86" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_e3bdcf5d624309400132c9a2bc96dfa4" parent="aspace_64c2268595eb2ea33800843fdb75aa86" type="folder">33</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Juba</unittitle><unitdate normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Record carton" id="aspace_2edfe81bec33e6fa6a72a1d7ff3b636b" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_ad1b4536a89872ec4bf3475f2bf7c3a0" parent="aspace_2edfe81bec33e6fa6a72a1d7ff3b636b" type="folder">34</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Juba Script</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_ef67b0d7416ad805a36e097704de14b2" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_fd9527e732f67f5c1fd82ade62c94ef0" parent="aspace_ef67b0d7416ad805a36e097704de14b2" type="folder">35</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>La Bohemia</unittitle><unitdate>1974</unitdate><container altrender="Record carton" id="aspace_d524a612f98476c55cb74bed1264e994" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_beeaa7ecb6a1de4efde2684293bcddf9" parent="aspace_d524a612f98476c55cb74bed1264e994" type="folder">36</container></did></c><c id="aspace_8dc266d6a9d91953b4142a3340bb74c5" level="file"><did><unittitle>Lady Godiva Contract</unittitle><unitdate normal="1969/1969">1969</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5b0e696d97e2665f007dff8f3214f0fb" label="Mixed Materials [31142062723229]" type="box">11</container><container id="aspace_a85842d93aa5eae0cbeea9074a416d67" parent="aspace_5b0e696d97e2665f007dff8f3214f0fb" type="folder">3</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>La Fin Du Cirque Script</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_caeb00d83bc8b29743513d1a58af73e8" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_84c77b97f097773297c4604dcf49daa9" parent="aspace_caeb00d83bc8b29743513d1a58af73e8" type="folder">37</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>La Fin Du Cirque</unittitle><unitdate normal="1984/1984" type="inclusive">1984</unitdate><container altrender="Record carton" id="aspace_daff1c11bebeee29eb43db5e79776a0d" label="Mixed Materials [31142063599685]" type="box">1</container><container id="aspace_fed838766b1822541ba7e76c3055fb6a" parent="aspace_daff1c11bebeee29eb43db5e79776a0d" type="folder">38</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>La Justice Script</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_a1f1b54acccafd234f8008bc797b34b2" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_060263f431d27a3663de15bf12d8b504" parent="aspace_a1f1b54acccafd234f8008bc797b34b2" type="folder">1</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>"Le Justice"</unittitle><unitdate normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Record carton" id="aspace_bda36fbfbdb58b2b50300a9708280c09" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_b8068c436bac0e1669dc384ff8fa82b5" parent="aspace_bda36fbfbdb58b2b50300a9708280c09" type="folder">2</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>The Life of Lady Godiva</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_fbc4d1c54df1f0f9c03d34e085c81b94" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_69243da53dd4d0d5945ae05a356f831b" parent="aspace_fbc4d1c54df1f0f9c03d34e085c81b94" type="folder">3</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Midsummer Night's Dream</unittitle><unitdate normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Record carton" id="aspace_0b75bedb5c7bfd75af31dc3d14aaed15" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_8da8d12e4afa2295587b1b51b040c138" parent="aspace_0b75bedb5c7bfd75af31dc3d14aaed15" type="folder">4</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate normal="1959/1986" type="inclusive">1959 - 1986</unitdate><container altrender="Record carton" id="aspace_b06053031cd5edaf223014cc7b0ef865" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_9b1f4133bba16460e9fd8e8852caf5b6" parent="aspace_b06053031cd5edaf223014cc7b0ef865" type="folder">5</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Moke-Eater</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record carton" id="aspace_728851a02fae98b3135a6efc181f0c37" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_83eed849659b9fb90222f7c095005331" parent="aspace_728851a02fae98b3135a6efc181f0c37" type="folder">6</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Moke-Eater Script</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_af2e9ce981c05286309e69a748f46578" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_bde522c95e4a37283655ea8566daf34c" parent="aspace_af2e9ce981c05286309e69a748f46578" type="folder">7</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Monkeys of the Organ Grinder</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_0bd32969eeecca210447b226598334b2" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_8d7d7983445be82d680f0d075307b72f" parent="aspace_0bd32969eeecca210447b226598334b2" type="folder">8</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>The New Yorker</unittitle><unitdate normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Record carton" id="aspace_c53786f929a9ff14456c05dd46355349" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_02faf3283f2530c082e6ce914405e553" parent="aspace_c53786f929a9ff14456c05dd46355349" type="folder">9</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Night Club Script</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_aac7b5ec36d5226004f94d585c3c4b6a" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_c8ad3fa5d04551af2c77984a86cb279e" parent="aspace_aac7b5ec36d5226004f94d585c3c4b6a" type="folder">10</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Night Club</unittitle><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Record carton" id="aspace_d4a6fb36c5a99173ec8a3c70a4c01d1e" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_0d8f155ecab0c3745ebed24c31fe7c00" parent="aspace_d4a6fb36c5a99173ec8a3c70a4c01d1e" type="folder">11</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Nutcracker</unittitle><unitdate>1979</unitdate><container altrender="Record carton" id="aspace_ec7e31dc36d69ddfd5b3225c5cf74e87" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_4e0e2ab0d03cef18d4b392f0b2225d9f" parent="aspace_ec7e31dc36d69ddfd5b3225c5cf74e87" type="folder">12</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Persia 1 of 2</unittitle><unitdate>1972</unitdate><container altrender="Record carton" id="aspace_6b72e43cf9ad53442d2938d0a1de954b" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_be9eb8b7f9af6626013b612cd141b103" parent="aspace_6b72e43cf9ad53442d2938d0a1de954b" type="folder">13</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Persia 2 of 2</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_cf97fd506ec9615ad1f26046611e1ca5" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_57a9089c10ce584d5cc42206a51d7126" parent="aspace_cf97fd506ec9615ad1f26046611e1ca5" type="folder">14</container></did></c><c id="aspace_609116838900670b12c6662db42e8120" level="file"><did><unittitle>Persia Notebook</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2111405d376f10fd1720a2a40c6cd646" label="Mixed Materials [31142062723229]" type="box">11</container><container id="aspace_2066fc0daebda3b9470358268be96ac4" parent="aspace_2111405d376f10fd1720a2a40c6cd646" type="folder">4</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Pineapple Face</unittitle><unitdate normal="1992/1992" type="inclusive">1992</unitdate><container altrender="Record carton" id="aspace_c27c5b291c8e2053084f8e6461330fad" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_4fc2d76c83f36198fc9a329fcf53efe3" parent="aspace_c27c5b291c8e2053084f8e6461330fad" type="folder">15</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Play With an Ending</unittitle><unitdate normal="1984/1984" type="inclusive">1984</unitdate><container altrender="Record carton" id="aspace_93e8be91d61819d50ec8af799b2326bf" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_3501588748fb84f770f72697a4c4f72c" parent="aspace_93e8be91d61819d50ec8af799b2326bf" type="folder">16</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Play With an Ending Script</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_ae1d07d29440606e660792aa14a561e4" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_ea2671bc03c35c7d732a8c5e063aac6b" parent="aspace_ae1d07d29440606e660792aa14a561e4" type="folder">17</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Primitive World</unittitle><unitdate normal="1984/1984" type="inclusive">1984</unitdate><container altrender="Record carton" id="aspace_76150b9dab2ec9813cd7fe59ec5c9307" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_2f5b41e2fb3deb33040f707b529c774d" parent="aspace_76150b9dab2ec9813cd7fe59ec5c9307" type="folder">18</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Primitive World Script</unittitle><unitdate normal="1983/1983" type="inclusive">1983</unitdate><container altrender="Record carton" id="aspace_de38f82f3dce0152605def24c0737e6b" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_a61e8c80a676c4426561cdc3f5264872" parent="aspace_de38f82f3dce0152605def24c0737e6b" type="folder">19</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Room 17C Script</unittitle><unitdate normal="1983/1984" type="inclusive">1983, 1984</unitdate><container altrender="Record carton" id="aspace_34286d09fd07693bc7f7d709a03796c3" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_23cf888d806fbc23b74fbc37c3f633bd" parent="aspace_34286d09fd07693bc7f7d709a03796c3" type="folder">20</container></did></c><c id="aspace_379a93c036401a5656b0b84ce38725d8" level="file"><did><unittitle>Rosalyn Drexler</unittitle><unitdate normal="2003/2004" type="inclusive">2003-2004</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_36986abbeb6b63dc8d9e5694ab747ec5" label="Mixed Materials [31142062723229]" type="box">11</container><container id="aspace_7e6b50fdf3d1a25ab1642ebdab1a6021" parent="aspace_36986abbeb6b63dc8d9e5694ab747ec5" type="folder">5</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Satyricon</unittitle><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Record carton" id="aspace_99c75c208976dc8d51502be88d4f1d3f" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_20a40709d2b63eed50d971f2538d01a8" parent="aspace_99c75c208976dc8d51502be88d4f1d3f" type="folder">21</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>"Screen Test/Juanita Castro/Screen Test II"</unittitle><unitdate normal="1965/1966" type="inclusive">1965, 1966</unitdate><container altrender="Record carton" id="aspace_bce0e4b98f598177647513ac553c802a" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_171db94ef59d96beb736faddcae0690a" parent="aspace_bce0e4b98f598177647513ac553c802a" type="folder">22</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>"Shower/Juanita Castro"</unittitle><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container altrender="Record carton" id="aspace_e7c26c62af01ab011b5a386cef701674" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_9e61f2107bde100e186dc5568c329b35" parent="aspace_e7c26c62af01ab011b5a386cef701674" type="folder">23</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Sissy Script</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Record carton" id="aspace_0939d79985b276b634dc8ee02b7083b7" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_5ce425d062e1d972bbdfb9f76f6f3b52" parent="aspace_0939d79985b276b634dc8ee02b7083b7" type="folder">24</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Sissy</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Record carton" id="aspace_31de3ea90009fdb32c4d5e21f461204b" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_fccc867029da04327ddbdcdefe1b1973" parent="aspace_31de3ea90009fdb32c4d5e21f461204b" type="folder">25</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>The Sixty Minute Queer Show</unittitle><unitdate normal="1977/1978" type="inclusive">1977, 1978</unitdate><container altrender="Record carton" id="aspace_1ab7e9241ec6fe78de9f5a6cd692ce75" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_f8e0d99fd1542dbc7167a0485ba25dde" parent="aspace_1ab7e9241ec6fe78de9f5a6cd692ce75" type="folder">26</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>The Sixty Minute Queer Show Script</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_e2fb992c798ad53b328804356eed9df1" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_b3647b00f76e109917458e54d8148918" parent="aspace_e2fb992c798ad53b328804356eed9df1" type="folder">27</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Son of Cockstrong Script</unittitle><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Record carton" id="aspace_6512231202065867b338c89f4ef7fd60" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_f48b7414626f89a103b561a78211af53" parent="aspace_6512231202065867b338c89f4ef7fd60" type="folder">28</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>Son of Cockstrong</unittitle><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Record carton" id="aspace_bcf26ed866c4a56c1befa872b7e629d9" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_14c127068673b171c680e8434e4524ae" parent="aspace_bcf26ed866c4a56c1befa872b7e629d9" type="folder">29</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>"Songs from Cockstrong, Heaven Grand, Son of Cockstrong"</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_9d9ef2bfd3f381460e1e6f227d2ea7fb" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_84b872db98e0bb95d7d9c16c5c4d51b7" parent="aspace_9d9ef2bfd3f381460e1e6f227d2ea7fb" type="folder">30</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Spiders</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_4a1e6cb943fa030913b4cf40fe059c51" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_93a896d103f19a76baf99e7e0619d71e" parent="aspace_4a1e6cb943fa030913b4cf40fe059c51" type="folder">31</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Starburn</unittitle><unitdate normal="1983/1983" type="inclusive">1983</unitdate><container altrender="Record carton" id="aspace_45d4e682c23a4478da5060ddd517360e" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_539f411bcbd651c87ca33b116b231069" parent="aspace_45d4e682c23a4478da5060ddd517360e" type="folder">32</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Starburn Script</unittitle><unitdate normal="1982/1982" type="inclusive">1982</unitdate><container altrender="Record carton" id="aspace_ffc31d7fb55817e3134a033acb87c59c" label="Mixed Materials [31142063599693]" type="box">2</container><container id="aspace_437718fa869c8ca7cd7461b82789ed64" parent="aspace_ffc31d7fb55817e3134a033acb87c59c" type="folder">33</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Theater, Winter 1985</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_b773aa91a604969024a3472cd6ca068a" label="Mixed Materials [31142063599701]" type="box">3</container><container id="aspace_0288498ad15567cd4832d1d0610c644c" parent="aspace_b773aa91a604969024a3472cd6ca068a" type="folder">1</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>The Theatre in Poland</unittitle><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Manuscript box - Legal" id="aspace_24b78a8dc3315ac71fbf96e7c3297964" label="Mixed Materials [31142063599701]" type="box">3</container><container id="aspace_79165ffdc303a5dafea90b31d0dfce06" parent="aspace_24b78a8dc3315ac71fbf96e7c3297964" type="folder">2</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>"Three Plays at New Theatre by K. Bernard"</unittitle><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_43c7ff3ce946ca09871139483e8f40fd" label="Mixed Materials [31142063599701]" type="box">3</container><container id="aspace_d5ccf42c824c6acdc095960feb620bf9" parent="aspace_43c7ff3ce946ca09871139483e8f40fd" type="folder">3</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>Torino Festival</unittitle><unitdate normal="1991/1992" type="inclusive">1991 - 1992</unitdate><container altrender="Manuscript box - Legal" id="aspace_0ec5d923622d7915497fec4eae1f8961" label="Mixed Materials [31142063599701]" type="box">3</container><container id="aspace_7f9adf388b7524733423e6c63e1ae394" parent="aspace_0ec5d923622d7915497fec4eae1f8961" type="folder">4</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>Transients Welcome</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_15c5cbd351f8af3e6baf526626272f07" label="Mixed Materials [31142063599701]" type="box">3</container><container id="aspace_bc58e261292d1a9931a935a7cb89429d" parent="aspace_15c5cbd351f8af3e6baf526626272f07" type="folder">5</container></did></c><c id="aspace_ref97" level="file"><did><unittitle>Vulgar Lives</unittitle><unitdate normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_462f2c33ccad4d7e83a31666c3df4af7" label="Mixed Materials [31142063599701]" type="box">3</container><container id="aspace_890d45c1135ea2de87301c1348fed23e" parent="aspace_462f2c33ccad4d7e83a31666c3df4af7" type="folder">6</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>Vulgar Lives Script</unittitle><unitdate normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_dbaa88508a4063c1c793db73c4fe1508" label="Mixed Materials [31142063599701]" type="box">3</container><container id="aspace_4e70f1fe33392daf374b6fea65c281db" parent="aspace_dbaa88508a4063c1c793db73c4fe1508" type="folder">7</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>The Writer's Opera</unittitle><unitdate normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_ce45c7ad848cc223545e3de194342719" label="Mixed Materials [31142063599701]" type="box">3</container><container id="aspace_b670fb2b61282a19d2db84f9f907795d" parent="aspace_ce45c7ad848cc223545e3de194342719" type="folder">8</container></did></c><c id="aspace_ref100" level="file"><did><unittitle>The Writer's Opera Script 1 of 2</unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_6b61653166273cb19a7d2e20c8d23ee4" label="Mixed Materials [31142063599701]" type="box">3</container><container id="aspace_7e62ef3c67abecf4210fd9401a9b61b6" parent="aspace_6b61653166273cb19a7d2e20c8d23ee4" type="folder">9</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>The Writer's Opera Script 2 of 2</unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_16cdc94602d83c678869b255d0343994" label="Mixed Materials [31142063599701]" type="box">3</container><container id="aspace_8172cc261ea463f8d00018d0deca9a68" parent="aspace_16cdc94602d83c678869b255d0343994" type="folder">10</container></did></c><c id="aspace_ref102" level="file"><did><unittitle>"XX XXX"</unittitle><unitdate normal="1970/1972" type="inclusive">1970 - 1972</unitdate><container altrender="Manuscript box - Legal" id="aspace_d2ef1aeda22ce727d6b9eec251ceb807" label="Mixed Materials [31142063599701]" type="box">3</container><container id="aspace_14c676f21e1d68f8214e94e638d2b0ee" parent="aspace_d2ef1aeda22ce727d6b9eec251ceb807" type="folder">11</container></did></c></c><c id="aspace_ref2" level="series"><did><unittitle>Series II: Posters and Ephemera</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Linear Feet</extent><extent altrender="carrier">in 3 flat boxes and 1 half manuscript box.</extent></physdesc><unitdate normal="1981/2005" type="inclusive">1981-2005</unitdate></did><scopecontent id="aspace_035d8911de60b4220451783ed3c2302a"><head>Scope and Contents</head><p>Series II: Posters and Ephemera contains posters, publicity material, objects, and a scrapbook. All the materials relate to Vaccaro's theatrical productions and his work with with the Play-House of the Ridiculous. Materials date from 1981 to 2005.</p></scopecontent><arrangement id="aspace_8fd9306fa7d0e229b8d95d7b59d9d763"><head>Arrangement</head><p>Series II: Posters and Ephemera is organized alphabetically by production title or the name of the institution.</p></arrangement><c id="aspace_ref111" level="file"><did><unittitle>Big Hotel Poster</unittitle><unitdate>Undated</unitdate><container altrender="Serials Box - 13 x 17" id="aspace_0e6e6b242a56eeb498711697ef48f7dc" label="Graphic Materials [31142063599768]" type="box">8</container><container id="aspace_b8955c0268574f403f9ceb4c12742975" parent="aspace_0e6e6b242a56eeb498711697ef48f7dc" type="folder">1</container></did></c><c id="aspace_c7c0b45764fc9f03cad5ce5319896ea7" level="file"><did><unittitle>Etiquette Posters</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_8cd36f9c7d84034ca4f5302167201cd7" label="Mixed Materials [31142062723229]" type="box">11</container><container id="aspace_907881989589d1bbe2441c4943e3fa0d" parent="aspace_8cd36f9c7d84034ca4f5302167201cd7" type="folder">6</container></did></c><c id="aspace_7f64832aee8284d7ed38780c0d144c0d" level="file"><did><unittitle>Goodie Pamphlet </unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_33257fdf70b1acae7b06c6427c30bfd7" label="Mixed Materials [31142062723229]" type="box">11</container><container id="aspace_bc14a99ccdebbc5af9867fca7e8dfaf7" parent="aspace_33257fdf70b1acae7b06c6427c30bfd7" type="folder">7</container></did></c><c id="aspace_ref112" level="file"><did><unittitle>The Heart That Eats Itself</unittitle><unitdate>Undated</unitdate><container altrender="Serials Box - 13 x 17" id="aspace_a267d26c6ae7f3fdb757d3d395ae8043" label="Graphic Materials [31142063599768]" type="box">8</container><container id="aspace_0cfbb6dabf9377fa0affc6dfeb22c2bb" parent="aspace_a267d26c6ae7f3fdb757d3d395ae8043" type="folder">2</container></did></c><c id="aspace_ref113" level="file"><did><unittitle>Indira Gandhi/Screen Test Poster</unittitle><unitdate>Undated</unitdate><container altrender="Serials Box - 13 x 17" id="aspace_46c3893afb54b747446b36f14832b4fb" label="Graphic Materials [31142063599768]" type="box">8</container><container id="aspace_4c5595e7db42a268f4412fcdc129f4c0" parent="aspace_46c3893afb54b747446b36f14832b4fb" type="folder">3</container></did></c><c id="aspace_ref114" level="file"><did><unittitle>Indira Gandhi Poster</unittitle><unitdate>Undated</unitdate><container altrender="Serials Box - 13 x 17" id="aspace_4c3de7b713348a499621d74cb782c5d4" label="Graphic Materials [31142063599768]" type="box">8</container><container id="aspace_6fe3f449a13ab6f84455f7eb95654565" parent="aspace_4c3de7b713348a499621d74cb782c5d4" type="folder">4</container></did></c><c id="aspace_ref115" level="file"><did><unittitle>Kenneth Bernard "American Drama" article</unittitle><unitdate normal="2005/2005" type="inclusive">2005</unitdate><container altrender="Serials Box - 13 x 17" id="aspace_aa4b5e867b7bb93bcd29a94818ad1361" label="Mixed Materials [31142063599768]" type="box">8</container><container id="aspace_1e24a4121cc12cb34b0a08ecadefee9d" parent="aspace_aa4b5e867b7bb93bcd29a94818ad1361" type="folder">5</container></did></c><c id="aspace_ref116" level="file"><did><unittitle>Lady Godiva Poster</unittitle><unitdate>Undated</unitdate><container altrender="Serials Box - 13 x 17" id="aspace_047a22b42b71af2be08c0e1884e39b81" label="Graphic Materials [31142063599768]" type="box">8</container><container id="aspace_5665bf172748462f20768102421277dd" parent="aspace_047a22b42b71af2be08c0e1884e39b81" type="folder">6</container></did></c><c id="aspace_ref117" level="file"><did><unittitle>Life of Lady Godiva Poster (alternate)</unittitle><unitdate>Undated</unitdate><container altrender="Serials Box - 13 x 17" id="aspace_db3805d241df014f9a51b4d7bb25c6bb" label="Graphic Materials [31142063599768]" type="box">8</container><container id="aspace_f787ff620205f33155e3194ae10be5ae" parent="aspace_db3805d241df014f9a51b4d7bb25c6bb" type="folder">7</container></did></c><c id="aspace_ref118" level="file"><did><unittitle>La Fin Du Cirque</unittitle><unitdate>Undated</unitdate><container altrender="Serials Box - 13 x 17" id="aspace_9371a39297b62c56a57b593c7fbebc63" label="Graphic Materials [31142063599768]" type="box">8</container><container id="aspace_a1dfb459e039aa8599eb39a76ff904c0" parent="aspace_9371a39297b62c56a57b593c7fbebc63" type="folder">8</container></did></c><c id="aspace_ref119" level="file"><did><unittitle>A Matter of Life and Death</unittitle><unitdate normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Serials Box - 13 x 17" id="aspace_52635ffc67e482d571b9a8d10dabe69f" label="Graphic Materials [31142063599768]" type="box">8</container><container id="aspace_471ab1d960d3d557c50da3b58cea4b59" parent="aspace_52635ffc67e482d571b9a8d10dabe69f" type="folder">9</container></did></c><c id="aspace_ref121" level="file"><did><unittitle>Moke-Eater Poster</unittitle><unitdate>Undated</unitdate><container altrender="Serials Box - 13 x 17" id="aspace_afa181f9b1655f4b446b8d4f62bb8aae" label="Graphic Materials [31142063599768]" type="box">8</container><container id="aspace_3448b0a07c7bea84263b02972b67e8c5" parent="aspace_afa181f9b1655f4b446b8d4f62bb8aae" type="folder">10</container></did></c><c id="aspace_ref123" level="file"><did><unittitle>Nightclub Posters</unittitle><unitdate normal="1981/1981" type="inclusive">1981</unitdate><container altrender="Serials Box - 13 x 17" id="aspace_28f0867ed502021b3beef20302e978ca" label="Graphic Materials [31142063599768]" type="box">8</container><container id="aspace_6a3fa12e6a56f501ceaddcba2a68214d" parent="aspace_28f0867ed502021b3beef20302e978ca" type="folder">11</container></did></c><c id="aspace_ref122" level="file"><did><unittitle>No President Poster</unittitle><unitdate>Undated</unitdate><container altrender="Serials Box - 13 x 17" id="aspace_b32e284dc0420a8ba10b8e35f98a2d63" label="Graphic Materials [31142063599768]" type="box">8</container><container id="aspace_4f18ca0cce9e4a672b56fe31554dc0dd" parent="aspace_b32e284dc0420a8ba10b8e35f98a2d63" type="folder">12</container></did></c><c id="aspace_ref142" level="file"><did><unittitle>Otto Award</unittitle><unitdate normal="2002/2002" type="inclusive">2002</unitdate><container altrender="Serials Box - 13 x 17" id="aspace_ef5df0592c4da35c4e5e87dad7bb04d8" label="Mixed Materials [31142063599743]" type="box">5</container></did></c><c id="aspace_bfa47b77a4b34ac975c9cf2f2ecc33ea" level="file"><did><unittitle>Play-House of the Ridiculous Embosser</unittitle><unitdate>undated</unitdate><container altrender="Serials Box - 13 x 17" id="aspace_9eb16c1e6b95f2afd78b5b3b7a0e7e03" label="Mixed Materials [31142063599743]" type="box">5</container></did></c><c id="aspace_449864495fe57e52ae829ede7fb7dc20" level="file"><did><unittitle>Play-House of the Ridiculous Stamp</unittitle><unitdate>undated</unitdate><container altrender="Serials Box - 13 x 17" id="aspace_655085abbf5824fe72c1e8924a235009" label="Mixed Materials [31142063599743]" type="box">5</container></did></c><c id="aspace_981ef5200c7d82e05b145d35af3ee281" level="file"><did><unittitle>Play-House of the Ridiculous Repertory Club Membership Cards</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_8706ede2a30f45ae1f2e3a0ca53bcc02" label="Mixed Materials [31142062723229]" type="box">11</container><container id="aspace_2450b05d7bdfab554943ea598b2e7794" parent="aspace_8706ede2a30f45ae1f2e3a0ca53bcc02" type="folder">8</container></did></c><c id="aspace_ref103" level="file"><did><unittitle>Scrapbook</unittitle><unitdate>Undated</unitdate><container altrender="Flat Box 11.75 x 15.5" id="aspace_3039f459b45cf43b1758eea6717d155c" label="Mixed Materials [31142063599735]" type="box">4</container><container id="aspace_489a1a0e008606607fc03cce524d5a23" parent="aspace_3039f459b45cf43b1758eea6717d155c" type="folder">1</container></did></c><c id="aspace_ref124" level="file"><did><unittitle>Sharon Thompson Piece</unittitle><unitdate>1970</unitdate><container altrender="Serials Box - 13 x 17" id="aspace_5022fb5963114df17c447c99fbe12eab" label="Graphic Materials [31142063599768]" type="box">8</container><container id="aspace_95581bcfa9eeb066e89abd60c01bf10b" parent="aspace_5022fb5963114df17c447c99fbe12eab" type="folder">13</container></did></c><c id="aspace_ref125" level="file"><did><unittitle>Untitled Double-Sided Sketch</unittitle><unitdate>Undated</unitdate><container altrender="Serials Box - 13 x 17" id="aspace_2a6da2e181d1fe59556f37dc15923a37" label="Graphic Materials [31142063599768]" type="box">8</container><container id="aspace_645cd7b8a2b109b430718fac956937e5" parent="aspace_2a6da2e181d1fe59556f37dc15923a37" type="folder">14</container></did></c><c id="aspace_ref164" level="file"><did><unittitle>Young American Beatnicks Poster</unittitle><unitdate>Undated</unitdate><container altrender="Serials Box - 13 x 17" id="aspace_a30f2d2f046d12ab5d55806e824f91e8" label="Graphic Materials [31142063599768]" type="box">8</container><container id="aspace_5e75c5cbbb2fdd78a9be096812e9b30f" parent="aspace_a30f2d2f046d12ab5d55806e824f91e8" type="folder">15</container></did></c></c><c id="aspace_ref3" level="series"><did><unittitle>Series III: Photographs</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent><extent altrender="carrier">in 2 manuscript boxes and 2 flat boxes.</extent></physdesc><unitdate>undated</unitdate></did><scopecontent id="aspace_0c6d49b084d3e17737f86b558fe5d78a"><head>Scope and Contents</head><p>Series III: Photographs contains photographs, contact sheets, negatives, and slides pertaining to Vaccaro's productions and personal collection. Most of the people and plays in the photographs in the collection are unidentified at this time. Materials are undated.</p></scopecontent><arrangement id="aspace_ab4824330e402b770133d446e6c30f9c"><head>Arrangement</head><p>Series III: Photographs has not been arranged by an archivist. The materials are arranged in the order in which they were received from Vaccaro.</p></arrangement><c id="aspace_ref163" level="file"><did><unittitle>Daniel Nagrin</unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_97f10fe00637a558bc1257e16d65a106" label="Mixed Materials [31142063599719]" type="box">6</container><container id="aspace_48aac5489b2d81646f0311677e7cff26" parent="aspace_97f10fe00637a558bc1257e16d65a106" type="folder">1</container></did></c><c id="aspace_ref105" level="file"><did><unittitle>Photographs (unsorted)</unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_a13a58e2f7350a03b5d218c806537e36" label="Graphic Materials [31142063599719]" type="box">6</container><container id="aspace_3e737c33ea3d120552db2f50b23d1973" parent="aspace_a13a58e2f7350a03b5d218c806537e36" type="folder">2-11</container></did></c><c id="aspace_ref177" level="file"><did><unittitle>Photographs (unsorted)</unittitle><unitdate>Undated</unitdate><container altrender="Flat Box - 12 x 16" id="aspace_94c78e5b87c9791f14188ed25ab2096d" label="Graphic Materials [31142063599750]" type="box">7A</container><container id="aspace_2c00d252fdd6b686746c2f808739e9f5" parent="aspace_94c78e5b87c9791f14188ed25ab2096d" type="folder">1-4</container></did></c><c id="aspace_ref106" level="file"><did><unittitle>Fred Ohrenstein Photo of John Vaccaro</unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_49288070a74fafa70f47cbb28389ab57" label="Graphic Materials [31142063599727]" type="box">7B</container><container id="aspace_cdde090eefac251e27930e7a7d3c1a3e" parent="aspace_49288070a74fafa70f47cbb28389ab57" type="folder">1</container></did></c><c id="aspace_ref107" level="file"><did><unittitle>Starburn Photos (1 of 2)</unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_63980f3715e742e7e59116213dc79438" label="Graphic Materials [31142063599727]" type="box">7B</container><container id="aspace_89612c8c6c64fb663b3b2dd88b9ff752" parent="aspace_63980f3715e742e7e59116213dc79438" type="folder">2</container></did></c><c id="aspace_ref108" level="file"><did><unittitle>Starburn Photos 2 of 2</unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e257fc42a8e26909125222d1257f1f61" label="Graphic Materials [31142063599727]" type="box">7B</container><container id="aspace_3dc25a32c32832560ac53413bd3c7ca6" parent="aspace_e257fc42a8e26909125222d1257f1f61" type="folder">3</container></did></c><c id="aspace_ref109" level="file"><did><unittitle>Photographs (unsorted)</unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_1a0bbca0bd1422f49f3dc8c23a13a3e0" label="Graphic Materials [31142063599727]" type="box">7B</container><container id="aspace_b3fba5e74b452d360f68e3ec5f321947" parent="aspace_1a0bbca0bd1422f49f3dc8c23a13a3e0" type="folder">4-7</container></did></c><c id="aspace_e9cc7d53c2acd53c62938d14f62fe71e" level="file"><did><unittitle>Photographs (unsorted)</unittitle><unitdate>undated</unitdate><container altrender="Hollinger Flat OS 13.5" id="aspace_b28a808fa253ed0ba3e686882d71af94" label="Graphic Materials [31142062723245]" type="box">14</container><container id="aspace_702ed477db0a9a5505e5cf6c6679d369" parent="aspace_b28a808fa253ed0ba3e686882d71af94" type="folder">15</container></did></c></c><c id="aspace_411664f33d5e99ee793ea0892bbf0c6b" level="series"><did><unittitle>Series IV: Publications</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2 Linear Feet</extent><extent altrender="carrier">in 1 record carton, 1 manuscript box, 1 half manuscript box, and 1 flat box. </extent></physdesc><unitdate normal="1964/2005" type="inclusive">1964-2005</unitdate></did><scopecontent id="aspace_9e67ca3f20db63ee7a5c94fa2d93a0c3"><head>Scope and Contents</head><p>Series IV: Publications contains monographs, exhibition catalogs, journals, and magazines. The publications were collected by John Vaccaro and are related to theater and music. Some of the publications contain articles about Vaccarro and his work. Materials date from 1964 to 2005. Most of the publications are in English, with a few in French, German, Italian, and Dutch.</p></scopecontent><arrangement id="aspace_261940e710fc96ba6f4a0c7fd05e766a"><head>Arrangement</head><p>Series IV: Publications has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p></arrangement><c id="aspace_1f55615d652cb33c423913448f0a05da" level="file"><did><unittitle>Publications</unittitle><container altrender="Manuscript box - Legal - Half" id="aspace_32a83cb2997c19f691cb5de24fd86c65" label="Mixed Materials [31142062723229]" type="box">11</container><container id="aspace_bc509349c88cd7a67e389165d81b43fa" parent="aspace_32a83cb2997c19f691cb5de24fd86c65" type="folder">9</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_99a5e1cbb611f7872ed40263f92ef215" label="Mixed Materials [31142062723237]" type="box">12</container><container altrender="Record carton" id="aspace_4c49864bacb757e9740ac7658f3adb5a" label="Mixed Materials [31142063610805]" type="box">13</container><container altrender="Hollinger Flat OS 13.5" id="aspace_dc4aff20c5bf5dced913045b4f8ef1dd" label="Mixed Materials [31142062723245]" type="box">14</container><container id="aspace_5a8c0db1e98d1cc1790171dfe7e1dbb5" parent="aspace_dc4aff20c5bf5dced913045b4f8ef1dd" type="folder">1-14</container></did></c></c><c id="aspace_ref153" level="series"><did><unittitle>Oversize - Series I: Projects</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent><extent altrender="carrier">in 1 oversize flat box.</extent></physdesc><unitdate normal="1966/1985" type="inclusive">1966-1985</unitdate></did><scopecontent id="aspace_fbc919287e69621365d5708ef277153a"><head>Scope and Contents</head><p>Oversize Series I: Projects contains oversize material related to theatrical productions. Materials date from 1966 to 1985.</p></scopecontent><arrangement id="aspace_a830b5d6d20c61a1a1c2f6fcb3b8befa"><head>Arrangement</head><p>Oversize Series I: Projects is arranged alphabetically.</p></arrangement><c id="aspace_ref145" level="file"><did><unittitle>"American Indians N.A.T.E."</unittitle><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_e18933dc24720226e4be215742b1bfae" label="Mixed Materials [31142054896199]" type="box">10</container><container id="aspace_56455f21c563916c3c260340cd87bffe" parent="aspace_e18933dc24720226e4be215742b1bfae" type="folder">1</container></did></c><c id="aspace_ref147" level="file"><did><unittitle>"American Indians (Niagara Falls)"</unittitle><unitdate normal="1981/1981" type="inclusive">1981</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_d02babb51b425960b2b27d43666f4dc1" label="Mixed Materials [31142054896199]" type="box">10</container><container id="aspace_f7d78de49e6b24aa1a4a19e46968d639" parent="aspace_d02babb51b425960b2b27d43666f4dc1" type="folder">2</container></did></c><c id="aspace_ref148" level="file"><did><unittitle>Cockstrong</unittitle><unitdate>1971</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_4e7c797439a50dd1f73b8dfedd4de038" label="Mixed Materials [31142054896199]" type="box">10</container><container id="aspace_16e5601c7ab1c80635c4f7af8513ca80" parent="aspace_4e7c797439a50dd1f73b8dfedd4de038" type="folder">3</container></did></c><c id="aspace_ref149" level="file"><did><unittitle>Conquest of the Universe</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_2814ba0cdff1699e30ab1f121eada492" label="Mixed Materials [31142054896199]" type="box">10</container><container id="aspace_c060be1c899784a10ec950b535aa9083" parent="aspace_2814ba0cdff1699e30ab1f121eada492" type="folder">4</container></did></c><c id="aspace_ref150" level="file"><did><unittitle>Dr. Magico</unittitle><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_28262349dffe17d5022ce7df9d9f6546" label="Mixed Materials [31142054896199]" type="box">10</container><container id="aspace_a8acf5bc302eb6184d30a1522f078cc6" parent="aspace_28262349dffe17d5022ce7df9d9f6546" type="folder">5</container></did></c><c id="aspace_ref151" level="file"><did><unittitle>Goatman</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_73bf85172978b13b97e1fc0bc2726ab9" label="Mixed Materials [31142054896199]" type="box">10</container><container id="aspace_2c2b14b5ea88fa16b7e249794a2d9952" parent="aspace_73bf85172978b13b97e1fc0bc2726ab9" type="folder">6</container></did></c><c id="aspace_ref152" level="file"><did><unittitle>Heaven Grand</unittitle><unitdate normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_fb6381ce2060e4167e655924a9d76e16" label="Mixed Materials [31142054896199]" type="box">10</container><container id="aspace_783bc22842a983f4d79c540606b3cfdd" parent="aspace_fb6381ce2060e4167e655924a9d76e16" type="folder">7</container></did></c><c id="aspace_ref154" level="file"><did><unittitle>"Indira Gandhi"</unittitle><unitdate normal="1966/1967" type="inclusive">1966. 1967</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_c54f012327a4a0d65a73d82a84bdce33" label="Mixed Materials [31142054896199]" type="box">10</container><container id="aspace_3709034b60b20a1f90f835c002da5c9d" parent="aspace_c54f012327a4a0d65a73d82a84bdce33" type="folder">8</container></did></c><c id="aspace_ref155" level="file"><did><unittitle>Juba</unittitle><unitdate normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_56bc8b88d09a7dfa68bb115e4fe87f3c" label="Mixed Materials [31142054896199]" type="box">10</container><container id="aspace_53835376949f1c6ecf81d83ffa31ca81" parent="aspace_56bc8b88d09a7dfa68bb115e4fe87f3c" type="folder">9</container></did></c><c id="aspace_ref156" level="file"><did><unittitle>The Life of Lady Godiva [newspapers]</unittitle><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_03ac4e44fb5fa3cfb6df7b5818d330a1" label="Mixed Materials [31142054896199]" type="box">10</container><container id="aspace_29b8d527e8e197244537fc5f983ad1a1" parent="aspace_03ac4e44fb5fa3cfb6df7b5818d330a1" type="folder">10</container></did></c><c id="aspace_ref157" level="file"><did><unittitle>Miscellaneous [more newspapers]</unittitle><unitdate normal="1969/1976" type="inclusive">1969 - 1976</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_ddce922264786dc22aef75cd03c43c34" label="Mixed Materials [31142054896199]" type="box">10</container><container id="aspace_a6be88d95e2869e61827a73e492b52d3" parent="aspace_ddce922264786dc22aef75cd03c43c34" type="folder">11</container></did></c><c id="aspace_ref158" level="file"><did><unittitle>Satyricon</unittitle><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_153c1df21a9cb44cfbec88823ee0193e" label="Mixed Materials [31142054896199]" type="box">10</container><container id="aspace_11e185a78c3d098b25f37a88dfa4a343" parent="aspace_153c1df21a9cb44cfbec88823ee0193e" type="folder">12</container></did></c><c id="aspace_ref159" level="file"><did><unittitle>Sissy</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_aa9e3667d839866ff9320fcbd07cc913" label="Mixed Materials [31142054896199]" type="box">10</container><container id="aspace_793a9cbceead5ff3cb8eac434caaef5d" parent="aspace_aa9e3667d839866ff9320fcbd07cc913" type="folder">13</container></did></c><c id="aspace_ref160" level="file"><did><unittitle>The Sixty Minute Queer Show</unittitle><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_d60899ba90d9c74d5fd50fc2af6ac084" label="Mixed Materials [31142054896199]" type="box">10</container><container id="aspace_0aad43992cdc5ed2dd4dc08cff34a4c0" parent="aspace_d60899ba90d9c74d5fd50fc2af6ac084" type="folder">14</container></did></c><c id="aspace_ref161" level="file"><did><unittitle>"XX XXX"</unittitle><unitdate>Undated</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_dec2526b237de0c54c746a47d02bd635" label="Mixed Materials [31142054896199]" type="box">10</container><container id="aspace_522b790e23809692de274b184d41d686" parent="aspace_dec2526b237de0c54c746a47d02bd635" type="folder">15</container></did></c></c><c id="aspace_ref110" level="series"><did><unittitle>Oversize - Series II: Posters and Ephemera</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent><extent altrender="carrier">in 2 oversize flat boxes and 2 flat file folders.</extent></physdesc><unitdate normal="1961/1979" type="inclusive">1961-1979</unitdate></did><scopecontent id="aspace_08a635cdb206b00149f705bee0243c5d"><head>Scope and Contents</head><p>Oversize Series II: Posters and Ephemera contains posters and publicity material related to Vaccaro's theatrical productions. Materials date from 1961 to 1979.</p></scopecontent><arrangement id="aspace_86e11ac0ba60e76356eb35b28076ae3f"><head>Arrangement</head><p>Oversize Series II: Posters and Ephemera is arranged alphabetically.</p></arrangement><c id="aspace_ref179" level="file"><did><unittitle>Cockstrong de Tom Murrin Poster</unittitle><unitdate>undated</unitdate><container altrender="Oversize Folder - Full Case" id="aspace_9f1a370acecd6d40eb6852adbe6ef689" label="Graphic Materials [31142063429115]" type="folder">5</container></did></c><c id="aspace_ref128" level="file"><did><unittitle>The Derby</unittitle><unitdate>Undated</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_77e06dbc8612bf8b8029d8c2a3fc324d" label="Graphic Materials [31142054896181]" type="box">9</container><container id="aspace_a15f51fb12841063ea52ed719b4ab785" parent="aspace_77e06dbc8612bf8b8029d8c2a3fc324d" type="folder">1</container></did></c><c id="aspace_ref127" level="file"><did><unittitle>Graven Image Poster</unittitle><unitdate>Undated</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_8375e8993c0a7e9bdd728f91f1977787" label="Graphic Materials [31142054896181]" type="box">9</container><container id="aspace_17bbbe570a04e6ad292158a95d83d298" parent="aspace_8375e8993c0a7e9bdd728f91f1977787" type="folder">2</container></did></c><c id="aspace_ref138" level="file"><did><unittitle>Gulliver's Travels Poster</unittitle><unitdate>Undated</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_d6aefa5d1a22c05a1b45b06f55a7468b" label="Graphic Materials [31142054896181]" type="box">9</container><container id="aspace_0aa0c68d0837e30da2a62d06ae0df6f0" parent="aspace_d6aefa5d1a22c05a1b45b06f55a7468b" type="folder">3</container></did></c><c id="aspace_ref133" level="file"><did><unittitle>Juba Poster</unittitle><unitdate>Undated</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_f7ad8275be887ac3631479ea6e7be302" label="Graphic Materials [31142054896181]" type="box">9</container><container id="aspace_6f05e21c7871f83cf8f1505b9d0498c2" parent="aspace_f7ad8275be887ac3631479ea6e7be302" type="folder">4</container></did></c><c id="aspace_ref130" level="file"><did><unittitle>La Bohemia Poster</unittitle><unitdate>Undated</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_62af0b9f8bd451474904622ae0bebb22" label="Graphic Materials [31142054896181]" type="box">9</container><container id="aspace_68512930eaa1da1ab8e944d5cef2e3c5" parent="aspace_62af0b9f8bd451474904622ae0bebb22" type="folder">5</container></did></c><c id="aspace_ref135" level="file"><did><unittitle>"Lady Cockstrong" Drawing</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_b6086f08da664100060407e45600773d" label="Graphic Materials [31142054896181]" type="box">9</container><container id="aspace_e77bb635335bae8430d808320d17c9fe" parent="aspace_b6086f08da664100060407e45600773d" type="folder">6</container></did></c><c id="aspace_ref137" level="file"><did><unittitle>La Justice Poster</unittitle><unitdate normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_0f313ad3c0ee528bed17fd97c787e334" label="Graphic Materials [31142054896181]" type="box">9</container><container id="aspace_1243afcf617b19fe8399c9b2714baa94" parent="aspace_0f313ad3c0ee528bed17fd97c787e334" type="folder">7</container></did></c><c id="aspace_ref136" level="file"><did><unittitle>La Fin Du Cirque Character Drawings</unittitle><unitdate>Undated</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_f0035eb748e8681d7905c26d0694027f" label="Graphic Materials [31142054896181]" type="box">9</container><container id="aspace_9a018eec544ec21c4bbd32e4f24e4ba4" parent="aspace_f0035eb748e8681d7905c26d0694027f" type="folder">8</container></did></c><c id="aspace_ref180" level="file"><did><unittitle>La Mama Posters</unittitle><unitdate>undated</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_92861e465172e22799f4da1cdeb081de" label="Graphic Materials [31142054896199]" type="box">10</container><container id="aspace_555e77823e3fa9773d23f22e4e421348" parent="aspace_92861e465172e22799f4da1cdeb081de" type="folder">16</container></did></c><c id="aspace_ref132" level="file"><did><unittitle>A Midsummer Night's Dream Poster</unittitle><unitdate>Undated</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_a1697bc4679265dc118ab4b11d3ca2f1" label="Graphic Materials [31142054896181]" type="box">9</container><container id="aspace_f3221b72b6d408b15deab3788231239e" parent="aspace_a1697bc4679265dc118ab4b11d3ca2f1" type="folder">9</container></did></c><c id="aspace_ref120" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate>Undated</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_98e77a7ab50d0f9a700fe5d8872475a3" label="Graphic Materials [31142054896181]" type="box">9</container><container id="aspace_761c3ef4cbff24109a34999cc159f306" parent="aspace_98e77a7ab50d0f9a700fe5d8872475a3" type="folder">10</container></did></c><c id="aspace_ref181" level="file"><did><unittitle>"Persia" (A Desert Cheapie) Posters</unittitle><unitdate>undated</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_f329d1c2e8dfae712fb54c7134d52a43" label="Graphic Materials [31142054896199]" type="box">10</container><container id="aspace_4ca6b6fdfc7e018ba0d73d808e836680" parent="aspace_f329d1c2e8dfae712fb54c7134d52a43" type="folder">17</container></did></c><c id="aspace_ref139" level="file"><did><unittitle>"Pugliese" Drawing</unittitle><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_e91ad399f71dd93d94ebe28c04ab8dda" label="Graphic Materials [31142054896181]" type="box">9</container><container id="aspace_3f5179d1ab1b562da65e08bf6d4e33a0" parent="aspace_e91ad399f71dd93d94ebe28c04ab8dda" type="folder">11</container></did></c><c id="aspace_ref131" level="file"><did><unittitle>The Sixty Minute Queer Show Poster</unittitle><unitdate>Undated</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_d1004dfcb69b0d0cd32f73df4805d86d" label="Graphic Materials [31142054896181]" type="box">9</container><container id="aspace_0b1ccf4cd71ab28cd8c2ead7efb17632" parent="aspace_d1004dfcb69b0d0cd32f73df4805d86d" type="folder">12</container></did></c><c id="aspace_ref126" level="file"><did><unittitle>The Sixty Minute Queer Show Poster (Dutch)</unittitle><unitdate normal="1977/1978" type="inclusive">1977, 1978</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_4f816294cd5bfcf7440a279fd3b17f01" label="Graphic Materials [31142054896181]" type="box">9</container><container id="aspace_65a33f0b79c6bca4003d84a121af1420" parent="aspace_4f816294cd5bfcf7440a279fd3b17f01" type="folder">13</container></did></c><c id="aspace_ref182" level="file"><did><unittitle>Theater Im Reichskabarett Poster</unittitle><unitdate>1973</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_a61d7471f2a4e43988bf07fc6de84125" label="Graphic Materials [31142054896199]" type="box">10</container><container id="aspace_1c179597bec1ce7353b37bb9c9eec989" parent="aspace_a61d7471f2a4e43988bf07fc6de84125" type="folder">18</container></did></c><c id="aspace_ref140" level="file"><did><unittitle>Untitled Stage Sketch</unittitle><unitdate normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_e70d93abf6c5fb268a277b82bd4b00e9" label="Graphic Materials [31142054896181]" type="box">9</container><container id="aspace_3b8e9f25c4ad63150d60be46c00d016a" parent="aspace_e70d93abf6c5fb268a277b82bd4b00e9" type="folder">14</container></did></c><c id="aspace_ref134" level="file"><did><unittitle>Vulgar Lives Poster</unittitle><unitdate>Undated</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_4f26b6f47a3cf94a00d70f738e6a081d" label="Graphic Materials [31142054896181]" type="box">9</container><container id="aspace_747a66e1848d01c7d42505963782f257" parent="aspace_4f26b6f47a3cf94a00d70f738e6a081d" type="folder">15</container></did></c><c id="aspace_ref141" level="file"><did><unittitle>Vulgar Lives Poster (alternate)</unittitle><unitdate>Undated</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_1ecd60313eb9afa279d43ceb464b8b7f" label="Graphic Materials [31142054896181]" type="box">9</container><container id="aspace_5738c0546e188158fcf41ada6a8a8db5" parent="aspace_1ecd60313eb9afa279d43ceb464b8b7f" type="folder">16</container></did></c><c id="aspace_ref178" level="file"><did><unittitle>"WELL LOVE WILL EAT THE WORLD WILL BE PEACEFUL WILL EAT SHIT" Drawing</unittitle><unitdate>October 1969</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_4c51999acb01382045a140d4b9a0bc9e" label="Graphic Materials [31142054896181]" type="box">9</container><container id="aspace_f3d3e603c384563b0af7e9d9f1ace3c3" parent="aspace_4c51999acb01382045a140d4b9a0bc9e" type="folder">17</container></did></c><c id="aspace_ref129" level="file"><did><unittitle>The Writer's Opera Poster</unittitle><unitdate>Undated</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_1a5997e7d23deb2c9dc39ee07c3564d2" label="Graphic Materials [31142054896181]" type="box">9</container><container id="aspace_64264e538c368a0a583397cc6de9edc0" parent="aspace_1a5997e7d23deb2c9dc39ee07c3564d2" type="folder">18</container></did></c><c id="aspace_ref162" level="item"><did><unittitle>The Life of Lady Godiva, the Playhouse of Ridiculous</unittitle><unitdate>Undated</unitdate><container altrender="Oversize Folder - Full Case" id="aspace_eb924682e370c53b7d48b6075b3476e1" label="Graphic Materials [31142062885010]" type="folder">14</container><container id="aspace_82dffb75d62b425c2573a63c1a7a437c" parent="aspace_eb924682e370c53b7d48b6075b3476e1" type="object">321.2.0001</container></did><odd id="aspace_24b945e3881c5a63340032aadb8bd540"><head>General</head><p>Poster painted on wood.</p></odd></c></c></dsc>
-</archdesc>
+      <persname source="naf">Bernard, Kenneth</persname>
+      <persname source="naf">Drexler, Rosalyn</persname>
+      <persname source="naf">Ludlam, Charles</persname>
+      <persname source="naf">Tavel, Ronald</persname>
+      <corpname source="naf">La Mama Experimental Theatre Club</corpname>
+      <corpname rules="dacs" source="local">Play-House of the Ridiculous</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref1" level="series">
+        <did>
+          <unittitle>Series I: Projects</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2.75 Linear Feet</extent>
+            <extent altrender="carrier">in 2 record cartons, 1 manuscript box, and 1 half manuscript box.</extent>
+          </physdesc>
+          <unitdate normal="1959/1992" type="inclusive">1959-1992</unitdate>
+        </did>
+        <scopecontent id="aspace_45df280fcd172ffc43119db56a42bd03">
+          <head>Scope and Contents</head>
+          <p>Series I: Projects contains the work of John Vaccaro and others. Materials inculde press clippings, screenplays, contracts, and ephemera generally related to the titular project. Materials date from 1959 to 1992.</p>
+        </scopecontent>
+        <arrangement id="aspace_f7f1ae0d758ff51656d84720d0267146">
+          <head>Arrangement</head>
+          <p>Series I: Projects is organized alphabetically by project title.</p>
+        </arrangement>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>American Indians N.A.T.E.</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">9 media elements</extent>
+              <extent altrender="carrier">
+</extent>
+            </physdesc>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container altrender="Record carton" id="aspace_fb27caf6f9910ab82208584ee3270b04" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_c9f21a80a88cd6c719c4d72d9e7d8db6" parent="aspace_fb27caf6f9910ab82208584ee3270b04" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>"American Indians (Niagara Falls)"</unittitle>
+            <unitdate normal="1973/1981" type="inclusive">1973, 1981</unitdate>
+            <container altrender="Record carton" id="aspace_3a375bba64dc589fd8961c2d9e56974d" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_4003344c68873592bc9665ccf01aeeff" parent="aspace_3a375bba64dc589fd8961c2d9e56974d" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>"Article About Cino etc."</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">29 media elements</extent>
+            </physdesc>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_5403a2f1ecc2ecc4696be05cae324285" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_88db79aaf48993c906ff71211854776d" parent="aspace_5403a2f1ecc2ecc4696be05cae324285" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Big Hotel</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">10 media elements</extent>
+            </physdesc>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Record carton" id="aspace_cb12b9377e9f03063e4208a218fd54b4" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_3f3eb4563f84ff6780dd6428c0c2efb8" parent="aspace_cb12b9377e9f03063e4208a218fd54b4" type="folder">4</container>
+          </did>
+          <controlaccess>
+            <persname role="wam" source="naf">Ludlam, Charles -- History-Sources</persname>
+          </controlaccess>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Body Indian I and II</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">3 media elements</extent>
+            </physdesc>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_c5062faf802bef31b7fc4d10c2ac03e6" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_108bc03b63c87a1d9c303a6c1c440234" parent="aspace_c5062faf802bef31b7fc4d10c2ac03e6" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>"The Book of Etiquette"</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">16 media elements</extent>
+            </physdesc>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container altrender="Record carton" id="aspace_7725a8ff325ae42ecdf0f7d197964a04" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_29f243b55cc5fd9484771dc0abb4d065" parent="aspace_7725a8ff325ae42ecdf0f7d197964a04" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Cara Pina Script</unittitle>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container altrender="Record carton" id="aspace_97dc9e653a601292aede5d5b20c1a28d" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_a27c88b141019e93418fcd8ad43fdb36" parent="aspace_97dc9e653a601292aede5d5b20c1a28d" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Cockstrong</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">73 media elements</extent>
+            </physdesc>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Record carton" id="aspace_ed03537606ac41afb4aa195d35250a8f" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_0029c1821f801575507e0164ab1ae296" parent="aspace_ed03537606ac41afb4aa195d35250a8f" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>"Colleges (Lectures)"</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_fb2aa951b96576e1746906aba0c7e6d6" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_554b7e2d9d7e0c7616887576d1bdeae4" parent="aspace_fb2aa951b96576e1746906aba0c7e6d6" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Conquest of the Universe Script</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_7d4e044976101e8566643fa46f45645d" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_ca155890b19f5c3ed96a5a3bb73ac224" parent="aspace_7d4e044976101e8566643fa46f45645d" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_b379e04a4c2cb0c03828109c28434429" level="file">
+          <did>
+            <unittitle>Conquest of the Universe Contract</unittitle>
+            <unitdate normal="1967/1967">1967</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_9232436c05564cf2c0372ac09126d0ff" label="Mixed Materials [31142062723229]" type="box">11</container>
+            <container id="aspace_51d0424e811d333e3016c89f0e38df12" parent="aspace_9232436c05564cf2c0372ac09126d0ff" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Conquest of the Universe 1 of 2</unittitle>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Record carton" id="aspace_f4adc708af70a8b775d389c6e588d776" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_f2923b8759262e68dd859aba75e24b2e" parent="aspace_f4adc708af70a8b775d389c6e588d776" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Conquest of the Universe 2 of 2</unittitle>
+            <unitdate normal="1967/1968" type="inclusive">1967, 1968</unitdate>
+            <container altrender="Record carton" id="aspace_311d40dfddda8a8c7df6183840c9c5dc" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_0b0da2c24db02fb2ec024cc76d15f75c" parent="aspace_311d40dfddda8a8c7df6183840c9c5dc" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Derby Script</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_7fe05a1e72bac21610e517e834d6582d" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_822cc10dc316082ed58465b234776b6d" parent="aspace_7fe05a1e72bac21610e517e834d6582d" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>The Derby</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container altrender="Record carton" id="aspace_890b38ce868549542132fe47671aea3f" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_c5a94acf3136c0ecd56c69c8b4a83376" parent="aspace_890b38ce868549542132fe47671aea3f" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_9034026424e071298e0038270ade8f0e" level="file">
+          <did>
+            <unittitle>The Destruction of Atlantis Rehersal</unittitle>
+            <unitdate normal="1965/1965">1965</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_75fc66c839e791d76dcac0036309bc08" label="Mixed Materials [31142062723229]" type="box">11</container>
+            <container id="aspace_d9e9234f673080c4a1a72f5fee4479dc" parent="aspace_75fc66c839e791d76dcac0036309bc08" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Dr. Magico</unittitle>
+            <unitdate normal="1973/1979" type="inclusive">1973, 1979</unitdate>
+            <container altrender="Record carton" id="aspace_fe98640ac3e2a9973958bd590f7bf0f5" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_23fea391da7fa66546a7a3481a9a10a7" parent="aspace_fe98640ac3e2a9973958bd590f7bf0f5" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Etiquette Script</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_937fd4cf01af5cb24eca8d60675348ae" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_8c82e9a6ec0ac6fe9884529494f3d747" parent="aspace_937fd4cf01af5cb24eca8d60675348ae" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Etiquette Revival</unittitle>
+            <unitdate normal="1978/1986" type="inclusive">1978, 1986</unitdate>
+            <container altrender="Record carton" id="aspace_1667072a50642240a335c9caa86dbb40" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_22c31f122d85e038061365082aec7d7f" parent="aspace_1667072a50642240a335c9caa86dbb40" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Evergreen Review</unittitle>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container altrender="Record carton" id="aspace_ae760bd673c34b613ff4861069611b6d" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_11305cdd1aad517ae55265c79582b83a" parent="aspace_ae760bd673c34b613ff4861069611b6d" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Flop</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_8228c8a6bef469d6e863a435ce067d34" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_b642a5816a6a8b0bffc23427852de916" parent="aspace_8228c8a6bef469d6e863a435ce067d34" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Flop Script</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container altrender="Record carton" id="aspace_c220fb4976703c86a8f1a29d1b0c7d80" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_571a1e1228fe96cae6969d3c312c6925" parent="aspace_c220fb4976703c86a8f1a29d1b0c7d80" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Goatman</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container altrender="Record carton" id="aspace_f6ef49be0f9509e264cd52375f0a2598" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_88f2fd2ecc1c5685813fc05147dd8b58" parent="aspace_f6ef49be0f9509e264cd52375f0a2598" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Goatman Script</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container altrender="Record carton" id="aspace_e4b37e40a174c5763c0288e74671dcdd" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_409ea457d74c12146839d4617ea39751" parent="aspace_e4b37e40a174c5763c0288e74671dcdd" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Graven Image Script</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_07a029a1d852099e558815580d1a03fc" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_0b4846e2df642b8942eda8100969c747" parent="aspace_07a029a1d852099e558815580d1a03fc" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Graven Image</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container altrender="Record carton" id="aspace_6eb8c3450fe14b520ffa75f725e453d5" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_9f03f061223531b84603ff41dd8e7d16" parent="aspace_6eb8c3450fe14b520ffa75f725e453d5" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Gulliver's Travels Script</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_a9ad0b16d3c00b64f14e80cd31577fa1" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_e0a5c7fd41a78856c805d492c253b04a" parent="aspace_a9ad0b16d3c00b64f14e80cd31577fa1" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Gulliver's Travels</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Record carton" id="aspace_0fbba1a61102372340d8dd719207f8bd" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_b8a7bda5a1c5afff2632a1fe9fb4af6a" parent="aspace_0fbba1a61102372340d8dd719207f8bd" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>The Heart That Eats Itself</unittitle>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container altrender="Record carton" id="aspace_beec5d3d0f7a75d834499b2b3b877387" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_43a6b77183183d417f10acee96c6e2ca" parent="aspace_beec5d3d0f7a75d834499b2b3b877387" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>The Heart That Eats Itself Script</unittitle>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container altrender="Record carton" id="aspace_72675ac51e2ddcd74e23a4e6915ee25e" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_c41b3782799573f694339422daf04252" parent="aspace_72675ac51e2ddcd74e23a4e6915ee25e" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Heaven Grand 1 of 2</unittitle>
+            <unitdate normal="1969/1976" type="inclusive">1969-1976</unitdate>
+            <container altrender="Record carton" id="aspace_a191e79ccb5b47211f0141a5b092067b" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_b8b00b550ca24afacfe4252439872483" parent="aspace_a191e79ccb5b47211f0141a5b092067b" type="folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Heaven Grand 2 of 2</unittitle>
+            <unitdate normal="1969/1976" type="inclusive">1969 - 1976</unitdate>
+            <container altrender="Record carton" id="aspace_e4eddc3e37cbef744b90e5873480d518" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_5da0801e01a9deb8ecdf251f3282d65e" parent="aspace_e4eddc3e37cbef744b90e5873480d518" type="folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Heaven Grand Script</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_03e9bed790f5ef479a2c1ae8562efbba" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_1f373e9b7685c688d54a0b6cedc5904f" parent="aspace_03e9bed790f5ef479a2c1ae8562efbba" type="folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>"Indira Gandhi"</unittitle>
+            <unitdate normal="1966/1967" type="inclusive">1966, 1967</unitdate>
+            <container altrender="Record carton" id="aspace_81e8670877819a0e28702a9017321b08" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_0d339dbec187fe34a2c8e695b80573b3" parent="aspace_81e8670877819a0e28702a9017321b08" type="folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Indira Gandhi's Daring Device Script</unittitle>
+            <unitdate normal="1965/1966" type="inclusive">1965, 1966</unitdate>
+            <container altrender="Record carton" id="aspace_64c2268595eb2ea33800843fdb75aa86" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_e3bdcf5d624309400132c9a2bc96dfa4" parent="aspace_64c2268595eb2ea33800843fdb75aa86" type="folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Juba</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Record carton" id="aspace_2edfe81bec33e6fa6a72a1d7ff3b636b" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_ad1b4536a89872ec4bf3475f2bf7c3a0" parent="aspace_2edfe81bec33e6fa6a72a1d7ff3b636b" type="folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Juba Script</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_ef67b0d7416ad805a36e097704de14b2" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_fd9527e732f67f5c1fd82ade62c94ef0" parent="aspace_ef67b0d7416ad805a36e097704de14b2" type="folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>La Bohemia</unittitle>
+            <unitdate>1974</unitdate>
+            <container altrender="Record carton" id="aspace_d524a612f98476c55cb74bed1264e994" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_beeaa7ecb6a1de4efde2684293bcddf9" parent="aspace_d524a612f98476c55cb74bed1264e994" type="folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_8dc266d6a9d91953b4142a3340bb74c5" level="file">
+          <did>
+            <unittitle>Lady Godiva Contract</unittitle>
+            <unitdate normal="1969/1969">1969</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_5b0e696d97e2665f007dff8f3214f0fb" label="Mixed Materials [31142062723229]" type="box">11</container>
+            <container id="aspace_a85842d93aa5eae0cbeea9074a416d67" parent="aspace_5b0e696d97e2665f007dff8f3214f0fb" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>La Fin Du Cirque Script</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_caeb00d83bc8b29743513d1a58af73e8" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_84c77b97f097773297c4604dcf49daa9" parent="aspace_caeb00d83bc8b29743513d1a58af73e8" type="folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>La Fin Du Cirque</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container altrender="Record carton" id="aspace_daff1c11bebeee29eb43db5e79776a0d" label="Mixed Materials [31142063599685]" type="box">1</container>
+            <container id="aspace_fed838766b1822541ba7e76c3055fb6a" parent="aspace_daff1c11bebeee29eb43db5e79776a0d" type="folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>La Justice Script</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_a1f1b54acccafd234f8008bc797b34b2" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_060263f431d27a3663de15bf12d8b504" parent="aspace_a1f1b54acccafd234f8008bc797b34b2" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>"Le Justice"</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container altrender="Record carton" id="aspace_bda36fbfbdb58b2b50300a9708280c09" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_b8068c436bac0e1669dc384ff8fa82b5" parent="aspace_bda36fbfbdb58b2b50300a9708280c09" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>The Life of Lady Godiva</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_fbc4d1c54df1f0f9c03d34e085c81b94" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_69243da53dd4d0d5945ae05a356f831b" parent="aspace_fbc4d1c54df1f0f9c03d34e085c81b94" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Midsummer Night's Dream</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container altrender="Record carton" id="aspace_0b75bedb5c7bfd75af31dc3d14aaed15" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_8da8d12e4afa2295587b1b51b040c138" parent="aspace_0b75bedb5c7bfd75af31dc3d14aaed15" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate normal="1959/1986" type="inclusive">1959 - 1986</unitdate>
+            <container altrender="Record carton" id="aspace_b06053031cd5edaf223014cc7b0ef865" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_9b1f4133bba16460e9fd8e8852caf5b6" parent="aspace_b06053031cd5edaf223014cc7b0ef865" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Moke-Eater</unittitle>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container altrender="Record carton" id="aspace_728851a02fae98b3135a6efc181f0c37" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_83eed849659b9fb90222f7c095005331" parent="aspace_728851a02fae98b3135a6efc181f0c37" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Moke-Eater Script</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_af2e9ce981c05286309e69a748f46578" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_bde522c95e4a37283655ea8566daf34c" parent="aspace_af2e9ce981c05286309e69a748f46578" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Monkeys of the Organ Grinder</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_0bd32969eeecca210447b226598334b2" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_8d7d7983445be82d680f0d075307b72f" parent="aspace_0bd32969eeecca210447b226598334b2" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>The New Yorker</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container altrender="Record carton" id="aspace_c53786f929a9ff14456c05dd46355349" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_02faf3283f2530c082e6ce914405e553" parent="aspace_c53786f929a9ff14456c05dd46355349" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Night Club Script</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_aac7b5ec36d5226004f94d585c3c4b6a" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_c8ad3fa5d04551af2c77984a86cb279e" parent="aspace_aac7b5ec36d5226004f94d585c3c4b6a" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Night Club</unittitle>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container altrender="Record carton" id="aspace_d4a6fb36c5a99173ec8a3c70a4c01d1e" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_0d8f155ecab0c3745ebed24c31fe7c00" parent="aspace_d4a6fb36c5a99173ec8a3c70a4c01d1e" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Nutcracker</unittitle>
+            <unitdate>1979</unitdate>
+            <container altrender="Record carton" id="aspace_ec7e31dc36d69ddfd5b3225c5cf74e87" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_4e0e2ab0d03cef18d4b392f0b2225d9f" parent="aspace_ec7e31dc36d69ddfd5b3225c5cf74e87" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Persia 1 of 2</unittitle>
+            <unitdate>1972</unitdate>
+            <container altrender="Record carton" id="aspace_6b72e43cf9ad53442d2938d0a1de954b" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_be9eb8b7f9af6626013b612cd141b103" parent="aspace_6b72e43cf9ad53442d2938d0a1de954b" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Persia 2 of 2</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_cf97fd506ec9615ad1f26046611e1ca5" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_57a9089c10ce584d5cc42206a51d7126" parent="aspace_cf97fd506ec9615ad1f26046611e1ca5" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_609116838900670b12c6662db42e8120" level="file">
+          <did>
+            <unittitle>Persia Notebook</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_2111405d376f10fd1720a2a40c6cd646" label="Mixed Materials [31142062723229]" type="box">11</container>
+            <container id="aspace_2066fc0daebda3b9470358268be96ac4" parent="aspace_2111405d376f10fd1720a2a40c6cd646" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Pineapple Face</unittitle>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container altrender="Record carton" id="aspace_c27c5b291c8e2053084f8e6461330fad" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_4fc2d76c83f36198fc9a329fcf53efe3" parent="aspace_c27c5b291c8e2053084f8e6461330fad" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Play With an Ending</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container altrender="Record carton" id="aspace_93e8be91d61819d50ec8af799b2326bf" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_3501588748fb84f770f72697a4c4f72c" parent="aspace_93e8be91d61819d50ec8af799b2326bf" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Play With an Ending Script</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_ae1d07d29440606e660792aa14a561e4" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_ea2671bc03c35c7d732a8c5e063aac6b" parent="aspace_ae1d07d29440606e660792aa14a561e4" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Primitive World</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container altrender="Record carton" id="aspace_76150b9dab2ec9813cd7fe59ec5c9307" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_2f5b41e2fb3deb33040f707b529c774d" parent="aspace_76150b9dab2ec9813cd7fe59ec5c9307" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Primitive World Script</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container altrender="Record carton" id="aspace_de38f82f3dce0152605def24c0737e6b" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_a61e8c80a676c4426561cdc3f5264872" parent="aspace_de38f82f3dce0152605def24c0737e6b" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Room 17C Script</unittitle>
+            <unitdate normal="1983/1984" type="inclusive">1983, 1984</unitdate>
+            <container altrender="Record carton" id="aspace_34286d09fd07693bc7f7d709a03796c3" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_23cf888d806fbc23b74fbc37c3f633bd" parent="aspace_34286d09fd07693bc7f7d709a03796c3" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_379a93c036401a5656b0b84ce38725d8" level="file">
+          <did>
+            <unittitle>Rosalyn Drexler</unittitle>
+            <unitdate normal="2003/2004" type="inclusive">2003-2004</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_36986abbeb6b63dc8d9e5694ab747ec5" label="Mixed Materials [31142062723229]" type="box">11</container>
+            <container id="aspace_7e6b50fdf3d1a25ab1642ebdab1a6021" parent="aspace_36986abbeb6b63dc8d9e5694ab747ec5" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Satyricon</unittitle>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Record carton" id="aspace_99c75c208976dc8d51502be88d4f1d3f" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_20a40709d2b63eed50d971f2538d01a8" parent="aspace_99c75c208976dc8d51502be88d4f1d3f" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>"Screen Test/Juanita Castro/Screen Test II"</unittitle>
+            <unitdate normal="1965/1966" type="inclusive">1965, 1966</unitdate>
+            <container altrender="Record carton" id="aspace_bce0e4b98f598177647513ac553c802a" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_171db94ef59d96beb736faddcae0690a" parent="aspace_bce0e4b98f598177647513ac553c802a" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>"Shower/Juanita Castro"</unittitle>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container altrender="Record carton" id="aspace_e7c26c62af01ab011b5a386cef701674" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_9e61f2107bde100e186dc5568c329b35" parent="aspace_e7c26c62af01ab011b5a386cef701674" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Sissy Script</unittitle>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Record carton" id="aspace_0939d79985b276b634dc8ee02b7083b7" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_5ce425d062e1d972bbdfb9f76f6f3b52" parent="aspace_0939d79985b276b634dc8ee02b7083b7" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Sissy</unittitle>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Record carton" id="aspace_31de3ea90009fdb32c4d5e21f461204b" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_fccc867029da04327ddbdcdefe1b1973" parent="aspace_31de3ea90009fdb32c4d5e21f461204b" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>The Sixty Minute Queer Show</unittitle>
+            <unitdate normal="1977/1978" type="inclusive">1977, 1978</unitdate>
+            <container altrender="Record carton" id="aspace_1ab7e9241ec6fe78de9f5a6cd692ce75" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_f8e0d99fd1542dbc7167a0485ba25dde" parent="aspace_1ab7e9241ec6fe78de9f5a6cd692ce75" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>The Sixty Minute Queer Show Script</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_e2fb992c798ad53b328804356eed9df1" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_b3647b00f76e109917458e54d8148918" parent="aspace_e2fb992c798ad53b328804356eed9df1" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Son of Cockstrong Script</unittitle>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container altrender="Record carton" id="aspace_6512231202065867b338c89f4ef7fd60" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_f48b7414626f89a103b561a78211af53" parent="aspace_6512231202065867b338c89f4ef7fd60" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Son of Cockstrong</unittitle>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container altrender="Record carton" id="aspace_bcf26ed866c4a56c1befa872b7e629d9" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_14c127068673b171c680e8434e4524ae" parent="aspace_bcf26ed866c4a56c1befa872b7e629d9" type="folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>"Songs from Cockstrong, Heaven Grand, Son of Cockstrong"</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_9d9ef2bfd3f381460e1e6f227d2ea7fb" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_84b872db98e0bb95d7d9c16c5c4d51b7" parent="aspace_9d9ef2bfd3f381460e1e6f227d2ea7fb" type="folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Spiders</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_4a1e6cb943fa030913b4cf40fe059c51" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_93a896d103f19a76baf99e7e0619d71e" parent="aspace_4a1e6cb943fa030913b4cf40fe059c51" type="folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Starburn</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container altrender="Record carton" id="aspace_45d4e682c23a4478da5060ddd517360e" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_539f411bcbd651c87ca33b116b231069" parent="aspace_45d4e682c23a4478da5060ddd517360e" type="folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Starburn Script</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container altrender="Record carton" id="aspace_ffc31d7fb55817e3134a033acb87c59c" label="Mixed Materials [31142063599693]" type="box">2</container>
+            <container id="aspace_437718fa869c8ca7cd7461b82789ed64" parent="aspace_ffc31d7fb55817e3134a033acb87c59c" type="folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Theater, Winter 1985</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b773aa91a604969024a3472cd6ca068a" label="Mixed Materials [31142063599701]" type="box">3</container>
+            <container id="aspace_0288498ad15567cd4832d1d0610c644c" parent="aspace_b773aa91a604969024a3472cd6ca068a" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>The Theatre in Poland</unittitle>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_24b78a8dc3315ac71fbf96e7c3297964" label="Mixed Materials [31142063599701]" type="box">3</container>
+            <container id="aspace_79165ffdc303a5dafea90b31d0dfce06" parent="aspace_24b78a8dc3315ac71fbf96e7c3297964" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>"Three Plays at New Theatre by K. Bernard"</unittitle>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_43c7ff3ce946ca09871139483e8f40fd" label="Mixed Materials [31142063599701]" type="box">3</container>
+            <container id="aspace_d5ccf42c824c6acdc095960feb620bf9" parent="aspace_43c7ff3ce946ca09871139483e8f40fd" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Torino Festival</unittitle>
+            <unitdate normal="1991/1992" type="inclusive">1991 - 1992</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0ec5d923622d7915497fec4eae1f8961" label="Mixed Materials [31142063599701]" type="box">3</container>
+            <container id="aspace_7f9adf388b7524733423e6c63e1ae394" parent="aspace_0ec5d923622d7915497fec4eae1f8961" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Transients Welcome</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_15c5cbd351f8af3e6baf526626272f07" label="Mixed Materials [31142063599701]" type="box">3</container>
+            <container id="aspace_bc58e261292d1a9931a935a7cb89429d" parent="aspace_15c5cbd351f8af3e6baf526626272f07" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Vulgar Lives</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_462f2c33ccad4d7e83a31666c3df4af7" label="Mixed Materials [31142063599701]" type="box">3</container>
+            <container id="aspace_890d45c1135ea2de87301c1348fed23e" parent="aspace_462f2c33ccad4d7e83a31666c3df4af7" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Vulgar Lives Script</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dbaa88508a4063c1c793db73c4fe1508" label="Mixed Materials [31142063599701]" type="box">3</container>
+            <container id="aspace_4e70f1fe33392daf374b6fea65c281db" parent="aspace_dbaa88508a4063c1c793db73c4fe1508" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>The Writer's Opera</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ce45c7ad848cc223545e3de194342719" label="Mixed Materials [31142063599701]" type="box">3</container>
+            <container id="aspace_b670fb2b61282a19d2db84f9f907795d" parent="aspace_ce45c7ad848cc223545e3de194342719" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>The Writer's Opera Script 1 of 2</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6b61653166273cb19a7d2e20c8d23ee4" label="Mixed Materials [31142063599701]" type="box">3</container>
+            <container id="aspace_7e62ef3c67abecf4210fd9401a9b61b6" parent="aspace_6b61653166273cb19a7d2e20c8d23ee4" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>The Writer's Opera Script 2 of 2</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_16cdc94602d83c678869b255d0343994" label="Mixed Materials [31142063599701]" type="box">3</container>
+            <container id="aspace_8172cc261ea463f8d00018d0deca9a68" parent="aspace_16cdc94602d83c678869b255d0343994" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>"XX XXX"</unittitle>
+            <unitdate normal="1970/1972" type="inclusive">1970 - 1972</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d2ef1aeda22ce727d6b9eec251ceb807" label="Mixed Materials [31142063599701]" type="box">3</container>
+            <container id="aspace_14c676f21e1d68f8214e94e638d2b0ee" parent="aspace_d2ef1aeda22ce727d6b9eec251ceb807" type="folder">11</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref2" level="series">
+        <did>
+          <unittitle>Series II: Posters and Ephemera</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+            <extent altrender="carrier">in 3 flat boxes and 1 half manuscript box.</extent>
+          </physdesc>
+          <unitdate normal="1981/2005" type="inclusive">1981-2005</unitdate>
+        </did>
+        <scopecontent id="aspace_035d8911de60b4220451783ed3c2302a">
+          <head>Scope and Contents</head>
+          <p>Series II: Posters and Ephemera contains posters, publicity material, objects, and a scrapbook. All the materials relate to Vaccaro's theatrical productions and his work with with the Play-House of the Ridiculous. Materials date from 1981 to 2005.</p>
+        </scopecontent>
+        <arrangement id="aspace_8fd9306fa7d0e229b8d95d7b59d9d763">
+          <head>Arrangement</head>
+          <p>Series II: Posters and Ephemera is organized alphabetically by production title or the name of the institution.</p>
+        </arrangement>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Big Hotel Poster</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Serials Box - 13 x 17" id="aspace_0e6e6b242a56eeb498711697ef48f7dc" label="Graphic Materials [31142063599768]" type="box">8</container>
+            <container id="aspace_b8955c0268574f403f9ceb4c12742975" parent="aspace_0e6e6b242a56eeb498711697ef48f7dc" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_c7c0b45764fc9f03cad5ce5319896ea7" level="file">
+          <did>
+            <unittitle>Etiquette Posters</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_8cd36f9c7d84034ca4f5302167201cd7" label="Mixed Materials [31142062723229]" type="box">11</container>
+            <container id="aspace_907881989589d1bbe2441c4943e3fa0d" parent="aspace_8cd36f9c7d84034ca4f5302167201cd7" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_7f64832aee8284d7ed38780c0d144c0d" level="file">
+          <did>
+            <unittitle>Goodie Pamphlet </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_33257fdf70b1acae7b06c6427c30bfd7" label="Mixed Materials [31142062723229]" type="box">11</container>
+            <container id="aspace_bc14a99ccdebbc5af9867fca7e8dfaf7" parent="aspace_33257fdf70b1acae7b06c6427c30bfd7" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>The Heart That Eats Itself</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Serials Box - 13 x 17" id="aspace_a267d26c6ae7f3fdb757d3d395ae8043" label="Graphic Materials [31142063599768]" type="box">8</container>
+            <container id="aspace_0cfbb6dabf9377fa0affc6dfeb22c2bb" parent="aspace_a267d26c6ae7f3fdb757d3d395ae8043" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>Indira Gandhi/Screen Test Poster</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Serials Box - 13 x 17" id="aspace_46c3893afb54b747446b36f14832b4fb" label="Graphic Materials [31142063599768]" type="box">8</container>
+            <container id="aspace_4c5595e7db42a268f4412fcdc129f4c0" parent="aspace_46c3893afb54b747446b36f14832b4fb" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Indira Gandhi Poster</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Serials Box - 13 x 17" id="aspace_4c3de7b713348a499621d74cb782c5d4" label="Graphic Materials [31142063599768]" type="box">8</container>
+            <container id="aspace_6fe3f449a13ab6f84455f7eb95654565" parent="aspace_4c3de7b713348a499621d74cb782c5d4" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Kenneth Bernard "American Drama" article</unittitle>
+            <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
+            <container altrender="Serials Box - 13 x 17" id="aspace_aa4b5e867b7bb93bcd29a94818ad1361" label="Mixed Materials [31142063599768]" type="box">8</container>
+            <container id="aspace_1e24a4121cc12cb34b0a08ecadefee9d" parent="aspace_aa4b5e867b7bb93bcd29a94818ad1361" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Lady Godiva Poster</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Serials Box - 13 x 17" id="aspace_047a22b42b71af2be08c0e1884e39b81" label="Graphic Materials [31142063599768]" type="box">8</container>
+            <container id="aspace_5665bf172748462f20768102421277dd" parent="aspace_047a22b42b71af2be08c0e1884e39b81" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Life of Lady Godiva Poster (alternate)</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Serials Box - 13 x 17" id="aspace_db3805d241df014f9a51b4d7bb25c6bb" label="Graphic Materials [31142063599768]" type="box">8</container>
+            <container id="aspace_f787ff620205f33155e3194ae10be5ae" parent="aspace_db3805d241df014f9a51b4d7bb25c6bb" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>La Fin Du Cirque</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Serials Box - 13 x 17" id="aspace_9371a39297b62c56a57b593c7fbebc63" label="Graphic Materials [31142063599768]" type="box">8</container>
+            <container id="aspace_a1dfb459e039aa8599eb39a76ff904c0" parent="aspace_9371a39297b62c56a57b593c7fbebc63" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>A Matter of Life and Death</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container altrender="Serials Box - 13 x 17" id="aspace_52635ffc67e482d571b9a8d10dabe69f" label="Graphic Materials [31142063599768]" type="box">8</container>
+            <container id="aspace_471ab1d960d3d557c50da3b58cea4b59" parent="aspace_52635ffc67e482d571b9a8d10dabe69f" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>Moke-Eater Poster</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Serials Box - 13 x 17" id="aspace_afa181f9b1655f4b446b8d4f62bb8aae" label="Graphic Materials [31142063599768]" type="box">8</container>
+            <container id="aspace_3448b0a07c7bea84263b02972b67e8c5" parent="aspace_afa181f9b1655f4b446b8d4f62bb8aae" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>Nightclub Posters</unittitle>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container altrender="Serials Box - 13 x 17" id="aspace_28f0867ed502021b3beef20302e978ca" label="Graphic Materials [31142063599768]" type="box">8</container>
+            <container id="aspace_6a3fa12e6a56f501ceaddcba2a68214d" parent="aspace_28f0867ed502021b3beef20302e978ca" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>No President Poster</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Serials Box - 13 x 17" id="aspace_b32e284dc0420a8ba10b8e35f98a2d63" label="Graphic Materials [31142063599768]" type="box">8</container>
+            <container id="aspace_4f18ca0cce9e4a672b56fe31554dc0dd" parent="aspace_b32e284dc0420a8ba10b8e35f98a2d63" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref142" level="file">
+          <did>
+            <unittitle>Otto Award</unittitle>
+            <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+            <container altrender="Serials Box - 13 x 17" id="aspace_ef5df0592c4da35c4e5e87dad7bb04d8" label="Mixed Materials [31142063599743]" type="box">5</container>
+          </did>
+        </c>
+        <c id="aspace_bfa47b77a4b34ac975c9cf2f2ecc33ea" level="file">
+          <did>
+            <unittitle>Play-House of the Ridiculous Embosser</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Serials Box - 13 x 17" id="aspace_9eb16c1e6b95f2afd78b5b3b7a0e7e03" label="Mixed Materials [31142063599743]" type="box">5</container>
+          </did>
+        </c>
+        <c id="aspace_449864495fe57e52ae829ede7fb7dc20" level="file">
+          <did>
+            <unittitle>Play-House of the Ridiculous Stamp</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Serials Box - 13 x 17" id="aspace_655085abbf5824fe72c1e8924a235009" label="Mixed Materials [31142063599743]" type="box">5</container>
+          </did>
+        </c>
+        <c id="aspace_981ef5200c7d82e05b145d35af3ee281" level="file">
+          <did>
+            <unittitle>Play-House of the Ridiculous Repertory Club Membership Cards</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_8706ede2a30f45ae1f2e3a0ca53bcc02" label="Mixed Materials [31142062723229]" type="box">11</container>
+            <container id="aspace_2450b05d7bdfab554943ea598b2e7794" parent="aspace_8706ede2a30f45ae1f2e3a0ca53bcc02" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>Scrapbook</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_3039f459b45cf43b1758eea6717d155c" label="Mixed Materials [31142063599735]" type="box">4</container>
+            <container id="aspace_489a1a0e008606607fc03cce524d5a23" parent="aspace_3039f459b45cf43b1758eea6717d155c" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>Sharon Thompson Piece</unittitle>
+            <unitdate>1970</unitdate>
+            <container altrender="Serials Box - 13 x 17" id="aspace_5022fb5963114df17c447c99fbe12eab" label="Graphic Materials [31142063599768]" type="box">8</container>
+            <container id="aspace_95581bcfa9eeb066e89abd60c01bf10b" parent="aspace_5022fb5963114df17c447c99fbe12eab" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>Untitled Double-Sided Sketch</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Serials Box - 13 x 17" id="aspace_2a6da2e181d1fe59556f37dc15923a37" label="Graphic Materials [31142063599768]" type="box">8</container>
+            <container id="aspace_645cd7b8a2b109b430718fac956937e5" parent="aspace_2a6da2e181d1fe59556f37dc15923a37" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref164" level="file">
+          <did>
+            <unittitle>Young American Beatnicks Poster</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Serials Box - 13 x 17" id="aspace_a30f2d2f046d12ab5d55806e824f91e8" label="Graphic Materials [31142063599768]" type="box">8</container>
+            <container id="aspace_5e75c5cbbb2fdd78a9be096812e9b30f" parent="aspace_a30f2d2f046d12ab5d55806e824f91e8" type="folder">15</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref3" level="series">
+        <did>
+          <unittitle>Series III: Photographs</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+            <extent altrender="carrier">in 2 manuscript boxes and 2 flat boxes.</extent>
+          </physdesc>
+          <unitdate>undated</unitdate>
+        </did>
+        <scopecontent id="aspace_0c6d49b084d3e17737f86b558fe5d78a">
+          <head>Scope and Contents</head>
+          <p>Series III: Photographs contains photographs, contact sheets, negatives, and slides pertaining to Vaccaro's productions and personal collection. Most of the people and plays in the photographs in the collection are unidentified at this time. Materials are undated.</p>
+        </scopecontent>
+        <arrangement id="aspace_ab4824330e402b770133d446e6c30f9c">
+          <head>Arrangement</head>
+          <p>Series III: Photographs has not been arranged by an archivist. The materials are arranged in the order in which they were received from Vaccaro.</p>
+        </arrangement>
+        <c id="aspace_ref163" level="file">
+          <did>
+            <unittitle>Daniel Nagrin</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_97f10fe00637a558bc1257e16d65a106" label="Mixed Materials [31142063599719]" type="box">6</container>
+            <container id="aspace_48aac5489b2d81646f0311677e7cff26" parent="aspace_97f10fe00637a558bc1257e16d65a106" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Photographs (unsorted)</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a13a58e2f7350a03b5d218c806537e36" label="Graphic Materials [31142063599719]" type="box">6</container>
+            <container id="aspace_3e737c33ea3d120552db2f50b23d1973" parent="aspace_a13a58e2f7350a03b5d218c806537e36" type="folder">2-11</container>
+          </did>
+        </c>
+        <c id="aspace_ref177" level="file">
+          <did>
+            <unittitle>Photographs (unsorted)</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_94c78e5b87c9791f14188ed25ab2096d" label="Graphic Materials [31142063599750]" type="box">7A</container>
+            <container id="aspace_2c00d252fdd6b686746c2f808739e9f5" parent="aspace_94c78e5b87c9791f14188ed25ab2096d" type="folder">1-4</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Fred Ohrenstein Photo of John Vaccaro</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_49288070a74fafa70f47cbb28389ab57" label="Graphic Materials [31142063599727]" type="box">7B</container>
+            <container id="aspace_cdde090eefac251e27930e7a7d3c1a3e" parent="aspace_49288070a74fafa70f47cbb28389ab57" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Starburn Photos (1 of 2)</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_63980f3715e742e7e59116213dc79438" label="Graphic Materials [31142063599727]" type="box">7B</container>
+            <container id="aspace_89612c8c6c64fb663b3b2dd88b9ff752" parent="aspace_63980f3715e742e7e59116213dc79438" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Starburn Photos 2 of 2</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e257fc42a8e26909125222d1257f1f61" label="Graphic Materials [31142063599727]" type="box">7B</container>
+            <container id="aspace_3dc25a32c32832560ac53413bd3c7ca6" parent="aspace_e257fc42a8e26909125222d1257f1f61" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Photographs (unsorted)</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1a0bbca0bd1422f49f3dc8c23a13a3e0" label="Graphic Materials [31142063599727]" type="box">7B</container>
+            <container id="aspace_b3fba5e74b452d360f68e3ec5f321947" parent="aspace_1a0bbca0bd1422f49f3dc8c23a13a3e0" type="folder">4-7</container>
+          </did>
+        </c>
+        <c id="aspace_e9cc7d53c2acd53c62938d14f62fe71e" level="file">
+          <did>
+            <unittitle>Photographs (unsorted)</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Hollinger Flat OS 13.5" id="aspace_b28a808fa253ed0ba3e686882d71af94" label="Graphic Materials [31142062723245]" type="box">14</container>
+            <container id="aspace_702ed477db0a9a5505e5cf6c6679d369" parent="aspace_b28a808fa253ed0ba3e686882d71af94" type="folder">15</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_411664f33d5e99ee793ea0892bbf0c6b" level="series">
+        <did>
+          <unittitle>Series IV: Publications</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+            <extent altrender="carrier">in 1 record carton, 1 manuscript box, 1 half manuscript box, and 1 flat box. </extent>
+          </physdesc>
+          <unitdate normal="1964/2005" type="inclusive">1964-2005</unitdate>
+        </did>
+        <scopecontent id="aspace_9e67ca3f20db63ee7a5c94fa2d93a0c3">
+          <head>Scope and Contents</head>
+          <p>Series IV: Publications contains monographs, exhibition catalogs, journals, and magazines. The publications were collected by John Vaccaro and are related to theater and music. Some of the publications contain articles about Vaccarro and his work. Materials date from 1964 to 2005. Most of the publications are in English, with a few in French, German, Italian, and Dutch.</p>
+        </scopecontent>
+        <arrangement id="aspace_261940e710fc96ba6f4a0c7fd05e766a">
+          <head>Arrangement</head>
+          <p>Series IV: Publications has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
+        </arrangement>
+        <c id="aspace_1f55615d652cb33c423913448f0a05da" level="file">
+          <did>
+            <unittitle>Publications</unittitle>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_32a83cb2997c19f691cb5de24fd86c65" label="Mixed Materials [31142062723229]" type="box">11</container>
+            <container id="aspace_bc509349c88cd7a67e389165d81b43fa" parent="aspace_32a83cb2997c19f691cb5de24fd86c65" type="folder">9</container>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_99a5e1cbb611f7872ed40263f92ef215" label="Mixed Materials [31142062723237]" type="box">12</container>
+            <container altrender="Record carton" id="aspace_4c49864bacb757e9740ac7658f3adb5a" label="Mixed Materials [31142063610805]" type="box">13</container>
+            <container altrender="Hollinger Flat OS 13.5" id="aspace_dc4aff20c5bf5dced913045b4f8ef1dd" label="Mixed Materials [31142062723245]" type="box">14</container>
+            <container id="aspace_5a8c0db1e98d1cc1790171dfe7e1dbb5" parent="aspace_dc4aff20c5bf5dced913045b4f8ef1dd" type="folder">1-14</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref153" level="series">
+        <did>
+          <unittitle>Oversize - Series I: Projects</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+            <extent altrender="carrier">in 1 oversize flat box.</extent>
+          </physdesc>
+          <unitdate normal="1966/1985" type="inclusive">1966-1985</unitdate>
+        </did>
+        <scopecontent id="aspace_fbc919287e69621365d5708ef277153a">
+          <head>Scope and Contents</head>
+          <p>Oversize Series I: Projects contains oversize material related to theatrical productions. Materials date from 1966 to 1985.</p>
+        </scopecontent>
+        <arrangement id="aspace_a830b5d6d20c61a1a1c2f6fcb3b8befa">
+          <head>Arrangement</head>
+          <p>Oversize Series I: Projects is arranged alphabetically.</p>
+        </arrangement>
+        <c id="aspace_ref145" level="file">
+          <did>
+            <unittitle>"American Indians N.A.T.E."</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_e18933dc24720226e4be215742b1bfae" label="Mixed Materials [31142054896199]" type="box">10</container>
+            <container id="aspace_56455f21c563916c3c260340cd87bffe" parent="aspace_e18933dc24720226e4be215742b1bfae" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref147" level="file">
+          <did>
+            <unittitle>"American Indians (Niagara Falls)"</unittitle>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_d02babb51b425960b2b27d43666f4dc1" label="Mixed Materials [31142054896199]" type="box">10</container>
+            <container id="aspace_f7d78de49e6b24aa1a4a19e46968d639" parent="aspace_d02babb51b425960b2b27d43666f4dc1" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref148" level="file">
+          <did>
+            <unittitle>Cockstrong</unittitle>
+            <unitdate>1971</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_4e7c797439a50dd1f73b8dfedd4de038" label="Mixed Materials [31142054896199]" type="box">10</container>
+            <container id="aspace_16e5601c7ab1c80635c4f7af8513ca80" parent="aspace_4e7c797439a50dd1f73b8dfedd4de038" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref149" level="file">
+          <did>
+            <unittitle>Conquest of the Universe</unittitle>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_2814ba0cdff1699e30ab1f121eada492" label="Mixed Materials [31142054896199]" type="box">10</container>
+            <container id="aspace_c060be1c899784a10ec950b535aa9083" parent="aspace_2814ba0cdff1699e30ab1f121eada492" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref150" level="file">
+          <did>
+            <unittitle>Dr. Magico</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_28262349dffe17d5022ce7df9d9f6546" label="Mixed Materials [31142054896199]" type="box">10</container>
+            <container id="aspace_a8acf5bc302eb6184d30a1522f078cc6" parent="aspace_28262349dffe17d5022ce7df9d9f6546" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref151" level="file">
+          <did>
+            <unittitle>Goatman</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_73bf85172978b13b97e1fc0bc2726ab9" label="Mixed Materials [31142054896199]" type="box">10</container>
+            <container id="aspace_2c2b14b5ea88fa16b7e249794a2d9952" parent="aspace_73bf85172978b13b97e1fc0bc2726ab9" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref152" level="file">
+          <did>
+            <unittitle>Heaven Grand</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_fb6381ce2060e4167e655924a9d76e16" label="Mixed Materials [31142054896199]" type="box">10</container>
+            <container id="aspace_783bc22842a983f4d79c540606b3cfdd" parent="aspace_fb6381ce2060e4167e655924a9d76e16" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref154" level="file">
+          <did>
+            <unittitle>"Indira Gandhi"</unittitle>
+            <unitdate normal="1966/1967" type="inclusive">1966. 1967</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_c54f012327a4a0d65a73d82a84bdce33" label="Mixed Materials [31142054896199]" type="box">10</container>
+            <container id="aspace_3709034b60b20a1f90f835c002da5c9d" parent="aspace_c54f012327a4a0d65a73d82a84bdce33" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref155" level="file">
+          <did>
+            <unittitle>Juba</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_56bc8b88d09a7dfa68bb115e4fe87f3c" label="Mixed Materials [31142054896199]" type="box">10</container>
+            <container id="aspace_53835376949f1c6ecf81d83ffa31ca81" parent="aspace_56bc8b88d09a7dfa68bb115e4fe87f3c" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref156" level="file">
+          <did>
+            <unittitle>The Life of Lady Godiva [newspapers]</unittitle>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_03ac4e44fb5fa3cfb6df7b5818d330a1" label="Mixed Materials [31142054896199]" type="box">10</container>
+            <container id="aspace_29b8d527e8e197244537fc5f983ad1a1" parent="aspace_03ac4e44fb5fa3cfb6df7b5818d330a1" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref157" level="file">
+          <did>
+            <unittitle>Miscellaneous [more newspapers]</unittitle>
+            <unitdate normal="1969/1976" type="inclusive">1969 - 1976</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_ddce922264786dc22aef75cd03c43c34" label="Mixed Materials [31142054896199]" type="box">10</container>
+            <container id="aspace_a6be88d95e2869e61827a73e492b52d3" parent="aspace_ddce922264786dc22aef75cd03c43c34" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref158" level="file">
+          <did>
+            <unittitle>Satyricon</unittitle>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_153c1df21a9cb44cfbec88823ee0193e" label="Mixed Materials [31142054896199]" type="box">10</container>
+            <container id="aspace_11e185a78c3d098b25f37a88dfa4a343" parent="aspace_153c1df21a9cb44cfbec88823ee0193e" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref159" level="file">
+          <did>
+            <unittitle>Sissy</unittitle>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_aa9e3667d839866ff9320fcbd07cc913" label="Mixed Materials [31142054896199]" type="box">10</container>
+            <container id="aspace_793a9cbceead5ff3cb8eac434caaef5d" parent="aspace_aa9e3667d839866ff9320fcbd07cc913" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref160" level="file">
+          <did>
+            <unittitle>The Sixty Minute Queer Show</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_d60899ba90d9c74d5fd50fc2af6ac084" label="Mixed Materials [31142054896199]" type="box">10</container>
+            <container id="aspace_0aad43992cdc5ed2dd4dc08cff34a4c0" parent="aspace_d60899ba90d9c74d5fd50fc2af6ac084" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref161" level="file">
+          <did>
+            <unittitle>"XX XXX"</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_dec2526b237de0c54c746a47d02bd635" label="Mixed Materials [31142054896199]" type="box">10</container>
+            <container id="aspace_522b790e23809692de274b184d41d686" parent="aspace_dec2526b237de0c54c746a47d02bd635" type="folder">15</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref110" level="series">
+        <did>
+          <unittitle>Oversize - Series II: Posters and Ephemera</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+            <extent altrender="carrier">in 2 oversize flat boxes and 2 flat file folders.</extent>
+          </physdesc>
+          <unitdate normal="1961/1979" type="inclusive">1961-1979</unitdate>
+        </did>
+        <scopecontent id="aspace_08a635cdb206b00149f705bee0243c5d">
+          <head>Scope and Contents</head>
+          <p>Oversize Series II: Posters and Ephemera contains posters and publicity material related to Vaccaro's theatrical productions. Materials date from 1961 to 1979.</p>
+        </scopecontent>
+        <arrangement id="aspace_86e11ac0ba60e76356eb35b28076ae3f">
+          <head>Arrangement</head>
+          <p>Oversize Series II: Posters and Ephemera is arranged alphabetically.</p>
+        </arrangement>
+        <c id="aspace_ref179" level="file">
+          <did>
+            <unittitle>Cockstrong de Tom Murrin Poster</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_9f1a370acecd6d40eb6852adbe6ef689" label="Graphic Materials [31142063429115]" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>The Derby</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_77e06dbc8612bf8b8029d8c2a3fc324d" label="Graphic Materials [31142054896181]" type="box">9</container>
+            <container id="aspace_a15f51fb12841063ea52ed719b4ab785" parent="aspace_77e06dbc8612bf8b8029d8c2a3fc324d" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>Graven Image Poster</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_8375e8993c0a7e9bdd728f91f1977787" label="Graphic Materials [31142054896181]" type="box">9</container>
+            <container id="aspace_17bbbe570a04e6ad292158a95d83d298" parent="aspace_8375e8993c0a7e9bdd728f91f1977787" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="file">
+          <did>
+            <unittitle>Gulliver's Travels Poster</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_d6aefa5d1a22c05a1b45b06f55a7468b" label="Graphic Materials [31142054896181]" type="box">9</container>
+            <container id="aspace_0aa0c68d0837e30da2a62d06ae0df6f0" parent="aspace_d6aefa5d1a22c05a1b45b06f55a7468b" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle>Juba Poster</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_f7ad8275be887ac3631479ea6e7be302" label="Graphic Materials [31142054896181]" type="box">9</container>
+            <container id="aspace_6f05e21c7871f83cf8f1505b9d0498c2" parent="aspace_f7ad8275be887ac3631479ea6e7be302" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="file">
+          <did>
+            <unittitle>La Bohemia Poster</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_62af0b9f8bd451474904622ae0bebb22" label="Graphic Materials [31142054896181]" type="box">9</container>
+            <container id="aspace_68512930eaa1da1ab8e944d5cef2e3c5" parent="aspace_62af0b9f8bd451474904622ae0bebb22" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="file">
+          <did>
+            <unittitle>"Lady Cockstrong" Drawing</unittitle>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_b6086f08da664100060407e45600773d" label="Graphic Materials [31142054896181]" type="box">9</container>
+            <container id="aspace_e77bb635335bae8430d808320d17c9fe" parent="aspace_b6086f08da664100060407e45600773d" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref137" level="file">
+          <did>
+            <unittitle>La Justice Poster</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_0f313ad3c0ee528bed17fd97c787e334" label="Graphic Materials [31142054896181]" type="box">9</container>
+            <container id="aspace_1243afcf617b19fe8399c9b2714baa94" parent="aspace_0f313ad3c0ee528bed17fd97c787e334" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref136" level="file">
+          <did>
+            <unittitle>La Fin Du Cirque Character Drawings</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_f0035eb748e8681d7905c26d0694027f" label="Graphic Materials [31142054896181]" type="box">9</container>
+            <container id="aspace_9a018eec544ec21c4bbd32e4f24e4ba4" parent="aspace_f0035eb748e8681d7905c26d0694027f" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref180" level="file">
+          <did>
+            <unittitle>La Mama Posters</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_92861e465172e22799f4da1cdeb081de" label="Graphic Materials [31142054896199]" type="box">10</container>
+            <container id="aspace_555e77823e3fa9773d23f22e4e421348" parent="aspace_92861e465172e22799f4da1cdeb081de" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle>A Midsummer Night's Dream Poster</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_a1697bc4679265dc118ab4b11d3ca2f1" label="Graphic Materials [31142054896181]" type="box">9</container>
+            <container id="aspace_f3221b72b6d408b15deab3788231239e" parent="aspace_a1697bc4679265dc118ab4b11d3ca2f1" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_98e77a7ab50d0f9a700fe5d8872475a3" label="Graphic Materials [31142054896181]" type="box">9</container>
+            <container id="aspace_761c3ef4cbff24109a34999cc159f306" parent="aspace_98e77a7ab50d0f9a700fe5d8872475a3" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref181" level="file">
+          <did>
+            <unittitle>"Persia" (A Desert Cheapie) Posters</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_f329d1c2e8dfae712fb54c7134d52a43" label="Graphic Materials [31142054896199]" type="box">10</container>
+            <container id="aspace_4ca6b6fdfc7e018ba0d73d808e836680" parent="aspace_f329d1c2e8dfae712fb54c7134d52a43" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref139" level="file">
+          <did>
+            <unittitle>"Pugliese" Drawing</unittitle>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_e91ad399f71dd93d94ebe28c04ab8dda" label="Graphic Materials [31142054896181]" type="box">9</container>
+            <container id="aspace_3f5179d1ab1b562da65e08bf6d4e33a0" parent="aspace_e91ad399f71dd93d94ebe28c04ab8dda" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="file">
+          <did>
+            <unittitle>The Sixty Minute Queer Show Poster</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_d1004dfcb69b0d0cd32f73df4805d86d" label="Graphic Materials [31142054896181]" type="box">9</container>
+            <container id="aspace_0b1ccf4cd71ab28cd8c2ead7efb17632" parent="aspace_d1004dfcb69b0d0cd32f73df4805d86d" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>The Sixty Minute Queer Show Poster (Dutch)</unittitle>
+            <unitdate normal="1977/1978" type="inclusive">1977, 1978</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_4f816294cd5bfcf7440a279fd3b17f01" label="Graphic Materials [31142054896181]" type="box">9</container>
+            <container id="aspace_65a33f0b79c6bca4003d84a121af1420" parent="aspace_4f816294cd5bfcf7440a279fd3b17f01" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref182" level="file">
+          <did>
+            <unittitle>Theater Im Reichskabarett Poster</unittitle>
+            <unitdate>1973</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_a61d7471f2a4e43988bf07fc6de84125" label="Graphic Materials [31142054896199]" type="box">10</container>
+            <container id="aspace_1c179597bec1ce7353b37bb9c9eec989" parent="aspace_a61d7471f2a4e43988bf07fc6de84125" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="file">
+          <did>
+            <unittitle>Untitled Stage Sketch</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_e70d93abf6c5fb268a277b82bd4b00e9" label="Graphic Materials [31142054896181]" type="box">9</container>
+            <container id="aspace_3b8e9f25c4ad63150d60be46c00d016a" parent="aspace_e70d93abf6c5fb268a277b82bd4b00e9" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="file">
+          <did>
+            <unittitle>Vulgar Lives Poster</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_4f26b6f47a3cf94a00d70f738e6a081d" label="Graphic Materials [31142054896181]" type="box">9</container>
+            <container id="aspace_747a66e1848d01c7d42505963782f257" parent="aspace_4f26b6f47a3cf94a00d70f738e6a081d" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="file">
+          <did>
+            <unittitle>Vulgar Lives Poster (alternate)</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_1ecd60313eb9afa279d43ceb464b8b7f" label="Graphic Materials [31142054896181]" type="box">9</container>
+            <container id="aspace_5738c0546e188158fcf41ada6a8a8db5" parent="aspace_1ecd60313eb9afa279d43ceb464b8b7f" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref178" level="file">
+          <did>
+            <unittitle>"WELL LOVE WILL EAT THE WORLD WILL BE PEACEFUL WILL EAT SHIT" Drawing</unittitle>
+            <unitdate>October 1969</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_4c51999acb01382045a140d4b9a0bc9e" label="Graphic Materials [31142054896181]" type="box">9</container>
+            <container id="aspace_f3d3e603c384563b0af7e9d9f1ace3c3" parent="aspace_4c51999acb01382045a140d4b9a0bc9e" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>The Writer's Opera Poster</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_1a5997e7d23deb2c9dc39ee07c3564d2" label="Graphic Materials [31142054896181]" type="box">9</container>
+            <container id="aspace_64264e538c368a0a583397cc6de9edc0" parent="aspace_1a5997e7d23deb2c9dc39ee07c3564d2" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref162" level="item">
+          <did>
+            <unittitle>The Life of Lady Godiva, the Playhouse of Ridiculous</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_eb924682e370c53b7d48b6075b3476e1" label="Graphic Materials [31142062885010]" type="folder">14</container>
+            <container id="aspace_82dffb75d62b425c2573a63c1a7a437c" parent="aspace_eb924682e370c53b7d48b6075b3476e1" type="object">321.2.0001</container>
+          </did>
+          <odd id="aspace_24b945e3881c5a63340032aadb8bd540">
+            <head>General</head>
+            <p>Poster painted on wood.</p>
+          </odd>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,85 +1,984 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_440/">mss_440</eadid><filedesc><titlestmt><titleproper>Guide to the Jack Smith Papers <num>MSS.440</num></titleproper><author>Megan O'Shea</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>June 2016</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:13:05 -0500</date>.</creation><langusage>Finding aid written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Fales Library and Special Collections</corpname>
-    </repository>
-    <unittitle>Jack Smith Papers</unittitle>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_440/">mss_440</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Jack Smith Papers <num>MSS.440</num></titleproper>
+        <author>Megan O'Shea</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>June 2016</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:13:05 -0500</date>.</creation>
+      <langusage>Finding aid written in English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Jack Smith Papers</unittitle>
+      <origination label="source">
+        <corpname role="dnr" source="naf">Barbara Gladstone Gallery</corpname>
+      </origination>
+      <origination label="Creator">
+        <persname source="naf">Smith, Jack, 1932-1989</persname>
+      </origination>
+      <unitid>MSS.440</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">20.7 Linear Feet</extent>
+        <extent altrender="carrier">in eight manuscript boxes, one half manuscript box, ten record cartons, five oversize flat boxes, and two flat file folders.</extent>
+      </physdesc>
+      <unitdate normal="1891/1990" type="inclusive">1891-1990, undated</unitdate>
+      <unitdate normal="1963/1985" type="bulk">1963-1985</unitdate>
+      <abstract id="aspace_f930526b016a3cce860fa16be5b07e3a">Jack Smith (1932-1989) was a New York-based actor, filmmaker, and photographer known for his pioneering influence in experimental filmmaking and performance art. Smith's low-budget productions employed camp and kitsch aesthetics, including his best known film, <emph render="italic">Flaming Creatures</emph>. In addition to creating his own works, Smith appeared as an actor in productions by Andy Warhol and Robert Wilson. Smith died in 1989 from AIDS-related pneumonia. This collection consists of materials created by Smith throughout the course of his career as an artist, actor, filmmaker, and photographer. The majority of the collection consists of Smith's notes, scripts, drawings, flyers, and posters for his films and performance pieces, dating from the early 1960s through the late 1980s. The collection documents not only Smith's career and creative process, but also the larger landscape of underground cinema and performance art in the 1970s and 1980s.</abstract>
+      <langmaterial id="aspace_039f0bb478d1b0be5671842f337ae29a">Materials are primarily in English, with some materials in Italian, Spanish, French, and German.</langmaterial>
+    </did>
+    <scopecontent id="aspace_824e64ee8f6802893561ecaa1b5b4bcc">
+      <head>Scope and Contents</head>
+      <p>This collection consists of materials created by Jack Smith throughout the course of his career as an artist, actor, filmmaker, and photographer from the 1960s to the late 1980s. Materials include scripts and notes on his films and performance pieces; and drawings, photographs, and collages used for flyers and posters for his performances.  The influence of Smith's disagreement with Jonas Mekas, Smith's idolization of Maria Montez, and his work with Mario Montez is evident throughout his work.  Other items in the collection include subject files and books on film-making, time periods and locations that influenced Smith, health, nutrition, and fitness; address books, his Rolodex, and mailing lists for his performances; financial material, including bank statements, investment statements, and tax records on a property Smith owned in Arizona; identification cards; and a small amount of correspondence. The majority of the collection consists of Smith's flyers and posters for his performances and notes on everything from ideas for new films and performances to lists of errands and chores.</p>
+    </scopecontent>
+    <accessrestrict id="aspace_61faf01e2f3661a09ef4859fcdbb27cd">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <relatedmaterial id="aspace_544a6310381ceac6b6b324b674a3e3b4">
+      <head>Related Materials</head>
+      <p>For more information on Jack Smith, see the Ed Leffingwell Jack Smith Curatorial Files (call number MSS 380), which contain materials associated with Leffingwell's organization of the exhibition "Jack Smith: Flaming Creature" at MoMA PS1 in New York in 1997-1998 and associated printed matter, including material created by Jack Smith.</p>
+      <p>Other collections related to Smith include the John Vaccaro and the Play-House of the Ridiculous Papers (call number MSS 321) and the Serpent's Tail/High Risk Archive (call number MSS 086).</p>
+    </relatedmaterial>
+    <prefercite id="aspace_9a0bd36d73cad225b1c4eb56e4b0d2f6">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Jack Smith Papers; MSS 440; box number; folder number; Fales Library and Special Collections, New York University.</p>
+    </prefercite>
+    <userestrict id="aspace_fe91e76316c26c83362d9a3888b0372a">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <custodhist id="aspace_99929fb0299afe0767403a636ad7c834">
+      <head>Custodial History</head>
+      <p>Prior to and following Smith's death, his personal papers were co-managed by New York performance artist Penny Arcade and film historian J. Hoberman through The Plaster Foundation, Inc. In January 2004, the New York Surrogate Court ordered Arcade and Hoberman to return the collection to Smith's sister, Sue Slater, resulting in an extended series of legal disputes. Despite claims from Arcade and Hoberman stating that Slater did not respond to their earlier attempts at communication, the collection was awarded to Slater. They refused to surrender the collection until 2008 when it was purchased from Smith's estate by the Gladstone Gallery. In July 2015, the Gallery donated this collection, which represents a portion of the original collection, to the Fales Library &amp; Special Collections.</p>
+    </custodhist>
+    <acqinfo id="aspace_55ef5816cd0fe3c424d2dc587b5cf6c3">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Gladstone Gallery in July 2015. The accession number associated with this gift is 2014.440.</p>
+    </acqinfo>
+    <arrangement id="aspace_f9e402cab58c7779872d95ab854e02d1">
+      <head>Arrangement</head>
+      <p>The collection is arranged in six series, with the materials arranged in alphabetical order within series I, IV, and V.  Series II is arranged into two broad topics, Health and Source Material, with no further arrangement within these topics.  Series III and VI have not be arranged.  The series are as follows:</p>
+      <p>Series I. Films and Performances, Series II. Subject Files, Series III. Books, Series IV. Business Records, Series V. Personal Items, and Series VI. Exhibition and Writings on Jack Smith.</p>
+    </arrangement>
+    <processinfo id="aspace_0be4cac518ad2904694cf06c59a71549">
+      <head>Processing Information</head>
+      <p>The collection was rehoused in acid-free folders, enclosures, and boxes.  Enclosures and sticky notes added by the Gladstone Gallery staff and tags added by The Plaster Foundation, Inc. staff were removed and discarded.</p>
+      <p>Materials related to a particular film or performance were arranged together.  Subject files were created from loose clippings, with clippings sorted into two broad topics, Health and Source Material.  Business and financial documents were arranged by type of document.  Personal items were arranged by type of document.</p>
+    </processinfo>
+    <bioghist id="aspace_aec66021012135f46a5672a6f45bb0b9">
+      <head>Biographical note</head>
+      <p>Jack Smith (1932-1989) was a New York-based filmmaker, photographer, and actor known for his pioneering influence in experimental filmmaking and performance art. Smith moved to New York City in 1953, where he attended film classes at the City College of New York and worked as a photographer. He worked as an actor and assistant with Ken Jacobs for two years before making his first film, Scotch Tape, in 1959. </p>
+      <p>Smith created his most well-known film, <emph render="italic">Flaming Creatures</emph>, in 1963. The film was confiscated by the New York Police Department and banned throughout the United States due to nudity and charges of obscenity, and was later ruled obscene by a New York Criminal Court. Jonas Mekas, a friend of Smith's and the founder of the journal <emph render="italic">Film Culture</emph> and the Anthology Film Archives, championed the film and, despite the ban, screened it in theaters and hotel rooms around the country and at the Knokke-le-Zoute film festival in Belgium in 1964. This led to an argument between the two, as Smith believed that Mekas was responsible for the confiscation of the film as well as its notoriety.  Mekas disagreed with Smith's practice of constantly re-editing his work, fearing that this would alter the original genius of the work, and used this to defend his possession of the film.  As a result of this disagreement, Smith never produced another film in entirety as he was constantly editing his work, even while he was screening it.  He also refused to have his work out of his possession.  Many of his subsequent works focused on Mekas, including <emph render="italic">I Was a Mekas Collaborator</emph>, <emph render="italic">Death in Uncle Archives' Vault</emph>, and his adaptation of <emph render="italic">The Critic</emph> by Richard Brinsley Sheridan, variously titled <emph render="italic">The Critic</emph>, <emph render="italic">The Lobsters</emph>, <emph render="italic">Lucky Landlordism of Roachcrust</emph>, and <emph render="italic">Lucky Landlordism of Lotusland</emph>.  </p>
+      <p>Actress Maria Montez was another profound influence on Smith's work.  Known as the Queen of Technicolor, she was the star of Universal's Technicolor adventure movies filmed in the 1940s.  Smith's performances, sets, and costumes were influenced by Montez and the atmosphere of her films.  In the early 1960s, Smith convinced the young drag queen Rene Rivera to adopt the name Mario Montez in homage to Maria Montez.  Mario starred in <emph render="italic">Flaming Creatures</emph> and other Smith performances, before becoming one of Andy Warhol's superstars.</p>
+      <p>Throughout the late 1960s and into the mid-1980s, Smith began to focus more on performance art and combined live performances with screenings of his films and slideshows.  In addition to the Mekas inspired performances, shows created during this time period include <emph render="italic">Death of a Penguin</emph>, <emph render="italic">The Secret of Rented Island</emph>, <emph render="italic">Sinbad and the Rented World</emph>, <emph render="italic">No President</emph>, and <emph render="italic">I Was a Male Yvonne De Carlo for the Lucky Landlord Underground</emph>.  Smith also published essays and short stories in <emph render="italic">Film Culture</emph> and other periodicals and appeared as an actor in productions by Andy Warhol, Robert Wilson, and Ken Jacobs. </p>
+      <p>Smith died in 1989 from AIDS-related pneumonia. His influence has been identified in genres of experimental filmmaking and performance art on the broad scale, and specifically in the works of Warhol, John Waters, Laurie Anderson, and Cindy Sherman.</p>
+    </bioghist>
+    <appraisal id="aspace_60ef027ef17cc44c1e619cbebe736b86">
+      <head>Appraisal</head>
+      <p>Duplicates of flyers and posters for Smith's films and performances were weeded.  Newspaper and magazine clippings and books not relevant to Smith's interests or work were weeded.  Smith's clothing and receipts were determined to be of low research value and were deaccessioned.</p>
+    </appraisal>
+    <controlaccess>
+      <subject source="lcsh">Avant-garde films.</subject>
+      <subject source="lcsh">Photographers -- United States.</subject>
+      <subject source="lcsh">Artists -- New York (State) -- New York.</subject>
+      <genreform source="aat">Color photographs.</genreform>
+      <genreform source="aat">Collages (visual works)</genreform>
+      <genreform source="aat">Negatives (photographic)</genreform>
+      <subject source="lcsh">Experimental theater -- 20th century</subject>
+      <subject source="lcsh">AIDS (Disease)</subject>
+      <subject source="lcsh">Independent filmmakers -- United States.</subject>
+      <genreform source="aat">Fliers (printed matter)</genreform>
+      <subject source="lcsh">Performance art -- New York (State) -- New York.</subject>
+      <subject source="lcsh">Performance artists.</subject>
+      <subject source="lcsh">Gay artists -- United States</subject>
+      <genreform source="aat">Notebooks</genreform>
+      <genreform source="aat">Flip books.</genreform>
+      <genreform source="aat">Posters.</genreform>
+      <genreform source="aat">Passports.</genreform>
+      <genreform source="aat">Ledgers (account books)</genreform>
+      <genreform source="aat">Notes.</genreform>
+      <subject source="lcsh">Motion picture producers and directors.</subject>
+      <persname source="naf">Montez, Maria, 1912-1951</persname>
+      <persname source="naf">Montez, Mario, 1935-2013</persname>
+      <persname source="naf">Mekas, Jonas</persname>
       <corpname role="dnr" source="naf">Barbara Gladstone Gallery</corpname>
-    </origination>
-    <origination label="Creator">
-      <persname source="naf">Smith, Jack, 1932-1989</persname>
-    </origination>
-    <unitid>MSS.440</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">20.7 Linear Feet</extent>
-      <extent altrender="carrier">in eight manuscript boxes, one half manuscript box, ten record cartons, five oversize flat boxes, and two flat file folders.</extent>
-    </physdesc>
-    <unitdate normal="1891/1990" type="inclusive">1891-1990, undated</unitdate>
-    <unitdate normal="1963/1985" type="bulk">1963-1985</unitdate>
-    <abstract id="aspace_f930526b016a3cce860fa16be5b07e3a">Jack Smith (1932-1989) was a New York-based actor, filmmaker, and photographer known for his pioneering influence in experimental filmmaking and performance art. Smith's low-budget productions employed camp and kitsch aesthetics, including his best known film, <emph render="italic">Flaming Creatures</emph>. In addition to creating his own works, Smith appeared as an actor in productions by Andy Warhol and Robert Wilson. Smith died in 1989 from AIDS-related pneumonia. This collection consists of materials created by Smith throughout the course of his career as an artist, actor, filmmaker, and photographer. The majority of the collection consists of Smith's notes, scripts, drawings, flyers, and posters for his films and performance pieces, dating from the early 1960s through the late 1980s. The collection documents not only Smith's career and creative process, but also the larger landscape of underground cinema and performance art in the 1970s and 1980s.</abstract>
-    <langmaterial id="aspace_039f0bb478d1b0be5671842f337ae29a">Materials are primarily in English, with some materials in Italian, Spanish, French, and German.</langmaterial>
-  </did>
-  <scopecontent id="aspace_824e64ee8f6802893561ecaa1b5b4bcc">
-    <head>Scope and Contents</head>
-<p>This collection consists of materials created by Jack Smith throughout the course of his career as an artist, actor, filmmaker, and photographer from the 1960s to the late 1980s. Materials include scripts and notes on his films and performance pieces; and drawings, photographs, and collages used for flyers and posters for his performances.  The influence of Smith's disagreement with Jonas Mekas, Smith's idolization of Maria Montez, and his work with Mario Montez is evident throughout his work.  Other items in the collection include subject files and books on film-making, time periods and locations that influenced Smith, health, nutrition, and fitness; address books, his Rolodex, and mailing lists for his performances; financial material, including bank statements, investment statements, and tax records on a property Smith owned in Arizona; identification cards; and a small amount of correspondence. The majority of the collection consists of Smith's flyers and posters for his performances and notes on everything from ideas for new films and performances to lists of errands and chores.</p>  </scopecontent>
-  <accessrestrict id="aspace_61faf01e2f3661a09ef4859fcdbb27cd">
-    <head>Conditions Governing Access</head>
-<p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
-  <relatedmaterial id="aspace_544a6310381ceac6b6b324b674a3e3b4">
-    <head>Related Materials</head>
-<p>For more information on Jack Smith, see the Ed Leffingwell Jack Smith Curatorial Files (call number MSS 380), which contain materials associated with Leffingwell's organization of the exhibition "Jack Smith: Flaming Creature" at MoMA PS1 in New York in 1997-1998 and associated printed matter, including material created by Jack Smith.</p><p>Other collections related to Smith include the John Vaccaro and the Play-House of the Ridiculous Papers (call number MSS 321) and the Serpent's Tail/High Risk Archive (call number MSS 086).</p>  </relatedmaterial>
-  <prefercite id="aspace_9a0bd36d73cad225b1c4eb56e4b0d2f6">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Jack Smith Papers; MSS 440; box number; folder number; Fales Library and Special Collections, New York University.</p>  </prefercite>
-  <userestrict id="aspace_fe91e76316c26c83362d9a3888b0372a">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </userestrict>
-  <custodhist id="aspace_99929fb0299afe0767403a636ad7c834">
-    <head>Custodial History</head>
-<p>Prior to and following Smith's death, his personal papers were co-managed by New York performance artist Penny Arcade and film historian J. Hoberman through The Plaster Foundation, Inc. In January 2004, the New York Surrogate Court ordered Arcade and Hoberman to return the collection to Smith's sister, Sue Slater, resulting in an extended series of legal disputes. Despite claims from Arcade and Hoberman stating that Slater did not respond to their earlier attempts at communication, the collection was awarded to Slater. They refused to surrender the collection until 2008 when it was purchased from Smith's estate by the Gladstone Gallery. In July 2015, the Gallery donated this collection, which represents a portion of the original collection, to the Fales Library &amp; Special Collections.</p>  </custodhist>
-  <acqinfo id="aspace_55ef5816cd0fe3c424d2dc587b5cf6c3">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Gladstone Gallery in July 2015. The accession number associated with this gift is 2014.440.</p>  </acqinfo>
-  <arrangement id="aspace_f9e402cab58c7779872d95ab854e02d1">
-    <head>Arrangement</head>
-<p>The collection is arranged in six series, with the materials arranged in alphabetical order within series I, IV, and V.  Series II is arranged into two broad topics, Health and Source Material, with no further arrangement within these topics.  Series III and VI have not be arranged.  The series are as follows:</p><p>Series I. Films and Performances, Series II. Subject Files, Series III. Books, Series IV. Business Records, Series V. Personal Items, and Series VI. Exhibition and Writings on Jack Smith.</p>  </arrangement>
-  <processinfo id="aspace_0be4cac518ad2904694cf06c59a71549">
-    <head>Processing Information</head>
-<p>The collection was rehoused in acid-free folders, enclosures, and boxes.  Enclosures and sticky notes added by the Gladstone Gallery staff and tags added by The Plaster Foundation, Inc. staff were removed and discarded.</p><p>Materials related to a particular film or performance were arranged together.  Subject files were created from loose clippings, with clippings sorted into two broad topics, Health and Source Material.  Business and financial documents were arranged by type of document.  Personal items were arranged by type of document.</p>  </processinfo>
-  <bioghist id="aspace_aec66021012135f46a5672a6f45bb0b9">
-    <head>Biographical note</head>
-<p>Jack Smith (1932-1989) was a New York-based filmmaker, photographer, and actor known for his pioneering influence in experimental filmmaking and performance art. Smith moved to New York City in 1953, where he attended film classes at the City College of New York and worked as a photographer. He worked as an actor and assistant with Ken Jacobs for two years before making his first film, Scotch Tape, in 1959. </p><p>Smith created his most well-known film, <emph render="italic">Flaming Creatures</emph>, in 1963. The film was confiscated by the New York Police Department and banned throughout the United States due to nudity and charges of obscenity, and was later ruled obscene by a New York Criminal Court. Jonas Mekas, a friend of Smith's and the founder of the journal <emph render="italic">Film Culture</emph> and the Anthology Film Archives, championed the film and, despite the ban, screened it in theaters and hotel rooms around the country and at the Knokke-le-Zoute film festival in Belgium in 1964. This led to an argument between the two, as Smith believed that Mekas was responsible for the confiscation of the film as well as its notoriety.  Mekas disagreed with Smith's practice of constantly re-editing his work, fearing that this would alter the original genius of the work, and used this to defend his possession of the film.  As a result of this disagreement, Smith never produced another film in entirety as he was constantly editing his work, even while he was screening it.  He also refused to have his work out of his possession.  Many of his subsequent works focused on Mekas, including <emph render="italic">I Was a Mekas Collaborator</emph>, <emph render="italic">Death in Uncle Archives' Vault</emph>, and his adaptation of <emph render="italic">The Critic</emph> by Richard Brinsley Sheridan, variously titled <emph render="italic">The Critic</emph>, <emph render="italic">The Lobsters</emph>, <emph render="italic">Lucky Landlordism of Roachcrust</emph>, and <emph render="italic">Lucky Landlordism of Lotusland</emph>.  </p><p>Actress Maria Montez was another profound influence on Smith's work.  Known as the Queen of Technicolor, she was the star of Universal's Technicolor adventure movies filmed in the 1940s.  Smith's performances, sets, and costumes were influenced by Montez and the atmosphere of her films.  In the early 1960s, Smith convinced the young drag queen Rene Rivera to adopt the name Mario Montez in homage to Maria Montez.  Mario starred in <emph render="italic">Flaming Creatures</emph> and other Smith performances, before becoming one of Andy Warhol's superstars.</p><p>Throughout the late 1960s and into the mid-1980s, Smith began to focus more on performance art and combined live performances with screenings of his films and slideshows.  In addition to the Mekas inspired performances, shows created during this time period include <emph render="italic">Death of a Penguin</emph>, <emph render="italic">The Secret of Rented Island</emph>, <emph render="italic">Sinbad and the Rented World</emph>, <emph render="italic">No President</emph>, and <emph render="italic">I Was a Male Yvonne De Carlo for the Lucky Landlord Underground</emph>.  Smith also published essays and short stories in <emph render="italic">Film Culture</emph> and other periodicals and appeared as an actor in productions by Andy Warhol, Robert Wilson, and Ken Jacobs. </p><p>Smith died in 1989 from AIDS-related pneumonia. His influence has been identified in genres of experimental filmmaking and performance art on the broad scale, and specifically in the works of Warhol, John Waters, Laurie Anderson, and Cindy Sherman.</p>  </bioghist>
-  <appraisal id="aspace_60ef027ef17cc44c1e619cbebe736b86">
-    <head>Appraisal</head>
-<p>Duplicates of flyers and posters for Smith's films and performances were weeded.  Newspaper and magazine clippings and books not relevant to Smith's interests or work were weeded.  Smith's clothing and receipts were determined to be of low research value and were deaccessioned.</p>  </appraisal>
-  <controlaccess>
-    <subject source="lcsh">Avant-garde films.</subject>
-    <subject source="lcsh">Photographers -- United States.</subject>
-    <subject source="lcsh">Artists -- New York (State) -- New York.</subject>
-    <genreform source="aat">Color photographs.</genreform>
-    <genreform source="aat">Collages (visual works)</genreform>
-    <genreform source="aat">Negatives (photographic)</genreform>
-    <subject source="lcsh">Experimental theater -- 20th century</subject>
-    <subject source="lcsh">AIDS (Disease)</subject>
-    <subject source="lcsh">Independent filmmakers -- United States.</subject>
-    <genreform source="aat">Fliers (printed matter)</genreform>
-    <subject source="lcsh">Performance art -- New York (State) -- New York.</subject>
-    <subject source="lcsh">Performance artists.</subject>
-    <subject source="lcsh">Gay artists -- United States</subject>
-    <genreform source="aat">Notebooks</genreform>
-    <genreform source="aat">Flip books.</genreform>
-    <genreform source="aat">Posters.</genreform>
-    <genreform source="aat">Passports.</genreform>
-    <genreform source="aat">Ledgers (account books)</genreform>
-    <genreform source="aat">Notes.</genreform>
-    <subject source="lcsh">Motion picture producers and directors.</subject>
-    <persname source="naf">Montez, Maria, 1912-1951</persname>
-    <persname source="naf">Montez, Mario, 1935-2013</persname>
-    <persname source="naf">Mekas, Jonas</persname>
-    <corpname role="dnr" source="naf">Barbara Gladstone Gallery</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref12" level="series"><did><unittitle>Series I. Films, Performances, and Artwork</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">8.3 Linear Feet</extent><extent altrender="carrier">in six manuscript boxes and four oversize flat boxes.</extent></physdesc><unitdate normal="1961/1989" type="inclusive">1961-1989, undated</unitdate></did><arrangement id="aspace_80c93a0358b003b1445782f547633852"><head>Arrangement</head><p>This series is arranged alphabetically by title of work, with subjects, formats, and alphabetical ranges interfiled. Works that have a substantial amount of material are listed by title; smaller ranges of material are filed together and listed under alphabetical ranges of titles included therein. Notes, scripts, drawings, flyers, posters, clippings and correspondence for each film, performance, or artwork are organized together intellectually but may be physically housed separately due to size or condition of the material.</p></arrangement><scopecontent id="aspace_4f0ab5fce340ba15e61a8bba2d5b3ae4"><head>Scope and Content</head><p>This series includes materials used in the creation of Smith's films and performance pieces, including scripts, notes, drawings, photographs, collages, flyers, posters, metal plates and mylar proofs for offset lithography, clippings, and correspondence. Included in the <emph render="italic">Flaming Creatures</emph> material are Smith's journal kept during the filming, a letter written by Smith to the <emph render="italic">Village Voice</emph> regarding the film, flyers for screenings, and notes on Jonas Mekas and his distribution of the film.  The influence of Smith's disagreement with Mekas is evident throughout this series and includes flyers, mylar proofs, and offset lithography plates for <emph render="italic">I Was a Mekas Collaborator</emph> and <emph render="italic">How Can Uncle Fishhook Have a Free Bicentennial Zombie Underground?</emph>; flyers, notes, and scripts for Smith's adaptation of Richard Brinsley Sheridan's <emph render="italic">The Critic</emph>, variously titled <emph render="italic">The Critic</emph>, <emph render="italic">The Lobsters</emph>, <emph render="italic">Lucky Landlordism of Roachcrust</emph>, and <emph render="italic">Lucky Landlordism of Lotusland</emph>; and flyers for <emph render="italic">Death in Uncle Archives' Vault</emph>.  Maria Montez is another influence found throughout the series, in particular in <emph render="italic">Memoirs of Maria Montez, or Wait for Me at the Bottom of the Pool</emph> and throughout Smith's notes, untitled writings, and untitled artworks.  Notes, scripts, and flyers regarding Mario Montez performances can also be found throughout the series, including <emph render="italic">Normal Love</emph>, <emph render="italic">Flaming Creatures</emph>, and <emph render="italic">No President</emph>.  </p><p>Other material in this series includes script pages and correspondence regarding <emph render="italic">Normal Love</emph> and <emph render="italic">Normal Fantasy</emph>; posters, programs, and correspondence regarding film series and festivals that included screenings or performances by Smith; and original artwork and collages used by Smith to promote his performances. There are materials from a handful of productions written and directed by other artists in which Smith performed or attended. The bulk of the series consists of loose notes and notebooks, which include lists of titles for works; to-do lists and shopping lists; and ideas for new films or writings.  In addition to these notes are longer pieces of untitled writing, of two paragraphs or more.  Untitled artwork not related to Smith's artwork for his films and performances includes photographs, drawings, and collages, and an untitled mixed media art piece found in an envelope and assumed to be an artwork created by Smith. </p><p>Other productions represented in this series include <emph render="italic">The Secret of Rented Island</emph>, Smith's adaptation of Henrik Ibsen's <emph render="italic">Ghosts</emph>; <emph render="italic">No President</emph> or <emph render="italic">The Kidnapping and Auctioning of Wendell Willkie by the Love Bandit</emph>; <emph render="italic">Death of a Penguin</emph>; <emph render="italic">Impacted Croissants of Outer Space</emph>; <emph render="italic">Sinbad in the Rented World</emph>, Smith's adaptation of William Shakespeare's <emph render="italic">Hamlet</emph>; <emph render="italic">The White Pig of the Medina</emph>; and <emph render="italic">I Was a Male Yvonne De Carlo for the Lucky Landlord Underground</emph>. Materials date from the late 1960s to the late 1980s.</p></scopecontent><c id="aspace_ref13" level="file"><did><unittitle>A-Bi</unittitle><unitdate normal="1968/1979" type="inclusive">1968, 1979, undated</unitdate><container altrender="Flat OS Box 17" id="aspace_018e626addc2fa4487e803acd2c0746e" label="Mixed Materials [31142054873669]" type="box">11</container><container id="aspace_24ce66a2f54968d5f1d086ca238e0a64" parent="aspace_018e626addc2fa4487e803acd2c0746e" type="folder">11</container><container altrender="Flat Box 11.75 x 15.5" id="aspace_a0616209539073f0d19f6acb5d14406f" label="Mixed Materials [31142054873628]" type="box">9</container><container id="aspace_dd987b8d4a3bede7ffcdae816ca4e087" parent="aspace_a0616209539073f0d19f6acb5d14406f" type="folder">1-2</container><container altrender="Flat OS Box 17" id="aspace_9e8fd86e71a7526594bdca80658bc778" label="Mixed Materials [31142054873669]" type="box">11</container><container id="aspace_2b0918a9458f2d66c175f474760f870d" parent="aspace_9e8fd86e71a7526594bdca80658bc778" type="folder">1</container><container altrender="Manuscript box - Legal" id="aspace_6be903b96385f87b7150e3104261ffc4" label="Mixed Materials [31142054873545]" type="box">1</container><container id="aspace_50958aa33979800fb795b2abc4e333b1" parent="aspace_6be903b96385f87b7150e3104261ffc4" type="folder">1</container></did></c><c id="aspace_ref14" level="file"><did><unittitle><emph render="italic">Brassieres of Atlantis</emph></unittitle><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_493ee8aaabd59aa5cc7e7347c286c7c4" label="Mixed Materials [31142054873545]" type="box">1</container><container id="aspace_9ba92d9965e1c6527e05f2f9a0314b83" parent="aspace_493ee8aaabd59aa5cc7e7347c286c7c4" type="folder">2</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Brassieres of B-Claptailism of L</unittitle><unitdate normal="1968/1978" type="inclusive">1968, 1978, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2fd0126bf4dfff5c4e3d9ee1aeb33d57" label="Mixed Materials [31142054873545]" type="box">1</container><container id="aspace_318cafcf8690e9f90c28a1a98115702b" parent="aspace_2fd0126bf4dfff5c4e3d9ee1aeb33d57" type="folder">3</container></did></c><c id="aspace_ref85" level="file"><did><unittitle><emph render="italic">Buzzards over Bagdad</emph> flipbook</unittitle><unitdate normal="1966/1966" type="inclusive">1966</unitdate><container altrender="Flat Box 11.75 x 15.5" id="aspace_ccd80cc1d96daf5fac5387460c4a29e4" label="Mixed Materials [31142054873628]" type="box">9</container><container id="aspace_f92931d3ec50defc9e0fdb4dcbc7278d" parent="aspace_ccd80cc1d96daf5fac5387460c4a29e4" type="folder">3</container></did></c><c id="aspace_ref16" level="file"><did><unittitle><emph render="italic">Claptailism of Palmola Economic Spectacle</emph></unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Manuscript box - Legal" id="aspace_5a9a4d8f473f062be31d6e486f28045d" label="Mixed Materials [31142054873545]" type="box">1</container><container id="aspace_4de1acbf317fab6e03fefe91b1f5ea5c" parent="aspace_5a9a4d8f473f062be31d6e486f28045d" type="folder">4</container></did></c><c id="aspace_ref17" level="file"><did><unittitle><emph render="italic">Clash of the Brassiere Goddesses</emph></unittitle><unitdate normal="1984/1984" type="inclusive">1984</unitdate><container altrender="Manuscript box - Legal" id="aspace_d8d4097884e87b8aac6fd2c499b0da65" label="Mixed Materials [31142054873545]" type="box">1</container><container id="aspace_3c62dc8524e214e86b361895a81b51e6" parent="aspace_d8d4097884e87b8aac6fd2c499b0da65" type="folder">5</container><container altrender="Flat Box 11.75 x 15.5" id="aspace_c00ff16af12129cf071adc87b4d3c89f" label="Mixed Materials [31142054873628]" type="box">9</container><container id="aspace_8ac02d6d16f33d7f49d72bc83921da57" parent="aspace_c00ff16af12129cf071adc87b4d3c89f" type="folder">4</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Clipping collages</unittitle><unitdate normal="1972/1985" type="inclusive">1972, 1979-1985, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_0d95f7ad208c561d510e4497b1c3c96f" label="Mixed Materials [31142054873545]" type="box">1</container><container id="aspace_9028c858dfb9f52e9e75bc7eecca2740" parent="aspace_0d95f7ad208c561d510e4497b1c3c96f" type="folder">6</container><container altrender="Flat Box 11.75 x 15.5" id="aspace_c78f94633480f88cdd573abb0a6b7712" label="Mixed Materials [31142054873628]" type="box">9</container><container id="aspace_42a0f8d8298b9701f26cd252128198f1" parent="aspace_c78f94633480f88cdd573abb0a6b7712" type="folder">5-6</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1963/1989" type="inclusive">1963-1989, undated</unitdate><container altrender="Flat OS 21" id="aspace_067a14e7ec402f9c088bb54c6fea37d0" label="Mixed Materials [31142054891042]" type="box">Shared Fales 001 </container><container id="aspace_0fceec007c348e6e4a5d67525c69dcca" parent="aspace_067a14e7ec402f9c088bb54c6fea37d0" type="folder">2</container><container altrender="Flat OS Box 17" id="aspace_4b490901eb25744b4c882dcbc27c7f14" label="Mixed Materials [31142054873669]" type="box">11</container><container id="aspace_41d60f6f2d45c900c3da5bf5ad566a3e" parent="aspace_4b490901eb25744b4c882dcbc27c7f14" type="folder">10</container><container altrender="Manuscript box - Legal" id="aspace_17c8e1a3c36a7eab92b1abe6694209de" label="Mixed Materials [31142054873545]" type="box">1</container><container id="aspace_c1f2b90031e741fc7af6a915e089dfb4" parent="aspace_17c8e1a3c36a7eab92b1abe6694209de" type="folder">7-8</container><container altrender="Flat Box 11.75 x 15.5" id="aspace_05d8b08dab6003ad449fa9e67f74188d" label="Mixed Materials [31142054873628]" type="box">9</container><container id="aspace_3883ba234e8e20c312b7c74f289bf71d" parent="aspace_05d8b08dab6003ad449fa9e67f74188d" type="folder">7</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Collage material</unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2bff30379b1bb55bcedd807ab7c7cab6" label="Mixed Materials [31142054873545]" type="box">1</container><container id="aspace_3a0b8a13853370afc745a49ccdd6a171" parent="aspace_2bff30379b1bb55bcedd807ab7c7cab6" type="folder">9-10</container><container altrender="Flat Box 11.75 x 15.5" id="aspace_96c5b588dec22b048467504f8bccb64d" label="Mixed Materials [31142054873628]" type="box">9</container><container id="aspace_e3161c53cc3e07af3d516c390ffb5f39" parent="aspace_96c5b588dec22b048467504f8bccb64d" type="folder">8</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Con-Cou</unittitle><unitdate normal="1977/1979" type="inclusive">1977-1979, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d13aab2c15d0ca39499e6ba433fee7ab" label="Mixed Materials [31142054873545]" type="box">1</container><container id="aspace_805cf804baf859ae66daa6c1e4ec422a" parent="aspace_d13aab2c15d0ca39499e6ba433fee7ab" type="folder">11</container><container altrender="Flat Box 11.75 x 15.5" id="aspace_f3d6f2eeb9903bc84cb4710959a1be29" label="Mixed Materials [31142054873628]" type="box">9</container><container id="aspace_876ad7d75d9f026d7e0201412ae06dda" parent="aspace_f3d6f2eeb9903bc84cb4710959a1be29" type="folder">9</container></did></c><c id="aspace_ref22" level="file"><did><unittitle><emph render="italic">Crab Ogress of Jingola</emph></unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_1f299c513a855ebd83a6e3b53c1d287b" label="Mixed Materials [31142054873545]" type="box">1</container><container id="aspace_0850d8a2e712dea3677244d7353fbf26" parent="aspace_1f299c513a855ebd83a6e3b53c1d287b" type="folder">12</container></did></c><c id="aspace_ref23" level="file"><did><unittitle><emph render="italic">The Critic</emph></unittitle><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Manuscript box - Legal" id="aspace_438ba600b9f76a8db38f81864dc4cada" label="Mixed Materials [31142054873545]" type="box">1</container><container id="aspace_bb7e902a841fd45b32e5e1b2ede259b1" parent="aspace_438ba600b9f76a8db38f81864dc4cada" type="folder">13-15</container><container altrender="Flat Box 11.75 x 15.5" id="aspace_c00eeef4dedfcf7169a3922be9c7aece" label="Mixed Materials [31142054873628]" type="box">9</container><container id="aspace_2a06aa044e693b8b181f380ebd32cb11" parent="aspace_c00eeef4dedfcf7169a3922be9c7aece" type="folder">10</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Cu-Fe</unittitle><unitdate normal="1970/1985" type="inclusive">1970-1985, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_8bebda6ab26cb91c535840de159f2900" label="Mixed Materials [31142054873545]" type="box">1</container><container id="aspace_f9ab8f84d507fbbc53cbec6884bac26e" parent="aspace_8bebda6ab26cb91c535840de159f2900" type="folder">16</container><container altrender="Flat Box 11.75 x 15.5" id="aspace_c0c6cb2562c95f84355396faac565bba" label="Mixed Materials [31142054873628]" type="box">9</container><container id="aspace_7287f89c2eddcf847d53e71d54fdba34" parent="aspace_c0c6cb2562c95f84355396faac565bba" type="folder">11-12</container><container altrender="Flat OS Box 17" id="aspace_68afee9aa63a85f0d736032b33201e82" label="Mixed Materials [31142054873669]" type="box">11</container><container id="aspace_7b77281975e4f8f736fb94f649b22f24" parent="aspace_68afee9aa63a85f0d736032b33201e82" type="folder">2-3</container><container altrender="Oversize Folder - Half Case" id="aspace_9dda4bdcca3d67ad3801cda0f79c3952" label="Mixed Materials [31142062890309]" type="folder">16</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Film festivals and lectures</unittitle><unitdate normal="1976/1985" type="inclusive">1976-1985, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_dcbd74e761bf5f530b0a539a3334a493" label="Mixed Materials [31142054873552]" type="box">2</container><container id="aspace_eb714784f2d4f6a2b49a4e46e117f01b" parent="aspace_dcbd74e761bf5f530b0a539a3334a493" type="folder">1-2</container><container altrender="Flat OS Box 17" id="aspace_00576cf851209c87f9f53d2860a7e5f0" label="Mixed Materials [31142054873669]" type="box">11</container><container id="aspace_5fc10c69149486103cd7855e0f27ebe1" parent="aspace_00576cf851209c87f9f53d2860a7e5f0" type="folder">4</container><container altrender="Flat OS 21" id="aspace_2427200f90d5652b36cf35e02039cbde" label="Mixed Materials [31142054891042]" type="box">Shared Fales 001 </container><container id="aspace_e8c36119daa3a181ba8a068475239c7c" parent="aspace_2427200f90d5652b36cf35e02039cbde" type="folder">2</container></did></c><c id="aspace_ref26" level="file"><did><unittitle><emph render="italic">Flaming Creatures</emph></unittitle><unitdate normal="1961/1985" type="inclusive">1961-1964, 1983-1985, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_87a5ea7b3bd39aa3c8461c3ca2e49f67" label="Mixed Materials [31142054873552]" type="box">2</container><container id="aspace_5c5a1a3dbbb65dc08dd7fac5836b778b" parent="aspace_87a5ea7b3bd39aa3c8461c3ca2e49f67" type="folder">3-4</container><container altrender="Flat OS Box 17" id="aspace_a32dadc9ef03cba085ca19164a70d5f0" label="Mixed Materials [31142054873669]" type="box">11</container><container id="aspace_acfa8a5bc3532b55099eecd8cad4eb5d" parent="aspace_a32dadc9ef03cba085ca19164a70d5f0" type="folder">4</container></did></c><c id="aspace_ref27" level="file"><did><unittitle><emph render="italic">Gala Party and Lobster Moon Pageant</emph></unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Manuscript box - Legal" id="aspace_5779d6dc5cb7145df6e6d30f197c8af9" label="Mixed Materials [31142054873552]" type="box">2</container><container id="aspace_dfdf2c7c12b8ff09a4e68f3469ad0f38" parent="aspace_5779d6dc5cb7145df6e6d30f197c8af9" type="folder">5</container></did></c><c id="aspace_ref28" level="file"><did><unittitle><emph render="italic">The Great Moldy Triumph</emph></unittitle><unitdate normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_416f2275eaa1980858bd0e153b255916" label="Mixed Materials [31142054873552]" type="box">2</container><container id="aspace_a3ca0808f52a20154db5133332f2e03a" parent="aspace_416f2275eaa1980858bd0e153b255916" type="folder">6</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>H-In</unittitle><unitdate normal="1963/1984" type="inclusive">1963, 1975-1984, undated</unitdate><container altrender="Flat OS Box 17" id="aspace_134a3a8518406271a2d74f1623ca4e3c" label="Mixed Materials [31142054873669]" type="box">11</container><container id="aspace_4200c53d167511fefa209139f10845ab" parent="aspace_134a3a8518406271a2d74f1623ca4e3c" type="folder">5</container><container altrender="Flat Box 11.75 x 15.5" id="aspace_f406fca033b25ed0ea8030e11b752e35" label="Mixed Materials [31142054873636]" type="box">10</container><container id="aspace_c87d364339f0e54bb96d4a0866daae6e" parent="aspace_f406fca033b25ed0ea8030e11b752e35" type="folder">1-2</container><container altrender="Flat OS Box 17" id="aspace_83ef7cd597a4cca81a9ad51e16cdbfab" label="Mixed Materials [31142054873669]" type="box">11</container><container id="aspace_07e39b07ddc0267f768d881cd3c11b49" parent="aspace_83ef7cd597a4cca81a9ad51e16cdbfab" type="folder">12</container><container altrender="Manuscript box - Legal" id="aspace_1aaf32d0af7c493cae45a449f59b9e90" label="Mixed Materials [31142054873552]" type="box">2</container><container id="aspace_fd32889460398d5f9be39566d5f4cd0e" parent="aspace_1aaf32d0af7c493cae45a449f59b9e90" type="folder">7</container><container altrender="Flat OS 21" id="aspace_2521522d251e54e7ae23c5bdb2e2543a" label="Mixed Materials [31142054891042]" type="box">Shared Fales 001 </container><container id="aspace_94950bdef2b31e92bd9b889b68ea045e" parent="aspace_2521522d251e54e7ae23c5bdb2e2543a" type="folder">5-6</container></did></c><c id="aspace_ref30" level="file"><did><unittitle><emph render="italic">Irrational Landlordism of Bagdad</emph></unittitle><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_69708fa38d6aecbfdc86228bcd0dc0df" label="Mixed Materials [31142054873552]" type="box">2</container><container id="aspace_3f32e80cc42d734e1400fee36b898101" parent="aspace_69708fa38d6aecbfdc86228bcd0dc0df" type="folder">8</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Is-L</unittitle><unitdate normal="1966/1970" type="inclusive">1966-1970, undated</unitdate><container altrender="Flat Box 11.75 x 15.5" id="aspace_fe7c571e56640604ad2f07ab7cb17775" label="Mixed Materials [31142054873636]" type="box">10</container><container id="aspace_e2c61d58eed1a087945d35ba9a2be43b" parent="aspace_fe7c571e56640604ad2f07ab7cb17775" type="folder">2</container><container altrender="Manuscript box - Legal" id="aspace_b94263be80c5319ab3e9338966938591" label="Mixed Materials [31142054873552]" type="box">2</container><container id="aspace_6d2ea6b29594af388f519521acf08094" parent="aspace_b94263be80c5319ab3e9338966938591" type="folder">9</container></did></c><c id="aspace_ref32" level="file"><did><unittitle><emph render="italic">Lucky Landlordism of Lotusland</emph></unittitle><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Manuscript box - Legal" id="aspace_84c698ea01ade7c600d9b8053843c479" label="Mixed Materials [31142054873552]" type="box">2</container><container id="aspace_793c9656140778be77abd7f76eac3f41" parent="aspace_84c698ea01ade7c600d9b8053843c479" type="folder">10</container></did></c><c id="aspace_ref33" level="file"><did><unittitle><emph render="italic">Lucky Landlordism of Roachcrust</emph></unittitle><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Manuscript box - Legal" id="aspace_7a1829ae3fecd391672687cdaac01b64" label="Mixed Materials [31142054873552]" type="box">2</container><container id="aspace_2c125a37792746bc35ce2d2f2598bbf0" parent="aspace_7a1829ae3fecd391672687cdaac01b64" type="folder">11</container></did></c><c id="aspace_ref34" level="file"><did><unittitle><emph render="italic">Memoirs of Maria Montez, or Wait for Me at the Bottom of the Pool</emph></unittitle><unitdate normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_13390dc872df35537f803f2308507fbf" label="Mixed Materials [31142054873552]" type="box">2</container><container id="aspace_26cfdd9c9a0a48df7fca393724456d91" parent="aspace_13390dc872df35537f803f2308507fbf" type="folder">12</container></did></c><c id="aspace_ref35" level="file"><did><unittitle><emph render="italic">Miracle at Farblonjet</emph></unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_22b4bc7f07c32cd03bff7581962f2a08" label="Mixed Materials [31142054873552]" type="box">2</container><container id="aspace_7f2dc1be98244e0ec52aecf71a1bf9f1" parent="aspace_22b4bc7f07c32cd03bff7581962f2a08" type="folder">13</container></did></c><c id="aspace_ref36" level="file"><did><unittitle><emph render="italic">No President</emph></unittitle><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_5bdf5c284903c02b5e540d8a7bdfdc27" label="Mixed Materials [31142054873560]" type="box">3</container><container id="aspace_4aebd325cccacc61b01be65e2ccde614" parent="aspace_5bdf5c284903c02b5e540d8a7bdfdc27" type="folder">1</container></did></c><c id="aspace_ref37" level="file"><did><unittitle><emph render="italic">Normal Love</emph></unittitle><unitdate normal="1963/1989" type="inclusive">1963-1968, 1974, 1989, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e457204c40586a25eff96ba6a377c315" label="Mixed Materials [31142054873560]" type="box">3</container><container id="aspace_61cf735433ae1728079495878d59d716" parent="aspace_e457204c40586a25eff96ba6a377c315" type="folder">2</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Notebooks</unittitle><unitdate normal="1974/1987" type="inclusive">1974-1987, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_68ceb4ad2c75b3ab336fce71ba7ec978" label="Mixed Materials [31142054873560]" type="box">3</container><container id="aspace_19794cb9ac5b27bd2230e850533ea0d5" parent="aspace_68ceb4ad2c75b3ab336fce71ba7ec978" type="folder">3-6</container><container altrender="Manuscript box - Legal" id="aspace_9dc9e44d680678fcbe8aadfa837ae976" label="Mixed Materials [31142054873552]" type="box">2</container><container id="aspace_af5b63f2e6bd8fbdb3d52e8930dbc208" parent="aspace_9dc9e44d680678fcbe8aadfa837ae976" type="folder">15</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Notes</unittitle><unitdate normal="1969/1988" type="inclusive">1969-1988, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_0b85cd9a991fb53496b8e80507cecaa5" label="Mixed Materials [31142054873586]" type="box">5</container><container id="aspace_5e561df76bff604b2c84ea9590dd8f47" parent="aspace_0b85cd9a991fb53496b8e80507cecaa5" type="folder">1-2</container><container altrender="Flat OS Box 17" id="aspace_71ac30a94b0feb930f55d4e29429296d" label="Mixed Materials [31142054873669]" type="box">11</container><container id="aspace_6534c47135aec4d5215ed788e0e6ddb5" parent="aspace_71ac30a94b0feb930f55d4e29429296d" type="folder">6</container><container altrender="Flat Box 11.75 x 15.5" id="aspace_7930125e03c67f9346fc0be4e823b07e" label="Mixed Materials [31142054873636]" type="box">10</container><container id="aspace_e6f8c1aaac454147dc989d744cde9bb2" parent="aspace_7930125e03c67f9346fc0be4e823b07e" type="folder">3</container><container altrender="Manuscript box - Legal" id="aspace_d3cd03ffc7f931af69129d63fb77c10d" label="Mixed Materials [31142054873578]" type="box">4</container><container id="aspace_3cd041518590f517f1417e7c177b00cc" parent="aspace_d3cd03ffc7f931af69129d63fb77c10d" type="folder">1-8</container><container altrender="Manuscript box - Legal" id="aspace_aa828aab845e2e1a881c7854b01715ff" label="Mixed Materials [31142054873560]" type="box">3</container><container id="aspace_5cd96a2259bc1511ef081befabfb216a" parent="aspace_aa828aab845e2e1a881c7854b01715ff" type="folder">7-10</container><container altrender="Flat OS 21" id="aspace_a4373ab9ac6f6ef22c194e2c1d786c44" label="Mixed Materials [31142054891042]" type="box">Shared Fales 001 </container><container id="aspace_631a017165158fc031ea33299ab98c2d" parent="aspace_a4373ab9ac6f6ef22c194e2c1d786c44" type="folder">2</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>O-Pe</unittitle><unitdate normal="1973/1981" type="inclusive">1973-1981, undated</unitdate><container altrender="Flat OS Box 17" id="aspace_3ca9a4dd293fa6e5488f1f406bea6af9" label="Mixed Materials [31142054873669]" type="box">11</container><container id="aspace_a9165789975322ee3195caf4ef80b7c7" parent="aspace_3ca9a4dd293fa6e5488f1f406bea6af9" type="folder">7</container><container altrender="Flat Box 11.75 x 15.5" id="aspace_4c06ba01d69fd4eea3ed2d404b32aa2d" label="Mixed Materials [31142054873636]" type="box">10</container><container id="aspace_1cabb94815bc74ca9a7c73de6974e844" parent="aspace_4c06ba01d69fd4eea3ed2d404b32aa2d" type="folder">4</container><container altrender="Manuscript box - Legal" id="aspace_37f2d2417f636f045b0c817240907580" label="Mixed Materials [31142054873586]" type="box">5</container><container id="aspace_faef3c16712f71b7d563a331134438a5" parent="aspace_37f2d2417f636f045b0c817240907580" type="folder">3</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>"'Pink Flamingos' Formulas in Focus"</unittitle><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Manuscript box - Legal" id="aspace_3ae66b9257dd7cc1e9abd9ccd9ac655f" label="Mixed Materials [31142054873586]" type="box">5</container><container id="aspace_81e8df945858a193482d36d06ff348e1" parent="aspace_3ae66b9257dd7cc1e9abd9ccd9ac655f" type="folder">4</container><container altrender="Flat Box 11.75 x 15.5" id="aspace_4bc350c07af3e875980b16f8eff88745" label="Mixed Materials [31142054873636]" type="box">10</container><container id="aspace_948a03bcab48763387010eaf454ad430" parent="aspace_4bc350c07af3e875980b16f8eff88745" type="folder">4</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Pir-Poo</unittitle><unitdate normal="1986/1986" type="inclusive">1986, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_841525c6edc49d9fc63cc7234e2e6ae4" label="Mixed Materials [31142054873586]" type="box">5</container><container id="aspace_37a54b0fa84a0d47e97f4f628cc465e3" parent="aspace_841525c6edc49d9fc63cc7234e2e6ae4" type="folder">5</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Portfolio</unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_300981d5c7b57fe0850b5cb2a8b088aa" label="Mixed Materials [31142054873586]" type="box">5</container><container id="aspace_ab217388b53d12385ee53c91fcf2da7e" parent="aspace_300981d5c7b57fe0850b5cb2a8b088aa" type="folder">6</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Press packet</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_635e010776ce750a48441806bbe2da0a" label="Mixed Materials [31142054873586]" type="box">5</container><container id="aspace_dfcf02805d67ef460d916222422f8825" parent="aspace_635e010776ce750a48441806bbe2da0a" type="folder">7</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Press R-Secret</unittitle><unitdate normal="1965/1976" type="inclusive">1965, 1973-1976, undated</unitdate><container altrender="Flat Box 11.75 x 15.5" id="aspace_f3244df57d87694a68a55fd94a9f6efa" label="Mixed Materials [31142054873636]" type="box">10</container><container id="aspace_ce89f3368fdedd78a1c6fdabee05bfe7" parent="aspace_f3244df57d87694a68a55fd94a9f6efa" type="folder">5</container><container altrender="Manuscript box - Legal" id="aspace_5a0c9190db01ea744c4116ea218ce12a" label="Mixed Materials [31142054873586]" type="box">5</container><container id="aspace_1c5d4d9fa32607d9faf78bff21115f6a" parent="aspace_5a0c9190db01ea744c4116ea218ce12a" type="folder">8</container><container altrender="Flat OS 21" id="aspace_01017aec1a2e2ad3e63a1fd4cad46705" label="Mixed Materials [31142054891042]" type="box">Shared Fales 001 </container><container id="aspace_574c43959ec649f96f99d9f76a8f6c07" parent="aspace_01017aec1a2e2ad3e63a1fd4cad46705" type="folder">2</container></did></c><c id="aspace_ref48" level="file"><did><unittitle><emph render="italic">Secret of Rented Island</emph></unittitle><unitdate normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Flat OS Box 17" id="aspace_ccef65aba6463badf7c3f69aa927b848" label="Mixed Materials [31142054873669]" type="box">11</container><container id="aspace_6a53ac97a8b67be19a0aa3bbd29a97f7" parent="aspace_ccef65aba6463badf7c3f69aa927b848" type="folder">7</container><container altrender="Manuscript box - Legal" id="aspace_014db2d4f578b7b53e2e8dd1250a5527" label="Mixed Materials [31142054873586]" type="box">5</container><container id="aspace_26a08c7ce208dfd989b1bd25a9883560" parent="aspace_014db2d4f578b7b53e2e8dd1250a5527" type="folder">9</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Secrets of t-Sh</unittitle><unitdate normal="1971/1972" type="inclusive">1971-1972, undated</unitdate><container altrender="Flat Box 11.75 x 15.5" id="aspace_288817204364146214429bf3d9975c43" label="Mixed Materials [31142054873636]" type="box">10</container><container id="aspace_e236d0c2aa83beb6359e02b05310c064" parent="aspace_288817204364146214429bf3d9975c43" type="folder">5</container><container altrender="Manuscript box - Legal" id="aspace_2dcc486e22240faf01b5ed5a5b8cd446" label="Mixed Materials [31142054873586]" type="box">5</container><container id="aspace_da0041002383cd1856c83d16a94330ec" parent="aspace_2dcc486e22240faf01b5ed5a5b8cd446" type="folder">10</container><container altrender="Flat OS Box 17" id="aspace_de14f0887919f5454f0818a933769bd8" label="Mixed Materials [31142054873669]" type="box">11</container><container id="aspace_a352d062f1c09be2bc3850654a79071c" parent="aspace_de14f0887919f5454f0818a933769bd8" type="folder">7</container></did></c><c id="aspace_ref50" level="file"><did><unittitle><emph render="italic">Sinbad and the 7 Labors of Uranus</emph></unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_efbcbc2b3e487bf9903c3a42da993846" label="Mixed Materials [31142054873586]" type="box">5</container><container id="aspace_c0cb25403e6535ae8c81c7e8049081bd" parent="aspace_efbcbc2b3e487bf9903c3a42da993846" type="folder">11</container></did></c><c id="aspace_ref51" level="file"><did><unittitle><emph render="italic">Sinbad in the Rented World</emph></unittitle><unitdate normal="1972/1984" type="inclusive">1972-1984</unitdate><container altrender="Flat Box 11.75 x 15.5" id="aspace_16e07b46f16b134bf1eaa8c87ddfe057" label="Mixed Materials [31142054873636]" type="box">10</container><container id="aspace_d3af17693f1ce26e6298ee1d825fe349" parent="aspace_16e07b46f16b134bf1eaa8c87ddfe057" type="folder">6</container><container altrender="Manuscript box - Legal" id="aspace_5333e59b136f2faa3f708d4fe8788846" label="Mixed Materials [31142054873586]" type="box">5</container><container id="aspace_43076fdc299dca24164b414a813b0a63" parent="aspace_5333e59b136f2faa3f708d4fe8788846" type="folder">12</container><container altrender="Oversize Folder - Half Case" id="aspace_69fa8af68e0f10b038bb27a9d27d0381" label="Mixed Materials [31142062890291]" type="folder">17</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Sinbad S-Sp</unittitle><unitdate normal="1982/1984" type="inclusive">1982-1984, undated</unitdate><container altrender="Flat Box 11.75 x 15.5" id="aspace_e35ac428b263739647d8d4da99ae0ca1" label="Mixed Materials [31142054873636]" type="box">10</container><container id="aspace_5b56a56dd6d60f0b4c1469f831fef63a" parent="aspace_e35ac428b263739647d8d4da99ae0ca1" type="folder">6</container><container altrender="Manuscript box - Legal" id="aspace_0eb4cad86c5a60c51615b6c29629af67" label="Mixed Materials [31142054873586]" type="box">5</container><container id="aspace_4100751afc2bb2ee645d2f1dc4c5b339" parent="aspace_0eb4cad86c5a60c51615b6c29629af67" type="folder">13</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Stationery</unittitle><unitdate>Undated</unitdate><container altrender="Flat Box 11.75 x 15.5" id="aspace_9930d34181ee37a6da83c2192734920c" label="Mixed Materials [31142054873636]" type="box">10</container><container id="aspace_ae79377a56e1daf7a0bb49d1ab27dd8c" parent="aspace_9930d34181ee37a6da83c2192734920c" type="folder">6</container><container altrender="Manuscript box - Legal" id="aspace_1cd5fa241b6f4da286f399dca5119fe1" label="Mixed Materials [31142054873586]" type="box">5</container><container id="aspace_f623c63eb5797e2dd3b98abd432a60e1" parent="aspace_1cd5fa241b6f4da286f399dca5119fe1" type="folder">14</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Stencils and lettering</unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_ff97b64da76e716d238c1a16089221b2" label="Mixed Materials [31142054873594]" type="box">6</container><container id="aspace_4e470ac687649b023d6809209b8b58a0" parent="aspace_ff97b64da76e716d238c1a16089221b2" type="folder">1</container><container altrender="Manuscript box - Legal" id="aspace_c7cf6fde8d9b9ea5a3355faf7f010237" label="Mixed Materials [31142054873586]" type="box">5</container><container id="aspace_2006077c37b884d9b2ea43bb82e41a0a" parent="aspace_c7cf6fde8d9b9ea5a3355faf7f010237" type="folder">15</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Sy-Unh</unittitle><unitdate normal="1975/1975" type="inclusive">1975, undated</unitdate><container altrender="Flat Box 11.75 x 15.5" id="aspace_b4bb1280eedd7b2b651bf953d2911f5a" label="Mixed Materials [31142054873636]" type="box">10</container><container id="aspace_046d837c89ce712560c50acb3cb30485" parent="aspace_b4bb1280eedd7b2b651bf953d2911f5a" type="folder">7</container><container altrender="Flat OS Box 17" id="aspace_467fe36e510650bfc5b5f420a6534cff" label="Mixed Materials [31142054873669]" type="box">11</container><container id="aspace_1c2d2b78f906f010275c74a4a2695a91" parent="aspace_467fe36e510650bfc5b5f420a6534cff" type="folder">7</container><container altrender="Manuscript box - Legal" id="aspace_4eb4b1c63a8c9f924eef0950c7244705" label="Mixed Materials [31142054873594]" type="box">6</container><container id="aspace_e25e4e9a08e68951ae2f9479419ce28c" parent="aspace_4eb4b1c63a8c9f924eef0950c7244705" type="folder">2</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Untitled artwork</unittitle><unitdate>Undated</unitdate><container altrender="Flat OS Box 17" id="aspace_fc3827801d9d5ceaf0b8e82a874e04eb" label="Mixed Materials [31142054873669]" type="box">11</container><container id="aspace_8880d59b317347f96b1ed2b808e78aaa" parent="aspace_fc3827801d9d5ceaf0b8e82a874e04eb" type="folder">8</container><container altrender="Flat Box 11.75 x 15.5" id="aspace_611bfc8071b71d0c0ed91c1a1f4c6960" label="Mixed Materials [31142054873636]" type="box">10</container><container id="aspace_63337752afec307d1f34f29e54e1d31d" parent="aspace_611bfc8071b71d0c0ed91c1a1f4c6960" type="folder">8-9</container><container altrender="Manuscript box - Legal" id="aspace_b5c0f98ec16cad4709a975ef00a1f358" label="Mixed Materials [31142054873594]" type="box">6</container><container id="aspace_3ec81025573b7b2feb9be59688c7e855" parent="aspace_b5c0f98ec16cad4709a975ef00a1f358" type="folder">3-4</container><container altrender="Flat OS 21" id="aspace_f01bf9bf923e71a6ec68ab952cf56106" label="Mixed Materials [31142054891042]" type="box">Shared Fales 001 </container><container id="aspace_c87f05f47d0b600fb815fe7a2878db72" parent="aspace_f01bf9bf923e71a6ec68ab952cf56106" type="folder">3-4</container></did></c><c id="aspace_ref106" level="file"><did><unittitle>Untitled mixed media art piece</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_18ed5a9a43d8cb0e0f6caf6caa95a770" label="Mixed Materials [31142054873735]" type="box">19</container><container altrender="Manuscript box - Legal" id="aspace_364b4d723242dce652f50f0b58d6ff91" label="Mixed Materials [31142054873594]" type="box">6</container><container id="aspace_db2fb8e0dffe9fc9bddbb9c9f83b80b4" parent="aspace_364b4d723242dce652f50f0b58d6ff91" type="folder">5</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Untitled writings</unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_b0747613a01af737ebe0f1afcb3b2c07" label="Mixed Materials [31142054873594]" type="box">6</container><container id="aspace_5ececa260fc45e7ea86835fcce2aca69" parent="aspace_b0747613a01af737ebe0f1afcb3b2c07" type="folder">6-7</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>V-Wha</unittitle><unitdate normal="1969/1981" type="inclusive">1969, 1981, undated</unitdate><container altrender="Flat Box 11.75 x 15.5" id="aspace_ceb2f2048efc0a5026e085ae77d4aed5" label="Mixed Materials [31142054873636]" type="box">10</container><container id="aspace_e197315a778192396821c002ac39685f" parent="aspace_ceb2f2048efc0a5026e085ae77d4aed5" type="folder">10</container><container altrender="Manuscript box - Legal" id="aspace_19a16b22646dc063a788413e817440f3" label="Mixed Materials [31142054873594]" type="box">6</container><container id="aspace_ff66c5abbd16847acb7622ba86c3d7a6" parent="aspace_19a16b22646dc063a788413e817440f3" type="folder">8</container></did></c><c id="aspace_ref59" level="file"><did><unittitle><emph render="italic">The White Pig of the Medina</emph></unittitle><unitdate>Undated</unitdate><container altrender="Flat OS Box 17" id="aspace_ccbbf5e634cd384a4881b6e51095b02e" label="Mixed Materials [31142054873669]" type="box">11</container><container id="aspace_0871e483cbb2b84b90136e80e593d899" parent="aspace_ccbbf5e634cd384a4881b6e51095b02e" type="folder">8</container><container altrender="Manuscript box - Legal" id="aspace_8b792c86889f5f4ebe13ce15d6c20681" label="Mixed Materials [31142054873594]" type="box">6</container><container id="aspace_b3eb907d1ac8efd3a5da45350186198c" parent="aspace_8b792c86889f5f4ebe13ce15d6c20681" type="folder">9-10</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Wi-Won</unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_acd902a4cfab72704a23c670e2756cc4" label="Mixed Materials [31142054873594]" type="box">6</container><container id="aspace_db901e9f1322660feddb69a524d3f7d5" parent="aspace_acd902a4cfab72704a23c670e2756cc4" type="folder">11</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Works and performances by other artists</unittitle><unitdate normal="1971/1988" type="inclusive">1971-1988, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_9816d6508e550dbb063540732ca985dc" label="Mixed Materials [31142054873594]" type="box">6</container><container id="aspace_a56bb7d83172199fe014450e6a97c289" parent="aspace_9816d6508e550dbb063540732ca985dc" type="folder">12-13</container><container altrender="Flat OS Box 17" id="aspace_0d55c5eb665f3acc7209b34bcf8300ae" label="Mixed Materials [31142054873669]" type="box">11</container><container id="aspace_5f3333f2c3bae0e99308884645cd29e9" parent="aspace_0d55c5eb665f3acc7209b34bcf8300ae" type="folder">8</container></did></c></c><c id="aspace_ref91" level="series"><did><unittitle>Series II. Subject Files</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">3.1 Linear Feet</extent><extent altrender="carrier">in one and a half record cartons, one manuscript box, and eight oversize folders.</extent></physdesc><unitdate normal="1960/1989" type="inclusive">1960-1989, undated</unitdate></did><arrangement id="aspace_bfc6cf20618113f8f1f4751bf9e8214a"><head>Arrangement</head><p>This series is arranged into two broad topics, Health and Source Material.</p></arrangement><scopecontent id="aspace_ee86002a2b868f1850841d5a57092642"><head>Scope and Content</head><p>This series contains clippings from newspapers and magazines, with some full issues, on topics of interest to Smith.  They are divided into two broad topics, Health and Source Material.  Health includes nutrition, exercise, hair loss, HIV/AIDS, and mental wellness.  Source Material includes films and filmmaking, photography, the Golden Age of Hollywood, and beaches and deserts (in particular Hawaii, North Africa, and the Middle East).  The clippings contain articles as well as images used in collages or as inspiration for settings in his films and performances.  Materials date from the late 1960s to the 1980s, with the bulk from the early to mid 1980s.</p></scopecontent><c id="aspace_ref100" level="file"><did><unittitle>Health</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.7 Linear Feet</extent><extent altrender="carrier">in half of a record carton and three oversize folders.</extent></physdesc><unitdate normal="1964/1989" type="inclusive">1964-1989, undated</unitdate><unitdate normal="1984/1989" type="bulk">1984-1989</unitdate><container altrender="Record carton" id="aspace_c549ff7d7457536b2218999f38642c97" label="Mixed Materials [31142054873750]" type="box">21</container><container id="aspace_cf8195a5bb7838ba726742d82e573827" parent="aspace_c549ff7d7457536b2218999f38642c97" type="folder">1-10</container><container altrender="Flat Box - 12 x 15.25" id="aspace_429fe1f449cdd7e5aff40c81ab0158bc" label="Mixed Materials [31142054873743]" type="box">20</container><container id="aspace_28075fb6a8d70eed61ab9f1422b6e4d3" parent="aspace_429fe1f449cdd7e5aff40c81ab0158bc" type="folder">1-3</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Source material</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2.3 Linear Feet</extent><extent altrender="carrier">in one record carton, one manuscript box, and five oversize folders.</extent></physdesc><unitdate normal="1960/1989" type="inclusive">1960-1989, undated</unitdate><unitdate normal="1969/1981" type="bulk">1969-1981</unitdate><container altrender="Record carton" id="aspace_8a0eb87d0f4d4f16e6b9045bb1d5f0ce" label="Mixed Materials [31142054873750]" type="box">21</container><container id="aspace_d52930a961093675926c0785d77ef676" parent="aspace_8a0eb87d0f4d4f16e6b9045bb1d5f0ce" type="folder">11-21</container><container altrender="Record carton" id="aspace_ae9fcfb78afb713727fc33154f7f4460" label="Mixed Materials [31142054873768]" type="box">22</container><container id="aspace_cc60faf8717fe4edfc2ac016af112833" parent="aspace_ae9fcfb78afb713727fc33154f7f4460" type="folder">1-9</container><container altrender="Flat Box - 12 x 15.25" id="aspace_4af7a88164396f8145f8e47ea6e553d1" label="Mixed Materials [31142054873743]" type="box">20</container><container id="aspace_4fd7c184fa7afaa6151f20b2b864bad1" parent="aspace_4af7a88164396f8145f8e47ea6e553d1" type="folder">4-6</container><container altrender="Flat Box 11.75 x 15.5" id="aspace_0e826a644b01979d0e14a79b63917edc" label="Mixed Materials [31142054873636]" type="box">10</container><container id="aspace_1b78d3074869f5dfe9373bec13b61ab4" parent="aspace_0e826a644b01979d0e14a79b63917edc" type="folder">12</container><container altrender="Flat OS Box 17" id="aspace_6acaa256717983b7e7be356ea6b8c589" label="Mixed Materials [31142054873669]" type="box">11</container><container id="aspace_90ceabef0580a304dd96242c1a89538a" parent="aspace_6acaa256717983b7e7be356ea6b8c589" type="folder">9</container><container altrender="Manuscript box - Legal" id="aspace_82c81d7f7d2377b71853196d765f99a7" label="Mixed Materials [31142054873776]" type="box">23</container><container id="aspace_c5d00c8c1e48653d56ba53c1d7e85708" parent="aspace_82c81d7f7d2377b71853196d765f99a7" type="folder">1-7</container></did></c></c><c id="aspace_ref94" level="series"><did><unittitle>Series III. Books</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">7 Linear Feet</extent><extent altrender="carrier">in seven record cartons.</extent></physdesc><unitdate normal="1891/1987" type="inclusive">1891-1987, undated</unitdate><unitdate normal="1968/1978" type="bulk">1968-1978</unitdate></did><arrangement id="aspace_f7d9b9b8788c1ad51d8e32011bf0834f"><head>Arrangement</head><p>This series has not been arranged.</p></arrangement><scopecontent id="aspace_d71db10ff6906a362aedaacc55d22fbf"><head>Scope and Content</head><p>This series contains books from Smith's library and includes fiction and nonfiction titles.  Agatha Christie and Sax Rohmer books constitute the bulk of the fiction titles, with other authors including Washington Irving, William Shakespeare, Sinclair Lewis, Jorge Amado, Charles Dickens, and Henry Green.  Nonfiction topics include the Alhambra, Hawaii, Arabic art, Hollywood, typography, border design, exercise, and nutrition.  Materials date from the late 1890s to the mid-1980s, with the bulk dating from 1968 to 1978.</p></scopecontent><c id="aspace_ref118" level="file"><did><unittitle>Books</unittitle><unitdate normal="1891/1987" type="inclusive">1891-1987, undated</unitdate><container altrender="Record carton" id="aspace_0483ceabaae683e2520e8c0253b223cc" label="Books [31142054873719]" type="box">17</container><container altrender="Record carton" id="aspace_7b607d7bdd1e5fa38f0e32b87a5c7725" label="Books [31142054873701]" type="box">16</container><container altrender="Record carton" id="aspace_1198e2f5b64d900c467db000341df90b" label="Books [31142054873727]" type="box">18</container><container altrender="Record carton" id="aspace_55765bd450fc65bec5114313e6ea1b19" label="Books [31142054873677]" type="box">13</container><container altrender="Record carton" id="aspace_ef77d3efb717290a68545cfa1d906cb4" label="Books [31142054873651]" type="box">12</container><container altrender="Record carton" id="aspace_7f928f48f6509cce04151ce2cf21a617" label="Books [31142054873693]" type="box">15</container><container altrender="Record carton" id="aspace_226580c7310c75a4fd01a91311af69b8" label="Books [31142054873685]" type="box">14</container></did></c></c><c id="aspace_ref62" level="series"><did><unittitle>Series IV. Business and Financial Records</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1.1 Linear Feet</extent><extent altrender="carrier">in one and a half manuscript boxes and one record carton.</extent></physdesc><unitdate normal="1962/1990" type="inclusive">1962-1990, undated</unitdate><unitdate normal="1971/1985" type="bulk">1971-1985</unitdate></did><arrangement id="aspace_623ca7c53007b53019b490e951427cbe"><head>Arrangement</head><p>This series is arranged in alphabetical order, with type of document, correspondent, and folder titles created by Smith interfiled together.</p></arrangement><scopecontent id="aspace_2b1cb1bb7be4a33e7822e230a2c9ef7e"><head>Scope and Content</head><p>This series contains Smith's bank and investment statements; a small amount correspondence with friends, as well as film and cultural organizations; correspondence, notes, and flyers regarding Smith's legal dealings with his landlords; ledgers, some of which detail Smith's income and expenses from the Film-makers' Cooperative for 1964-1965, for screenings of <emph render="italic">Flaming Creatures</emph>; grant applications in support of <emph render="italic">Sinbad in the Rented World</emph>; address books, mailing lists, and a Rolodex; and tax records for Smith's property in Apache County, Arizona.  Materials date from 1962 to 1990, with the bulk dating between 1971-1985.</p></scopecontent><c id="aspace_ref63" level="file"><did><unittitle>Address book/flip book</unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_3d923f24284cbab4c65d9700a99822b1" label="Mixed Materials [31142054873594]" type="box">6</container><container id="aspace_3feba2012f7cc0a447c5edbc67a6b82c" parent="aspace_3d923f24284cbab4c65d9700a99822b1" type="folder">14</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>American Federation of Arts</unittitle><unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate><container altrender="Manuscript box - Legal" id="aspace_0801d5f8fe25c95dc764112275ba6f7c" label="Mixed Materials [31142054873594]" type="box">6</container><container id="aspace_881779bf0c37640ecad99d05eca09f79" parent="aspace_0801d5f8fe25c95dc764112275ba6f7c" type="folder">15</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Apartment</unittitle><unitdate normal="1981/1987" type="inclusive">1981-1987, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_22749f92cc610653cbc76730680e7873" label="Mixed Materials [31142054873594]" type="box">6</container><container id="aspace_c7c61916985054f2bd1ee8f927dc03b1" parent="aspace_22749f92cc610653cbc76730680e7873" type="folder">16</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Arriflex Corporation</unittitle><unitdate normal="1982/1984" type="inclusive">1982-1984</unitdate><container altrender="Manuscript box - Legal" id="aspace_3bf3c43b17661804fefb483478a96876" label="Mixed Materials [31142054873602]" type="box">7</container><container id="aspace_b25aed34a86194d643f4fdc792fbeb84" parent="aspace_3bf3c43b17661804fefb483478a96876" type="folder">1</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Bank records</unittitle><unitdate normal="1976/1990" type="inclusive">1976-1990</unitdate><container altrender="Manuscript box - Legal" id="aspace_7fbc8dc7085cbd998d656e8ab28e9a1c" label="Mixed Materials [31142054873602]" type="box">7</container><container id="aspace_18c4aca3c0698376d51f451fd66e3f82" parent="aspace_7fbc8dc7085cbd998d656e8ab28e9a1c" type="folder">2</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1962/1989" type="inclusive">1962-1967, 1970-1974, 1980-1989, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_285f79f00c3b3dc418289caaa53160df" label="Mixed Materials [31142054873602]" type="box">7</container><container id="aspace_7db922b913bd0c78b23ae1a076ec3217" parent="aspace_285f79f00c3b3dc418289caaa53160df" type="folder">3</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Creative Artists Public Program</unittitle><unitdate normal="1980/1982" type="inclusive">1980-1982</unitdate><container altrender="Manuscript box - Legal" id="aspace_d19f6fba7fbb2df9522bb0d4db7e7e8a" label="Mixed Materials [31142054873602]" type="box">7</container><container id="aspace_a5d40887905499249ef4ecff2386cb86" parent="aspace_d19f6fba7fbb2df9522bb0d4db7e7e8a" type="folder">4</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Film-makers' Cooperative</unittitle><unitdate normal="1963/1971" type="inclusive">1963-1971</unitdate><container altrender="Manuscript box - Legal" id="aspace_578a5feaf6f0123081cd8f52de390327" label="Mixed Materials [31142054873602]" type="box">7</container><container id="aspace_0d720e40695db9257d1f6ee13b0b4225" parent="aspace_578a5feaf6f0123081cd8f52de390327" type="folder">5</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Investments</unittitle><unitdate normal="1977/1989" type="inclusive">1977-1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_0b9629abbe45f3db871c7da06c49e270" label="Mixed Materials [31142054873602]" type="box">7</container><container id="aspace_10e7c79a8f55413079e34b8c6ab8bf86" parent="aspace_0b9629abbe45f3db871c7da06c49e270" type="folder">6</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Ledgers</unittitle><unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_87f258376adef36c8e81cd617b81ba37" label="Mixed Materials [31142054873602]" type="box">7</container><container id="aspace_703d02ac42a012a107a7b97a6e03e014" parent="aspace_87f258376adef36c8e81cd617b81ba37" type="folder">7-8</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Mailing lists</unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_9f49ce9ce0e9a4c94976e35f9380d97b" label="Mixed Materials [31142054873602]" type="box">7</container><container id="aspace_dc2a2b62d881ccb529605fbd12e287de" parent="aspace_9f49ce9ce0e9a4c94976e35f9380d97b" type="folder">9</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>National Endowment for the Arts</unittitle><unitdate normal="1981/1985" type="inclusive">1981-1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_ca43be228369d5f3bab9640328343b3b" label="Mixed Materials [31142054873602]" type="box">7</container><container id="aspace_406285f0f99781265209639ef642ab26" parent="aspace_ca43be228369d5f3bab9640328343b3b" type="folder">10-11</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>New American Cinema Group</unittitle><unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_bf26eed92ba9fa68c72c2f430eb62858" label="Mixed Materials [31142054873610]" type="box">8</container><container id="aspace_012facca1824519b0425de4659fea96d" parent="aspace_bf26eed92ba9fa68c72c2f430eb62858" type="folder">1</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Opportunities</unittitle><unitdate>Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_683a5dcb57c2ea32e536611ecb1699df" label="Mixed Materials [31142054873610]" type="box">8</container><container id="aspace_2d40625d35c8f60e13a825bc84567c78" parent="aspace_683a5dcb57c2ea32e536611ecb1699df" type="folder">2</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Property in Apache County, Arizona</unittitle><unitdate normal="1984/1989" type="inclusive">1984-1989</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b4b5f378b32def957816f0f79a9b7e35" label="Mixed Materials [31142054873610]" type="box">8</container><container id="aspace_0f0cfbc5ae6bde0d715e5f906e901f79" parent="aspace_b4b5f378b32def957816f0f79a9b7e35" type="folder">3</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Rolodex</unittitle><unitdate>Undated</unitdate><container altrender="Record carton" id="aspace_b6a6b79a8b476bb2ae242995f16e2e55" label="Mixed Materials [31142054873768]" type="box">22</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Theatres to work in</unittitle><unitdate normal="1985/1985" type="inclusive">1985, undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_be21314aa476145a78e5cb12d79208db" label="Mixed Materials [31142054873610]" type="box">8</container><container id="aspace_94c4d1755897714899d1592e4700a93a" parent="aspace_be21314aa476145a78e5cb12d79208db" type="folder">4</container></did></c></c><c id="aspace_ref79" level="series"><did><unittitle>Series V. Personal Items</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent><extent altrender="carrier">in three folders and one oversize folder.</extent></physdesc><unitdate normal="1974/1989" type="inclusive">1974-1989, undated</unitdate><unitdate normal="1988/1989" type="bulk">1988-1989</unitdate></did><arrangement id="aspace_8a5380cca9930929b2e0c42e0aa0f9bb"><head>Arrangement</head><p>This series is arranged alphabetically by type of document.</p></arrangement><scopecontent id="aspace_56a993056c54d7d3d36df22c7c7ee890"><head>Scope and Content</head><p>This series consists of Smith's passports and identification cards; his medical records; an invitation for his memorial in 1989; and a photograph of Smith with three unidentified men.  The medical records include discharge information and membership materials from the Gay Men's Health Crisis (GMHC).  Materials date from the 1974 to 1989, with the bulk of the materials dating between 1988-1989.</p></scopecontent><c id="aspace_ref80" level="file"><did><unittitle>Identification cards and passports</unittitle><unitdate normal="1974/1989" type="inclusive">1974-1989, undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_735028243f98fdfac6ebc55aa6e12f97" label="Mixed Materials [31142054873610]" type="box">8</container><container id="aspace_d88ab26a5ec450be1d3599873b0747f4" parent="aspace_735028243f98fdfac6ebc55aa6e12f97" type="folder">5</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Medical records</unittitle><unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d974a03b79902fb75bca507303c2d51b" label="Mixed Materials [31142054873610]" type="box">8</container><container id="aspace_38e788448caa222b5e4764d92729ad12" parent="aspace_d974a03b79902fb75bca507303c2d51b" type="folder">6</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Memorial invitation</unittitle><unitdate normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ef7bab670aebcf0ae2e7c5c603cce460" label="Mixed Materials [31142054873610]" type="box">8</container><container id="aspace_7504784db395af43e8c569dbf296b6b9" parent="aspace_ef7bab670aebcf0ae2e7c5c603cce460" type="folder">7</container></did></c><c id="aspace_ref105" level="file"><did><unittitle>Photograph of Smith with three unidentified friends at Hawaii Kai restaurant</unittitle><unitdate>Undated</unitdate><container altrender="Flat Box 11.75 x 15.5" id="aspace_8b2f3f3e5518440d9f085a9dcc88b9f8" label="Mixed Materials [31142054873636]" type="box">10</container><container id="aspace_a5e78b85102a3d92139e5a3ad623b1ed" parent="aspace_8b2f3f3e5518440d9f085a9dcc88b9f8" type="folder">11</container></did></c></c><c id="aspace_ref102" level="series"><did><unittitle>Series VI.  Exhibition and Writings on Jack Smith</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Linear Feet</extent><extent altrender="carrier">in one record carton.</extent></physdesc><unitdate normal="1997/1997" type="inclusive">1997</unitdate><container altrender="Record carton" id="aspace_d111c738969fb36a32a72573112c4dbf" label="Mixed Materials [31142054873735]" type="box">19</container></did><arrangement id="aspace_daad96f136108718b894e558e4422c35"><head>Arrangement</head><p>This series has not been arranged.</p></arrangement><scopecontent id="aspace_628b5bb56ba3e42ea2f6756a320460f8"><head>Scope and Content</head><p>This series contains some of the files kept by Edward G. Leffingwell and others during the planning of MoMA PS1's 1997-1998 exhibit, <emph render="italic">Jack Smith: Flaming Creature</emph>.  The files contain photocopies of Smith's letters, scripts, photographs, and notes used in the exhibit, and notes and sketches from exhibit planning.  This series also includes notes on essays and copies of Smith's notes and artwork to be published in <emph render="italic">Wait For Me at the Bottom of the Pool: The Writings of Jack Smith</emph>, co-edited by Leffingwell and J. Hoberman.</p></scopecontent></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref12" level="series">
+        <did>
+          <unittitle>Series I. Films, Performances, and Artwork</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">8.3 Linear Feet</extent>
+            <extent altrender="carrier">in six manuscript boxes and four oversize flat boxes.</extent>
+          </physdesc>
+          <unitdate normal="1961/1989" type="inclusive">1961-1989, undated</unitdate>
+        </did>
+        <arrangement id="aspace_80c93a0358b003b1445782f547633852">
+          <head>Arrangement</head>
+          <p>This series is arranged alphabetically by title of work, with subjects, formats, and alphabetical ranges interfiled. Works that have a substantial amount of material are listed by title; smaller ranges of material are filed together and listed under alphabetical ranges of titles included therein. Notes, scripts, drawings, flyers, posters, clippings and correspondence for each film, performance, or artwork are organized together intellectually but may be physically housed separately due to size or condition of the material.</p>
+        </arrangement>
+        <scopecontent id="aspace_4f0ab5fce340ba15e61a8bba2d5b3ae4">
+          <head>Scope and Content</head>
+          <p>This series includes materials used in the creation of Smith's films and performance pieces, including scripts, notes, drawings, photographs, collages, flyers, posters, metal plates and mylar proofs for offset lithography, clippings, and correspondence. Included in the <emph render="italic">Flaming Creatures</emph> material are Smith's journal kept during the filming, a letter written by Smith to the <emph render="italic">Village Voice</emph> regarding the film, flyers for screenings, and notes on Jonas Mekas and his distribution of the film.  The influence of Smith's disagreement with Mekas is evident throughout this series and includes flyers, mylar proofs, and offset lithography plates for <emph render="italic">I Was a Mekas Collaborator</emph> and <emph render="italic">How Can Uncle Fishhook Have a Free Bicentennial Zombie Underground?</emph>; flyers, notes, and scripts for Smith's adaptation of Richard Brinsley Sheridan's <emph render="italic">The Critic</emph>, variously titled <emph render="italic">The Critic</emph>, <emph render="italic">The Lobsters</emph>, <emph render="italic">Lucky Landlordism of Roachcrust</emph>, and <emph render="italic">Lucky Landlordism of Lotusland</emph>; and flyers for <emph render="italic">Death in Uncle Archives' Vault</emph>.  Maria Montez is another influence found throughout the series, in particular in <emph render="italic">Memoirs of Maria Montez, or Wait for Me at the Bottom of the Pool</emph> and throughout Smith's notes, untitled writings, and untitled artworks.  Notes, scripts, and flyers regarding Mario Montez performances can also be found throughout the series, including <emph render="italic">Normal Love</emph>, <emph render="italic">Flaming Creatures</emph>, and <emph render="italic">No President</emph>.  </p>
+          <p>Other material in this series includes script pages and correspondence regarding <emph render="italic">Normal Love</emph> and <emph render="italic">Normal Fantasy</emph>; posters, programs, and correspondence regarding film series and festivals that included screenings or performances by Smith; and original artwork and collages used by Smith to promote his performances. There are materials from a handful of productions written and directed by other artists in which Smith performed or attended. The bulk of the series consists of loose notes and notebooks, which include lists of titles for works; to-do lists and shopping lists; and ideas for new films or writings.  In addition to these notes are longer pieces of untitled writing, of two paragraphs or more.  Untitled artwork not related to Smith's artwork for his films and performances includes photographs, drawings, and collages, and an untitled mixed media art piece found in an envelope and assumed to be an artwork created by Smith. </p>
+          <p>Other productions represented in this series include <emph render="italic">The Secret of Rented Island</emph>, Smith's adaptation of Henrik Ibsen's <emph render="italic">Ghosts</emph>; <emph render="italic">No President</emph> or <emph render="italic">The Kidnapping and Auctioning of Wendell Willkie by the Love Bandit</emph>; <emph render="italic">Death of a Penguin</emph>; <emph render="italic">Impacted Croissants of Outer Space</emph>; <emph render="italic">Sinbad in the Rented World</emph>, Smith's adaptation of William Shakespeare's <emph render="italic">Hamlet</emph>; <emph render="italic">The White Pig of the Medina</emph>; and <emph render="italic">I Was a Male Yvonne De Carlo for the Lucky Landlord Underground</emph>. Materials date from the late 1960s to the late 1980s.</p>
+        </scopecontent>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>A-Bi</unittitle>
+            <unitdate normal="1968/1979" type="inclusive">1968, 1979, undated</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_018e626addc2fa4487e803acd2c0746e" label="Mixed Materials [31142054873669]" type="box">11</container>
+            <container id="aspace_24ce66a2f54968d5f1d086ca238e0a64" parent="aspace_018e626addc2fa4487e803acd2c0746e" type="folder">11</container>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_a0616209539073f0d19f6acb5d14406f" label="Mixed Materials [31142054873628]" type="box">9</container>
+            <container id="aspace_dd987b8d4a3bede7ffcdae816ca4e087" parent="aspace_a0616209539073f0d19f6acb5d14406f" type="folder">1-2</container>
+            <container altrender="Flat OS Box 17" id="aspace_9e8fd86e71a7526594bdca80658bc778" label="Mixed Materials [31142054873669]" type="box">11</container>
+            <container id="aspace_2b0918a9458f2d66c175f474760f870d" parent="aspace_9e8fd86e71a7526594bdca80658bc778" type="folder">1</container>
+            <container altrender="Manuscript box - Legal" id="aspace_6be903b96385f87b7150e3104261ffc4" label="Mixed Materials [31142054873545]" type="box">1</container>
+            <container id="aspace_50958aa33979800fb795b2abc4e333b1" parent="aspace_6be903b96385f87b7150e3104261ffc4" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Brassieres of Atlantis</emph>
+            </unittitle>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_493ee8aaabd59aa5cc7e7347c286c7c4" label="Mixed Materials [31142054873545]" type="box">1</container>
+            <container id="aspace_9ba92d9965e1c6527e05f2f9a0314b83" parent="aspace_493ee8aaabd59aa5cc7e7347c286c7c4" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Brassieres of B-Claptailism of L</unittitle>
+            <unitdate normal="1968/1978" type="inclusive">1968, 1978, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2fd0126bf4dfff5c4e3d9ee1aeb33d57" label="Mixed Materials [31142054873545]" type="box">1</container>
+            <container id="aspace_318cafcf8690e9f90c28a1a98115702b" parent="aspace_2fd0126bf4dfff5c4e3d9ee1aeb33d57" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle><emph render="italic">Buzzards over Bagdad</emph> flipbook</unittitle>
+            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_ccd80cc1d96daf5fac5387460c4a29e4" label="Mixed Materials [31142054873628]" type="box">9</container>
+            <container id="aspace_f92931d3ec50defc9e0fdb4dcbc7278d" parent="aspace_ccd80cc1d96daf5fac5387460c4a29e4" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Claptailism of Palmola Economic Spectacle</emph>
+            </unittitle>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5a9a4d8f473f062be31d6e486f28045d" label="Mixed Materials [31142054873545]" type="box">1</container>
+            <container id="aspace_4de1acbf317fab6e03fefe91b1f5ea5c" parent="aspace_5a9a4d8f473f062be31d6e486f28045d" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Clash of the Brassiere Goddesses</emph>
+            </unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d8d4097884e87b8aac6fd2c499b0da65" label="Mixed Materials [31142054873545]" type="box">1</container>
+            <container id="aspace_3c62dc8524e214e86b361895a81b51e6" parent="aspace_d8d4097884e87b8aac6fd2c499b0da65" type="folder">5</container>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_c00ff16af12129cf071adc87b4d3c89f" label="Mixed Materials [31142054873628]" type="box">9</container>
+            <container id="aspace_8ac02d6d16f33d7f49d72bc83921da57" parent="aspace_c00ff16af12129cf071adc87b4d3c89f" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Clipping collages</unittitle>
+            <unitdate normal="1972/1985" type="inclusive">1972, 1979-1985, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0d95f7ad208c561d510e4497b1c3c96f" label="Mixed Materials [31142054873545]" type="box">1</container>
+            <container id="aspace_9028c858dfb9f52e9e75bc7eecca2740" parent="aspace_0d95f7ad208c561d510e4497b1c3c96f" type="folder">6</container>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_c78f94633480f88cdd573abb0a6b7712" label="Mixed Materials [31142054873628]" type="box">9</container>
+            <container id="aspace_42a0f8d8298b9701f26cd252128198f1" parent="aspace_c78f94633480f88cdd573abb0a6b7712" type="folder">5-6</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate normal="1963/1989" type="inclusive">1963-1989, undated</unitdate>
+            <container altrender="Flat OS 21" id="aspace_067a14e7ec402f9c088bb54c6fea37d0" label="Mixed Materials [31142054891042]" type="box">Shared Fales 001 </container>
+            <container id="aspace_0fceec007c348e6e4a5d67525c69dcca" parent="aspace_067a14e7ec402f9c088bb54c6fea37d0" type="folder">2</container>
+            <container altrender="Flat OS Box 17" id="aspace_4b490901eb25744b4c882dcbc27c7f14" label="Mixed Materials [31142054873669]" type="box">11</container>
+            <container id="aspace_41d60f6f2d45c900c3da5bf5ad566a3e" parent="aspace_4b490901eb25744b4c882dcbc27c7f14" type="folder">10</container>
+            <container altrender="Manuscript box - Legal" id="aspace_17c8e1a3c36a7eab92b1abe6694209de" label="Mixed Materials [31142054873545]" type="box">1</container>
+            <container id="aspace_c1f2b90031e741fc7af6a915e089dfb4" parent="aspace_17c8e1a3c36a7eab92b1abe6694209de" type="folder">7-8</container>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_05d8b08dab6003ad449fa9e67f74188d" label="Mixed Materials [31142054873628]" type="box">9</container>
+            <container id="aspace_3883ba234e8e20c312b7c74f289bf71d" parent="aspace_05d8b08dab6003ad449fa9e67f74188d" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Collage material</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2bff30379b1bb55bcedd807ab7c7cab6" label="Mixed Materials [31142054873545]" type="box">1</container>
+            <container id="aspace_3a0b8a13853370afc745a49ccdd6a171" parent="aspace_2bff30379b1bb55bcedd807ab7c7cab6" type="folder">9-10</container>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_96c5b588dec22b048467504f8bccb64d" label="Mixed Materials [31142054873628]" type="box">9</container>
+            <container id="aspace_e3161c53cc3e07af3d516c390ffb5f39" parent="aspace_96c5b588dec22b048467504f8bccb64d" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Con-Cou</unittitle>
+            <unitdate normal="1977/1979" type="inclusive">1977-1979, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d13aab2c15d0ca39499e6ba433fee7ab" label="Mixed Materials [31142054873545]" type="box">1</container>
+            <container id="aspace_805cf804baf859ae66daa6c1e4ec422a" parent="aspace_d13aab2c15d0ca39499e6ba433fee7ab" type="folder">11</container>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_f3d6f2eeb9903bc84cb4710959a1be29" label="Mixed Materials [31142054873628]" type="box">9</container>
+            <container id="aspace_876ad7d75d9f026d7e0201412ae06dda" parent="aspace_f3d6f2eeb9903bc84cb4710959a1be29" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Crab Ogress of Jingola</emph>
+            </unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1f299c513a855ebd83a6e3b53c1d287b" label="Mixed Materials [31142054873545]" type="box">1</container>
+            <container id="aspace_0850d8a2e712dea3677244d7353fbf26" parent="aspace_1f299c513a855ebd83a6e3b53c1d287b" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">The Critic</emph>
+            </unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_438ba600b9f76a8db38f81864dc4cada" label="Mixed Materials [31142054873545]" type="box">1</container>
+            <container id="aspace_bb7e902a841fd45b32e5e1b2ede259b1" parent="aspace_438ba600b9f76a8db38f81864dc4cada" type="folder">13-15</container>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_c00eeef4dedfcf7169a3922be9c7aece" label="Mixed Materials [31142054873628]" type="box">9</container>
+            <container id="aspace_2a06aa044e693b8b181f380ebd32cb11" parent="aspace_c00eeef4dedfcf7169a3922be9c7aece" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Cu-Fe</unittitle>
+            <unitdate normal="1970/1985" type="inclusive">1970-1985, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8bebda6ab26cb91c535840de159f2900" label="Mixed Materials [31142054873545]" type="box">1</container>
+            <container id="aspace_f9ab8f84d507fbbc53cbec6884bac26e" parent="aspace_8bebda6ab26cb91c535840de159f2900" type="folder">16</container>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_c0c6cb2562c95f84355396faac565bba" label="Mixed Materials [31142054873628]" type="box">9</container>
+            <container id="aspace_7287f89c2eddcf847d53e71d54fdba34" parent="aspace_c0c6cb2562c95f84355396faac565bba" type="folder">11-12</container>
+            <container altrender="Flat OS Box 17" id="aspace_68afee9aa63a85f0d736032b33201e82" label="Mixed Materials [31142054873669]" type="box">11</container>
+            <container id="aspace_7b77281975e4f8f736fb94f649b22f24" parent="aspace_68afee9aa63a85f0d736032b33201e82" type="folder">2-3</container>
+            <container altrender="Oversize Folder - Half Case" id="aspace_9dda4bdcca3d67ad3801cda0f79c3952" label="Mixed Materials [31142062890309]" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Film festivals and lectures</unittitle>
+            <unitdate normal="1976/1985" type="inclusive">1976-1985, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dcbd74e761bf5f530b0a539a3334a493" label="Mixed Materials [31142054873552]" type="box">2</container>
+            <container id="aspace_eb714784f2d4f6a2b49a4e46e117f01b" parent="aspace_dcbd74e761bf5f530b0a539a3334a493" type="folder">1-2</container>
+            <container altrender="Flat OS Box 17" id="aspace_00576cf851209c87f9f53d2860a7e5f0" label="Mixed Materials [31142054873669]" type="box">11</container>
+            <container id="aspace_5fc10c69149486103cd7855e0f27ebe1" parent="aspace_00576cf851209c87f9f53d2860a7e5f0" type="folder">4</container>
+            <container altrender="Flat OS 21" id="aspace_2427200f90d5652b36cf35e02039cbde" label="Mixed Materials [31142054891042]" type="box">Shared Fales 001 </container>
+            <container id="aspace_e8c36119daa3a181ba8a068475239c7c" parent="aspace_2427200f90d5652b36cf35e02039cbde" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Flaming Creatures</emph>
+            </unittitle>
+            <unitdate normal="1961/1985" type="inclusive">1961-1964, 1983-1985, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_87a5ea7b3bd39aa3c8461c3ca2e49f67" label="Mixed Materials [31142054873552]" type="box">2</container>
+            <container id="aspace_5c5a1a3dbbb65dc08dd7fac5836b778b" parent="aspace_87a5ea7b3bd39aa3c8461c3ca2e49f67" type="folder">3-4</container>
+            <container altrender="Flat OS Box 17" id="aspace_a32dadc9ef03cba085ca19164a70d5f0" label="Mixed Materials [31142054873669]" type="box">11</container>
+            <container id="aspace_acfa8a5bc3532b55099eecd8cad4eb5d" parent="aspace_a32dadc9ef03cba085ca19164a70d5f0" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Gala Party and Lobster Moon Pageant</emph>
+            </unittitle>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5779d6dc5cb7145df6e6d30f197c8af9" label="Mixed Materials [31142054873552]" type="box">2</container>
+            <container id="aspace_dfdf2c7c12b8ff09a4e68f3469ad0f38" parent="aspace_5779d6dc5cb7145df6e6d30f197c8af9" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">The Great Moldy Triumph</emph>
+            </unittitle>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_416f2275eaa1980858bd0e153b255916" label="Mixed Materials [31142054873552]" type="box">2</container>
+            <container id="aspace_a3ca0808f52a20154db5133332f2e03a" parent="aspace_416f2275eaa1980858bd0e153b255916" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>H-In</unittitle>
+            <unitdate normal="1963/1984" type="inclusive">1963, 1975-1984, undated</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_134a3a8518406271a2d74f1623ca4e3c" label="Mixed Materials [31142054873669]" type="box">11</container>
+            <container id="aspace_4200c53d167511fefa209139f10845ab" parent="aspace_134a3a8518406271a2d74f1623ca4e3c" type="folder">5</container>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_f406fca033b25ed0ea8030e11b752e35" label="Mixed Materials [31142054873636]" type="box">10</container>
+            <container id="aspace_c87d364339f0e54bb96d4a0866daae6e" parent="aspace_f406fca033b25ed0ea8030e11b752e35" type="folder">1-2</container>
+            <container altrender="Flat OS Box 17" id="aspace_83ef7cd597a4cca81a9ad51e16cdbfab" label="Mixed Materials [31142054873669]" type="box">11</container>
+            <container id="aspace_07e39b07ddc0267f768d881cd3c11b49" parent="aspace_83ef7cd597a4cca81a9ad51e16cdbfab" type="folder">12</container>
+            <container altrender="Manuscript box - Legal" id="aspace_1aaf32d0af7c493cae45a449f59b9e90" label="Mixed Materials [31142054873552]" type="box">2</container>
+            <container id="aspace_fd32889460398d5f9be39566d5f4cd0e" parent="aspace_1aaf32d0af7c493cae45a449f59b9e90" type="folder">7</container>
+            <container altrender="Flat OS 21" id="aspace_2521522d251e54e7ae23c5bdb2e2543a" label="Mixed Materials [31142054891042]" type="box">Shared Fales 001 </container>
+            <container id="aspace_94950bdef2b31e92bd9b889b68ea045e" parent="aspace_2521522d251e54e7ae23c5bdb2e2543a" type="folder">5-6</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Irrational Landlordism of Bagdad</emph>
+            </unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_69708fa38d6aecbfdc86228bcd0dc0df" label="Mixed Materials [31142054873552]" type="box">2</container>
+            <container id="aspace_3f32e80cc42d734e1400fee36b898101" parent="aspace_69708fa38d6aecbfdc86228bcd0dc0df" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Is-L</unittitle>
+            <unitdate normal="1966/1970" type="inclusive">1966-1970, undated</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_fe7c571e56640604ad2f07ab7cb17775" label="Mixed Materials [31142054873636]" type="box">10</container>
+            <container id="aspace_e2c61d58eed1a087945d35ba9a2be43b" parent="aspace_fe7c571e56640604ad2f07ab7cb17775" type="folder">2</container>
+            <container altrender="Manuscript box - Legal" id="aspace_b94263be80c5319ab3e9338966938591" label="Mixed Materials [31142054873552]" type="box">2</container>
+            <container id="aspace_6d2ea6b29594af388f519521acf08094" parent="aspace_b94263be80c5319ab3e9338966938591" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Lucky Landlordism of Lotusland</emph>
+            </unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_84c698ea01ade7c600d9b8053843c479" label="Mixed Materials [31142054873552]" type="box">2</container>
+            <container id="aspace_793c9656140778be77abd7f76eac3f41" parent="aspace_84c698ea01ade7c600d9b8053843c479" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Lucky Landlordism of Roachcrust</emph>
+            </unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7a1829ae3fecd391672687cdaac01b64" label="Mixed Materials [31142054873552]" type="box">2</container>
+            <container id="aspace_2c125a37792746bc35ce2d2f2598bbf0" parent="aspace_7a1829ae3fecd391672687cdaac01b64" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Memoirs of Maria Montez, or Wait for Me at the Bottom of the Pool</emph>
+            </unittitle>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_13390dc872df35537f803f2308507fbf" label="Mixed Materials [31142054873552]" type="box">2</container>
+            <container id="aspace_26cfdd9c9a0a48df7fca393724456d91" parent="aspace_13390dc872df35537f803f2308507fbf" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Miracle at Farblonjet</emph>
+            </unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_22b4bc7f07c32cd03bff7581962f2a08" label="Mixed Materials [31142054873552]" type="box">2</container>
+            <container id="aspace_7f2dc1be98244e0ec52aecf71a1bf9f1" parent="aspace_22b4bc7f07c32cd03bff7581962f2a08" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">No President</emph>
+            </unittitle>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5bdf5c284903c02b5e540d8a7bdfdc27" label="Mixed Materials [31142054873560]" type="box">3</container>
+            <container id="aspace_4aebd325cccacc61b01be65e2ccde614" parent="aspace_5bdf5c284903c02b5e540d8a7bdfdc27" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Normal Love</emph>
+            </unittitle>
+            <unitdate normal="1963/1989" type="inclusive">1963-1968, 1974, 1989, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e457204c40586a25eff96ba6a377c315" label="Mixed Materials [31142054873560]" type="box">3</container>
+            <container id="aspace_61cf735433ae1728079495878d59d716" parent="aspace_e457204c40586a25eff96ba6a377c315" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Notebooks</unittitle>
+            <unitdate normal="1974/1987" type="inclusive">1974-1987, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_68ceb4ad2c75b3ab336fce71ba7ec978" label="Mixed Materials [31142054873560]" type="box">3</container>
+            <container id="aspace_19794cb9ac5b27bd2230e850533ea0d5" parent="aspace_68ceb4ad2c75b3ab336fce71ba7ec978" type="folder">3-6</container>
+            <container altrender="Manuscript box - Legal" id="aspace_9dc9e44d680678fcbe8aadfa837ae976" label="Mixed Materials [31142054873552]" type="box">2</container>
+            <container id="aspace_af5b63f2e6bd8fbdb3d52e8930dbc208" parent="aspace_9dc9e44d680678fcbe8aadfa837ae976" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Notes</unittitle>
+            <unitdate normal="1969/1988" type="inclusive">1969-1988, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0b85cd9a991fb53496b8e80507cecaa5" label="Mixed Materials [31142054873586]" type="box">5</container>
+            <container id="aspace_5e561df76bff604b2c84ea9590dd8f47" parent="aspace_0b85cd9a991fb53496b8e80507cecaa5" type="folder">1-2</container>
+            <container altrender="Flat OS Box 17" id="aspace_71ac30a94b0feb930f55d4e29429296d" label="Mixed Materials [31142054873669]" type="box">11</container>
+            <container id="aspace_6534c47135aec4d5215ed788e0e6ddb5" parent="aspace_71ac30a94b0feb930f55d4e29429296d" type="folder">6</container>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_7930125e03c67f9346fc0be4e823b07e" label="Mixed Materials [31142054873636]" type="box">10</container>
+            <container id="aspace_e6f8c1aaac454147dc989d744cde9bb2" parent="aspace_7930125e03c67f9346fc0be4e823b07e" type="folder">3</container>
+            <container altrender="Manuscript box - Legal" id="aspace_d3cd03ffc7f931af69129d63fb77c10d" label="Mixed Materials [31142054873578]" type="box">4</container>
+            <container id="aspace_3cd041518590f517f1417e7c177b00cc" parent="aspace_d3cd03ffc7f931af69129d63fb77c10d" type="folder">1-8</container>
+            <container altrender="Manuscript box - Legal" id="aspace_aa828aab845e2e1a881c7854b01715ff" label="Mixed Materials [31142054873560]" type="box">3</container>
+            <container id="aspace_5cd96a2259bc1511ef081befabfb216a" parent="aspace_aa828aab845e2e1a881c7854b01715ff" type="folder">7-10</container>
+            <container altrender="Flat OS 21" id="aspace_a4373ab9ac6f6ef22c194e2c1d786c44" label="Mixed Materials [31142054891042]" type="box">Shared Fales 001 </container>
+            <container id="aspace_631a017165158fc031ea33299ab98c2d" parent="aspace_a4373ab9ac6f6ef22c194e2c1d786c44" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>O-Pe</unittitle>
+            <unitdate normal="1973/1981" type="inclusive">1973-1981, undated</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_3ca9a4dd293fa6e5488f1f406bea6af9" label="Mixed Materials [31142054873669]" type="box">11</container>
+            <container id="aspace_a9165789975322ee3195caf4ef80b7c7" parent="aspace_3ca9a4dd293fa6e5488f1f406bea6af9" type="folder">7</container>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_4c06ba01d69fd4eea3ed2d404b32aa2d" label="Mixed Materials [31142054873636]" type="box">10</container>
+            <container id="aspace_1cabb94815bc74ca9a7c73de6974e844" parent="aspace_4c06ba01d69fd4eea3ed2d404b32aa2d" type="folder">4</container>
+            <container altrender="Manuscript box - Legal" id="aspace_37f2d2417f636f045b0c817240907580" label="Mixed Materials [31142054873586]" type="box">5</container>
+            <container id="aspace_faef3c16712f71b7d563a331134438a5" parent="aspace_37f2d2417f636f045b0c817240907580" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>"'Pink Flamingos' Formulas in Focus"</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3ae66b9257dd7cc1e9abd9ccd9ac655f" label="Mixed Materials [31142054873586]" type="box">5</container>
+            <container id="aspace_81e8df945858a193482d36d06ff348e1" parent="aspace_3ae66b9257dd7cc1e9abd9ccd9ac655f" type="folder">4</container>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_4bc350c07af3e875980b16f8eff88745" label="Mixed Materials [31142054873636]" type="box">10</container>
+            <container id="aspace_948a03bcab48763387010eaf454ad430" parent="aspace_4bc350c07af3e875980b16f8eff88745" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Pir-Poo</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_841525c6edc49d9fc63cc7234e2e6ae4" label="Mixed Materials [31142054873586]" type="box">5</container>
+            <container id="aspace_37a54b0fa84a0d47e97f4f628cc465e3" parent="aspace_841525c6edc49d9fc63cc7234e2e6ae4" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Portfolio</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_300981d5c7b57fe0850b5cb2a8b088aa" label="Mixed Materials [31142054873586]" type="box">5</container>
+            <container id="aspace_ab217388b53d12385ee53c91fcf2da7e" parent="aspace_300981d5c7b57fe0850b5cb2a8b088aa" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Press packet</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_635e010776ce750a48441806bbe2da0a" label="Mixed Materials [31142054873586]" type="box">5</container>
+            <container id="aspace_dfcf02805d67ef460d916222422f8825" parent="aspace_635e010776ce750a48441806bbe2da0a" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Press R-Secret</unittitle>
+            <unitdate normal="1965/1976" type="inclusive">1965, 1973-1976, undated</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_f3244df57d87694a68a55fd94a9f6efa" label="Mixed Materials [31142054873636]" type="box">10</container>
+            <container id="aspace_ce89f3368fdedd78a1c6fdabee05bfe7" parent="aspace_f3244df57d87694a68a55fd94a9f6efa" type="folder">5</container>
+            <container altrender="Manuscript box - Legal" id="aspace_5a0c9190db01ea744c4116ea218ce12a" label="Mixed Materials [31142054873586]" type="box">5</container>
+            <container id="aspace_1c5d4d9fa32607d9faf78bff21115f6a" parent="aspace_5a0c9190db01ea744c4116ea218ce12a" type="folder">8</container>
+            <container altrender="Flat OS 21" id="aspace_01017aec1a2e2ad3e63a1fd4cad46705" label="Mixed Materials [31142054891042]" type="box">Shared Fales 001 </container>
+            <container id="aspace_574c43959ec649f96f99d9f76a8f6c07" parent="aspace_01017aec1a2e2ad3e63a1fd4cad46705" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Secret of Rented Island</emph>
+            </unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_ccef65aba6463badf7c3f69aa927b848" label="Mixed Materials [31142054873669]" type="box">11</container>
+            <container id="aspace_6a53ac97a8b67be19a0aa3bbd29a97f7" parent="aspace_ccef65aba6463badf7c3f69aa927b848" type="folder">7</container>
+            <container altrender="Manuscript box - Legal" id="aspace_014db2d4f578b7b53e2e8dd1250a5527" label="Mixed Materials [31142054873586]" type="box">5</container>
+            <container id="aspace_26a08c7ce208dfd989b1bd25a9883560" parent="aspace_014db2d4f578b7b53e2e8dd1250a5527" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Secrets of t-Sh</unittitle>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972, undated</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_288817204364146214429bf3d9975c43" label="Mixed Materials [31142054873636]" type="box">10</container>
+            <container id="aspace_e236d0c2aa83beb6359e02b05310c064" parent="aspace_288817204364146214429bf3d9975c43" type="folder">5</container>
+            <container altrender="Manuscript box - Legal" id="aspace_2dcc486e22240faf01b5ed5a5b8cd446" label="Mixed Materials [31142054873586]" type="box">5</container>
+            <container id="aspace_da0041002383cd1856c83d16a94330ec" parent="aspace_2dcc486e22240faf01b5ed5a5b8cd446" type="folder">10</container>
+            <container altrender="Flat OS Box 17" id="aspace_de14f0887919f5454f0818a933769bd8" label="Mixed Materials [31142054873669]" type="box">11</container>
+            <container id="aspace_a352d062f1c09be2bc3850654a79071c" parent="aspace_de14f0887919f5454f0818a933769bd8" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Sinbad and the 7 Labors of Uranus</emph>
+            </unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_efbcbc2b3e487bf9903c3a42da993846" label="Mixed Materials [31142054873586]" type="box">5</container>
+            <container id="aspace_c0cb25403e6535ae8c81c7e8049081bd" parent="aspace_efbcbc2b3e487bf9903c3a42da993846" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Sinbad in the Rented World</emph>
+            </unittitle>
+            <unitdate normal="1972/1984" type="inclusive">1972-1984</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_16e07b46f16b134bf1eaa8c87ddfe057" label="Mixed Materials [31142054873636]" type="box">10</container>
+            <container id="aspace_d3af17693f1ce26e6298ee1d825fe349" parent="aspace_16e07b46f16b134bf1eaa8c87ddfe057" type="folder">6</container>
+            <container altrender="Manuscript box - Legal" id="aspace_5333e59b136f2faa3f708d4fe8788846" label="Mixed Materials [31142054873586]" type="box">5</container>
+            <container id="aspace_43076fdc299dca24164b414a813b0a63" parent="aspace_5333e59b136f2faa3f708d4fe8788846" type="folder">12</container>
+            <container altrender="Oversize Folder - Half Case" id="aspace_69fa8af68e0f10b038bb27a9d27d0381" label="Mixed Materials [31142062890291]" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Sinbad S-Sp</unittitle>
+            <unitdate normal="1982/1984" type="inclusive">1982-1984, undated</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_e35ac428b263739647d8d4da99ae0ca1" label="Mixed Materials [31142054873636]" type="box">10</container>
+            <container id="aspace_5b56a56dd6d60f0b4c1469f831fef63a" parent="aspace_e35ac428b263739647d8d4da99ae0ca1" type="folder">6</container>
+            <container altrender="Manuscript box - Legal" id="aspace_0eb4cad86c5a60c51615b6c29629af67" label="Mixed Materials [31142054873586]" type="box">5</container>
+            <container id="aspace_4100751afc2bb2ee645d2f1dc4c5b339" parent="aspace_0eb4cad86c5a60c51615b6c29629af67" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Stationery</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_9930d34181ee37a6da83c2192734920c" label="Mixed Materials [31142054873636]" type="box">10</container>
+            <container id="aspace_ae79377a56e1daf7a0bb49d1ab27dd8c" parent="aspace_9930d34181ee37a6da83c2192734920c" type="folder">6</container>
+            <container altrender="Manuscript box - Legal" id="aspace_1cd5fa241b6f4da286f399dca5119fe1" label="Mixed Materials [31142054873586]" type="box">5</container>
+            <container id="aspace_f623c63eb5797e2dd3b98abd432a60e1" parent="aspace_1cd5fa241b6f4da286f399dca5119fe1" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Stencils and lettering</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ff97b64da76e716d238c1a16089221b2" label="Mixed Materials [31142054873594]" type="box">6</container>
+            <container id="aspace_4e470ac687649b023d6809209b8b58a0" parent="aspace_ff97b64da76e716d238c1a16089221b2" type="folder">1</container>
+            <container altrender="Manuscript box - Legal" id="aspace_c7cf6fde8d9b9ea5a3355faf7f010237" label="Mixed Materials [31142054873586]" type="box">5</container>
+            <container id="aspace_2006077c37b884d9b2ea43bb82e41a0a" parent="aspace_c7cf6fde8d9b9ea5a3355faf7f010237" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Sy-Unh</unittitle>
+            <unitdate normal="1975/1975" type="inclusive">1975, undated</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_b4bb1280eedd7b2b651bf953d2911f5a" label="Mixed Materials [31142054873636]" type="box">10</container>
+            <container id="aspace_046d837c89ce712560c50acb3cb30485" parent="aspace_b4bb1280eedd7b2b651bf953d2911f5a" type="folder">7</container>
+            <container altrender="Flat OS Box 17" id="aspace_467fe36e510650bfc5b5f420a6534cff" label="Mixed Materials [31142054873669]" type="box">11</container>
+            <container id="aspace_1c2d2b78f906f010275c74a4a2695a91" parent="aspace_467fe36e510650bfc5b5f420a6534cff" type="folder">7</container>
+            <container altrender="Manuscript box - Legal" id="aspace_4eb4b1c63a8c9f924eef0950c7244705" label="Mixed Materials [31142054873594]" type="box">6</container>
+            <container id="aspace_e25e4e9a08e68951ae2f9479419ce28c" parent="aspace_4eb4b1c63a8c9f924eef0950c7244705" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Untitled artwork</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_fc3827801d9d5ceaf0b8e82a874e04eb" label="Mixed Materials [31142054873669]" type="box">11</container>
+            <container id="aspace_8880d59b317347f96b1ed2b808e78aaa" parent="aspace_fc3827801d9d5ceaf0b8e82a874e04eb" type="folder">8</container>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_611bfc8071b71d0c0ed91c1a1f4c6960" label="Mixed Materials [31142054873636]" type="box">10</container>
+            <container id="aspace_63337752afec307d1f34f29e54e1d31d" parent="aspace_611bfc8071b71d0c0ed91c1a1f4c6960" type="folder">8-9</container>
+            <container altrender="Manuscript box - Legal" id="aspace_b5c0f98ec16cad4709a975ef00a1f358" label="Mixed Materials [31142054873594]" type="box">6</container>
+            <container id="aspace_3ec81025573b7b2feb9be59688c7e855" parent="aspace_b5c0f98ec16cad4709a975ef00a1f358" type="folder">3-4</container>
+            <container altrender="Flat OS 21" id="aspace_f01bf9bf923e71a6ec68ab952cf56106" label="Mixed Materials [31142054891042]" type="box">Shared Fales 001 </container>
+            <container id="aspace_c87f05f47d0b600fb815fe7a2878db72" parent="aspace_f01bf9bf923e71a6ec68ab952cf56106" type="folder">3-4</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Untitled mixed media art piece</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_18ed5a9a43d8cb0e0f6caf6caa95a770" label="Mixed Materials [31142054873735]" type="box">19</container>
+            <container altrender="Manuscript box - Legal" id="aspace_364b4d723242dce652f50f0b58d6ff91" label="Mixed Materials [31142054873594]" type="box">6</container>
+            <container id="aspace_db2fb8e0dffe9fc9bddbb9c9f83b80b4" parent="aspace_364b4d723242dce652f50f0b58d6ff91" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Untitled writings</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b0747613a01af737ebe0f1afcb3b2c07" label="Mixed Materials [31142054873594]" type="box">6</container>
+            <container id="aspace_5ececa260fc45e7ea86835fcce2aca69" parent="aspace_b0747613a01af737ebe0f1afcb3b2c07" type="folder">6-7</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>V-Wha</unittitle>
+            <unitdate normal="1969/1981" type="inclusive">1969, 1981, undated</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_ceb2f2048efc0a5026e085ae77d4aed5" label="Mixed Materials [31142054873636]" type="box">10</container>
+            <container id="aspace_e197315a778192396821c002ac39685f" parent="aspace_ceb2f2048efc0a5026e085ae77d4aed5" type="folder">10</container>
+            <container altrender="Manuscript box - Legal" id="aspace_19a16b22646dc063a788413e817440f3" label="Mixed Materials [31142054873594]" type="box">6</container>
+            <container id="aspace_ff66c5abbd16847acb7622ba86c3d7a6" parent="aspace_19a16b22646dc063a788413e817440f3" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">The White Pig of the Medina</emph>
+            </unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_ccbbf5e634cd384a4881b6e51095b02e" label="Mixed Materials [31142054873669]" type="box">11</container>
+            <container id="aspace_0871e483cbb2b84b90136e80e593d899" parent="aspace_ccbbf5e634cd384a4881b6e51095b02e" type="folder">8</container>
+            <container altrender="Manuscript box - Legal" id="aspace_8b792c86889f5f4ebe13ce15d6c20681" label="Mixed Materials [31142054873594]" type="box">6</container>
+            <container id="aspace_b3eb907d1ac8efd3a5da45350186198c" parent="aspace_8b792c86889f5f4ebe13ce15d6c20681" type="folder">9-10</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Wi-Won</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_acd902a4cfab72704a23c670e2756cc4" label="Mixed Materials [31142054873594]" type="box">6</container>
+            <container id="aspace_db901e9f1322660feddb69a524d3f7d5" parent="aspace_acd902a4cfab72704a23c670e2756cc4" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Works and performances by other artists</unittitle>
+            <unitdate normal="1971/1988" type="inclusive">1971-1988, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9816d6508e550dbb063540732ca985dc" label="Mixed Materials [31142054873594]" type="box">6</container>
+            <container id="aspace_a56bb7d83172199fe014450e6a97c289" parent="aspace_9816d6508e550dbb063540732ca985dc" type="folder">12-13</container>
+            <container altrender="Flat OS Box 17" id="aspace_0d55c5eb665f3acc7209b34bcf8300ae" label="Mixed Materials [31142054873669]" type="box">11</container>
+            <container id="aspace_5f3333f2c3bae0e99308884645cd29e9" parent="aspace_0d55c5eb665f3acc7209b34bcf8300ae" type="folder">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref91" level="series">
+        <did>
+          <unittitle>Series II. Subject Files</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3.1 Linear Feet</extent>
+            <extent altrender="carrier">in one and a half record cartons, one manuscript box, and eight oversize folders.</extent>
+          </physdesc>
+          <unitdate normal="1960/1989" type="inclusive">1960-1989, undated</unitdate>
+        </did>
+        <arrangement id="aspace_bfc6cf20618113f8f1f4751bf9e8214a">
+          <head>Arrangement</head>
+          <p>This series is arranged into two broad topics, Health and Source Material.</p>
+        </arrangement>
+        <scopecontent id="aspace_ee86002a2b868f1850841d5a57092642">
+          <head>Scope and Content</head>
+          <p>This series contains clippings from newspapers and magazines, with some full issues, on topics of interest to Smith.  They are divided into two broad topics, Health and Source Material.  Health includes nutrition, exercise, hair loss, HIV/AIDS, and mental wellness.  Source Material includes films and filmmaking, photography, the Golden Age of Hollywood, and beaches and deserts (in particular Hawaii, North Africa, and the Middle East).  The clippings contain articles as well as images used in collages or as inspiration for settings in his films and performances.  Materials date from the late 1960s to the 1980s, with the bulk from the early to mid 1980s.</p>
+        </scopecontent>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Health</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">0.7 Linear Feet</extent>
+              <extent altrender="carrier">in half of a record carton and three oversize folders.</extent>
+            </physdesc>
+            <unitdate normal="1964/1989" type="inclusive">1964-1989, undated</unitdate>
+            <unitdate normal="1984/1989" type="bulk">1984-1989</unitdate>
+            <container altrender="Record carton" id="aspace_c549ff7d7457536b2218999f38642c97" label="Mixed Materials [31142054873750]" type="box">21</container>
+            <container id="aspace_cf8195a5bb7838ba726742d82e573827" parent="aspace_c549ff7d7457536b2218999f38642c97" type="folder">1-10</container>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_429fe1f449cdd7e5aff40c81ab0158bc" label="Mixed Materials [31142054873743]" type="box">20</container>
+            <container id="aspace_28075fb6a8d70eed61ab9f1422b6e4d3" parent="aspace_429fe1f449cdd7e5aff40c81ab0158bc" type="folder">1-3</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Source material</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">2.3 Linear Feet</extent>
+              <extent altrender="carrier">in one record carton, one manuscript box, and five oversize folders.</extent>
+            </physdesc>
+            <unitdate normal="1960/1989" type="inclusive">1960-1989, undated</unitdate>
+            <unitdate normal="1969/1981" type="bulk">1969-1981</unitdate>
+            <container altrender="Record carton" id="aspace_8a0eb87d0f4d4f16e6b9045bb1d5f0ce" label="Mixed Materials [31142054873750]" type="box">21</container>
+            <container id="aspace_d52930a961093675926c0785d77ef676" parent="aspace_8a0eb87d0f4d4f16e6b9045bb1d5f0ce" type="folder">11-21</container>
+            <container altrender="Record carton" id="aspace_ae9fcfb78afb713727fc33154f7f4460" label="Mixed Materials [31142054873768]" type="box">22</container>
+            <container id="aspace_cc60faf8717fe4edfc2ac016af112833" parent="aspace_ae9fcfb78afb713727fc33154f7f4460" type="folder">1-9</container>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_4af7a88164396f8145f8e47ea6e553d1" label="Mixed Materials [31142054873743]" type="box">20</container>
+            <container id="aspace_4fd7c184fa7afaa6151f20b2b864bad1" parent="aspace_4af7a88164396f8145f8e47ea6e553d1" type="folder">4-6</container>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_0e826a644b01979d0e14a79b63917edc" label="Mixed Materials [31142054873636]" type="box">10</container>
+            <container id="aspace_1b78d3074869f5dfe9373bec13b61ab4" parent="aspace_0e826a644b01979d0e14a79b63917edc" type="folder">12</container>
+            <container altrender="Flat OS Box 17" id="aspace_6acaa256717983b7e7be356ea6b8c589" label="Mixed Materials [31142054873669]" type="box">11</container>
+            <container id="aspace_90ceabef0580a304dd96242c1a89538a" parent="aspace_6acaa256717983b7e7be356ea6b8c589" type="folder">9</container>
+            <container altrender="Manuscript box - Legal" id="aspace_82c81d7f7d2377b71853196d765f99a7" label="Mixed Materials [31142054873776]" type="box">23</container>
+            <container id="aspace_c5d00c8c1e48653d56ba53c1d7e85708" parent="aspace_82c81d7f7d2377b71853196d765f99a7" type="folder">1-7</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref94" level="series">
+        <did>
+          <unittitle>Series III. Books</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">7 Linear Feet</extent>
+            <extent altrender="carrier">in seven record cartons.</extent>
+          </physdesc>
+          <unitdate normal="1891/1987" type="inclusive">1891-1987, undated</unitdate>
+          <unitdate normal="1968/1978" type="bulk">1968-1978</unitdate>
+        </did>
+        <arrangement id="aspace_f7d9b9b8788c1ad51d8e32011bf0834f">
+          <head>Arrangement</head>
+          <p>This series has not been arranged.</p>
+        </arrangement>
+        <scopecontent id="aspace_d71db10ff6906a362aedaacc55d22fbf">
+          <head>Scope and Content</head>
+          <p>This series contains books from Smith's library and includes fiction and nonfiction titles.  Agatha Christie and Sax Rohmer books constitute the bulk of the fiction titles, with other authors including Washington Irving, William Shakespeare, Sinclair Lewis, Jorge Amado, Charles Dickens, and Henry Green.  Nonfiction topics include the Alhambra, Hawaii, Arabic art, Hollywood, typography, border design, exercise, and nutrition.  Materials date from the late 1890s to the mid-1980s, with the bulk dating from 1968 to 1978.</p>
+        </scopecontent>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Books</unittitle>
+            <unitdate normal="1891/1987" type="inclusive">1891-1987, undated</unitdate>
+            <container altrender="Record carton" id="aspace_0483ceabaae683e2520e8c0253b223cc" label="Books [31142054873719]" type="box">17</container>
+            <container altrender="Record carton" id="aspace_7b607d7bdd1e5fa38f0e32b87a5c7725" label="Books [31142054873701]" type="box">16</container>
+            <container altrender="Record carton" id="aspace_1198e2f5b64d900c467db000341df90b" label="Books [31142054873727]" type="box">18</container>
+            <container altrender="Record carton" id="aspace_55765bd450fc65bec5114313e6ea1b19" label="Books [31142054873677]" type="box">13</container>
+            <container altrender="Record carton" id="aspace_ef77d3efb717290a68545cfa1d906cb4" label="Books [31142054873651]" type="box">12</container>
+            <container altrender="Record carton" id="aspace_7f928f48f6509cce04151ce2cf21a617" label="Books [31142054873693]" type="box">15</container>
+            <container altrender="Record carton" id="aspace_226580c7310c75a4fd01a91311af69b8" label="Books [31142054873685]" type="box">14</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref62" level="series">
+        <did>
+          <unittitle>Series IV. Business and Financial Records</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.1 Linear Feet</extent>
+            <extent altrender="carrier">in one and a half manuscript boxes and one record carton.</extent>
+          </physdesc>
+          <unitdate normal="1962/1990" type="inclusive">1962-1990, undated</unitdate>
+          <unitdate normal="1971/1985" type="bulk">1971-1985</unitdate>
+        </did>
+        <arrangement id="aspace_623ca7c53007b53019b490e951427cbe">
+          <head>Arrangement</head>
+          <p>This series is arranged in alphabetical order, with type of document, correspondent, and folder titles created by Smith interfiled together.</p>
+        </arrangement>
+        <scopecontent id="aspace_2b1cb1bb7be4a33e7822e230a2c9ef7e">
+          <head>Scope and Content</head>
+          <p>This series contains Smith's bank and investment statements; a small amount correspondence with friends, as well as film and cultural organizations; correspondence, notes, and flyers regarding Smith's legal dealings with his landlords; ledgers, some of which detail Smith's income and expenses from the Film-makers' Cooperative for 1964-1965, for screenings of <emph render="italic">Flaming Creatures</emph>; grant applications in support of <emph render="italic">Sinbad in the Rented World</emph>; address books, mailing lists, and a Rolodex; and tax records for Smith's property in Apache County, Arizona.  Materials date from 1962 to 1990, with the bulk dating between 1971-1985.</p>
+        </scopecontent>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Address book/flip book</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3d923f24284cbab4c65d9700a99822b1" label="Mixed Materials [31142054873594]" type="box">6</container>
+            <container id="aspace_3feba2012f7cc0a447c5edbc67a6b82c" parent="aspace_3d923f24284cbab4c65d9700a99822b1" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>American Federation of Arts</unittitle>
+            <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0801d5f8fe25c95dc764112275ba6f7c" label="Mixed Materials [31142054873594]" type="box">6</container>
+            <container id="aspace_881779bf0c37640ecad99d05eca09f79" parent="aspace_0801d5f8fe25c95dc764112275ba6f7c" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Apartment</unittitle>
+            <unitdate normal="1981/1987" type="inclusive">1981-1987, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_22749f92cc610653cbc76730680e7873" label="Mixed Materials [31142054873594]" type="box">6</container>
+            <container id="aspace_c7c61916985054f2bd1ee8f927dc03b1" parent="aspace_22749f92cc610653cbc76730680e7873" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Arriflex Corporation</unittitle>
+            <unitdate normal="1982/1984" type="inclusive">1982-1984</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3bf3c43b17661804fefb483478a96876" label="Mixed Materials [31142054873602]" type="box">7</container>
+            <container id="aspace_b25aed34a86194d643f4fdc792fbeb84" parent="aspace_3bf3c43b17661804fefb483478a96876" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Bank records</unittitle>
+            <unitdate normal="1976/1990" type="inclusive">1976-1990</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7fbc8dc7085cbd998d656e8ab28e9a1c" label="Mixed Materials [31142054873602]" type="box">7</container>
+            <container id="aspace_18c4aca3c0698376d51f451fd66e3f82" parent="aspace_7fbc8dc7085cbd998d656e8ab28e9a1c" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1962/1989" type="inclusive">1962-1967, 1970-1974, 1980-1989, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_285f79f00c3b3dc418289caaa53160df" label="Mixed Materials [31142054873602]" type="box">7</container>
+            <container id="aspace_7db922b913bd0c78b23ae1a076ec3217" parent="aspace_285f79f00c3b3dc418289caaa53160df" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Creative Artists Public Program</unittitle>
+            <unitdate normal="1980/1982" type="inclusive">1980-1982</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d19f6fba7fbb2df9522bb0d4db7e7e8a" label="Mixed Materials [31142054873602]" type="box">7</container>
+            <container id="aspace_a5d40887905499249ef4ecff2386cb86" parent="aspace_d19f6fba7fbb2df9522bb0d4db7e7e8a" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Film-makers' Cooperative</unittitle>
+            <unitdate normal="1963/1971" type="inclusive">1963-1971</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_578a5feaf6f0123081cd8f52de390327" label="Mixed Materials [31142054873602]" type="box">7</container>
+            <container id="aspace_0d720e40695db9257d1f6ee13b0b4225" parent="aspace_578a5feaf6f0123081cd8f52de390327" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Investments</unittitle>
+            <unitdate normal="1977/1989" type="inclusive">1977-1989</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0b9629abbe45f3db871c7da06c49e270" label="Mixed Materials [31142054873602]" type="box">7</container>
+            <container id="aspace_10e7c79a8f55413079e34b8c6ab8bf86" parent="aspace_0b9629abbe45f3db871c7da06c49e270" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Ledgers</unittitle>
+            <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_87f258376adef36c8e81cd617b81ba37" label="Mixed Materials [31142054873602]" type="box">7</container>
+            <container id="aspace_703d02ac42a012a107a7b97a6e03e014" parent="aspace_87f258376adef36c8e81cd617b81ba37" type="folder">7-8</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Mailing lists</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9f49ce9ce0e9a4c94976e35f9380d97b" label="Mixed Materials [31142054873602]" type="box">7</container>
+            <container id="aspace_dc2a2b62d881ccb529605fbd12e287de" parent="aspace_9f49ce9ce0e9a4c94976e35f9380d97b" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>National Endowment for the Arts</unittitle>
+            <unitdate normal="1981/1985" type="inclusive">1981-1985</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ca43be228369d5f3bab9640328343b3b" label="Mixed Materials [31142054873602]" type="box">7</container>
+            <container id="aspace_406285f0f99781265209639ef642ab26" parent="aspace_ca43be228369d5f3bab9640328343b3b" type="folder">10-11</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>New American Cinema Group</unittitle>
+            <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_bf26eed92ba9fa68c72c2f430eb62858" label="Mixed Materials [31142054873610]" type="box">8</container>
+            <container id="aspace_012facca1824519b0425de4659fea96d" parent="aspace_bf26eed92ba9fa68c72c2f430eb62858" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Opportunities</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_683a5dcb57c2ea32e536611ecb1699df" label="Mixed Materials [31142054873610]" type="box">8</container>
+            <container id="aspace_2d40625d35c8f60e13a825bc84567c78" parent="aspace_683a5dcb57c2ea32e536611ecb1699df" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Property in Apache County, Arizona</unittitle>
+            <unitdate normal="1984/1989" type="inclusive">1984-1989</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_b4b5f378b32def957816f0f79a9b7e35" label="Mixed Materials [31142054873610]" type="box">8</container>
+            <container id="aspace_0f0cfbc5ae6bde0d715e5f906e901f79" parent="aspace_b4b5f378b32def957816f0f79a9b7e35" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Rolodex</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Record carton" id="aspace_b6a6b79a8b476bb2ae242995f16e2e55" label="Mixed Materials [31142054873768]" type="box">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Theatres to work in</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985, undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_be21314aa476145a78e5cb12d79208db" label="Mixed Materials [31142054873610]" type="box">8</container>
+            <container id="aspace_94c4d1755897714899d1592e4700a93a" parent="aspace_be21314aa476145a78e5cb12d79208db" type="folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref79" level="series">
+        <did>
+          <unittitle>Series V. Personal Items</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
+            <extent altrender="carrier">in three folders and one oversize folder.</extent>
+          </physdesc>
+          <unitdate normal="1974/1989" type="inclusive">1974-1989, undated</unitdate>
+          <unitdate normal="1988/1989" type="bulk">1988-1989</unitdate>
+        </did>
+        <arrangement id="aspace_8a5380cca9930929b2e0c42e0aa0f9bb">
+          <head>Arrangement</head>
+          <p>This series is arranged alphabetically by type of document.</p>
+        </arrangement>
+        <scopecontent id="aspace_56a993056c54d7d3d36df22c7c7ee890">
+          <head>Scope and Content</head>
+          <p>This series consists of Smith's passports and identification cards; his medical records; an invitation for his memorial in 1989; and a photograph of Smith with three unidentified men.  The medical records include discharge information and membership materials from the Gay Men's Health Crisis (GMHC).  Materials date from the 1974 to 1989, with the bulk of the materials dating between 1988-1989.</p>
+        </scopecontent>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Identification cards and passports</unittitle>
+            <unitdate normal="1974/1989" type="inclusive">1974-1989, undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_735028243f98fdfac6ebc55aa6e12f97" label="Mixed Materials [31142054873610]" type="box">8</container>
+            <container id="aspace_d88ab26a5ec450be1d3599873b0747f4" parent="aspace_735028243f98fdfac6ebc55aa6e12f97" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Medical records</unittitle>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_d974a03b79902fb75bca507303c2d51b" label="Mixed Materials [31142054873610]" type="box">8</container>
+            <container id="aspace_38e788448caa222b5e4764d92729ad12" parent="aspace_d974a03b79902fb75bca507303c2d51b" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Memorial invitation</unittitle>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_ef7bab670aebcf0ae2e7c5c603cce460" label="Mixed Materials [31142054873610]" type="box">8</container>
+            <container id="aspace_7504784db395af43e8c569dbf296b6b9" parent="aspace_ef7bab670aebcf0ae2e7c5c603cce460" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Photograph of Smith with three unidentified friends at Hawaii Kai restaurant</unittitle>
+            <unitdate>Undated</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_8b2f3f3e5518440d9f085a9dcc88b9f8" label="Mixed Materials [31142054873636]" type="box">10</container>
+            <container id="aspace_a5e78b85102a3d92139e5a3ad623b1ed" parent="aspace_8b2f3f3e5518440d9f085a9dcc88b9f8" type="folder">11</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref102" level="series">
+        <did>
+          <unittitle>Series VI.  Exhibition and Writings on Jack Smith</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+            <extent altrender="carrier">in one record carton.</extent>
+          </physdesc>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <container altrender="Record carton" id="aspace_d111c738969fb36a32a72573112c4dbf" label="Mixed Materials [31142054873735]" type="box">19</container>
+        </did>
+        <arrangement id="aspace_daad96f136108718b894e558e4422c35">
+          <head>Arrangement</head>
+          <p>This series has not been arranged.</p>
+        </arrangement>
+        <scopecontent id="aspace_628b5bb56ba3e42ea2f6756a320460f8">
+          <head>Scope and Content</head>
+          <p>This series contains some of the files kept by Edward G. Leffingwell and others during the planning of MoMA PS1's 1997-1998 exhibit, <emph render="italic">Jack Smith: Flaming Creature</emph>.  The files contain photocopies of Smith's letters, scripts, photographs, and notes used in the exhibit, and notes and sketches from exhibit planning.  This series also includes notes on essays and copies of Smith's notes and artwork to be published in <emph render="italic">Wait For Me at the Bottom of the Pool: The Writings of Jack Smith</emph>, co-edited by Leffingwell and J. Hoberman.</p>
+        </scopecontent>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

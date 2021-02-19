@@ -1,59 +1,484 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_448">mss_448</eadid><filedesc><titlestmt><titleproper>Guide to the Kathryn Diehl Riot Grrrl Collection <num>MSS.448</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>1/7/2016</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:13:10 -0500</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Fales Library and Special Collections</corpname>
-    </repository>
-    <unittitle>Kathryn Diehl Riot Grrrl Collection</unittitle>
-    <origination label="Creator">
-      <persname rules="dacs" source="local">Diehl, Kathryn</persname>
-    </origination>
-    <unitid>MSS.448</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-      <extent altrender="carrier">in 1 manuscript box</extent>
-    </physdesc>
-    <unitdate normal="1992/1996" type="inclusive">1992-1996</unitdate>
-    <abstract id="aspace_65eb96ba1d01c3e89713170ab6b94500">Kathryn Diehl is a Los Angeles-based audio engineer who was actively involved in the punk, hardcore, and Riot Grrrl scenes in both Washington, D.C. and Richmond, Virginia. This collection consists of materials created and collected by Diehl from the early to mid-1990s documenting her participation in the Riot Grrrl movement, including newsletters; Riot Grrrl zines; flyers for shows in the Washington, D.C. and Richmond, Virginia areas; and letters to Diehl from individuals such as Kathleen Hanna, Lisa Wildman, and Tobi Vail, predominantly on the subject of Diehl's zines. The collection also includes masters and copies of Diehl's own zines <title render="italic">Moonfork</title> and <title render="italic">Oppression</title>.</abstract>
-    <langmaterial id="aspace_64ec53d7611ac2c331edacabe44245f2">Materials are in English.</langmaterial>
-  </did>
-  <bioghist id="aspace_2af01ca0f315fdb027345b28290a35f5">
-    <head>Biographical / Historical</head>
-<p>Kathryn Diehl is an audio engineer who was actively involved in the punk, hardcore, and Riot Grrrl scenes in both Washington, D.C. and Richmond, Virginia. As a teenager, she published several zines with her friend Lucy, including <title render="italic">Moonfork</title>. She and Lucy also formed a band called The Others, which later signed to Duchess Records. Diehl moved to New York and interned at renowned New York recording studios, including Battery and Sound On Sound. One of a small number of female engineers, Diehl's working credits include Bjork, Busta Rhymes, Dead Prez, G Unit, and Alicia Keys. Diehl currently lives in Los Angeles, where she continues to engineer for albums, as well as do post-production audio work for film and television. She has also expanded into artist management.</p>  </bioghist>
-  <accessrestrict id="aspace_675f7d5cb0698ba2590b682f07c3edda">
-    <head>Conditions Governing Access</head>
-<p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
-  <userestrict id="aspace_783fdb65f08ffa69772f4e4d286b14ab">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </userestrict>
-  <acqinfo id="aspace_e7dad7d2010fee3fbab7cf414a1f20c6">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Kathryn Diehl in 2015; the accession number associated with this gift is 2015.448.</p>  </acqinfo>
-  <prefercite id="aspace_f037f16940a8a5bf9350201e83ce8bd3">
-    <head>Preferred Citation</head>
-<p>Published citations should take the
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_448">mss_448</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Kathryn Diehl Riot Grrrl Collection <num>MSS.448</num></titleproper>
+        <author>Rachel Searcy</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>1/7/2016</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:13:10 -0500</date>.</creation>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Kathryn Diehl Riot Grrrl Collection</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Diehl, Kathryn</persname>
+      </origination>
+      <unitid>MSS.448</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+        <extent altrender="carrier">in 1 manuscript box</extent>
+      </physdesc>
+      <unitdate normal="1992/1996" type="inclusive">1992-1996</unitdate>
+      <abstract id="aspace_65eb96ba1d01c3e89713170ab6b94500">Kathryn Diehl is a Los Angeles-based audio engineer who was actively involved in the punk, hardcore, and Riot Grrrl scenes in both Washington, D.C. and Richmond, Virginia. This collection consists of materials created and collected by Diehl from the early to mid-1990s documenting her participation in the Riot Grrrl movement, including newsletters; Riot Grrrl zines; flyers for shows in the Washington, D.C. and Richmond, Virginia areas; and letters to Diehl from individuals such as Kathleen Hanna, Lisa Wildman, and Tobi Vail, predominantly on the subject of Diehl's zines. The collection also includes masters and copies of Diehl's own zines <title render="italic">Moonfork</title> and <title render="italic">Oppression</title>.</abstract>
+      <langmaterial id="aspace_64ec53d7611ac2c331edacabe44245f2">Materials are in English.</langmaterial>
+    </did>
+    <bioghist id="aspace_2af01ca0f315fdb027345b28290a35f5">
+      <head>Biographical / Historical</head>
+      <p>Kathryn Diehl is an audio engineer who was actively involved in the punk, hardcore, and Riot Grrrl scenes in both Washington, D.C. and Richmond, Virginia. As a teenager, she published several zines with her friend Lucy, including <title render="italic">Moonfork</title>. She and Lucy also formed a band called The Others, which later signed to Duchess Records. Diehl moved to New York and interned at renowned New York recording studios, including Battery and Sound On Sound. One of a small number of female engineers, Diehl's working credits include Bjork, Busta Rhymes, Dead Prez, G Unit, and Alicia Keys. Diehl currently lives in Los Angeles, where she continues to engineer for albums, as well as do post-production audio work for film and television. She has also expanded into artist management.</p>
+    </bioghist>
+    <accessrestrict id="aspace_675f7d5cb0698ba2590b682f07c3edda">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <userestrict id="aspace_783fdb65f08ffa69772f4e4d286b14ab">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <acqinfo id="aspace_e7dad7d2010fee3fbab7cf414a1f20c6">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Kathryn Diehl in 2015; the accession number associated with this gift is 2015.448.</p>
+    </acqinfo>
+    <prefercite id="aspace_f037f16940a8a5bf9350201e83ce8bd3">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the
 following form:<lb/><lb/>
-Identification of item,  date (if known); Kathryn Diehl Riot Grrrl Collection; MSS 448; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>  </prefercite>
-  <processinfo id="aspace_ed59b40acbde11e87f51e007053f47e9">
-    <head>Processing Information</head>
-<p>At the time of accessioning, materials were moved into archival housing, a preliminary box list was created retaining folder titles supplied by the donor, and a collection-level finding aid was created to describe these materials. Dates were provided by an archivist. No arrangement was performed at this time.</p>  </processinfo>
-  <scopecontent id="aspace_7ab5b76f09b3d169d7a4a77095f0f932">
-    <head>Scope and Content</head>
-<p>This collection consists of materials created and collected by Kathryn Diehl from the early to mid-1990s documenting Diehl's participation in the Riot Grrrl movement, including newsletters; Riot Grrrl zines; flyers for shows in the Washington, D.C. and Richmond, Virginia areas; and letters to Diehl from individuals such as Kathleen Hanna, Lisa Wildman, and Tobi Vail, predominantly on the subject of Diehl's zines. The collection also includes masters and copies of Diehl's own zines <title render="italic">Moonfork</title> and <title render="italic">Oppression</title>, as well as zines sent to Diehl.</p>  </scopecontent>
-  <arrangement id="aspace_04bd3805c32af7690d70d1a082e78c69">
-    <head>Arrangement</head>
-<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
-  <controlaccess>
-    <subject source="lcsh">Punk culture.</subject>
-    <genreform source="aat">Fanzines.</genreform>
-    <subject source="lcsh">Feminist music</subject>
-    <subject source="lcsh">Zines</subject>
-    <geogname source="lcsh">Washington (D.C.)</geogname>
-    <subject source="lcsh">Riot grrrl movement.</subject>
-    <subject source="lcsh">Women's rights.</subject>
-    <subject source="lcsh">Rock music -- United States -- 1991-2000</subject>
-    <subject source="lcsh">Women rock musicians.</subject>
-  </controlaccess>
-  <dsc><c id="aspace_ref15" level="file"><did><unittitle>Correspondence: B., Carri</unittitle><unitdate normal="1994/1996" type="inclusive">circa 1994-1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_1ba7dbc7eaf8f674af658ac54bf75e34" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_99fa429f22d0886f98c3ff855a9af773" parent="aspace_1ba7dbc7eaf8f674af658ac54bf75e34" type="folder">1</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Correspondence: Beck, Brenda</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_690224e56dfe359b22ec9e053c98ecb3" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_6d55b0f83f84b957e7f8d9158076a952" parent="aspace_690224e56dfe359b22ec9e053c98ecb3" type="folder">2</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Correspondence: Christina</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_baaa7e6818cb4a44e93de4e8723e4980" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_06d3baf54bc7f37712086fa87cffea59" parent="aspace_baaa7e6818cb4a44e93de4e8723e4980" type="folder">3</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Correspondence: Grace</unittitle><unitdate normal="1994/1994" type="inclusive">1994 February</unitdate><container altrender="Manuscript box - Legal" id="aspace_106051b92f6458d68dac98c0276bd94e" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_cc51dfc1922a2645f0bb867b2bba2a72" parent="aspace_106051b92f6458d68dac98c0276bd94e" type="folder">4</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Correspondence: Hanna, Kathleen</unittitle><unitdate normal="1995/1995" type="inclusive">1995</unitdate><container altrender="Manuscript box - Legal" id="aspace_7cda04ffbe42faddaa9fffb23cd2f8d8" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_06f66549e774e54e599b961a17e73770" parent="aspace_7cda04ffbe42faddaa9fffb23cd2f8d8" type="folder">5</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Correspondence: Jenna</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_f5b545e7177f7ec2e9965aaf61b0c72c" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_d54ba19351b3898d4d84da539c79ad08" parent="aspace_f5b545e7177f7ec2e9965aaf61b0c72c" type="folder">6</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Correspondence: Laura</unittitle><unitdate normal="1994/1996" type="inclusive">circa 1994-1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_6f746dbf60a473c63c78add470306c8c" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_76f89d83464a85707dd6082ef185b484" parent="aspace_6f746dbf60a473c63c78add470306c8c" type="folder">7</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Correspondence: Marite</unittitle><unitdate normal="1994/1996" type="inclusive">circa 1994-1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_27d5b936fb1371f7052e2d7328f01576" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_b1fa2e801a4fa9305f33bc5f0db80a82" parent="aspace_27d5b936fb1371f7052e2d7328f01576" type="folder">8</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Correspondence: Leah</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_cd66197044c58a312053a960eca31375" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_c5152065872d747ef86d917907bc22a6" parent="aspace_cd66197044c58a312053a960eca31375" type="folder">9</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Correspondence: Lucy</unittitle><unitdate normal="1994/1996" type="inclusive">circa 1994-1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_14ce924cc6009c108d714fdcbdc87fef" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_1d2aed3152fe8181df92217b6ed8a393" parent="aspace_14ce924cc6009c108d714fdcbdc87fef" type="folder">10</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Correspondence: Lynch, Kelli</unittitle><unitdate normal="1994/1994" type="inclusive">1994 February 25</unitdate><container altrender="Manuscript box - Legal" id="aspace_fd5c3f05567673fa41845bacaea82180" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_5d20b7c3a04a539bfaf8bc8b39bc691a" parent="aspace_fd5c3f05567673fa41845bacaea82180" type="folder">11</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Correspondence: Mary</unittitle><unitdate normal="1994/1996" type="inclusive">circa 1994-1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_9c8c23231465867bdb108b70e1cee23c" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_e3a0534c6c341ec4d403442d7a3241b2" parent="aspace_9c8c23231465867bdb108b70e1cee23c" type="folder">12</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Correspondence: Michelle</unittitle><unitdate normal="1994/1996" type="inclusive">circa 1994-1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_5cd8eec9e4bcb57f39b738339abeccda" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_40caa08198074bbe4676a6a2dd941173" parent="aspace_5cd8eec9e4bcb57f39b738339abeccda" type="folder">13</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Correspondence: Rakstad, Bekki</unittitle><unitdate normal="1994/1996" type="inclusive">circa 1994-1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_c0538af1bd350f42a81f96097185b9e7" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_954a9649d0b9ce8c6276d3a538ce9c1b" parent="aspace_c0538af1bd350f42a81f96097185b9e7" type="folder">14</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Correspondence: Sarah</unittitle><unitdate normal="1994/1996" type="inclusive">circa 1994-1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_2e862b84d5e965e77559097a7ab1bf3c" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_d85caa3ec163fa1987aa3984e1bd86f5" parent="aspace_2e862b84d5e965e77559097a7ab1bf3c" type="folder">15</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Correspondence: Vail, Tobi</unittitle><unitdate normal="1994/1994" type="inclusive">1994 October</unitdate><container altrender="Manuscript box - Legal" id="aspace_5e6c9d88b31ee78176f1b586d5b915fc" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_42177e71dd3a42bcc55453e637054ae7" parent="aspace_5e6c9d88b31ee78176f1b586d5b915fc" type="folder">16</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Correspondence: Wildma, Lisa</unittitle><unitdate normal="1996/1996" type="inclusive">1996 February 8</unitdate><container altrender="Manuscript box - Legal" id="aspace_7c3afb440ca344b63cc5fe7aa97faaa7" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_0ec2a5dad6b8a4746803bcfa3e25b897" parent="aspace_7c3afb440ca344b63cc5fe7aa97faaa7" type="folder">17</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Correspondence: Witknee</unittitle><unitdate normal="1994/1996" type="inclusive">circa 1994-1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_558e8a638b13e13701a973edc2588f4e" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_8477cb73161c13dd7993d15513f9eb2e" parent="aspace_558e8a638b13e13701a973edc2588f4e" type="folder">18</container></did></c><c id="aspace_ref33" level="file"><did><unittitle><title render="italic">Pout</title> #2</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_55ea8bb037a2037fa018e87d8a73c7f2" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_e6997826dfb4753b7edbe65977344125" parent="aspace_55ea8bb037a2037fa018e87d8a73c7f2" type="folder">19</container></did></c><c id="aspace_ref34" level="file"><did><unittitle><title render="italic">Without</title> #2</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_41ed64bc8136e9f2fd90124f028a743d" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_3b9d4d9d3b89db6f921d3f69aa33fc30" parent="aspace_41ed64bc8136e9f2fd90124f028a743d" type="folder">20</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Lucy #1</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_cb8414b305278229fa0e18b101d002be" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_7cdd0c3f9111f60b2ddfdabb89b46c55" parent="aspace_cb8414b305278229fa0e18b101d002be" type="folder">21</container></did></c><c id="aspace_ref36" level="file"><did><unittitle><title render="italic">Factory</title></unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_cc853c7c20de50036b60672ccebbec59" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_dedefa82747d95347bdddc418a823d45" parent="aspace_cc853c7c20de50036b60672ccebbec59" type="folder">22</container></did></c><c id="aspace_ref37" level="file"><did><unittitle><title render="italic">Alien</title></unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_c6553761532e9609f2f187ad5ad63a62" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_5c9f0ddb023acdb8356e6e279f1c8ca9" parent="aspace_c6553761532e9609f2f187ad5ad63a62" type="folder">23</container></did></c><c id="aspace_ref38" level="file"><did><unittitle><title render="italic">Holy Mack'l Dere</title> #7</unittitle><unitdate normal="1995/1995" type="inclusive">1995</unitdate><container altrender="Manuscript box - Legal" id="aspace_b0060041cd36d4bbe953f738b29d680b" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_44d1d28b2f29cd6fd5cd2bcf1ec25d8a" parent="aspace_b0060041cd36d4bbe953f738b29d680b" type="folder">24</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Incomplete Letters</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_c2c4cbde8b0cb5b69c34497d6d83f707" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_cf11ee00dc166776277a13ed9ef4ca66" parent="aspace_c2c4cbde8b0cb5b69c34497d6d83f707" type="folder">25</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Other Zines</unittitle><unitdate normal="1992/1996" type="inclusive">circa 1992-1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_17efa0341342a77746868e2b1238a531" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_e05537180c2b247020a6e47af6334b18" parent="aspace_17efa0341342a77746868e2b1238a531" type="folder">26</container></did></c><c id="aspace_ref41" level="file"><did><unittitle><title render="italic">Moonfork</title> Zine: Flyer, Master Copy</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_97921a14430de2c9172af7dcce220b1f" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_e63f14f7063762be7be4678c58ea40e8" parent="aspace_97921a14430de2c9172af7dcce220b1f" type="folder">27</container></did></c><c id="aspace_ref42" level="file"><did><unittitle><title render="italic">Moonfork</title> Zine: #1</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_57f126bc942e1f0a35877c3176035fca" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_600c4bf152ab03824aee420753127c62" parent="aspace_57f126bc942e1f0a35877c3176035fca" type="folder">28</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Moonfork Zine: Masters</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_ea7fa48e3aed473b6a05d93e7e1488a5" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_021bf1fd3ec6965447c269575b9cfad0" parent="aspace_ea7fa48e3aed473b6a05d93e7e1488a5" type="folder">29</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Flyers</unittitle><unitdate normal="1992/1996" type="inclusive">circa 1992-1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_eac836815b5612e779e07d2037b6c15a" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_12d967866956323feddbc3115983ea8d" parent="aspace_eac836815b5612e779e07d2037b6c15a" type="folder">30</container></did></c><c id="aspace_ref45" level="file"><did><unittitle><title render="italic">Oppression</title> Zine: Masters</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f15cf2dffe7483cc5c9112bc7c140d66" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_f96c95768e966adec68e1bad09180b60" parent="aspace_f15cf2dffe7483cc5c9112bc7c140d66" type="folder">31</container></did></c><c id="aspace_ref46" level="file"><did><unittitle><title render="italic">Accidents</title></unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_b756aca679bb58ce07a2f0a2f1704787" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_5d04febbf25dfd6f60fc01e9295c80ae" parent="aspace_b756aca679bb58ce07a2f0a2f1704787" type="folder">32</container></did></c><c id="aspace_ref47" level="file"><did><unittitle><title render="italic">Action Girl Newsletter</title>, #8, 11</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_48cbbed688a7747bae8b1fb1e69a7c7d" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_289a20b903d58a82ef96c5a369d1deec" parent="aspace_48cbbed688a7747bae8b1fb1e69a7c7d" type="folder">33</container></did></c><c id="aspace_ref48" level="file"><did><unittitle><title render="italic">Amazon Anxiety</title></unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_bf616d9ef1547c9a9431bb470dedf0ce" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_0b093e6bc83844e3cb5e0b1125a05ac6" parent="aspace_bf616d9ef1547c9a9431bb470dedf0ce" type="folder">33</container></did></c><c id="aspace_ref49" level="file"><did><unittitle><title render="italic">daffodil</title>, #11</unittitle><unitdate normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_7142440b9e8697c18013d602eb44478e" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_ca097cd4bf644e2e53b2494402e7759b" parent="aspace_7142440b9e8697c18013d602eb44478e" type="folder">34</container></did></c><c id="aspace_ref50" level="file"><did><unittitle><title render="italic">Girl Pride/Blue Ballad</title>, #2</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d42cf8a1fb4ce47d0976c803994e1bf5" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_21e0fc9ac56805fedf852a95febcf953" parent="aspace_d42cf8a1fb4ce47d0976c803994e1bf5" type="folder">35</container></did></c><c id="aspace_ref51" level="file"><did><unittitle><title render="italic">I Kicked a Boy</title>, #1</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_01080a433d520c08ffe0b4b189e76ba4" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_f5ac4efc3d9502350b7b597fd5ed2c95" parent="aspace_01080a433d520c08ffe0b4b189e76ba4" type="folder">36</container></did></c><c id="aspace_ref52" level="file"><did><unittitle><title render="italic">Ketchup</title>, #9-10</unittitle><unitdate normal="1995/1995" type="inclusive">1995</unitdate><container altrender="Manuscript box - Legal" id="aspace_2a8ad71d53b920196f36754517ac83f6" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_44218951fd9bcfaf836a0a62a924c980" parent="aspace_2a8ad71d53b920196f36754517ac83f6" type="folder">37</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Kill Rock Stars</unittitle><unitdate normal="1995/1996" type="inclusive">1995-1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_758f6aa239e697a8024d08401bce7a9e" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_e6b3585476aa55731aa693f9f3a227e2" parent="aspace_758f6aa239e697a8024d08401bce7a9e" type="folder">38</container></did></c><c id="aspace_ref54" level="file"><did><unittitle><title render="italic">Make You A Star</title>, #1</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_5514634edf0e3ce752cb565f5c023e25" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_d3277480394ed62ac5517b9b15491a0c" parent="aspace_5514634edf0e3ce752cb565f5c023e25" type="folder">39</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Night Jar, #1</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_95a09d8e62f591859ed184f8a79b01ac" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_d573b5865b7403efed28f0ca79aa05f2" parent="aspace_95a09d8e62f591859ed184f8a79b01ac" type="folder">40</container></did></c><c id="aspace_ref56" level="file"><did><unittitle><title render="italic">One Mint Julep</title>, #2</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_99dcf27d8ff99145a2310419983c9dec" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_e9e223446b86b8b67468e08a0fd17dab" parent="aspace_99dcf27d8ff99145a2310419983c9dec" type="folder">41</container></did></c><c id="aspace_ref57" level="file"><did><unittitle><title render="italic">Peach</title>, #4</unittitle><unitdate normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_565eb5e02a06a082799ad31c3c79dd27" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_c9162ed87ced6e483ecb740c76ffef59" parent="aspace_565eb5e02a06a082799ad31c3c79dd27" type="folder">42</container></did></c><c id="aspace_ref58" level="file"><did><unittitle><title render="italic">Queenie</title></unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_08bf315f2cb24a87070c3c8fd9ff2331" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_6d22268b813cd2725e2ea79cf4072160" parent="aspace_08bf315f2cb24a87070c3c8fd9ff2331" type="folder">43</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Round Flat Records, #27</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_dff79ac799764c6d89193289f82154a0" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_17e4eec66a4a14f84cc80846d7a75df3" parent="aspace_dff79ac799764c6d89193289f82154a0" type="folder">44</container></did></c><c id="aspace_ref60" level="file"><did><unittitle><title render="italic">Skank</title>, #2</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_05d86172db42c3c1785c60146184d3de" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_d66832a6437f2e28804b39dd50b038a0" parent="aspace_05d86172db42c3c1785c60146184d3de" type="folder">45</container></did></c><c id="aspace_ref61" level="file"><did><unittitle><title render="italic">Worthless</title>, #2</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_3038da9dd6fa283c6cdcbdd21e72024f" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_2abe62651957140af7d5c58cfd0d5489" parent="aspace_3038da9dd6fa283c6cdcbdd21e72024f" type="folder">46</container></did></c><c id="aspace_ref62" level="file"><did><unittitle><title render="italic">Who Cares</title></unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_1c9c74d92f6ad59b364ec4d6a9b5591f" label="Mixed Materials [31142054872299]" type="box">1</container><container id="aspace_12bd28a8dc985e37811d531e06f1ab7c" parent="aspace_1c9c74d92f6ad59b364ec4d6a9b5591f" type="folder">47</container></did></c></dsc>
-</archdesc>
+Identification of item,  date (if known); Kathryn Diehl Riot Grrrl Collection; MSS 448; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
+    </prefercite>
+    <processinfo id="aspace_ed59b40acbde11e87f51e007053f47e9">
+      <head>Processing Information</head>
+      <p>At the time of accessioning, materials were moved into archival housing, a preliminary box list was created retaining folder titles supplied by the donor, and a collection-level finding aid was created to describe these materials. Dates were provided by an archivist. No arrangement was performed at this time.</p>
+    </processinfo>
+    <scopecontent id="aspace_7ab5b76f09b3d169d7a4a77095f0f932">
+      <head>Scope and Content</head>
+      <p>This collection consists of materials created and collected by Kathryn Diehl from the early to mid-1990s documenting Diehl's participation in the Riot Grrrl movement, including newsletters; Riot Grrrl zines; flyers for shows in the Washington, D.C. and Richmond, Virginia areas; and letters to Diehl from individuals such as Kathleen Hanna, Lisa Wildman, and Tobi Vail, predominantly on the subject of Diehl's zines. The collection also includes masters and copies of Diehl's own zines <title render="italic">Moonfork</title> and <title render="italic">Oppression</title>, as well as zines sent to Diehl.</p>
+    </scopecontent>
+    <arrangement id="aspace_04bd3805c32af7690d70d1a082e78c69">
+      <head>Arrangement</head>
+      <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
+    </arrangement>
+    <controlaccess>
+      <subject source="lcsh">Punk culture.</subject>
+      <genreform source="aat">Fanzines.</genreform>
+      <subject source="lcsh">Feminist music</subject>
+      <subject source="lcsh">Zines</subject>
+      <geogname source="lcsh">Washington (D.C.)</geogname>
+      <subject source="lcsh">Riot grrrl movement.</subject>
+      <subject source="lcsh">Women's rights.</subject>
+      <subject source="lcsh">Rock music -- United States -- 1991-2000</subject>
+      <subject source="lcsh">Women rock musicians.</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>Correspondence: B., Carri</unittitle>
+          <unitdate normal="1994/1996" type="inclusive">circa 1994-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1ba7dbc7eaf8f674af658ac54bf75e34" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_99fa429f22d0886f98c3ff855a9af773" parent="aspace_1ba7dbc7eaf8f674af658ac54bf75e34" type="folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Correspondence: Beck, Brenda</unittitle>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_690224e56dfe359b22ec9e053c98ecb3" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_6d55b0f83f84b957e7f8d9158076a952" parent="aspace_690224e56dfe359b22ec9e053c98ecb3" type="folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Correspondence: Christina</unittitle>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_baaa7e6818cb4a44e93de4e8723e4980" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_06d3baf54bc7f37712086fa87cffea59" parent="aspace_baaa7e6818cb4a44e93de4e8723e4980" type="folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>Correspondence: Grace</unittitle>
+          <unitdate normal="1994/1994" type="inclusive">1994 February</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_106051b92f6458d68dac98c0276bd94e" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_cc51dfc1922a2645f0bb867b2bba2a72" parent="aspace_106051b92f6458d68dac98c0276bd94e" type="folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>Correspondence: Hanna, Kathleen</unittitle>
+          <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7cda04ffbe42faddaa9fffb23cd2f8d8" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_06f66549e774e54e599b961a17e73770" parent="aspace_7cda04ffbe42faddaa9fffb23cd2f8d8" type="folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>Correspondence: Jenna</unittitle>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f5b545e7177f7ec2e9965aaf61b0c72c" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_d54ba19351b3898d4d84da539c79ad08" parent="aspace_f5b545e7177f7ec2e9965aaf61b0c72c" type="folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Correspondence: Laura</unittitle>
+          <unitdate normal="1994/1996" type="inclusive">circa 1994-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6f746dbf60a473c63c78add470306c8c" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_76f89d83464a85707dd6082ef185b484" parent="aspace_6f746dbf60a473c63c78add470306c8c" type="folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>Correspondence: Marite</unittitle>
+          <unitdate normal="1994/1996" type="inclusive">circa 1994-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_27d5b936fb1371f7052e2d7328f01576" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_b1fa2e801a4fa9305f33bc5f0db80a82" parent="aspace_27d5b936fb1371f7052e2d7328f01576" type="folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>Correspondence: Leah</unittitle>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cd66197044c58a312053a960eca31375" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_c5152065872d747ef86d917907bc22a6" parent="aspace_cd66197044c58a312053a960eca31375" type="folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>Correspondence: Lucy</unittitle>
+          <unitdate normal="1994/1996" type="inclusive">circa 1994-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_14ce924cc6009c108d714fdcbdc87fef" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_1d2aed3152fe8181df92217b6ed8a393" parent="aspace_14ce924cc6009c108d714fdcbdc87fef" type="folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>Correspondence: Lynch, Kelli</unittitle>
+          <unitdate normal="1994/1994" type="inclusive">1994 February 25</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fd5c3f05567673fa41845bacaea82180" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_5d20b7c3a04a539bfaf8bc8b39bc691a" parent="aspace_fd5c3f05567673fa41845bacaea82180" type="folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Correspondence: Mary</unittitle>
+          <unitdate normal="1994/1996" type="inclusive">circa 1994-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9c8c23231465867bdb108b70e1cee23c" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_e3a0534c6c341ec4d403442d7a3241b2" parent="aspace_9c8c23231465867bdb108b70e1cee23c" type="folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>Correspondence: Michelle</unittitle>
+          <unitdate normal="1994/1996" type="inclusive">circa 1994-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5cd8eec9e4bcb57f39b738339abeccda" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_40caa08198074bbe4676a6a2dd941173" parent="aspace_5cd8eec9e4bcb57f39b738339abeccda" type="folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>Correspondence: Rakstad, Bekki</unittitle>
+          <unitdate normal="1994/1996" type="inclusive">circa 1994-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c0538af1bd350f42a81f96097185b9e7" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_954a9649d0b9ce8c6276d3a538ce9c1b" parent="aspace_c0538af1bd350f42a81f96097185b9e7" type="folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>Correspondence: Sarah</unittitle>
+          <unitdate normal="1994/1996" type="inclusive">circa 1994-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2e862b84d5e965e77559097a7ab1bf3c" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_d85caa3ec163fa1987aa3984e1bd86f5" parent="aspace_2e862b84d5e965e77559097a7ab1bf3c" type="folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>Correspondence: Vail, Tobi</unittitle>
+          <unitdate normal="1994/1994" type="inclusive">1994 October</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5e6c9d88b31ee78176f1b586d5b915fc" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_42177e71dd3a42bcc55453e637054ae7" parent="aspace_5e6c9d88b31ee78176f1b586d5b915fc" type="folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>Correspondence: Wildma, Lisa</unittitle>
+          <unitdate normal="1996/1996" type="inclusive">1996 February 8</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7c3afb440ca344b63cc5fe7aa97faaa7" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_0ec2a5dad6b8a4746803bcfa3e25b897" parent="aspace_7c3afb440ca344b63cc5fe7aa97faaa7" type="folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>Correspondence: Witknee</unittitle>
+          <unitdate normal="1994/1996" type="inclusive">circa 1994-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_558e8a638b13e13701a973edc2588f4e" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_8477cb73161c13dd7993d15513f9eb2e" parent="aspace_558e8a638b13e13701a973edc2588f4e" type="folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle><title render="italic">Pout</title> #2</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_55ea8bb037a2037fa018e87d8a73c7f2" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_e6997826dfb4753b7edbe65977344125" parent="aspace_55ea8bb037a2037fa018e87d8a73c7f2" type="folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle><title render="italic">Without</title> #2</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_41ed64bc8136e9f2fd90124f028a743d" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_3b9d4d9d3b89db6f921d3f69aa33fc30" parent="aspace_41ed64bc8136e9f2fd90124f028a743d" type="folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="file">
+        <did>
+          <unittitle>Lucy #1</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cb8414b305278229fa0e18b101d002be" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_7cdd0c3f9111f60b2ddfdabb89b46c55" parent="aspace_cb8414b305278229fa0e18b101d002be" type="folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">Factory</title>
+          </unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cc853c7c20de50036b60672ccebbec59" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_dedefa82747d95347bdddc418a823d45" parent="aspace_cc853c7c20de50036b60672ccebbec59" type="folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">Alien</title>
+          </unittitle>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c6553761532e9609f2f187ad5ad63a62" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_5c9f0ddb023acdb8356e6e279f1c8ca9" parent="aspace_c6553761532e9609f2f187ad5ad63a62" type="folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="file">
+        <did>
+          <unittitle><title render="italic">Holy Mack'l Dere</title> #7</unittitle>
+          <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b0060041cd36d4bbe953f738b29d680b" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_44d1d28b2f29cd6fd5cd2bcf1ec25d8a" parent="aspace_b0060041cd36d4bbe953f738b29d680b" type="folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_ref39" level="file">
+        <did>
+          <unittitle>Incomplete Letters</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c2c4cbde8b0cb5b69c34497d6d83f707" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_cf11ee00dc166776277a13ed9ef4ca66" parent="aspace_c2c4cbde8b0cb5b69c34497d6d83f707" type="folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref40" level="file">
+        <did>
+          <unittitle>Other Zines</unittitle>
+          <unitdate normal="1992/1996" type="inclusive">circa 1992-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_17efa0341342a77746868e2b1238a531" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_e05537180c2b247020a6e47af6334b18" parent="aspace_17efa0341342a77746868e2b1238a531" type="folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref41" level="file">
+        <did>
+          <unittitle><title render="italic">Moonfork</title> Zine: Flyer, Master Copy</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_97921a14430de2c9172af7dcce220b1f" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_e63f14f7063762be7be4678c58ea40e8" parent="aspace_97921a14430de2c9172af7dcce220b1f" type="folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_ref42" level="file">
+        <did>
+          <unittitle><title render="italic">Moonfork</title> Zine: #1</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_57f126bc942e1f0a35877c3176035fca" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_600c4bf152ab03824aee420753127c62" parent="aspace_57f126bc942e1f0a35877c3176035fca" type="folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_ref43" level="file">
+        <did>
+          <unittitle>Moonfork Zine: Masters</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ea7fa48e3aed473b6a05d93e7e1488a5" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_021bf1fd3ec6965447c269575b9cfad0" parent="aspace_ea7fa48e3aed473b6a05d93e7e1488a5" type="folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_ref44" level="file">
+        <did>
+          <unittitle>Flyers</unittitle>
+          <unitdate normal="1992/1996" type="inclusive">circa 1992-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_eac836815b5612e779e07d2037b6c15a" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_12d967866956323feddbc3115983ea8d" parent="aspace_eac836815b5612e779e07d2037b6c15a" type="folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_ref45" level="file">
+        <did>
+          <unittitle><title render="italic">Oppression</title> Zine: Masters</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f15cf2dffe7483cc5c9112bc7c140d66" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_f96c95768e966adec68e1bad09180b60" parent="aspace_f15cf2dffe7483cc5c9112bc7c140d66" type="folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_ref46" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">Accidents</title>
+          </unittitle>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b756aca679bb58ce07a2f0a2f1704787" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_5d04febbf25dfd6f60fc01e9295c80ae" parent="aspace_b756aca679bb58ce07a2f0a2f1704787" type="folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_ref47" level="file">
+        <did>
+          <unittitle><title render="italic">Action Girl Newsletter</title>, #8, 11</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_48cbbed688a7747bae8b1fb1e69a7c7d" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_289a20b903d58a82ef96c5a369d1deec" parent="aspace_48cbbed688a7747bae8b1fb1e69a7c7d" type="folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_ref48" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">Amazon Anxiety</title>
+          </unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bf616d9ef1547c9a9431bb470dedf0ce" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_0b093e6bc83844e3cb5e0b1125a05ac6" parent="aspace_bf616d9ef1547c9a9431bb470dedf0ce" type="folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_ref49" level="file">
+        <did>
+          <unittitle><title render="italic">daffodil</title>, #11</unittitle>
+          <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7142440b9e8697c18013d602eb44478e" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_ca097cd4bf644e2e53b2494402e7759b" parent="aspace_7142440b9e8697c18013d602eb44478e" type="folder">34</container>
+        </did>
+      </c>
+      <c id="aspace_ref50" level="file">
+        <did>
+          <unittitle><title render="italic">Girl Pride/Blue Ballad</title>, #2</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d42cf8a1fb4ce47d0976c803994e1bf5" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_21e0fc9ac56805fedf852a95febcf953" parent="aspace_d42cf8a1fb4ce47d0976c803994e1bf5" type="folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_ref51" level="file">
+        <did>
+          <unittitle><title render="italic">I Kicked a Boy</title>, #1</unittitle>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_01080a433d520c08ffe0b4b189e76ba4" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_f5ac4efc3d9502350b7b597fd5ed2c95" parent="aspace_01080a433d520c08ffe0b4b189e76ba4" type="folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_ref52" level="file">
+        <did>
+          <unittitle><title render="italic">Ketchup</title>, #9-10</unittitle>
+          <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2a8ad71d53b920196f36754517ac83f6" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_44218951fd9bcfaf836a0a62a924c980" parent="aspace_2a8ad71d53b920196f36754517ac83f6" type="folder">37</container>
+        </did>
+      </c>
+      <c id="aspace_ref53" level="file">
+        <did>
+          <unittitle>Kill Rock Stars</unittitle>
+          <unitdate normal="1995/1996" type="inclusive">1995-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_758f6aa239e697a8024d08401bce7a9e" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_e6b3585476aa55731aa693f9f3a227e2" parent="aspace_758f6aa239e697a8024d08401bce7a9e" type="folder">38</container>
+        </did>
+      </c>
+      <c id="aspace_ref54" level="file">
+        <did>
+          <unittitle><title render="italic">Make You A Star</title>, #1</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5514634edf0e3ce752cb565f5c023e25" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_d3277480394ed62ac5517b9b15491a0c" parent="aspace_5514634edf0e3ce752cb565f5c023e25" type="folder">39</container>
+        </did>
+      </c>
+      <c id="aspace_ref55" level="file">
+        <did>
+          <unittitle>Night Jar, #1</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_95a09d8e62f591859ed184f8a79b01ac" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_d573b5865b7403efed28f0ca79aa05f2" parent="aspace_95a09d8e62f591859ed184f8a79b01ac" type="folder">40</container>
+        </did>
+      </c>
+      <c id="aspace_ref56" level="file">
+        <did>
+          <unittitle><title render="italic">One Mint Julep</title>, #2</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_99dcf27d8ff99145a2310419983c9dec" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_e9e223446b86b8b67468e08a0fd17dab" parent="aspace_99dcf27d8ff99145a2310419983c9dec" type="folder">41</container>
+        </did>
+      </c>
+      <c id="aspace_ref57" level="file">
+        <did>
+          <unittitle><title render="italic">Peach</title>, #4</unittitle>
+          <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_565eb5e02a06a082799ad31c3c79dd27" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_c9162ed87ced6e483ecb740c76ffef59" parent="aspace_565eb5e02a06a082799ad31c3c79dd27" type="folder">42</container>
+        </did>
+      </c>
+      <c id="aspace_ref58" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">Queenie</title>
+          </unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_08bf315f2cb24a87070c3c8fd9ff2331" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_6d22268b813cd2725e2ea79cf4072160" parent="aspace_08bf315f2cb24a87070c3c8fd9ff2331" type="folder">43</container>
+        </did>
+      </c>
+      <c id="aspace_ref59" level="file">
+        <did>
+          <unittitle>Round Flat Records, #27</unittitle>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_dff79ac799764c6d89193289f82154a0" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_17e4eec66a4a14f84cc80846d7a75df3" parent="aspace_dff79ac799764c6d89193289f82154a0" type="folder">44</container>
+        </did>
+      </c>
+      <c id="aspace_ref60" level="file">
+        <did>
+          <unittitle><title render="italic">Skank</title>, #2</unittitle>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_05d86172db42c3c1785c60146184d3de" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_d66832a6437f2e28804b39dd50b038a0" parent="aspace_05d86172db42c3c1785c60146184d3de" type="folder">45</container>
+        </did>
+      </c>
+      <c id="aspace_ref61" level="file">
+        <did>
+          <unittitle><title render="italic">Worthless</title>, #2</unittitle>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3038da9dd6fa283c6cdcbdd21e72024f" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_2abe62651957140af7d5c58cfd0d5489" parent="aspace_3038da9dd6fa283c6cdcbdd21e72024f" type="folder">46</container>
+        </did>
+      </c>
+      <c id="aspace_ref62" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">Who Cares</title>
+          </unittitle>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1c9c74d92f6ad59b364ec4d6a9b5591f" label="Mixed Materials [31142054872299]" type="box">1</container>
+          <container id="aspace_12bd28a8dc985e37811d531e06f1ab7c" parent="aspace_1c9c74d92f6ad59b364ec4d6a9b5591f" type="folder">47</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,59 +1,917 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F">mss_301</eadid><filedesc><titlestmt><titleproper>Guide to the Sir William Jones Manuscripts<lb/>ca. 1100-1794<lb/> <num>MSS.301</num></titleproper><author>Cassandra Brewer and Ashley Todd</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:10:54 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Fales Library and Special Collections</corpname>
-    </repository>
-    <unittitle>Sir William Jones Manuscripts</unittitle>
-    <origination label="Creator">
-      <persname role="ann" source="naf">Jones, William, Sir, 1746-1794</persname>
-    </origination>
-    <unitid>MSS.301</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
-      <extent altrender="carrier">(3 small flat boxes)</extent>
-    </physdesc>
-    <unitdate normal="1100/1794" type="inclusive">circa 1100-1794</unitdate>
-    <langmaterial id="aspace_40c475b55f8ebb6032ad33ba87c8af66">Materials are in Bengali; English; Persian, and Sanskrit in Devanagari and Bengali characters.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_ec078163238a2d8419e4e407ab274307">
-    <head>Conditions Governing Access</head>
-<p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
-  <userestrict id="aspace_c8d3e67bec802e903557db1b7e8219af">
-    <head>Conditions Governing Use</head>
-<p>Materials in this collection, which were created 1100-1794, are in the public domain. Permission to publish or reproduce is not required.</p>  </userestrict>
-  <bioghist id="aspace_02e12e27548f4cb97ae7e370d70be0c3">
-    <head>Biographical note</head>
-<p>William Jones (1746-1794) was a British lawyer in India and pioneer of comparative linguistic studies. Born in London in 1746, Jones later enrolled at University College, Oxford in 1764 and began studying linguistics and Oriental culture and literature. Jones studied Greek, Latin, Persian, Arabic and Sanskrit, becoming an expert in the field of comparative and historic linguistics. He spent several years after graduating working on translations of texts from these languages. After receiving his degree, he studied law at Middle Temple in London from 1770-1773.  In 1772, William Jones became a fellow of the Royal Society as well as a practicing lawyer.  <lb/><lb/>
-In 1783 he was knighted, becoming Sir William Jones, and was appointed to a position as a judge in British-controlled India.  Jones continuted his studies of Oriental languages and literature in India, and during this time produced additional translations as well as original works. In addition to language and literature, Jones produced works on botony, astrology, zoology and law. In 1784 Sir William Jones founded the Asiatic Society with the purpose of promoting the study of Asiatic cultures and languages. Jones continued his studies and his work as a judge until his death in Calcutta in 1794. <lb/><lb/></p><p>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F">mss_301</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Sir William Jones Manuscripts<lb/>ca. 1100-1794<lb/> <num>MSS.301</num></titleproper>
+        <author>Cassandra Brewer and Ashley Todd</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:10:54 -0500</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Sir William Jones Manuscripts</unittitle>
+      <origination label="Creator">
+        <persname role="ann" source="naf">Jones, William, Sir, 1746-1794</persname>
+      </origination>
+      <unitid>MSS.301</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
+        <extent altrender="carrier">(3 small flat boxes)</extent>
+      </physdesc>
+      <unitdate normal="1100/1794" type="inclusive">circa 1100-1794</unitdate>
+      <langmaterial id="aspace_40c475b55f8ebb6032ad33ba87c8af66">Materials are in Bengali; English; Persian, and Sanskrit in Devanagari and Bengali characters.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_ec078163238a2d8419e4e407ab274307">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <userestrict id="aspace_c8d3e67bec802e903557db1b7e8219af">
+      <head>Conditions Governing Use</head>
+      <p>Materials in this collection, which were created 1100-1794, are in the public domain. Permission to publish or reproduce is not required.</p>
+    </userestrict>
+    <bioghist id="aspace_02e12e27548f4cb97ae7e370d70be0c3">
+      <head>Biographical note</head>
+      <p>William Jones (1746-1794) was a British lawyer in India and pioneer of comparative linguistic studies. Born in London in 1746, Jones later enrolled at University College, Oxford in 1764 and began studying linguistics and Oriental culture and literature. Jones studied Greek, Latin, Persian, Arabic and Sanskrit, becoming an expert in the field of comparative and historic linguistics. He spent several years after graduating working on translations of texts from these languages. After receiving his degree, he studied law at Middle Temple in London from 1770-1773.  In 1772, William Jones became a fellow of the Royal Society as well as a practicing lawyer.  <lb/><lb/>
+In 1783 he was knighted, becoming Sir William Jones, and was appointed to a position as a judge in British-controlled India.  Jones continuted his studies of Oriental languages and literature in India, and during this time produced additional translations as well as original works. In addition to language and literature, Jones produced works on botony, astrology, zoology and law. In 1784 Sir William Jones founded the Asiatic Society with the purpose of promoting the study of Asiatic cultures and languages. Jones continued his studies and his work as a judge until his death in Calcutta in 1794. <lb/><lb/></p>
+      <p>
 Sources: <lb/><lb/>
 Cannon, Garland. <emph render="italic">The Collected Works of Sir William Jones, Vol.</emph>, New York: NYU Press, 2003. 
 <lb/>
-Jones, Sir William.<emph render="italic">The Poetical Works of Sir William Jones with the life of the author, Vol.1</emph> London: Cadell and Davies, 1807. </p>  </bioghist>
-  <prefercite id="aspace_a63121899418a62187d4308a8f8ccb7d">
-    <head>Preferred Citation</head>
-<p>Published citations should take the
+Jones, Sir William.<emph render="italic">The Poetical Works of Sir William Jones with the life of the author, Vol.1</emph> London: Cadell and Davies, 1807. </p>
+    </bioghist>
+    <prefercite id="aspace_a63121899418a62187d4308a8f8ccb7d">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the
 following form:<lb/><lb/>
-Identification of item,  date (if known); Sir William Jones Manuscripts; MSS 301; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>  </prefercite>
-  <acqinfo id="aspace_87f49663e3cfb1a00dd2de0d9d8550c8">
-    <head>Provenance</head>
-<p>Fales purchased the materials from Jones scholar Garland Cannon with a generous donation from artist, writer and philanthropist Kevin Brine, an active supporter of the Elmer Holmes Bobst Library.</p>  </acqinfo>
-  <scopecontent id="aspace_9cd011a1ca98eb74b98d617919949506">
-    <head>Scope and Content</head>
-<p>The Sir William Jones Manuscripts consist of various types of documents related to his lingustic studies, many in their original language with translations or notation by Jones.  Included are documents in Sanskrit and Persian relating to astrology, botany and law.</p>  </scopecontent>
-  <controlaccess>
-    <subject source="lcsh">Manuscripts, Bengali.</subject>
-    <genreform source="aat">Marginalia (annotations)</genreform>
-    <subject source="lcsh">Manuscripts, Sanskrit.</subject>
-    <subject source="lcsh">Devanagari type.</subject>
-    <subject source="lcsh">zodiac.</subject>
-    <subject source="lcsh">Linguistics.</subject>
-    <subject source="lcsh">India -- History -- British occupation, 1765-1947.</subject>
-    <subject source="lcsh">Oriental philology.</subject>
-    <subject source="lcsh">Manuscripts, Persian.</subject>
-    <persname source="naf">Jones, William, Sir, 1746-1794</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref154" level="series"><did><unittitle>Series I: Manuscripts</unittitle></did><c id="aspace_ref1" level="file"><did><unittitle>Chart of Indian Zodiac signs (Raashi) in Devanagari characters</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_a0e5e199a75da7c71ad568aa79c09f63" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_5cb865358d81f545dd8c52ba364c589c" parent="aspace_a0e5e199a75da7c71ad568aa79c09f63" type="folder">1</container></did><odd id="aspace_4152119ba48cb700de7c251f60648b6b"><head>General</head><p>Annotations in English &amp; Persian. Original of the one printed later in Jones' "On the Antiquity of the Indian Zodiac." Annotation include seasons, planets &amp; days of the week.</p></odd></c><c id="aspace_ref3" level="file"><did><unittitle>Legal Mutation</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_3956081551a017e790b0b371503a6620" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_556f428111bf74170b3dd13399441d1c" parent="aspace_3956081551a017e790b0b371503a6620" type="folder">2</container></did><odd id="aspace_61c99ce193cedf31ae3658ced1aa23a0"><head>General</head><p>Sanskrit written in Bengali characters. Refers to rules and regulations for donations/inheritance. Written in formal hand by a Brahmin scholar or pundit.</p></odd></c><c id="aspace_ref5" level="file"><did><unittitle>Sanskrit slokas (verses) </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_fb9a80dd91128d5a3143ff0af058ef0e" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_3726e1edeeacf670d99015018a698dd1" parent="aspace_fb9a80dd91128d5a3143ff0af058ef0e" type="folder">3</container></did><odd id="aspace_c5d741827264e5c741b2fae50589053b"><head>General</head><p>written in Bengali characters. Formal writing. Handmade paper – rust/brown colored – writing in black ink.</p></odd></c><c id="aspace_ref7" level="file"><did><unittitle>Numbered sentences/slokas from 9-14</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_9b497afdd5fe767f29badac4080eaf86" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_d52cf34544d99215c5b2d93bc20b22f1" parent="aspace_9b497afdd5fe767f29badac4080eaf86" type="folder">4</container></did><odd id="aspace_a3c47027757a71e6f2a7fa5f09d21e75"><head>General</head><p>Sanskrit in Bengali characters. Jones' handwriting with spelling corrections. Page number 3</p></odd></c><c id="aspace_ref9" level="file"><did><unittitle>Numbered sentences/slokas from 1-3</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_9d925737bc973a1f505a2932691f15a8" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_dd74a79c5316ad3056f6c6c249dda797" parent="aspace_9d925737bc973a1f505a2932691f15a8" type="folder">5</container></did><odd id="aspace_bcc0dea44d256987cde3a94cf31ce1ba"><head>General</head><p>Sanskrit in Bengali characters. Page number 1</p></odd></c><c id="aspace_ref11" level="file"><did><unittitle>Planet/zodiac related words </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_31c775219143cb6e5e12969474466c0a" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_69e8704cd6ab742439955d532789f150" parent="aspace_31c775219143cb6e5e12969474466c0a" type="folder">6</container></did><odd id="aspace_5e8e7331ebb9d2d5c5933f9cb93225ea"><head>General</head><p>Sanskrit in Devanagari characters. Jones' handwriting</p></odd></c><c id="aspace_ref13" level="file"><did><unittitle>Short note </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_dcc84d029659df180d7d9f86a10ec8fb" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_a14c83be10e08fca930793915b13bbed" parent="aspace_dcc84d029659df180d7d9f86a10ec8fb" type="folder">7</container></did><odd id="aspace_71cd604464d11d1c3d612328ebb9f18d"><head>General</head><p>Sanskrit in Bengali characters.</p></odd></c><c id="aspace_ref15" level="file"><did><unittitle>unidentified document</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_9777ad9ca9d654af7bd9ccac20ebb48e" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_e2292d63b696c3f32197cf733bb7a51a" parent="aspace_9777ad9ca9d654af7bd9ccac20ebb48e" type="folder">8</container></did><odd id="aspace_b18079da3a05fe97a26146e59d4f7e9d"><head>General</head><p>Extract in Sanskrit in Devanagari characters. Formal hand. English annotation by Jones. Mention of Jaitra Singh the ruler of Mewar (AD 1200)</p></odd></c><c id="aspace_ref17" level="file"><did><unittitle>Letter/short note to a senior person</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_005b98c3dea43fc106f8dad101fe9562" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_02065ae0382875014575c79012f829cd" parent="aspace_005b98c3dea43fc106f8dad101fe9562" type="folder">9</container></did><odd id="aspace_b26095d94d15f99501fe950bd3de88cc"><head>General</head><p>Sanskrit in Devanagari characters.</p></odd></c><c id="aspace_ref19" level="file"><did><unittitle>Short note </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_570ba00e8380d4e0821dc860f7658095" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_3e8157176b236485b615bf9c2c0eb97c" parent="aspace_570ba00e8380d4e0821dc860f7658095" type="folder">10</container></did><odd id="aspace_816e07738c9549e087ff2095e73eb48d"><head>General</head><p>Sanskrit in Bengali characters. Handmade paper rust/brown colored – writing in black ink</p></odd></c><c id="aspace_ref21" level="file"><did><unittitle>2 lines of slokas/note </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_d28949d3b9f61237cb489bcc251fddbd" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_5526d9fab4ec86937042c37b2bde3775" parent="aspace_d28949d3b9f61237cb489bcc251fddbd" type="folder">11</container></did><odd id="aspace_c427a15aa333f3ed292f503c2c97e002"><head>General</head><p>Sanskrit in Bengali characters</p></odd></c><c id="aspace_ref23" level="file"><did><unittitle>Slokas about the 'chatak' birds' love for the pure rain water and clouds </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_63302cd6f0354e0489c2d62e4f971571" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_eeb224d7596a39984557e48eba2838cc" parent="aspace_63302cd6f0354e0489c2d62e4f971571" type="folder">12</container></did><odd id="aspace_696c9775193c3476aa0d4045d41b3cc7"><head>General</head><p>Sanskrit in Bengali characters</p></odd></c><c id="aspace_ref25" level="file"><did><unittitle>Numbered slokas </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_cdcc5a460465a2c11a274993fdae2698" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_b2610be11919de3757dc011f00fa76b8" parent="aspace_cdcc5a460465a2c11a274993fdae2698" type="folder">13</container></did><odd id="aspace_ab01b08031800724694c7fc4e9dd9a8d"><head>General</head><p>Sanskrit in Bengali characters. Last 2 lines are Sanskrit in Devanagari characters.</p></odd></c><c id="aspace_ref27" level="file"><did><unittitle>Numbered slokas  </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_4ee23a78bd646dda382d9efe26340eba" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_1d24f8011d1463fe53e46a677fca013d" parent="aspace_4ee23a78bd646dda382d9efe26340eba" type="folder">14</container></did><odd id="aspace_3826483c27cffea6220e9894a92dbb4f"><head>General</head><p>Sanskrit in Bengali characters</p></odd></c><c id="aspace_ref29" level="file"><did><unittitle>unidentified document</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_e8f73ec4daad941fc19bb7726c8400de" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_681c7b2ef08b66b909fcbe91d9fbf6f1" parent="aspace_e8f73ec4daad941fc19bb7726c8400de" type="folder">15</container></did><odd id="aspace_24a00eee909fe6c059955bfc1efb1e66"><head>General</head><p>Sanskrit in Devanagari characters. 4 page hand stitched notebook. First three pages are printed. The last page is Jones' handwriting – annotations for spellings and pronunciations of various Sanskrit words</p></odd></c><c id="aspace_ref31" level="file"><did><unittitle>Names of ancient Hindu texts and also newer (navin) ones</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_9a8b607647cfb5bc4802b47e83dd8fe6" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_0063e0d253232b42e7f5ef3284ad998a" parent="aspace_9a8b607647cfb5bc4802b47e83dd8fe6" type="folder">16</container></did><odd id="aspace_c650875b33cc85a929a1a753bccdd7e8"><head>General</head><p>Sanskrit in Devanagari characters. Annotated by Jones. Dated 20th July and 17th Aug 1788. Place – Benaras</p></odd></c><c id="aspace_ref33" level="file"><did><unittitle>unidentified document</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_c7ba94693b33dbe89f881866e7394a70" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_56ca14f76fb5a0d93d261b74d500d90f" parent="aspace_c7ba94693b33dbe89f881866e7394a70" type="folder">17</container></did><odd id="aspace_d7f3e75fe529314dddd4e67a946c5267"><head>General</head><p>Sanskrit in Devanagari characters, written in formal hand by a pundit.Handmade paper with writing in black ink and punctuation marks in red ink</p></odd></c><c id="aspace_ref35" level="file"><did><unittitle>unidentified document
-</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_6c2b7f4c059f803a26831d3b4e77a7e7" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_50d43819e195560721606cf17b82277c" parent="aspace_6c2b7f4c059f803a26831d3b4e77a7e7" type="folder">18</container></did><odd id="aspace_ce1d3965d101b0e83e065acd53a156a1"><head>General</head><p>Sanskrit in Devanagari characters. Formal writing by pundit – also Jones' handwriting. Back of page – English – reference to Varaha Mihira – an Indian astronomer, astrologer and mathematician. Also mention of Bhattotpala – the commentator of Brihat Jataka</p></odd></c><c id="aspace_ref38" level="file"><did><unittitle>Translation of Omar Khayyam's Rubaiyat (Quatrains)</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_e5d15af53f19127c557620abc2b877db" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_1e0f6344000e247f3526bfb275762241" parent="aspace_e5d15af53f19127c557620abc2b877db" type="folder">19</container></did><odd id="aspace_1f1fc5e519f7cbc8e110fd5db9433261"><head>General</head><p>Persian and English. Handwritten by Jones.</p></odd></c><c id="aspace_ref40" level="file"><did><unittitle>Plans of Knowledge</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_2fdb1e0efa1ab8e20ac0cd41c5773308" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_974a1a17dd188e2d7d3c79896cd32a9f" parent="aspace_2fdb1e0efa1ab8e20ac0cd41c5773308" type="folder">20</container></did><odd id="aspace_b19060d14db2b6159e27633ae7a3061c"><head>General</head><p>English. Jones' handwriting. 2 lines in Sanskrit. The cover reads "Paper of Literary Projects."</p></odd></c><c id="aspace_ref42" level="file"><did><unittitle>"Varahas Almanac"</unittitle><unitdate>1789</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_4f03a7709592051cfb84e2ae9d624c77" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_028c15c98f1d85287c05904b7494f9ca" parent="aspace_4f03a7709592051cfb84e2ae9d624c77" type="folder">21a</container></did><odd id="aspace_81776274f16d523d8f7b6d1e1e942c63"><head>General</head><p>- A calendar – 1789 – twelve months beginning from April. Sanskrit in Devanagari characters. Also astrological study of lunar cycles</p></odd></c><c id="aspace_ref44" level="file"><did><unittitle>Preface to the Varahas Almanac for 1789</unittitle><unitdate>1789</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_db58b9403520abe027ac4b28d93fca71" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_11a873d0e69df20de677c6e1a0de4d7b" parent="aspace_db58b9403520abe027ac4b28d93fca71" type="folder">21b</container></did><odd id="aspace_0f8eda5b145e2a87d1c7a872e6234fc2"><head>General</head><p>Sanskrit in Devanagari characters. Annotated in English - Jones' handwriting. Includes zodiac calculations</p></odd></c><c id="aspace_ref46" level="file"><did><unittitle>"A Hindu Almanac for the year of Saca – Beginning Sat 11th April 1789 by a Pandit of Navadwip, surnamed Vidya Siromani." </unittitle><unitdate>1789</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_f196c184e09303634961b65252211196" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_5466c5fe27e97f5754c35aa737144420" parent="aspace_f196c184e09303634961b65252211196" type="folder">21c</container></did><odd id="aspace_ac0b918d8c49e1fd7608f1ac9fdca598"><head>General</head><p>Sanskrit in Devanagari characters. English annotations in Jones' handwriting. Mention of important festivals and auspicious occasions. Hand stitched notebook – handmade paper with silk cover</p></odd></c><c id="aspace_ref48" level="file"><did><unittitle>"A Hymn to the Night from the Veda." </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_9639a7f7e074246f949e96f42435435b" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_8f248608f13b77c233f4cdb94684b919" parent="aspace_9639a7f7e074246f949e96f42435435b" type="folder">22</container></did><odd id="aspace_8e8513e426e76edd82d6f6795c7ea983"><head>General</head><p>Single sheet. English. Jones' handwriting</p></odd></c><c id="aspace_ref50" level="file"><did><unittitle>Manuscript on Ramadeva's poem Vivduanmodatarangini (Fountain of pleasure to the learned.) </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_f4ee122cbca57a58652ea81b3d4a042a" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_d7e0dd95e574ecd6ae7ec3bfc3a1130a" parent="aspace_f4ee122cbca57a58652ea81b3d4a042a" type="folder">23</container></did><odd id="aspace_be595a5c781f61446d7919f77f268ad7"><head>General</head><p>Sanskrit in Bengali characters. Black in on brown paper. Inscription on cover is in English – "The Bidwan Mod Tarungeenee from the Gooptu Para Pundit of Santipore."</p></odd></c><c id="aspace_ref52" level="file"><did><unittitle>"Astronomical terms in Sanskrit used in Mr. Davis' paper</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_093b27dbf0a5d939c816aa55ec9c68ab" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_c1764a34f74e8d144f66761787431265" parent="aspace_093b27dbf0a5d939c816aa55ec9c68ab" type="folder">24</container></did><odd id="aspace_49474f172bad79809695c7506b54825a"><head>General</head><p>Sanskrit in Devanagari characters. Annotated in English - Jones' handwriting</p></odd></c><c id="aspace_ref54" level="file"><did><unittitle>Translation of Necker used in 'On the mystical Poetry of the Persians and Hindus.'</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_30f07a82c9bf459411507a10b69aa768" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_783477985bf8758bb062e863babbabda" parent="aspace_30f07a82c9bf459411507a10b69aa768" type="folder">25</container></did><odd id="aspace_1dc76c83091265ff141e7d5d896fbb47"><head>General</head><p>English - Jones' handwriting.</p></odd></c><c id="aspace_ref56" level="file"><did><unittitle>"Account of the Method of Van Reede. Mr. W. Jones' Ms."</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_0908e415799151c68589c3a8e17b5306" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_33938a7cdb5cd5392d03e70c61ba08cc" parent="aspace_0908e415799151c68589c3a8e17b5306" type="folder">26</container></did><odd id="aspace_71f1aa924af01d9850ccf937cef2ceeb"><head>General</head><p>Opening translation from Reede tot Drakenstein's (1673) close to verbatim 'Botanical Observations on Select Indian Plants.'</p></odd></c><c id="aspace_ref58" level="file"><did><unittitle>Manuscript on Vetalapancavinsati by Sivadasa</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_5e4ddb4d31629d5454aac1662ccf5b2d" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_67b9dc14e92247fe19e7efd0390e93e9" parent="aspace_5e4ddb4d31629d5454aac1662ccf5b2d" type="folder">27</container></did><odd id="aspace_f16d1929facb5df020de815d6ef8ddf6"><head>General</head><p>Sanskrit in Devanagari characters. 29 verses written in several hands – black ink. Hand painted notebook cover.</p></odd></c><c id="aspace_ref60" level="file"><did><unittitle>"Genera of plants growing between Arifnagar and Khidirpur." </unittitle><unitdate>1794</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_fbdf0ee0edb461d6b9b6902218b4a6df" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_d81c66dc6b2c5f4624773b6e8f3bbd7c" parent="aspace_fbdf0ee0edb461d6b9b6902218b4a6df" type="folder">28</container></did><odd id="aspace_4fcaf71d187ababb536af44f864ff58f"><head>General</head><p>English - Jones' handwriting. Incomplete, unpublished part of his catalog of Indian plants growing in Calcutta (1794).</p></odd></c><c id="aspace_ref67" level="file"><did><unittitle>"The Hindu Ecliptick."  </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_6c9c625961a4f034acad08d68feca85a" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_163b6aa450879f018130ed3954a23217" parent="aspace_6c9c625961a4f034acad08d68feca85a" type="folder">29a</container></did><odd id="aspace_b76871b855414c370f78c7414f34e676"><head>General</head><p>English. Diagram of globe with zodiac and seasons.</p></odd></c><c id="aspace_ref69" level="file"><did><unittitle>"The Yoga Stars." </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_080b08b5d3f9eb1e97f51112328bac82" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_6982246992b4b0f4c6b3e7fed29fcb90" parent="aspace_080b08b5d3f9eb1e97f51112328bac82" type="folder">29b</container></did><odd id="aspace_122be621ef46176c2bc445fb81a1bb3d"><head>General</head><p>English. A chart with names of stars (nakshatras) along with the longitudes and latitudes.</p></odd></c><c id="aspace_ref71" level="file"><did><unittitle>"The Hindu Ecliptick."  </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_84500da743bda59febc77d2e1ec03433" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_0220bd5fbc1c9789c6af28d0274ac034" parent="aspace_84500da743bda59febc77d2e1ec03433" type="folder">30</container></did><odd id="aspace_cc16a9b0b73961d56beb074ea92e8d04"><head>General</head><p>English. Diagram of globe with zodiac and seasons.</p></odd></c><c id="aspace_ref73" level="file"><did><unittitle>unidentified document</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_1e9fd3dd2059ac6112bd1f82705df415" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_b3caf93afb0cb1e7cf81b82f91a33d8b" parent="aspace_1e9fd3dd2059ac6112bd1f82705df415" type="folder">31</container></did><odd id="aspace_35075aa9928ba7a89ec1724b0301e8bb"><head>General</head><p>Sanskrit in Devanagari characters. Back of page – notes and calculations in Jones' handwriting.</p></odd></c><c id="aspace_ref75" level="file"><did><unittitle>unidentified document </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_5d79a8f45f286cc5e50b768c03857f30" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_8c6425817b7cb8f994df1fe970b49330" parent="aspace_5d79a8f45f286cc5e50b768c03857f30" type="folder">32</container></did><odd id="aspace_5907914796ce61589c4262ff58ada9dd"><head>General</head><p>Sanskrit in Devanagari characters. 2 sentences in Persian</p></odd></c><c id="aspace_ref77" level="file"><did><unittitle>'Yoga Vasistha.' </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_2baa8217396d3c294be44b80a71d8fdb" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_f50c67a300362dcd38362c09b74be5f0" parent="aspace_2baa8217396d3c294be44b80a71d8fdb" type="folder">33</container></did><odd id="aspace_99ba8119119a548312e841c986046dca"><head>General</head><p>Sanskrit in Devanagari characters. Annotated in English - Jones' handwriting. It is the discourse between Sage Vasistha and Lord Rama regarding truth and spiritual liberation.</p></odd></c><c id="aspace_ref79" level="file"><did><unittitle>Short Note</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_4be808b8f8ad78e818d690f0cea1f2c2" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_df2b5c05653845698024d9c4c525372f" parent="aspace_4be808b8f8ad78e818d690f0cea1f2c2" type="folder">34</container></did><odd id="aspace_2d5ee9611b9e897227cca4b1a71fd06b"><head>General</head><p>Sanskrit in Devanagari characters. Back of page reads "A Letter."</p></odd></c><c id="aspace_ref81" level="file"><did><unittitle>Floor plan</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_0a10071eaa1502724c747723bafef1df" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_fca3bb5ac36605880e91606922b95cb5" parent="aspace_0a10071eaa1502724c747723bafef1df" type="folder">35</container></did><odd id="aspace_df9eda282e45209c74f0efb0c81f5b11"><head>General</head><p>Diagrams in red ink. Sanskrit in Devanagari characters – in black ink. Both sides of small note paper.</p></odd></c><c id="aspace_ref83" level="file"><did><unittitle>"Amara Cosha." </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_226cdc7c130486e312ae59d6faa5fdde" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_71efef8a50014d75941c9107ff6b8c19" parent="aspace_226cdc7c130486e312ae59d6faa5fdde" type="folder">36</container></did><odd id="aspace_0643fff1a40e2f0026b7f148a4709e37"><head>General</head><p>Sanskrit in Bengali characters. Title in English in Jones' handwriting. It is the oldest known dictionary in the world – classical Sanskrit vocabulary written by Sage Amara Sinha.</p></odd></c><c id="aspace_ref85" level="file"><did><unittitle>"Isavasyam" or And Upanishad from the Yajurveda</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_4517641e4e17b3af3062da425fd2cb1d" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_135916c38d93a80f36c90af5df4ad97e" parent="aspace_4517641e4e17b3af3062da425fd2cb1d" type="folder">37</container></did><odd id="aspace_2137b6924e1f96740c89947112a1c5d1"><head>General</head><p>English translation of the Sanskrit text.</p></odd></c><c id="aspace_ref87" level="file"><did><unittitle>"Address to the Goddess Saraswati."</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_8cf283d9aff7f154a03bc772b6207ff4" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_928cbaaf203b49493903afe382c6b2ee" parent="aspace_8cf283d9aff7f154a03bc772b6207ff4" type="folder">38</container></did><odd id="aspace_b26164aba9e4e949685006e14e18592d"><head>General</head><p>Title on cover page. English. 13 verses translated from Sanskrit. Jones' handwriting.</p></odd></c><c id="aspace_ref89" level="file"><did><unittitle>unidentified document</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_e2da8283557599f10d8acfb45d58bc02" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_80103ebf8c7b95c55fb9038aea9a345e" parent="aspace_e2da8283557599f10d8acfb45d58bc02" type="folder">39</container></did><odd id="aspace_eabf45aedee0d2da7fe1732238d21062"><head>General</head><p>Persian, 2 pages. I page Persian in English characters. Last page Persian in Jones' handwriting. Hand stitched notebook – writing in black ink.</p></odd></c><c id="aspace_ref91" level="file"><did><unittitle> "The Opening of the Shahnamah in the characters of the Zend."</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_dd36081f4b47ca96b93c53a2981bbea8" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_b2b9fc00b7f892a4182d3f72f4eb4def" parent="aspace_dd36081f4b47ca96b93c53a2981bbea8" type="folder">40</container></did><odd id="aspace_5aa3a807afa71e571d38064f93d1414b"><head>General</head><p>Title in English. Rest of the manuscript in Persian. Shahnamah (The Book of Kings was written by Iranian poet Ferdowsi in 1000AD).</p></odd></c><c id="aspace_ref93" level="file"><did><unittitle>"On the Primitive Religion of the Hindus." </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_2840cdf4dbc3f433f0cf616dd9e4a008" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_bf984d6a98444b38b4d132af4c7e0d0b" parent="aspace_2840cdf4dbc3f433f0cf616dd9e4a008" type="folder">41</container></did><odd id="aspace_e2c0bd1b4eaaae4903735ade6a35e99d"><head>General</head><p>English – Jones' handwriting.</p></odd></c><c id="aspace_ref95" level="file"><did><unittitle>Notes on the Gayatri Mantra</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_dad28984c3252e0bbe11802aa284fb53" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_6021b7da02b36784d8322fd567852d60" parent="aspace_dad28984c3252e0bbe11802aa284fb53" type="folder">42</container></did><odd id="aspace_8401b8b352f40f3cce83ec72293c01ff"><head>General</head><p>Sanskrit in Bengali characters. Annotated by Jones. Writing in red ink, hand stitched 5 note books.</p></odd></c><c id="aspace_ref97" level="file"><did><unittitle>"Bengali Translation of the Dandakaumudi" (Punishment for Crime)</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_ed9c42c65f4ac1379ab04b2d81c39d9e" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_5e52369a20fe3a0f94f9942c88cccecf" parent="aspace_ed9c42c65f4ac1379ab04b2d81c39d9e" type="folder">43</container></did><odd id="aspace_ff67d6dce600000500dc6da353468b03"><head>General</head><p>Codes of judicial procedures.</p></odd></c><c id="aspace_ref99" level="file"><did><unittitle>Nala and Damayanti </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_6084205870bb31712f94a1a802a24e10" label="Mixed Materials [31142054867323]" type="box">1</container><container id="aspace_f0948cd1da02eddfcf791e536049a855" parent="aspace_6084205870bb31712f94a1a802a24e10" type="folder">44</container></did><odd id="aspace_bc5c4587fb49c79c67872d5b0ad5ee61"><head>General</head><p>Hindu mythological narrative. Sanskrit in Devanagari characters. Annotated by Jones.</p></odd></c><c id="aspace_ref101" level="file"><did><unittitle>Letter from Garland Cannon </unittitle><unitdate>2003</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_d9d71229c624f3b30213b39d0485db15" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_240a30adda46b2fb0b6201cd37b68990" parent="aspace_d9d71229c624f3b30213b39d0485db15" type="folder">1</container></did><odd id="aspace_865985555a093679047f23794acbf99e"><head>General</head><p>William Jones Accretions, 2003.</p></odd></c><c id="aspace_ref103" level="file"><did><unittitle>unidentified document</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_0ba069ea04d0db7370d8a65a15cf1082" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_42466711afca1a0cc5f05d23f7f58d63" parent="aspace_0ba069ea04d0db7370d8a65a15cf1082" type="folder">2</container></did><odd id="aspace_33c76a5be4f95330d6e57dd8421f4b0e"><head>General</head><p>Single document in Arabic/Persian. Single document in Arabic/Persian (?)</p></odd></c><c id="aspace_ref105" level="file"><did><unittitle>Legalities of Inheritance/Donation</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_3bfeb2663348a6cdfb947dcfb90bd944" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_23162a70d9d10a9ba3d1ed158fd53da7" parent="aspace_3bfeb2663348a6cdfb947dcfb90bd944" type="folder">3</container></did><odd id="aspace_b66eba9273d0c9d9d7bd6478ff430dce"><head>General</head><p>Single document in Bengali</p></odd></c><c id="aspace_ref107" level="file"><did><unittitle>Draft of Jones' translation of Gita Govinda – verses 4,5 &amp; 6 </unittitle><unitdate>c. 1790</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_63ef8fa00623b0a59e1fcfccd83b91f7" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_2913031e74b0d3ac2d5beb169e2636d0" parent="aspace_63ef8fa00623b0a59e1fcfccd83b91f7" type="folder">4</container></did><odd id="aspace_eee242984609861562cc4b744de5f3ed"><head>General</head><p>(circa 1790). Originally composed by a Sanskrit poet Jayadeva. First English translation by Jones published in 1792. Othersie of page has Vedic slokas in Sanskrit in Devanagari characters. Annotated in Jones'writing.</p></odd></c><c id="aspace_ref110" level="file"><did><unittitle>List of Sanskrit words and stanzas </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_b63f75032cf3fc98752bae2468adc157" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_27dd44d3f1a4d9ee5ca1252ffc271d9b" parent="aspace_b63f75032cf3fc98752bae2468adc157" type="folder">5</container></did><odd id="aspace_ac0ea3464604d556d535cb1bbe79726d"><head>General</head><p>Annotations by Jones. Some words are names of deities and characters from the Ramayana and Mahabharata. General study of word meaning and spelling. Also includes a study of chhand (poetic meter). The Vedas contain Varnik and Matrik chhands.</p></odd></c><c id="aspace_ref144" level="file"><did><unittitle>unidentified document</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_8861f302beb74c439c6b34e71256e43c" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_a655be7f5b430a6c07d5659cb418ea06" parent="aspace_8861f302beb74c439c6b34e71256e43c" type="folder">6</container></did><odd id="aspace_c3b5ac13df8d89b52ddcf5598e0dc7b6"><head>General</head><p>Two Persian words on cover - translated by Garland Cannon as BAZI SAT meaning "game" "chess". Material inside is foliated and perhaps does not relate/belong to the cover. Content inside written in Sanskrit in Bengali characters. Reference to Krishna and Arjun.</p></odd></c><c id="aspace_ref112" level="file"><did><unittitle>Formal declaration about various Shastras (disciplines of knowledge.) </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_c7b39f6d0399e7e7b6ede31f803ca352" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_95d99e39375cb7da937a1ac3599d939f" parent="aspace_c7b39f6d0399e7e7b6ede31f803ca352" type="folder">7</container></did><odd id="aspace_c3d3d8ae62556a69ca8abfe46fd0eeb2"><head>General</head><p>Document in Sanskrit in Bengali characters.</p></odd></c><c id="aspace_ref114" level="file"><did><unittitle>Scansions of poetry using Indian musical notations/symbols </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_7d07aeed8f797c624b51c4073bfea024" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_b7bac268f7acca1ad65fdd404eba057d" parent="aspace_7d07aeed8f797c624b51c4073bfea024" type="folder">8</container></did><odd id="aspace_09051d37809eb794fba371c192e9a7ab"><head>General</head><p>The other side of notebook has list of names in pencil – British officers and friends perhaps.</p></odd></c><c id="aspace_ref117" level="file"><did><unittitle>Translations of the Gayatri Mantra (prayer)</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_8e924a80590f896195d9b5447c4bb40f" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_10670a9e84cf700ea30a16dc19c62f6c" parent="aspace_8e924a80590f896195d9b5447c4bb40f" type="folder">9</container></did><odd id="aspace_37acf1fc17a06b18085d75cad463976f"><head>General</head><p>Sanskrit mantra written in English characters.</p></odd></c><c id="aspace_ref119" level="file"><did><unittitle>"Indian Grant of Law to the Priests of Siva."</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_8d41b6e2b9ddc3360f1c8d0d250dfc09" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_15a23e8784faf40ff1529894cd3f35bd" parent="aspace_8d41b6e2b9ddc3360f1c8d0d250dfc09" type="folder">10</container></did><odd id="aspace_f48f29a109c21f51e01eaad56117a1f6"><head>General</head><p>Devanagari and English characters. Last Page – "Reverence to Ganesha."</p></odd></c><c id="aspace_ref120" level="file"><did><unittitle>unidentified document</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_a93e3fcb7f19afe6df2a2be485a20075" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_28872422f23fbd1a6ae157d441944151" parent="aspace_a93e3fcb7f19afe6df2a2be485a20075" type="folder">11</container></did><odd id="aspace_a139612fc5485fbcfb49af1422a79513"><head>General</head><p>Persian. Handmade paper with watermark.</p></odd></c><c id="aspace_ref121" level="file"><did><unittitle>unidentified document</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_d8928cfca635bda7985030ab30e3e616" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_8b376372edbdd5da6363dd7b72c10d4e" parent="aspace_d8928cfca635bda7985030ab30e3e616" type="folder">12</container></did><odd id="aspace_72524524d3cd77d4921c4af78c532a87"><head>General</head><p>Sanskrit in Devanagari characters</p></odd></c><c id="aspace_ref123" level="file"><did><unittitle>unidentified document</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_700e92456b947fd29570ffc9c8b9f522" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_264ec2afda25e7d1ae54228a1bd13326" parent="aspace_700e92456b947fd29570ffc9c8b9f522" type="folder">13</container></did><odd id="aspace_0fdaf11e23f14680510930e896f6a772"><head>General</head><p>Sanskrit in Bengali characters written by Nimai Pandit. Single sentence on the top is in Jones' handwriting.</p></odd></c><c id="aspace_ref125" level="file"><did><unittitle>"Translation of the poetry at Vindya Mountains." </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_987d1e2ad60887261eda8de8dee4cc13" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_1460d668c44bf9e335bbf44411d00cd9" parent="aspace_987d1e2ad60887261eda8de8dee4cc13" type="folder">14</container></did><odd id="aspace_f3fb1ab39e7287910c944ccc8480344c"><head>General</head><p>Sanskrit in Devanagari characters. Annotated by Jones.</p></odd></c><c id="aspace_ref127" level="file"><did><unittitle>"Stanzas in praise of the Ganga." </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_69acd20e9e5db1422f28a29ca1a9ba0c" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_94251966bbb1beadb1e863e1acf2409d" parent="aspace_69acd20e9e5db1422f28a29ca1a9ba0c" type="folder">15</container></did><odd id="aspace_a0a63b6e1eb5a3b30356edcdbf24df00"><head>General</head><p>Sanskrit in Devanagari characters. Written in black ink. Persian words in red ink. Annotated in English by Jones. "King Akbar's minister Bairam Khan – a Muslim – but a poet in Sanskrit wrote several stanzas in praise of the Ganga." (river).</p></odd></c><c id="aspace_ref129" level="file"><did><unittitle>Extracts from the Vedas, Mahabharata and Shastras</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_e359f684fd81b25d55ddbeaa82e5bbe9" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_d5153a1df335fd16125e6b93b2765ed9" parent="aspace_e359f684fd81b25d55ddbeaa82e5bbe9" type="folder">16</container></did><odd id="aspace_c912fb2f34fce2dc2830002621fd29b3"><head>General</head><p>Sanskrit in Devanagari characters. Annotated in English. Handmade paper, watermarked.</p></odd></c><c id="aspace_ref131" level="file"><did><unittitle>"The Ignorant Instructed." </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_97a65adf911e47521d0282f1fe182418" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_b477cf08793546e818c8507cc469237a" parent="aspace_97a65adf911e47521d0282f1fe182418" type="folder">17</container></did><odd id="aspace_19eaf86d3819f27d57774b2e7b5b0146"><head>General</head><p>Sixteen stanzas of Moha Mudgara by Adi Sankaracharya. A short poem about the transitory nature of worldly experience – everlasting bliss can be gained through knowledge – the higher light. Original translations from Sanskrit to English.</p></odd></c><c id="aspace_ref133" level="file"><did><unittitle>Writings/Translations from the Yajurveda</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_e0e9c15421a334c6503bc0fc17a705e1" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_2bcc611d16672352e8a901d5c9bc10af" parent="aspace_e0e9c15421a334c6503bc0fc17a705e1" type="folder">18</container></did><odd id="aspace_b0696d5ee884bdb717ff9067fd9feae2"><head>General</head><p>English - Jones' handwriting. (Man as a tree).</p></odd></c><c id="aspace_ref135" level="file"><did><unittitle>Translations from the Vedas – "What Relish Can There Be…" </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_ecbca6472c6119001b087b7a133998de" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_57cea186b0f1b6ae55302059bf066af2" parent="aspace_ecbca6472c6119001b087b7a133998de" type="folder">19</container></did><odd id="aspace_d4079de64c020b21ea1b6113e644f5df"><head>General</head><p>English - Jones' handwriting.</p></odd></c><c id="aspace_ref137" level="file"><did><unittitle>Extracts from the Vedas </unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_deab020a61d5369f28723645eeec9b1e" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_b885d62a9135f27c73171c8cc1afb396" parent="aspace_deab020a61d5369f28723645eeec9b1e" type="folder">20</container></did><odd id="aspace_d76ec301f6acf9514d0176303c6f79ef"><head>General</head><p>commencing with "May that soul of mine…" English - Jones' handwriting</p></odd></c><c id="aspace_ref139" level="file"><did><unittitle>Jones' translations of extracts from the Vedas</unittitle><unitdate>undated</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_f1096824081e67968ad18e8667fa0544" label="Mixed Materials [31142054867331]" type="box">2</container><container id="aspace_ee64e4c71945c111d6ebe431bc74baa9" parent="aspace_f1096824081e67968ad18e8667fa0544" type="folder">21</container></did><odd id="aspace_9eb471b7814fdc63eefd08b6faa3e9a5"><head>General</head><p>English.</p></odd></c><c id="aspace_ref141" level="file"><did><unittitle>Chart of Hindi verbs</unittitle><unitdate>undated</unitdate><container altrender="Flat OS Box 17" id="aspace_4c99c79e571e64a1cf86a32edfae4a62" label="Mixed Materials [31142054867349]" type="box">3</container><container id="aspace_b61d1ea0e6443347beafa4c68cda2f2b" parent="aspace_4c99c79e571e64a1cf86a32edfae4a62" type="folder">1</container></did><odd id="aspace_6c1ccd09bb74de3866c34595444581e3"><head>General</head><p>Sanskrit in Devanagari characters with detailed explanations in English. Handmade paper. Writing in black ink.</p></odd></c></c></dsc>
-</archdesc>
+Identification of item,  date (if known); Sir William Jones Manuscripts; MSS 301; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
+    </prefercite>
+    <acqinfo id="aspace_87f49663e3cfb1a00dd2de0d9d8550c8">
+      <head>Provenance</head>
+      <p>Fales purchased the materials from Jones scholar Garland Cannon with a generous donation from artist, writer and philanthropist Kevin Brine, an active supporter of the Elmer Holmes Bobst Library.</p>
+    </acqinfo>
+    <scopecontent id="aspace_9cd011a1ca98eb74b98d617919949506">
+      <head>Scope and Content</head>
+      <p>The Sir William Jones Manuscripts consist of various types of documents related to his lingustic studies, many in their original language with translations or notation by Jones.  Included are documents in Sanskrit and Persian relating to astrology, botany and law.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Manuscripts, Bengali.</subject>
+      <genreform source="aat">Marginalia (annotations)</genreform>
+      <subject source="lcsh">Manuscripts, Sanskrit.</subject>
+      <subject source="lcsh">Devanagari type.</subject>
+      <subject source="lcsh">zodiac.</subject>
+      <subject source="lcsh">Linguistics.</subject>
+      <subject source="lcsh">India -- History -- British occupation, 1765-1947.</subject>
+      <subject source="lcsh">Oriental philology.</subject>
+      <subject source="lcsh">Manuscripts, Persian.</subject>
+      <persname source="naf">Jones, William, Sir, 1746-1794</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref154" level="series">
+        <did>
+          <unittitle>Series I: Manuscripts</unittitle>
+        </did>
+        <c id="aspace_ref1" level="file">
+          <did>
+            <unittitle>Chart of Indian Zodiac signs (Raashi) in Devanagari characters</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_a0e5e199a75da7c71ad568aa79c09f63" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_5cb865358d81f545dd8c52ba364c589c" parent="aspace_a0e5e199a75da7c71ad568aa79c09f63" type="folder">1</container>
+          </did>
+          <odd id="aspace_4152119ba48cb700de7c251f60648b6b">
+            <head>General</head>
+            <p>Annotations in English &amp; Persian. Original of the one printed later in Jones' "On the Antiquity of the Indian Zodiac." Annotation include seasons, planets &amp; days of the week.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref3" level="file">
+          <did>
+            <unittitle>Legal Mutation</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_3956081551a017e790b0b371503a6620" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_556f428111bf74170b3dd13399441d1c" parent="aspace_3956081551a017e790b0b371503a6620" type="folder">2</container>
+          </did>
+          <odd id="aspace_61c99ce193cedf31ae3658ced1aa23a0">
+            <head>General</head>
+            <p>Sanskrit written in Bengali characters. Refers to rules and regulations for donations/inheritance. Written in formal hand by a Brahmin scholar or pundit.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>Sanskrit slokas (verses) </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_fb9a80dd91128d5a3143ff0af058ef0e" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_3726e1edeeacf670d99015018a698dd1" parent="aspace_fb9a80dd91128d5a3143ff0af058ef0e" type="folder">3</container>
+          </did>
+          <odd id="aspace_c5d741827264e5c741b2fae50589053b">
+            <head>General</head>
+            <p>written in Bengali characters. Formal writing. Handmade paper – rust/brown colored – writing in black ink.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Numbered sentences/slokas from 9-14</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_9b497afdd5fe767f29badac4080eaf86" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_d52cf34544d99215c5b2d93bc20b22f1" parent="aspace_9b497afdd5fe767f29badac4080eaf86" type="folder">4</container>
+          </did>
+          <odd id="aspace_a3c47027757a71e6f2a7fa5f09d21e75">
+            <head>General</head>
+            <p>Sanskrit in Bengali characters. Jones' handwriting with spelling corrections. Page number 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Numbered sentences/slokas from 1-3</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_9d925737bc973a1f505a2932691f15a8" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_dd74a79c5316ad3056f6c6c249dda797" parent="aspace_9d925737bc973a1f505a2932691f15a8" type="folder">5</container>
+          </did>
+          <odd id="aspace_bcc0dea44d256987cde3a94cf31ce1ba">
+            <head>General</head>
+            <p>Sanskrit in Bengali characters. Page number 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Planet/zodiac related words </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_31c775219143cb6e5e12969474466c0a" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_69e8704cd6ab742439955d532789f150" parent="aspace_31c775219143cb6e5e12969474466c0a" type="folder">6</container>
+          </did>
+          <odd id="aspace_5e8e7331ebb9d2d5c5933f9cb93225ea">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters. Jones' handwriting</p>
+          </odd>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Short note </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_dcc84d029659df180d7d9f86a10ec8fb" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_a14c83be10e08fca930793915b13bbed" parent="aspace_dcc84d029659df180d7d9f86a10ec8fb" type="folder">7</container>
+          </did>
+          <odd id="aspace_71cd604464d11d1c3d612328ebb9f18d">
+            <head>General</head>
+            <p>Sanskrit in Bengali characters.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>unidentified document</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_9777ad9ca9d654af7bd9ccac20ebb48e" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_e2292d63b696c3f32197cf733bb7a51a" parent="aspace_9777ad9ca9d654af7bd9ccac20ebb48e" type="folder">8</container>
+          </did>
+          <odd id="aspace_b18079da3a05fe97a26146e59d4f7e9d">
+            <head>General</head>
+            <p>Extract in Sanskrit in Devanagari characters. Formal hand. English annotation by Jones. Mention of Jaitra Singh the ruler of Mewar (AD 1200)</p>
+          </odd>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Letter/short note to a senior person</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_005b98c3dea43fc106f8dad101fe9562" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_02065ae0382875014575c79012f829cd" parent="aspace_005b98c3dea43fc106f8dad101fe9562" type="folder">9</container>
+          </did>
+          <odd id="aspace_b26095d94d15f99501fe950bd3de88cc">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Short note </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_570ba00e8380d4e0821dc860f7658095" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_3e8157176b236485b615bf9c2c0eb97c" parent="aspace_570ba00e8380d4e0821dc860f7658095" type="folder">10</container>
+          </did>
+          <odd id="aspace_816e07738c9549e087ff2095e73eb48d">
+            <head>General</head>
+            <p>Sanskrit in Bengali characters. Handmade paper rust/brown colored – writing in black ink</p>
+          </odd>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>2 lines of slokas/note </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_d28949d3b9f61237cb489bcc251fddbd" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_5526d9fab4ec86937042c37b2bde3775" parent="aspace_d28949d3b9f61237cb489bcc251fddbd" type="folder">11</container>
+          </did>
+          <odd id="aspace_c427a15aa333f3ed292f503c2c97e002">
+            <head>General</head>
+            <p>Sanskrit in Bengali characters</p>
+          </odd>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Slokas about the 'chatak' birds' love for the pure rain water and clouds </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_63302cd6f0354e0489c2d62e4f971571" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_eeb224d7596a39984557e48eba2838cc" parent="aspace_63302cd6f0354e0489c2d62e4f971571" type="folder">12</container>
+          </did>
+          <odd id="aspace_696c9775193c3476aa0d4045d41b3cc7">
+            <head>General</head>
+            <p>Sanskrit in Bengali characters</p>
+          </odd>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Numbered slokas </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_cdcc5a460465a2c11a274993fdae2698" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_b2610be11919de3757dc011f00fa76b8" parent="aspace_cdcc5a460465a2c11a274993fdae2698" type="folder">13</container>
+          </did>
+          <odd id="aspace_ab01b08031800724694c7fc4e9dd9a8d">
+            <head>General</head>
+            <p>Sanskrit in Bengali characters. Last 2 lines are Sanskrit in Devanagari characters.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Numbered slokas  </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_4ee23a78bd646dda382d9efe26340eba" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_1d24f8011d1463fe53e46a677fca013d" parent="aspace_4ee23a78bd646dda382d9efe26340eba" type="folder">14</container>
+          </did>
+          <odd id="aspace_3826483c27cffea6220e9894a92dbb4f">
+            <head>General</head>
+            <p>Sanskrit in Bengali characters</p>
+          </odd>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>unidentified document</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_e8f73ec4daad941fc19bb7726c8400de" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_681c7b2ef08b66b909fcbe91d9fbf6f1" parent="aspace_e8f73ec4daad941fc19bb7726c8400de" type="folder">15</container>
+          </did>
+          <odd id="aspace_24a00eee909fe6c059955bfc1efb1e66">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters. 4 page hand stitched notebook. First three pages are printed. The last page is Jones' handwriting – annotations for spellings and pronunciations of various Sanskrit words</p>
+          </odd>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Names of ancient Hindu texts and also newer (navin) ones</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_9a8b607647cfb5bc4802b47e83dd8fe6" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_0063e0d253232b42e7f5ef3284ad998a" parent="aspace_9a8b607647cfb5bc4802b47e83dd8fe6" type="folder">16</container>
+          </did>
+          <odd id="aspace_c650875b33cc85a929a1a753bccdd7e8">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters. Annotated by Jones. Dated 20th July and 17th Aug 1788. Place – Benaras</p>
+          </odd>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>unidentified document</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_c7ba94693b33dbe89f881866e7394a70" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_56ca14f76fb5a0d93d261b74d500d90f" parent="aspace_c7ba94693b33dbe89f881866e7394a70" type="folder">17</container>
+          </did>
+          <odd id="aspace_d7f3e75fe529314dddd4e67a946c5267">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters, written in formal hand by a pundit.Handmade paper with writing in black ink and punctuation marks in red ink</p>
+          </odd>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>unidentified document
+</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_6c2b7f4c059f803a26831d3b4e77a7e7" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_50d43819e195560721606cf17b82277c" parent="aspace_6c2b7f4c059f803a26831d3b4e77a7e7" type="folder">18</container>
+          </did>
+          <odd id="aspace_ce1d3965d101b0e83e065acd53a156a1">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters. Formal writing by pundit – also Jones' handwriting. Back of page – English – reference to Varaha Mihira – an Indian astronomer, astrologer and mathematician. Also mention of Bhattotpala – the commentator of Brihat Jataka</p>
+          </odd>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Translation of Omar Khayyam's Rubaiyat (Quatrains)</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_e5d15af53f19127c557620abc2b877db" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_1e0f6344000e247f3526bfb275762241" parent="aspace_e5d15af53f19127c557620abc2b877db" type="folder">19</container>
+          </did>
+          <odd id="aspace_1f1fc5e519f7cbc8e110fd5db9433261">
+            <head>General</head>
+            <p>Persian and English. Handwritten by Jones.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Plans of Knowledge</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_2fdb1e0efa1ab8e20ac0cd41c5773308" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_974a1a17dd188e2d7d3c79896cd32a9f" parent="aspace_2fdb1e0efa1ab8e20ac0cd41c5773308" type="folder">20</container>
+          </did>
+          <odd id="aspace_b19060d14db2b6159e27633ae7a3061c">
+            <head>General</head>
+            <p>English. Jones' handwriting. 2 lines in Sanskrit. The cover reads "Paper of Literary Projects."</p>
+          </odd>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>"Varahas Almanac"</unittitle>
+            <unitdate>1789</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_4f03a7709592051cfb84e2ae9d624c77" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_028c15c98f1d85287c05904b7494f9ca" parent="aspace_4f03a7709592051cfb84e2ae9d624c77" type="folder">21a</container>
+          </did>
+          <odd id="aspace_81776274f16d523d8f7b6d1e1e942c63">
+            <head>General</head>
+            <p>- A calendar – 1789 – twelve months beginning from April. Sanskrit in Devanagari characters. Also astrological study of lunar cycles</p>
+          </odd>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Preface to the Varahas Almanac for 1789</unittitle>
+            <unitdate>1789</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_db58b9403520abe027ac4b28d93fca71" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_11a873d0e69df20de677c6e1a0de4d7b" parent="aspace_db58b9403520abe027ac4b28d93fca71" type="folder">21b</container>
+          </did>
+          <odd id="aspace_0f8eda5b145e2a87d1c7a872e6234fc2">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters. Annotated in English - Jones' handwriting. Includes zodiac calculations</p>
+          </odd>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>"A Hindu Almanac for the year of Saca – Beginning Sat 11th April 1789 by a Pandit of Navadwip, surnamed Vidya Siromani." </unittitle>
+            <unitdate>1789</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_f196c184e09303634961b65252211196" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_5466c5fe27e97f5754c35aa737144420" parent="aspace_f196c184e09303634961b65252211196" type="folder">21c</container>
+          </did>
+          <odd id="aspace_ac0b918d8c49e1fd7608f1ac9fdca598">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters. English annotations in Jones' handwriting. Mention of important festivals and auspicious occasions. Hand stitched notebook – handmade paper with silk cover</p>
+          </odd>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>"A Hymn to the Night from the Veda." </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_9639a7f7e074246f949e96f42435435b" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_8f248608f13b77c233f4cdb94684b919" parent="aspace_9639a7f7e074246f949e96f42435435b" type="folder">22</container>
+          </did>
+          <odd id="aspace_8e8513e426e76edd82d6f6795c7ea983">
+            <head>General</head>
+            <p>Single sheet. English. Jones' handwriting</p>
+          </odd>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Manuscript on Ramadeva's poem Vivduanmodatarangini (Fountain of pleasure to the learned.) </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_f4ee122cbca57a58652ea81b3d4a042a" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_d7e0dd95e574ecd6ae7ec3bfc3a1130a" parent="aspace_f4ee122cbca57a58652ea81b3d4a042a" type="folder">23</container>
+          </did>
+          <odd id="aspace_be595a5c781f61446d7919f77f268ad7">
+            <head>General</head>
+            <p>Sanskrit in Bengali characters. Black in on brown paper. Inscription on cover is in English – "The Bidwan Mod Tarungeenee from the Gooptu Para Pundit of Santipore."</p>
+          </odd>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>"Astronomical terms in Sanskrit used in Mr. Davis' paper</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_093b27dbf0a5d939c816aa55ec9c68ab" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_c1764a34f74e8d144f66761787431265" parent="aspace_093b27dbf0a5d939c816aa55ec9c68ab" type="folder">24</container>
+          </did>
+          <odd id="aspace_49474f172bad79809695c7506b54825a">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters. Annotated in English - Jones' handwriting</p>
+          </odd>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Translation of Necker used in 'On the mystical Poetry of the Persians and Hindus.'</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_30f07a82c9bf459411507a10b69aa768" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_783477985bf8758bb062e863babbabda" parent="aspace_30f07a82c9bf459411507a10b69aa768" type="folder">25</container>
+          </did>
+          <odd id="aspace_1dc76c83091265ff141e7d5d896fbb47">
+            <head>General</head>
+            <p>English - Jones' handwriting.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>"Account of the Method of Van Reede. Mr. W. Jones' Ms."</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_0908e415799151c68589c3a8e17b5306" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_33938a7cdb5cd5392d03e70c61ba08cc" parent="aspace_0908e415799151c68589c3a8e17b5306" type="folder">26</container>
+          </did>
+          <odd id="aspace_71f1aa924af01d9850ccf937cef2ceeb">
+            <head>General</head>
+            <p>Opening translation from Reede tot Drakenstein's (1673) close to verbatim 'Botanical Observations on Select Indian Plants.'</p>
+          </odd>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Manuscript on Vetalapancavinsati by Sivadasa</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_5e4ddb4d31629d5454aac1662ccf5b2d" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_67b9dc14e92247fe19e7efd0390e93e9" parent="aspace_5e4ddb4d31629d5454aac1662ccf5b2d" type="folder">27</container>
+          </did>
+          <odd id="aspace_f16d1929facb5df020de815d6ef8ddf6">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters. 29 verses written in several hands – black ink. Hand painted notebook cover.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>"Genera of plants growing between Arifnagar and Khidirpur." </unittitle>
+            <unitdate>1794</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_fbdf0ee0edb461d6b9b6902218b4a6df" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_d81c66dc6b2c5f4624773b6e8f3bbd7c" parent="aspace_fbdf0ee0edb461d6b9b6902218b4a6df" type="folder">28</container>
+          </did>
+          <odd id="aspace_4fcaf71d187ababb536af44f864ff58f">
+            <head>General</head>
+            <p>English - Jones' handwriting. Incomplete, unpublished part of his catalog of Indian plants growing in Calcutta (1794).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>"The Hindu Ecliptick."  </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_6c9c625961a4f034acad08d68feca85a" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_163b6aa450879f018130ed3954a23217" parent="aspace_6c9c625961a4f034acad08d68feca85a" type="folder">29a</container>
+          </did>
+          <odd id="aspace_b76871b855414c370f78c7414f34e676">
+            <head>General</head>
+            <p>English. Diagram of globe with zodiac and seasons.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>"The Yoga Stars." </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_080b08b5d3f9eb1e97f51112328bac82" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_6982246992b4b0f4c6b3e7fed29fcb90" parent="aspace_080b08b5d3f9eb1e97f51112328bac82" type="folder">29b</container>
+          </did>
+          <odd id="aspace_122be621ef46176c2bc445fb81a1bb3d">
+            <head>General</head>
+            <p>English. A chart with names of stars (nakshatras) along with the longitudes and latitudes.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>"The Hindu Ecliptick."  </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_84500da743bda59febc77d2e1ec03433" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_0220bd5fbc1c9789c6af28d0274ac034" parent="aspace_84500da743bda59febc77d2e1ec03433" type="folder">30</container>
+          </did>
+          <odd id="aspace_cc16a9b0b73961d56beb074ea92e8d04">
+            <head>General</head>
+            <p>English. Diagram of globe with zodiac and seasons.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>unidentified document</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_1e9fd3dd2059ac6112bd1f82705df415" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_b3caf93afb0cb1e7cf81b82f91a33d8b" parent="aspace_1e9fd3dd2059ac6112bd1f82705df415" type="folder">31</container>
+          </did>
+          <odd id="aspace_35075aa9928ba7a89ec1724b0301e8bb">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters. Back of page – notes and calculations in Jones' handwriting.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>unidentified document </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_5d79a8f45f286cc5e50b768c03857f30" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_8c6425817b7cb8f994df1fe970b49330" parent="aspace_5d79a8f45f286cc5e50b768c03857f30" type="folder">32</container>
+          </did>
+          <odd id="aspace_5907914796ce61589c4262ff58ada9dd">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters. 2 sentences in Persian</p>
+          </odd>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>'Yoga Vasistha.' </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_2baa8217396d3c294be44b80a71d8fdb" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_f50c67a300362dcd38362c09b74be5f0" parent="aspace_2baa8217396d3c294be44b80a71d8fdb" type="folder">33</container>
+          </did>
+          <odd id="aspace_99ba8119119a548312e841c986046dca">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters. Annotated in English - Jones' handwriting. It is the discourse between Sage Vasistha and Lord Rama regarding truth and spiritual liberation.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Short Note</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_4be808b8f8ad78e818d690f0cea1f2c2" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_df2b5c05653845698024d9c4c525372f" parent="aspace_4be808b8f8ad78e818d690f0cea1f2c2" type="folder">34</container>
+          </did>
+          <odd id="aspace_2d5ee9611b9e897227cca4b1a71fd06b">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters. Back of page reads "A Letter."</p>
+          </odd>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Floor plan</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_0a10071eaa1502724c747723bafef1df" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_fca3bb5ac36605880e91606922b95cb5" parent="aspace_0a10071eaa1502724c747723bafef1df" type="folder">35</container>
+          </did>
+          <odd id="aspace_df9eda282e45209c74f0efb0c81f5b11">
+            <head>General</head>
+            <p>Diagrams in red ink. Sanskrit in Devanagari characters – in black ink. Both sides of small note paper.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>"Amara Cosha." </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_226cdc7c130486e312ae59d6faa5fdde" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_71efef8a50014d75941c9107ff6b8c19" parent="aspace_226cdc7c130486e312ae59d6faa5fdde" type="folder">36</container>
+          </did>
+          <odd id="aspace_0643fff1a40e2f0026b7f148a4709e37">
+            <head>General</head>
+            <p>Sanskrit in Bengali characters. Title in English in Jones' handwriting. It is the oldest known dictionary in the world – classical Sanskrit vocabulary written by Sage Amara Sinha.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>"Isavasyam" or And Upanishad from the Yajurveda</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_4517641e4e17b3af3062da425fd2cb1d" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_135916c38d93a80f36c90af5df4ad97e" parent="aspace_4517641e4e17b3af3062da425fd2cb1d" type="folder">37</container>
+          </did>
+          <odd id="aspace_2137b6924e1f96740c89947112a1c5d1">
+            <head>General</head>
+            <p>English translation of the Sanskrit text.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>"Address to the Goddess Saraswati."</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_8cf283d9aff7f154a03bc772b6207ff4" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_928cbaaf203b49493903afe382c6b2ee" parent="aspace_8cf283d9aff7f154a03bc772b6207ff4" type="folder">38</container>
+          </did>
+          <odd id="aspace_b26164aba9e4e949685006e14e18592d">
+            <head>General</head>
+            <p>Title on cover page. English. 13 verses translated from Sanskrit. Jones' handwriting.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>unidentified document</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_e2da8283557599f10d8acfb45d58bc02" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_80103ebf8c7b95c55fb9038aea9a345e" parent="aspace_e2da8283557599f10d8acfb45d58bc02" type="folder">39</container>
+          </did>
+          <odd id="aspace_eabf45aedee0d2da7fe1732238d21062">
+            <head>General</head>
+            <p>Persian, 2 pages. I page Persian in English characters. Last page Persian in Jones' handwriting. Hand stitched notebook – writing in black ink.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle> "The Opening of the Shahnamah in the characters of the Zend."</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_dd36081f4b47ca96b93c53a2981bbea8" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_b2b9fc00b7f892a4182d3f72f4eb4def" parent="aspace_dd36081f4b47ca96b93c53a2981bbea8" type="folder">40</container>
+          </did>
+          <odd id="aspace_5aa3a807afa71e571d38064f93d1414b">
+            <head>General</head>
+            <p>Title in English. Rest of the manuscript in Persian. Shahnamah (The Book of Kings was written by Iranian poet Ferdowsi in 1000AD).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>"On the Primitive Religion of the Hindus." </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_2840cdf4dbc3f433f0cf616dd9e4a008" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_bf984d6a98444b38b4d132af4c7e0d0b" parent="aspace_2840cdf4dbc3f433f0cf616dd9e4a008" type="folder">41</container>
+          </did>
+          <odd id="aspace_e2c0bd1b4eaaae4903735ade6a35e99d">
+            <head>General</head>
+            <p>English – Jones' handwriting.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Notes on the Gayatri Mantra</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_dad28984c3252e0bbe11802aa284fb53" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_6021b7da02b36784d8322fd567852d60" parent="aspace_dad28984c3252e0bbe11802aa284fb53" type="folder">42</container>
+          </did>
+          <odd id="aspace_8401b8b352f40f3cce83ec72293c01ff">
+            <head>General</head>
+            <p>Sanskrit in Bengali characters. Annotated by Jones. Writing in red ink, hand stitched 5 note books.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>"Bengali Translation of the Dandakaumudi" (Punishment for Crime)</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_ed9c42c65f4ac1379ab04b2d81c39d9e" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_5e52369a20fe3a0f94f9942c88cccecf" parent="aspace_ed9c42c65f4ac1379ab04b2d81c39d9e" type="folder">43</container>
+          </did>
+          <odd id="aspace_ff67d6dce600000500dc6da353468b03">
+            <head>General</head>
+            <p>Codes of judicial procedures.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Nala and Damayanti </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_6084205870bb31712f94a1a802a24e10" label="Mixed Materials [31142054867323]" type="box">1</container>
+            <container id="aspace_f0948cd1da02eddfcf791e536049a855" parent="aspace_6084205870bb31712f94a1a802a24e10" type="folder">44</container>
+          </did>
+          <odd id="aspace_bc5c4587fb49c79c67872d5b0ad5ee61">
+            <head>General</head>
+            <p>Hindu mythological narrative. Sanskrit in Devanagari characters. Annotated by Jones.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Letter from Garland Cannon </unittitle>
+            <unitdate>2003</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_d9d71229c624f3b30213b39d0485db15" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_240a30adda46b2fb0b6201cd37b68990" parent="aspace_d9d71229c624f3b30213b39d0485db15" type="folder">1</container>
+          </did>
+          <odd id="aspace_865985555a093679047f23794acbf99e">
+            <head>General</head>
+            <p>William Jones Accretions, 2003.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>unidentified document</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_0ba069ea04d0db7370d8a65a15cf1082" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_42466711afca1a0cc5f05d23f7f58d63" parent="aspace_0ba069ea04d0db7370d8a65a15cf1082" type="folder">2</container>
+          </did>
+          <odd id="aspace_33c76a5be4f95330d6e57dd8421f4b0e">
+            <head>General</head>
+            <p>Single document in Arabic/Persian. Single document in Arabic/Persian (?)</p>
+          </odd>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Legalities of Inheritance/Donation</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_3bfeb2663348a6cdfb947dcfb90bd944" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_23162a70d9d10a9ba3d1ed158fd53da7" parent="aspace_3bfeb2663348a6cdfb947dcfb90bd944" type="folder">3</container>
+          </did>
+          <odd id="aspace_b66eba9273d0c9d9d7bd6478ff430dce">
+            <head>General</head>
+            <p>Single document in Bengali</p>
+          </odd>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Draft of Jones' translation of Gita Govinda – verses 4,5 &amp; 6 </unittitle>
+            <unitdate>c. 1790</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_63ef8fa00623b0a59e1fcfccd83b91f7" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_2913031e74b0d3ac2d5beb169e2636d0" parent="aspace_63ef8fa00623b0a59e1fcfccd83b91f7" type="folder">4</container>
+          </did>
+          <odd id="aspace_eee242984609861562cc4b744de5f3ed">
+            <head>General</head>
+            <p>(circa 1790). Originally composed by a Sanskrit poet Jayadeva. First English translation by Jones published in 1792. Othersie of page has Vedic slokas in Sanskrit in Devanagari characters. Annotated in Jones'writing.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>List of Sanskrit words and stanzas </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_b63f75032cf3fc98752bae2468adc157" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_27dd44d3f1a4d9ee5ca1252ffc271d9b" parent="aspace_b63f75032cf3fc98752bae2468adc157" type="folder">5</container>
+          </did>
+          <odd id="aspace_ac0ea3464604d556d535cb1bbe79726d">
+            <head>General</head>
+            <p>Annotations by Jones. Some words are names of deities and characters from the Ramayana and Mahabharata. General study of word meaning and spelling. Also includes a study of chhand (poetic meter). The Vedas contain Varnik and Matrik chhands.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref144" level="file">
+          <did>
+            <unittitle>unidentified document</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_8861f302beb74c439c6b34e71256e43c" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_a655be7f5b430a6c07d5659cb418ea06" parent="aspace_8861f302beb74c439c6b34e71256e43c" type="folder">6</container>
+          </did>
+          <odd id="aspace_c3b5ac13df8d89b52ddcf5598e0dc7b6">
+            <head>General</head>
+            <p>Two Persian words on cover - translated by Garland Cannon as BAZI SAT meaning "game" "chess". Material inside is foliated and perhaps does not relate/belong to the cover. Content inside written in Sanskrit in Bengali characters. Reference to Krishna and Arjun.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Formal declaration about various Shastras (disciplines of knowledge.) </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_c7b39f6d0399e7e7b6ede31f803ca352" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_95d99e39375cb7da937a1ac3599d939f" parent="aspace_c7b39f6d0399e7e7b6ede31f803ca352" type="folder">7</container>
+          </did>
+          <odd id="aspace_c3d3d8ae62556a69ca8abfe46fd0eeb2">
+            <head>General</head>
+            <p>Document in Sanskrit in Bengali characters.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Scansions of poetry using Indian musical notations/symbols </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_7d07aeed8f797c624b51c4073bfea024" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_b7bac268f7acca1ad65fdd404eba057d" parent="aspace_7d07aeed8f797c624b51c4073bfea024" type="folder">8</container>
+          </did>
+          <odd id="aspace_09051d37809eb794fba371c192e9a7ab">
+            <head>General</head>
+            <p>The other side of notebook has list of names in pencil – British officers and friends perhaps.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Translations of the Gayatri Mantra (prayer)</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_8e924a80590f896195d9b5447c4bb40f" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_10670a9e84cf700ea30a16dc19c62f6c" parent="aspace_8e924a80590f896195d9b5447c4bb40f" type="folder">9</container>
+          </did>
+          <odd id="aspace_37acf1fc17a06b18085d75cad463976f">
+            <head>General</head>
+            <p>Sanskrit mantra written in English characters.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>"Indian Grant of Law to the Priests of Siva."</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_8d41b6e2b9ddc3360f1c8d0d250dfc09" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_15a23e8784faf40ff1529894cd3f35bd" parent="aspace_8d41b6e2b9ddc3360f1c8d0d250dfc09" type="folder">10</container>
+          </did>
+          <odd id="aspace_f48f29a109c21f51e01eaad56117a1f6">
+            <head>General</head>
+            <p>Devanagari and English characters. Last Page – "Reverence to Ganesha."</p>
+          </odd>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>unidentified document</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_a93e3fcb7f19afe6df2a2be485a20075" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_28872422f23fbd1a6ae157d441944151" parent="aspace_a93e3fcb7f19afe6df2a2be485a20075" type="folder">11</container>
+          </did>
+          <odd id="aspace_a139612fc5485fbcfb49af1422a79513">
+            <head>General</head>
+            <p>Persian. Handmade paper with watermark.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>unidentified document</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_d8928cfca635bda7985030ab30e3e616" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_8b376372edbdd5da6363dd7b72c10d4e" parent="aspace_d8928cfca635bda7985030ab30e3e616" type="folder">12</container>
+          </did>
+          <odd id="aspace_72524524d3cd77d4921c4af78c532a87">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters</p>
+          </odd>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>unidentified document</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_700e92456b947fd29570ffc9c8b9f522" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_264ec2afda25e7d1ae54228a1bd13326" parent="aspace_700e92456b947fd29570ffc9c8b9f522" type="folder">13</container>
+          </did>
+          <odd id="aspace_0fdaf11e23f14680510930e896f6a772">
+            <head>General</head>
+            <p>Sanskrit in Bengali characters written by Nimai Pandit. Single sentence on the top is in Jones' handwriting.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>"Translation of the poetry at Vindya Mountains." </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_987d1e2ad60887261eda8de8dee4cc13" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_1460d668c44bf9e335bbf44411d00cd9" parent="aspace_987d1e2ad60887261eda8de8dee4cc13" type="folder">14</container>
+          </did>
+          <odd id="aspace_f3fb1ab39e7287910c944ccc8480344c">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters. Annotated by Jones.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>"Stanzas in praise of the Ganga." </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_69acd20e9e5db1422f28a29ca1a9ba0c" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_94251966bbb1beadb1e863e1acf2409d" parent="aspace_69acd20e9e5db1422f28a29ca1a9ba0c" type="folder">15</container>
+          </did>
+          <odd id="aspace_a0a63b6e1eb5a3b30356edcdbf24df00">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters. Written in black ink. Persian words in red ink. Annotated in English by Jones. "King Akbar's minister Bairam Khan – a Muslim – but a poet in Sanskrit wrote several stanzas in praise of the Ganga." (river).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>Extracts from the Vedas, Mahabharata and Shastras</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_e359f684fd81b25d55ddbeaa82e5bbe9" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_d5153a1df335fd16125e6b93b2765ed9" parent="aspace_e359f684fd81b25d55ddbeaa82e5bbe9" type="folder">16</container>
+          </did>
+          <odd id="aspace_c912fb2f34fce2dc2830002621fd29b3">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters. Annotated in English. Handmade paper, watermarked.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref131" level="file">
+          <did>
+            <unittitle>"The Ignorant Instructed." </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_97a65adf911e47521d0282f1fe182418" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_b477cf08793546e818c8507cc469237a" parent="aspace_97a65adf911e47521d0282f1fe182418" type="folder">17</container>
+          </did>
+          <odd id="aspace_19eaf86d3819f27d57774b2e7b5b0146">
+            <head>General</head>
+            <p>Sixteen stanzas of Moha Mudgara by Adi Sankaracharya. A short poem about the transitory nature of worldly experience – everlasting bliss can be gained through knowledge – the higher light. Original translations from Sanskrit to English.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle>Writings/Translations from the Yajurveda</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_e0e9c15421a334c6503bc0fc17a705e1" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_2bcc611d16672352e8a901d5c9bc10af" parent="aspace_e0e9c15421a334c6503bc0fc17a705e1" type="folder">18</container>
+          </did>
+          <odd id="aspace_b0696d5ee884bdb717ff9067fd9feae2">
+            <head>General</head>
+            <p>English - Jones' handwriting. (Man as a tree).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref135" level="file">
+          <did>
+            <unittitle>Translations from the Vedas – "What Relish Can There Be…" </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_ecbca6472c6119001b087b7a133998de" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_57cea186b0f1b6ae55302059bf066af2" parent="aspace_ecbca6472c6119001b087b7a133998de" type="folder">19</container>
+          </did>
+          <odd id="aspace_d4079de64c020b21ea1b6113e644f5df">
+            <head>General</head>
+            <p>English - Jones' handwriting.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref137" level="file">
+          <did>
+            <unittitle>Extracts from the Vedas </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_deab020a61d5369f28723645eeec9b1e" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_b885d62a9135f27c73171c8cc1afb396" parent="aspace_deab020a61d5369f28723645eeec9b1e" type="folder">20</container>
+          </did>
+          <odd id="aspace_d76ec301f6acf9514d0176303c6f79ef">
+            <head>General</head>
+            <p>commencing with "May that soul of mine…" English - Jones' handwriting</p>
+          </odd>
+        </c>
+        <c id="aspace_ref139" level="file">
+          <did>
+            <unittitle>Jones' translations of extracts from the Vedas</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_f1096824081e67968ad18e8667fa0544" label="Mixed Materials [31142054867331]" type="box">2</container>
+            <container id="aspace_ee64e4c71945c111d6ebe431bc74baa9" parent="aspace_f1096824081e67968ad18e8667fa0544" type="folder">21</container>
+          </did>
+          <odd id="aspace_9eb471b7814fdc63eefd08b6faa3e9a5">
+            <head>General</head>
+            <p>English.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref141" level="file">
+          <did>
+            <unittitle>Chart of Hindi verbs</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_4c99c79e571e64a1cf86a32edfae4a62" label="Mixed Materials [31142054867349]" type="box">3</container>
+            <container id="aspace_b61d1ea0e6443347beafa4c68cda2f2b" parent="aspace_4c99c79e571e64a1cf86a32edfae4a62" type="folder">1</container>
+          </did>
+          <odd id="aspace_6c1ccd09bb74de3866c34595444581e3">
+            <head>General</head>
+            <p>Sanskrit in Devanagari characters with detailed explanations in English. Handmade paper. Writing in black ink.</p>
+          </odd>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

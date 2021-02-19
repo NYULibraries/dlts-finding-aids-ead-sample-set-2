@@ -1,66 +1,499 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_176/index.html">tam_176</eadid><filedesc><titlestmt><titleproper>Guide to the Charles Recht Papers <num>TAM.176</num></titleproper><author>Peter Filardo, 2009. Edited for compliance with DACS and Tamiment Required Elements for Archival Description by Nicole Greenhouse and to reflect the incorporation of nonprint materials and addition of unprocessed materials, Aug 2013</author></titlestmt><editionstmt><p>This version was derived from Recht Guide.wpd</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:49:11 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Charles Recht Papers</unittitle>
-    <origination label="Creator">
-      <persname source="ingest">Recht, Charles.</persname>
-    </origination>
-    <unitid>TAM.176</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
-      <extent altrender="carrier">in one record carton.</extent>
-    </physdesc>
-    <unitdate normal="1907/1976" type="inclusive">1907-1976</unitdate>
-    <abstract id="aspace_011bca28645cc96e8a1f345ade0839e4">Charles C. Recht (1887-1965) graduated from New York University Law School in 1910. During and after World War I, he served as general counsel for the New York Bureau of Legal Advice. Recht represented many radicals who faced deportation, served as an officer of the Communist-associated American Committee for the Protection of the Foreign Born, and from 1921-1933, he served as the official representative of the Soviet Union's interests in the United States. He wrote widely on law, politics, theater and Jewish history, and published two novels and a book of poems. His wife, Aristine Munn Recht, was Dean of Women at NYU's Washington Square College. The majority of the collection is made up of his published and unpublished writings.</abstract>
-    <langmaterial id="aspace_dea41b933b8bb7030ed108a4f0144024">Materials are in English.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_f2ea628aab0d7f4cbd60778d245839c7">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_101a5429bcd217a08b281c7a652b4484">
-    <head>Immediate Source of Acquisition</head>
-<p>Materials found in repository.. The accession numbers associated with this gift are 1995.006, 1995.008, NPA.2003.016 and NPA.2005.023.</p>  </acqinfo>
-  <arrangement id="aspace_5725107f472d5a68f1aad573eb64d5b3">
-    <head>Arrangement</head>
-<p>Organized into two series: </p><p>Series I: Biographical<lb/> 
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_176/index.html">tam_176</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Charles Recht Papers <num>TAM.176</num></titleproper>
+        <author>Peter Filardo, 2009. Edited for compliance with DACS and Tamiment Required Elements for Archival Description by Nicole Greenhouse and to reflect the incorporation of nonprint materials and addition of unprocessed materials, Aug 2013</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Recht Guide.wpd</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:49:11 -0500</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Charles Recht Papers</unittitle>
+      <origination label="Creator">
+        <persname source="ingest">Recht, Charles.</persname>
+      </origination>
+      <unitid>TAM.176</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+        <extent altrender="carrier">in one record carton.</extent>
+      </physdesc>
+      <unitdate normal="1907/1976" type="inclusive">1907-1976</unitdate>
+      <abstract id="aspace_011bca28645cc96e8a1f345ade0839e4">Charles C. Recht (1887-1965) graduated from New York University Law School in 1910. During and after World War I, he served as general counsel for the New York Bureau of Legal Advice. Recht represented many radicals who faced deportation, served as an officer of the Communist-associated American Committee for the Protection of the Foreign Born, and from 1921-1933, he served as the official representative of the Soviet Union's interests in the United States. He wrote widely on law, politics, theater and Jewish history, and published two novels and a book of poems. His wife, Aristine Munn Recht, was Dean of Women at NYU's Washington Square College. The majority of the collection is made up of his published and unpublished writings.</abstract>
+      <langmaterial id="aspace_dea41b933b8bb7030ed108a4f0144024">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_f2ea628aab0d7f4cbd60778d245839c7">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_101a5429bcd217a08b281c7a652b4484">
+      <head>Immediate Source of Acquisition</head>
+      <p>Materials found in repository.. The accession numbers associated with this gift are 1995.006, 1995.008, NPA.2003.016 and NPA.2005.023.</p>
+    </acqinfo>
+    <arrangement id="aspace_5725107f472d5a68f1aad573eb64d5b3">
+      <head>Arrangement</head>
+      <p>Organized into two series: </p>
+      <p>Series I: Biographical<lb/> 
 Series II: Writings<lb/> 
 Subseries A: Published Writings<lb/> 
 Subseries B: Unpublished<lb/>
 Sub-subseries 1: Autobiographical Typescript, <emph render="italic">A World To Win</emph><lb/>
-Sub-subseries 2: Other Unpublished Writings<lb/></p><p>Folders are arranged alphabetically by subject/author heading.</p>  </arrangement>
-  <bioghist id="aspace_712396763cf70bc26601ccfc54d1a917">
-    <head>Historical/Biographical Note</head>
-<p>Charles C. Recht (1887-1965) was born in Bohemia to Jewish parents, emigrated to the United States at age thirteen, and graduated from New York University Law School in 1910. He served as general counsel for the New York Bureau of Legal Advice, which provided free legal service to men who resisted the World War I era draft laws. Recht also represented many radicals who faced deportation at that time, and later served as an officer of a the American Committee for Protection of Foreign Born (ACPFB). ACPFB was affiliated with the Communist Party USA, but Recht was never a party member. After Ludwig Martens was deported in 1921, Recht officially represented Soviet interests in the United States until 1933, when diplomatic relations were established. Recht published two novels, <title render="italic">Rue with a Difference</title>(1924) and <title render="italic">Babylon on Hudson</title>(1932), and a book of poems, <title render="italic">Manhattan Made</title>(1930). He also translated the work of August Strindberg and other playwrights, and wrote widely on law, politics, theater and Jewish history. His wife, Aristine Munn Recht, a physician, was at one time Dean of Women at NYU's Washington Square College.</p>  </bioghist>
-  <prefercite id="aspace_4a5af07f548a91e0580a2a30bfd4b154">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Charles Recht Papers; TAM 176; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <processinfo id="aspace_f1e240a5e2786db79b76e898c088aa13">
-    <head>Processing Information</head>
-<p>Photographs were separated from this collection during initial processing and were established as a separate collection, the Charles Recht Photographs (PHOTOS 197). In 2013, the photograph collection was reincorporated into the Charles Recht Papers (TAM 176).</p>  </processinfo>
-  <relatedmaterial id="aspace_5b5fe76b7dc1cfd89086bb809c322a3c">
-    <head>Related Materials</head>
-<p>American Committee for the Protection of the Foreign Born Records (TAM 086)<lb/>
-New York Bureau of Legal Advice Records (TAM 044)<lb/></p>  </relatedmaterial>
-  <scopecontent id="aspace_5bb262de3794eb6f6d43d4a054f1d61e">
-    <head>Scope and Content Note</head>
-<p>The brief biographical series contains some personal correspondence, memorabilia, photographs and obituaries. The bulk of the collection consists of Recht's unpublished writings, including: <title render="italic">A World to Win</title>, an autobiography (along with several autobiographical fragments) covering Recht's life through the early 1930s, including his travels throughout the Soviet Union;  <title render="italic">Selector H. One</title>, a satirical science fiction novel written in the 1940s; and an untitled and incomplete novel largely about "Ernest Strohman," an immigrant of Bohemian origin. Other writings include various poems, two untitled plays dealing with Jewish history, and an early (1907) pamphlet-length non-fiction manuscript, <title render="italic">The Bohemian in America</title>. The published writings consist of several articles dealing with civil rights and Jewish history.</p>  </scopecontent>
-  <userestrict id="aspace_15dc0d911801fb5d8ccdf4fc2e9eecb1">
-    <head>Conditions Governing Use</head>
-<p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Charles Recht was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <controlaccess>
-    <genreform source="aat">Obituaries.</genreform>
-    <genreform source="aat">Memorabilia.</genreform>
-    <subject source="lcsh">Communists -- United States.</subject>
-    <subject source="lcsh">Communists -- United States -- Biography.</subject>
-    <genreform source="aat">Correspondence.</genreform>
-    <subject source="lcsh">American literature |x Jewish authors.</subject>
-    <geogname source="lcsh">Soviet Union -- Description and travel.</geogname>
-    <corpname source="naf">American Committee for Protection of Foreign Born</corpname>
-    <persname source="ingest">Recht, Charles.</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref11" level="series"><did><unittitle>Series I: Biographical</unittitle><unitdate normal="1961/1976" type="inclusive">1906-1976</unitdate></did><scopecontent id="aspace_e158e53a5bbda4b0249e4dab3044fdf4"><head>Scope and Content Note</head><p>This series contains correspondence, clippings, obituaries of Recht, and photographs. The photographs are made up of a double-sided scrapbook page of photographs from the 1920s and larger black-and-white photographs.</p></scopecontent><c id="aspace_ref12" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container altrender="Record carton" id="aspace_e5ebf75cc5e56a416b5a1c9f607af654" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_b07c78b64475e483d66fe0c60e351bf7" parent="aspace_e5ebf75cc5e56a416b5a1c9f607af654" type="folder">1</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Memorabilia</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_334af9f71f6da321c17c1167d23f0cf0" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_8883c7b85f563a299f270bef525f8828" parent="aspace_334af9f71f6da321c17c1167d23f0cf0" type="folder">2</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Obituaries</unittitle><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container altrender="Record carton" id="aspace_deda2e218c4b241cd3aa67dbd35e4367" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_3a2437710eaea297f26446f3cedb112e" parent="aspace_deda2e218c4b241cd3aa67dbd35e4367" type="folder">3</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Photographs</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_eea9e474e628e28574035da4bc8ddd2f" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_7ce8c0277e5ed7fe6112f234565a31cf" parent="aspace_eea9e474e628e28574035da4bc8ddd2f" type="folder">4</container><container altrender="Flat Box - 12 x 15.25" id="aspace_ce6632bec852586c7915c83cbc1253f0" label="Mixed Materials [31142063426483]" type="box">Shared Tamiment 045</container></did></c></c><c id="aspace_ref15" level="series"><did><unittitle>Series II: Writings</unittitle></did><scopecontent id="aspace_b669202d0b8d3e6e341f9f1418e5580a"><head>Scope and Content Note</head><p>This series contains both published articles and unpublished manuscripts by Recht.</p></scopecontent><c id="aspace_ref16" level="subseries"><did><unittitle>Subseries A: Published Writings</unittitle><unitdate>1918-1936</unitdate></did><scopecontent id="aspace_71873eb8906acfc89d4a7e03dc4ec6dd"><head>Scope and Content Note</head><p>This subseries contains his published articles, mostly related to his work with immigrants.</p></scopecontent><c id="aspace_ref17" level="file"><did><unittitle>"The Chinese Jew - A Footnote" (<title render="italic">The American Hebrew</title>)</unittitle><unitdate normal="1936/1936" type="inclusive">Oct 23, 1936</unitdate><container altrender="Record carton" id="aspace_53e48d0e76564301019bfd2dd2e22b33" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_4c486820887df4dce9bb88c540ea6949" parent="aspace_53e48d0e76564301019bfd2dd2e22b33" type="folder">5</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>"The Czechs and the Jews: Past and Present" (<title render="italic">The Menorah Journal</title>)</unittitle><unitdate normal="1918/1918" type="inclusive">Dec 1918</unitdate><container altrender="Record carton" id="aspace_dc5308810e2dde275e259257471039f7" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_e0c5d3c8acbac81eddd19e672685c459" parent="aspace_dc5308810e2dde275e259257471039f7" type="folder">6</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>"The Glory That Was" (Reprint from: <title render="italic">Let the People Vote on War</title> magazine)</unittitle><unitdate normal="1919/1919" type="inclusive">Apr 1919</unitdate><container altrender="Record carton" id="aspace_6eb2be8d3e08584005105880c2246f32" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_0aabcad26c1118d6787e8c70d11dcad3" parent="aspace_6eb2be8d3e08584005105880c2246f32" type="folder">7</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>"Historical Landmarks of the Czechs" (<title render="italic">The Public: A Journal of Democracy</title>)</unittitle><unitdate normal="1918/1918" type="inclusive">Aug 24, 1918</unitdate><container altrender="Record carton" id="aspace_d4ddeb8f505a69265ac8a7e71e7508cc" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_d096cbd0bddbb95afcf3237aea9ebf6b" parent="aspace_d4ddeb8f505a69265ac8a7e71e7508cc" type="folder">8</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>"If Europe Were Modern Minded" (<title render="italic">The Modern World</title>)</unittitle><unitdate normal="1927/1927" type="inclusive">Jan 1927</unitdate><container altrender="Record carton" id="aspace_ca56e8edad52f3f5224ac5671b83b4e8" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_7a97cc59be4cc5516b329a9ab674709d" parent="aspace_ca56e8edad52f3f5224ac5671b83b4e8" type="folder">9</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>The Right of Asylum (<title render="italic">New York: The Social Economic Foundation</title>)</unittitle><unitdate normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Record carton" id="aspace_4b0b8d26ea9173917cfb94c182855d86" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_5dfd39eebbf22f12d466c14a4e0597db" parent="aspace_4b0b8d26ea9173917cfb94c182855d86" type="folder">10</container></did></c></c><c id="aspace_ref23" level="subseries"><did><unittitle>Subseries B: Unpublished Writings</unittitle></did><scopecontent id="aspace_0c55519087298137dfaf3e776d9aa7e9"><head>Scope and Content Note</head><p>This subseries mostly contains Recht's unpublished autobiography, <emph render="italic">A World to Win: The Autobiography of a Non-Conformist</emph>. the manuscript is broken up into chapters, containing handwritten notes and drafts. The subseries also contains publishing correspondence and other materials. Other manuscripts include "The Bohemian in America;" a manuscript possibly titled "Ernest Strohman;" an article titled "Walt Whitman in Memoriam;" two plays, one set in the Near East, the other in 18th-19th century Europe; poetry; and three variants of his science-fiction novel, <emph render="italic">Selector H. One</emph>.</p></scopecontent><c id="aspace_ref24" level="subseries"><did><unittitle>Sub-subseries 1: Autobiographical Typescript, (<title render="italic">A World To Win</title>)</unittitle><unitdate normal="1907/1947" type="inclusive">undated, 1907-1947</unitdate></did><c id="aspace_ref25" level="file"><did><unittitle>Chapter Outlines, Introduction</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_54f3b214f6d3a00b7e417ce8aa52762d" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_4b17546ef1d53029cb26d8b1de72b40c" parent="aspace_54f3b214f6d3a00b7e417ce8aa52762d" type="folder">11</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Chapter 1: Transplantation</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_079775ebc1f5b2c3941bfdbbaab151b8" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_7290fc6871ebeef3e7886ad5ffc840d6" parent="aspace_079775ebc1f5b2c3941bfdbbaab151b8" type="folder">12</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Chapter 2: Striking Roots</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_eb798409f4eb978e28b5d9a3f4218a80" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_519312ce81ff85890358c11d65d5e613" parent="aspace_eb798409f4eb978e28b5d9a3f4218a80" type="folder">13</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Chapter 3: English Becomes Basic</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_506e2313ca85c73fedc4c99810dcb5a7" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_b7a475fbffd25912b5f455fd39379648" parent="aspace_506e2313ca85c73fedc4c99810dcb5a7" type="folder">14</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Chapter 4: First Case</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_4af66a1dc8d22139de8eddf5cde6d834" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_352ae5b8e928160a8305979f301cb109" parent="aspace_4af66a1dc8d22139de8eddf5cde6d834" type="folder">15</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Chapter 5: It Shouldn't Happen to a Dog</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_4b942fa2e7ddb56efb50b9ba4970953d" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_a1297c6fa4e992252baa943c3e92dad8" parent="aspace_4b942fa2e7ddb56efb50b9ba4970953d" type="folder">16</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Chapter 6: Marriage &amp; War</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_769ea8f6b22bf3c59e4212934f7a8850" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_b33f09cf12bda699b5e27d21d705c77e" parent="aspace_769ea8f6b22bf3c59e4212934f7a8850" type="folder">17</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Chapter 7: Nov 7, 1917</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_61f12bfe1f1ef224f645d879e869202d" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_9ea44f46a8cf8ae0a928a924d3c91f0d" parent="aspace_61f12bfe1f1ef224f645d879e869202d" type="folder">18</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Chapter 8: Getting Reputation</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_2fd1daabd84b66a531c5d44f14801c9d" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_cdb9149375f2a073c2e3aa58f06313a5" parent="aspace_2fd1daabd84b66a531c5d44f14801c9d" type="folder">19</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Chapter 9: Unrest</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_4d04145c6abab2eca06574f439ee00a1" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_49608bc8025dbbda73f72a25bd947dac" parent="aspace_4d04145c6abab2eca06574f439ee00a1" type="folder">20</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Chapter 10: Red Special</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_133ccd1214b05e847f25491964b9c96d" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_b29bf6bffb42e83a27c1b85099b377b4" parent="aspace_133ccd1214b05e847f25491964b9c96d" type="folder">21</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Chapter 11: Omsk Mutiny</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_145b5018b936ecb51dfe4510574c2a64" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_36043338c80e293506200329c352c1d7" parent="aspace_145b5018b936ecb51dfe4510574c2a64" type="folder">22</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Chapter 12: Soviet Bureau</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_6f4df44927d2024f0576c6a9c6129469" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_01682b0f9e0cec8b623a2dae4a280c5c" parent="aspace_6f4df44927d2024f0576c6a9c6129469" type="folder">23</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Chapter 13: Palmer's Putsch</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_ae6b5e96b808dec676dc6a484c2c2ad5" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_05c89f2da7e24de3ff8e200b2f993098" parent="aspace_ae6b5e96b808dec676dc6a484c2c2ad5" type="folder">24</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Chapter 14: Groans From Omsk</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_5b911ee80e27029073f8e9a203927290" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_07bc1be0178b62b64d22e1d4af31bf0d" parent="aspace_5b911ee80e27029073f8e9a203927290" type="folder">25</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Chapter 15: The Most Cross Examined Man</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_2dca828b66c8c1114962f884ec9896e5" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_27581873d564c1bbe73b395e346a7848" parent="aspace_2dca828b66c8c1114962f884ec9896e5" type="folder">26</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Chapter 17: Genoa</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_6330334692d1ddfe4b5f2a6fb932c2fa" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_e179a9d3753fe2bebefd99d10e06e0e4" parent="aspace_6330334692d1ddfe4b5f2a6fb932c2fa" type="folder">27</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Chapter 18: Russian Volunteer Fleet</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_b905496a514ad1cf46763c57cbbb7fb9" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_02d58674615b4243b10529c80e95244e" parent="aspace_b905496a514ad1cf46763c57cbbb7fb9" type="folder">28</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Chapter 19: Eastward From Paris</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_9895ceeb4ed39566abfa95b699ad2648" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_ebd412fefac2eae9397e2a45d2fe008c" parent="aspace_9895ceeb4ed39566abfa95b699ad2648" type="folder">29</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Chapter 20: Litvinoff and Recognition</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_b17dd4fc2dd5f447d711e06fdf87c130" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_ee298ee9b458e5dc9527cd31b3cf4f8b" parent="aspace_b17dd4fc2dd5f447d711e06fdf87c130" type="folder">30</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Chapter, Unnumbered: Biro-Bidjan</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_d66a6ad80f1312e033e7d7035415d9d2" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_a62f0df91cb8280744122459eedbafca" parent="aspace_d66a6ad80f1312e033e7d7035415d9d2" type="folder">31</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Miscellaneous Autobiographical Fragments</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_51016ab920fe1f9e55b2ae31cf2b5a4e" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_24398223b3d19b6f38972e4be340ba1d" parent="aspace_51016ab920fe1f9e55b2ae31cf2b5a4e" type="folder">32</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Publishing Correspondence</unittitle><unitdate normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Record carton" id="aspace_36aac8a0ca02d2a5898c26ba4284d668" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_915cc2a44b9063f1f0d0f0adac1766b1" parent="aspace_36aac8a0ca02d2a5898c26ba4284d668" type="folder">33</container></did></c></c><c id="aspace_ref48" level="subseries"><did><unittitle>Sub-subseries 2: Other Unpublished Writings</unittitle><unitdate normal="1907/1947" type="inclusive">undated, 1907-1947</unitdate></did><c id="aspace_ref49" level="file"><did><unittitle><title render="italic">The Bohemian in America</title></unittitle><unitdate normal="1907/1907" type="inclusive">1907</unitdate><container altrender="Record carton" id="aspace_b6b29081482b551ba65ee442aa44da0f" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_e356fda7fe71d00a8ea7445a0fabce75" parent="aspace_b6b29081482b551ba65ee442aa44da0f" type="folder">34</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Fiction: "Ernest Strohman?"</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_95e7efec804d6653d4e0980e76269add" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_1c10d65e7757477f8779f224d358de9f" parent="aspace_95e7efec804d6653d4e0980e76269add" type="folder">35</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Non-Fiction</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_1b675872045b28999b70779cd601da29" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_c7d20c77901302382166a5babc805484" parent="aspace_1b675872045b28999b70779cd601da29" type="folder">36</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Play (untitled fragment, set in ancient Near East)</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_20ed9067b64b0f0874a8451274b03449" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_0c77036175f0927506d2b8c2a609636f" parent="aspace_20ed9067b64b0f0874a8451274b03449" type="folder">37</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Play (untitled fragment, set in Europe, circa 18th-19th century)</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_391cd431c7691670a0e78f56970feba1" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_f23aa897c00f710ebc700396ef650958" parent="aspace_391cd431c7691670a0e78f56970feba1" type="folder">38</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Poetry</unittitle><unitdate normal="1907/1976" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_9eb6522b4dcdbf779a7fe1eddb018bca" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_0711a2e70d3f6fc65646b2fb294ad5d1" parent="aspace_9eb6522b4dcdbf779a7fe1eddb018bca" type="folder">39</container></did></c><c id="aspace_ref55" level="file"><did><unittitle><title render="italic">Selector H. One</title> (variant "1")</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Record carton" id="aspace_8c95d29d4a7cb5fcc292775e5e1a7181" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_a73f2711e4706bb0988707fdcfb06e6c" parent="aspace_8c95d29d4a7cb5fcc292775e5e1a7181" type="folder">40</container></did></c><c id="aspace_ref56" level="file"><did><unittitle><title render="italic">Selector H. One</title> (variant "2")</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Record carton" id="aspace_623b9e06ff6d496157bd65c8ecbbd09c" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_55b6cd683fc3152e2557cee022ece285" parent="aspace_623b9e06ff6d496157bd65c8ecbbd09c" type="folder">41</container></did></c><c id="aspace_ref57" level="file"><did><unittitle><title render="italic">Selector H. One</title> (variant "3")</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Record carton" id="aspace_b93e808f56375fec9aeb24b9cc641cd4" label="Mixed Materials [31142062730422]" type="box">1</container><container id="aspace_d8c34a12e77035bda33d46fb1d4e9041" parent="aspace_b93e808f56375fec9aeb24b9cc641cd4" type="folder">42</container></did></c></c></c></c></dsc>
-</archdesc>
+Sub-subseries 2: Other Unpublished Writings<lb/></p>
+      <p>Folders are arranged alphabetically by subject/author heading.</p>
+    </arrangement>
+    <bioghist id="aspace_712396763cf70bc26601ccfc54d1a917">
+      <head>Historical/Biographical Note</head>
+      <p>Charles C. Recht (1887-1965) was born in Bohemia to Jewish parents, emigrated to the United States at age thirteen, and graduated from New York University Law School in 1910. He served as general counsel for the New York Bureau of Legal Advice, which provided free legal service to men who resisted the World War I era draft laws. Recht also represented many radicals who faced deportation at that time, and later served as an officer of a the American Committee for Protection of Foreign Born (ACPFB). ACPFB was affiliated with the Communist Party USA, but Recht was never a party member. After Ludwig Martens was deported in 1921, Recht officially represented Soviet interests in the United States until 1933, when diplomatic relations were established. Recht published two novels, <title render="italic">Rue with a Difference</title>(1924) and <title render="italic">Babylon on Hudson</title>(1932), and a book of poems, <title render="italic">Manhattan Made</title>(1930). He also translated the work of August Strindberg and other playwrights, and wrote widely on law, politics, theater and Jewish history. His wife, Aristine Munn Recht, a physician, was at one time Dean of Women at NYU's Washington Square College.</p>
+    </bioghist>
+    <prefercite id="aspace_4a5af07f548a91e0580a2a30bfd4b154">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Charles Recht Papers; TAM 176; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_f1e240a5e2786db79b76e898c088aa13">
+      <head>Processing Information</head>
+      <p>Photographs were separated from this collection during initial processing and were established as a separate collection, the Charles Recht Photographs (PHOTOS 197). In 2013, the photograph collection was reincorporated into the Charles Recht Papers (TAM 176).</p>
+    </processinfo>
+    <relatedmaterial id="aspace_5b5fe76b7dc1cfd89086bb809c322a3c">
+      <head>Related Materials</head>
+      <p>American Committee for the Protection of the Foreign Born Records (TAM 086)<lb/>
+New York Bureau of Legal Advice Records (TAM 044)<lb/></p>
+    </relatedmaterial>
+    <scopecontent id="aspace_5bb262de3794eb6f6d43d4a054f1d61e">
+      <head>Scope and Content Note</head>
+      <p>The brief biographical series contains some personal correspondence, memorabilia, photographs and obituaries. The bulk of the collection consists of Recht's unpublished writings, including: <title render="italic">A World to Win</title>, an autobiography (along with several autobiographical fragments) covering Recht's life through the early 1930s, including his travels throughout the Soviet Union;  <title render="italic">Selector H. One</title>, a satirical science fiction novel written in the 1940s; and an untitled and incomplete novel largely about "Ernest Strohman," an immigrant of Bohemian origin. Other writings include various poems, two untitled plays dealing with Jewish history, and an early (1907) pamphlet-length non-fiction manuscript, <title render="italic">The Bohemian in America</title>. The published writings consist of several articles dealing with civil rights and Jewish history.</p>
+    </scopecontent>
+    <userestrict id="aspace_15dc0d911801fb5d8ccdf4fc2e9eecb1">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Charles Recht was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Obituaries.</genreform>
+      <genreform source="aat">Memorabilia.</genreform>
+      <subject source="lcsh">Communists -- United States.</subject>
+      <subject source="lcsh">Communists -- United States -- Biography.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">American literature |x Jewish authors.</subject>
+      <geogname source="lcsh">Soviet Union -- Description and travel.</geogname>
+      <corpname source="naf">American Committee for Protection of Foreign Born</corpname>
+      <persname source="ingest">Recht, Charles.</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref11" level="series">
+        <did>
+          <unittitle>Series I: Biographical</unittitle>
+          <unitdate normal="1961/1976" type="inclusive">1906-1976</unitdate>
+        </did>
+        <scopecontent id="aspace_e158e53a5bbda4b0249e4dab3044fdf4">
+          <head>Scope and Content Note</head>
+          <p>This series contains correspondence, clippings, obituaries of Recht, and photographs. The photographs are made up of a double-sided scrapbook page of photographs from the 1920s and larger black-and-white photographs.</p>
+        </scopecontent>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container altrender="Record carton" id="aspace_e5ebf75cc5e56a416b5a1c9f607af654" label="Mixed Materials [31142062730422]" type="box">1</container>
+            <container id="aspace_b07c78b64475e483d66fe0c60e351bf7" parent="aspace_e5ebf75cc5e56a416b5a1c9f607af654" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Memorabilia</unittitle>
+            <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_334af9f71f6da321c17c1167d23f0cf0" label="Mixed Materials [31142062730422]" type="box">1</container>
+            <container id="aspace_8883c7b85f563a299f270bef525f8828" parent="aspace_334af9f71f6da321c17c1167d23f0cf0" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Obituaries</unittitle>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container altrender="Record carton" id="aspace_deda2e218c4b241cd3aa67dbd35e4367" label="Mixed Materials [31142062730422]" type="box">1</container>
+            <container id="aspace_3a2437710eaea297f26446f3cedb112e" parent="aspace_deda2e218c4b241cd3aa67dbd35e4367" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_eea9e474e628e28574035da4bc8ddd2f" label="Mixed Materials [31142062730422]" type="box">1</container>
+            <container id="aspace_7ce8c0277e5ed7fe6112f234565a31cf" parent="aspace_eea9e474e628e28574035da4bc8ddd2f" type="folder">4</container>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_ce6632bec852586c7915c83cbc1253f0" label="Mixed Materials [31142063426483]" type="box">Shared Tamiment 045</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref15" level="series">
+        <did>
+          <unittitle>Series II: Writings</unittitle>
+        </did>
+        <scopecontent id="aspace_b669202d0b8d3e6e341f9f1418e5580a">
+          <head>Scope and Content Note</head>
+          <p>This series contains both published articles and unpublished manuscripts by Recht.</p>
+        </scopecontent>
+        <c id="aspace_ref16" level="subseries">
+          <did>
+            <unittitle>Subseries A: Published Writings</unittitle>
+            <unitdate>1918-1936</unitdate>
+          </did>
+          <scopecontent id="aspace_71873eb8906acfc89d4a7e03dc4ec6dd">
+            <head>Scope and Content Note</head>
+            <p>This subseries contains his published articles, mostly related to his work with immigrants.</p>
+          </scopecontent>
+          <c id="aspace_ref17" level="file">
+            <did>
+              <unittitle>"The Chinese Jew - A Footnote" (<title render="italic">The American Hebrew</title>)</unittitle>
+              <unitdate normal="1936/1936" type="inclusive">Oct 23, 1936</unitdate>
+              <container altrender="Record carton" id="aspace_53e48d0e76564301019bfd2dd2e22b33" label="Mixed Materials [31142062730422]" type="box">1</container>
+              <container id="aspace_4c486820887df4dce9bb88c540ea6949" parent="aspace_53e48d0e76564301019bfd2dd2e22b33" type="folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref18" level="file">
+            <did>
+              <unittitle>"The Czechs and the Jews: Past and Present" (<title render="italic">The Menorah Journal</title>)</unittitle>
+              <unitdate normal="1918/1918" type="inclusive">Dec 1918</unitdate>
+              <container altrender="Record carton" id="aspace_dc5308810e2dde275e259257471039f7" label="Mixed Materials [31142062730422]" type="box">1</container>
+              <container id="aspace_e0c5d3c8acbac81eddd19e672685c459" parent="aspace_dc5308810e2dde275e259257471039f7" type="folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref19" level="file">
+            <did>
+              <unittitle>"The Glory That Was" (Reprint from: <title render="italic">Let the People Vote on War</title> magazine)</unittitle>
+              <unitdate normal="1919/1919" type="inclusive">Apr 1919</unitdate>
+              <container altrender="Record carton" id="aspace_6eb2be8d3e08584005105880c2246f32" label="Mixed Materials [31142062730422]" type="box">1</container>
+              <container id="aspace_0aabcad26c1118d6787e8c70d11dcad3" parent="aspace_6eb2be8d3e08584005105880c2246f32" type="folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref20" level="file">
+            <did>
+              <unittitle>"Historical Landmarks of the Czechs" (<title render="italic">The Public: A Journal of Democracy</title>)</unittitle>
+              <unitdate normal="1918/1918" type="inclusive">Aug 24, 1918</unitdate>
+              <container altrender="Record carton" id="aspace_d4ddeb8f505a69265ac8a7e71e7508cc" label="Mixed Materials [31142062730422]" type="box">1</container>
+              <container id="aspace_d096cbd0bddbb95afcf3237aea9ebf6b" parent="aspace_d4ddeb8f505a69265ac8a7e71e7508cc" type="folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref21" level="file">
+            <did>
+              <unittitle>"If Europe Were Modern Minded" (<title render="italic">The Modern World</title>)</unittitle>
+              <unitdate normal="1927/1927" type="inclusive">Jan 1927</unitdate>
+              <container altrender="Record carton" id="aspace_ca56e8edad52f3f5224ac5671b83b4e8" label="Mixed Materials [31142062730422]" type="box">1</container>
+              <container id="aspace_7a97cc59be4cc5516b329a9ab674709d" parent="aspace_ca56e8edad52f3f5224ac5671b83b4e8" type="folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref22" level="file">
+            <did>
+              <unittitle>The Right of Asylum (<title render="italic">New York: The Social Economic Foundation</title>)</unittitle>
+              <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+              <container altrender="Record carton" id="aspace_4b0b8d26ea9173917cfb94c182855d86" label="Mixed Materials [31142062730422]" type="box">1</container>
+              <container id="aspace_5dfd39eebbf22f12d466c14a4e0597db" parent="aspace_4b0b8d26ea9173917cfb94c182855d86" type="folder">10</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref23" level="subseries">
+          <did>
+            <unittitle>Subseries B: Unpublished Writings</unittitle>
+          </did>
+          <scopecontent id="aspace_0c55519087298137dfaf3e776d9aa7e9">
+            <head>Scope and Content Note</head>
+            <p>This subseries mostly contains Recht's unpublished autobiography, <emph render="italic">A World to Win: The Autobiography of a Non-Conformist</emph>. the manuscript is broken up into chapters, containing handwritten notes and drafts. The subseries also contains publishing correspondence and other materials. Other manuscripts include "The Bohemian in America;" a manuscript possibly titled "Ernest Strohman;" an article titled "Walt Whitman in Memoriam;" two plays, one set in the Near East, the other in 18th-19th century Europe; poetry; and three variants of his science-fiction novel, <emph render="italic">Selector H. One</emph>.</p>
+          </scopecontent>
+          <c id="aspace_ref24" level="subseries">
+            <did>
+              <unittitle>Sub-subseries 1: Autobiographical Typescript, (<title render="italic">A World To Win</title>)</unittitle>
+              <unitdate normal="1907/1947" type="inclusive">undated, 1907-1947</unitdate>
+            </did>
+            <c id="aspace_ref25" level="file">
+              <did>
+                <unittitle>Chapter Outlines, Introduction</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_54f3b214f6d3a00b7e417ce8aa52762d" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_4b17546ef1d53029cb26d8b1de72b40c" parent="aspace_54f3b214f6d3a00b7e417ce8aa52762d" type="folder">11</container>
+              </did>
+            </c>
+            <c id="aspace_ref26" level="file">
+              <did>
+                <unittitle>Chapter 1: Transplantation</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_079775ebc1f5b2c3941bfdbbaab151b8" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_7290fc6871ebeef3e7886ad5ffc840d6" parent="aspace_079775ebc1f5b2c3941bfdbbaab151b8" type="folder">12</container>
+              </did>
+            </c>
+            <c id="aspace_ref27" level="file">
+              <did>
+                <unittitle>Chapter 2: Striking Roots</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_eb798409f4eb978e28b5d9a3f4218a80" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_519312ce81ff85890358c11d65d5e613" parent="aspace_eb798409f4eb978e28b5d9a3f4218a80" type="folder">13</container>
+              </did>
+            </c>
+            <c id="aspace_ref28" level="file">
+              <did>
+                <unittitle>Chapter 3: English Becomes Basic</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_506e2313ca85c73fedc4c99810dcb5a7" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_b7a475fbffd25912b5f455fd39379648" parent="aspace_506e2313ca85c73fedc4c99810dcb5a7" type="folder">14</container>
+              </did>
+            </c>
+            <c id="aspace_ref29" level="file">
+              <did>
+                <unittitle>Chapter 4: First Case</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_4af66a1dc8d22139de8eddf5cde6d834" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_352ae5b8e928160a8305979f301cb109" parent="aspace_4af66a1dc8d22139de8eddf5cde6d834" type="folder">15</container>
+              </did>
+            </c>
+            <c id="aspace_ref30" level="file">
+              <did>
+                <unittitle>Chapter 5: It Shouldn't Happen to a Dog</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_4b942fa2e7ddb56efb50b9ba4970953d" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_a1297c6fa4e992252baa943c3e92dad8" parent="aspace_4b942fa2e7ddb56efb50b9ba4970953d" type="folder">16</container>
+              </did>
+            </c>
+            <c id="aspace_ref31" level="file">
+              <did>
+                <unittitle>Chapter 6: Marriage &amp; War</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_769ea8f6b22bf3c59e4212934f7a8850" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_b33f09cf12bda699b5e27d21d705c77e" parent="aspace_769ea8f6b22bf3c59e4212934f7a8850" type="folder">17</container>
+              </did>
+            </c>
+            <c id="aspace_ref32" level="file">
+              <did>
+                <unittitle>Chapter 7: Nov 7, 1917</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_61f12bfe1f1ef224f645d879e869202d" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_9ea44f46a8cf8ae0a928a924d3c91f0d" parent="aspace_61f12bfe1f1ef224f645d879e869202d" type="folder">18</container>
+              </did>
+            </c>
+            <c id="aspace_ref33" level="file">
+              <did>
+                <unittitle>Chapter 8: Getting Reputation</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_2fd1daabd84b66a531c5d44f14801c9d" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_cdb9149375f2a073c2e3aa58f06313a5" parent="aspace_2fd1daabd84b66a531c5d44f14801c9d" type="folder">19</container>
+              </did>
+            </c>
+            <c id="aspace_ref34" level="file">
+              <did>
+                <unittitle>Chapter 9: Unrest</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_4d04145c6abab2eca06574f439ee00a1" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_49608bc8025dbbda73f72a25bd947dac" parent="aspace_4d04145c6abab2eca06574f439ee00a1" type="folder">20</container>
+              </did>
+            </c>
+            <c id="aspace_ref35" level="file">
+              <did>
+                <unittitle>Chapter 10: Red Special</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_133ccd1214b05e847f25491964b9c96d" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_b29bf6bffb42e83a27c1b85099b377b4" parent="aspace_133ccd1214b05e847f25491964b9c96d" type="folder">21</container>
+              </did>
+            </c>
+            <c id="aspace_ref36" level="file">
+              <did>
+                <unittitle>Chapter 11: Omsk Mutiny</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_145b5018b936ecb51dfe4510574c2a64" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_36043338c80e293506200329c352c1d7" parent="aspace_145b5018b936ecb51dfe4510574c2a64" type="folder">22</container>
+              </did>
+            </c>
+            <c id="aspace_ref37" level="file">
+              <did>
+                <unittitle>Chapter 12: Soviet Bureau</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_6f4df44927d2024f0576c6a9c6129469" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_01682b0f9e0cec8b623a2dae4a280c5c" parent="aspace_6f4df44927d2024f0576c6a9c6129469" type="folder">23</container>
+              </did>
+            </c>
+            <c id="aspace_ref38" level="file">
+              <did>
+                <unittitle>Chapter 13: Palmer's Putsch</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_ae6b5e96b808dec676dc6a484c2c2ad5" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_05c89f2da7e24de3ff8e200b2f993098" parent="aspace_ae6b5e96b808dec676dc6a484c2c2ad5" type="folder">24</container>
+              </did>
+            </c>
+            <c id="aspace_ref39" level="file">
+              <did>
+                <unittitle>Chapter 14: Groans From Omsk</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_5b911ee80e27029073f8e9a203927290" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_07bc1be0178b62b64d22e1d4af31bf0d" parent="aspace_5b911ee80e27029073f8e9a203927290" type="folder">25</container>
+              </did>
+            </c>
+            <c id="aspace_ref40" level="file">
+              <did>
+                <unittitle>Chapter 15: The Most Cross Examined Man</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_2dca828b66c8c1114962f884ec9896e5" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_27581873d564c1bbe73b395e346a7848" parent="aspace_2dca828b66c8c1114962f884ec9896e5" type="folder">26</container>
+              </did>
+            </c>
+            <c id="aspace_ref41" level="file">
+              <did>
+                <unittitle>Chapter 17: Genoa</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_6330334692d1ddfe4b5f2a6fb932c2fa" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_e179a9d3753fe2bebefd99d10e06e0e4" parent="aspace_6330334692d1ddfe4b5f2a6fb932c2fa" type="folder">27</container>
+              </did>
+            </c>
+            <c id="aspace_ref42" level="file">
+              <did>
+                <unittitle>Chapter 18: Russian Volunteer Fleet</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_b905496a514ad1cf46763c57cbbb7fb9" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_02d58674615b4243b10529c80e95244e" parent="aspace_b905496a514ad1cf46763c57cbbb7fb9" type="folder">28</container>
+              </did>
+            </c>
+            <c id="aspace_ref43" level="file">
+              <did>
+                <unittitle>Chapter 19: Eastward From Paris</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_9895ceeb4ed39566abfa95b699ad2648" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_ebd412fefac2eae9397e2a45d2fe008c" parent="aspace_9895ceeb4ed39566abfa95b699ad2648" type="folder">29</container>
+              </did>
+            </c>
+            <c id="aspace_ref44" level="file">
+              <did>
+                <unittitle>Chapter 20: Litvinoff and Recognition</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_b17dd4fc2dd5f447d711e06fdf87c130" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_ee298ee9b458e5dc9527cd31b3cf4f8b" parent="aspace_b17dd4fc2dd5f447d711e06fdf87c130" type="folder">30</container>
+              </did>
+            </c>
+            <c id="aspace_ref45" level="file">
+              <did>
+                <unittitle>Chapter, Unnumbered: Biro-Bidjan</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_d66a6ad80f1312e033e7d7035415d9d2" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_a62f0df91cb8280744122459eedbafca" parent="aspace_d66a6ad80f1312e033e7d7035415d9d2" type="folder">31</container>
+              </did>
+            </c>
+            <c id="aspace_ref46" level="file">
+              <did>
+                <unittitle>Miscellaneous Autobiographical Fragments</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_51016ab920fe1f9e55b2ae31cf2b5a4e" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_24398223b3d19b6f38972e4be340ba1d" parent="aspace_51016ab920fe1f9e55b2ae31cf2b5a4e" type="folder">32</container>
+              </did>
+            </c>
+            <c id="aspace_ref47" level="file">
+              <did>
+                <unittitle>Publishing Correspondence</unittitle>
+                <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+                <container altrender="Record carton" id="aspace_36aac8a0ca02d2a5898c26ba4284d668" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_915cc2a44b9063f1f0d0f0adac1766b1" parent="aspace_36aac8a0ca02d2a5898c26ba4284d668" type="folder">33</container>
+              </did>
+            </c>
+          </c>
+          <c id="aspace_ref48" level="subseries">
+            <did>
+              <unittitle>Sub-subseries 2: Other Unpublished Writings</unittitle>
+              <unitdate normal="1907/1947" type="inclusive">undated, 1907-1947</unitdate>
+            </did>
+            <c id="aspace_ref49" level="file">
+              <did>
+                <unittitle>
+                  <title render="italic">The Bohemian in America</title>
+                </unittitle>
+                <unitdate normal="1907/1907" type="inclusive">1907</unitdate>
+                <container altrender="Record carton" id="aspace_b6b29081482b551ba65ee442aa44da0f" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_e356fda7fe71d00a8ea7445a0fabce75" parent="aspace_b6b29081482b551ba65ee442aa44da0f" type="folder">34</container>
+              </did>
+            </c>
+            <c id="aspace_ref50" level="file">
+              <did>
+                <unittitle>Fiction: "Ernest Strohman?"</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_95e7efec804d6653d4e0980e76269add" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_1c10d65e7757477f8779f224d358de9f" parent="aspace_95e7efec804d6653d4e0980e76269add" type="folder">35</container>
+              </did>
+            </c>
+            <c id="aspace_ref51" level="file">
+              <did>
+                <unittitle>Non-Fiction</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_1b675872045b28999b70779cd601da29" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_c7d20c77901302382166a5babc805484" parent="aspace_1b675872045b28999b70779cd601da29" type="folder">36</container>
+              </did>
+            </c>
+            <c id="aspace_ref52" level="file">
+              <did>
+                <unittitle>Play (untitled fragment, set in ancient Near East)</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_20ed9067b64b0f0874a8451274b03449" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_0c77036175f0927506d2b8c2a609636f" parent="aspace_20ed9067b64b0f0874a8451274b03449" type="folder">37</container>
+              </did>
+            </c>
+            <c id="aspace_ref53" level="file">
+              <did>
+                <unittitle>Play (untitled fragment, set in Europe, circa 18th-19th century)</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_391cd431c7691670a0e78f56970feba1" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_f23aa897c00f710ebc700396ef650958" parent="aspace_391cd431c7691670a0e78f56970feba1" type="folder">38</container>
+              </did>
+            </c>
+            <c id="aspace_ref54" level="file">
+              <did>
+                <unittitle>Poetry</unittitle>
+                <unitdate normal="1907/1976" type="inclusive">undated</unitdate>
+                <container altrender="Record carton" id="aspace_9eb6522b4dcdbf779a7fe1eddb018bca" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_0711a2e70d3f6fc65646b2fb294ad5d1" parent="aspace_9eb6522b4dcdbf779a7fe1eddb018bca" type="folder">39</container>
+              </did>
+            </c>
+            <c id="aspace_ref55" level="file">
+              <did>
+                <unittitle><title render="italic">Selector H. One</title> (variant "1")</unittitle>
+                <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+                <container altrender="Record carton" id="aspace_8c95d29d4a7cb5fcc292775e5e1a7181" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_a73f2711e4706bb0988707fdcfb06e6c" parent="aspace_8c95d29d4a7cb5fcc292775e5e1a7181" type="folder">40</container>
+              </did>
+            </c>
+            <c id="aspace_ref56" level="file">
+              <did>
+                <unittitle><title render="italic">Selector H. One</title> (variant "2")</unittitle>
+                <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+                <container altrender="Record carton" id="aspace_623b9e06ff6d496157bd65c8ecbbd09c" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_55b6cd683fc3152e2557cee022ece285" parent="aspace_623b9e06ff6d496157bd65c8ecbbd09c" type="folder">41</container>
+              </did>
+            </c>
+            <c id="aspace_ref57" level="file">
+              <did>
+                <unittitle><title render="italic">Selector H. One</title> (variant "3")</unittitle>
+                <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+                <container altrender="Record carton" id="aspace_b93e808f56375fec9aeb24b9cc641cd4" label="Mixed Materials [31142062730422]" type="box">1</container>
+                <container id="aspace_d8c34a12e77035bda33d46fb1d4e9041" parent="aspace_b93e808f56375fec9aeb24b9cc641cd4" type="folder">42</container>
+              </did>
+            </c>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

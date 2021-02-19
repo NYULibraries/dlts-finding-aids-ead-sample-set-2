@@ -1,73 +1,873 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>alba_027</eadid><filedesc><titlestmt><titleproper>Guide to the African Americans in the Spanish Civil War: Christopher Brooks Research Files <num>ALBA.027</num></titleproper><author>Steven Essig, 2006</author></titlestmt><editionstmt><p>This version was derived from African-Americans in the SCW ALBA #27.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:34:21 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>African Americans in the Spanish Civil War: Christopher Brooks Research Files</unittitle>
-    <origination label="Creator">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid>alba_027</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the African Americans in the Spanish Civil War: Christopher Brooks Research Files <num>ALBA.027</num></titleproper>
+        <author>Steven Essig, 2006</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from African-Americans in the SCW ALBA #27.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:34:21 -0500</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>African Americans in the Spanish Civil War: Christopher Brooks Research Files</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Brooks, Christopher T.</persname>
+      </origination>
+      <unitid>ALBA.027</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+        <extent altrender="carrier">(2 boxes)</extent>
+      </physdesc>
+      <unitdate normal="1930/1994" type="inclusive">1930-1994</unitdate>
+      <abstract id="aspace_30e93eb5844003e127c19031730b8df2">Christopher Brooks was a graduate student at Old Dominion University in Norfolk, Virginia, who in 1993 began research on a thesis project chronicling African Americans who fought on the side of the Republican government in the Spanish Civil War. As part of that research, he sent out survey forms, along with a request for any additional information, to other surviving volunteers of that struggle who had fought in either American, British or Canadian brigades. He hoped that their memories of specific African-American fighters, including their military and political histories and any other personal details, would add greater depth to the portraits already published in the volume, edited by Danny Duncan Collum and researched by Victor Berch, entitled <title render="italic">African Americans in the Spanish Civil War: "This Ain't Ethiopia but It'll Do" </title> (G.K. Hall and Co., 1992). This collection consists of descriptive material on the project and responses from the veterans (and spouses) who replied.</abstract>
+      <langmaterial id="aspace_4e32cc5fcfdac2f32dc0f8bc045da040">Materials are in English.</langmaterial>
+    </did>
+    <custodhist id="aspace_ac3ff10b458b48967330281aabc014b7">
+      <head>Provenance</head>
+      <p>The collection African-Americans in the Spanish Civil War: Christopher Brooks Research Files came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>
+    </custodhist>
+    <accessrestrict id="aspace_0504b91cc37c1a5d44e1a7b04991f004">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </accessrestrict>
+    <bioghist id="aspace_385e92dfe406ecd8f40c6f1475e431cf">
+      <head>Historical/Biographical Note</head>
+      <p>Christopher T. Brooks was a graduate student at Old Dominion University in Norfolk, Virginia, who planned to write a thesis on African Americans who fought in the Spanish Civil War. Having read the work of Danny Collum and Victor A. Berch, <title render="italic">African Americans in the Spanish Civil War: "This Ain't Ethiopia but It'll Do,"</title> published under the auspices of the Abraham Lincoln Brigade Archives in 1992, he felt that there was still more information that could be collected concerning the lives and activities of these particular volunteers. In 1993, in an effort to obtain this information, he obtained lists of surviving American, British and Canadian volunteers of that conflict from veterans' organizations in each of these nations, hoping he would be able to jog their memories further for recollections of particular African-American fighters. </p>
+      <p>Brooks then sent out several general survey forms to each volunteer on these lists, along with requests for additional specific information regarding their recollections of African-American volunteers. He kept the originals and also made copies of all replies received, including research-related correspondence and enclosed photographs, compiling them into the two series of folders making up this collection. There is no evidence in the collection of what the ultimate product of this research was. At this writing Brooks is working on a comprehensive biographical database of all U.S. volunteers.</p>
+    </bioghist>
+    <scopecontent id="aspace_031ff0e0c11ba5c7467931b205d2ff40">
+      <head>Scope and Content Note</head>
+      <p><emph render="bold">Series I: National Files and General Materials</emph>, consists of a general introduction to the project for the veterans organizations and volunteers that Brooks contacted, along with photocopies of their responses. In each case, the volunteers (or in some cases, spouses of volunteers) that Brooks contacted were not themselves African Americans; they were simply asked to contribute their memories or recollections of any African Americans they (or their spouses) encountered in Spain or knew thereafter. There are two folders for each nation: the U.S., Great Britain, and Canada, followed by two folders containing related reference materials, mostly general correspondence, photocopies of photos of particular African-American volunteers, and reference photos. </p>
+      <p>The two folders per nation are each arranged in the same way: the first smaller folder contains a table of contents listing each of the volunteers successfully contacted and the page numbers for their response. It also indicates which veterans Brooks was unable to contact by mail, or whom he reached in other ways (telephone or personal contacts are sometimes mentioned, but transcripts of these are not included in the collection). Finally, the U.S and British introductory folders contain an "Index to African American Volunteers." The second national folder contains photocopies of the volunteers' responses (the originals are in Series II). Particularly useful here are the indexes to African-American volunteers mentioned by Brooks' respondents. </p>
+      <p><emph render="bold">Series II: Individual Biographical Files</emph>, contains the originals of the responses that Brooks received, in this case with a separate folder for each respondent, again arranged alphabetically, and not separated by national brigade. The responses often consist solely of short answers on the questionnaire form sent by Brooks, but several volunteers (including Steve Nelson, Hilda Roberts and Bill Wheeler) added rather lengthy personal letters, with detailed memories and vignettes. Others, such as Michalakis Economides, attached historical materials, concerning either themselves or other volunteers that they knew. </p>
+    </scopecontent>
+    <arrangement id="aspace_8411b1f2dec9a3f42f7758ec89af02c0">
+      <head>Arrangement</head>
+      <p>Series I contains separate tables of contents and indexes for each of the three national groups of volunteers, whose responses to Brooks' queries are arranged alphabetically within one folder for each nation. Series II is arranged alphabetically for all the volunteers who replied, regardless of national background. </p>
+      <p>The files are grouped into 2 series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I. National Files and General Materials</item>
+        <item>II. Individual Biographical Files</item>
+      </list>
+    </arrangement>
+    <relatedmaterial id="aspace_3f293a931cb3e3c5e2836184bf8dd552">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>ALBA collections at the Tamiment Library.</p>
+    </relatedmaterial>
+    <prefercite id="aspace_ac4f1221c2e4b726dbe9fd0f095de9ab">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <userestrict id="aspace_02b9ba31d1e8f05c50b4703ca6ccce27">
+      <head>Use Restrictions</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Biography files.</genreform>
+      <genreform source="aat">Articles.</genreform>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Research (document genres).</genreform>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Women.</geogname>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Hospitals.</geogname>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Biography</geogname>
+      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- African Americans</geogname>
+      <corpname source="naf">Spain. Ejército Popular de la República. British Battalion</corpname>
+      <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
+      <corpname source="naf">Spain. Ejercito Popular de la Republica. MacKenzie-Papineau Battalion</corpname>
+      <corpname source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
+      <corpname source="naf">North American Committee to Aid Spanish Democracy</corpname>
+      <corpname source="naf">Medical Bureau and North American Committee to Aid Spanish Democracy</corpname>
+      <corpname source="naf">Spain. Ejército Popular de la República. Brigada Internacional, XV -- biography.</corpname>
+      <corpname source="naf">Medical Bureau to Aid Spanish Democracy</corpname>
       <persname rules="dacs" source="local">Brooks, Christopher T.</persname>
-    </origination>
-    <unitid>ALBA.027</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-      <extent altrender="carrier">(2 boxes)</extent>
-    </physdesc>
-    <unitdate normal="1930/1994" type="inclusive">1930-1994</unitdate>
-    <abstract id="aspace_30e93eb5844003e127c19031730b8df2">Christopher Brooks was a graduate student at Old Dominion University in Norfolk, Virginia, who in 1993 began research on a thesis project chronicling African Americans who fought on the side of the Republican government in the Spanish Civil War. As part of that research, he sent out survey forms, along with a request for any additional information, to other surviving volunteers of that struggle who had fought in either American, British or Canadian brigades. He hoped that their memories of specific African-American fighters, including their military and political histories and any other personal details, would add greater depth to the portraits already published in the volume, edited by Danny Duncan Collum and researched by Victor Berch, entitled <title render="italic">African Americans in the Spanish Civil War: "This Ain't Ethiopia but It'll Do" </title> (G.K. Hall and Co., 1992). This collection consists of descriptive material on the project and responses from the veterans (and spouses) who replied.</abstract>
-    <langmaterial id="aspace_4e32cc5fcfdac2f32dc0f8bc045da040">Materials are in English.</langmaterial>
-  </did>
-  <custodhist id="aspace_ac3ff10b458b48967330281aabc014b7">
-    <head>Provenance</head>
-<p>The collection African-Americans in the Spanish Civil War: Christopher Brooks Research Files came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>  </custodhist>
-  <accessrestrict id="aspace_0504b91cc37c1a5d44e1a7b04991f004">
-    <head>Access Restrictions</head>
-<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
-  <bioghist id="aspace_385e92dfe406ecd8f40c6f1475e431cf">
-    <head>Historical/Biographical Note</head>
-<p>Christopher T. Brooks was a graduate student at Old Dominion University in Norfolk, Virginia, who planned to write a thesis on African Americans who fought in the Spanish Civil War. Having read the work of Danny Collum and Victor A. Berch, <title render="italic">African Americans in the Spanish Civil War: "This Ain't Ethiopia but It'll Do,"</title> published under the auspices of the Abraham Lincoln Brigade Archives in 1992, he felt that there was still more information that could be collected concerning the lives and activities of these particular volunteers. In 1993, in an effort to obtain this information, he obtained lists of surviving American, British and Canadian volunteers of that conflict from veterans' organizations in each of these nations, hoping he would be able to jog their memories further for recollections of particular African-American fighters. </p><p>Brooks then sent out several general survey forms to each volunteer on these lists, along with requests for additional specific information regarding their recollections of African-American volunteers. He kept the originals and also made copies of all replies received, including research-related correspondence and enclosed photographs, compiling them into the two series of folders making up this collection. There is no evidence in the collection of what the ultimate product of this research was. At this writing Brooks is working on a comprehensive biographical database of all U.S. volunteers.</p>  </bioghist>
-  <scopecontent id="aspace_031ff0e0c11ba5c7467931b205d2ff40">
-    <head>Scope and Content Note</head>
-<p><emph render="bold">Series I: National Files and General Materials</emph>, consists of a general introduction to the project for the veterans organizations and volunteers that Brooks contacted, along with photocopies of their responses. In each case, the volunteers (or in some cases, spouses of volunteers) that Brooks contacted were not themselves African Americans; they were simply asked to contribute their memories or recollections of any African Americans they (or their spouses) encountered in Spain or knew thereafter. There are two folders for each nation: the U.S., Great Britain, and Canada, followed by two folders containing related reference materials, mostly general correspondence, photocopies of photos of particular African-American volunteers, and reference photos. </p><p>The two folders per nation are each arranged in the same way: the first smaller folder contains a table of contents listing each of the volunteers successfully contacted and the page numbers for their response. It also indicates which veterans Brooks was unable to contact by mail, or whom he reached in other ways (telephone or personal contacts are sometimes mentioned, but transcripts of these are not included in the collection). Finally, the U.S and British introductory folders contain an "Index to African American Volunteers." The second national folder contains photocopies of the volunteers' responses (the originals are in Series II). Particularly useful here are the indexes to African-American volunteers mentioned by Brooks' respondents. </p><p><emph render="bold">Series II: Individual Biographical Files</emph>, contains the originals of the responses that Brooks received, in this case with a separate folder for each respondent, again arranged alphabetically, and not separated by national brigade. The responses often consist solely of short answers on the questionnaire form sent by Brooks, but several volunteers (including Steve Nelson, Hilda Roberts and Bill Wheeler) added rather lengthy personal letters, with detailed memories and vignettes. Others, such as Michalakis Economides, attached historical materials, concerning either themselves or other volunteers that they knew. </p>  </scopecontent>
-  <arrangement id="aspace_8411b1f2dec9a3f42f7758ec89af02c0">
-    <head>Arrangement</head>
-<p>Series I contains separate tables of contents and indexes for each of the three national groups of volunteers, whose responses to Brooks' queries are arranged alphabetically within one folder for each nation. Series II is arranged alphabetically for all the volunteers who replied, regardless of national background. </p><p>The files are grouped into 2 series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>I. National Files and General Materials</item>
-      <item>II. Individual Biographical Files</item>
-    </list>
-  </arrangement>
-  <relatedmaterial id="aspace_3f293a931cb3e3c5e2836184bf8dd552">
-    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-<p>ALBA collections at the Tamiment Library.</p>  </relatedmaterial>
-  <prefercite id="aspace_ac4f1221c2e4b726dbe9fd0f095de9ab">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <userestrict id="aspace_02b9ba31d1e8f05c50b4703ca6ccce27">
-    <head>Use Restrictions</head>
-<p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
-  <controlaccess>
-    <genreform source="aat">Biography files.</genreform>
-    <genreform source="aat">Articles.</genreform>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Research (document genres).</genreform>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Women.</geogname>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Hospitals.</geogname>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Biography</geogname>
-    <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- African Americans</geogname>
-    <corpname source="naf">Spain. Ejército Popular de la República. British Battalion</corpname>
-    <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
-    <corpname source="naf">Spain. Ejercito Popular de la Republica. MacKenzie-Papineau Battalion</corpname>
-    <corpname source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
-    <corpname source="naf">North American Committee to Aid Spanish Democracy</corpname>
-    <corpname source="naf">Medical Bureau and North American Committee to Aid Spanish Democracy</corpname>
-    <corpname source="naf">Spain. Ejército Popular de la República. Brigada Internacional, XV -- biography.</corpname>
-    <corpname source="naf">Medical Bureau to Aid Spanish Democracy</corpname>
-    <persname rules="dacs" source="local">Brooks, Christopher T.</persname>
-    <corpname source="naf">Abraham Lincoln Brigade Archives</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref15" level="series"><did><unittitle>Series I: National Files and General Materials.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref16" level="file"><did><unittitle>American Volunteers: Table of Contents (ToC) and Index of African Americans</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_f60776bf143fd1d730fcad5691735754" label="Mixed Materials [31142062721058]" type="box">1</container><container id="aspace_cc7c5dbd40b152d626aa0282c0a00afd" parent="aspace_f60776bf143fd1d730fcad5691735754" type="folder">1</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>American Survey Results, Related Materials</unittitle><unitdate normal="1940/1994" type="inclusive">1940s-1950s , 1970s , 1993-1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_b418d09a9f5cb53defbffdf54a694cf5" label="Mixed Materials [31142062721058]" type="box">1</container><container id="aspace_3ebd5acce7a60ff34226669f2f735d54" parent="aspace_b418d09a9f5cb53defbffdf54a694cf5" type="folder">2</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>British Volunteers: ToC and Index of African Americans</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_7ed606d225ee591ca7337cc64bb97123" label="Mixed Materials [31142062721058]" type="box">1</container><container id="aspace_9bc054ad92fd43034171f8831687700f" parent="aspace_7ed606d225ee591ca7337cc64bb97123" type="folder">3</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>British Survey Results</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_788dd6b3aa649cfa958c24554dd4e4f4" label="Mixed Materials [31142062721058]" type="box">1</container><container id="aspace_084975aa5339e62c07d439d7c12913e2" parent="aspace_788dd6b3aa649cfa958c24554dd4e4f4" type="folder">4</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Canadian Volunteers ToC</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_d975308217ce6d33bee4b1165f75e43c" label="Mixed Materials [31142062721058]" type="box">1</container><container id="aspace_a55ec070539b244ba719ee45961f10ce" parent="aspace_d975308217ce6d33bee4b1165f75e43c" type="folder">5</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Canadian Survey Results</unittitle><unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_f54c8db848ddaf3a6a24daad3994b178" label="Mixed Materials [31142062721058]" type="box">1</container><container id="aspace_bc49e57f1380d4ec634aece2f9b2f743" parent="aspace_f54c8db848ddaf3a6a24daad3994b178" type="folder">6</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>General Research Materials</unittitle><unitdate normal="1930/1993" type="inclusive">1930s , 1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_be7c9321737fa3383094294df10071b6" label="Mixed Materials [31142062721058]" type="box">1</container><container id="aspace_42d408990f54f0ea0c561b10eba28cf0" parent="aspace_be7c9321737fa3383094294df10071b6" type="folder">7</container></did></c><c id="aspace_ref111" level="file"><did><unittitle>Reference Photographs (copy prints) including Paul Williams, Ed Pierson, Walter Dicks, Carlos Brunswick, Alberto Aybar, Yusto Sully, and Jim Peck</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_86a857841ed3d7ff2389572a9427a390" label="photographs [31142062721058]" type="box">1</container><container id="aspace_d91fc0cf3ba71cde35ff2136df778283" parent="aspace_86a857841ed3d7ff2389572a9427a390" type="folder">8</container></did></c></c><c id="aspace_ref23" level="series"><did><unittitle>Series II: Individual Biographical Files.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref24" level="file"><did><unittitle>Alexander, William</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_1f8b2e78739f34e59ce4c47ab9c8c9d0" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_343ad792e4a10993262a7a10dc318f0b" parent="aspace_1f8b2e78739f34e59ce4c47ab9c8c9d0" type="folder">1</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Alper, Marcus</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_aa2dfac39ee45cc184e69ee97c0fd5ef" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_d9b315acb64770bdb4ce29e35b157643" parent="aspace_aa2dfac39ee45cc184e69ee97c0fd5ef" type="folder">2</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Alpert, Anthony</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_bb2e99f2d304935598601a0465c91b7e" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_4a214467ac029559773694a440c01164" parent="aspace_bb2e99f2d304935598601a0465c91b7e" type="folder">3</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Amerey, Alfred</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_3e85dffb2e44396c84acd6626ba49c3c" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_fcf70b05b40600080411e8c6dc9c4688" parent="aspace_3e85dffb2e44396c84acd6626ba49c3c" type="folder">4</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Amsbury, Clifton</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_a2190a160e204bd71e185a18c0e77924" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_22a6c910ba89a9af58fa45450f437c86" parent="aspace_a2190a160e204bd71e185a18c0e77924" type="folder">5</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Anderson, Doris</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_471a48b370e08ddb0280dafecbc9a1c9" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_f7a6c8ad5a296c5e5c1e74fc360a7af5" parent="aspace_471a48b370e08ddb0280dafecbc9a1c9" type="folder">6</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Bailey, Bill</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_2ec0705f51b18144f752dd3eed0d5228" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_f4edc5095bbb1aa48907b0065e580e36" parent="aspace_2ec0705f51b18144f752dd3eed0d5228" type="folder">7</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Baley, Bernard</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_42f844da21285291c6df16a14fe006ca" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_fed0a2a38e4fe9e7defcfbc1c26d5393" parent="aspace_42f844da21285291c6df16a14fe006ca" type="folder">8</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Benet, James</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_315fa80ceb7b8dc8a63f80a9b5f18e41" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_cd88b17361e58be2ba85e769249c0de2" parent="aspace_315fa80ceb7b8dc8a63f80a9b5f18e41" type="folder">9</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Berg, Delmer</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_408a230c503459a053f6ec30952a56bb" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_2b10b6b1cdd9ef0b1c43bddf9d97fd96" parent="aspace_408a230c503459a053f6ec30952a56bb" type="folder">10</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Berkowitz, Norman Nathan</unittitle><unitdate normal="1930/1994" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d939482711d819494f6cd8c82a1c0c6e" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_da0188a4c198e4884b7d856f28563564" parent="aspace_d939482711d819494f6cd8c82a1c0c6e" type="folder">11</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Birnbaum, Saul</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_4e5a4a30dee13e2ac749c8421d613863" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_91d29f53736cae1fa17fe08c7c43bc53" parent="aspace_4e5a4a30dee13e2ac749c8421d613863" type="folder">12</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Bjoze, Jack</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_5cc37e46f5217e338819fac7f0c63616" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_19f58eacbcf24834f5760da3d31b0612" parent="aspace_5cc37e46f5217e338819fac7f0c63616" type="folder">13</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Chesler, Hyman Frank</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_7a0a032abea1a4f9ca829735db465baa" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_5394db0657f713a450c70c2c0bee8111" parent="aspace_7a0a032abea1a4f9ca829735db465baa" type="folder">14</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Clement, Erich (aka Klementschitz)</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_1bedc62de5b16bc3b778d804c854940c" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_a3903f29717a8429b09c384c5f329f95" parent="aspace_1bedc62de5b16bc3b778d804c854940c" type="folder">15</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Colin, Max</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_a567448d3a69d18c9d63467a3222cc24" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_709e9173ce5d5fff453d497d578208b6" parent="aspace_a567448d3a69d18c9d63467a3222cc24" type="folder">16</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Colodny, Robert</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_9a3720be8b161b135e445649c26db0ee" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_d86caa7d79b693a9da389d4eb438b69a" parent="aspace_9a3720be8b161b135e445649c26db0ee" type="folder">17</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Crome, Len</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_ddbb0d5d4f9e7b93d087ab2e507532df" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_1284e3c3295f5d90cfb15a832d7338df" parent="aspace_ddbb0d5d4f9e7b93d087ab2e507532df" type="folder">18</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Cullinen, George</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_bfd52299d2897bb7edaf3c9c29d86a0a" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_e1ff7a8799055f06620c1ab0f6bf1087" parent="aspace_bfd52299d2897bb7edaf3c9c29d86a0a" type="folder">19</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Dunlop, John</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_98fdbc28f12de0c171e40a80ed245b6f" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_a7a5c524d77abe05ba559c83f034d363" parent="aspace_98fdbc28f12de0c171e40a80ed245b6f" type="folder">20</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Economides, Michalakis</unittitle><unitdate normal="1987/1993" type="inclusive">1987 , 1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_f8b66d91116646ff473d666fe977f2b9" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_297a91e8deedc289d13ef524523f96d3" parent="aspace_f8b66d91116646ff473d666fe977f2b9" type="folder">21</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Edney, Patience (Darton)</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_29409453fd55c0f5968e628e29d814e8" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_f247612d1f6b639658a59fc010e9415b" parent="aspace_29409453fd55c0f5968e628e29d814e8" type="folder">22</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Ewen, Bruce</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_15856b8a3b4bcb6f2496051a2394a5c5" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_c57c8b726396cd37c552998a56c10097" parent="aspace_15856b8a3b4bcb6f2496051a2394a5c5" type="folder">23</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Geiser, Carl</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_4fa1bbd62e83cc5601ad9742c09e1ab0" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_5ff5c38a23a9b3a7846f4aa2f86c28c6" parent="aspace_4fa1bbd62e83cc5601ad9742c09e1ab0" type="folder">24</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Glenn, Joseph C</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_63d2fc9d8fd8f491e0056bc9a85eb4de" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_b1ed5a2092367e1efccc19daa2812fc6" parent="aspace_63d2fc9d8fd8f491e0056bc9a85eb4de" type="folder">25</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Goldstein, Maynard</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_834bef0675ecd611b04831518e94c0ea" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_09e95ced4fa3b9aeed1565a1fa8cf299" parent="aspace_834bef0675ecd611b04831518e94c0ea" type="folder">26</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Gordon, Louis</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_cdc57bea9a11291ce7540216c5040dcf" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_fcd736f27407a2c5cd1129aa815d17f4" parent="aspace_cdc57bea9a11291ce7540216c5040dcf" type="folder">27</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Graham, Frank</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_274172ba8c871d5c74ff9efe95c5e130" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_bea2cd60b5ec8c05914f37a28fe92aec" parent="aspace_274172ba8c871d5c74ff9efe95c5e130" type="folder">28</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Grenier, Amedee</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_4b2a2e6412a6e4634c07db90f39f6b2e" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_d6fa16034a59f9c87b17c95c9b9b9f53" parent="aspace_4b2a2e6412a6e4634c07db90f39f6b2e" type="folder">29</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Hormess, Alexander H.</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_515a1d3da8a005b1f4d4e00593cf9b43" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_99ee5532c224c8ae60236d9dad071237" parent="aspace_515a1d3da8a005b1f4d4e00593cf9b43" type="folder">30</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Kordash, W. A.</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_6831bc9cacf277c976a2ed35efa4b84b" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_0f1134572beef29ae2f867b164736f94" parent="aspace_6831bc9cacf277c976a2ed35efa4b84b" type="folder">31</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Katzman, Eleanor</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_6dd3d4c9bfeda9db2f515e8a68f7b59d" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_45fdf73b008f2f84ad77579d55934490" parent="aspace_6dd3d4c9bfeda9db2f515e8a68f7b59d" type="folder">32</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Kaufman, Sidney</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_68b736eec09188ee81cef9599d11c9e0" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_9b19588d8782561dafee795b0f73c91c" parent="aspace_68b736eec09188ee81cef9599d11c9e0" type="folder">33</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Keenan, Thomas</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_ca4d4d121dae640b8b6fe6e2b3e634f9" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_6c62d971f66b8822112459d907969e93" parent="aspace_ca4d4d121dae640b8b6fe6e2b3e634f9" type="folder">34</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Keir, Duncan</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_8f32eda4699dc1e87b0b0b0452d1b42f" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_42c9aaae704ccb1398b2057bfed84d42" parent="aspace_8f32eda4699dc1e87b0b0b0452d1b42f" type="folder">35</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Kovacs, Steve</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_66e6e4fb5552dad57ef1323a71386c1e" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_94c4b98f8992d39dc9c0b1f521df9c22" parent="aspace_66e6e4fb5552dad57ef1323a71386c1e" type="folder">36</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Lamb, Leonard</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_2681582dec731c82986bb5d97469bc8c" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_9898cfc306c39b80e5e276fe60760e98" parent="aspace_2681582dec731c82986bb5d97469bc8c" type="folder">37</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Lending, Edward</unittitle><unitdate normal="1992/1993" type="inclusive">1992-1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_aeb554a9b480d7da5b7c4115c1ef6a2b" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_d7bcf0aed937a21663cb1c92df373ddf" parent="aspace_aeb554a9b480d7da5b7c4115c1ef6a2b" type="folder">38</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Levenson, Leonard</unittitle><unitdate normal="1986/1993" type="inclusive">1986 , 1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_10d3e78642684fb0c2dbf934f1491959" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_49dbe0bf58fa07226b6c06ed30500a2c" parent="aspace_10d3e78642684fb0c2dbf934f1491959" type="folder">39</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Levine, Maurice</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_55a015052b6eca3711c8da820c213380" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_1100d6b263ae745cf8652cb49a5a246e" parent="aspace_55a015052b6eca3711c8da820c213380" type="folder">40</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Levine, Sidney</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_876c1df64172121f1ddaa7c75a8b0f4a" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_e44b7e29c247621029eae4369abdf854" parent="aspace_876c1df64172121f1ddaa7c75a8b0f4a" type="folder">41</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Longstaff, John</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_1d1e15b956637b2f3299dbbb23bd4df2" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_de23715f33c24f04ec8dd5cd070b8c75" parent="aspace_1d1e15b956637b2f3299dbbb23bd4df2" type="folder">42</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Lutka, Paul</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_9395ce71f678f32b7feae835ac6182d2" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_5dc38506e591c9f0730e593216a1b564" parent="aspace_9395ce71f678f32b7feae835ac6182d2" type="folder">43</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Marantz, Ms. Ray</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_f3382d0786d0bde96dcd723af6099d52" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_96b20c9b7cf9516f5828b647fbf4c388" parent="aspace_f3382d0786d0bde96dcd723af6099d52" type="folder">44</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Marzani, Carl</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_d109ec0c5e1d673adf1041e07f6dca6c" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_c4c4931f6bcee275b2ed62639f748820" parent="aspace_d109ec0c5e1d673adf1041e07f6dca6c" type="folder">45</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Matthews, William (aka Matvenko)</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_14696aa3d5485e605f47fcbea28de4ce" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_665d3776cc29235f16d47db66ff31288" parent="aspace_14696aa3d5485e605f47fcbea28de4ce" type="folder">46</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Morgan, Reginald</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_2e0425f3dc3da45c3fccb5d36f36abde" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_cdb9a9d67b303e6e7d5474bdbe986ace" parent="aspace_2e0425f3dc3da45c3fccb5d36f36abde" type="folder">47</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Munday, Arthur</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_dad47e23fe7b556d3bf109608c453bb5" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_8dacd0980530651109a0e2f393070b99" parent="aspace_dad47e23fe7b556d3bf109608c453bb5" type="folder">48</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Murra, John V.</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_068be0bfc71a4da26cf7c98e2158b526" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_7d57e095ba0bde5eaf66910502429ba6" parent="aspace_068be0bfc71a4da26cf7c98e2158b526" type="folder">49</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Nelson, Steve</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_493271ca51ee3c1ec733e5df49eee4a0" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_93fff24d3183fb2ed68999ce4bdf867f" parent="aspace_493271ca51ee3c1ec733e5df49eee4a0" type="folder">50</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Newman, Sol</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_dd6b2c78f007dac99f851cd8c43272c8" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_4897915ef90f2eef200f74a838420620" parent="aspace_dd6b2c78f007dac99f851cd8c43272c8" type="folder">51</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Nusser, Charles</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_dba2577f792aff85f39ee7c5bfd1ec0a" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_692a0a05a32fd66214aadfe84c70aaca" parent="aspace_dba2577f792aff85f39ee7c5bfd1ec0a" type="folder">52</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>O'Malley, Thomas</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_ad6d114a2fb730828047ba22434afdcb" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_27c702df04fab33519aa6b6a71fac756" parent="aspace_ad6d114a2fb730828047ba22434afdcb" type="folder">53</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Pacey, Marjorie</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_5036ae4937ecfefbff0ff0950fe4d1f8" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_0a510638e3f4c8363f95209511b32531" parent="aspace_5036ae4937ecfefbff0ff0950fe4d1f8" type="folder">54</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Penrod, John Arthur</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_14b06801aef93407a36a0270ac005b54" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_74083bdc4ab605b3739f47aaa1379a82" parent="aspace_14b06801aef93407a36a0270ac005b54" type="folder">55</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Perlman, Norman</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_6c340561585617edac6412027dffc134" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_fa5b779cbef81ced652df926f1cb811b" parent="aspace_6c340561585617edac6412027dffc134" type="folder">56</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Peters, Robert J.</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_576df2d56e00e25dfe46d46534fe3cf1" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_3a55d9aa1ec692659b8bbe89d63c5170" parent="aspace_576df2d56e00e25dfe46d46534fe3cf1" type="folder">57</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Prago, Albert</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_4cbb645a0f9b4599cfce53572794c210" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_8400a2622d52670125b096ac3e60b7d2" parent="aspace_4cbb645a0f9b4599cfce53572794c210" type="folder">58</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Ragner, Albin (aka Ragauskas)</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_0186da75fbebb10a093e001e7432c31e" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_4a74f0026d7fca224c76d1a65842acf9" parent="aspace_0186da75fbebb10a093e001e7432c31e" type="folder">59</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Reed, Robert L.</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_7354135a90963e95400919be85722f35" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_26c71efda33cc46223b86542fdcd27cc" parent="aspace_7354135a90963e95400919be85722f35" type="folder">60</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Reinleib, Harry</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_22d9530778f1b2a55f307f28979b8390" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_fdf6a45fbe2020615fc8c65179cafdb2" parent="aspace_22d9530778f1b2a55f307f28979b8390" type="folder">61</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Roberts, Hilda (Bell)</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_bf1e8eee54fe3a36a6be84d54d5d8d79" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_ff4887753442cf3c004f873237053925" parent="aspace_bf1e8eee54fe3a36a6be84d54d5d8d79" type="folder">62</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Robinson, John</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_5c3c4cff183b107723b922146ce02911" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_d226b5cc1b31c365f6a6e80d96c00180" parent="aspace_5c3c4cff183b107723b922146ce02911" type="folder">63</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>Rosenberg, Leon</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_d14bc89f4585f1099d923f4b443f4762" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_a197781232974a1020a0c47d71ad1254" parent="aspace_d14bc89f4585f1099d923f4b443f4762" type="folder">64</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Rosner, Hyman</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_bfaf2d2d86f9a00b19cb55878d73ba85" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_e9c9b41172c7ff079461bd35e8c47258" parent="aspace_bfaf2d2d86f9a00b19cb55878d73ba85" type="folder">65</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Rossen, John</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_53f903faa00db2b7053e79bdce7251ec" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_ca7e7d184b0fa04d0dd8f2e98c7bedbd" parent="aspace_53f903faa00db2b7053e79bdce7251ec" type="folder">66</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Rowlson, Lester</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_1bbb1df697f4b143e1059bd0aa9058a2" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_e175df2ad5b7bf3abc4cb70dd2402013" parent="aspace_1bbb1df697f4b143e1059bd0aa9058a2" type="folder">67</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Rubin, Henry</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_0ae947c8128859b8be38e0fae4e60c38" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_aa36bc038ebff745655dde110c983e32" parent="aspace_0ae947c8128859b8be38e0fae4e60c38" type="folder">68</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Saxton, Reg</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_4234654ef351ab2b5c60f6dcb570565d" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_633479428deb46f96741d7e2ac94b469" parent="aspace_4234654ef351ab2b5c60f6dcb570565d" type="folder">69</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>Sennett, William</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_0f721204acc8eabf1470e10be2c074b0" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_bbcde62e22a8a2f447a0fbabeefbfccd" parent="aspace_0f721204acc8eabf1470e10be2c074b0" type="folder">70</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>Sexton, Cyril A</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_5dcbba93ca8214c64198824e9b331c38" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_20ec7bfc9f58b756bb15f92a7ac63370" parent="aspace_5dcbba93ca8214c64198824e9b331c38" type="folder">71</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>Shaker, Kenneth</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_eb0a70ac83634a1cc10d7cd4401a05c1" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_4f960e399f14c1001c723cc9af01ed6f" parent="aspace_eb0a70ac83634a1cc10d7cd4401a05c1" type="folder">72</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>Skup, Paul</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_c42c2a9364a13fdfa52d23e7f1cf6071" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_ede8affa01bd4440f2f0f4cb26f1d9de" parent="aspace_c42c2a9364a13fdfa52d23e7f1cf6071" type="folder">73</container></did></c><c id="aspace_ref97" level="file"><did><unittitle>Smith, Chris</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_68d2e50732a198513a21bfae78f36769" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_46a5f1e426994559c6ae8970a5aedbb1" parent="aspace_68d2e50732a198513a21bfae78f36769" type="folder">74</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>Smith, David</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_c067de116c153f1bb30fe4fc28c87dbd" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_7b69d796f0289aa4c72f5da89cb5519c" parent="aspace_c067de116c153f1bb30fe4fc28c87dbd" type="folder">75</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Spiller, Samuel</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_7cf5911cc9f334cbb284a8440db06624" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_2d82fd9a677c08a29e76b9e6ed2e3cc7" parent="aspace_7cf5911cc9f334cbb284a8440db06624" type="folder">76</container></did></c><c id="aspace_ref100" level="file"><did><unittitle>Spinner, Ralph</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_9849bdddd886cfb8bb2f3071d83c7f53" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_28548ca26c9bb3807c65a2cbdc48428d" parent="aspace_9849bdddd886cfb8bb2f3071d83c7f53" type="folder">77</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>Tabb, Herbert (Hy)</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_04854e6381243be45c55580fcda02c90" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_79a7ac1b373eaadfb6c8bf5e1b36ca58" parent="aspace_04854e6381243be45c55580fcda02c90" type="folder">78</container></did></c><c id="aspace_ref102" level="file"><did><unittitle>Thornton, Nathan</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_a68fca8adb093ab511a9ee06c7034ffb" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_e5338ff31396ad1af9909f1257877333" parent="aspace_a68fca8adb093ab511a9ee06c7034ffb" type="folder">79</container></did></c><c id="aspace_ref103" level="file"><did><unittitle>Toney, Anthony</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_69cfe63171199b7b891c6f73ee7a0848" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_460f08f65448e9f8a15255a5d4c1c8ea" parent="aspace_69cfe63171199b7b891c6f73ee7a0848" type="folder">80</container></did></c><c id="aspace_ref104" level="file"><did><unittitle>Warren, Al</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_9d6cbdf7b6fe00d80c9667ef128208ef" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_17c48051371cb2fb62ba189e1c0ff8ed" parent="aspace_9d6cbdf7b6fe00d80c9667ef128208ef" type="folder">81</container></did></c><c id="aspace_ref105" level="file"><did><unittitle>Wheeler, William</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_a4fc384235d0cc57edbc28b883caf569" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_df1685f73c50f31bbc1c4e2b1032b12f" parent="aspace_a4fc384235d0cc57edbc28b883caf569" type="folder">82</container></did></c><c id="aspace_ref106" level="file"><did><unittitle>Wolff, Milton</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_d2b75fa21fc79c80f07934ae2ccda277" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_7a2a9ba22a7e1a151d64114cd7cace9b" parent="aspace_d2b75fa21fc79c80f07934ae2ccda277" type="folder">83</container></did></c><c id="aspace_ref107" level="file"><did><unittitle>Wolfson, Morton</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_577ba5e79a4932c508d19237de4fdd1a" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_079d987975830e30113d19e50c87c824" parent="aspace_577ba5e79a4932c508d19237de4fdd1a" type="folder">84</container></did></c><c id="aspace_ref108" level="file"><did><unittitle>Zaslovsky, Boris</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_d96be978f6fec2b891b6e6b4aaa60254" label="Mixed Materials [31142062721066]" type="box">2</container><container id="aspace_de039312b2f532531ad2e4b82feea6ef" parent="aspace_d96be978f6fec2b891b6e6b4aaa60254" type="folder">85</container></did></c></c></dsc>
-</archdesc>
+      <corpname source="naf">Abraham Lincoln Brigade Archives</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref15" level="series">
+        <did>
+          <unittitle>Series I: National Files and General Materials.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>American Volunteers: Table of Contents (ToC) and Index of African Americans</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f60776bf143fd1d730fcad5691735754" label="Mixed Materials [31142062721058]" type="box">1</container>
+            <container id="aspace_cc7c5dbd40b152d626aa0282c0a00afd" parent="aspace_f60776bf143fd1d730fcad5691735754" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>American Survey Results, Related Materials</unittitle>
+            <unitdate normal="1940/1994" type="inclusive">1940s-1950s , 1970s , 1993-1994</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b418d09a9f5cb53defbffdf54a694cf5" label="Mixed Materials [31142062721058]" type="box">1</container>
+            <container id="aspace_3ebd5acce7a60ff34226669f2f735d54" parent="aspace_b418d09a9f5cb53defbffdf54a694cf5" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>British Volunteers: ToC and Index of African Americans</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7ed606d225ee591ca7337cc64bb97123" label="Mixed Materials [31142062721058]" type="box">1</container>
+            <container id="aspace_9bc054ad92fd43034171f8831687700f" parent="aspace_7ed606d225ee591ca7337cc64bb97123" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>British Survey Results</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_788dd6b3aa649cfa958c24554dd4e4f4" label="Mixed Materials [31142062721058]" type="box">1</container>
+            <container id="aspace_084975aa5339e62c07d439d7c12913e2" parent="aspace_788dd6b3aa649cfa958c24554dd4e4f4" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Canadian Volunteers ToC</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d975308217ce6d33bee4b1165f75e43c" label="Mixed Materials [31142062721058]" type="box">1</container>
+            <container id="aspace_a55ec070539b244ba719ee45961f10ce" parent="aspace_d975308217ce6d33bee4b1165f75e43c" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Canadian Survey Results</unittitle>
+            <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f54c8db848ddaf3a6a24daad3994b178" label="Mixed Materials [31142062721058]" type="box">1</container>
+            <container id="aspace_bc49e57f1380d4ec634aece2f9b2f743" parent="aspace_f54c8db848ddaf3a6a24daad3994b178" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>General Research Materials</unittitle>
+            <unitdate normal="1930/1993" type="inclusive">1930s , 1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_be7c9321737fa3383094294df10071b6" label="Mixed Materials [31142062721058]" type="box">1</container>
+            <container id="aspace_42d408990f54f0ea0c561b10eba28cf0" parent="aspace_be7c9321737fa3383094294df10071b6" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Reference Photographs (copy prints) including Paul Williams, Ed Pierson, Walter Dicks, Carlos Brunswick, Alberto Aybar, Yusto Sully, and Jim Peck</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_86a857841ed3d7ff2389572a9427a390" label="photographs [31142062721058]" type="box">1</container>
+            <container id="aspace_d91fc0cf3ba71cde35ff2136df778283" parent="aspace_86a857841ed3d7ff2389572a9427a390" type="folder">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref23" level="series">
+        <did>
+          <unittitle>Series II: Individual Biographical Files.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Alexander, William</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1f8b2e78739f34e59ce4c47ab9c8c9d0" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_343ad792e4a10993262a7a10dc318f0b" parent="aspace_1f8b2e78739f34e59ce4c47ab9c8c9d0" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Alper, Marcus</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_aa2dfac39ee45cc184e69ee97c0fd5ef" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_d9b315acb64770bdb4ce29e35b157643" parent="aspace_aa2dfac39ee45cc184e69ee97c0fd5ef" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Alpert, Anthony</unittitle>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bb2e99f2d304935598601a0465c91b7e" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_4a214467ac029559773694a440c01164" parent="aspace_bb2e99f2d304935598601a0465c91b7e" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Amerey, Alfred</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3e85dffb2e44396c84acd6626ba49c3c" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_fcf70b05b40600080411e8c6dc9c4688" parent="aspace_3e85dffb2e44396c84acd6626ba49c3c" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Amsbury, Clifton</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a2190a160e204bd71e185a18c0e77924" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_22a6c910ba89a9af58fa45450f437c86" parent="aspace_a2190a160e204bd71e185a18c0e77924" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Anderson, Doris</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_471a48b370e08ddb0280dafecbc9a1c9" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_f7a6c8ad5a296c5e5c1e74fc360a7af5" parent="aspace_471a48b370e08ddb0280dafecbc9a1c9" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Bailey, Bill</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2ec0705f51b18144f752dd3eed0d5228" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_f4edc5095bbb1aa48907b0065e580e36" parent="aspace_2ec0705f51b18144f752dd3eed0d5228" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Baley, Bernard</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_42f844da21285291c6df16a14fe006ca" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_fed0a2a38e4fe9e7defcfbc1c26d5393" parent="aspace_42f844da21285291c6df16a14fe006ca" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Benet, James</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_315fa80ceb7b8dc8a63f80a9b5f18e41" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_cd88b17361e58be2ba85e769249c0de2" parent="aspace_315fa80ceb7b8dc8a63f80a9b5f18e41" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Berg, Delmer</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_408a230c503459a053f6ec30952a56bb" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_2b10b6b1cdd9ef0b1c43bddf9d97fd96" parent="aspace_408a230c503459a053f6ec30952a56bb" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Berkowitz, Norman Nathan</unittitle>
+            <unitdate normal="1930/1994" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d939482711d819494f6cd8c82a1c0c6e" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_da0188a4c198e4884b7d856f28563564" parent="aspace_d939482711d819494f6cd8c82a1c0c6e" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Birnbaum, Saul</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4e5a4a30dee13e2ac749c8421d613863" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_91d29f53736cae1fa17fe08c7c43bc53" parent="aspace_4e5a4a30dee13e2ac749c8421d613863" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Bjoze, Jack</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5cc37e46f5217e338819fac7f0c63616" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_19f58eacbcf24834f5760da3d31b0612" parent="aspace_5cc37e46f5217e338819fac7f0c63616" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Chesler, Hyman Frank</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7a0a032abea1a4f9ca829735db465baa" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_5394db0657f713a450c70c2c0bee8111" parent="aspace_7a0a032abea1a4f9ca829735db465baa" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Clement, Erich (aka Klementschitz)</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1bedc62de5b16bc3b778d804c854940c" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_a3903f29717a8429b09c384c5f329f95" parent="aspace_1bedc62de5b16bc3b778d804c854940c" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Colin, Max</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a567448d3a69d18c9d63467a3222cc24" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_709e9173ce5d5fff453d497d578208b6" parent="aspace_a567448d3a69d18c9d63467a3222cc24" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Colodny, Robert</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9a3720be8b161b135e445649c26db0ee" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_d86caa7d79b693a9da389d4eb438b69a" parent="aspace_9a3720be8b161b135e445649c26db0ee" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Crome, Len</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ddbb0d5d4f9e7b93d087ab2e507532df" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_1284e3c3295f5d90cfb15a832d7338df" parent="aspace_ddbb0d5d4f9e7b93d087ab2e507532df" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Cullinen, George</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bfd52299d2897bb7edaf3c9c29d86a0a" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_e1ff7a8799055f06620c1ab0f6bf1087" parent="aspace_bfd52299d2897bb7edaf3c9c29d86a0a" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Dunlop, John</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_98fdbc28f12de0c171e40a80ed245b6f" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_a7a5c524d77abe05ba559c83f034d363" parent="aspace_98fdbc28f12de0c171e40a80ed245b6f" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Economides, Michalakis</unittitle>
+            <unitdate normal="1987/1993" type="inclusive">1987 , 1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f8b66d91116646ff473d666fe977f2b9" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_297a91e8deedc289d13ef524523f96d3" parent="aspace_f8b66d91116646ff473d666fe977f2b9" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Edney, Patience (Darton)</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_29409453fd55c0f5968e628e29d814e8" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_f247612d1f6b639658a59fc010e9415b" parent="aspace_29409453fd55c0f5968e628e29d814e8" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Ewen, Bruce</unittitle>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_15856b8a3b4bcb6f2496051a2394a5c5" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_c57c8b726396cd37c552998a56c10097" parent="aspace_15856b8a3b4bcb6f2496051a2394a5c5" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Geiser, Carl</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4fa1bbd62e83cc5601ad9742c09e1ab0" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_5ff5c38a23a9b3a7846f4aa2f86c28c6" parent="aspace_4fa1bbd62e83cc5601ad9742c09e1ab0" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Glenn, Joseph C</unittitle>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_63d2fc9d8fd8f491e0056bc9a85eb4de" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_b1ed5a2092367e1efccc19daa2812fc6" parent="aspace_63d2fc9d8fd8f491e0056bc9a85eb4de" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Goldstein, Maynard</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_834bef0675ecd611b04831518e94c0ea" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_09e95ced4fa3b9aeed1565a1fa8cf299" parent="aspace_834bef0675ecd611b04831518e94c0ea" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Gordon, Louis</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cdc57bea9a11291ce7540216c5040dcf" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_fcd736f27407a2c5cd1129aa815d17f4" parent="aspace_cdc57bea9a11291ce7540216c5040dcf" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Graham, Frank</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_274172ba8c871d5c74ff9efe95c5e130" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_bea2cd60b5ec8c05914f37a28fe92aec" parent="aspace_274172ba8c871d5c74ff9efe95c5e130" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Grenier, Amedee</unittitle>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4b2a2e6412a6e4634c07db90f39f6b2e" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_d6fa16034a59f9c87b17c95c9b9b9f53" parent="aspace_4b2a2e6412a6e4634c07db90f39f6b2e" type="folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Hormess, Alexander H.</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_515a1d3da8a005b1f4d4e00593cf9b43" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_99ee5532c224c8ae60236d9dad071237" parent="aspace_515a1d3da8a005b1f4d4e00593cf9b43" type="folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Kordash, W. A.</unittitle>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6831bc9cacf277c976a2ed35efa4b84b" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_0f1134572beef29ae2f867b164736f94" parent="aspace_6831bc9cacf277c976a2ed35efa4b84b" type="folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Katzman, Eleanor</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6dd3d4c9bfeda9db2f515e8a68f7b59d" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_45fdf73b008f2f84ad77579d55934490" parent="aspace_6dd3d4c9bfeda9db2f515e8a68f7b59d" type="folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Kaufman, Sidney</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_68b736eec09188ee81cef9599d11c9e0" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_9b19588d8782561dafee795b0f73c91c" parent="aspace_68b736eec09188ee81cef9599d11c9e0" type="folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Keenan, Thomas</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ca4d4d121dae640b8b6fe6e2b3e634f9" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_6c62d971f66b8822112459d907969e93" parent="aspace_ca4d4d121dae640b8b6fe6e2b3e634f9" type="folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Keir, Duncan</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8f32eda4699dc1e87b0b0b0452d1b42f" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_42c9aaae704ccb1398b2057bfed84d42" parent="aspace_8f32eda4699dc1e87b0b0b0452d1b42f" type="folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Kovacs, Steve</unittitle>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_66e6e4fb5552dad57ef1323a71386c1e" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_94c4b98f8992d39dc9c0b1f521df9c22" parent="aspace_66e6e4fb5552dad57ef1323a71386c1e" type="folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Lamb, Leonard</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2681582dec731c82986bb5d97469bc8c" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_9898cfc306c39b80e5e276fe60760e98" parent="aspace_2681582dec731c82986bb5d97469bc8c" type="folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Lending, Edward</unittitle>
+            <unitdate normal="1992/1993" type="inclusive">1992-1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_aeb554a9b480d7da5b7c4115c1ef6a2b" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_d7bcf0aed937a21663cb1c92df373ddf" parent="aspace_aeb554a9b480d7da5b7c4115c1ef6a2b" type="folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Levenson, Leonard</unittitle>
+            <unitdate normal="1986/1993" type="inclusive">1986 , 1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_10d3e78642684fb0c2dbf934f1491959" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_49dbe0bf58fa07226b6c06ed30500a2c" parent="aspace_10d3e78642684fb0c2dbf934f1491959" type="folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Levine, Maurice</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_55a015052b6eca3711c8da820c213380" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_1100d6b263ae745cf8652cb49a5a246e" parent="aspace_55a015052b6eca3711c8da820c213380" type="folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Levine, Sidney</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_876c1df64172121f1ddaa7c75a8b0f4a" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_e44b7e29c247621029eae4369abdf854" parent="aspace_876c1df64172121f1ddaa7c75a8b0f4a" type="folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Longstaff, John</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1d1e15b956637b2f3299dbbb23bd4df2" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_de23715f33c24f04ec8dd5cd070b8c75" parent="aspace_1d1e15b956637b2f3299dbbb23bd4df2" type="folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Lutka, Paul</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9395ce71f678f32b7feae835ac6182d2" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_5dc38506e591c9f0730e593216a1b564" parent="aspace_9395ce71f678f32b7feae835ac6182d2" type="folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Marantz, Ms. Ray</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f3382d0786d0bde96dcd723af6099d52" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_96b20c9b7cf9516f5828b647fbf4c388" parent="aspace_f3382d0786d0bde96dcd723af6099d52" type="folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Marzani, Carl</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d109ec0c5e1d673adf1041e07f6dca6c" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_c4c4931f6bcee275b2ed62639f748820" parent="aspace_d109ec0c5e1d673adf1041e07f6dca6c" type="folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Matthews, William (aka Matvenko)</unittitle>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_14696aa3d5485e605f47fcbea28de4ce" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_665d3776cc29235f16d47db66ff31288" parent="aspace_14696aa3d5485e605f47fcbea28de4ce" type="folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Morgan, Reginald</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2e0425f3dc3da45c3fccb5d36f36abde" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_cdb9a9d67b303e6e7d5474bdbe986ace" parent="aspace_2e0425f3dc3da45c3fccb5d36f36abde" type="folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Munday, Arthur</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dad47e23fe7b556d3bf109608c453bb5" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_8dacd0980530651109a0e2f393070b99" parent="aspace_dad47e23fe7b556d3bf109608c453bb5" type="folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Murra, John V.</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_068be0bfc71a4da26cf7c98e2158b526" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_7d57e095ba0bde5eaf66910502429ba6" parent="aspace_068be0bfc71a4da26cf7c98e2158b526" type="folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Nelson, Steve</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_493271ca51ee3c1ec733e5df49eee4a0" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_93fff24d3183fb2ed68999ce4bdf867f" parent="aspace_493271ca51ee3c1ec733e5df49eee4a0" type="folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Newman, Sol</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dd6b2c78f007dac99f851cd8c43272c8" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_4897915ef90f2eef200f74a838420620" parent="aspace_dd6b2c78f007dac99f851cd8c43272c8" type="folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Nusser, Charles</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dba2577f792aff85f39ee7c5bfd1ec0a" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_692a0a05a32fd66214aadfe84c70aaca" parent="aspace_dba2577f792aff85f39ee7c5bfd1ec0a" type="folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>O'Malley, Thomas</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ad6d114a2fb730828047ba22434afdcb" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_27c702df04fab33519aa6b6a71fac756" parent="aspace_ad6d114a2fb730828047ba22434afdcb" type="folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Pacey, Marjorie</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5036ae4937ecfefbff0ff0950fe4d1f8" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_0a510638e3f4c8363f95209511b32531" parent="aspace_5036ae4937ecfefbff0ff0950fe4d1f8" type="folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Penrod, John Arthur</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_14b06801aef93407a36a0270ac005b54" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_74083bdc4ab605b3739f47aaa1379a82" parent="aspace_14b06801aef93407a36a0270ac005b54" type="folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Perlman, Norman</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6c340561585617edac6412027dffc134" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_fa5b779cbef81ced652df926f1cb811b" parent="aspace_6c340561585617edac6412027dffc134" type="folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Peters, Robert J.</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_576df2d56e00e25dfe46d46534fe3cf1" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_3a55d9aa1ec692659b8bbe89d63c5170" parent="aspace_576df2d56e00e25dfe46d46534fe3cf1" type="folder">57</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Prago, Albert</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4cbb645a0f9b4599cfce53572794c210" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_8400a2622d52670125b096ac3e60b7d2" parent="aspace_4cbb645a0f9b4599cfce53572794c210" type="folder">58</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Ragner, Albin (aka Ragauskas)</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0186da75fbebb10a093e001e7432c31e" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_4a74f0026d7fca224c76d1a65842acf9" parent="aspace_0186da75fbebb10a093e001e7432c31e" type="folder">59</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Reed, Robert L.</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7354135a90963e95400919be85722f35" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_26c71efda33cc46223b86542fdcd27cc" parent="aspace_7354135a90963e95400919be85722f35" type="folder">60</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Reinleib, Harry</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_22d9530778f1b2a55f307f28979b8390" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_fdf6a45fbe2020615fc8c65179cafdb2" parent="aspace_22d9530778f1b2a55f307f28979b8390" type="folder">61</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Roberts, Hilda (Bell)</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bf1e8eee54fe3a36a6be84d54d5d8d79" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_ff4887753442cf3c004f873237053925" parent="aspace_bf1e8eee54fe3a36a6be84d54d5d8d79" type="folder">62</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Robinson, John</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5c3c4cff183b107723b922146ce02911" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_d226b5cc1b31c365f6a6e80d96c00180" parent="aspace_5c3c4cff183b107723b922146ce02911" type="folder">63</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Rosenberg, Leon</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d14bc89f4585f1099d923f4b443f4762" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_a197781232974a1020a0c47d71ad1254" parent="aspace_d14bc89f4585f1099d923f4b443f4762" type="folder">64</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Rosner, Hyman</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bfaf2d2d86f9a00b19cb55878d73ba85" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_e9c9b41172c7ff079461bd35e8c47258" parent="aspace_bfaf2d2d86f9a00b19cb55878d73ba85" type="folder">65</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Rossen, John</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_53f903faa00db2b7053e79bdce7251ec" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_ca7e7d184b0fa04d0dd8f2e98c7bedbd" parent="aspace_53f903faa00db2b7053e79bdce7251ec" type="folder">66</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Rowlson, Lester</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1bbb1df697f4b143e1059bd0aa9058a2" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_e175df2ad5b7bf3abc4cb70dd2402013" parent="aspace_1bbb1df697f4b143e1059bd0aa9058a2" type="folder">67</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Rubin, Henry</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0ae947c8128859b8be38e0fae4e60c38" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_aa36bc038ebff745655dde110c983e32" parent="aspace_0ae947c8128859b8be38e0fae4e60c38" type="folder">68</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Saxton, Reg</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4234654ef351ab2b5c60f6dcb570565d" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_633479428deb46f96741d7e2ac94b469" parent="aspace_4234654ef351ab2b5c60f6dcb570565d" type="folder">69</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Sennett, William</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0f721204acc8eabf1470e10be2c074b0" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_bbcde62e22a8a2f447a0fbabeefbfccd" parent="aspace_0f721204acc8eabf1470e10be2c074b0" type="folder">70</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Sexton, Cyril A</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5dcbba93ca8214c64198824e9b331c38" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_20ec7bfc9f58b756bb15f92a7ac63370" parent="aspace_5dcbba93ca8214c64198824e9b331c38" type="folder">71</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Shaker, Kenneth</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_eb0a70ac83634a1cc10d7cd4401a05c1" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_4f960e399f14c1001c723cc9af01ed6f" parent="aspace_eb0a70ac83634a1cc10d7cd4401a05c1" type="folder">72</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Skup, Paul</unittitle>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c42c2a9364a13fdfa52d23e7f1cf6071" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_ede8affa01bd4440f2f0f4cb26f1d9de" parent="aspace_c42c2a9364a13fdfa52d23e7f1cf6071" type="folder">73</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Smith, Chris</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_68d2e50732a198513a21bfae78f36769" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_46a5f1e426994559c6ae8970a5aedbb1" parent="aspace_68d2e50732a198513a21bfae78f36769" type="folder">74</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Smith, David</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c067de116c153f1bb30fe4fc28c87dbd" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_7b69d796f0289aa4c72f5da89cb5519c" parent="aspace_c067de116c153f1bb30fe4fc28c87dbd" type="folder">75</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Spiller, Samuel</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7cf5911cc9f334cbb284a8440db06624" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_2d82fd9a677c08a29e76b9e6ed2e3cc7" parent="aspace_7cf5911cc9f334cbb284a8440db06624" type="folder">76</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Spinner, Ralph</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9849bdddd886cfb8bb2f3071d83c7f53" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_28548ca26c9bb3807c65a2cbdc48428d" parent="aspace_9849bdddd886cfb8bb2f3071d83c7f53" type="folder">77</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Tabb, Herbert (Hy)</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_04854e6381243be45c55580fcda02c90" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_79a7ac1b373eaadfb6c8bf5e1b36ca58" parent="aspace_04854e6381243be45c55580fcda02c90" type="folder">78</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Thornton, Nathan</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a68fca8adb093ab511a9ee06c7034ffb" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_e5338ff31396ad1af9909f1257877333" parent="aspace_a68fca8adb093ab511a9ee06c7034ffb" type="folder">79</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>Toney, Anthony</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_69cfe63171199b7b891c6f73ee7a0848" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_460f08f65448e9f8a15255a5d4c1c8ea" parent="aspace_69cfe63171199b7b891c6f73ee7a0848" type="folder">80</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>Warren, Al</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9d6cbdf7b6fe00d80c9667ef128208ef" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_17c48051371cb2fb62ba189e1c0ff8ed" parent="aspace_9d6cbdf7b6fe00d80c9667ef128208ef" type="folder">81</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Wheeler, William</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a4fc384235d0cc57edbc28b883caf569" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_df1685f73c50f31bbc1c4e2b1032b12f" parent="aspace_a4fc384235d0cc57edbc28b883caf569" type="folder">82</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Wolff, Milton</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d2b75fa21fc79c80f07934ae2ccda277" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_7a2a9ba22a7e1a151d64114cd7cace9b" parent="aspace_d2b75fa21fc79c80f07934ae2ccda277" type="folder">83</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Wolfson, Morton</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_577ba5e79a4932c508d19237de4fdd1a" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_079d987975830e30113d19e50c87c824" parent="aspace_577ba5e79a4932c508d19237de4fdd1a" type="folder">84</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Zaslovsky, Boris</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d96be978f6fec2b891b6e6b4aaa60254" label="Mixed Materials [31142062721066]" type="box">2</container>
+            <container id="aspace_de039312b2f532531ad2e4b82feea6ef" parent="aspace_d96be978f6fec2b891b6e6b4aaa60254" type="folder">85</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,74 +1,395 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>alba_240</eadid><filedesc><titlestmt><titleproper>Guide to the Mito Kruth Papers <num>ALBA.240</num></titleproper><author>Susan Tofte</author></titlestmt><editionstmt><p>This version was derived from kruth.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:35:51 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Mito Kruth Papers</unittitle>
-    <origination label="Creator">
-      <persname source="local">Kruth, Mito, 1899-</persname>
-    </origination>
-    <unitid>ALBA.240</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
-      <extent altrender="carrier">(2 boxes)</extent>
-    </physdesc>
-    <unitdate normal="1912/1986" type="inclusive">1912-1986</unitdate>
-    <unitdate normal="1926/1950" type="bulk">1926-1950</unitdate>
-    <abstract id="aspace_011315b738357574ad117a99a7da33de">Mito Kruth was a Finnish-American who fought as a volunteer in the Spanish Civil War, first in the Washington Battalion and later in the Abraham, Lincoln Brigade. This collection contains letters he wrote during his time in Spain, as well as correspondence from the mid-1930s when he worked in Michigan as an organizer for the Communist Party. Kruth's letters reflect his dedication to the Communist Party, as well as his identity as a Finnish-American. Mito and his wife Helen (later Helen Leiviska) traveled extensively, both in Europe and in the United States, and their correspondence documents their travels. The collection also includes Mito Kruth's passport, his father's naturalization papers from 1912, and various documents from Finnish-American organizations. Throughout many periods of his life, Mito went by the first name Neils.</abstract>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid>alba_240</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Mito Kruth Papers <num>ALBA.240</num></titleproper>
+        <author>Susan Tofte</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from kruth.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:35:51 -0500</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Mito Kruth Papers</unittitle>
+      <origination label="Creator">
+        <persname source="local">Kruth, Mito, 1899-</persname>
+      </origination>
+      <unitid>ALBA.240</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+        <extent altrender="carrier">(2 boxes)</extent>
+      </physdesc>
+      <unitdate normal="1912/1986" type="inclusive">1912-1986</unitdate>
+      <unitdate normal="1926/1950" type="bulk">1926-1950</unitdate>
+      <abstract id="aspace_011315b738357574ad117a99a7da33de">Mito Kruth was a Finnish-American who fought as a volunteer in the Spanish Civil War, first in the Washington Battalion and later in the Abraham, Lincoln Brigade. This collection contains letters he wrote during his time in Spain, as well as correspondence from the mid-1930s when he worked in Michigan as an organizer for the Communist Party. Kruth's letters reflect his dedication to the Communist Party, as well as his identity as a Finnish-American. Mito and his wife Helen (later Helen Leiviska) traveled extensively, both in Europe and in the United States, and their correspondence documents their travels. The collection also includes Mito Kruth's passport, his father's naturalization papers from 1912, and various documents from Finnish-American organizations. Throughout many periods of his life, Mito went by the first name Neils.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-  </did>
-  <custodhist id="aspace_c5766dc41061b16a4811c6f651b8eb39">
-    <head>Provenance</head>
-<p>The Mito Kruth collection was donated to the Abraham Lincoln Brigade Archives by Madeline Baron of Minneapolis, Minnesota, in early 2006, and then transferred to the Tamiment Library, NYU.</p>  </custodhist>
-  <accessrestrict id="aspace_bb0782d4b037ed030b492210c475cc1e">
-    <head>Access Restrictions</head>
-<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
-  <bioghist id="aspace_0609537d7e8291bff38243cacd11d426">
-    <head>Historical/Biographical Note</head>
-<p>Mito Kruth was born December 24, 1899 in Finland to Mathilda and Frank Kruth. When Mito was 12, his family moved from Finland to the United States and settled in Brooklyn. Much of the correspondence in this collection consists of letters exchanged between the Mito Kruth and his wife, Helen, who were often separated by their travels. The date of their marriage is uncertain, but by 1937-38 she was using the name Helen Kruth.</p><p>Mito worked as an organizer for the Communist Party in Ironwood, Michigan and Superior, Wisconsin in the mid-1930s. He set sail for Europe in March of 1937 to volunteer in the Spanish Civil War. He first served in the Washington Battalion and later in the Abraham Lincoln Battalion. During his time in Spain, he suffered a gun-shot wound to the leg and was hospitalized for several months.</p><p>Upon his return from Spain, he continued to do Communist Party work in the Upper Peninsula of Michigan and in Wisconsin. Mito and Helen traveled extensively overseas. In the late 1940s, Mito bought land in Trumansburg, New York and worked as a farmer. His letters illustrate his commitment to the Communist Party as well as his strong ties to Finnish-American communities in the Midwest and in New York.</p><p>The date of Mito Kruth's death is not known, but in the mid- or late 1970s Helen married George Leiviska, another veteran of the Lincoln Brigade. The couple resided for some years in Minneapolis. George Leiviska died in 1982.</p>  </bioghist>
-  <scopecontent id="aspace_55233c0122c37b989878930f2e7bdbd0">
-    <head>Scope and Content Note</head>
-<p><emph render="bold">Series I: Correspondence</emph>contains letters written by Mito to Helen over the course of 38 years, including the period of his service in the Spanish Civil War. With the exception of his letters from Spain, all of his letters are signed "Neils" and that seems to have been his preferred name while living in America. His other correspondence details his experience organizing for the Communist Party in Wisconsin, Michigan, Upstate New York and Washington, DC. There is correspondence from Helen to Mito written during a trip she took to Europe in 1948. Also included in this collection are letters to Helen written by a variety of correspondents.</p><p><emph render="bold">Series II: Subject Files</emph>contains Frank Kruth's naturalization papers, Mito's passport, the mortgage and deeds to his land in Trumansburg, New York, and various documents from Finnish-American organizations. There is also a sampling of maps and postcards from the Kruths' travels abroad.</p>  </scopecontent>
-  <arrangement id="aspace_4e900587acb0f80ad49e7e34343022c7">
-    <head>Arrangement</head>
-<p>Arranged alphabetically.</p><p>The files are grouped into two series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>I, Correspondence, 1926–1982.</item>
-      <item>II, Subject Files, 1912–1986.</item>
-    </list>
-  </arrangement>
-  <relatedmaterial id="aspace_82ca6f74c9a7e304e59087b4c250a71b">
-    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-<p>ALBA collections at the Tamiment Library.</p>  </relatedmaterial>
-  <separatedmaterial id="aspace_7ca9cbff6b227773566a7947cea0a65b">
-    <head>Separated Material</head>
-<p>Photographs from the Kruth Papers have been transferred to the non-print section of the ALBA collection in the Tamiment Library in ALBA Photo #36.</p>  </separatedmaterial>
-  <userestrict id="aspace_43f827051fa4f835a6ea5218a3b876a3">
-    <head>Use Restrictions</head>
-<p>The Tamiment Library &amp; Robert F. Wagner Labor Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Copyrights held by original creators of individual items in the collection are expected to pass into the public domain 120 years after their creation. For more information, please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
-  <prefercite id="aspace_455705e2eae63df6efbfcdea705035e6">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <controlaccess>
-    <geogname source="lcsh">Superior (Wis.).</geogname>
-    <geogname source="lcsh">Ironwood (Mich.)</geogname>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
-    <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Hospitals.</geogname>
-    <geogname source="lcsh">Barcelona (Spain)</geogname>
-    <genreform source="aat">Articles.</genreform>
-    <genreform source="aat">Personal papers.</genreform>
-    <genreform source="aat">Correspondence.</genreform>
-    <subject source="lcsh">Finnish American newspapers.</subject>
-    <geogname source="lcsh">Madrid (Spain)</geogname>
-    <subject source="lcsh">Finnish Americans.</subject>
-    <persname source="naf">Leiviska, Helen Kruth, 1907-1989</persname>
-    <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
-    <persname source="local">Kruth, Mito, 1899-</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref15" level="series"><did><unittitle>Series I: Correspondence,1926-1982</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref16" level="file"><did><unittitle>Arvola, Ranse Edward to Helen Kruth</unittitle><unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0f7de0637f791b3937ffef20d6ef3a90" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_33ba185677b9964424723f42f9ea7b7b" parent="aspace_0f7de0637f791b3937ffef20d6ef3a90" type="folder">1</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Kruth, Helen to George Leiviska (Second Husband)</unittitle><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_342a45eb325226ad6cbba770b3dc97d4" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_f28914bc0931c8a8b57a746652d8fe04" parent="aspace_342a45eb325226ad6cbba770b3dc97d4" type="folder">2</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Kruth, Helen to Mito Kruth</unittitle><unitdate>Mar 1948-Apr 1948</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_8ca200898ca334fa7b2d2ab5f9fa0c64" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_e0d3db4e0321c5ba2dd5d7f0e8eb7aac" parent="aspace_8ca200898ca334fa7b2d2ab5f9fa0c64" type="folder">3</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Kruth, Helen to Mito Kruth</unittitle><unitdate>May 1948-Jun 1948</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_51732e742aeb52f535856600e24dd2fb" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_2b6050bd34250acd3f7881fa5aa83a09" parent="aspace_51732e742aeb52f535856600e24dd2fb" type="folder">4</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Kruth, Helen to Mito Kruth</unittitle><unitdate>Jul 1948-Aug 1948</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_55e103259177db16c142663f36268084" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_6980fc26467156cd7fc9776257f6a8a7" parent="aspace_55e103259177db16c142663f36268084" type="folder">5</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Kruth, Helen to Mito Kruth</unittitle><unitdate>Sep 1948-Dec 1948</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a37ff87012f641cceffbcb469338b966" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_507db425d2cbeadf316cc84cccf5288f" parent="aspace_a37ff87012f641cceffbcb469338b966" type="folder">6</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Kruth, Mito to Helen</unittitle><unitdate normal="1926/1926" type="inclusive">1926</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_dc31d99d19f6e08a2e90c01f8082243c" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_e8d214a6fe1ed261034705375cfe40cd" parent="aspace_dc31d99d19f6e08a2e90c01f8082243c" type="folder">7</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Kruth, Mito to Helen</unittitle><unitdate normal="1935/1935" type="inclusive">Apr 1905</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f2d2d869e334abf79fff26f104157721" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_f639dbb137a02920e5786dbc55249e08" parent="aspace_f2d2d869e334abf79fff26f104157721" type="folder">8</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Kruth, Mito to Helen</unittitle><unitdate>Apr 1937-May 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_7c345ef667bb13e9dc8b63f773680489" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_d8a85109eb56e70899608ec934a7ac96" parent="aspace_7c345ef667bb13e9dc8b63f773680489" type="folder">9</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Kruth, Mito to Helen</unittitle><unitdate>Jun 1937-Jul 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e533cf3c2302e21126f9a0dc58743993" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_80e66739f3be745b84ae31c333d8633f" parent="aspace_e533cf3c2302e21126f9a0dc58743993" type="folder">10</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Kruth, Mito to Helen</unittitle><unitdate>Aug 1937-Sep 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_67a407481a73f9427ea1f3e1ef4dca78" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_4d2bda4e1b384ec3a376e392b4a6414a" parent="aspace_67a407481a73f9427ea1f3e1ef4dca78" type="folder">11</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Kruth, Mito to Helen</unittitle><unitdate>Oct 1937-Dec 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b8c74d32273a3ac9bece6a5bf8c7ce36" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_36ee3f5b49ba92ea9fa6c1d7ae2a5fb3" parent="aspace_b8c74d32273a3ac9bece6a5bf8c7ce36" type="folder">12</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Kruth, Mito to Helen</unittitle><unitdate normal="1938/1938" type="inclusive">1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a889fdbb97c973c75595622015c73b81" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_2f66ca60b96a5ce405d5bd777d7ea46a" parent="aspace_a889fdbb97c973c75595622015c73b81" type="folder">13</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Kruth, Mito to Helen</unittitle><unitdate normal="1940/1940" type="inclusive">1940</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_73fd1bea229a9b1167f9083c68393b81" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_5128abafff53d6bab24d1c582b8a47b5" parent="aspace_73fd1bea229a9b1167f9083c68393b81" type="folder">14</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Kruth, Mito to Helen</unittitle><unitdate normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f1566a518c85054dafb1f53821ee26ec" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_e32b01e47a9713eca4ae55fa83d359d4" parent="aspace_f1566a518c85054dafb1f53821ee26ec" type="folder">15</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Kruth, Mito to Helen</unittitle><unitdate normal="1945/1945" type="inclusive">1945</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0fc62f0d23cfed3392d00511c3f171a0" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_57c04325657c202e7ca0b206f5368728" parent="aspace_0fc62f0d23cfed3392d00511c3f171a0" type="folder">16</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Kruth, Mito to Helen</unittitle><unitdate normal="1946/1946" type="inclusive">1946</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_dd2f0818eb6dec19885f4c16ecf99f51" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_9a28d20c9d0903d7e844656840cb793a" parent="aspace_dd2f0818eb6dec19885f4c16ecf99f51" type="folder">17</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Kruth, Mito to Helen</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a86d3d86243620fe9eac094190bd154e" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_0343b0cb665575d716b36fdde10635b3" parent="aspace_a86d3d86243620fe9eac094190bd154e" type="folder">18</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Kruth, Mito to Helen</unittitle><unitdate normal="1961/1964" type="inclusive">1961-1964</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f71f41d7c1562d54becff7104ffa11f0" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_2862d8796b545b4e9fab87a96ab406f8" parent="aspace_f71f41d7c1562d54becff7104ffa11f0" type="folder">19</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Kruth, Mito to Helen</unittitle><unitdate normal="1912/1986" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_05c2ba9a5ad430e27eb741d39a315090" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_6ac774ea74f74f6d8e12336d6ef35fd6" parent="aspace_05c2ba9a5ad430e27eb741d39a315090" type="folder">20</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Maki, Martin D. to Helen</unittitle><unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c372182edd887e3bbd3eb112d6b27087" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_cd01525b69ec2929fbc5603b4f991219" parent="aspace_c372182edd887e3bbd3eb112d6b27087" type="folder">21</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Various Correspondents to Helen Kruth Leiviska and Mito Kruth</unittitle><unitdate normal="1912/1986" type="inclusive">undated , 1938-1982</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5c46e0878f5aa3b304a690c62d16185e" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_970ba1a85e2eda699d9e1fe28095e168" parent="aspace_5c46e0878f5aa3b304a690c62d16185e" type="folder">22</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Postcards</unittitle><unitdate normal="1912/1986" type="inclusive">undated , 1946-1986</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_8a04938eae3589ee1b34136cead6dc94" label="Mixed Materials [31142062763134]" type="box">1</container><container id="aspace_9f850264d47b7797de8ec11480ee4fea" parent="aspace_8a04938eae3589ee1b34136cead6dc94" type="folder">23</container></did></c></c><c id="aspace_ref39" level="series"><did><unittitle>Series II: Subject Files, 1912-1986</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref40" level="file"><did><unittitle>Certificate of Naturalization - Frank Valentin Kruth</unittitle><unitdate normal="1912/1912" type="inclusive">1912</unitdate><container altrender="Manuscript box - Legal" id="aspace_2c1646d8518ab618c9ba8c8773ff4e52" label="Mixed Materials [31142062763142]" type="box">2</container><container id="aspace_60e3f3217569cfd4d0ac15f0ffa62a93" parent="aspace_2c1646d8518ab618c9ba8c8773ff4e52" type="folder">1</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Farm Policy at the Democratic Advance Platform Committee Hearing</unittitle><unitdate>May 6, 1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_3b997c538984e48bdf5d8f8246a034c3" label="Mixed Materials [31142062763142]" type="box">2</container><container id="aspace_f72aa6428b54d088efdd360e532799ec" parent="aspace_3b997c538984e48bdf5d8f8246a034c3" type="folder">2</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Finnish-American Mutual Aid Society</unittitle><unitdate normal="1945/1945" type="inclusive">1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_702f9a44448b413be9de7ca981544e3d" label="Mixed Materials [31142062763142]" type="box">2</container><container id="aspace_7466e8adfae122324786097414e82521" parent="aspace_702f9a44448b413be9de7ca981544e3d" type="folder">3</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Finnish Relief Fund</unittitle><unitdate normal="1939/1939" type="inclusive">1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_a296d12be1ade6ae4545777026f4fb8e" label="Mixed Materials [31142062763142]" type="box">2</container><container id="aspace_d6398d81edbb4bec08afe4b568acafa8" parent="aspace_a296d12be1ade6ae4545777026f4fb8e" type="folder">4</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Finnish Writings</unittitle><unitdate normal="1912/1986" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_4a6aa3b660c737f93fcc54cf2710e89e" label="Mixed Materials [31142062763142]" type="box">2</container><container id="aspace_39ab1170d5f807ba3d2a842dc7daae77" parent="aspace_4a6aa3b660c737f93fcc54cf2710e89e" type="folder">5</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>National Committee of Finnish-American Trade Unionists</unittitle><unitdate normal="1943/1943" type="inclusive">1943</unitdate><container altrender="Manuscript box - Legal" id="aspace_5f255eb2fc67394417bd97dd1731e510" label="Mixed Materials [31142062763142]" type="box">2</container><container id="aspace_51e1cf2799e6eb40d41de1836b83fa8e" parent="aspace_5f255eb2fc67394417bd97dd1731e510" type="folder">6</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Passport</unittitle><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container altrender="Manuscript box - Legal" id="aspace_977b102bfb0bdb66230ac8c3d125afdf" label="Mixed Materials [31142062763142]" type="box">2</container><container id="aspace_705a1d01545337da108b45796359c279" parent="aspace_977b102bfb0bdb66230ac8c3d125afdf" type="folder">7</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Personal Documents</unittitle><unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_68b5ee01b01f66ddcc3e461396da9f64" label="Mixed Materials [31142062763142]" type="box">2</container><container id="aspace_582ab40f0fe654e4d190edf86ffe587f" parent="aspace_68b5ee01b01f66ddcc3e461396da9f64" type="folder">8</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Toveritar: Organ of the Finnish Working Women in America</unittitle><unitdate normal="1928/1928" type="inclusive">1928</unitdate><container altrender="Manuscript box - Legal" id="aspace_b7d720abc4495749d1f354af06456b81" label="Mixed Materials [31142062763142]" type="box">2</container><container id="aspace_a7dad70eef08761fae459abfe78a88b0" parent="aspace_b7d720abc4495749d1f354af06456b81" type="folder">9</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Travels: Maps, Postcards, etc.</unittitle><unitdate normal="1912/1986" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_5e2432ee28e9d4bed0463396fb019f3e" label="Mixed Materials [31142062763142]" type="box">2</container><container id="aspace_5d1c7628e42cc6b4effc07f7309f6c01" parent="aspace_5e2432ee28e9d4bed0463396fb019f3e" type="folder">10</container></did></c></c></dsc>
-</archdesc>
+    </did>
+    <custodhist id="aspace_c5766dc41061b16a4811c6f651b8eb39">
+      <head>Provenance</head>
+      <p>The Mito Kruth collection was donated to the Abraham Lincoln Brigade Archives by Madeline Baron of Minneapolis, Minnesota, in early 2006, and then transferred to the Tamiment Library, NYU.</p>
+    </custodhist>
+    <accessrestrict id="aspace_bb0782d4b037ed030b492210c475cc1e">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </accessrestrict>
+    <bioghist id="aspace_0609537d7e8291bff38243cacd11d426">
+      <head>Historical/Biographical Note</head>
+      <p>Mito Kruth was born December 24, 1899 in Finland to Mathilda and Frank Kruth. When Mito was 12, his family moved from Finland to the United States and settled in Brooklyn. Much of the correspondence in this collection consists of letters exchanged between the Mito Kruth and his wife, Helen, who were often separated by their travels. The date of their marriage is uncertain, but by 1937-38 she was using the name Helen Kruth.</p>
+      <p>Mito worked as an organizer for the Communist Party in Ironwood, Michigan and Superior, Wisconsin in the mid-1930s. He set sail for Europe in March of 1937 to volunteer in the Spanish Civil War. He first served in the Washington Battalion and later in the Abraham Lincoln Battalion. During his time in Spain, he suffered a gun-shot wound to the leg and was hospitalized for several months.</p>
+      <p>Upon his return from Spain, he continued to do Communist Party work in the Upper Peninsula of Michigan and in Wisconsin. Mito and Helen traveled extensively overseas. In the late 1940s, Mito bought land in Trumansburg, New York and worked as a farmer. His letters illustrate his commitment to the Communist Party as well as his strong ties to Finnish-American communities in the Midwest and in New York.</p>
+      <p>The date of Mito Kruth's death is not known, but in the mid- or late 1970s Helen married George Leiviska, another veteran of the Lincoln Brigade. The couple resided for some years in Minneapolis. George Leiviska died in 1982.</p>
+    </bioghist>
+    <scopecontent id="aspace_55233c0122c37b989878930f2e7bdbd0">
+      <head>Scope and Content Note</head>
+      <p><emph render="bold">Series I: Correspondence</emph>contains letters written by Mito to Helen over the course of 38 years, including the period of his service in the Spanish Civil War. With the exception of his letters from Spain, all of his letters are signed "Neils" and that seems to have been his preferred name while living in America. His other correspondence details his experience organizing for the Communist Party in Wisconsin, Michigan, Upstate New York and Washington, DC. There is correspondence from Helen to Mito written during a trip she took to Europe in 1948. Also included in this collection are letters to Helen written by a variety of correspondents.</p>
+      <p><emph render="bold">Series II: Subject Files</emph>contains Frank Kruth's naturalization papers, Mito's passport, the mortgage and deeds to his land in Trumansburg, New York, and various documents from Finnish-American organizations. There is also a sampling of maps and postcards from the Kruths' travels abroad.</p>
+    </scopecontent>
+    <arrangement id="aspace_4e900587acb0f80ad49e7e34343022c7">
+      <head>Arrangement</head>
+      <p>Arranged alphabetically.</p>
+      <p>The files are grouped into two series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I, Correspondence, 1926–1982.</item>
+        <item>II, Subject Files, 1912–1986.</item>
+      </list>
+    </arrangement>
+    <relatedmaterial id="aspace_82ca6f74c9a7e304e59087b4c250a71b">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>ALBA collections at the Tamiment Library.</p>
+    </relatedmaterial>
+    <separatedmaterial id="aspace_7ca9cbff6b227773566a7947cea0a65b">
+      <head>Separated Material</head>
+      <p>Photographs from the Kruth Papers have been transferred to the non-print section of the ALBA collection in the Tamiment Library in ALBA Photo #36.</p>
+    </separatedmaterial>
+    <userestrict id="aspace_43f827051fa4f835a6ea5218a3b876a3">
+      <head>Use Restrictions</head>
+      <p>The Tamiment Library &amp; Robert F. Wagner Labor Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Copyrights held by original creators of individual items in the collection are expected to pass into the public domain 120 years after their creation. For more information, please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives, tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </userestrict>
+    <prefercite id="aspace_455705e2eae63df6efbfcdea705035e6">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <controlaccess>
+      <geogname source="lcsh">Superior (Wis.).</geogname>
+      <geogname source="lcsh">Ironwood (Mich.)</geogname>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
+      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Hospitals.</geogname>
+      <geogname source="lcsh">Barcelona (Spain)</geogname>
+      <genreform source="aat">Articles.</genreform>
+      <genreform source="aat">Personal papers.</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">Finnish American newspapers.</subject>
+      <geogname source="lcsh">Madrid (Spain)</geogname>
+      <subject source="lcsh">Finnish Americans.</subject>
+      <persname source="naf">Leiviska, Helen Kruth, 1907-1989</persname>
+      <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
+      <persname source="local">Kruth, Mito, 1899-</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref15" level="series">
+        <did>
+          <unittitle>Series I: Correspondence,1926-1982</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Arvola, Ranse Edward to Helen Kruth</unittitle>
+            <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_0f7de0637f791b3937ffef20d6ef3a90" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_33ba185677b9964424723f42f9ea7b7b" parent="aspace_0f7de0637f791b3937ffef20d6ef3a90" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Kruth, Helen to George Leiviska (Second Husband)</unittitle>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_342a45eb325226ad6cbba770b3dc97d4" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_f28914bc0931c8a8b57a746652d8fe04" parent="aspace_342a45eb325226ad6cbba770b3dc97d4" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Kruth, Helen to Mito Kruth</unittitle>
+            <unitdate>Mar 1948-Apr 1948</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_8ca200898ca334fa7b2d2ab5f9fa0c64" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_e0d3db4e0321c5ba2dd5d7f0e8eb7aac" parent="aspace_8ca200898ca334fa7b2d2ab5f9fa0c64" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Kruth, Helen to Mito Kruth</unittitle>
+            <unitdate>May 1948-Jun 1948</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_51732e742aeb52f535856600e24dd2fb" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_2b6050bd34250acd3f7881fa5aa83a09" parent="aspace_51732e742aeb52f535856600e24dd2fb" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Kruth, Helen to Mito Kruth</unittitle>
+            <unitdate>Jul 1948-Aug 1948</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_55e103259177db16c142663f36268084" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_6980fc26467156cd7fc9776257f6a8a7" parent="aspace_55e103259177db16c142663f36268084" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Kruth, Helen to Mito Kruth</unittitle>
+            <unitdate>Sep 1948-Dec 1948</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_a37ff87012f641cceffbcb469338b966" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_507db425d2cbeadf316cc84cccf5288f" parent="aspace_a37ff87012f641cceffbcb469338b966" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Kruth, Mito to Helen</unittitle>
+            <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_dc31d99d19f6e08a2e90c01f8082243c" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_e8d214a6fe1ed261034705375cfe40cd" parent="aspace_dc31d99d19f6e08a2e90c01f8082243c" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Kruth, Mito to Helen</unittitle>
+            <unitdate normal="1935/1935" type="inclusive">Apr 1905</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_f2d2d869e334abf79fff26f104157721" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_f639dbb137a02920e5786dbc55249e08" parent="aspace_f2d2d869e334abf79fff26f104157721" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Kruth, Mito to Helen</unittitle>
+            <unitdate>Apr 1937-May 1937</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_7c345ef667bb13e9dc8b63f773680489" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_d8a85109eb56e70899608ec934a7ac96" parent="aspace_7c345ef667bb13e9dc8b63f773680489" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Kruth, Mito to Helen</unittitle>
+            <unitdate>Jun 1937-Jul 1937</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_e533cf3c2302e21126f9a0dc58743993" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_80e66739f3be745b84ae31c333d8633f" parent="aspace_e533cf3c2302e21126f9a0dc58743993" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Kruth, Mito to Helen</unittitle>
+            <unitdate>Aug 1937-Sep 1937</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_67a407481a73f9427ea1f3e1ef4dca78" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_4d2bda4e1b384ec3a376e392b4a6414a" parent="aspace_67a407481a73f9427ea1f3e1ef4dca78" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Kruth, Mito to Helen</unittitle>
+            <unitdate>Oct 1937-Dec 1937</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_b8c74d32273a3ac9bece6a5bf8c7ce36" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_36ee3f5b49ba92ea9fa6c1d7ae2a5fb3" parent="aspace_b8c74d32273a3ac9bece6a5bf8c7ce36" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Kruth, Mito to Helen</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_a889fdbb97c973c75595622015c73b81" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_2f66ca60b96a5ce405d5bd777d7ea46a" parent="aspace_a889fdbb97c973c75595622015c73b81" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Kruth, Mito to Helen</unittitle>
+            <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_73fd1bea229a9b1167f9083c68393b81" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_5128abafff53d6bab24d1c582b8a47b5" parent="aspace_73fd1bea229a9b1167f9083c68393b81" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Kruth, Mito to Helen</unittitle>
+            <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_f1566a518c85054dafb1f53821ee26ec" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_e32b01e47a9713eca4ae55fa83d359d4" parent="aspace_f1566a518c85054dafb1f53821ee26ec" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Kruth, Mito to Helen</unittitle>
+            <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_0fc62f0d23cfed3392d00511c3f171a0" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_57c04325657c202e7ca0b206f5368728" parent="aspace_0fc62f0d23cfed3392d00511c3f171a0" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Kruth, Mito to Helen</unittitle>
+            <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_dd2f0818eb6dec19885f4c16ecf99f51" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_9a28d20c9d0903d7e844656840cb793a" parent="aspace_dd2f0818eb6dec19885f4c16ecf99f51" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Kruth, Mito to Helen</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_a86d3d86243620fe9eac094190bd154e" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_0343b0cb665575d716b36fdde10635b3" parent="aspace_a86d3d86243620fe9eac094190bd154e" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Kruth, Mito to Helen</unittitle>
+            <unitdate normal="1961/1964" type="inclusive">1961-1964</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_f71f41d7c1562d54becff7104ffa11f0" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_2862d8796b545b4e9fab87a96ab406f8" parent="aspace_f71f41d7c1562d54becff7104ffa11f0" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Kruth, Mito to Helen</unittitle>
+            <unitdate normal="1912/1986" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_05c2ba9a5ad430e27eb741d39a315090" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_6ac774ea74f74f6d8e12336d6ef35fd6" parent="aspace_05c2ba9a5ad430e27eb741d39a315090" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Maki, Martin D. to Helen</unittitle>
+            <unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_c372182edd887e3bbd3eb112d6b27087" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_cd01525b69ec2929fbc5603b4f991219" parent="aspace_c372182edd887e3bbd3eb112d6b27087" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Various Correspondents to Helen Kruth Leiviska and Mito Kruth</unittitle>
+            <unitdate normal="1912/1986" type="inclusive">undated , 1938-1982</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_5c46e0878f5aa3b304a690c62d16185e" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_970ba1a85e2eda699d9e1fe28095e168" parent="aspace_5c46e0878f5aa3b304a690c62d16185e" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Postcards</unittitle>
+            <unitdate normal="1912/1986" type="inclusive">undated , 1946-1986</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_8a04938eae3589ee1b34136cead6dc94" label="Mixed Materials [31142062763134]" type="box">1</container>
+            <container id="aspace_9f850264d47b7797de8ec11480ee4fea" parent="aspace_8a04938eae3589ee1b34136cead6dc94" type="folder">23</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref39" level="series">
+        <did>
+          <unittitle>Series II: Subject Files, 1912-1986</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Certificate of Naturalization - Frank Valentin Kruth</unittitle>
+            <unitdate normal="1912/1912" type="inclusive">1912</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2c1646d8518ab618c9ba8c8773ff4e52" label="Mixed Materials [31142062763142]" type="box">2</container>
+            <container id="aspace_60e3f3217569cfd4d0ac15f0ffa62a93" parent="aspace_2c1646d8518ab618c9ba8c8773ff4e52" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Farm Policy at the Democratic Advance Platform Committee Hearing</unittitle>
+            <unitdate>May 6, 1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3b997c538984e48bdf5d8f8246a034c3" label="Mixed Materials [31142062763142]" type="box">2</container>
+            <container id="aspace_f72aa6428b54d088efdd360e532799ec" parent="aspace_3b997c538984e48bdf5d8f8246a034c3" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Finnish-American Mutual Aid Society</unittitle>
+            <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_702f9a44448b413be9de7ca981544e3d" label="Mixed Materials [31142062763142]" type="box">2</container>
+            <container id="aspace_7466e8adfae122324786097414e82521" parent="aspace_702f9a44448b413be9de7ca981544e3d" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Finnish Relief Fund</unittitle>
+            <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a296d12be1ade6ae4545777026f4fb8e" label="Mixed Materials [31142062763142]" type="box">2</container>
+            <container id="aspace_d6398d81edbb4bec08afe4b568acafa8" parent="aspace_a296d12be1ade6ae4545777026f4fb8e" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Finnish Writings</unittitle>
+            <unitdate normal="1912/1986" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4a6aa3b660c737f93fcc54cf2710e89e" label="Mixed Materials [31142062763142]" type="box">2</container>
+            <container id="aspace_39ab1170d5f807ba3d2a842dc7daae77" parent="aspace_4a6aa3b660c737f93fcc54cf2710e89e" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>National Committee of Finnish-American Trade Unionists</unittitle>
+            <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5f255eb2fc67394417bd97dd1731e510" label="Mixed Materials [31142062763142]" type="box">2</container>
+            <container id="aspace_51e1cf2799e6eb40d41de1836b83fa8e" parent="aspace_5f255eb2fc67394417bd97dd1731e510" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Passport</unittitle>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_977b102bfb0bdb66230ac8c3d125afdf" label="Mixed Materials [31142062763142]" type="box">2</container>
+            <container id="aspace_705a1d01545337da108b45796359c279" parent="aspace_977b102bfb0bdb66230ac8c3d125afdf" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Personal Documents</unittitle>
+            <unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_68b5ee01b01f66ddcc3e461396da9f64" label="Mixed Materials [31142062763142]" type="box">2</container>
+            <container id="aspace_582ab40f0fe654e4d190edf86ffe587f" parent="aspace_68b5ee01b01f66ddcc3e461396da9f64" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Toveritar: Organ of the Finnish Working Women in America</unittitle>
+            <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b7d720abc4495749d1f354af06456b81" label="Mixed Materials [31142062763142]" type="box">2</container>
+            <container id="aspace_a7dad70eef08761fae459abfe78a88b0" parent="aspace_b7d720abc4495749d1f354af06456b81" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Travels: Maps, Postcards, etc.</unittitle>
+            <unitdate normal="1912/1986" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5e2432ee28e9d4bed0463396fb019f3e" label="Mixed Materials [31142062763142]" type="box">2</container>
+            <container id="aspace_5d1c7628e42cc6b4effc07f7309f6c01" parent="aspace_5e2432ee28e9d4bed0463396fb019f3e" type="folder">10</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

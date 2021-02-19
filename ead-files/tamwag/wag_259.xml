@@ -1,73 +1,511 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_259/">wag_259</eadid><filedesc><titlestmt><titleproper>Guide to the A. H. Raskin Papers <num>WAG.259</num></titleproper><author>Daniel Michelson, 2011; Edited by Bonnie Gordon for compliance with DACS and Tamiment Required Elements for Archival Description, 2013</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2011</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 16:02:59 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>A. H. Raskin Papers</unittitle>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_259/">wag_259</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the A. H. Raskin Papers <num>WAG.259</num></titleproper>
+        <author>Daniel Michelson, 2011; Edited by Bonnie Gordon for compliance with DACS and Tamiment Required Elements for Archival Description, 2013</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2011</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 16:02:59 -0500</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>A. H. Raskin Papers</unittitle>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Raskin, Marjorie</persname>
+      </origination>
+      <origination label="Creator">
+        <persname source="naf">Raskin, A. H. (Abraham Henry), 1911-</persname>
+      </origination>
+      <unitid>WAG.259</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
+        <extent altrender="carrier">in 1 record carton, 1 manuscript box, 5 oversize flat boxes.</extent>
+      </physdesc>
+      <unitdate normal="1940/1994" type="inclusive">1940-1994</unitdate>
+      <abstract id="aspace_f7d588738be3d652ba8e0423a8106f8e">A. H. Raskin (1911-1993) was a noted labor journalist and editor.  This collection consists primarily of columns Raskin wrote about labor for the <emph render="italic">New York Times</emph> between 1940 and 1976.</abstract>
+      <physloc id="aspace_66acf319bf54eebf2ce402dfc44d7f42">Materials stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to research visit.</physloc>
+      <langmaterial id="aspace_54b3cc0799a43b59e8dbe4176e434544">Materials are in English</langmaterial>
+    </did>
+    <accessrestrict id="aspace_9d4440203800ac1896535ca434063266">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <userestrict id="aspace_1e3e6caa0533270819547ebb2b41b0e7">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by A.H. Raskin were transferred to New York University in 2006 by Marjorie Raskin; with the exception of copyright to A. H. Raskin's unpublished writings, which was retained by Marjorie Raskin. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library and Robert F. Wagner Archives or Marjorie Raskin. Please contact tamiment.wagner@nyu.edu, (212) 998-2630.</p>
+    </userestrict>
+    <altformavail id="aspace_8dd6f176ed026961889c9d8bf2f7a7a4">
+      <head>Existence and Location of Copies</head>
+      <p>A. H. Raskin's columns can be found in back issues of the <emph render="italic">New York Times </emph>and digital copies can be found in the <extref xlink:href="http://www.nytimes.com/ref/membercenter/nytarchive.html">New York Times Article Archive</extref>.</p>
+    </altformavail>
+    <prefercite id="aspace_23ac6228cd6c7459907e7ed2d1fe9435">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; A. H. Raskin Papers; WAG 259; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <arrangement id="aspace_2b620075a1c5e5fd5e8b73bf4a08a966">
+      <head>Arrangement</head>
+      <p>The collection is arranged in two series:</p>
+      <p>Series I: General Files, 1940-1994</p>
+      <p>Series II: Scrapbooks, 1961-1976</p>
+      <p>Folders are arranged alphabetically.</p>
+    </arrangement>
+    <acqinfo id="aspace_4920fb759230e1539a1c2e3f2f60956f">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Marjorie Raskin in 2006. The accession number associated with this gift is 2006.064.</p>
+    </acqinfo>
+    <bioghist id="aspace_34f8f869c07853521718a28af17dd143">
+      <head>Historical/Biographical Note</head>
+      <p>A. H. Raskin (1911-1993) was a noted labor journalist and editor.  Born in Edmonton, Alberta, he graduated from City College in 1931 and joined the <emph render="italic">New York Times</emph> as a labor reporter in 1934.  In 1942, Raskin joined the U. S. Army and served as chief of the Labor Branch of the Industrial Services Division.  He returned to the <emph render="italic">New York Times</emph> upon his discharge at the end of the war.  In 1952, Raskin wrote a series of articles about racketeering in labor unions.  The articles won numerous awards and prompted the American Federation of Labor to establish an anti-racketeering committee.  During the New York newspaper strike of 1963, Raskin researched and wrote a 15,000 word article that appeared the day after the strike ended.  It remains a highly regarded work of journalistic objectivity in the face of great difficulty.  He retired from the <emph render="italic">New York Times</emph> in 1977, but continued writing.  In 1990, Raskin suffered a stroke which caused him to develop aphasia (difficulty in producing or comprehending spoken or written language).  During the remaining years of his life, Raskin was involved in educating others about aphasia, most notably in his moving <emph render="italic">New York Times</emph> op-ed piece "The Words I Lost" (Sep 19, 1992).</p>
+    </bioghist>
+    <scopecontent id="aspace_8018146ac9c6c150e6e135351e1d51bb">
+      <head>Scope and Content Note</head>
+      <p>This collection consists primarily of columns Raskin wrote about labor for the <emph render="italic">New York Times</emph> between 1940 and 1976.  Columns from 1940-1959 are photocopies, while those from 1961-1976 are original clippings in large scrapbooks.  In addition, there are some non-<emph render="italic">New York Times</emph> writings on labor, as well as material on Raskin's struggle with aphasia.</p>
+    </scopecontent>
+    <processinfo id="aspace_9ec60b2222365c49460383d65c236f2f">
+      <head>Processing Information</head>
+      <p>Materials were condensed from 8 to 7 boxes by the archivist.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_a38d3338267c6f71aaa8b06e3a7476d4">
+      <head>Related Archival Materials</head>
+      <p>Further materials on A. H. Raskin can be found in the New York Times Company Records, Abraham H. Raskin Papers at the Manuscripts and Archives Division of the New York Public Library.</p>
+    </relatedmaterial>
+    <controlaccess>
+      <subject source="lcsh">Journalists |z New York (State) |z New York.</subject>
+      <genreform source="aat">Newspaper columns.</genreform>
+      <subject source="lcsh">Labor movement -- United States -- 20th century.</subject>
+      <genreform source="aat">Scrapbooks.</genreform>
+      <subject source="lcsh">Aphasia.</subject>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <subject source="lcsh">Labor union journalism |z United States.</subject>
+      <subject source="lcsh">Labor journalism -- United States.</subject>
+      <subject source="lcsh">Labor unions |z United States |x History |y 20th century.</subject>
       <persname role="dnr" rules="dacs" source="local">Raskin, Marjorie</persname>
-    </origination>
-    <origination label="Creator">
+      <corpname source="naf">AFL-CIO</corpname>
+      <corpname rules="dacs" source="naf">Congress of Industrial Organizations (U.S.)</corpname>
+      <corpname source="naf">New York Times Company</corpname>
+      <corpname source="naf">American Federation of Labor</corpname>
       <persname source="naf">Raskin, A. H. (Abraham Henry), 1911-</persname>
-    </origination>
-    <unitid>WAG.259</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
-      <extent altrender="carrier">in 1 record carton, 1 manuscript box, 5 oversize flat boxes.</extent>
-    </physdesc>
-    <unitdate normal="1940/1994" type="inclusive">1940-1994</unitdate>
-    <abstract id="aspace_f7d588738be3d652ba8e0423a8106f8e">A. H. Raskin (1911-1993) was a noted labor journalist and editor.  This collection consists primarily of columns Raskin wrote about labor for the <emph render="italic">New York Times</emph> between 1940 and 1976.</abstract>
-    <physloc id="aspace_66acf319bf54eebf2ce402dfc44d7f42">Materials stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to research visit.</physloc>
-    <langmaterial id="aspace_54b3cc0799a43b59e8dbe4176e434544">Materials are in English</langmaterial>
-  </did>
-  <accessrestrict id="aspace_9d4440203800ac1896535ca434063266">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <userestrict id="aspace_1e3e6caa0533270819547ebb2b41b0e7">
-    <head>Conditions Governing Use</head>
-<p>Any rights (including copyright and related rights to publicity and privacy) held by A.H. Raskin were transferred to New York University in 2006 by Marjorie Raskin; with the exception of copyright to A. H. Raskin's unpublished writings, which was retained by Marjorie Raskin. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library and Robert F. Wagner Archives or Marjorie Raskin. Please contact tamiment.wagner@nyu.edu, (212) 998-2630.</p>  </userestrict>
-  <altformavail id="aspace_8dd6f176ed026961889c9d8bf2f7a7a4">
-    <head>Existence and Location of Copies</head>
-<p>A. H. Raskin's columns can be found in back issues of the <emph render="italic">New York Times </emph>and digital copies can be found in the <extref xlink:href="http://www.nytimes.com/ref/membercenter/nytarchive.html">New York Times Article Archive</extref>.</p>  </altformavail>
-  <prefercite id="aspace_23ac6228cd6c7459907e7ed2d1fe9435">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; A. H. Raskin Papers; WAG 259; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <arrangement id="aspace_2b620075a1c5e5fd5e8b73bf4a08a966">
-    <head>Arrangement</head>
-<p>The collection is arranged in two series:</p><p>Series I: General Files, 1940-1994</p><p>Series II: Scrapbooks, 1961-1976</p><p>Folders are arranged alphabetically.</p>  </arrangement>
-  <acqinfo id="aspace_4920fb759230e1539a1c2e3f2f60956f">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Marjorie Raskin in 2006. The accession number associated with this gift is 2006.064.</p>  </acqinfo>
-  <bioghist id="aspace_34f8f869c07853521718a28af17dd143">
-    <head>Historical/Biographical Note</head>
-<p>A. H. Raskin (1911-1993) was a noted labor journalist and editor.  Born in Edmonton, Alberta, he graduated from City College in 1931 and joined the <emph render="italic">New York Times</emph> as a labor reporter in 1934.  In 1942, Raskin joined the U. S. Army and served as chief of the Labor Branch of the Industrial Services Division.  He returned to the <emph render="italic">New York Times</emph> upon his discharge at the end of the war.  In 1952, Raskin wrote a series of articles about racketeering in labor unions.  The articles won numerous awards and prompted the American Federation of Labor to establish an anti-racketeering committee.  During the New York newspaper strike of 1963, Raskin researched and wrote a 15,000 word article that appeared the day after the strike ended.  It remains a highly regarded work of journalistic objectivity in the face of great difficulty.  He retired from the <emph render="italic">New York Times</emph> in 1977, but continued writing.  In 1990, Raskin suffered a stroke which caused him to develop aphasia (difficulty in producing or comprehending spoken or written language).  During the remaining years of his life, Raskin was involved in educating others about aphasia, most notably in his moving <emph render="italic">New York Times</emph> op-ed piece "The Words I Lost" (Sep 19, 1992).</p>  </bioghist>
-  <scopecontent id="aspace_8018146ac9c6c150e6e135351e1d51bb">
-    <head>Scope and Content Note</head>
-<p>This collection consists primarily of columns Raskin wrote about labor for the <emph render="italic">New York Times</emph> between 1940 and 1976.  Columns from 1940-1959 are photocopies, while those from 1961-1976 are original clippings in large scrapbooks.  In addition, there are some non-<emph render="italic">New York Times</emph> writings on labor, as well as material on Raskin's struggle with aphasia.</p>  </scopecontent>
-  <processinfo id="aspace_9ec60b2222365c49460383d65c236f2f">
-    <head>Processing Information</head>
-<p>Materials were condensed from 8 to 7 boxes by the archivist.</p>  </processinfo>
-  <relatedmaterial id="aspace_a38d3338267c6f71aaa8b06e3a7476d4">
-    <head>Related Archival Materials</head>
-<p>Further materials on A. H. Raskin can be found in the New York Times Company Records, Abraham H. Raskin Papers at the Manuscripts and Archives Division of the New York Public Library.</p>  </relatedmaterial>
-  <controlaccess>
-    <subject source="lcsh">Journalists |z New York (State) |z New York.</subject>
-    <genreform source="aat">Newspaper columns.</genreform>
-    <subject source="lcsh">Labor movement -- United States -- 20th century.</subject>
-    <genreform source="aat">Scrapbooks.</genreform>
-    <subject source="lcsh">Aphasia.</subject>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <subject source="lcsh">Labor union journalism |z United States.</subject>
-    <subject source="lcsh">Labor journalism -- United States.</subject>
-    <subject source="lcsh">Labor unions |z United States |x History |y 20th century.</subject>
-    <persname role="dnr" rules="dacs" source="local">Raskin, Marjorie</persname>
-    <corpname source="naf">AFL-CIO</corpname>
-    <corpname rules="dacs" source="naf">Congress of Industrial Organizations (U.S.)</corpname>
-    <corpname source="naf">New York Times Company</corpname>
-    <corpname source="naf">American Federation of Labor</corpname>
-    <persname source="naf">Raskin, A. H. (Abraham Henry), 1911-</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref7" level="series"><did><unittitle>Series I: General Files, 1940-1994</unittitle><unitdate normal="1940/1994" type="inclusive">1940-1994</unitdate></did><c id="aspace_ref10" level="file"><did><unittitle>Aphasia</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container id="aspace_18b95fcefab56af9d9cbd705fae96e3c" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_6ec0b8bfdcbcdb9a2093d109c354722d" parent="aspace_18b95fcefab56af9d9cbd705fae96e3c" type="folder">1</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Articles and Clippings</unittitle><unitdate normal="1974/1992" type="inclusive">1974-1992</unitdate><container id="aspace_0a0a1afc4c73f9c0aa85a4195cb8ce3b" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_51be6369c2cf77fd05a2dc15e8459637" parent="aspace_0a0a1afc4c73f9c0aa85a4195cb8ce3b" type="folder">2</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Biographical Material</unittitle><unitdate normal="1991/1994" type="inclusive">1991-1994; undated</unitdate><container id="aspace_52c50d3a63b2cab7bd465e844c1e62bf" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_c2bfd2ada28b1fd59f222947c5fec20c" parent="aspace_52c50d3a63b2cab7bd465e844c1e62bf" type="folder">3</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>City College New York Alumni Association Card</unittitle><unitdate normal="1988/1989" type="inclusive">1988/89</unitdate><container id="aspace_fa7b9ba51ebf21e88fcf92429274f868" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_af6aa3d8be9642b941410505c243131e" parent="aspace_fa7b9ba51ebf21e88fcf92429274f868" type="folder">4</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1976/1993" type="inclusive">1976-1993</unitdate><container id="aspace_a1ecd26cedcfa5852e512121c500f7db" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_520420c34a374cd04ad6cbd19e412480" parent="aspace_a1ecd26cedcfa5852e512121c500f7db" type="folder">5</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Columbia-Presbyterian Medical Center: Printed Material</unittitle><unitdate normal="1988/1989" type="inclusive">1988-1989; undated</unitdate><container id="aspace_c8fb58799841c845e78ca3ad3dfaf047" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_50feec0af47e2daa270d06874510e6a8" parent="aspace_c8fb58799841c845e78ca3ad3dfaf047" type="folder">6</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Memo re: Robert P. Brindell</unittitle><unitdate normal="1952/1952" type="inclusive">1952</unitdate><container id="aspace_796360935a26e4db7bfdf030175af71b" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_d4b121e3d60b126903d7d5f47b42086e" parent="aspace_796360935a26e4db7bfdf030175af71b" type="folder">7</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>National Symposium on Stroke and Quality of Life</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container id="aspace_160fd11d796b2078f6006bb9b7ad3287" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_ce8af21b1f4a7b18d1b9b6cacd8cd877" parent="aspace_160fd11d796b2078f6006bb9b7ad3287" type="folder">8</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Notes and Research Materials: Labor</unittitle><unitdate>undated</unitdate><container id="aspace_fedd76c34323f2d3d2abc67dae976dd0" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_31b01611abc20538c3552c2b3c2a9f04" parent="aspace_fedd76c34323f2d3d2abc67dae976dd0" type="folder">9</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Notes: General</unittitle><unitdate>undated</unitdate><container id="aspace_6946db5daa46ac81654e89af2d564998" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_f5d6e731d29499da01c1c8ffb7615d4a" parent="aspace_6946db5daa46ac81654e89af2d564998" type="folder">10</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Photograph of Raskin</unittitle><unitdate>undated</unitdate><container id="aspace_d80f6110e0914c97871470e66e48823f" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_e0e842e07f08f08a2442b9a0db955db9" parent="aspace_d80f6110e0914c97871470e66e48823f" type="folder">11</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Raskin, Marge: "What Constitutes True Love for an Aphasiac?" (Tribute to AHR)</unittitle><unitdate normal="1994/1994" type="inclusive">circa 1994</unitdate><container id="aspace_6352b9a8c13cb73f1963fe6acf95c443" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_7124787ad40233029aebdc279e6ff563" parent="aspace_6352b9a8c13cb73f1963fe6acf95c443" type="folder">12</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Writings: Aphasia</unittitle><unitdate normal="1992/1993" type="inclusive">1992-1993</unitdate><container id="aspace_a33f024ad7d4666d9d74f2f091bc40a2" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_b1dbc1bb0697126f9001328159b974bf" parent="aspace_a33f024ad7d4666d9d74f2f091bc40a2" type="folder">13</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Writings: Draft of <emph render="italic">New York Times</emph> Column</unittitle><unitdate normal="1958/1958" type="inclusive">Dec 17, 1958</unitdate><container id="aspace_9d48b7f8020670024d104029728ddb29" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_9f844ffdaf36b89db363a7fad54de2fb" parent="aspace_9d48b7f8020670024d104029728ddb29" type="folder">14</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Writings: Joseph S. Fay, Notes and Draft of Article on</unittitle><unitdate normal="1953/1953" type="inclusive">1953</unitdate><container id="aspace_10af1b244eef1bb8fd9bfeda2cb210b8" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_426558d702515236f959c94c7e14313d" parent="aspace_10af1b244eef1bb8fd9bfeda2cb210b8" type="folder">15</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1940/1942" type="inclusive">1940-1942</unitdate><container id="aspace_9fcb76bab66fd8acf55cc06af20d4b01" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_963c9967ca41b27c5576475566296357" parent="aspace_9fcb76bab66fd8acf55cc06af20d4b01" type="folder">16</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate><container id="aspace_288a618d3ef83b97564e28e5e541f625" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_8e2352981e8f9020d7d6a799920d4d8e" parent="aspace_288a618d3ef83b97564e28e5e541f625" type="folder">17</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container id="aspace_bd9bd997e80d2d468b9c6dea76b242c1" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_50f3cefc120b32547cf170ea0c0a0012" parent="aspace_bd9bd997e80d2d468b9c6dea76b242c1" type="folder">18</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container id="aspace_9fb49af471c577afd40fb40392283a08" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_42037b7658ddf14373637addbd67364b" parent="aspace_9fb49af471c577afd40fb40392283a08" type="folder">19</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1949/1949" type="inclusive">Jan-Jun 1949</unitdate><container id="aspace_24b70022ff26a4810c0113d561c218bf" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_e76eb001e44d681e534d0f573afd984f" parent="aspace_24b70022ff26a4810c0113d561c218bf" type="folder">20</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1949/1949" type="inclusive">Jul-Dec 1949</unitdate><container id="aspace_72ca504f6cb57b3d49ec406f29d89b32" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_c941d541ef58e41b7284ebd4d9d9d4aa" parent="aspace_72ca504f6cb57b3d49ec406f29d89b32" type="folder">21</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1950/1950" type="inclusive">1950</unitdate><container id="aspace_c09f62809860c81446c0ada451b5ebe6" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_7436d467662cf6f83fd2a6de82b017d3" parent="aspace_c09f62809860c81446c0ada451b5ebe6" type="folder">22</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1951/1951" type="inclusive">1951</unitdate><container id="aspace_f7e045bc0529afdce97f46e08aae7cbf" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_936b61633c326417fe681a3219004561" parent="aspace_f7e045bc0529afdce97f46e08aae7cbf" type="folder">23</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1952/1952" type="inclusive">Jan-Jun 1952</unitdate><container id="aspace_9b5a5bf7268a40afef1ec5b634142be5" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_5e9ff55631fb812036b57632de7d5b2f" parent="aspace_9b5a5bf7268a40afef1ec5b634142be5" type="folder">24</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1952/1952" type="inclusive">Jul-Dec 1952</unitdate><container id="aspace_6aa4faccb3b06422ec48677f6c68aac7" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_7ae8a169c13c8e8c9f8e9eb7b4d2a5a6" parent="aspace_6aa4faccb3b06422ec48677f6c68aac7" type="folder">25</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1953/1953" type="inclusive">Jan-Jun 1953</unitdate><container id="aspace_9c2586d2bc36421377c3489368cbffb3" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_3ee34725d82da4cc3d37bbcebb77e914" parent="aspace_9c2586d2bc36421377c3489368cbffb3" type="folder">26</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1953/1953" type="inclusive">Jul-Dec 1953</unitdate><container id="aspace_171c526cee96d0cc07466dbb87b103a5" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_1aaf9636714315cf566aadf64514f60d" parent="aspace_171c526cee96d0cc07466dbb87b103a5" type="folder">27</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1954/1954" type="inclusive">1954</unitdate><container id="aspace_19e909a0745a8c3fc835449abd7e3576" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_68ebc30d2e6a877a7a8900564410b9d1" parent="aspace_19e909a0745a8c3fc835449abd7e3576" type="folder">28</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1955/1955" type="inclusive">1955</unitdate><container id="aspace_786905003204cfc76ff57c2e96d92482" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_21207a2dbc2ae1354ea916a3de9668cd" parent="aspace_786905003204cfc76ff57c2e96d92482" type="folder">29</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1956/1956" type="inclusive">1956</unitdate><container id="aspace_42147f83a98fd98a5e8ad57110d4014f" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_e770ea4b80d29737cffd236cc90e8ffe" parent="aspace_42147f83a98fd98a5e8ad57110d4014f" type="folder">30</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1957/1957" type="inclusive">Jan 1 1957-Mar 14 1957</unitdate><container id="aspace_5d9ecaf7ec7f2a7c10794bc5ad99e5ab" label="Mixed Materials [31142054609873]" type="box">1</container><container id="aspace_114eaea1aa8dcafc7833854433f6ffe5" parent="aspace_5d9ecaf7ec7f2a7c10794bc5ad99e5ab" type="folder">31</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1957/1957" type="inclusive">Mar 15 1957-Jun 28 1957</unitdate><container id="aspace_f1461e581860c67f88440047d2a06333" label="Mixed Materials [31142054609816]" type="box">2</container><container id="aspace_e51ef91143f9b8c997dba85ef78ff7c3" parent="aspace_f1461e581860c67f88440047d2a06333" type="folder">1</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1957/1957" type="inclusive">Jul-Dec 1957</unitdate><container id="aspace_5415794fbd6ef16d0667d84a9b4feeae" label="Mixed Materials [31142054609816]" type="box">2</container><container id="aspace_114c9f897fad1421fd32483d9c67df63" parent="aspace_5415794fbd6ef16d0667d84a9b4feeae" type="folder">3</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1958/1958" type="inclusive">1958</unitdate><container id="aspace_d5b72052af297568a3369849005aeee5" label="Mixed Materials [31142054609816]" type="box">2</container><container id="aspace_b705c9e3f887011c4354bd9dc1a82fcd" parent="aspace_d5b72052af297568a3369849005aeee5" type="folder">2</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1959/1959" type="inclusive">Jan-Jun 1959</unitdate><container id="aspace_0166256da4d093cfd273ee10db90cf63" label="Mixed Materials [31142054609816]" type="box">2</container><container id="aspace_14fc40680f5b374ea67f8312179d3b78" parent="aspace_0166256da4d093cfd273ee10db90cf63" type="folder">3</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1959/1959" type="inclusive">Jul-Dec 1959</unitdate><container id="aspace_c74cc55098f377105340a83eadba8e7d" label="Mixed Materials [31142054609816]" type="box">2</container><container id="aspace_d45f361e35af19c98ae75914d4f66dcb" parent="aspace_c74cc55098f377105340a83eadba8e7d" type="folder">4</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle><unitdate normal="1992/1992" type="inclusive">Dec 20, 1992</unitdate><container id="aspace_f9bfb890ec7f68fd6a18012d82026a08" label="Mixed Materials [31142054609816]" type="box">2</container><container id="aspace_bdb77c4b74b67e28f224243ddb1324ff" parent="aspace_f9bfb890ec7f68fd6a18012d82026a08" type="folder">5</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Writings: Non-<emph render="italic">New York Times</emph></unittitle><unitdate normal="1957/1990" type="inclusive">1957-1990</unitdate><container id="aspace_1db90ff874c5b5bd81ee1ba9e66a8bcf" label="Mixed Materials [31142054609816]" type="box">2</container><container id="aspace_acbe5e3154da1abad5744cb0e1afe17a" parent="aspace_1db90ff874c5b5bd81ee1ba9e66a8bcf" type="folder">6</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Writings: Review of <emph render="italic">Collision</emph> by Kenneth C. Crowe</unittitle><unitdate>undated</unitdate><container id="aspace_3369f77d770a95f25ee20a6ac8168a73" label="Mixed Materials [31142054609816]" type="box">2</container><container id="aspace_16b6c46d76b29a1b1e820374e16d593f" parent="aspace_3369f77d770a95f25ee20a6ac8168a73" type="folder">7</container></did></c></c><c id="aspace_ref8" level="series"><did><unittitle>Series II: Scrapbooks, 1961-1976</unittitle></did><c id="aspace_ref48" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (Scrapbook)</unittitle><unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate><container id="aspace_2609a4367859bea79f6e38f4d62bf431" label="Mixed Materials [31142054609865]" type="box">3</container><container id="aspace_783e6f793c8bc434548a980b780ea0c7" parent="aspace_2609a4367859bea79f6e38f4d62bf431" type="volume">1</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (Scrapbook)</unittitle><unitdate normal="1963/1965" type="inclusive">1963-1965</unitdate><container id="aspace_15e05a53841839f3794d57e28724b89f" label="Mixed Materials [31142054609865]" type="box">3</container><container id="aspace_35858bcd5ef1875d741dfcf110ca934d" parent="aspace_15e05a53841839f3794d57e28724b89f" type="volume">2</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (Scrapbook)</unittitle><unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate><container id="aspace_e80b2098aea379b52eb499ca8938c959" label="Mixed Materials [31142054609857]" type="box">4</container><container id="aspace_3a92f347f9926e4e8b7f077990a7a103" parent="aspace_e80b2098aea379b52eb499ca8938c959" type="volume">1</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (Scrapbook)</unittitle><unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate><container id="aspace_008148425f5329eea7d4160915e68bb8" label="Mixed Materials [31142054609857]" type="box">4</container><container id="aspace_c5ec52dd347bb7a56ef07d670848a9d6" parent="aspace_008148425f5329eea7d4160915e68bb8" type="volume">2</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (Scrapbook)</unittitle><unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate><container id="aspace_c404f5474e107024167d8e52f16bf21d" label="Mixed Materials [31142054609840]" type="box">5</container><container id="aspace_7db4a02961c63a6246b0cce2bd542594" parent="aspace_c404f5474e107024167d8e52f16bf21d" type="volume">1</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (Scrapbook)</unittitle><unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate><container id="aspace_8d44a03237f70c43d71a4aa3dca70693" label="Mixed Materials [31142054609840]" type="box">5</container><container id="aspace_62e3c804d879601e2cd83825c20c50a8" parent="aspace_8d44a03237f70c43d71a4aa3dca70693" type="volume">2</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (Scrapbook)</unittitle><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container id="aspace_c7949a327167d6f998832f89a15bef40" label="Mixed Materials [31142054609832]" type="box">6</container><container id="aspace_72339700aeff076a2284358ce2d8e3a7" parent="aspace_c7949a327167d6f998832f89a15bef40" type="volume">1</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (Scrapbook)</unittitle><unitdate normal="1975/1975" type="inclusive">1975</unitdate><container id="aspace_35d00a3b1e616509873ee521aefe8033" label="Mixed Materials [31142054609832]" type="box">6</container><container id="aspace_f8d3a866648040ee969ef806ce9b87d6" parent="aspace_35d00a3b1e616509873ee521aefe8033" type="volume">2</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Writings: <emph render="italic">New York Times</emph> Columns (Scrapbook)</unittitle><unitdate normal="1976/1976" type="inclusive">1976</unitdate><container id="aspace_15f49b98353a45c90412f3b011ed6200" label="Mixed Materials [31142054609824]" type="box">7</container><container id="aspace_3bf0088f7b910bb8f9cf291efd899912" parent="aspace_15f49b98353a45c90412f3b011ed6200" type="volume">1</container></did></c></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref7" level="series">
+        <did>
+          <unittitle>Series I: General Files, 1940-1994</unittitle>
+          <unitdate normal="1940/1994" type="inclusive">1940-1994</unitdate>
+        </did>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Aphasia</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_18b95fcefab56af9d9cbd705fae96e3c" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_6ec0b8bfdcbcdb9a2093d109c354722d" parent="aspace_18b95fcefab56af9d9cbd705fae96e3c" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Articles and Clippings</unittitle>
+            <unitdate normal="1974/1992" type="inclusive">1974-1992</unitdate>
+            <container id="aspace_0a0a1afc4c73f9c0aa85a4195cb8ce3b" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_51be6369c2cf77fd05a2dc15e8459637" parent="aspace_0a0a1afc4c73f9c0aa85a4195cb8ce3b" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Biographical Material</unittitle>
+            <unitdate normal="1991/1994" type="inclusive">1991-1994; undated</unitdate>
+            <container id="aspace_52c50d3a63b2cab7bd465e844c1e62bf" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_c2bfd2ada28b1fd59f222947c5fec20c" parent="aspace_52c50d3a63b2cab7bd465e844c1e62bf" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>City College New York Alumni Association Card</unittitle>
+            <unitdate normal="1988/1989" type="inclusive">1988/89</unitdate>
+            <container id="aspace_fa7b9ba51ebf21e88fcf92429274f868" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_af6aa3d8be9642b941410505c243131e" parent="aspace_fa7b9ba51ebf21e88fcf92429274f868" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1976/1993" type="inclusive">1976-1993</unitdate>
+            <container id="aspace_a1ecd26cedcfa5852e512121c500f7db" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_520420c34a374cd04ad6cbd19e412480" parent="aspace_a1ecd26cedcfa5852e512121c500f7db" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Columbia-Presbyterian Medical Center: Printed Material</unittitle>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989; undated</unitdate>
+            <container id="aspace_c8fb58799841c845e78ca3ad3dfaf047" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_50feec0af47e2daa270d06874510e6a8" parent="aspace_c8fb58799841c845e78ca3ad3dfaf047" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Memo re: Robert P. Brindell</unittitle>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_796360935a26e4db7bfdf030175af71b" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_d4b121e3d60b126903d7d5f47b42086e" parent="aspace_796360935a26e4db7bfdf030175af71b" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>National Symposium on Stroke and Quality of Life</unittitle>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_160fd11d796b2078f6006bb9b7ad3287" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_ce8af21b1f4a7b18d1b9b6cacd8cd877" parent="aspace_160fd11d796b2078f6006bb9b7ad3287" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Notes and Research Materials: Labor</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_fedd76c34323f2d3d2abc67dae976dd0" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_31b01611abc20538c3552c2b3c2a9f04" parent="aspace_fedd76c34323f2d3d2abc67dae976dd0" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Notes: General</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_6946db5daa46ac81654e89af2d564998" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_f5d6e731d29499da01c1c8ffb7615d4a" parent="aspace_6946db5daa46ac81654e89af2d564998" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Photograph of Raskin</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_d80f6110e0914c97871470e66e48823f" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_e0e842e07f08f08a2442b9a0db955db9" parent="aspace_d80f6110e0914c97871470e66e48823f" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Raskin, Marge: "What Constitutes True Love for an Aphasiac?" (Tribute to AHR)</unittitle>
+            <unitdate normal="1994/1994" type="inclusive">circa 1994</unitdate>
+            <container id="aspace_6352b9a8c13cb73f1963fe6acf95c443" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_7124787ad40233029aebdc279e6ff563" parent="aspace_6352b9a8c13cb73f1963fe6acf95c443" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Writings: Aphasia</unittitle>
+            <unitdate normal="1992/1993" type="inclusive">1992-1993</unitdate>
+            <container id="aspace_a33f024ad7d4666d9d74f2f091bc40a2" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_b1dbc1bb0697126f9001328159b974bf" parent="aspace_a33f024ad7d4666d9d74f2f091bc40a2" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Writings: Draft of <emph render="italic">New York Times</emph> Column</unittitle>
+            <unitdate normal="1958/1958" type="inclusive">Dec 17, 1958</unitdate>
+            <container id="aspace_9d48b7f8020670024d104029728ddb29" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_9f844ffdaf36b89db363a7fad54de2fb" parent="aspace_9d48b7f8020670024d104029728ddb29" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Writings: Joseph S. Fay, Notes and Draft of Article on</unittitle>
+            <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+            <container id="aspace_10af1b244eef1bb8fd9bfeda2cb210b8" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_426558d702515236f959c94c7e14313d" parent="aspace_10af1b244eef1bb8fd9bfeda2cb210b8" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1940/1942" type="inclusive">1940-1942</unitdate>
+            <container id="aspace_9fcb76bab66fd8acf55cc06af20d4b01" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_963c9967ca41b27c5576475566296357" parent="aspace_9fcb76bab66fd8acf55cc06af20d4b01" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate>
+            <container id="aspace_288a618d3ef83b97564e28e5e541f625" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_8e2352981e8f9020d7d6a799920d4d8e" parent="aspace_288a618d3ef83b97564e28e5e541f625" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_bd9bd997e80d2d468b9c6dea76b242c1" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_50f3cefc120b32547cf170ea0c0a0012" parent="aspace_bd9bd997e80d2d468b9c6dea76b242c1" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container id="aspace_9fb49af471c577afd40fb40392283a08" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_42037b7658ddf14373637addbd67364b" parent="aspace_9fb49af471c577afd40fb40392283a08" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1949/1949" type="inclusive">Jan-Jun 1949</unitdate>
+            <container id="aspace_24b70022ff26a4810c0113d561c218bf" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_e76eb001e44d681e534d0f573afd984f" parent="aspace_24b70022ff26a4810c0113d561c218bf" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1949/1949" type="inclusive">Jul-Dec 1949</unitdate>
+            <container id="aspace_72ca504f6cb57b3d49ec406f29d89b32" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_c941d541ef58e41b7284ebd4d9d9d4aa" parent="aspace_72ca504f6cb57b3d49ec406f29d89b32" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_c09f62809860c81446c0ada451b5ebe6" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_7436d467662cf6f83fd2a6de82b017d3" parent="aspace_c09f62809860c81446c0ada451b5ebe6" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_f7e045bc0529afdce97f46e08aae7cbf" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_936b61633c326417fe681a3219004561" parent="aspace_f7e045bc0529afdce97f46e08aae7cbf" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1952/1952" type="inclusive">Jan-Jun 1952</unitdate>
+            <container id="aspace_9b5a5bf7268a40afef1ec5b634142be5" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_5e9ff55631fb812036b57632de7d5b2f" parent="aspace_9b5a5bf7268a40afef1ec5b634142be5" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1952/1952" type="inclusive">Jul-Dec 1952</unitdate>
+            <container id="aspace_6aa4faccb3b06422ec48677f6c68aac7" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_7ae8a169c13c8e8c9f8e9eb7b4d2a5a6" parent="aspace_6aa4faccb3b06422ec48677f6c68aac7" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1953/1953" type="inclusive">Jan-Jun 1953</unitdate>
+            <container id="aspace_9c2586d2bc36421377c3489368cbffb3" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_3ee34725d82da4cc3d37bbcebb77e914" parent="aspace_9c2586d2bc36421377c3489368cbffb3" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1953/1953" type="inclusive">Jul-Dec 1953</unitdate>
+            <container id="aspace_171c526cee96d0cc07466dbb87b103a5" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_1aaf9636714315cf566aadf64514f60d" parent="aspace_171c526cee96d0cc07466dbb87b103a5" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+            <container id="aspace_19e909a0745a8c3fc835449abd7e3576" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_68ebc30d2e6a877a7a8900564410b9d1" parent="aspace_19e909a0745a8c3fc835449abd7e3576" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
+            <container id="aspace_786905003204cfc76ff57c2e96d92482" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_21207a2dbc2ae1354ea916a3de9668cd" parent="aspace_786905003204cfc76ff57c2e96d92482" type="folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_42147f83a98fd98a5e8ad57110d4014f" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_e770ea4b80d29737cffd236cc90e8ffe" parent="aspace_42147f83a98fd98a5e8ad57110d4014f" type="folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1957/1957" type="inclusive">Jan 1 1957-Mar 14 1957</unitdate>
+            <container id="aspace_5d9ecaf7ec7f2a7c10794bc5ad99e5ab" label="Mixed Materials [31142054609873]" type="box">1</container>
+            <container id="aspace_114eaea1aa8dcafc7833854433f6ffe5" parent="aspace_5d9ecaf7ec7f2a7c10794bc5ad99e5ab" type="folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1957/1957" type="inclusive">Mar 15 1957-Jun 28 1957</unitdate>
+            <container id="aspace_f1461e581860c67f88440047d2a06333" label="Mixed Materials [31142054609816]" type="box">2</container>
+            <container id="aspace_e51ef91143f9b8c997dba85ef78ff7c3" parent="aspace_f1461e581860c67f88440047d2a06333" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1957/1957" type="inclusive">Jul-Dec 1957</unitdate>
+            <container id="aspace_5415794fbd6ef16d0667d84a9b4feeae" label="Mixed Materials [31142054609816]" type="box">2</container>
+            <container id="aspace_114c9f897fad1421fd32483d9c67df63" parent="aspace_5415794fbd6ef16d0667d84a9b4feeae" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_d5b72052af297568a3369849005aeee5" label="Mixed Materials [31142054609816]" type="box">2</container>
+            <container id="aspace_b705c9e3f887011c4354bd9dc1a82fcd" parent="aspace_d5b72052af297568a3369849005aeee5" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">Jan-Jun 1959</unitdate>
+            <container id="aspace_0166256da4d093cfd273ee10db90cf63" label="Mixed Materials [31142054609816]" type="box">2</container>
+            <container id="aspace_14fc40680f5b374ea67f8312179d3b78" parent="aspace_0166256da4d093cfd273ee10db90cf63" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">Jul-Dec 1959</unitdate>
+            <container id="aspace_c74cc55098f377105340a83eadba8e7d" label="Mixed Materials [31142054609816]" type="box">2</container>
+            <container id="aspace_d45f361e35af19c98ae75914d4f66dcb" parent="aspace_c74cc55098f377105340a83eadba8e7d" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (photocopies)</unittitle>
+            <unitdate normal="1992/1992" type="inclusive">Dec 20, 1992</unitdate>
+            <container id="aspace_f9bfb890ec7f68fd6a18012d82026a08" label="Mixed Materials [31142054609816]" type="box">2</container>
+            <container id="aspace_bdb77c4b74b67e28f224243ddb1324ff" parent="aspace_f9bfb890ec7f68fd6a18012d82026a08" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Writings: Non-<emph render="italic">New York Times</emph></unittitle>
+            <unitdate normal="1957/1990" type="inclusive">1957-1990</unitdate>
+            <container id="aspace_1db90ff874c5b5bd81ee1ba9e66a8bcf" label="Mixed Materials [31142054609816]" type="box">2</container>
+            <container id="aspace_acbe5e3154da1abad5744cb0e1afe17a" parent="aspace_1db90ff874c5b5bd81ee1ba9e66a8bcf" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Writings: Review of <emph render="italic">Collision</emph> by Kenneth C. Crowe</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_3369f77d770a95f25ee20a6ac8168a73" label="Mixed Materials [31142054609816]" type="box">2</container>
+            <container id="aspace_16b6c46d76b29a1b1e820374e16d593f" parent="aspace_3369f77d770a95f25ee20a6ac8168a73" type="folder">7</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref8" level="series">
+        <did>
+          <unittitle>Series II: Scrapbooks, 1961-1976</unittitle>
+        </did>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (Scrapbook)</unittitle>
+            <unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate>
+            <container id="aspace_2609a4367859bea79f6e38f4d62bf431" label="Mixed Materials [31142054609865]" type="box">3</container>
+            <container id="aspace_783e6f793c8bc434548a980b780ea0c7" parent="aspace_2609a4367859bea79f6e38f4d62bf431" type="volume">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (Scrapbook)</unittitle>
+            <unitdate normal="1963/1965" type="inclusive">1963-1965</unitdate>
+            <container id="aspace_15e05a53841839f3794d57e28724b89f" label="Mixed Materials [31142054609865]" type="box">3</container>
+            <container id="aspace_35858bcd5ef1875d741dfcf110ca934d" parent="aspace_15e05a53841839f3794d57e28724b89f" type="volume">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (Scrapbook)</unittitle>
+            <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
+            <container id="aspace_e80b2098aea379b52eb499ca8938c959" label="Mixed Materials [31142054609857]" type="box">4</container>
+            <container id="aspace_3a92f347f9926e4e8b7f077990a7a103" parent="aspace_e80b2098aea379b52eb499ca8938c959" type="volume">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (Scrapbook)</unittitle>
+            <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
+            <container id="aspace_008148425f5329eea7d4160915e68bb8" label="Mixed Materials [31142054609857]" type="box">4</container>
+            <container id="aspace_c5ec52dd347bb7a56ef07d670848a9d6" parent="aspace_008148425f5329eea7d4160915e68bb8" type="volume">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (Scrapbook)</unittitle>
+            <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container id="aspace_c404f5474e107024167d8e52f16bf21d" label="Mixed Materials [31142054609840]" type="box">5</container>
+            <container id="aspace_7db4a02961c63a6246b0cce2bd542594" parent="aspace_c404f5474e107024167d8e52f16bf21d" type="volume">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (Scrapbook)</unittitle>
+            <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+            <container id="aspace_8d44a03237f70c43d71a4aa3dca70693" label="Mixed Materials [31142054609840]" type="box">5</container>
+            <container id="aspace_62e3c804d879601e2cd83825c20c50a8" parent="aspace_8d44a03237f70c43d71a4aa3dca70693" type="volume">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (Scrapbook)</unittitle>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_c7949a327167d6f998832f89a15bef40" label="Mixed Materials [31142054609832]" type="box">6</container>
+            <container id="aspace_72339700aeff076a2284358ce2d8e3a7" parent="aspace_c7949a327167d6f998832f89a15bef40" type="volume">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (Scrapbook)</unittitle>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_35d00a3b1e616509873ee521aefe8033" label="Mixed Materials [31142054609832]" type="box">6</container>
+            <container id="aspace_f8d3a866648040ee969ef806ce9b87d6" parent="aspace_35d00a3b1e616509873ee521aefe8033" type="volume">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Writings: <emph render="italic">New York Times</emph> Columns (Scrapbook)</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_15f49b98353a45c90412f3b011ed6200" label="Mixed Materials [31142054609824]" type="box">7</container>
+            <container id="aspace_3bf0088f7b910bb8f9cf291efd899912" parent="aspace_15f49b98353a45c90412f3b011ed6200" type="volume">1</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

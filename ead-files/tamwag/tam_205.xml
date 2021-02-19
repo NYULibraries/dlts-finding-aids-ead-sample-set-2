@@ -1,92 +1,740 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_205">tam_205</eadid><filedesc><titlestmt><titleproper>Guide to the Bert Cochran Papers <num>TAM.205</num></titleproper><author>Peter Meyer Filardo, 2005</author></titlestmt><editionstmt><p>This version was derived from cochran TAM 205.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:49:59 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Bert Cochran Papers</unittitle>
-    <origination label="Creator">
-      <persname source="naf">Cochran, Bert, 1913-1984.</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">Cochran, Cynthia</persname>
-    </origination>
-    <unitid>TAM.205</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
-      <extent altrender="carrier">(5 boxes)</extent>
-    </physdesc>
-    <unitdate normal="1935/1978" type="inclusive">1935-1978</unitdate>
-    <unitdate normal="1935/1955" type="bulk">1935-1955</unitdate>
-    <abstract id="aspace_8e26bba7fde07831a7e953132bfb0f39">Bert Cochran (1916-1984) was a Trotskyist active in the Communist League of America (1934), the Workers Party of the United States (1935-37), in the Appeal Group within the Socialist Party, and in the automobile industry (1930s-40s), first in Cleveland within the Mechanics Educational Society of America, then in Detroit as head of the Socialist Workers Party Auto Fraction and as an activist in the United Automobile Workers of America. He left/was expelled from the SWP in 1954 for his leading role in the "Cochran-Clarke" faction, then helped found the magazine <title render="italic">The American Socialist</title>(1954-1959), and subsequently wrote seven books that covered labor and economics, and current domestic and international affairs. The collection contains correspondence, minutes, and reports relating to his labor and political activities, typescripts of speeches on various topics, and an (incomplete) untitled manuscript, a Marxist history of warfare and society.</abstract>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_205">tam_205</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Bert Cochran Papers <num>TAM.205</num></titleproper>
+        <author>Peter Meyer Filardo, 2005</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from cochran TAM 205.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:49:59 -0500</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Bert Cochran Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Cochran, Bert, 1913-1984.</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Cochran, Cynthia</persname>
+      </origination>
+      <unitid>TAM.205</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
+        <extent altrender="carrier">(5 boxes)</extent>
+      </physdesc>
+      <unitdate normal="1935/1978" type="inclusive">1935-1978</unitdate>
+      <unitdate normal="1935/1955" type="bulk">1935-1955</unitdate>
+      <abstract id="aspace_8e26bba7fde07831a7e953132bfb0f39">Bert Cochran (1916-1984) was a Trotskyist active in the Communist League of America (1934), the Workers Party of the United States (1935-37), in the Appeal Group within the Socialist Party, and in the automobile industry (1930s-40s), first in Cleveland within the Mechanics Educational Society of America, then in Detroit as head of the Socialist Workers Party Auto Fraction and as an activist in the United Automobile Workers of America. He left/was expelled from the SWP in 1954 for his leading role in the "Cochran-Clarke" faction, then helped found the magazine <title render="italic">The American Socialist</title>(1954-1959), and subsequently wrote seven books that covered labor and economics, and current domestic and international affairs. The collection contains correspondence, minutes, and reports relating to his labor and political activities, typescripts of speeches on various topics, and an (incomplete) untitled manuscript, a Marxist history of warfare and society.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-  </did>
-  <accessrestrict id="aspace_b54fd5403e7a42e468a0e56744c51e8c">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_116201cd24228d2d904272915738ca04">
-    <head>Immediate Source of Acquisition</head>
-<p>Materials were found in repository; provenance is unknown but were likely donated by Cynthia Copeland Cochran in 1998. The accession number associated with these materials is 1998.004.</p>  </acqinfo>
-  <arrangement id="aspace_73d3f15b696ae17394138c61562c8fc5">
-    <head>Arrangement</head>
-<p>Within each series, the folders are arranged chronologically.</p><p>Organized into three series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>1. Labor and Political Activities</item>
-      <item>2. Unpublished Writings.</item>
-      <item>3. Addendum</item>
-    </list>
-  </arrangement>
-  <bioghist id="aspace_eb4849b32ffe8bd5c7e780b8137d7b53">
-    <head>Historical/Biographical Note</head>
-<p>Bert Cochran (Dec 25, 1916 - Jun 4, 1984), an American Trotskyist, also known by the pseudonym, E. R. Frank, was born Alexander Goldfarb in Warsaw, Poland. He joined the Communist League of America in 1934, was a member of the American Workers Party (1935-1937), was a district organizer for the Cleveland district of the Mechanics Educational Society of America (MESA) in 1936-37 and was a member of the Appeal Group (within the Socialist Party), was a member of the Socialist Workers Party (SWP) from its inception in 1938, serving on its National Committee for many years and, based in Detroit, was a leading figure in the SWP's work in organizing auto workers, serving as chair of the SWP's Auto Fraction, and was an activist in the United Automobile Workers of America.</p><p>He left/was expelled from the SWP in 1954 for his leading role in the "Cochran-Clarke" faction, which held dissenting views on the appropriate relationship to Stalinism, and in particular to Communist Party labor- movement activism and activists. Along with fellow ex-SWP members George Clarke and Harry Braverman, he founded the magazine <title render="italic">The American Socialist</title>(1954-1959). In 1949 he met his companion Cynthia Copeland Cochran (who is also the sister of Vince Copeland, also a Trotskyist activist and long-time leading figure in the Workers World Party).</p><p>Cochran wrote seven books. Two were on the labor movement: <title render="italic">American Labor at Midpassage</title>(1959) and <title render="italic">Labor and Communism: The Conflict that Shaped American Unions</title>(1977). The others were: <title render="italic">The Cross of the Moment</title>(1961), <title render="italic">The War System</title>(1965), <title render="italic">Adlai</title><title render="italic">Stevenson: Patrician among the Politicians</title>(1969), <title render="italic">Harry Truman and the Crisis Presidency</title>(1973), and <title render="italic">Welfare Capitalism--and After</title>(1984).</p>  </bioghist>
-  <prefercite id="aspace_8f7fcebabc28449539971d453d919e50">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Bert Cochran Papers; TAM 205; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <relatedmaterial id="aspace_6a5fcb04c26f5a96fd0a13dedb26e558">
-    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-<p>George Breitman Papers (TAM 169)</p>  </relatedmaterial>
-  <scopecontent id="aspace_f09cb567fd918ecf734bd6e6401b04d7">
-    <head>Scope and Content Note</head>
-<p>This collection is organized into two series: 1. Labor and Political Activities, and 2. Unpublished Writings. The collection contains correspondence, manuscripts, and minutes, reports, and other internal documents, principally from the Socialist Workers Party, and from the United Automobile Workers union. In addition to Cochran (often as E. R. Frank, or as "Burt" Cochran), notable correspondents and authors include George F. Addes, James Burnham, James Cannon, George Clarke, Farrell Dobbs, Vincent R. Dunne, Jules Geller, Rose Karsner, Homer Martin, Felix Morrow, A.J. Muste, Max Shachtman, Arne Swabeck, and Natalia Trotsky. There are also letters from SWP and UAW activists.</p><p>In the first series, the American Workers Party file (1935-36) contains discussion of the political and tactical issues involved in the "French Turn" (the mass entry of individual Trotskyists into the Socialist Party, so called after the tactic used in France). The bulk of the series provides concerns the SWP's activity within the automobile industry and the UAW, and the debates within the SWP on these matters. The documentation is most extensive for the years through 1943. There are lengthy analytical letters, confidential reports, club and auto fraction meeting minutes, leaflets and flyers distributed to the rank and file, and some UAW correspondence, minutes and other internal documents. Issues/events covered include: SWP internal debates on automobile industry and general labor union policy, UAW factionalism, 1937-39, and the SWP's initial support for President Homer Martin's faction, organizing auto workers, the conditions and status of auto industry workers employed under the Works Progress Administration (WPA), and responses to labor measures adopted by the U.S. government during World War II.</p><p>There are also numerous reports and statements on the international political and military situation during World War II, two letters from/regarding the (Trotskyist) Internationale Kommunisten Deutschlands (International Communist Party of Germany), and a copy of a 1944 letter from Natalia Trotsky relating to the nature of the Soviet Union. The post-World War II files contain reports and speeches and focus on national and international politics, notably Poland, Korea, and for Yugoslavia, a report from an SWP member who had visited Belgrade ca.1950. There is detailed discussion from 1945-46 of the political differences between the SWP majority and the Morrison (nee Albert Goldman) / Felix Morrow minority. There are also typescripts of several of Cochran's speeches from the 1950s on U.S. and international affairs.</p><p>Series two contains portions of two unpublished (and untitled and undated) manuscripts. The first is a partial manuscript (some 450 pp.), an explicitly Marxist study of warfare in human history that may have been written in the years preceding Cochran's study of post-World War II world politics and military policy, <title render="italic">The War System</title>(Macmillan, 1965). The second consists of one chapter, titled "Workers and Intellectuals" (ca.1978), from an untitled work.</p><p>Seeries three (unprocessed) contains correspondence, reports, manuscripts and clippings, most from the end of World War II through 1954, with a few earlier items. Major topics are internal debates within the Socialist Workers Party in the 1950s, including in regard to the "Pabloist" tendency, and the post-War labor movement. Among the manuscripts are several chapters from an untitled work by Cochran.</p>  </scopecontent>
-  <userestrict id="aspace_a5f717ec264b51aee38be710c0562186">
-    <head>Conditions Governing Use</head>
-<p>Copyright (and related rights to publicity and privacy) to materials is this collection created by Bert Cochran was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <controlaccess>
-    <genreform source="aat">Manuscripts for publication.</genreform>
-    <genreform source="aat">Minutes (administrative records)</genreform>
-    <genreform source="aat">Reports.</genreform>
-    <genreform source="aat">Speeches.</genreform>
-    <subject source="lcsh">War and society |x History.</subject>
-    <subject source="lcsh">Labor unions and communism -- United States.</subject>
-    <subject source="lcsh">Socialism -- United States -- 20th century.</subject>
-    <genreform source="aat">Correspondence.</genreform>
-    <subject source="lcsh">Automobile industry workers |x Labor unions |z United States.</subject>
-    <subject source="lcsh">Communism -- United States -- 20th century</subject>
-    <corpname source="naf">Socialist Workers Party</corpname>
-    <corpname source="naf">International Union, United Automobile Workers of America (CIO)</corpname>
-    <corpname source="naf">International Union, United Automobile, Aircraft, and Agricultural Implement Workers of America</corpname>
-    <persname source="naf">Martin, Warren Homer, 1902-1968</persname>
-    <corpname source="naf">Mechanics Educational Society of America</corpname>
-    <persname source="naf">Morrow, Felix</persname>
-    <corpname source="local">Internationale Kommunisten Deutschlands</corpname>
-    <persname rules="dacs" source="local">Goldman, Albert</persname>
-    <persname source="naf">Shachtman, Max, 1903-1972</persname>
-    <persname source="naf">Karsner, Rose.</persname>
-    <persname source="naf">Swabeck, Arne</persname>
-    <persname source="naf">Dunne, Vincent R. (Vincent Raymond), 1889-1970</persname>
-    <corpname source="naf">American Workers Party</corpname>
-    <persname rules="dacs" source="local">Geller, Jules</persname>
-    <persname source="naf">Addes, George F., 1910</persname>
-    <persname source="naf">Dobbs, Farrell</persname>
-    <persname source="naf">Burnham, James, 1905-1987</persname>
-    <persname source="naf">Trotskaia, Nataliia Ivanovna, 1882-1962</persname>
-    <persname rules="dacs" source="naf">Muste,  A. J. (Abraham John), 1885-1967.</persname>
-    <persname source="naf">Cannon, James Patrick, 1890-1974</persname>
-    <persname source="naf">Clarke, George, 1840-1906</persname>
-    <persname role="dnr" rules="dacs" source="local">Cochran, Cynthia</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref14" level="series"><did><unittitle>Series 1: Labor and Political Activities</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref15" level="file"><did><unittitle>United Automobile Workers Union</unittitle><unitdate normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_5de4bc114ac1e41e806030fe89dc6c26" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_75adeb4f098bdc9c5fd50442be2be23e" parent="aspace_5de4bc114ac1e41e806030fe89dc6c26" type="folder">1</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>American Workers PartyContents Include: Cochran Correspondence, Internal Documents. (Correspondents include: James Cannon, George Clarke, Rose Karsner, A.J. Muste, Max Shachtman, Arne Swabeck)</unittitle><unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_b97f6788aab01d4ab0d51c15ac2188f5" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_82d8281d161f078f17d0e0e67d200341" parent="aspace_b97f6788aab01d4ab0d51c15ac2188f5" type="folder">2</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Mechanics Educational Society of America (MESA): Cochran Correspondence with Matthew Smith (National Secretary).</unittitle><unitdate normal="1935/1937" type="inclusive">1935-1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_b3efb8944c5a13b90b9ca0fc6f4c9723" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_765ab0d861765aae6b30bc581f740d88" parent="aspace_b3efb8944c5a13b90b9ca0fc6f4c9723" type="folder">3</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Unemployed Movement Activity - Ohio, New York</unittitle><unitdate normal="1935/1940" type="inclusive">1935-1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_af1be052689f83281364e83ca373b8ae" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_a605b6fe4f88f2bfc6d50907f2f164a1" parent="aspace_af1be052689f83281364e83ca373b8ae" type="folder">4</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Cochran: Notes (Midland Steel Strike); Speech (The Flint Sit-Downs: The Spirit of 1937)</unittitle><unitdate normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_edf2f91ea1b3fac9ff2cd4a0ba566d87" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_a68ea284e7ad9cfbf6d7ab22bd9a239b" parent="aspace_edf2f91ea1b3fac9ff2cd4a0ba566d87" type="folder">5</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Socialist PartyContents Include: National Auto League Conference (Detroit, May 22-23) Minutes (participants included Victor Reuther and Walter Reuther); Unsigned letter (Nov 25, from Farrell Dobbs?) re Minneapolis Teamsters Movement.</unittitle><unitdate normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_bfe0fee30ee0e483312c9e1a98ee83f9" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_02e388881972bd8895908193025fe2b9" parent="aspace_bfe0fee30ee0e483312c9e1a98ee83f9" type="folder">6</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>United Automobile Workers Correspondence (Includes: Cochran, George F. Addes, Homer Martin)</unittitle><unitdate normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_091d1133042aa4c80c09951331790cb9" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_80d489187ea0247a7fe069fbb99a362a" parent="aspace_091d1133042aa4c80c09951331790cb9" type="folder">7</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Socialist Workers PartyContents Include: Cochran Correspondence (includes letters from James Cannon and George Clarke, and one from James Burnham); Minutes of National Auto Fraction Meeting (Detroit, Dec 25th).</unittitle><unitdate normal="1938/1938" type="inclusive">1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_b2708616a332497c23947ea9749222f9" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_f156282cea623bd32bd5b2dbe5253ec3" parent="aspace_b2708616a332497c23947ea9749222f9" type="folder">8</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>United Automobile Workers: Cochran Correspondence (principally with activists); Homer Martin memorandums; Internal Documents including Unity Caucus material.</unittitle><unitdate normal="1938/1938" type="inclusive">1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_5cdcee60e4fb87c6de681d27b3bfdeda" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_8c38fde72627f8eb8db2353614012d04" parent="aspace_5cdcee60e4fb87c6de681d27b3bfdeda" type="folder">9</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Anti-Communist Party Leaflets for Auto Workers (by Homer Martin supporters)</unittitle><unitdate normal="1938/1939" type="inclusive">1938-1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_179b36649bd08e7aa6c6a1fe24282bcb" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_2906411d27b3aa9221122097d7cb1447" parent="aspace_179b36649bd08e7aa6c6a1fe24282bcb" type="folder">10</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Revolutionary Workers League. Cleveland Unit: An Open Letter to All Delegates to the UAW-CIO Convention.</unittitle><unitdate normal="1939/1939" type="inclusive">1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_270565971799d4485a32c36d831e8ef7" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_75ccf8e87abcd7eaf3c33bf42ace9b34" parent="aspace_270565971799d4485a32c36d831e8ef7" type="folder">11</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>United Automobile WorkersContents Include: Cochran Correspondence; Cleveland Convention (March) and Other Factional Materials.</unittitle><unitdate>Jan 1939-May 1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_5a792dde40d02dfcffedefa32807bad4" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_a0bba9b8a0f15074adf1b5f1fa708b2b" parent="aspace_5a792dde40d02dfcffedefa32807bad4" type="folder">12</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Clarke, George: The Truth About the Auto Crisis: The Petty-Bourgois Leaders Before the Test of the Class Struggle (contra Shachtman, et al - 22 pp)</unittitle><unitdate normal="1929/1949" type="inclusive">ca.1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_ca973e2a62d1dddf1419a077d4583080" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_7565c664ef93078fc16b7be08c3cdeb0" parent="aspace_ca973e2a62d1dddf1419a077d4583080" type="folder">13</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Robins, Harold: Some of Our Opportunist Mistakes in the Auto Union (19 pp)</unittitle><unitdate normal="1929/1949" type="inclusive">ca.1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_93f4d1839d684b57666b8c7fa855887b" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_9e94946ee899ce426d413eb89803a920" parent="aspace_93f4d1839d684b57666b8c7fa855887b" type="folder">14</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Socialist Workers PartyContents: National Auto Conference Minutes, Detroit, May 5th; Pre-Plenum Discussion Bulletin vol. 3, no. 3, September; Correspondence and other documents)</unittitle><unitdate normal="1940/1940" type="inclusive">1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_5ed0b2469e3b3f33e18f287ff07858cb" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_3390cbc0906ca2b998e4456e120b1abe" parent="aspace_5ed0b2469e3b3f33e18f287ff07858cb" type="folder">15</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>United Automobile Workers</unittitle><unitdate normal="1940/1940" type="inclusive">1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_acc20d6c13f178335bf0f37152ea5e92" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_ed2084b77b7cdd4ea9f6ee445f0057bf" parent="aspace_acc20d6c13f178335bf0f37152ea5e92" type="folder">16</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Socialist Workers PartyContents Include: Cochran correspondence, including James P. Cannon, C. Charles, Vincent Dunne, Jules Geller, automobile industry rank and file activists; Club Executive Minutes; Draft of Revised Declaration of Principles.</unittitle><unitdate normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Manuscript box - Legal" id="aspace_576e6478fb32a3075466bac24d6118aa" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_f0489baf5d048f5c5e1ee0a6978d600e" parent="aspace_576e6478fb32a3075466bac24d6118aa" type="folder">17</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Socialist Workers PartyContents Include: Correspondence (including Cannon, Cochran, Dobbs, Dunne, Jules Geller, G. Munis (Mexico, D.F.); 1942 Report of Outgoing Executive Board Detroit Branch; Resolutions.</unittitle><unitdate normal="1942/1942" type="inclusive">1942</unitdate><container altrender="Manuscript box - Legal" id="aspace_3193c8ec6df92de7e1cd7c31b9b0d00f" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_7c546e8d30def5b3ce206caca27b75b3" parent="aspace_3193c8ec6df92de7e1cd7c31b9b0d00f" type="folder">18</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>United Automobile Workers: Cochran correspondence</unittitle><unitdate normal="1942/1942" type="inclusive">1942</unitdate><container altrender="Manuscript box - Legal" id="aspace_d455608590e818eebf7b465514f3304c" label="Mixed Materials [31142062764207]" type="box">1</container><container id="aspace_dd6e660043155087dd6b0f01184630cf" parent="aspace_d455608590e818eebf7b465514f3304c" type="folder">19</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>[Cochran]: Report on the U.S. Political Situation (30 pp.)</unittitle><unitdate normal="1932/1953" type="inclusive">ca.1942-1943</unitdate><container altrender="Manuscript box - Legal" id="aspace_325c18cc0e1dc0e0452f7a94679fe7b0" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_75a1bf376f049ea0347184a5f47c54e4" parent="aspace_325c18cc0e1dc0e0452f7a94679fe7b0" type="folder">1</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Socialist Workers PartyContents Include: Correspondence and Reports re Auto Fraction (George [Clarke?], Cochran, Dobbs, rank and file, etc.); Resolution on U.S. and Second World War.</unittitle><unitdate normal="1943/1943" type="inclusive">1943</unitdate><container altrender="Manuscript box - Legal" id="aspace_cb5ae9fea9b0d0762390566f68b31d60" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_c10bfce2f134fd9d3d4bc7e48488feb0" parent="aspace_cb5ae9fea9b0d0762390566f68b31d60" type="folder">2</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Morrow, Felix -- The First Phases of the Coming European Revolution: a criticism of the fifteenth anniversary plenum [19 pp]</unittitle><unitdate>Dec 1943-Jan 1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_a337c3f762abbc58d92aaed8af5adb18" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_990fc1180ddf5081a685f4f145d4f2cf" parent="aspace_a337c3f762abbc58d92aaed8af5adb18" type="folder">3</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Labor Movement, Reports on [E.R. Frank, J. Lyons, anonymous]</unittitle><unitdate normal="1943/1945" type="inclusive">1943-1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_36e04eaf7177ac80f8dacbc5c564dbdf" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_e8104a6a1ae5de4af927fa6415b8d004" parent="aspace_36e04eaf7177ac80f8dacbc5c564dbdf" type="folder">4</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Socialist Workers Party Contents Include: Correspondence and Reports on Polish, German and Other International Issues - includes two letters (from/regarding) the Internationale Kommunisten Deutschlands (International Communist Party of Germany).</unittitle><unitdate normal="1944/1944" type="inclusive">1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_bbdb58e52d29da707cc3b5b73e8444c4" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_744da6f5484bbe5484c44fd3567972e0" parent="aspace_bbdb58e52d29da707cc3b5b73e8444c4" type="folder">5</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>The European Revolution and Tasks of the Revolutionary Party (45 pp) -- SWP National Committee Plenum Resolution</unittitle><unitdate>Aug 1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_058a1cb3455bf24d92e91c578cbf11de" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_f97b0a94cf17e84d831885aafdb55eb7" parent="aspace_058a1cb3455bf24d92e91c578cbf11de" type="folder">6</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Trotsky, Natalia: Letter "Dear Friend" (the USSR no longer even a "degenerating" workers state), 2 pp.</unittitle><unitdate>Aug 16, 1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_3ee092c13b391f23f8a3fc8d3d083139" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_66cf82619c67a52465339f46935dd2e0" parent="aspace_3ee092c13b391f23f8a3fc8d3d083139" type="folder">7</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Cannon, James P.: Letters re Fight Against the Morrison/Morrow Faction (to Larry Trainor, Murry Weiss, and J. Andrews).</unittitle><unitdate>Mar 1945-Apr 1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_aa6bab0e135b628e701abf665616386e" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_33a128c9e8e7db2b7cb057744f8a2fa5" parent="aspace_aa6bab0e135b628e701abf665616386e" type="folder">8</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Cochran [?]: Report (contra Felix Morrow, on the International Political Situation). 50 pp.</unittitle><unitdate normal="1935/1955" type="inclusive">ca.1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_4961c72bd15e25ae6caedbf8c112e320" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_3ac432cb8e7b0019b1c73d97270c922d" parent="aspace_4961c72bd15e25ae6caedbf8c112e320" type="folder">9</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Cochran: Speech re Labor Movement (hand-written)</unittitle><unitdate>May 1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_c533620f43b973fbb191c796740fa889" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_035730a68c85f51058dde0f5b63d4c5a" parent="aspace_c533620f43b973fbb191c796740fa889" type="folder">10</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Morrison, M.: Why We Support the Struggle of the EAM (Greece), 4 pp.</unittitle><unitdate normal="1935/1955" type="inclusive">ca.1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_52919d3648f3258e2c4f5e9a2c8887b3" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_e93ec475c0576796e7e1e4eb352c804b" parent="aspace_52919d3648f3258e2c4f5e9a2c8887b3" type="folder">11</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Socialist Workers Party Correspondence (Includes: Cochran, Dobbs, Dunne)</unittitle><unitdate>Nov 1945-Dec 1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_8447f46216945b6d38658d680f3acb2f" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_3e4f61b0ce4dfb8f6e1a999b878a2e9e" parent="aspace_8447f46216945b6d38658d680f3acb2f" type="folder">12</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Socialist Workers Party DocumentsContents: Discussion on the Black Question, by Murray Weiss; Proposal on the Functioning of the 4th International; Motion by Morrow on Italian Affiliation.</unittitle><unitdate normal="1945/1945" type="inclusive">1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_e1271471c5c09c46ddd443fbfbb7e75c" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_09bbdec023699c3d52ad1adc54eeb53e" parent="aspace_e1271471c5c09c46ddd443fbfbb7e75c" type="folder">13</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Socialist Workers Party Club Executive Minutes</unittitle><unitdate>Jan 1946-Apr 1946</unitdate><container altrender="Manuscript box - Legal" id="aspace_31b0393028d3b0e25e67f6d680fdf341" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_62173daa19bc460fe87646a3d0396d5e" parent="aspace_31b0393028d3b0e25e67f6d680fdf341" type="folder">14</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>SWP correspondence (Felix Morrow, et al)</unittitle><unitdate>Feb 1946-Jun 1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_795f8ee68205685d4c78d47cccce677b" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_d0e3e6955604e61e6186310030e1a9a9" parent="aspace_795f8ee68205685d4c78d47cccce677b" type="folder">15</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Socialist Workers Party Club Executive Minutes (focus on Korea, Yugoslavia)</unittitle><unitdate>May 1950-Jul 1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_fa7aa2740beedf58fceae1620540f99b" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_4b62e522602873ee7fcb07b6e290c0dd" parent="aspace_fa7aa2740beedf58fceae1620540f99b" type="folder">16</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Socialist Workers Party National Committee Reports and Resolutions on Korea, Yugoslavia (Includes report on a trip to Yugoslavia)</unittitle><unitdate normal="1950/1950" type="inclusive">1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_f03ac49d253899e7278e7468af76fdd2" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_e5c24570ab0d6681536a0217b10c7b6e" parent="aspace_f03ac49d253899e7278e7468af76fdd2" type="folder">17</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Cochran Speech: The Revolution in Bolivia</unittitle><unitdate>Apr 24, 1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_1e9f219343e1d37f7e20d2b3a9d6a3ae" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_a2b19af8d84a39e2787089de4fdbbf52" parent="aspace_1e9f219343e1d37f7e20d2b3a9d6a3ae" type="folder">18</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Cochran Speeches (2): U.S., International</unittitle><unitdate normal="1943/1963" type="inclusive">ca.1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_a3acf05b1cf85ba416444855cd840770" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_7202c9188875c1585e7d2a6b057c3722" parent="aspace_a3acf05b1cf85ba416444855cd840770" type="folder">19</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Cochran Speech: "What Is Going to Happen in the Next Ten Years?"</unittitle><unitdate normal="1955/1955" type="inclusive">1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_970d9c119664416225c7f4ea3bf30f34" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_f7e41d55d55b49b96f4cc26f5a360fec" parent="aspace_970d9c119664416225c7f4ea3bf30f34" type="folder">20</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Cocharn Speeches: <title render="italic">American Socialist</title>Banquet, Other</unittitle><unitdate normal="1955/1955" type="inclusive">1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_823478401ea043926ba574ae0ad24e2f" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_f2d7db03baa6058653d6bbd21277e539" parent="aspace_823478401ea043926ba574ae0ad24e2f" type="folder">21</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Cochran Speeches: Detroit, Los Angeles, San-Francisco</unittitle><unitdate normal="1950/1970" type="inclusive">ca.1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_3f8f3868b9764681893ed068e8170c37" label="Mixed Materials [31142062764215]" type="box">2</container><container id="aspace_3ac812c6f88b918db5fd54d8e7d30a11" parent="aspace_3f8f3868b9764681893ed068e8170c37" type="folder">22</container></did></c></c><c id="aspace_ref56" level="series"><did><unittitle>Series 2: Unpublished Writings.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref57" level="file"><did><unittitle>Untitled Manuscript I (re Warfare in Human History), Ch. 7: Sword of Hellas, pp. 200-294</unittitle><unitdate normal="1945/1974" type="inclusive">ca.1955-1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_5931412e4a9abfb70057f49f739f48a0" label="Mixed Materials [31142062764223]" type="box">3</container><container id="aspace_b2e388897d5469e2eda271a70f4b1847" parent="aspace_5931412e4a9abfb70057f49f739f48a0" type="folder">1</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Untitled Manuscript I (re Warfare in Human History), Ch. 10: Ancient and Medieval Thought on War, and Ch. 11 - Faith of the Enlightment, pp. 307-377</unittitle><unitdate normal="1945/1974" type="inclusive">ca.1955-1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_a4b44e263ecc4f26cc1d795206a2a20e" label="Mixed Materials [31142062764223]" type="box">3</container><container id="aspace_382bfd73db6374260580eccddf24d1a9" parent="aspace_a4b44e263ecc4f26cc1d795206a2a20e" type="folder">2</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Untitled Manuscript I (re Warfare in Human History), Ch. 12: The Return to Cults of Violence; Ch. 13: 19th Century Imperialism; Ch. 14: The Marxian Opposition, pp. 378-481</unittitle><unitdate normal="1945/1974" type="inclusive">ca.1955-1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_267e8f8be38a6f49320a760b23509ff0" label="Mixed Materials [31142062764223]" type="box">3</container><container id="aspace_960674b9059868fd658959f69d17b512" parent="aspace_267e8f8be38a6f49320a760b23509ff0" type="folder">3</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Untitled Manuscript I (re Warfare in Human History), Ch. 15: Roosevelt, Mahan, and Wilson; Ch. 16: Race and Reform; and Ch. 17: Conflict and Cooperation, pp. 482-573</unittitle><unitdate normal="1945/1974" type="inclusive">ca.1955-1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_1413abe72109457f2695ef8866a571d5" label="Mixed Materials [31142062764223]" type="box">3</container><container id="aspace_952626caafffcf8c4b094c8c337afd0a" parent="aspace_1413abe72109457f2695ef8866a571d5" type="folder">4</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Untitled Manuscript I (re Warfare in Human History), Ch. 18: Instinct and Civilization; and Ch. 19: Stages of Welfare, pp. 574-653.</unittitle><unitdate normal="1945/1974" type="inclusive">ca.1955-1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_eaf006d6e9a661c532d9a2cfe19a606a" label="Mixed Materials [31142062764223]" type="box">3</container><container id="aspace_ef64ae72bfefd17d1997816f8c627121" parent="aspace_eaf006d6e9a661c532d9a2cfe19a606a" type="folder">5</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Untitled Manuscript II, Chapter 11: Workers and Intellectuals, pp. 521-556</unittitle><unitdate normal="1968/1988" type="inclusive">ca.1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_df02094813c5b14f1785a9ad84cae7d6" label="Mixed Materials [31142062764223]" type="box">3</container><container id="aspace_d84dd77ceaaf982ce9e85285c93a7c28" parent="aspace_df02094813c5b14f1785a9ad84cae7d6" type="folder">6</container></did></c></c><c id="aspace_ref65" level="series"><did><unittitle>Series 3: Addendum</unittitle></did><c id="aspace_ref66" level="file"><did><unittitle>Auto Workers: Draft Pamphlet and Noyes</unittitle><unitdate normal="1939/1939" type="inclusive">1939?</unitdate><container altrender="Manuscript box - Legal" id="aspace_7abd07ced5c02f589b986eacf5b69618" label="Mixed Materials [31142062764231]" type="box">4</container><container id="aspace_94409fc3c37f24a9ca9ccd6a2927e848" parent="aspace_7abd07ced5c02f589b986eacf5b69618" type="folder">1</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Communist League of America: Internal Bulletin</unittitle><unitdate normal="1933/1934" type="inclusive">1933-1934</unitdate><container altrender="Manuscript box - Legal" id="aspace_091db155442745e2718e48fc16d612f2" label="Mixed Materials [31142062764231]" type="box">4</container><container id="aspace_2d61c1146e0732b0822a3042b2dde1f7" parent="aspace_091db155442745e2718e48fc16d612f2" type="folder">2</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Communist League of America: Internal Bulletin</unittitle><unitdate normal="1934/1934" type="inclusive">1934</unitdate><container altrender="Manuscript box - Legal" id="aspace_c176531c1db5fdbafaea960813c92b60" label="Mixed Materials [31142062764231]" type="box">4</container><container id="aspace_c0d333ef1442e20b6503de6db3e46fba" parent="aspace_c176531c1db5fdbafaea960813c92b60" type="folder">3</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Correspondence: Cochran,Dobbs, Breitman, etc.</unittitle><unitdate normal="1953/1953" type="inclusive">1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_ceeed661616b495da93193dffdb45bad" label="Mixed Materials [31142062764231]" type="box">4</container><container id="aspace_0be4e9461ca06a7d905411e5fb8d6bda" parent="aspace_ceeed661616b495da93193dffdb45bad" type="folder">4</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Communist Party Plenum (Stenogram)</unittitle><unitdate normal="1944/1944" type="inclusive">Jan 8, 1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_fcd40c2348d10be28265b95769548eb6" label="Mixed Materials [31142062764231]" type="box">4</container><container id="aspace_35ffcd8c90346d13fe61e6d7cd08ba88" parent="aspace_fcd40c2348d10be28265b95769548eb6" type="folder">5</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Arnold Delbert and the CIO's Role in American Politics, 1936-1948</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_6a42d385ac1e87d3ed606940c40475d5" label="Mixed Materials [31142062764231]" type="box">4</container><container id="aspace_1d357f2f7e45f79fd64a66b76811ec5e" parent="aspace_6a42d385ac1e87d3ed606940c40475d5" type="folder">6</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Document on the Unification of All Unemployed Organizations</unittitle><unitdate normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_85b6268f90f4ec1d317efea8ba990334" label="Mixed Materials [31142062764231]" type="box">4</container><container id="aspace_8d3f443c298734725635b778f3b1ccc5" parent="aspace_85b6268f90f4ec1d317efea8ba990334" type="folder">7</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Frank, E.R., Memorandum on Resolution on "The Evolution of the Buffer Countries"</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_7fe2bfab50470a684f73eef2e1b3f805" label="Mixed Materials [31142062764231]" type="box">4</container><container id="aspace_fc82dab80f09d9c9def33b9ff7f28a3a" parent="aspace_7fe2bfab50470a684f73eef2e1b3f805" type="folder">8</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Labor Writings, Clippings, etc.</unittitle><unitdate normal="1949/1949" type="inclusive">1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_053bb3e7985943e8f527cf348a83bc1c" label="Mixed Materials [31142062764231]" type="box">4</container><container id="aspace_ce2519af9ba2a48cb6914a3025debfc7" parent="aspace_053bb3e7985943e8f527cf348a83bc1c" type="folder">9</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Labor and the Multinationals, Cochran</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_9c1aa7077b8c351dbacf04ce849b1707" label="Mixed Materials [31142062764231]" type="box">4</container><container id="aspace_15e11b6e9e897dcbb2f79fed33857456" parent="aspace_9c1aa7077b8c351dbacf04ce849b1707" type="folder">10</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Minutes of the International Secretariat</unittitle><unitdate normal="1932/1932" type="inclusive">Dec 15, 1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_81a3a709a0ec685d3258975f07437af2" label="Mixed Materials [31142062764231]" type="box">4</container><container id="aspace_989c91ebc3ab9efd0e1f2cc8bc351de9" parent="aspace_81a3a709a0ec685d3258975f07437af2" type="folder">11</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>"Pabloist" Documents</unittitle><unitdate normal="1950/1959" type="inclusive">1950s</unitdate><container altrender="Manuscript box - Legal" id="aspace_24a439062958ecd863b20597155c44d1" label="Mixed Materials [31142062764231]" type="box">4</container><container id="aspace_1d6b48fc76ff9e3ec5983cee007df18d" parent="aspace_24a439062958ecd863b20597155c44d1" type="folder">12</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Report: Meeting of Fisher Body (Cleveland Division) and UAW, Local 18614, Employees Cooperative Assn. and Mechanics Educational Society of America</unittitle><unitdate normal="1934/1934" type="inclusive">1934</unitdate><container altrender="Manuscript box - Legal" id="aspace_9d9c403f54a7f8eb9cb90de4a8f6e545" label="Mixed Materials [31142062764231]" type="box">4</container><container id="aspace_092017035f4fda78efd8a63cac70cb4b" parent="aspace_9d9c403f54a7f8eb9cb90de4a8f6e545" type="folder">13</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Shannon, David: Outline for Book on History of CPUSA</unittitle><unitdate normal="1955/1955" type="inclusive">Feb 24, 1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_aa7e436e11fe6922a58032531e2f4ab5" label="Mixed Materials [31142062764231]" type="box">4</container><container id="aspace_9bcab522ecee3b774483fde57b7ab104" parent="aspace_aa7e436e11fe6922a58032531e2f4ab5" type="folder">14</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Speech</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_af128ebec32e65c3fb791306cbb50083" label="Mixed Materials [31142062764231]" type="box">4</container><container id="aspace_3aeb7dd919f64f2598fcc4da14b43e75" parent="aspace_af128ebec32e65c3fb791306cbb50083" type="folder">15</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Speech (Frank)</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5f7ecd6991ee4fbc8aa910589bd3cbcf" label="Mixed Materials [31142062764249]" type="box">5</container><container id="aspace_40e2ecda50b7a4e3db95b5c1f6c60918" parent="aspace_5f7ecd6991ee4fbc8aa910589bd3cbcf" type="folder">1</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Speech (Plenum)</unittitle><unitdate normal="1950/1950" type="inclusive">1950</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5e4eba39917c494e045fcddb2867d322" label="Mixed Materials [31142062764249]" type="box">5</container><container id="aspace_468eaa6e8cc90c9decaf570d9ff15746" parent="aspace_5e4eba39917c494e045fcddb2867d322" type="folder">2</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Untitled Ms. Chapter 12 In the Perspective of History</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_402a4446f131256b1e60006a684c2861" label="Mixed Materials [31142062764249]" type="box">5</container><container id="aspace_619c29876427c72c4772a16ee91dd08f" parent="aspace_402a4446f131256b1e60006a684c2861" type="folder">3</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Untitled Ms. Chapter 13, Variations on the Theme of Revolution</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f7ac8852d22fb7cd205a4c01b03c8723" label="Mixed Materials [31142062764249]" type="box">5</container><container id="aspace_962455f848bb7d0a47f6766fb5020e70" parent="aspace_f7ac8852d22fb7cd205a4c01b03c8723" type="folder">4</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Untitled Ms. Notes 14 Italian Risorgimento</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_590ab643d04f809276fb2e3e638f3db9" label="Mixed Materials [31142062764249]" type="box">5</container><container id="aspace_a890c4203c969b115a97f9d7c4cd8744" parent="aspace_590ab643d04f809276fb2e3e638f3db9" type="folder">5</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Workers Party of the US: <emph render="italic">Internal Bulletin</emph>, No.'s 1 and 2</unittitle><unitdate normal="1935/1936" type="inclusive">1935, 1936</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_da70e1badcc8d09ba30a43fcb2b890a5" label="Mixed Materials [31142062764249]" type="box">5</container><container id="aspace_98f14957c5c41d9bc91f5ac9d89a844f" parent="aspace_da70e1badcc8d09ba30a43fcb2b890a5" type="folder">6</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>Workers Party: International Bulletin</unittitle><unitdate normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d8afbccf420d2d7f77f74e75866cf521" label="Mixed Materials [31142062764249]" type="box">5</container><container id="aspace_d7a5d476989c5241b5d40410184353d1" parent="aspace_d8afbccf420d2d7f77f74e75866cf521" type="folder">7</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Workers Party of the US: Minutes, National Committee Plenum</unittitle><unitdate normal="1955/1955" type="inclusive">Oct 1955</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ac3eda28c2f52a5fbfc23f6f23d24acb" label="Mixed Materials [31142062764249]" type="box">5</container><container id="aspace_47f8a378a116aed1e7f462432bc008d0" parent="aspace_ac3eda28c2f52a5fbfc23f6f23d24acb" type="folder">8</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Workers Party of the US: NC Plenum, Resolutions</unittitle><unitdate normal="1935/1935" type="inclusive">Jun 1935</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_12615917ba03f34888bad4a081bfe779" label="Mixed Materials [31142062764249]" type="box">5</container><container id="aspace_41f438b74476c5f19c75cab2dfc0d9fd" parent="aspace_12615917ba03f34888bad4a081bfe779" type="folder">9</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Weatherhead Company: Transcript of Hearing re: Labor Matters (Cleveland, OH)</unittitle><unitdate normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f0c7aed63ab314b487568c0d12e5e55e" label="Mixed Materials [31142062764249]" type="box">5</container><container id="aspace_1f8ad273718834004a60d35d03fa6274" parent="aspace_f0c7aed63ab314b487568c0d12e5e55e" type="folder">10</container></did></c><c id="aspace_2c19bd3870c8af7345ad53b9e76e1375" level="file"><did><unittitle>Photographs, reprints and originals: Labor and Communism #756</unittitle><unitdate normal="1913/1976" type="inclusive">1913-1976</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5cacb3215e8a327e49091495edc96c50" label="Mixed Materials [31142062764249]" type="box">5</container><container id="aspace_d142405999d537d74125ab49a18ba883" parent="aspace_5cacb3215e8a327e49091495edc96c50" type="folder">11</container></did></c></c></dsc>
-</archdesc>
+    </did>
+    <accessrestrict id="aspace_b54fd5403e7a42e468a0e56744c51e8c">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_116201cd24228d2d904272915738ca04">
+      <head>Immediate Source of Acquisition</head>
+      <p>Materials were found in repository; provenance is unknown but were likely donated by Cynthia Copeland Cochran in 1998. The accession number associated with these materials is 1998.004.</p>
+    </acqinfo>
+    <arrangement id="aspace_73d3f15b696ae17394138c61562c8fc5">
+      <head>Arrangement</head>
+      <p>Within each series, the folders are arranged chronologically.</p>
+      <p>Organized into three series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>1. Labor and Political Activities</item>
+        <item>2. Unpublished Writings.</item>
+        <item>3. Addendum</item>
+      </list>
+    </arrangement>
+    <bioghist id="aspace_eb4849b32ffe8bd5c7e780b8137d7b53">
+      <head>Historical/Biographical Note</head>
+      <p>Bert Cochran (Dec 25, 1916 - Jun 4, 1984), an American Trotskyist, also known by the pseudonym, E. R. Frank, was born Alexander Goldfarb in Warsaw, Poland. He joined the Communist League of America in 1934, was a member of the American Workers Party (1935-1937), was a district organizer for the Cleveland district of the Mechanics Educational Society of America (MESA) in 1936-37 and was a member of the Appeal Group (within the Socialist Party), was a member of the Socialist Workers Party (SWP) from its inception in 1938, serving on its National Committee for many years and, based in Detroit, was a leading figure in the SWP's work in organizing auto workers, serving as chair of the SWP's Auto Fraction, and was an activist in the United Automobile Workers of America.</p>
+      <p>He left/was expelled from the SWP in 1954 for his leading role in the "Cochran-Clarke" faction, which held dissenting views on the appropriate relationship to Stalinism, and in particular to Communist Party labor- movement activism and activists. Along with fellow ex-SWP members George Clarke and Harry Braverman, he founded the magazine <title render="italic">The American Socialist</title>(1954-1959). In 1949 he met his companion Cynthia Copeland Cochran (who is also the sister of Vince Copeland, also a Trotskyist activist and long-time leading figure in the Workers World Party).</p>
+      <p>Cochran wrote seven books. Two were on the labor movement: <title render="italic">American Labor at Midpassage</title>(1959) and <title render="italic">Labor and Communism: The Conflict that Shaped American Unions</title>(1977). The others were: <title render="italic">The Cross of the Moment</title>(1961), <title render="italic">The War System</title>(1965), <title render="italic">Adlai</title><title render="italic">Stevenson: Patrician among the Politicians</title>(1969), <title render="italic">Harry Truman and the Crisis Presidency</title>(1973), and <title render="italic">Welfare Capitalism--and After</title>(1984).</p>
+    </bioghist>
+    <prefercite id="aspace_8f7fcebabc28449539971d453d919e50">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Bert Cochran Papers; TAM 205; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <relatedmaterial id="aspace_6a5fcb04c26f5a96fd0a13dedb26e558">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>George Breitman Papers (TAM 169)</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_f09cb567fd918ecf734bd6e6401b04d7">
+      <head>Scope and Content Note</head>
+      <p>This collection is organized into two series: 1. Labor and Political Activities, and 2. Unpublished Writings. The collection contains correspondence, manuscripts, and minutes, reports, and other internal documents, principally from the Socialist Workers Party, and from the United Automobile Workers union. In addition to Cochran (often as E. R. Frank, or as "Burt" Cochran), notable correspondents and authors include George F. Addes, James Burnham, James Cannon, George Clarke, Farrell Dobbs, Vincent R. Dunne, Jules Geller, Rose Karsner, Homer Martin, Felix Morrow, A.J. Muste, Max Shachtman, Arne Swabeck, and Natalia Trotsky. There are also letters from SWP and UAW activists.</p>
+      <p>In the first series, the American Workers Party file (1935-36) contains discussion of the political and tactical issues involved in the "French Turn" (the mass entry of individual Trotskyists into the Socialist Party, so called after the tactic used in France). The bulk of the series provides concerns the SWP's activity within the automobile industry and the UAW, and the debates within the SWP on these matters. The documentation is most extensive for the years through 1943. There are lengthy analytical letters, confidential reports, club and auto fraction meeting minutes, leaflets and flyers distributed to the rank and file, and some UAW correspondence, minutes and other internal documents. Issues/events covered include: SWP internal debates on automobile industry and general labor union policy, UAW factionalism, 1937-39, and the SWP's initial support for President Homer Martin's faction, organizing auto workers, the conditions and status of auto industry workers employed under the Works Progress Administration (WPA), and responses to labor measures adopted by the U.S. government during World War II.</p>
+      <p>There are also numerous reports and statements on the international political and military situation during World War II, two letters from/regarding the (Trotskyist) Internationale Kommunisten Deutschlands (International Communist Party of Germany), and a copy of a 1944 letter from Natalia Trotsky relating to the nature of the Soviet Union. The post-World War II files contain reports and speeches and focus on national and international politics, notably Poland, Korea, and for Yugoslavia, a report from an SWP member who had visited Belgrade ca.1950. There is detailed discussion from 1945-46 of the political differences between the SWP majority and the Morrison (nee Albert Goldman) / Felix Morrow minority. There are also typescripts of several of Cochran's speeches from the 1950s on U.S. and international affairs.</p>
+      <p>Series two contains portions of two unpublished (and untitled and undated) manuscripts. The first is a partial manuscript (some 450 pp.), an explicitly Marxist study of warfare in human history that may have been written in the years preceding Cochran's study of post-World War II world politics and military policy, <title render="italic">The War System</title>(Macmillan, 1965). The second consists of one chapter, titled "Workers and Intellectuals" (ca.1978), from an untitled work.</p>
+      <p>Seeries three (unprocessed) contains correspondence, reports, manuscripts and clippings, most from the end of World War II through 1954, with a few earlier items. Major topics are internal debates within the Socialist Workers Party in the 1950s, including in regard to the "Pabloist" tendency, and the post-War labor movement. Among the manuscripts are several chapters from an untitled work by Cochran.</p>
+    </scopecontent>
+    <userestrict id="aspace_a5f717ec264b51aee38be710c0562186">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (and related rights to publicity and privacy) to materials is this collection created by Bert Cochran was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <genreform source="aat">Reports.</genreform>
+      <genreform source="aat">Speeches.</genreform>
+      <subject source="lcsh">War and society |x History.</subject>
+      <subject source="lcsh">Labor unions and communism -- United States.</subject>
+      <subject source="lcsh">Socialism -- United States -- 20th century.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">Automobile industry workers |x Labor unions |z United States.</subject>
+      <subject source="lcsh">Communism -- United States -- 20th century</subject>
+      <corpname source="naf">Socialist Workers Party</corpname>
+      <corpname source="naf">International Union, United Automobile Workers of America (CIO)</corpname>
+      <corpname source="naf">International Union, United Automobile, Aircraft, and Agricultural Implement Workers of America</corpname>
+      <persname source="naf">Martin, Warren Homer, 1902-1968</persname>
+      <corpname source="naf">Mechanics Educational Society of America</corpname>
+      <persname source="naf">Morrow, Felix</persname>
+      <corpname source="local">Internationale Kommunisten Deutschlands</corpname>
+      <persname rules="dacs" source="local">Goldman, Albert</persname>
+      <persname source="naf">Shachtman, Max, 1903-1972</persname>
+      <persname source="naf">Karsner, Rose.</persname>
+      <persname source="naf">Swabeck, Arne</persname>
+      <persname source="naf">Dunne, Vincent R. (Vincent Raymond), 1889-1970</persname>
+      <corpname source="naf">American Workers Party</corpname>
+      <persname rules="dacs" source="local">Geller, Jules</persname>
+      <persname source="naf">Addes, George F., 1910</persname>
+      <persname source="naf">Dobbs, Farrell</persname>
+      <persname source="naf">Burnham, James, 1905-1987</persname>
+      <persname source="naf">Trotskaia, Nataliia Ivanovna, 1882-1962</persname>
+      <persname rules="dacs" source="naf">Muste,  A. J. (Abraham John), 1885-1967.</persname>
+      <persname source="naf">Cannon, James Patrick, 1890-1974</persname>
+      <persname source="naf">Clarke, George, 1840-1906</persname>
+      <persname role="dnr" rules="dacs" source="local">Cochran, Cynthia</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref14" level="series">
+        <did>
+          <unittitle>Series 1: Labor and Political Activities</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>United Automobile Workers Union</unittitle>
+            <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5de4bc114ac1e41e806030fe89dc6c26" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_75adeb4f098bdc9c5fd50442be2be23e" parent="aspace_5de4bc114ac1e41e806030fe89dc6c26" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>American Workers PartyContents Include: Cochran Correspondence, Internal Documents. (Correspondents include: James Cannon, George Clarke, Rose Karsner, A.J. Muste, Max Shachtman, Arne Swabeck)</unittitle>
+            <unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b97f6788aab01d4ab0d51c15ac2188f5" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_82d8281d161f078f17d0e0e67d200341" parent="aspace_b97f6788aab01d4ab0d51c15ac2188f5" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Mechanics Educational Society of America (MESA): Cochran Correspondence with Matthew Smith (National Secretary).</unittitle>
+            <unitdate normal="1935/1937" type="inclusive">1935-1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b3efb8944c5a13b90b9ca0fc6f4c9723" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_765ab0d861765aae6b30bc581f740d88" parent="aspace_b3efb8944c5a13b90b9ca0fc6f4c9723" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Unemployed Movement Activity - Ohio, New York</unittitle>
+            <unitdate normal="1935/1940" type="inclusive">1935-1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_af1be052689f83281364e83ca373b8ae" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_a605b6fe4f88f2bfc6d50907f2f164a1" parent="aspace_af1be052689f83281364e83ca373b8ae" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Cochran: Notes (Midland Steel Strike); Speech (The Flint Sit-Downs: The Spirit of 1937)</unittitle>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_edf2f91ea1b3fac9ff2cd4a0ba566d87" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_a68ea284e7ad9cfbf6d7ab22bd9a239b" parent="aspace_edf2f91ea1b3fac9ff2cd4a0ba566d87" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Socialist PartyContents Include: National Auto League Conference (Detroit, May 22-23) Minutes (participants included Victor Reuther and Walter Reuther); Unsigned letter (Nov 25, from Farrell Dobbs?) re Minneapolis Teamsters Movement.</unittitle>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bfe0fee30ee0e483312c9e1a98ee83f9" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_02e388881972bd8895908193025fe2b9" parent="aspace_bfe0fee30ee0e483312c9e1a98ee83f9" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>United Automobile Workers Correspondence (Includes: Cochran, George F. Addes, Homer Martin)</unittitle>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_091d1133042aa4c80c09951331790cb9" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_80d489187ea0247a7fe069fbb99a362a" parent="aspace_091d1133042aa4c80c09951331790cb9" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Socialist Workers PartyContents Include: Cochran Correspondence (includes letters from James Cannon and George Clarke, and one from James Burnham); Minutes of National Auto Fraction Meeting (Detroit, Dec 25th).</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b2708616a332497c23947ea9749222f9" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_f156282cea623bd32bd5b2dbe5253ec3" parent="aspace_b2708616a332497c23947ea9749222f9" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>United Automobile Workers: Cochran Correspondence (principally with activists); Homer Martin memorandums; Internal Documents including Unity Caucus material.</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5cdcee60e4fb87c6de681d27b3bfdeda" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_8c38fde72627f8eb8db2353614012d04" parent="aspace_5cdcee60e4fb87c6de681d27b3bfdeda" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Anti-Communist Party Leaflets for Auto Workers (by Homer Martin supporters)</unittitle>
+            <unitdate normal="1938/1939" type="inclusive">1938-1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_179b36649bd08e7aa6c6a1fe24282bcb" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_2906411d27b3aa9221122097d7cb1447" parent="aspace_179b36649bd08e7aa6c6a1fe24282bcb" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Revolutionary Workers League. Cleveland Unit: An Open Letter to All Delegates to the UAW-CIO Convention.</unittitle>
+            <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_270565971799d4485a32c36d831e8ef7" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_75ccf8e87abcd7eaf3c33bf42ace9b34" parent="aspace_270565971799d4485a32c36d831e8ef7" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>United Automobile WorkersContents Include: Cochran Correspondence; Cleveland Convention (March) and Other Factional Materials.</unittitle>
+            <unitdate>Jan 1939-May 1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5a792dde40d02dfcffedefa32807bad4" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_a0bba9b8a0f15074adf1b5f1fa708b2b" parent="aspace_5a792dde40d02dfcffedefa32807bad4" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Clarke, George: The Truth About the Auto Crisis: The Petty-Bourgois Leaders Before the Test of the Class Struggle (contra Shachtman, et al - 22 pp)</unittitle>
+            <unitdate normal="1929/1949" type="inclusive">ca.1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ca973e2a62d1dddf1419a077d4583080" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_7565c664ef93078fc16b7be08c3cdeb0" parent="aspace_ca973e2a62d1dddf1419a077d4583080" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Robins, Harold: Some of Our Opportunist Mistakes in the Auto Union (19 pp)</unittitle>
+            <unitdate normal="1929/1949" type="inclusive">ca.1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_93f4d1839d684b57666b8c7fa855887b" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_9e94946ee899ce426d413eb89803a920" parent="aspace_93f4d1839d684b57666b8c7fa855887b" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Socialist Workers PartyContents: National Auto Conference Minutes, Detroit, May 5th; Pre-Plenum Discussion Bulletin vol. 3, no. 3, September; Correspondence and other documents)</unittitle>
+            <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5ed0b2469e3b3f33e18f287ff07858cb" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_3390cbc0906ca2b998e4456e120b1abe" parent="aspace_5ed0b2469e3b3f33e18f287ff07858cb" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>United Automobile Workers</unittitle>
+            <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_acc20d6c13f178335bf0f37152ea5e92" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_ed2084b77b7cdd4ea9f6ee445f0057bf" parent="aspace_acc20d6c13f178335bf0f37152ea5e92" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Socialist Workers PartyContents Include: Cochran correspondence, including James P. Cannon, C. Charles, Vincent Dunne, Jules Geller, automobile industry rank and file activists; Club Executive Minutes; Draft of Revised Declaration of Principles.</unittitle>
+            <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_576e6478fb32a3075466bac24d6118aa" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_f0489baf5d048f5c5e1ee0a6978d600e" parent="aspace_576e6478fb32a3075466bac24d6118aa" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Socialist Workers PartyContents Include: Correspondence (including Cannon, Cochran, Dobbs, Dunne, Jules Geller, G. Munis (Mexico, D.F.); 1942 Report of Outgoing Executive Board Detroit Branch; Resolutions.</unittitle>
+            <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3193c8ec6df92de7e1cd7c31b9b0d00f" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_7c546e8d30def5b3ce206caca27b75b3" parent="aspace_3193c8ec6df92de7e1cd7c31b9b0d00f" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>United Automobile Workers: Cochran correspondence</unittitle>
+            <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d455608590e818eebf7b465514f3304c" label="Mixed Materials [31142062764207]" type="box">1</container>
+            <container id="aspace_dd6e660043155087dd6b0f01184630cf" parent="aspace_d455608590e818eebf7b465514f3304c" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>[Cochran]: Report on the U.S. Political Situation (30 pp.)</unittitle>
+            <unitdate normal="1932/1953" type="inclusive">ca.1942-1943</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_325c18cc0e1dc0e0452f7a94679fe7b0" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_75a1bf376f049ea0347184a5f47c54e4" parent="aspace_325c18cc0e1dc0e0452f7a94679fe7b0" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Socialist Workers PartyContents Include: Correspondence and Reports re Auto Fraction (George [Clarke?], Cochran, Dobbs, rank and file, etc.); Resolution on U.S. and Second World War.</unittitle>
+            <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cb5ae9fea9b0d0762390566f68b31d60" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_c10bfce2f134fd9d3d4bc7e48488feb0" parent="aspace_cb5ae9fea9b0d0762390566f68b31d60" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Morrow, Felix -- The First Phases of the Coming European Revolution: a criticism of the fifteenth anniversary plenum [19 pp]</unittitle>
+            <unitdate>Dec 1943-Jan 1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a337c3f762abbc58d92aaed8af5adb18" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_990fc1180ddf5081a685f4f145d4f2cf" parent="aspace_a337c3f762abbc58d92aaed8af5adb18" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Labor Movement, Reports on [E.R. Frank, J. Lyons, anonymous]</unittitle>
+            <unitdate normal="1943/1945" type="inclusive">1943-1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_36e04eaf7177ac80f8dacbc5c564dbdf" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_e8104a6a1ae5de4af927fa6415b8d004" parent="aspace_36e04eaf7177ac80f8dacbc5c564dbdf" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Socialist Workers Party Contents Include: Correspondence and Reports on Polish, German and Other International Issues - includes two letters (from/regarding) the Internationale Kommunisten Deutschlands (International Communist Party of Germany).</unittitle>
+            <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bbdb58e52d29da707cc3b5b73e8444c4" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_744da6f5484bbe5484c44fd3567972e0" parent="aspace_bbdb58e52d29da707cc3b5b73e8444c4" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>The European Revolution and Tasks of the Revolutionary Party (45 pp) -- SWP National Committee Plenum Resolution</unittitle>
+            <unitdate>Aug 1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_058a1cb3455bf24d92e91c578cbf11de" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_f97b0a94cf17e84d831885aafdb55eb7" parent="aspace_058a1cb3455bf24d92e91c578cbf11de" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Trotsky, Natalia: Letter "Dear Friend" (the USSR no longer even a "degenerating" workers state), 2 pp.</unittitle>
+            <unitdate>Aug 16, 1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3ee092c13b391f23f8a3fc8d3d083139" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_66cf82619c67a52465339f46935dd2e0" parent="aspace_3ee092c13b391f23f8a3fc8d3d083139" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Cannon, James P.: Letters re Fight Against the Morrison/Morrow Faction (to Larry Trainor, Murry Weiss, and J. Andrews).</unittitle>
+            <unitdate>Mar 1945-Apr 1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_aa6bab0e135b628e701abf665616386e" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_33a128c9e8e7db2b7cb057744f8a2fa5" parent="aspace_aa6bab0e135b628e701abf665616386e" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Cochran [?]: Report (contra Felix Morrow, on the International Political Situation). 50 pp.</unittitle>
+            <unitdate normal="1935/1955" type="inclusive">ca.1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4961c72bd15e25ae6caedbf8c112e320" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_3ac432cb8e7b0019b1c73d97270c922d" parent="aspace_4961c72bd15e25ae6caedbf8c112e320" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Cochran: Speech re Labor Movement (hand-written)</unittitle>
+            <unitdate>May 1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c533620f43b973fbb191c796740fa889" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_035730a68c85f51058dde0f5b63d4c5a" parent="aspace_c533620f43b973fbb191c796740fa889" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Morrison, M.: Why We Support the Struggle of the EAM (Greece), 4 pp.</unittitle>
+            <unitdate normal="1935/1955" type="inclusive">ca.1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_52919d3648f3258e2c4f5e9a2c8887b3" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_e93ec475c0576796e7e1e4eb352c804b" parent="aspace_52919d3648f3258e2c4f5e9a2c8887b3" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Socialist Workers Party Correspondence (Includes: Cochran, Dobbs, Dunne)</unittitle>
+            <unitdate>Nov 1945-Dec 1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8447f46216945b6d38658d680f3acb2f" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_3e4f61b0ce4dfb8f6e1a999b878a2e9e" parent="aspace_8447f46216945b6d38658d680f3acb2f" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Socialist Workers Party DocumentsContents: Discussion on the Black Question, by Murray Weiss; Proposal on the Functioning of the 4th International; Motion by Morrow on Italian Affiliation.</unittitle>
+            <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e1271471c5c09c46ddd443fbfbb7e75c" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_09bbdec023699c3d52ad1adc54eeb53e" parent="aspace_e1271471c5c09c46ddd443fbfbb7e75c" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Socialist Workers Party Club Executive Minutes</unittitle>
+            <unitdate>Jan 1946-Apr 1946</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_31b0393028d3b0e25e67f6d680fdf341" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_62173daa19bc460fe87646a3d0396d5e" parent="aspace_31b0393028d3b0e25e67f6d680fdf341" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>SWP correspondence (Felix Morrow, et al)</unittitle>
+            <unitdate>Feb 1946-Jun 1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_795f8ee68205685d4c78d47cccce677b" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_d0e3e6955604e61e6186310030e1a9a9" parent="aspace_795f8ee68205685d4c78d47cccce677b" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Socialist Workers Party Club Executive Minutes (focus on Korea, Yugoslavia)</unittitle>
+            <unitdate>May 1950-Jul 1950</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fa7aa2740beedf58fceae1620540f99b" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_4b62e522602873ee7fcb07b6e290c0dd" parent="aspace_fa7aa2740beedf58fceae1620540f99b" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Socialist Workers Party National Committee Reports and Resolutions on Korea, Yugoslavia (Includes report on a trip to Yugoslavia)</unittitle>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f03ac49d253899e7278e7468af76fdd2" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_e5c24570ab0d6681536a0217b10c7b6e" parent="aspace_f03ac49d253899e7278e7468af76fdd2" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Cochran Speech: The Revolution in Bolivia</unittitle>
+            <unitdate>Apr 24, 1953</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1e9f219343e1d37f7e20d2b3a9d6a3ae" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_a2b19af8d84a39e2787089de4fdbbf52" parent="aspace_1e9f219343e1d37f7e20d2b3a9d6a3ae" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Cochran Speeches (2): U.S., International</unittitle>
+            <unitdate normal="1943/1963" type="inclusive">ca.1953</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a3acf05b1cf85ba416444855cd840770" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_7202c9188875c1585e7d2a6b057c3722" parent="aspace_a3acf05b1cf85ba416444855cd840770" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Cochran Speech: "What Is Going to Happen in the Next Ten Years?"</unittitle>
+            <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_970d9c119664416225c7f4ea3bf30f34" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_f7e41d55d55b49b96f4cc26f5a360fec" parent="aspace_970d9c119664416225c7f4ea3bf30f34" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Cocharn Speeches: <title render="italic">American Socialist</title>Banquet, Other</unittitle>
+            <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_823478401ea043926ba574ae0ad24e2f" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_f2d7db03baa6058653d6bbd21277e539" parent="aspace_823478401ea043926ba574ae0ad24e2f" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Cochran Speeches: Detroit, Los Angeles, San-Francisco</unittitle>
+            <unitdate normal="1950/1970" type="inclusive">ca.1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3f8f3868b9764681893ed068e8170c37" label="Mixed Materials [31142062764215]" type="box">2</container>
+            <container id="aspace_3ac812c6f88b918db5fd54d8e7d30a11" parent="aspace_3f8f3868b9764681893ed068e8170c37" type="folder">22</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref56" level="series">
+        <did>
+          <unittitle>Series 2: Unpublished Writings.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Untitled Manuscript I (re Warfare in Human History), Ch. 7: Sword of Hellas, pp. 200-294</unittitle>
+            <unitdate normal="1945/1974" type="inclusive">ca.1955-1964</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5931412e4a9abfb70057f49f739f48a0" label="Mixed Materials [31142062764223]" type="box">3</container>
+            <container id="aspace_b2e388897d5469e2eda271a70f4b1847" parent="aspace_5931412e4a9abfb70057f49f739f48a0" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Untitled Manuscript I (re Warfare in Human History), Ch. 10: Ancient and Medieval Thought on War, and Ch. 11 - Faith of the Enlightment, pp. 307-377</unittitle>
+            <unitdate normal="1945/1974" type="inclusive">ca.1955-1964</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a4b44e263ecc4f26cc1d795206a2a20e" label="Mixed Materials [31142062764223]" type="box">3</container>
+            <container id="aspace_382bfd73db6374260580eccddf24d1a9" parent="aspace_a4b44e263ecc4f26cc1d795206a2a20e" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Untitled Manuscript I (re Warfare in Human History), Ch. 12: The Return to Cults of Violence; Ch. 13: 19th Century Imperialism; Ch. 14: The Marxian Opposition, pp. 378-481</unittitle>
+            <unitdate normal="1945/1974" type="inclusive">ca.1955-1964</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_267e8f8be38a6f49320a760b23509ff0" label="Mixed Materials [31142062764223]" type="box">3</container>
+            <container id="aspace_960674b9059868fd658959f69d17b512" parent="aspace_267e8f8be38a6f49320a760b23509ff0" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Untitled Manuscript I (re Warfare in Human History), Ch. 15: Roosevelt, Mahan, and Wilson; Ch. 16: Race and Reform; and Ch. 17: Conflict and Cooperation, pp. 482-573</unittitle>
+            <unitdate normal="1945/1974" type="inclusive">ca.1955-1964</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1413abe72109457f2695ef8866a571d5" label="Mixed Materials [31142062764223]" type="box">3</container>
+            <container id="aspace_952626caafffcf8c4b094c8c337afd0a" parent="aspace_1413abe72109457f2695ef8866a571d5" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Untitled Manuscript I (re Warfare in Human History), Ch. 18: Instinct and Civilization; and Ch. 19: Stages of Welfare, pp. 574-653.</unittitle>
+            <unitdate normal="1945/1974" type="inclusive">ca.1955-1964</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_eaf006d6e9a661c532d9a2cfe19a606a" label="Mixed Materials [31142062764223]" type="box">3</container>
+            <container id="aspace_ef64ae72bfefd17d1997816f8c627121" parent="aspace_eaf006d6e9a661c532d9a2cfe19a606a" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Untitled Manuscript II, Chapter 11: Workers and Intellectuals, pp. 521-556</unittitle>
+            <unitdate normal="1968/1988" type="inclusive">ca.1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_df02094813c5b14f1785a9ad84cae7d6" label="Mixed Materials [31142062764223]" type="box">3</container>
+            <container id="aspace_d84dd77ceaaf982ce9e85285c93a7c28" parent="aspace_df02094813c5b14f1785a9ad84cae7d6" type="folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref65" level="series">
+        <did>
+          <unittitle>Series 3: Addendum</unittitle>
+        </did>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Auto Workers: Draft Pamphlet and Noyes</unittitle>
+            <unitdate normal="1939/1939" type="inclusive">1939?</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7abd07ced5c02f589b986eacf5b69618" label="Mixed Materials [31142062764231]" type="box">4</container>
+            <container id="aspace_94409fc3c37f24a9ca9ccd6a2927e848" parent="aspace_7abd07ced5c02f589b986eacf5b69618" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Communist League of America: Internal Bulletin</unittitle>
+            <unitdate normal="1933/1934" type="inclusive">1933-1934</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_091db155442745e2718e48fc16d612f2" label="Mixed Materials [31142062764231]" type="box">4</container>
+            <container id="aspace_2d61c1146e0732b0822a3042b2dde1f7" parent="aspace_091db155442745e2718e48fc16d612f2" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Communist League of America: Internal Bulletin</unittitle>
+            <unitdate normal="1934/1934" type="inclusive">1934</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c176531c1db5fdbafaea960813c92b60" label="Mixed Materials [31142062764231]" type="box">4</container>
+            <container id="aspace_c0d333ef1442e20b6503de6db3e46fba" parent="aspace_c176531c1db5fdbafaea960813c92b60" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Correspondence: Cochran,Dobbs, Breitman, etc.</unittitle>
+            <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ceeed661616b495da93193dffdb45bad" label="Mixed Materials [31142062764231]" type="box">4</container>
+            <container id="aspace_0be4e9461ca06a7d905411e5fb8d6bda" parent="aspace_ceeed661616b495da93193dffdb45bad" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Communist Party Plenum (Stenogram)</unittitle>
+            <unitdate normal="1944/1944" type="inclusive">Jan 8, 1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fcd40c2348d10be28265b95769548eb6" label="Mixed Materials [31142062764231]" type="box">4</container>
+            <container id="aspace_35ffcd8c90346d13fe61e6d7cd08ba88" parent="aspace_fcd40c2348d10be28265b95769548eb6" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Arnold Delbert and the CIO's Role in American Politics, 1936-1948</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6a42d385ac1e87d3ed606940c40475d5" label="Mixed Materials [31142062764231]" type="box">4</container>
+            <container id="aspace_1d357f2f7e45f79fd64a66b76811ec5e" parent="aspace_6a42d385ac1e87d3ed606940c40475d5" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Document on the Unification of All Unemployed Organizations</unittitle>
+            <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_85b6268f90f4ec1d317efea8ba990334" label="Mixed Materials [31142062764231]" type="box">4</container>
+            <container id="aspace_8d3f443c298734725635b778f3b1ccc5" parent="aspace_85b6268f90f4ec1d317efea8ba990334" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Frank, E.R., Memorandum on Resolution on "The Evolution of the Buffer Countries"</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7fe2bfab50470a684f73eef2e1b3f805" label="Mixed Materials [31142062764231]" type="box">4</container>
+            <container id="aspace_fc82dab80f09d9c9def33b9ff7f28a3a" parent="aspace_7fe2bfab50470a684f73eef2e1b3f805" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Labor Writings, Clippings, etc.</unittitle>
+            <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_053bb3e7985943e8f527cf348a83bc1c" label="Mixed Materials [31142062764231]" type="box">4</container>
+            <container id="aspace_ce2519af9ba2a48cb6914a3025debfc7" parent="aspace_053bb3e7985943e8f527cf348a83bc1c" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Labor and the Multinationals, Cochran</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9c1aa7077b8c351dbacf04ce849b1707" label="Mixed Materials [31142062764231]" type="box">4</container>
+            <container id="aspace_15e11b6e9e897dcbb2f79fed33857456" parent="aspace_9c1aa7077b8c351dbacf04ce849b1707" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Minutes of the International Secretariat</unittitle>
+            <unitdate normal="1932/1932" type="inclusive">Dec 15, 1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_81a3a709a0ec685d3258975f07437af2" label="Mixed Materials [31142062764231]" type="box">4</container>
+            <container id="aspace_989c91ebc3ab9efd0e1f2cc8bc351de9" parent="aspace_81a3a709a0ec685d3258975f07437af2" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>"Pabloist" Documents</unittitle>
+            <unitdate normal="1950/1959" type="inclusive">1950s</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_24a439062958ecd863b20597155c44d1" label="Mixed Materials [31142062764231]" type="box">4</container>
+            <container id="aspace_1d6b48fc76ff9e3ec5983cee007df18d" parent="aspace_24a439062958ecd863b20597155c44d1" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Report: Meeting of Fisher Body (Cleveland Division) and UAW, Local 18614, Employees Cooperative Assn. and Mechanics Educational Society of America</unittitle>
+            <unitdate normal="1934/1934" type="inclusive">1934</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9d9c403f54a7f8eb9cb90de4a8f6e545" label="Mixed Materials [31142062764231]" type="box">4</container>
+            <container id="aspace_092017035f4fda78efd8a63cac70cb4b" parent="aspace_9d9c403f54a7f8eb9cb90de4a8f6e545" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Shannon, David: Outline for Book on History of CPUSA</unittitle>
+            <unitdate normal="1955/1955" type="inclusive">Feb 24, 1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_aa7e436e11fe6922a58032531e2f4ab5" label="Mixed Materials [31142062764231]" type="box">4</container>
+            <container id="aspace_9bcab522ecee3b774483fde57b7ab104" parent="aspace_aa7e436e11fe6922a58032531e2f4ab5" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Speech</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_af128ebec32e65c3fb791306cbb50083" label="Mixed Materials [31142062764231]" type="box">4</container>
+            <container id="aspace_3aeb7dd919f64f2598fcc4da14b43e75" parent="aspace_af128ebec32e65c3fb791306cbb50083" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Speech (Frank)</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_5f7ecd6991ee4fbc8aa910589bd3cbcf" label="Mixed Materials [31142062764249]" type="box">5</container>
+            <container id="aspace_40e2ecda50b7a4e3db95b5c1f6c60918" parent="aspace_5f7ecd6991ee4fbc8aa910589bd3cbcf" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Speech (Plenum)</unittitle>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_5e4eba39917c494e045fcddb2867d322" label="Mixed Materials [31142062764249]" type="box">5</container>
+            <container id="aspace_468eaa6e8cc90c9decaf570d9ff15746" parent="aspace_5e4eba39917c494e045fcddb2867d322" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Untitled Ms. Chapter 12 In the Perspective of History</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_402a4446f131256b1e60006a684c2861" label="Mixed Materials [31142062764249]" type="box">5</container>
+            <container id="aspace_619c29876427c72c4772a16ee91dd08f" parent="aspace_402a4446f131256b1e60006a684c2861" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Untitled Ms. Chapter 13, Variations on the Theme of Revolution</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_f7ac8852d22fb7cd205a4c01b03c8723" label="Mixed Materials [31142062764249]" type="box">5</container>
+            <container id="aspace_962455f848bb7d0a47f6766fb5020e70" parent="aspace_f7ac8852d22fb7cd205a4c01b03c8723" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Untitled Ms. Notes 14 Italian Risorgimento</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_590ab643d04f809276fb2e3e638f3db9" label="Mixed Materials [31142062764249]" type="box">5</container>
+            <container id="aspace_a890c4203c969b115a97f9d7c4cd8744" parent="aspace_590ab643d04f809276fb2e3e638f3db9" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Workers Party of the US: <emph render="italic">Internal Bulletin</emph>, No.'s 1 and 2</unittitle>
+            <unitdate normal="1935/1936" type="inclusive">1935, 1936</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_da70e1badcc8d09ba30a43fcb2b890a5" label="Mixed Materials [31142062764249]" type="box">5</container>
+            <container id="aspace_98f14957c5c41d9bc91f5ac9d89a844f" parent="aspace_da70e1badcc8d09ba30a43fcb2b890a5" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Workers Party: International Bulletin</unittitle>
+            <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_d8afbccf420d2d7f77f74e75866cf521" label="Mixed Materials [31142062764249]" type="box">5</container>
+            <container id="aspace_d7a5d476989c5241b5d40410184353d1" parent="aspace_d8afbccf420d2d7f77f74e75866cf521" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Workers Party of the US: Minutes, National Committee Plenum</unittitle>
+            <unitdate normal="1955/1955" type="inclusive">Oct 1955</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_ac3eda28c2f52a5fbfc23f6f23d24acb" label="Mixed Materials [31142062764249]" type="box">5</container>
+            <container id="aspace_47f8a378a116aed1e7f462432bc008d0" parent="aspace_ac3eda28c2f52a5fbfc23f6f23d24acb" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Workers Party of the US: NC Plenum, Resolutions</unittitle>
+            <unitdate normal="1935/1935" type="inclusive">Jun 1935</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_12615917ba03f34888bad4a081bfe779" label="Mixed Materials [31142062764249]" type="box">5</container>
+            <container id="aspace_41f438b74476c5f19c75cab2dfc0d9fd" parent="aspace_12615917ba03f34888bad4a081bfe779" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Weatherhead Company: Transcript of Hearing re: Labor Matters (Cleveland, OH)</unittitle>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_f0c7aed63ab314b487568c0d12e5e55e" label="Mixed Materials [31142062764249]" type="box">5</container>
+            <container id="aspace_1f8ad273718834004a60d35d03fa6274" parent="aspace_f0c7aed63ab314b487568c0d12e5e55e" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_2c19bd3870c8af7345ad53b9e76e1375" level="file">
+          <did>
+            <unittitle>Photographs, reprints and originals: Labor and Communism #756</unittitle>
+            <unitdate normal="1913/1976" type="inclusive">1913-1976</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_5cacb3215e8a327e49091495edc96c50" label="Mixed Materials [31142062764249]" type="box">5</container>
+            <container id="aspace_d142405999d537d74125ab49a18ba883" parent="aspace_5cacb3215e8a327e49091495edc96c50" type="folder">11</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,80 +1,323 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_107/">wag_107</eadid><filedesc><titlestmt><titleproper>Guide to the International Brotherhood of Teamsters, Local 282, FORE (Fear of Reprisal Ends) Records <num>WAG.107</num></titleproper><author>Jane Latour</author></titlestmt><editionstmt><p>This version was derived from IBT Local 282 upd.sgm</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>Finding Aid</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:59:34 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>International Brotherhood of Teamsters, Local 282, Fear of Reprisal Ends (FORE) Records</unittitle>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">International Brotherhood of Teamsters. Local 282. FORE (Fear of Reprisal Ends).</corpname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">Kudla, Lawrence</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">Olson, Lee</persname>
-    </origination>
-    <unitid>WAG.107</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-      <extent altrender="carrier">(1 box)</extent>
-    </physdesc>
-    <unitdate normal="1970/1997" type="inclusive">1970-1997</unitdate>
-    <abstract id="aspace_45e363d031c40c6f759ffe3fb2dcda99">In the mid-1970s, a small group of Teamsters organized a reform group in Local 282 of the IBT. Though the small group of reformers never never won a majority of votes in the Local, they engaged in a protracted and well-publicized campaign to clean up the corrupt practices of its Local officers. The pressure and visibility created by their efforts resulted in a series of convictions, resignations and trusteeships. The collection includes news clippings, rank and file platforms, fliers, FORE publications, election ballots, correspondence, legal documents, NLRB proceedings, documents related to Local 282, including indictments, newsletters and news clippings.</abstract>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_107/">wag_107</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the International Brotherhood of Teamsters, Local 282, FORE (Fear of Reprisal Ends) Records <num>WAG.107</num></titleproper>
+        <author>Jane Latour</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from IBT Local 282 upd.sgm</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Finding Aid</p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:59:34 -0500</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>International Brotherhood of Teamsters, Local 282, Fear of Reprisal Ends (FORE) Records</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">International Brotherhood of Teamsters. Local 282. FORE (Fear of Reprisal Ends).</corpname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Kudla, Lawrence</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Olson, Lee</persname>
+      </origination>
+      <unitid>WAG.107</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+        <extent altrender="carrier">(1 box)</extent>
+      </physdesc>
+      <unitdate normal="1970/1997" type="inclusive">1970-1997</unitdate>
+      <abstract id="aspace_45e363d031c40c6f759ffe3fb2dcda99">In the mid-1970s, a small group of Teamsters organized a reform group in Local 282 of the IBT. Though the small group of reformers never never won a majority of votes in the Local, they engaged in a protracted and well-publicized campaign to clean up the corrupt practices of its Local officers. The pressure and visibility created by their efforts resulted in a series of convictions, resignations and trusteeships. The collection includes news clippings, rank and file platforms, fliers, FORE publications, election ballots, correspondence, legal documents, NLRB proceedings, documents related to Local 282, including indictments, newsletters and news clippings.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-  </did>
-  <custodhist id="aspace_0dd4a6d83b09afb0f0c6576810015296">
-    <head>Custodial History</head>
-<p>In November 1993, Lawrence Kudla and John Carter, founding members of FORE, participated in the Burton Hall Oral History Project at the Wagner Labor Archives. In May 1994, Lawrence (Larry) Kudla donated his collection of materials about FORE to the Archives. FORE is the acronym of the insurgent group "Fear of Reprisal Ends" in Local 282 of the International Brotherhood of Teamsters. In April 1995, Charles Curd and Leon (Lee) Olson, active members of FORE, were interviewed for the Burton Hall Oral History Project. Subsequently, Lee Olson contributed papers to the Collection.</p>  </custodhist>
-  <accessrestrict id="aspace_629e86a833f1d831b3231d666cb49304">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <bioghist id="aspace_07a32e023879382bac6083baa715cea2">
-    <head>Historical/Biographical Note</head>
-<p>In the mid-70s, a small group of Teamsters organized a reform group in Local 282 of the IBT. Local 282 represents approximately 4,500 construction truck drivers. The teamsters of Local 282 deliver concrete and building materials to construction sites in New York City and Long Island. The essential nature of Local 282's services at construction sites places the union in a strategic position. Indeed its history of control by organized crime has earned Local 282 the appellation of "candy store for the mob." Though the small group of reformers never never won a majority of votes in the Local, they engaged in a protracted and well-publicized campaign to clean up the corrupt practices of its Local officers. The pressure and visibility created by their efforts have resulted in a series of convictions, resignations and trusteeships. Despite these changes, the Local remains vulnerable to the tentacles of organized crime.</p><p>Beginning in 1975, FORE members put together their first slate to challenge the incumbents in the Local election. They published a newspaper and used its pages to chronicle the mishandling of union finances and pension and welfare fund irregularities. Their vocal and well-publicized opposition, their legal challenges, and their refusal to be denied contractual rights on the job, earned the FORE activists the enmity of their officials. They were blacklisted and repeatedly had to seek redress through the mechanisms of the National Labor Relations Board (NLRB) and the courts. Denied employment, denounced and threatened, the members of FORE continued to expose the corrupt inner workings of their Local. The rackets that they exposed in their rank and file newspaper turned up as major news stores, chronicling indictments, convictions, and mob control of the concrete industry. John Cody, Local President from 1976 to 1984, was convicted for his illegal $2 million loan of pension funds to Chicago mobsters. Cody's actions, carried out in his capacity as Administration of Local 282's Pension Fund, were first challenged and exposed by the members of FORE. Government investigations into racketeering and corruption in the construction industry identified the pivotal role of Local 282's leadership through its connections to the Gambino, Genovese, and Lucchese Crime Families. When Sammy "the Bull" Gravano turned State's evidence in 1992, he detailed for government investigators the lynchpin role of Local 282's leadership. Gravano's revelations led to the ouster of Cody's successor, Robert Sasso.</p><p>Members of FORE also participated in the activities of the national reform movements to clean up the Teamsters. They were active in both PROD (Professional Drivers Council) and TDU (Teamsters for a Democratic Union). Ted Katsaros, one of the founding members of FORE, attracted widespread publicity for his role as a rank &amp; file leader and opponent of the gangster rule that dominated Local 282.</p><p>Sources:</p><p><list><item><bibref>Adler, Jerry. <title render="italic">High Rise.</title>New York: Harper Collins, 1993.</bibref> </item><item><bibref>Corruption and Racketeering in the New York City Construction Industry. Interim Report by the New York State Organized Crime Task Force. Ithaca, NY: ILR Press, New York State School of Industrial and Labor Relations, Cornell University, 1988.</bibref> </item><item><bibref>Corruption and Racketeering in the New York City Construction Industry. Final Report to Governor Mario M. Cuomo. Ronald Goldstock, Director, New York State Organized Crime Task Force. December 1989.</bibref> </item><item><bibref>Crowe, Kenneth C. <title render="italic">Collision: How the Rank and File Took Back the Teamsters.</title>New York: Charles Scribner's Sons, 1993.</bibref> </item><item><bibref>LaBotz, Dan. <title render="italic">Rank and File Rebellion: Teamsters for a Democratic Union.</title>New York: Routledge, Chapman &amp; Hall (Verso), 1990.</bibref> </item><item><bibref>Mass, Peter. <title render="italic">Underboss: Sammy the Bull Gravano's Story of Life in the Mafia.</title>New York: HarperCollins, 1997.</bibref> </item><item><bibref>O'Brien, Joseph F. and Kurins, Andris. <title render="italic">Boss of Bosses: the FBI and Paul Castellano.</title>New York: Dell Publishing, 1991.</bibref> </item><item><bibref>Fitch, Robert, "Revolution in the Teamsters," <title render="italic">Tikkun,</title>Vol. 8, No.2, 1993.</bibref> </item><item><bibref>Hall, Burton, "Which Side Are You On?" <title render="italic">New Politics,</title>Vol. III, No. 3, Summer, 1991.</bibref> </item><item><bibref>Salvatore, Nick, "Teamster Democracy: A Moment of Possibility," <title render="italic">New Politics,</title>Vol. III, No.2, Winter, 1991.</bibref> </item></list> </p>  </bioghist>
-  <scopecontent id="aspace_b6616a00256f8d4210cced68fd04895a">
-    <head>Scope and Content Note</head>
-<p>The Collection documents the activities of the members of FORE in Local 282, IBT. It includes news clippings, rank and file platforms, flyers, newspapers published by FORE, election ballots, correspondence, legal documents, NLRB proceedings, documents related to Local 282, including indictments, newsletters and news clippings. The Collection also includes materials related to the activities of FORE members within PROD and TDU. Materials on other IBT locals and information on the International form part of the Collection.</p><p>The Collection is organized topically. Larry Kudla maintained a scrapbook of materials related to FORE activities. These materials, including news clips, flyers, and other rank and file literature, have been removed from the scrapbook and copied for inclusion in the Collection.</p>  </scopecontent>
-  <arrangement id="aspace_30cc0832603d98935b00490c0746fd09">
-    <head>Arrangement</head>
-<p>Folders are arranged topically.</p><p>The files are grouped into 1 series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>Container List</item>
-    </list>
-  </arrangement>
-  <relatedmaterial id="aspace_1833f8ca0c30523757a3d9ce756a2dc7">
-    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-<p>Burton Hall Papers</p><p>Burton Hall Oral History Project (OH 34)</p><p>Carpenters for a Stronger Union Collection</p>  </relatedmaterial>
-  <userestrict id="aspace_df8e2c796a09e3eadbf23ad791eb1e92">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the International Brotherhood of Teamsters. Local 282. FORE (Fear of Reprisal Ends), was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <prefercite id="aspace_700b298d46da2e16e78a4b14c9c5ef07">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <acqinfo id="aspace_31da95bbe29c9e8fc87801bb001093c4">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Lawrence (Larry) Kudla, 1994. The accession number associated with this gift is 1994.017. In addition, Lee Olson contributed papers to the collection.</p>  </acqinfo>
-  <controlaccess>
-    <genreform source="aat">Fliers (printed matter)</genreform>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <subject source="lcsh">Labor unions -- Organizing -- United States.</subject>
-    <genreform source="aat">Ballots.</genreform>
-    <genreform source="aat">Proceedings.</genreform>
-    <genreform source="aat">Correspondence.</genreform>
-    <subject source="lcsh">Organized crime |z New York (State)</subject>
-    <subject source="lcsh">Labor unions -- Officials and employees.</subject>
-    <subject source="lcsh">Labor unions |x Corrupt practices.</subject>
-    <persname source="local">Cody, John, 1922-2001</persname>
-    <persname rules="dacs" source="local">Sasso, Bobby</persname>
-    <persname rules="dacs" source="local">Kudla, Lawrence</persname>
-    <corpname rules="dacs" source="local">New York Hard Hat News</corpname>
-    <persname rules="dacs" source="local">Olson, Leonard</persname>
-    <corpname source="naf">International Brotherhood of Teamsters</corpname>
-    <persname role="dnr" rules="dacs" source="local">Kudla, Lawrence</persname>
-    <persname role="dnr" rules="dacs" source="local">Olson, Lee</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Container List</unittitle></did><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence</unittitle><unitdate normal="1977/1992" type="inclusive">1977-1992</unitdate><container altrender="Manuscript box - Legal" id="aspace_e7fce89018a574b9ed0a78d8ded01b6c" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_28871f23cd308367b2f767ea5ba1d72c" parent="aspace_e7fce89018a574b9ed0a78d8ded01b6c" type="folder">1</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence</unittitle><unitdate normal="1992/1995" type="inclusive">1992-1995</unitdate><container altrender="Manuscript box - Legal" id="aspace_408b0ceae809c1cae6fc01877fe4664d" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_f446b23b25188b7170d88fe2c45d14f4" parent="aspace_408b0ceae809c1cae6fc01877fe4664d" type="folder">2</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle>FORE Literature (Newspapers, flyers, etc.)</unittitle><unitdate normal="1979/1981" type="inclusive">1979-1981</unitdate><container altrender="Manuscript box - Legal" id="aspace_a2d801a1a249ab6ff09b02bc1ae11629" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_b799caa5b10a85a11b4df4e92cee208b" parent="aspace_a2d801a1a249ab6ff09b02bc1ae11629" type="folder">3</container></did></c><c id="aspace_ref17" level="otherlevel" otherlevel="unspecified"><did><unittitle>FORE Scrapbook</unittitle><unitdate normal="1970/1995" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_9ecd03e53032014a3f4d2128817e4cc3" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_dc3d6570321f1d1f9e620c69fcafc590" parent="aspace_9ecd03e53032014a3f4d2128817e4cc3" type="folder">4</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle>NLRB Case - Kuebler, J.; Curd, C.; Katsaros, T.; and Kudla, L. v. Willets Point</unittitle><unitdate normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_61e995b2a2a7625ec38147772e36986b" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_42e434af2bc311500b51597289c8deb1" parent="aspace_61e995b2a2a7625ec38147772e36986b" type="folder">5</container></did></c><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle>Transit-Mix (overweight trucks)</unittitle><unitdate normal="1983/1983" type="inclusive">1983</unitdate><container altrender="Manuscript box - Legal" id="aspace_24e2b7176bde6a09e9b5cb21c1b70a24" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_79ec5f1e7a333ab2d929ecf0f20df496" parent="aspace_24e2b7176bde6a09e9b5cb21c1b70a24" type="folder">6</container></did></c><c id="aspace_ref20" level="otherlevel" otherlevel="unspecified"><did><unittitle>Teamsters for a Democratic Union (TDU)</unittitle><unitdate normal="1970/1995" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2be0189f4baf489337829574ea0a94a1" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_fae6b255d1201d58c512d07399d391bb" parent="aspace_2be0189f4baf489337829574ea0a94a1" type="folder">7</container></did></c><c id="aspace_ref21" level="otherlevel" otherlevel="unspecified"><did><unittitle>Professional Drivers Council (PROD)</unittitle><unitdate normal="1970/1995" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_8267ed74acbe3040ff47d7e2d6fe49a7" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_e21cbec5baac2d606be6b28ea7d303e6" parent="aspace_8267ed74acbe3040ff47d7e2d6fe49a7" type="folder">8</container></did></c><c id="aspace_ref22" level="otherlevel" otherlevel="unspecified"><did><unittitle>Local 282</unittitle><unitdate normal="1970/1995" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_bf0f5a09d1006fd105744ad11ec0dabc" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_07933d43a96d323ad04101266325ed09" parent="aspace_bf0f5a09d1006fd105744ad11ec0dabc" type="folder">9</container></did></c><c id="aspace_ref23" level="otherlevel" otherlevel="unspecified"><did><unittitle>FORE/Local 282 News Clippings</unittitle><unitdate normal="1970/1982" type="inclusive">1970-1982</unitdate><container altrender="Manuscript box - Legal" id="aspace_8cb42f970417ad1c02c8cc1635a5c3fb" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_65f47174ed5785cf02df81b32d33f1d8" parent="aspace_8cb42f970417ad1c02c8cc1635a5c3fb" type="folder">10</container></did></c><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle>FORE/Local 282 News Clippings</unittitle><unitdate normal="1983/1995" type="inclusive">1983-1995</unitdate><container altrender="Manuscript box - Legal" id="aspace_27dbdf2d70c87f86680642c6f7e8a91d" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_7f6a8c6b58a402b3b271eef1f5f8127f" parent="aspace_27dbdf2d70c87f86680642c6f7e8a91d" type="folder">11</container></did></c><c id="aspace_ref25" level="otherlevel" otherlevel="unspecified"><did><unittitle>Speeches (TDU Convention; L. Kudla Dinner)</unittitle><unitdate normal="1992/1995" type="inclusive">1992 , 1995</unitdate><container altrender="Manuscript box - Legal" id="aspace_552e722bb123793dc32cd0b6cbb55581" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_46d6913b43d85eea77a0d93c57b18d3f" parent="aspace_552e722bb123793dc32cd0b6cbb55581" type="folder">12</container></did></c><c id="aspace_ref26" level="otherlevel" otherlevel="unspecified"><did><unittitle>IBT - Other (Clippings on International; Locals 560, 584)</unittitle><unitdate normal="1970/1995" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_99364d0d8fcaef365fed8d65815ded65" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_24877d9547f9f938124d6830cd423445" parent="aspace_99364d0d8fcaef365fed8d65815ded65" type="folder">13</container></did></c><c id="aspace_ref27" level="otherlevel" otherlevel="unspecified"><did><unittitle>Clippings; Rank and File Publication</unittitle><unitdate normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_9ba2bb81e89587b8d764207da362c6bb" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_96414503d8f3f773d3e0931e0d58aa1b" parent="aspace_9ba2bb81e89587b8d764207da362c6bb" type="folder">14</container></did></c><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle>FORE II - Newsletter, Leon Olson. Correspondence; Newsclippings.</unittitle><unitdate normal="1995/1997" type="inclusive">1995-1997</unitdate><container altrender="Manuscript box - Legal" id="aspace_8e7c66a4d3c8ed4355a37ae9895f8757" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_a195fb8706bd5497121cd4b04ff6f55c" parent="aspace_8e7c66a4d3c8ed4355a37ae9895f8757" type="folder">15</container></did></c><c id="aspace_ref29" level="otherlevel" otherlevel="unspecified"><did><unittitle>Election Materials, Local 282</unittitle><unitdate normal="1970/1995" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_0bbb14e0ef7d95455302c55b469f460d" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_7f43c6787a5935a8398bff3465018249" parent="aspace_0bbb14e0ef7d95455302c55b469f460d" type="folder">16</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle>Synergy Gas v. Robert Sasso (Brief. U.S. Supreme Ct.)</unittitle><unitdate normal="1988/1988" type="inclusive">1988</unitdate><container altrender="Manuscript box - Legal" id="aspace_bc6b24a25000c39d8a59a2ad3b21dd7a" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_9fd44c049abc705a9c65ff644e235284" parent="aspace_bc6b24a25000c39d8a59a2ad3b21dd7a" type="folder">17</container></did></c><c id="aspace_ref31" level="otherlevel" otherlevel="unspecified"><did><unittitle>Teamster Pensions - Prod Analysis</unittitle><unitdate normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_48bf3b7a4e7cade46dbd4f9df9d66b26" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_2fb33392496fac223376efd2252a4c1a" parent="aspace_48bf3b7a4e7cade46dbd4f9df9d66b26" type="folder">18</container></did></c><c id="aspace_ref32" level="otherlevel" otherlevel="unspecified"><did><unittitle>65th Anniversary Issue - Local 282 - Trade Union Courier (special supplement)</unittitle><unitdate>Jun 1981</unitdate><container altrender="Manuscript box - Legal" id="aspace_b297cfdd736fdb463e20dd114d81c466" label="Mixed Materials [31142062766459]" type="box">1</container><container id="aspace_7f12c5b9f6cb147d678e0e4965452e5e" parent="aspace_b297cfdd736fdb463e20dd114d81c466" type="folder">19</container></did></c></c></dsc>
-</archdesc>
+    </did>
+    <custodhist id="aspace_0dd4a6d83b09afb0f0c6576810015296">
+      <head>Custodial History</head>
+      <p>In November 1993, Lawrence Kudla and John Carter, founding members of FORE, participated in the Burton Hall Oral History Project at the Wagner Labor Archives. In May 1994, Lawrence (Larry) Kudla donated his collection of materials about FORE to the Archives. FORE is the acronym of the insurgent group "Fear of Reprisal Ends" in Local 282 of the International Brotherhood of Teamsters. In April 1995, Charles Curd and Leon (Lee) Olson, active members of FORE, were interviewed for the Burton Hall Oral History Project. Subsequently, Lee Olson contributed papers to the Collection.</p>
+    </custodhist>
+    <accessrestrict id="aspace_629e86a833f1d831b3231d666cb49304">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_07a32e023879382bac6083baa715cea2">
+      <head>Historical/Biographical Note</head>
+      <p>In the mid-70s, a small group of Teamsters organized a reform group in Local 282 of the IBT. Local 282 represents approximately 4,500 construction truck drivers. The teamsters of Local 282 deliver concrete and building materials to construction sites in New York City and Long Island. The essential nature of Local 282's services at construction sites places the union in a strategic position. Indeed its history of control by organized crime has earned Local 282 the appellation of "candy store for the mob." Though the small group of reformers never never won a majority of votes in the Local, they engaged in a protracted and well-publicized campaign to clean up the corrupt practices of its Local officers. The pressure and visibility created by their efforts have resulted in a series of convictions, resignations and trusteeships. Despite these changes, the Local remains vulnerable to the tentacles of organized crime.</p>
+      <p>Beginning in 1975, FORE members put together their first slate to challenge the incumbents in the Local election. They published a newspaper and used its pages to chronicle the mishandling of union finances and pension and welfare fund irregularities. Their vocal and well-publicized opposition, their legal challenges, and their refusal to be denied contractual rights on the job, earned the FORE activists the enmity of their officials. They were blacklisted and repeatedly had to seek redress through the mechanisms of the National Labor Relations Board (NLRB) and the courts. Denied employment, denounced and threatened, the members of FORE continued to expose the corrupt inner workings of their Local. The rackets that they exposed in their rank and file newspaper turned up as major news stores, chronicling indictments, convictions, and mob control of the concrete industry. John Cody, Local President from 1976 to 1984, was convicted for his illegal $2 million loan of pension funds to Chicago mobsters. Cody's actions, carried out in his capacity as Administration of Local 282's Pension Fund, were first challenged and exposed by the members of FORE. Government investigations into racketeering and corruption in the construction industry identified the pivotal role of Local 282's leadership through its connections to the Gambino, Genovese, and Lucchese Crime Families. When Sammy "the Bull" Gravano turned State's evidence in 1992, he detailed for government investigators the lynchpin role of Local 282's leadership. Gravano's revelations led to the ouster of Cody's successor, Robert Sasso.</p>
+      <p>Members of FORE also participated in the activities of the national reform movements to clean up the Teamsters. They were active in both PROD (Professional Drivers Council) and TDU (Teamsters for a Democratic Union). Ted Katsaros, one of the founding members of FORE, attracted widespread publicity for his role as a rank &amp; file leader and opponent of the gangster rule that dominated Local 282.</p>
+      <p>Sources:</p>
+      <p>
+        <list>
+          <item>
+            <bibref>Adler, Jerry. <title render="italic">High Rise.</title>New York: Harper Collins, 1993.</bibref>
+          </item>
+          <item>
+            <bibref>Corruption and Racketeering in the New York City Construction Industry. Interim Report by the New York State Organized Crime Task Force. Ithaca, NY: ILR Press, New York State School of Industrial and Labor Relations, Cornell University, 1988.</bibref>
+          </item>
+          <item>
+            <bibref>Corruption and Racketeering in the New York City Construction Industry. Final Report to Governor Mario M. Cuomo. Ronald Goldstock, Director, New York State Organized Crime Task Force. December 1989.</bibref>
+          </item>
+          <item>
+            <bibref>Crowe, Kenneth C. <title render="italic">Collision: How the Rank and File Took Back the Teamsters.</title>New York: Charles Scribner's Sons, 1993.</bibref>
+          </item>
+          <item>
+            <bibref>LaBotz, Dan. <title render="italic">Rank and File Rebellion: Teamsters for a Democratic Union.</title>New York: Routledge, Chapman &amp; Hall (Verso), 1990.</bibref>
+          </item>
+          <item>
+            <bibref>Mass, Peter. <title render="italic">Underboss: Sammy the Bull Gravano's Story of Life in the Mafia.</title>New York: HarperCollins, 1997.</bibref>
+          </item>
+          <item>
+            <bibref>O'Brien, Joseph F. and Kurins, Andris. <title render="italic">Boss of Bosses: the FBI and Paul Castellano.</title>New York: Dell Publishing, 1991.</bibref>
+          </item>
+          <item>
+            <bibref>Fitch, Robert, "Revolution in the Teamsters," <title render="italic">Tikkun,</title>Vol. 8, No.2, 1993.</bibref>
+          </item>
+          <item>
+            <bibref>Hall, Burton, "Which Side Are You On?" <title render="italic">New Politics,</title>Vol. III, No. 3, Summer, 1991.</bibref>
+          </item>
+          <item>
+            <bibref>Salvatore, Nick, "Teamster Democracy: A Moment of Possibility," <title render="italic">New Politics,</title>Vol. III, No.2, Winter, 1991.</bibref>
+          </item>
+        </list>
+      </p>
+    </bioghist>
+    <scopecontent id="aspace_b6616a00256f8d4210cced68fd04895a">
+      <head>Scope and Content Note</head>
+      <p>The Collection documents the activities of the members of FORE in Local 282, IBT. It includes news clippings, rank and file platforms, flyers, newspapers published by FORE, election ballots, correspondence, legal documents, NLRB proceedings, documents related to Local 282, including indictments, newsletters and news clippings. The Collection also includes materials related to the activities of FORE members within PROD and TDU. Materials on other IBT locals and information on the International form part of the Collection.</p>
+      <p>The Collection is organized topically. Larry Kudla maintained a scrapbook of materials related to FORE activities. These materials, including news clips, flyers, and other rank and file literature, have been removed from the scrapbook and copied for inclusion in the Collection.</p>
+    </scopecontent>
+    <arrangement id="aspace_30cc0832603d98935b00490c0746fd09">
+      <head>Arrangement</head>
+      <p>Folders are arranged topically.</p>
+      <p>The files are grouped into 1 series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>Container List</item>
+      </list>
+    </arrangement>
+    <relatedmaterial id="aspace_1833f8ca0c30523757a3d9ce756a2dc7">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>Burton Hall Papers</p>
+      <p>Burton Hall Oral History Project (OH 34)</p>
+      <p>Carpenters for a Stronger Union Collection</p>
+    </relatedmaterial>
+    <userestrict id="aspace_df8e2c796a09e3eadbf23ad791eb1e92">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the International Brotherhood of Teamsters. Local 282. FORE (Fear of Reprisal Ends), was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <prefercite id="aspace_700b298d46da2e16e78a4b14c9c5ef07">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <acqinfo id="aspace_31da95bbe29c9e8fc87801bb001093c4">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Lawrence (Larry) Kudla, 1994. The accession number associated with this gift is 1994.017. In addition, Lee Olson contributed papers to the collection.</p>
+    </acqinfo>
+    <controlaccess>
+      <genreform source="aat">Fliers (printed matter)</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <subject source="lcsh">Labor unions -- Organizing -- United States.</subject>
+      <genreform source="aat">Ballots.</genreform>
+      <genreform source="aat">Proceedings.</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">Organized crime |z New York (State)</subject>
+      <subject source="lcsh">Labor unions -- Officials and employees.</subject>
+      <subject source="lcsh">Labor unions |x Corrupt practices.</subject>
+      <persname source="local">Cody, John, 1922-2001</persname>
+      <persname rules="dacs" source="local">Sasso, Bobby</persname>
+      <persname rules="dacs" source="local">Kudla, Lawrence</persname>
+      <corpname rules="dacs" source="local">New York Hard Hat News</corpname>
+      <persname rules="dacs" source="local">Olson, Leonard</persname>
+      <corpname source="naf">International Brotherhood of Teamsters</corpname>
+      <persname role="dnr" rules="dacs" source="local">Kudla, Lawrence</persname>
+      <persname role="dnr" rules="dacs" source="local">Olson, Lee</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13" level="series">
+        <did>
+          <unittitle>Container List</unittitle>
+        </did>
+        <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1977/1992" type="inclusive">1977-1992</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e7fce89018a574b9ed0a78d8ded01b6c" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_28871f23cd308367b2f767ea5ba1d72c" parent="aspace_e7fce89018a574b9ed0a78d8ded01b6c" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1992/1995" type="inclusive">1992-1995</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_408b0ceae809c1cae6fc01877fe4664d" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_f446b23b25188b7170d88fe2c45d14f4" parent="aspace_408b0ceae809c1cae6fc01877fe4664d" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>FORE Literature (Newspapers, flyers, etc.)</unittitle>
+            <unitdate normal="1979/1981" type="inclusive">1979-1981</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a2d801a1a249ab6ff09b02bc1ae11629" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_b799caa5b10a85a11b4df4e92cee208b" parent="aspace_a2d801a1a249ab6ff09b02bc1ae11629" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>FORE Scrapbook</unittitle>
+            <unitdate normal="1970/1995" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9ecd03e53032014a3f4d2128817e4cc3" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_dc3d6570321f1d1f9e620c69fcafc590" parent="aspace_9ecd03e53032014a3f4d2128817e4cc3" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>NLRB Case - Kuebler, J.; Curd, C.; Katsaros, T.; and Kudla, L. v. Willets Point</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_61e995b2a2a7625ec38147772e36986b" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_42e434af2bc311500b51597289c8deb1" parent="aspace_61e995b2a2a7625ec38147772e36986b" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Transit-Mix (overweight trucks)</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_24e2b7176bde6a09e9b5cb21c1b70a24" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_79ec5f1e7a333ab2d929ecf0f20df496" parent="aspace_24e2b7176bde6a09e9b5cb21c1b70a24" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Teamsters for a Democratic Union (TDU)</unittitle>
+            <unitdate normal="1970/1995" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2be0189f4baf489337829574ea0a94a1" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_fae6b255d1201d58c512d07399d391bb" parent="aspace_2be0189f4baf489337829574ea0a94a1" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Professional Drivers Council (PROD)</unittitle>
+            <unitdate normal="1970/1995" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8267ed74acbe3040ff47d7e2d6fe49a7" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_e21cbec5baac2d606be6b28ea7d303e6" parent="aspace_8267ed74acbe3040ff47d7e2d6fe49a7" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Local 282</unittitle>
+            <unitdate normal="1970/1995" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bf0f5a09d1006fd105744ad11ec0dabc" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_07933d43a96d323ad04101266325ed09" parent="aspace_bf0f5a09d1006fd105744ad11ec0dabc" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>FORE/Local 282 News Clippings</unittitle>
+            <unitdate normal="1970/1982" type="inclusive">1970-1982</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8cb42f970417ad1c02c8cc1635a5c3fb" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_65f47174ed5785cf02df81b32d33f1d8" parent="aspace_8cb42f970417ad1c02c8cc1635a5c3fb" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>FORE/Local 282 News Clippings</unittitle>
+            <unitdate normal="1983/1995" type="inclusive">1983-1995</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_27dbdf2d70c87f86680642c6f7e8a91d" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_7f6a8c6b58a402b3b271eef1f5f8127f" parent="aspace_27dbdf2d70c87f86680642c6f7e8a91d" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Speeches (TDU Convention; L. Kudla Dinner)</unittitle>
+            <unitdate normal="1992/1995" type="inclusive">1992 , 1995</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_552e722bb123793dc32cd0b6cbb55581" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_46d6913b43d85eea77a0d93c57b18d3f" parent="aspace_552e722bb123793dc32cd0b6cbb55581" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IBT - Other (Clippings on International; Locals 560, 584)</unittitle>
+            <unitdate normal="1970/1995" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_99364d0d8fcaef365fed8d65815ded65" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_24877d9547f9f938124d6830cd423445" parent="aspace_99364d0d8fcaef365fed8d65815ded65" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Clippings; Rank and File Publication</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9ba2bb81e89587b8d764207da362c6bb" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_96414503d8f3f773d3e0931e0d58aa1b" parent="aspace_9ba2bb81e89587b8d764207da362c6bb" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>FORE II - Newsletter, Leon Olson. Correspondence; Newsclippings.</unittitle>
+            <unitdate normal="1995/1997" type="inclusive">1995-1997</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8e7c66a4d3c8ed4355a37ae9895f8757" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_a195fb8706bd5497121cd4b04ff6f55c" parent="aspace_8e7c66a4d3c8ed4355a37ae9895f8757" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Election Materials, Local 282</unittitle>
+            <unitdate normal="1970/1995" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0bbb14e0ef7d95455302c55b469f460d" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_7f43c6787a5935a8398bff3465018249" parent="aspace_0bbb14e0ef7d95455302c55b469f460d" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Synergy Gas v. Robert Sasso (Brief. U.S. Supreme Ct.)</unittitle>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bc6b24a25000c39d8a59a2ad3b21dd7a" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_9fd44c049abc705a9c65ff644e235284" parent="aspace_bc6b24a25000c39d8a59a2ad3b21dd7a" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Teamster Pensions - Prod Analysis</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_48bf3b7a4e7cade46dbd4f9df9d66b26" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_2fb33392496fac223376efd2252a4c1a" parent="aspace_48bf3b7a4e7cade46dbd4f9df9d66b26" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>65th Anniversary Issue - Local 282 - Trade Union Courier (special supplement)</unittitle>
+            <unitdate>Jun 1981</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b297cfdd736fdb463e20dd114d81c466" label="Mixed Materials [31142062766459]" type="box">1</container>
+            <container id="aspace_7f12c5b9f6cb147d678e0e4965452e5e" parent="aspace_b297cfdd736fdb463e20dd114d81c466" type="folder">19</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

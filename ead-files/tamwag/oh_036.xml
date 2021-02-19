@@ -1,58 +1,568 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/oh_036">oh_036</eadid><filedesc><titlestmt><titleproper>Guide to the Maurice Isserman Oral History Interviews <num>OH.036</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:38:04 -0500</date>.</creation></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Maurice Isserman Oral History Interviews</unittitle>
-    <origination label="Creator">
-      <persname source="naf">Isserman, Maurice                          </persname>
-    </origination>
-    <unitid>OH.036</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
-      <extent altrender="carrier">in cassette boxes &amp; manuscript box</extent>
-    </physdesc>
-    <physdesc altrender="part">
-      <extent altrender="materialtype spaceoccupied">103 sound discs (cd)</extent>
-      <extent altrender="carrier">in 2 cassette boxes</extent>
-    </physdesc>
-    <physdesc altrender="part">
-      <extent altrender="materialtype spaceoccupied">64 Cassettes</extent>
-      <extent altrender="carrier">in 2 cassette boxes</extent>
-    </physdesc>
-    <physdesc altrender="part">
-      <extent altrender="materialtype spaceoccupied">1 manuscript boxes</extent>
-      <extent altrender="carrier">with transcripts</extent>
-    </physdesc>
-    <unitdate normal="1977/1986" type="inclusive">1977-1986</unitdate>
-    <abstract id="aspace_f2990b569d0d9c0a5f7df5653a631fe1">This group of interviews was donated to the Tamiment Library by historian Maurice Isserman following the publication of "If I Had a Hammer. . .The Death of the Old Left and the Birth of the New Left" (Basic Books, Inc.: New York, 1987). Isserman conducted the interviews between 1983 and 1986. Some time between 2002 and 2012, he also donated a transcript for an interview he conducted with Jeff Jones and Eleanor Stein for a separate project he intended to pursue--a the history of the Weathermen--but never followed up on.</abstract>
-    <langmaterial>
-      <language langcode="eng">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/oh_036">oh_036</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Maurice Isserman Oral History Interviews <num>OH.036</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:38:04 -0500</date>.</creation>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Maurice Isserman Oral History Interviews</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Isserman, Maurice                          </persname>
+      </origination>
+      <unitid>OH.036</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+        <extent altrender="carrier">in cassette boxes &amp; manuscript box</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">103 sound discs (cd)</extent>
+        <extent altrender="carrier">in 2 cassette boxes</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">64 Cassettes</extent>
+        <extent altrender="carrier">in 2 cassette boxes</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">1 manuscript boxes</extent>
+        <extent altrender="carrier">with transcripts</extent>
+      </physdesc>
+      <unitdate normal="1977/1986" type="inclusive">1977-1986</unitdate>
+      <abstract id="aspace_f2990b569d0d9c0a5f7df5653a631fe1">This group of interviews was donated to the Tamiment Library by historian Maurice Isserman following the publication of "If I Had a Hammer. . .The Death of the Old Left and the Birth of the New Left" (Basic Books, Inc.: New York, 1987). Isserman conducted the interviews between 1983 and 1986. Some time between 2002 and 2012, he also donated a transcript for an interview he conducted with Jeff Jones and Eleanor Stein for a separate project he intended to pursue--a the history of the Weathermen--but never followed up on.</abstract>
+      <langmaterial><language langcode="eng">English</language>
 .    </langmaterial>
-  </did>
-  <accessrestrict id="aspace_3ad26a42f02511a5a42afdaffb9ff6c4">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_bc65c8dbf403b6ead08252e01b319729">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Maurice Isserman and later found in repository, dates unknown. The accession numbers associated with this collection are 2000.023 and 2015.033.</p>  </acqinfo>
-  <prefercite id="aspace_4388b9bef790030affabc78d96d217f5">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Maurice Isserman Oral History Interviews; OH.036; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <scopecontent id="aspace_5e9e79654edd67f6b8ce30384dba2dbc">
-    <head>Scope and Contents</head>
-<p>This group of interviews was donated to the Tamiment Library by historian Maurice Isserman following the publication of "If I Had a Hammer. .   .The Death of the Old Left and the Birth of the New Left" (Basic Books, Inc.: New York, 1987).  Isserman conducted the interviews between 1983 and 1986.  Some time between 2002 and 2012, he also donated a transcript for an interview he conducted with Jeff Jones and Eleanor Stein for a separate project he intended to pursue--a the history of the Weathermen--but never followed up on.  SCOPE AND CONTENT NOTE: Isserman sought the roots of 1960s radicalism in the American Communist Party, the various groups led by Max Shachtman, the journal Dissent, and the Committee for Non-Violent Action.  He conducted interviews with intellectuals and political partisans active in the 1950s and the 1960s, among them, Stanley Aronowitz, David Dellinger, Ralph DiGia, Hal Draper, Harry and Vera Fleischman, Manny Geltman, Todd Gitlin, Abraham (Al) Glotzer, Gordon Haskell, Richard Healy, Michael Walzer, Irving Howe, Julius and Phyllis Jacobson, David McReynolds, Debbie Meier, Juanita and Wally Nelson, Ronald Radosh, and Andre Schiffrin.   Index available in repository.  Contact tamiment.wagner@nyu.edu for information.</p>  </scopecontent>
-  <phystech id="aspace_d376f1ecc377c3e5d832c3e76bddf6e1">
-    <head>Audiovisual Access Policies and Procedures</head>
-<p>Access to audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
-  <userestrict id="aspace_5dc6ab1a9ad2a0f71bcb31470da2f4e1">
-    <head>Conditions Governing Use</head>
-<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Repository is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
-  <controlaccess>
-    <subject source="lcsh">New Left -- United States.</subject>
-    <subject source="lcsh">Communism -- United States -- History -- 20th century.</subject>
-  </controlaccess>
-  <dsc><c id="aspace_ref48" level="series"><did><unittitle>If I Had a Hammer</unittitle></did><c id="aspace_ref2" level="file"><did><unittitle>Stanley Aronowitz</unittitle><unitid>cuid116</unitid><unitdate normal="1984/1984" type="inclusive">Jul 11, 1984</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_1438050335f4d0cb4988cc904d006ffd" label="master cassette [31142054612315]" type="box">4</container><container id="aspace_f8ca0c7c4440c5bdd18feb4138b88470" parent="aspace_1438050335f4d0cb4988cc904d006ffd" type="cassette">1</container><container altrender="Card Box - 6.5 - long" id="aspace_2d83733a9f1e57f31559e3bf06c1ed78" label="access cd [31142062734812]" type="box">2</container><container id="aspace_b4837de1c997ede8b00aaf894916585d" parent="aspace_2d83733a9f1e57f31559e3bf06c1ed78" type="cd">1</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>Albert Bigelow</unittitle><unitid>cuid33675</unitid><unitdate normal="1984/1984" type="inclusive">Dec 15, 1984</unitdate><container altrender="Card Box - 6.5 - long" id="aspace_861f8fd6e828dd63f4727ed75cb68145" label="access cd [31142062734812]" type="box">2</container><container id="aspace_492ca8d329cb57d6a463bdb89ea10318" parent="aspace_861f8fd6e828dd63f4727ed75cb68145" type="cd">2A-B</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_0d07aed2802039e86fa5d8a2b1f1142d" label="master cassette [31142054612315]" type="box">4</container><container id="aspace_b6f3461f6dd0ced79f806a0919be2211" parent="aspace_0d07aed2802039e86fa5d8a2b1f1142d" type="cassette">2A-B</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Lewis Coser</unittitle><unitid>cuid117</unitid><unitdate normal="1985/1985" type="inclusive">May 3, 1985</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_cdb3a58929f5d341189124e8252b78ee" label="master cassette [31142054612315]" type="box">4</container><container id="aspace_d66d2670fb5428435a34a7570752dc3d" parent="aspace_cdb3a58929f5d341189124e8252b78ee" type="cassette">3</container><container altrender="Card Box - 6.5 - long" id="aspace_2a0673cb5b9f3dd0c69ea34d4bff2151" label="access cd [31142062734812]" type="box">2</container><container id="aspace_810bab86511258d41296dcef701b3cc9" parent="aspace_2a0673cb5b9f3dd0c69ea34d4bff2151" type="cd">3</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>David Dellinger</unittitle><unitid>cuid118</unitid><unitdate normal="1985/1985" type="inclusive">Jan 24, 1985</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_5729d0a6d8d6bcfb7e5089c2248cce23" label="master cassette [31142054612315]" type="box">4</container><container id="aspace_255968d9a707e938ea9890977b68fd3f" parent="aspace_5729d0a6d8d6bcfb7e5089c2248cce23" type="cassette">4A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_31164dc138f9cf7fd61c0e6f202184af" label="access cd [31142062734812]" type="box">2</container><container id="aspace_f099ccea77577b76a214aa1336a1ab4c" parent="aspace_31164dc138f9cf7fd61c0e6f202184af" type="cd">4A-B</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Betty Denitch</unittitle><unitid>cuid119</unitid><unitdate normal="1984/1984" type="inclusive">Aug 6, 1984</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_8a5cc58a4fd17f293381bd6e6a47dd2d" label="master cassette [31142054612315]" type="box">4</container><container id="aspace_a0d64aac3ef4aa0e449f451285a21b22" parent="aspace_8a5cc58a4fd17f293381bd6e6a47dd2d" type="cassette">5A-C</container><container altrender="Card Box - 6.5 - long" id="aspace_186e18010a6f0e96eb9d335d67649848" label="access cd [31142062734812]" type="box">2</container><container id="aspace_355e165d7be6d6459be816ed50eaa3d0" parent="aspace_186e18010a6f0e96eb9d335d67649848" type="cd">5A-C</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Bogdan Denitch</unittitle><unitid>cuid120</unitid><unitdate normal="1986/1986" type="inclusive">Dec 7, 1986</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_6151c868ff02fd48b9e02a2c3d1b0402" label="master cassette [31142054612315]" type="box">4</container><container id="aspace_3686f6cbf98ad38f67f27f175d9deeaf" parent="aspace_6151c868ff02fd48b9e02a2c3d1b0402" type="cassette">6</container><container altrender="Card Box - 6.5 - long" id="aspace_d620bceb0b75d61d8f0660ee711690b2" label="access cd [31142062734812]" type="box">2</container><container id="aspace_611397046e3a713d2d24a9c482b4873c" parent="aspace_d620bceb0b75d61d8f0660ee711690b2" type="cd">6</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Ralph DiGia</unittitle><unitid>cuid121</unitid><unitdate normal="1986/1986" type="inclusive">Dec 7, 1986</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_b25f3e3af224a14b64341483eebd1523" label="master cassette [31142054612315]" type="box">4</container><container id="aspace_1ca2f94f90d7ceb0496452f7a4486755" parent="aspace_b25f3e3af224a14b64341483eebd1523" type="cassette">7A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_499bceb72d81a34bf1ada9565dba3d20" label="access cd [31142062734812]" type="box">2</container><container id="aspace_6a79f5f3bfc5abdb1d9889280c6c0d85" parent="aspace_499bceb72d81a34bf1ada9565dba3d20" type="cd">7A-B</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Hal Draper</unittitle><unitid>cuid33676</unitid><unitdate normal="1983/1983" type="inclusive">Dec 29, 1983</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_bc011b1e49deea993f239ff345702d6c" label="master cassette [31142054612315]" type="box">4</container><container id="aspace_9764927f4569e7555d20a6a2c29dd392" parent="aspace_bc011b1e49deea993f239ff345702d6c" type="cassette">8A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_c8344ff34978a8c97f65a968b65ba103" label="access cd [31142062734812]" type="box">2</container><container id="aspace_a78d4af7fd3669db92df31b674d0c65d" parent="aspace_c8344ff34978a8c97f65a968b65ba103" type="cd">1-3</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Barbara Eastman</unittitle><unitid>cuid122</unitid><unitdate>Apr 21</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_e2352e3da3473a98f74349bb7efa84fa" label="master cassette [31142054612315]" type="box">4</container><container id="aspace_935701ee0a1baf176562792fca17736e" parent="aspace_e2352e3da3473a98f74349bb7efa84fa" type="cassette">9</container><container altrender="Card Box - 6.5 - long" id="aspace_29339804c8ca39e9ce6fabd905a5f7e5" label="access cd [31142062734812]" type="box">2</container><container id="aspace_59d1992e851061f6f6067e99b55fb17c" parent="aspace_29339804c8ca39e9ce6fabd905a5f7e5" type="cd">9</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Harry and Vera Fleischman</unittitle><unitid>cuid123</unitid><unitdate>undated</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_78ba5d214d4412be0f66163eb006a016" label="master cassette [31142054612315]" type="box">4</container><container id="aspace_dc7c4411530c84f55c75338482b10bcc" parent="aspace_78ba5d214d4412be0f66163eb006a016" type="cassette">10</container><container altrender="Card Box - 6.5 - long" id="aspace_b39529ca5fad84d4a350695c8a556da2" label="access cd [31142062734812]" type="box">2</container><container id="aspace_493738f6be4f2b8616758206dd8b04ef" parent="aspace_b39529ca5fad84d4a350695c8a556da2" type="cd">10</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Manny Geltman</unittitle><unitid>cuid124</unitid><unitdate normal="1985/1985" type="inclusive">Mar 19, 1985</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_5710c358e01d52168c6f6e7864f21ab9" label="master cassette [31142054612315]" type="box">4</container><container id="aspace_9bb40847ca2523c3f398cd8d61e8c321" parent="aspace_5710c358e01d52168c6f6e7864f21ab9" type="cassette">11A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_238cb82f90f340adf785ef0509a43191" label="access cd [31142062734812]" type="box">2</container><container id="aspace_9fe8c08efec4d4d836db15a310a938ff" parent="aspace_238cb82f90f340adf785ef0509a43191" type="cd">11A-B</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Todd Gitlin</unittitle><unitid>cuid125</unitid><unitdate normal="1984/1984" type="inclusive">Dec 29, 1984</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_0655055ced681c7a2c0622b8d964adbd" label="master cassette [31142054612315]" type="box">4</container><container id="aspace_17f9fd82f86fa80dd4df921675e64b5a" parent="aspace_0655055ced681c7a2c0622b8d964adbd" type="cassette">12A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_b5e85016b3ed6f7f7f238a4552b21482" label="access cd [31142062734812]" type="box">2</container><container id="aspace_b02ab0194bcb1bad93f5c145ea3c079b" parent="aspace_b5e85016b3ed6f7f7f238a4552b21482" type="cd">12A-B</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Al Glotzer</unittitle><unitid>cuid126</unitid><unitdate normal="1984/1984" type="inclusive">Oct 4, 1984</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_e5bf4cb0b3255ecba261b206d699f447" label="master cassette [31142054612315]" type="box">4</container><container id="aspace_5c77c8a234f63df0f21d6a10b001dea2" parent="aspace_e5bf4cb0b3255ecba261b206d699f447" type="cassette">13A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_6219a679ffe3df234cd15f024b23674c" label="access cd [31142062734812]" type="box">2</container><container id="aspace_f529bbb98b7a7db9c4ad824ea474f534" parent="aspace_6219a679ffe3df234cd15f024b23674c" type="cd">13A-B</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Gordon Haskell</unittitle><unitid>cuid127</unitid><unitdate normal="1983/1983" type="inclusive">Jul 15, 1983</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_10a35df9374cf9b5b5548c527d0e1ac5" label="master cassette [31142054612315]" type="box">4</container><container id="aspace_b78f91e405c0d4b4a6619891fb6b4d92" parent="aspace_10a35df9374cf9b5b5548c527d0e1ac5" type="cassette">14A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_b41fde257322713934f92e5b41113496" label="access cd [31142062734812]" type="box">2</container><container id="aspace_f9c4fe490b34d148d51f91f51c1f7e0a" parent="aspace_b41fde257322713934f92e5b41113496" type="cd">14A-B</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Richard Healy</unittitle><unitid>cuid128</unitid><unitdate normal="1982/1982" type="inclusive">1982</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_e607cec538b7adc90dcff373b8dd8568" label="master cassette [31142054612315]" type="box">4</container><container id="aspace_9d0858aca5a5d47e6cba1bb1efc42e5c" parent="aspace_e607cec538b7adc90dcff373b8dd8568" type="cassette">15A-C</container><container altrender="Card Box - 6.5 - long" id="aspace_cdb107dbc8a961d73ee7e050bf23b3d3" label="access cd [31142062734812]" type="box">2</container><container id="aspace_0e11d0f6525c3774cbe6e4c1b2f94e32" parent="aspace_cdb107dbc8a961d73ee7e050bf23b3d3" type="cd">15A-C</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Michael Walzer</unittitle><unitid>cuid129</unitid><unitdate normal="1986/1986" type="inclusive">Mar 20, 1986</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_872de921ea72c1887866c1281615fc97" label="master cassette [31142054612315]" type="box">4</container><container id="aspace_418d33ccd368a98e64605d0b32bbd655" parent="aspace_872de921ea72c1887866c1281615fc97" type="cassette">16A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_00a5e29ae5affdb477a1135ab137506f" label="access cd [31142062734812]" type="box">2</container><container id="aspace_4c13b7434d462e34ff376fe050628301" parent="aspace_00a5e29ae5affdb477a1135ab137506f" type="cd">16A-B</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Irving Howe</unittitle><unitid>cuid130</unitid><unitdate normal="1982/1982">Jan 24, 1982</unitdate><unitdate normal="1982/1982">Oct 21, 1982</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_72e50f993cdf03dd0de95881214fe2ed" label="master cassette [31142054612315]" type="box">4</container><container id="aspace_826eb711007bf8cbef574dcfec89031e" parent="aspace_72e50f993cdf03dd0de95881214fe2ed" type="cassette">17A-D</container><container altrender="Card Box - 6.5 - long" id="aspace_8ef2800571b038ad0bf1432f4367de54" label="access cd [31142062734812]" type="box">2</container><container id="aspace_2bed3e6e84af73206d44192340e06d80" parent="aspace_8ef2800571b038ad0bf1432f4367de54" type="cd">17A-D</container></did><scopecontent id="aspace_0c9293943808eb58a083effe149c89e6"><head>Scope and Contents</head><p>On side 2 of the January 24, 1982 Irving Howe interview (CD 17B, "Side 2"), the interview ends at the 2 1/2 minute mark.  There is a previous political interview with an unidentified source that may be of interest.</p></scopecontent></c><c id="aspace_ref19" level="file"><did><unittitle>Julius and Phyllis Jacobson</unittitle><unitid>cuid131</unitid><unitdate normal="1984/1984" type="inclusive">Apr 21, 1984</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_71fe07734ef9da60e12ed93b4c8aead7" label="master cassette [31142054612315]" type="box">4</container><container id="aspace_06c0ea18fc289ea1d4b2d0209390fd31" parent="aspace_71fe07734ef9da60e12ed93b4c8aead7" type="cassette">18</container><container altrender="Card Box - 6.5 - long" id="aspace_15b64292e2b4febf385f1b7831ca5275" label="access cd [31142062734812]" type="box">2</container><container id="aspace_e803df7c4c67ba1c905d300e70840afe" parent="aspace_15b64292e2b4febf385f1b7831ca5275" type="cd">18</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Arthur Lipow</unittitle><unitid>cuid132</unitid><unitdate normal="1984/1984" type="inclusive">Sep 11, 1984</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_3eb1debf5753e1f511570d8736b5445e" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_8d05267fd74d1b7ec1e8d90dd1ca509f" parent="aspace_3eb1debf5753e1f511570d8736b5445e" type="cassette">19A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_cb5e653c05e53d8377f8af6f20885278" label="access cd [31142062734812]" type="box">2</container><container id="aspace_e67e3ce3c77cebf58a8452498a0e1fb6" parent="aspace_cb5e653c05e53d8377f8af6f20885278" type="cd">19A-B</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>David McReynolds</unittitle><unitid>cuid133</unitid><unitdate normal="1984/1984" type="inclusive">Jul 9, 1984</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_efcd2dccb9f4f86324363da22de4e180" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_0d7c0eb837ea7fa70d8ad13bc8f3538d" parent="aspace_efcd2dccb9f4f86324363da22de4e180" type="cassette">20A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_04aa3f91a90abc3320576271eb94b63a" label="access cd [31142062758829]" type="box">3</container><container id="aspace_f082371f0912d4c2fef79b6504b6d838" parent="aspace_04aa3f91a90abc3320576271eb94b63a" type="cd">20A-B</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Steve Max</unittitle><unitid>cuid134</unitid><unitdate normal="1986/1986" type="inclusive">May 14, 1986</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_c967358065f5c760468898524fd8bc66" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_733c1ae9856c4a5d09321ef54efafdf7" parent="aspace_c967358065f5c760468898524fd8bc66" type="cassette">22A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_0c2f311a7173d45da3db86064f99af1c" label="access cd [31142062758829]" type="box">3</container><container id="aspace_5765f56b8ee24f6c692213293816c24e" parent="aspace_0c2f311a7173d45da3db86064f99af1c" type="cd">22A-B</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Debbie Meier</unittitle><unitid>cuid135</unitid><unitdate normal="1986/1986" type="inclusive">Apr 19, 1986</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_09307e3758510d93d2da114cee0f4c15" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_012ccd8e5a12bde45ad5c4ec1be83e76" parent="aspace_09307e3758510d93d2da114cee0f4c15" type="cassette">23</container><container altrender="Card Box - 6.5 - long" id="aspace_a48f37aa1ffd8840bd16a859eb0b3282" label="access cd [31142062758829]" type="box">3</container><container id="aspace_cde68fb4df7e4759fee432cc2c9ef913" parent="aspace_a48f37aa1ffd8840bd16a859eb0b3282" type="cd">23</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Juanita and Wally Nelson</unittitle><unitid>cuid136</unitid><unitdate normal="1985/1985" type="inclusive">Jul 10, 1985</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_457985a24ce691bb68cd6a09ac112620" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_229a734058c3252663b5540ba4b8ebb3" parent="aspace_457985a24ce691bb68cd6a09ac112620" type="cassette">24</container><container altrender="Card Box - 6.5 - long" id="aspace_baf3eacea2c2ea6c06d2709f297c7bd3" label="access cd [31142062758829]" type="box">3</container><container id="aspace_e6a66a19b6d6956791aec3b2ed54ff9f" parent="aspace_baf3eacea2c2ea6c06d2709f297c7bd3" type="cd">24A-B</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Joni Rabinowitz</unittitle><unitid>cuid137</unitid><unitdate normal="1983/1983" type="inclusive">Jul 15, 1983</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_bd358d36f713d12af57cb6b3f50acdc7" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_9928bcd46505ab889a0c0f49ad171878" parent="aspace_bd358d36f713d12af57cb6b3f50acdc7" type="cassette">25</container><container altrender="Card Box - 6.5 - long" id="aspace_19aaf2ab1c58547717f74d5008878b78" label="access cd [31142062758829]" type="box">3</container><container id="aspace_9f8a4d0b162b99a8c3cfc382f24bf997" parent="aspace_19aaf2ab1c58547717f74d5008878b78" type="cd">25</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Ronald Radosh</unittitle><unitid>cuid138</unitid><unitdate normal="1984/1984" type="inclusive">Jul 10, 1984</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_ccf740557798d7b02369c07e93b89697" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_95ebc2af2c58ec8e15567746701ea6a1" parent="aspace_ccf740557798d7b02369c07e93b89697" type="cassette">26</container><container altrender="Card Box - 6.5 - long" id="aspace_6767b19bcac130448c4cd662cb02c3e0" label="access cd [31142062758829]" type="box">3</container><container id="aspace_0a9b54b44bfbe0feafa3e791546ce8df" parent="aspace_6767b19bcac130448c4cd662cb02c3e0" type="cd">26</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Bernard Rosenberg</unittitle><unitid>cuid139</unitid><unitdate normal="1983/1983" type="inclusive">Oct 16, 1983</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_cd5602cfb8aedf715f6a4f51278d91dd" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_e05baccd5848bbd9aeaefebe3f92b10d" parent="aspace_cd5602cfb8aedf715f6a4f51278d91dd" type="cassette">27A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_415f447daca41de63378888435235eca" label="access cd [31142062758829]" type="box">3</container><container id="aspace_992ff20ecf8dcf40def39a82554c11f3" parent="aspace_415f447daca41de63378888435235eca" type="cd">27A-B</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Andre Schiffrin</unittitle><unitid>cuid140</unitid><unitdate normal="1983/1983" type="inclusive">Jun 19, 1983</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_3f2b778fe21fcc5cc27018e484be5c0d" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_5c866946a872d6b647058e16c8d76442" parent="aspace_3f2b778fe21fcc5cc27018e484be5c0d" type="cassette">28</container><container altrender="Card Box - 6.5 - long" id="aspace_5c2204469feeed1f8b67494c2089f938" label="access cd [31142062758829]" type="box">3</container><container id="aspace_516305bb6b942cd8f87bb53d92de8e56" parent="aspace_5c2204469feeed1f8b67494c2089f938" type="cd">28</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Mike Thelwel</unittitle><unitid>cuid141</unitid><unitdate normal="1986/1986" type="inclusive">Jul 10, 1986</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_d949bb2d4151b8c2f6b09fb200858f7e" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_4cb58e2c81b19ba70cf2abcbbffd2558" parent="aspace_d949bb2d4151b8c2f6b09fb200858f7e" type="cassette">29</container><container altrender="Card Box - 6.5 - long" id="aspace_1fd208e3622451612356a9bb30093554" label="access cd [31142062758829]" type="box">3</container><container id="aspace_8c4f8304f8e7a352b3834fc4f106d8af" parent="aspace_1fd208e3622451612356a9bb30093554" type="cd">29</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Freijof Thygessen</unittitle><unitid>cuid142</unitid><unitdate normal="1984/1984" type="inclusive">Dec 8, 1984</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_612d622fe5b007e58259827efe7e8034" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_d474d87ed7f499a20405779f5475bf9e" parent="aspace_612d622fe5b007e58259827efe7e8034" type="cassette">30</container><container altrender="Card Box - 6.5 - long" id="aspace_c54be3d1701a25eec4accb4fb05dad9a" label="access cd [31142062758829]" type="box">3</container><container id="aspace_d0a66781e5b2920e4fdb755bb0793970" parent="aspace_c54be3d1701a25eec4accb4fb05dad9a" type="cd">30</container></did><scopecontent id="aspace_73b9aae07ac0cd8a7ea3c80a1a42b07f"><head>Scope and Contents</head><p>Recording was made in a public setting and includes background noise that sometimes makes the conversation difficult to hear.</p></scopecontent></c><c id="aspace_ref31" level="file"><did><unittitle>Dorothy Tristman and Larry Wittner</unittitle><unitid>cuid143</unitid><unitdate normal="1984/1984" type="inclusive">Jul 4, 1984</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_63f057b323b04c6c692f1098c1caec90" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_af02e4f9fb991821efd66fd4ba28847b" parent="aspace_63f057b323b04c6c692f1098c1caec90" type="cassette">31A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_9131412a338d93c383303381ad64aaf0" label="access cd [31142062758829]" type="box">3</container><container id="aspace_eedb062a165443ad894185338ee8c429" parent="aspace_9131412a338d93c383303381ad64aaf0" type="cd">31A-B</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Peggy Dennis</unittitle><unitid>cuid144</unitid><unitdate>undated</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_7e3e041fa8e2a882c0217f4325f5038c" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_630c282d03315aa30357f2bd28dacd0d" parent="aspace_7e3e041fa8e2a882c0217f4325f5038c" type="cassette">32</container><container altrender="Card Box - 6.5 - long" id="aspace_e0ca54bf82f71d9cf633e022d489a2d1" label="access cd [31142062758829]" type="box">3</container><container id="aspace_94fb090934eb297a0f1fccdf151f49a1" parent="aspace_e0ca54bf82f71d9cf633e022d489a2d1" type="cd">32</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Ben Dvosin</unittitle><unitid>cuid145</unitid><unitdate>undated</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_bc9ecdc3ebd751a0e069d8521d634b80" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_5d32e34a6182ec8c6d5c9f6a81fcea9e" parent="aspace_bc9ecdc3ebd751a0e069d8521d634b80" type="cassette">33A-C</container><container altrender="Card Box - 6.5 - long" id="aspace_3ffdabf071021045d6290fc89a30dc20" label="access cd [31142062758829]" type="box">3</container><container id="aspace_3798e9ddda0b4f930ef1b5206725d437" parent="aspace_3ffdabf071021045d6290fc89a30dc20" type="cd">33A-C</container></did><scopecontent id="aspace_e25b286c81449a5656610ac03cdd9fa7"><head>Scope and Contents</head><p>All recordings had a slight static electrical interference noise.</p></scopecontent></c><c id="aspace_ref34" level="file"><did><unittitle>Max Gordon</unittitle><unitid>cuid146</unitid><unitdate normal="1977/1977" type="inclusive">Feb 15, 1977</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_35eab9721e4feaa217c84df63f745883" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_9efb80c43035a46ca0ecc2655c9cd7d3" parent="aspace_35eab9721e4feaa217c84df63f745883" type="cassette">34</container><container altrender="Card Box - 6.5 - long" id="aspace_2b00eb5755585ace4e29fcbb0c446c75" label="access cd [31142062758829]" type="box">3</container><container id="aspace_3b1a175065054d231836b5f1130c84c8" parent="aspace_2b00eb5755585ace4e29fcbb0c446c75" type="cd">34</container></did><scopecontent id="aspace_832a02586d0107561e0fbe4d9d5ae67c"><head>Scope and Contents</head><p>Static electrical interference noise present in original recording</p></scopecontent></c><c id="aspace_ref35" level="file"><did><unittitle>Gil Green</unittitle><unitid>cuid33677</unitid><unitdate normal="1977/1977" type="inclusive">Dec 31, 1977</unitdate><container altrender="Card Box - 6.5 - long" id="aspace_d8ea25fd7619fcae509be5209a408587" label="access cd [31142062758829]" type="box">3</container><container id="aspace_47438bab9333318764eaea23504e29cf" parent="aspace_d8ea25fd7619fcae509be5209a408587" type="cd">Green 1-2</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_0a305c613667a94bfdd867f476e97828" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_1cf6938c7abc5a71f059136530efc109" parent="aspace_0a305c613667a94bfdd867f476e97828" type="cassette">35A-B</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Vincent Lossowski</unittitle><unitid>cuid147</unitid><unitdate normal="1978/1978" type="inclusive">Jun 19, 1978</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_34e70af161b6ac4c3527acc8a61ebd52" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_4be8314dc22b25f2049987f4bc7f62c5" parent="aspace_34e70af161b6ac4c3527acc8a61ebd52" type="cassette">36</container><container altrender="Card Box - 6.5 - long" id="aspace_6d22088c896c63d6d38cbeff9e35a5ad" label="access cd [31142062758829]" type="box">3</container><container id="aspace_0ab918d0c1b0e4d7381b9b66d26816f6" parent="aspace_6d22088c896c63d6d38cbeff9e35a5ad" type="cd">36</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Steve Nelson</unittitle><unitid>cuid148</unitid><unitdate>undated</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_5de22c0f55dd095a7ba1fbe1ce998fb4" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_93d6b85d7a492cfff2744acdc50e5796" parent="aspace_5de22c0f55dd095a7ba1fbe1ce998fb4" type="cassette">37A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_67d8d5b5879c7d5db3fd503d614471bd" label="access cd [31142062758829]" type="box">3</container><container id="aspace_61a84dbf1dd90075b2d29693e25b3de5" parent="aspace_67d8d5b5879c7d5db3fd503d614471bd" type="cd">37A-B</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Morris Schappes</unittitle><unitid>cuid149</unitid><unitdate normal="1977/1977" type="inclusive">Dec 29, 1977</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_f019642e19ed4aa1adecccd44e090aff" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_ece019db3a55c9c43c1085383ed1dde9" parent="aspace_f019642e19ed4aa1adecccd44e090aff" type="cassette">38</container><container altrender="Card Box - 6.5 - long" id="aspace_19277791a379dd6b6c2d9a8c365c36c3" label="access cd [31142062758829]" type="box">3</container><container id="aspace_2b31b7854fb24386a662d33fff2fd38a" parent="aspace_19277791a379dd6b6c2d9a8c365c36c3" type="cd">38</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>George Watt</unittitle><unitid>cuid150</unitid><unitdate>undated</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_c540984988fb4581932e2b7037dcff74" label="master cassette [31142054612323]" type="box">5</container><container id="aspace_fa8ea0a2070d3bf40433b49f73888265" parent="aspace_c540984988fb4581932e2b7037dcff74" type="cassette">39A-C</container><container altrender="Card Box - 6.5 - long" id="aspace_a5332756b31714e19fd565dead388d44" label="access cd [31142062758829]" type="box">3</container><container id="aspace_ac363c1d3c45b75f1c566b136e8a2cf7" parent="aspace_a5332756b31714e19fd565dead388d44" type="cd">39A-C</container></did><scopecontent id="aspace_bea67668464ee93fff7311a312495817"><head>Scope and Contents</head><p>Cross-talk and some static electrical interference noise in original recording</p></scopecontent></c></c><c id="aspace_ref43" level="series"><did><unittitle>History of the Weathermen</unittitle></did><c id="aspace_ref45" level="file"><did><unittitle>Jeff Jones and Eleanor Stein Interview Transcript</unittitle><unitid>cuid33678</unitid><unitdate normal="1989/1989" type="inclusive">September 16, 1989</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_3e46b1e5f577f39c5172b9749b698fd1" label="transcript [31142062672145]" type="box">1</container></did></c></c><c id="aspace_ref53" level="series"><did><unittitle>Interview Transcripts</unittitle></did><c id="aspace_ref51" level="file"><did><unittitle>Interview Transcripts - Preservation Masters</unittitle><unitid>cuid33680</unitid><container altrender="Manuscript box - Letter - Half" id="aspace_77aaa5315230408e55486e1971261d1e" label="transcript [31142062672145]" type="box">1</container></did></c><c id="aspace_ref49" level="series"><did><unittitle>Interview Transcripts - User Copies</unittitle><unitid>cuid33679</unitid><unitdate>1977-1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_1c8800073ce1ee77567950af540c6115" label="Mixed Materials [31142062672152]" type="box">6</container></did><scopecontent id="aspace_53cc8ad44b2f8ce3824f482c15e1a447"><head>Scope and Content Note</head><p>Includes transcripts for some of the interviews conducted for "If I Had A Hammer," and one for (a never embarked-upon) project on the history of the Weathermen.</p></scopecontent></c></c></dsc>
-</archdesc>
+    </did>
+    <accessrestrict id="aspace_3ad26a42f02511a5a42afdaffb9ff6c4">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_bc65c8dbf403b6ead08252e01b319729">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Maurice Isserman and later found in repository, dates unknown. The accession numbers associated with this collection are 2000.023 and 2015.033.</p>
+    </acqinfo>
+    <prefercite id="aspace_4388b9bef790030affabc78d96d217f5">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Maurice Isserman Oral History Interviews; OH.036; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <scopecontent id="aspace_5e9e79654edd67f6b8ce30384dba2dbc">
+      <head>Scope and Contents</head>
+      <p>This group of interviews was donated to the Tamiment Library by historian Maurice Isserman following the publication of "If I Had a Hammer. .   .The Death of the Old Left and the Birth of the New Left" (Basic Books, Inc.: New York, 1987).  Isserman conducted the interviews between 1983 and 1986.  Some time between 2002 and 2012, he also donated a transcript for an interview he conducted with Jeff Jones and Eleanor Stein for a separate project he intended to pursue--a the history of the Weathermen--but never followed up on.  SCOPE AND CONTENT NOTE: Isserman sought the roots of 1960s radicalism in the American Communist Party, the various groups led by Max Shachtman, the journal Dissent, and the Committee for Non-Violent Action.  He conducted interviews with intellectuals and political partisans active in the 1950s and the 1960s, among them, Stanley Aronowitz, David Dellinger, Ralph DiGia, Hal Draper, Harry and Vera Fleischman, Manny Geltman, Todd Gitlin, Abraham (Al) Glotzer, Gordon Haskell, Richard Healy, Michael Walzer, Irving Howe, Julius and Phyllis Jacobson, David McReynolds, Debbie Meier, Juanita and Wally Nelson, Ronald Radosh, and Andre Schiffrin.   Index available in repository.  Contact tamiment.wagner@nyu.edu for information.</p>
+    </scopecontent>
+    <phystech id="aspace_d376f1ecc377c3e5d832c3e76bddf6e1">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Access to audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <userestrict id="aspace_5dc6ab1a9ad2a0f71bcb31470da2f4e1">
+      <head>Conditions Governing Use</head>
+      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Repository is not authorized to grant permission to publish or reproduce materials from this collection.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">New Left -- United States.</subject>
+      <subject source="lcsh">Communism -- United States -- History -- 20th century.</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref48" level="series">
+        <did>
+          <unittitle>If I Had a Hammer</unittitle>
+        </did>
+        <c id="aspace_ref2" level="file">
+          <did>
+            <unittitle>Stanley Aronowitz</unittitle>
+            <unitid>cuid116</unitid>
+            <unitdate normal="1984/1984" type="inclusive">Jul 11, 1984</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_1438050335f4d0cb4988cc904d006ffd" label="master cassette [31142054612315]" type="box">4</container>
+            <container id="aspace_f8ca0c7c4440c5bdd18feb4138b88470" parent="aspace_1438050335f4d0cb4988cc904d006ffd" type="cassette">1</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_2d83733a9f1e57f31559e3bf06c1ed78" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_b4837de1c997ede8b00aaf894916585d" parent="aspace_2d83733a9f1e57f31559e3bf06c1ed78" type="cd">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref3" level="file">
+          <did>
+            <unittitle>Albert Bigelow</unittitle>
+            <unitid>cuid33675</unitid>
+            <unitdate normal="1984/1984" type="inclusive">Dec 15, 1984</unitdate>
+            <container altrender="Card Box - 6.5 - long" id="aspace_861f8fd6e828dd63f4727ed75cb68145" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_492ca8d329cb57d6a463bdb89ea10318" parent="aspace_861f8fd6e828dd63f4727ed75cb68145" type="cd">2A-B</container>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_0d07aed2802039e86fa5d8a2b1f1142d" label="master cassette [31142054612315]" type="box">4</container>
+            <container id="aspace_b6f3461f6dd0ced79f806a0919be2211" parent="aspace_0d07aed2802039e86fa5d8a2b1f1142d" type="cassette">2A-B</container>
+          </did>
+        </c>
+        <c id="aspace_ref4" level="file">
+          <did>
+            <unittitle>Lewis Coser</unittitle>
+            <unitid>cuid117</unitid>
+            <unitdate normal="1985/1985" type="inclusive">May 3, 1985</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_cdb3a58929f5d341189124e8252b78ee" label="master cassette [31142054612315]" type="box">4</container>
+            <container id="aspace_d66d2670fb5428435a34a7570752dc3d" parent="aspace_cdb3a58929f5d341189124e8252b78ee" type="cassette">3</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_2a0673cb5b9f3dd0c69ea34d4bff2151" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_810bab86511258d41296dcef701b3cc9" parent="aspace_2a0673cb5b9f3dd0c69ea34d4bff2151" type="cd">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>David Dellinger</unittitle>
+            <unitid>cuid118</unitid>
+            <unitdate normal="1985/1985" type="inclusive">Jan 24, 1985</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_5729d0a6d8d6bcfb7e5089c2248cce23" label="master cassette [31142054612315]" type="box">4</container>
+            <container id="aspace_255968d9a707e938ea9890977b68fd3f" parent="aspace_5729d0a6d8d6bcfb7e5089c2248cce23" type="cassette">4A-B</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_31164dc138f9cf7fd61c0e6f202184af" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_f099ccea77577b76a214aa1336a1ab4c" parent="aspace_31164dc138f9cf7fd61c0e6f202184af" type="cd">4A-B</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Betty Denitch</unittitle>
+            <unitid>cuid119</unitid>
+            <unitdate normal="1984/1984" type="inclusive">Aug 6, 1984</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_8a5cc58a4fd17f293381bd6e6a47dd2d" label="master cassette [31142054612315]" type="box">4</container>
+            <container id="aspace_a0d64aac3ef4aa0e449f451285a21b22" parent="aspace_8a5cc58a4fd17f293381bd6e6a47dd2d" type="cassette">5A-C</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_186e18010a6f0e96eb9d335d67649848" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_355e165d7be6d6459be816ed50eaa3d0" parent="aspace_186e18010a6f0e96eb9d335d67649848" type="cd">5A-C</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Bogdan Denitch</unittitle>
+            <unitid>cuid120</unitid>
+            <unitdate normal="1986/1986" type="inclusive">Dec 7, 1986</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_6151c868ff02fd48b9e02a2c3d1b0402" label="master cassette [31142054612315]" type="box">4</container>
+            <container id="aspace_3686f6cbf98ad38f67f27f175d9deeaf" parent="aspace_6151c868ff02fd48b9e02a2c3d1b0402" type="cassette">6</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_d620bceb0b75d61d8f0660ee711690b2" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_611397046e3a713d2d24a9c482b4873c" parent="aspace_d620bceb0b75d61d8f0660ee711690b2" type="cd">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Ralph DiGia</unittitle>
+            <unitid>cuid121</unitid>
+            <unitdate normal="1986/1986" type="inclusive">Dec 7, 1986</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_b25f3e3af224a14b64341483eebd1523" label="master cassette [31142054612315]" type="box">4</container>
+            <container id="aspace_1ca2f94f90d7ceb0496452f7a4486755" parent="aspace_b25f3e3af224a14b64341483eebd1523" type="cassette">7A-B</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_499bceb72d81a34bf1ada9565dba3d20" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_6a79f5f3bfc5abdb1d9889280c6c0d85" parent="aspace_499bceb72d81a34bf1ada9565dba3d20" type="cd">7A-B</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Hal Draper</unittitle>
+            <unitid>cuid33676</unitid>
+            <unitdate normal="1983/1983" type="inclusive">Dec 29, 1983</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_bc011b1e49deea993f239ff345702d6c" label="master cassette [31142054612315]" type="box">4</container>
+            <container id="aspace_9764927f4569e7555d20a6a2c29dd392" parent="aspace_bc011b1e49deea993f239ff345702d6c" type="cassette">8A-B</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_c8344ff34978a8c97f65a968b65ba103" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_a78d4af7fd3669db92df31b674d0c65d" parent="aspace_c8344ff34978a8c97f65a968b65ba103" type="cd">1-3</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Barbara Eastman</unittitle>
+            <unitid>cuid122</unitid>
+            <unitdate>Apr 21</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_e2352e3da3473a98f74349bb7efa84fa" label="master cassette [31142054612315]" type="box">4</container>
+            <container id="aspace_935701ee0a1baf176562792fca17736e" parent="aspace_e2352e3da3473a98f74349bb7efa84fa" type="cassette">9</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_29339804c8ca39e9ce6fabd905a5f7e5" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_59d1992e851061f6f6067e99b55fb17c" parent="aspace_29339804c8ca39e9ce6fabd905a5f7e5" type="cd">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Harry and Vera Fleischman</unittitle>
+            <unitid>cuid123</unitid>
+            <unitdate>undated</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_78ba5d214d4412be0f66163eb006a016" label="master cassette [31142054612315]" type="box">4</container>
+            <container id="aspace_dc7c4411530c84f55c75338482b10bcc" parent="aspace_78ba5d214d4412be0f66163eb006a016" type="cassette">10</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_b39529ca5fad84d4a350695c8a556da2" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_493738f6be4f2b8616758206dd8b04ef" parent="aspace_b39529ca5fad84d4a350695c8a556da2" type="cd">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Manny Geltman</unittitle>
+            <unitid>cuid124</unitid>
+            <unitdate normal="1985/1985" type="inclusive">Mar 19, 1985</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_5710c358e01d52168c6f6e7864f21ab9" label="master cassette [31142054612315]" type="box">4</container>
+            <container id="aspace_9bb40847ca2523c3f398cd8d61e8c321" parent="aspace_5710c358e01d52168c6f6e7864f21ab9" type="cassette">11A-B</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_238cb82f90f340adf785ef0509a43191" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_9fe8c08efec4d4d836db15a310a938ff" parent="aspace_238cb82f90f340adf785ef0509a43191" type="cd">11A-B</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Todd Gitlin</unittitle>
+            <unitid>cuid125</unitid>
+            <unitdate normal="1984/1984" type="inclusive">Dec 29, 1984</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_0655055ced681c7a2c0622b8d964adbd" label="master cassette [31142054612315]" type="box">4</container>
+            <container id="aspace_17f9fd82f86fa80dd4df921675e64b5a" parent="aspace_0655055ced681c7a2c0622b8d964adbd" type="cassette">12A-B</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_b5e85016b3ed6f7f7f238a4552b21482" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_b02ab0194bcb1bad93f5c145ea3c079b" parent="aspace_b5e85016b3ed6f7f7f238a4552b21482" type="cd">12A-B</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Al Glotzer</unittitle>
+            <unitid>cuid126</unitid>
+            <unitdate normal="1984/1984" type="inclusive">Oct 4, 1984</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_e5bf4cb0b3255ecba261b206d699f447" label="master cassette [31142054612315]" type="box">4</container>
+            <container id="aspace_5c77c8a234f63df0f21d6a10b001dea2" parent="aspace_e5bf4cb0b3255ecba261b206d699f447" type="cassette">13A-B</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_6219a679ffe3df234cd15f024b23674c" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_f529bbb98b7a7db9c4ad824ea474f534" parent="aspace_6219a679ffe3df234cd15f024b23674c" type="cd">13A-B</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Gordon Haskell</unittitle>
+            <unitid>cuid127</unitid>
+            <unitdate normal="1983/1983" type="inclusive">Jul 15, 1983</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_10a35df9374cf9b5b5548c527d0e1ac5" label="master cassette [31142054612315]" type="box">4</container>
+            <container id="aspace_b78f91e405c0d4b4a6619891fb6b4d92" parent="aspace_10a35df9374cf9b5b5548c527d0e1ac5" type="cassette">14A-B</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_b41fde257322713934f92e5b41113496" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_f9c4fe490b34d148d51f91f51c1f7e0a" parent="aspace_b41fde257322713934f92e5b41113496" type="cd">14A-B</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Richard Healy</unittitle>
+            <unitid>cuid128</unitid>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_e607cec538b7adc90dcff373b8dd8568" label="master cassette [31142054612315]" type="box">4</container>
+            <container id="aspace_9d0858aca5a5d47e6cba1bb1efc42e5c" parent="aspace_e607cec538b7adc90dcff373b8dd8568" type="cassette">15A-C</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_cdb107dbc8a961d73ee7e050bf23b3d3" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_0e11d0f6525c3774cbe6e4c1b2f94e32" parent="aspace_cdb107dbc8a961d73ee7e050bf23b3d3" type="cd">15A-C</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Michael Walzer</unittitle>
+            <unitid>cuid129</unitid>
+            <unitdate normal="1986/1986" type="inclusive">Mar 20, 1986</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_872de921ea72c1887866c1281615fc97" label="master cassette [31142054612315]" type="box">4</container>
+            <container id="aspace_418d33ccd368a98e64605d0b32bbd655" parent="aspace_872de921ea72c1887866c1281615fc97" type="cassette">16A-B</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_00a5e29ae5affdb477a1135ab137506f" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_4c13b7434d462e34ff376fe050628301" parent="aspace_00a5e29ae5affdb477a1135ab137506f" type="cd">16A-B</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Irving Howe</unittitle>
+            <unitid>cuid130</unitid>
+            <unitdate normal="1982/1982">Jan 24, 1982</unitdate>
+            <unitdate normal="1982/1982">Oct 21, 1982</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_72e50f993cdf03dd0de95881214fe2ed" label="master cassette [31142054612315]" type="box">4</container>
+            <container id="aspace_826eb711007bf8cbef574dcfec89031e" parent="aspace_72e50f993cdf03dd0de95881214fe2ed" type="cassette">17A-D</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_8ef2800571b038ad0bf1432f4367de54" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_2bed3e6e84af73206d44192340e06d80" parent="aspace_8ef2800571b038ad0bf1432f4367de54" type="cd">17A-D</container>
+          </did>
+          <scopecontent id="aspace_0c9293943808eb58a083effe149c89e6">
+            <head>Scope and Contents</head>
+            <p>On side 2 of the January 24, 1982 Irving Howe interview (CD 17B, "Side 2"), the interview ends at the 2 1/2 minute mark.  There is a previous political interview with an unidentified source that may be of interest.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Julius and Phyllis Jacobson</unittitle>
+            <unitid>cuid131</unitid>
+            <unitdate normal="1984/1984" type="inclusive">Apr 21, 1984</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_71fe07734ef9da60e12ed93b4c8aead7" label="master cassette [31142054612315]" type="box">4</container>
+            <container id="aspace_06c0ea18fc289ea1d4b2d0209390fd31" parent="aspace_71fe07734ef9da60e12ed93b4c8aead7" type="cassette">18</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_15b64292e2b4febf385f1b7831ca5275" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_e803df7c4c67ba1c905d300e70840afe" parent="aspace_15b64292e2b4febf385f1b7831ca5275" type="cd">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Arthur Lipow</unittitle>
+            <unitid>cuid132</unitid>
+            <unitdate normal="1984/1984" type="inclusive">Sep 11, 1984</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_3eb1debf5753e1f511570d8736b5445e" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_8d05267fd74d1b7ec1e8d90dd1ca509f" parent="aspace_3eb1debf5753e1f511570d8736b5445e" type="cassette">19A-B</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_cb5e653c05e53d8377f8af6f20885278" label="access cd [31142062734812]" type="box">2</container>
+            <container id="aspace_e67e3ce3c77cebf58a8452498a0e1fb6" parent="aspace_cb5e653c05e53d8377f8af6f20885278" type="cd">19A-B</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>David McReynolds</unittitle>
+            <unitid>cuid133</unitid>
+            <unitdate normal="1984/1984" type="inclusive">Jul 9, 1984</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_efcd2dccb9f4f86324363da22de4e180" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_0d7c0eb837ea7fa70d8ad13bc8f3538d" parent="aspace_efcd2dccb9f4f86324363da22de4e180" type="cassette">20A-B</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_04aa3f91a90abc3320576271eb94b63a" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_f082371f0912d4c2fef79b6504b6d838" parent="aspace_04aa3f91a90abc3320576271eb94b63a" type="cd">20A-B</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Steve Max</unittitle>
+            <unitid>cuid134</unitid>
+            <unitdate normal="1986/1986" type="inclusive">May 14, 1986</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_c967358065f5c760468898524fd8bc66" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_733c1ae9856c4a5d09321ef54efafdf7" parent="aspace_c967358065f5c760468898524fd8bc66" type="cassette">22A-B</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_0c2f311a7173d45da3db86064f99af1c" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_5765f56b8ee24f6c692213293816c24e" parent="aspace_0c2f311a7173d45da3db86064f99af1c" type="cd">22A-B</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Debbie Meier</unittitle>
+            <unitid>cuid135</unitid>
+            <unitdate normal="1986/1986" type="inclusive">Apr 19, 1986</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_09307e3758510d93d2da114cee0f4c15" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_012ccd8e5a12bde45ad5c4ec1be83e76" parent="aspace_09307e3758510d93d2da114cee0f4c15" type="cassette">23</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_a48f37aa1ffd8840bd16a859eb0b3282" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_cde68fb4df7e4759fee432cc2c9ef913" parent="aspace_a48f37aa1ffd8840bd16a859eb0b3282" type="cd">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Juanita and Wally Nelson</unittitle>
+            <unitid>cuid136</unitid>
+            <unitdate normal="1985/1985" type="inclusive">Jul 10, 1985</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_457985a24ce691bb68cd6a09ac112620" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_229a734058c3252663b5540ba4b8ebb3" parent="aspace_457985a24ce691bb68cd6a09ac112620" type="cassette">24</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_baf3eacea2c2ea6c06d2709f297c7bd3" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_e6a66a19b6d6956791aec3b2ed54ff9f" parent="aspace_baf3eacea2c2ea6c06d2709f297c7bd3" type="cd">24A-B</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Joni Rabinowitz</unittitle>
+            <unitid>cuid137</unitid>
+            <unitdate normal="1983/1983" type="inclusive">Jul 15, 1983</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_bd358d36f713d12af57cb6b3f50acdc7" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_9928bcd46505ab889a0c0f49ad171878" parent="aspace_bd358d36f713d12af57cb6b3f50acdc7" type="cassette">25</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_19aaf2ab1c58547717f74d5008878b78" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_9f8a4d0b162b99a8c3cfc382f24bf997" parent="aspace_19aaf2ab1c58547717f74d5008878b78" type="cd">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Ronald Radosh</unittitle>
+            <unitid>cuid138</unitid>
+            <unitdate normal="1984/1984" type="inclusive">Jul 10, 1984</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_ccf740557798d7b02369c07e93b89697" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_95ebc2af2c58ec8e15567746701ea6a1" parent="aspace_ccf740557798d7b02369c07e93b89697" type="cassette">26</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_6767b19bcac130448c4cd662cb02c3e0" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_0a9b54b44bfbe0feafa3e791546ce8df" parent="aspace_6767b19bcac130448c4cd662cb02c3e0" type="cd">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Bernard Rosenberg</unittitle>
+            <unitid>cuid139</unitid>
+            <unitdate normal="1983/1983" type="inclusive">Oct 16, 1983</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_cd5602cfb8aedf715f6a4f51278d91dd" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_e05baccd5848bbd9aeaefebe3f92b10d" parent="aspace_cd5602cfb8aedf715f6a4f51278d91dd" type="cassette">27A-B</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_415f447daca41de63378888435235eca" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_992ff20ecf8dcf40def39a82554c11f3" parent="aspace_415f447daca41de63378888435235eca" type="cd">27A-B</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Andre Schiffrin</unittitle>
+            <unitid>cuid140</unitid>
+            <unitdate normal="1983/1983" type="inclusive">Jun 19, 1983</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_3f2b778fe21fcc5cc27018e484be5c0d" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_5c866946a872d6b647058e16c8d76442" parent="aspace_3f2b778fe21fcc5cc27018e484be5c0d" type="cassette">28</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_5c2204469feeed1f8b67494c2089f938" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_516305bb6b942cd8f87bb53d92de8e56" parent="aspace_5c2204469feeed1f8b67494c2089f938" type="cd">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Mike Thelwel</unittitle>
+            <unitid>cuid141</unitid>
+            <unitdate normal="1986/1986" type="inclusive">Jul 10, 1986</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_d949bb2d4151b8c2f6b09fb200858f7e" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_4cb58e2c81b19ba70cf2abcbbffd2558" parent="aspace_d949bb2d4151b8c2f6b09fb200858f7e" type="cassette">29</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_1fd208e3622451612356a9bb30093554" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_8c4f8304f8e7a352b3834fc4f106d8af" parent="aspace_1fd208e3622451612356a9bb30093554" type="cd">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Freijof Thygessen</unittitle>
+            <unitid>cuid142</unitid>
+            <unitdate normal="1984/1984" type="inclusive">Dec 8, 1984</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_612d622fe5b007e58259827efe7e8034" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_d474d87ed7f499a20405779f5475bf9e" parent="aspace_612d622fe5b007e58259827efe7e8034" type="cassette">30</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_c54be3d1701a25eec4accb4fb05dad9a" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_d0a66781e5b2920e4fdb755bb0793970" parent="aspace_c54be3d1701a25eec4accb4fb05dad9a" type="cd">30</container>
+          </did>
+          <scopecontent id="aspace_73b9aae07ac0cd8a7ea3c80a1a42b07f">
+            <head>Scope and Contents</head>
+            <p>Recording was made in a public setting and includes background noise that sometimes makes the conversation difficult to hear.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Dorothy Tristman and Larry Wittner</unittitle>
+            <unitid>cuid143</unitid>
+            <unitdate normal="1984/1984" type="inclusive">Jul 4, 1984</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_63f057b323b04c6c692f1098c1caec90" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_af02e4f9fb991821efd66fd4ba28847b" parent="aspace_63f057b323b04c6c692f1098c1caec90" type="cassette">31A-B</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_9131412a338d93c383303381ad64aaf0" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_eedb062a165443ad894185338ee8c429" parent="aspace_9131412a338d93c383303381ad64aaf0" type="cd">31A-B</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Peggy Dennis</unittitle>
+            <unitid>cuid144</unitid>
+            <unitdate>undated</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_7e3e041fa8e2a882c0217f4325f5038c" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_630c282d03315aa30357f2bd28dacd0d" parent="aspace_7e3e041fa8e2a882c0217f4325f5038c" type="cassette">32</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_e0ca54bf82f71d9cf633e022d489a2d1" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_94fb090934eb297a0f1fccdf151f49a1" parent="aspace_e0ca54bf82f71d9cf633e022d489a2d1" type="cd">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Ben Dvosin</unittitle>
+            <unitid>cuid145</unitid>
+            <unitdate>undated</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_bc9ecdc3ebd751a0e069d8521d634b80" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_5d32e34a6182ec8c6d5c9f6a81fcea9e" parent="aspace_bc9ecdc3ebd751a0e069d8521d634b80" type="cassette">33A-C</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_3ffdabf071021045d6290fc89a30dc20" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_3798e9ddda0b4f930ef1b5206725d437" parent="aspace_3ffdabf071021045d6290fc89a30dc20" type="cd">33A-C</container>
+          </did>
+          <scopecontent id="aspace_e25b286c81449a5656610ac03cdd9fa7">
+            <head>Scope and Contents</head>
+            <p>All recordings had a slight static electrical interference noise.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Max Gordon</unittitle>
+            <unitid>cuid146</unitid>
+            <unitdate normal="1977/1977" type="inclusive">Feb 15, 1977</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_35eab9721e4feaa217c84df63f745883" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_9efb80c43035a46ca0ecc2655c9cd7d3" parent="aspace_35eab9721e4feaa217c84df63f745883" type="cassette">34</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_2b00eb5755585ace4e29fcbb0c446c75" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_3b1a175065054d231836b5f1130c84c8" parent="aspace_2b00eb5755585ace4e29fcbb0c446c75" type="cd">34</container>
+          </did>
+          <scopecontent id="aspace_832a02586d0107561e0fbe4d9d5ae67c">
+            <head>Scope and Contents</head>
+            <p>Static electrical interference noise present in original recording</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Gil Green</unittitle>
+            <unitid>cuid33677</unitid>
+            <unitdate normal="1977/1977" type="inclusive">Dec 31, 1977</unitdate>
+            <container altrender="Card Box - 6.5 - long" id="aspace_d8ea25fd7619fcae509be5209a408587" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_47438bab9333318764eaea23504e29cf" parent="aspace_d8ea25fd7619fcae509be5209a408587" type="cd">Green 1-2</container>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_0a305c613667a94bfdd867f476e97828" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_1cf6938c7abc5a71f059136530efc109" parent="aspace_0a305c613667a94bfdd867f476e97828" type="cassette">35A-B</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Vincent Lossowski</unittitle>
+            <unitid>cuid147</unitid>
+            <unitdate normal="1978/1978" type="inclusive">Jun 19, 1978</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_34e70af161b6ac4c3527acc8a61ebd52" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_4be8314dc22b25f2049987f4bc7f62c5" parent="aspace_34e70af161b6ac4c3527acc8a61ebd52" type="cassette">36</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_6d22088c896c63d6d38cbeff9e35a5ad" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_0ab918d0c1b0e4d7381b9b66d26816f6" parent="aspace_6d22088c896c63d6d38cbeff9e35a5ad" type="cd">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Steve Nelson</unittitle>
+            <unitid>cuid148</unitid>
+            <unitdate>undated</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_5de22c0f55dd095a7ba1fbe1ce998fb4" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_93d6b85d7a492cfff2744acdc50e5796" parent="aspace_5de22c0f55dd095a7ba1fbe1ce998fb4" type="cassette">37A-B</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_67d8d5b5879c7d5db3fd503d614471bd" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_61a84dbf1dd90075b2d29693e25b3de5" parent="aspace_67d8d5b5879c7d5db3fd503d614471bd" type="cd">37A-B</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Morris Schappes</unittitle>
+            <unitid>cuid149</unitid>
+            <unitdate normal="1977/1977" type="inclusive">Dec 29, 1977</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_f019642e19ed4aa1adecccd44e090aff" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_ece019db3a55c9c43c1085383ed1dde9" parent="aspace_f019642e19ed4aa1adecccd44e090aff" type="cassette">38</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_19277791a379dd6b6c2d9a8c365c36c3" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_2b31b7854fb24386a662d33fff2fd38a" parent="aspace_19277791a379dd6b6c2d9a8c365c36c3" type="cd">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>George Watt</unittitle>
+            <unitid>cuid150</unitid>
+            <unitdate>undated</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_c540984988fb4581932e2b7037dcff74" label="master cassette [31142054612323]" type="box">5</container>
+            <container id="aspace_fa8ea0a2070d3bf40433b49f73888265" parent="aspace_c540984988fb4581932e2b7037dcff74" type="cassette">39A-C</container>
+            <container altrender="Card Box - 6.5 - long" id="aspace_a5332756b31714e19fd565dead388d44" label="access cd [31142062758829]" type="box">3</container>
+            <container id="aspace_ac363c1d3c45b75f1c566b136e8a2cf7" parent="aspace_a5332756b31714e19fd565dead388d44" type="cd">39A-C</container>
+          </did>
+          <scopecontent id="aspace_bea67668464ee93fff7311a312495817">
+            <head>Scope and Contents</head>
+            <p>Cross-talk and some static electrical interference noise in original recording</p>
+          </scopecontent>
+        </c>
+      </c>
+      <c id="aspace_ref43" level="series">
+        <did>
+          <unittitle>History of the Weathermen</unittitle>
+        </did>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Jeff Jones and Eleanor Stein Interview Transcript</unittitle>
+            <unitid>cuid33678</unitid>
+            <unitdate normal="1989/1989" type="inclusive">September 16, 1989</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_3e46b1e5f577f39c5172b9749b698fd1" label="transcript [31142062672145]" type="box">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref53" level="series">
+        <did>
+          <unittitle>Interview Transcripts</unittitle>
+        </did>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Interview Transcripts - Preservation Masters</unittitle>
+            <unitid>cuid33680</unitid>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_77aaa5315230408e55486e1971261d1e" label="transcript [31142062672145]" type="box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="series">
+          <did>
+            <unittitle>Interview Transcripts - User Copies</unittitle>
+            <unitid>cuid33679</unitid>
+            <unitdate>1977-1986</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1c8800073ce1ee77567950af540c6115" label="Mixed Materials [31142062672152]" type="box">6</container>
+          </did>
+          <scopecontent id="aspace_53cc8ad44b2f8ce3824f482c15e1a447">
+            <head>Scope and Content Note</head>
+            <p>Includes transcripts for some of the interviews conducted for "If I Had A Hammer," and one for (a never embarked-upon) project on the history of the Weathermen.</p>
+          </scopecontent>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,77 +1,851 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url=" http://dlib.nyu.edu/findingaids/html/tamwag/tam_785">tam_785</eadid><filedesc><titlestmt><titleproper>Guide to the Joanne Landy Papers  <num>TAM.785</num></titleproper><author>Shiva Addanki.</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>April 2019</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 16:06:45 -0500</date>.</creation><langusage>Finding aid written in English. </langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>January 21, 2020</date><item>Edited by Nicholas Caldwell to reflect arrangement and include file-level listing</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Joanne Landy Papers</unittitle>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url=" http://dlib.nyu.edu/findingaids/html/tamwag/tam_785">tam_785</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Joanne Landy Papers  <num>TAM.785</num></titleproper>
+        <author>Shiva Addanki.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>April 2019</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 16:06:45 -0500</date>.</creation>
+      <langusage>Finding aid written in English. </langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>January 21, 2020</date>
+        <item>Edited by Nicholas Caldwell to reflect arrangement and include file-level listing</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Joanne Landy Papers</unittitle>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Harrison, Tom</persname>
+      </origination>
+      <origination label="Creator">
+        <persname source="local">Landy, Joanne</persname>
+      </origination>
+      <unitid>TAM.785</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.48 Linear Feet</extent>
+        <extent altrender="carrier">in 5 manuscript boxes, 1 half manuscript box, and 1 oversize folder.</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">2.655 Gigabytes</extent>
+        <extent altrender="carrier">in 25 files.</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">11 audiocassettes</extent>
+        <extent altrender="carrier">9 compact cassettes and 2 micro cassettes. </extent>
+      </physdesc>
+      <unitdate normal="1967/2017" type="inclusive">1967-2017</unitdate>
+      <abstract id="aspace_3711ba9f861b78114e92ccf82d317999">This collection consists of correspondence, flyers, and administrative files related to socialist activist Joanne Landy's work as an editor for <emph render="italic">New Politics</emph> magazine and as an organizer for the Campaign for Peace and Democracy. The materials cover the editorial and administrative processes involved in publishing <emph render="italic">New Politics</emph> during the 1980s through the early 2000s and the social and intellectual context of the advocacy Landy organized with the Campaign for Peace and Democracy. The files are both paper and electronic, though the majority of the records are paper. The files on the Campaign for Peace and Democracy include audio and video recordings of talks by Landy pertaining to the organization's activism.</abstract>
+      <physloc id="aspace_fefcc5c6d895802c74fb39ff26c0e6d7">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_6c61ced72574f19daf77ee7207053086">Materials are written in English.</langmaterial>
+    </did>
+    <acqinfo id="aspace_ddc040568cb02c03c8988bc0f2cd61f3">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Tom Harrison in January 2019, the accession number associated with this donation is 2019.049.</p>
+    </acqinfo>
+    <arrangement id="aspace_2c06111e13c921440021384fa7418005">
+      <head>Arrangement</head>
+      <p>Collection was organized into two series. Series I: <emph render="italic">New Politics</emph> Correspondences and Administrative Records and Series II: Campaign for Peace and Democracy. Correspondence files in Series I were arranged in order by last name of correspondent.  Flyers, Clippings, and Ephemera files in Series II were kept in chronological order by year.</p>
+    </arrangement>
+    <bioghist id="aspace_f7b23bc316a05a7a4857ef8581f96307">
+      <head>Biographical Note</head>
+      <p>Joanne Landy (1941-2017) was a writer, editor, and activist associated with the "Third Camp" socialist movement, who critiqued authoritarianism in nations on both sides of the Cold War. A student activist in the 1960s, Landy went on to be a longstanding member of the editorial board for the socialist magazine <emph render="italic">New Politics</emph>. In 1982, she co-founded the Campaign for Peace and Democracy, an international leftist solidarity movement advocating for egalitarian democratic socialism.</p>
+    </bioghist>
+    <prefercite id="aspace_f649010a2c0ee6cfa2d11a5928eb1acb">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Joanne Landy Papers; TAM 785; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_521d7193a68ed74419bc85856c21cdc6">
+      <head>Processing Information</head>
+      <p>Materials were rehoused in acid-free boxes and oversize materials were rehoused in appropriately sized folders. Born-digital materials were identified, physically separated, and inventoried. In January 2020, born-digital materials were processed in Forensic Toolkit and materials were  rehoused in manuscript boxes and acid-free folders. New York University Libraries follows professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity of the content.</p>
+    </processinfo>
+    <scopecontent id="aspace_47da27f222432d0d04cd935a17943a73">
+      <head>Scope and Contents</head>
+      <p>This collection consists of activist and writer Joanne Landy's files on her editorial work at <emph render="italic">New Politics</emph> magazine and her activist work as co-director of the Campaign for Peace and Democracy. The files on <emph render="italic">New Politics</emph> reflect Landy's  work on the magazine's editorial board in the 1980s through the 2000s, including correspondence with subscribers, writers, and other members of the editorial board, alongside meeting minutes and other administrative records pertaining to the magazine. The files on the Campaign for Peace and Democracy include flyers for events and protests, clippings, correspondence, electronic records, audio recordings, and video recordings related to the organization's progressive anti-war international activism starting from the 1980s until Landy's death in 2017.</p>
+    </scopecontent>
+    <userestrict id="aspace_b393da1696299c755b11c1817540c4c0">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by Joanne Landy, the creator of this collection, were relinquished and transferred to the public domain in February 2019 by Tom Harrison. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/</p>
+    </userestrict>
+    <accessrestrict id="aspace_732b9166a8869787470cd7dd80e5fcba">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <appraisal id="aspace_6c2990a20fedd40c9cc499819bbd6e29">
+      <head>Appraisal</head>
+      <p>2 blank CD-Rs and 1 installation CD-R were discarded.</p>
+    </appraisal>
+    <phystech id="aspace_9a2cf3eb69a8bde1fa4813b396e007c4">
+      <head>Born-digital Access Policies and Procedures</head>
+      <p>Advance notice is required for the use of computer records. Original physical digital media is restricted. An access terminal for born-digital materials in the collection is available by appointment for reading room viewing and listening only. Researchers may view an item's original container and/or carrier, but the physical carriers themselves are not available for use because of preservation concerns.</p>
+    </phystech>
+    <phystech id="aspace_2e2df028c44a2ecb5e98f5392525909c">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact Tamiment Libraries/Robert F. Wagner Labor Archives with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <controlaccess>
+      <subject source="lcsh">Socialism -- New York (State).</subject>
+      <subject source="lcsh">Peace movements -- United States.</subject>
+      <subject source="lcsh">Social democracy</subject>
+      <subject source="lcsh">Journalism, Socialist -- United States</subject>
+      <subject source="lcsh">Solidarity</subject>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
       <persname role="dnr" rules="dacs" source="local">Harrison, Tom</persname>
-    </origination>
-    <origination label="Creator">
-      <persname source="local">Landy, Joanne</persname>
-    </origination>
-    <unitid>TAM.785</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">2.48 Linear Feet</extent>
-      <extent altrender="carrier">in 5 manuscript boxes, 1 half manuscript box, and 1 oversize folder.</extent>
-    </physdesc>
-    <physdesc altrender="part">
-      <extent altrender="materialtype spaceoccupied">2.655 Gigabytes</extent>
-      <extent altrender="carrier">in 25 files.</extent>
-    </physdesc>
-    <physdesc altrender="part">
-      <extent altrender="materialtype spaceoccupied">11 audiocassettes</extent>
-      <extent altrender="carrier">9 compact cassettes and 2 micro cassettes. </extent>
-    </physdesc>
-    <unitdate normal="1967/2017" type="inclusive">1967-2017</unitdate>
-    <abstract id="aspace_3711ba9f861b78114e92ccf82d317999">This collection consists of correspondence, flyers, and administrative files related to socialist activist Joanne Landy's work as an editor for <emph render="italic">New Politics</emph> magazine and as an organizer for the Campaign for Peace and Democracy. The materials cover the editorial and administrative processes involved in publishing <emph render="italic">New Politics</emph> during the 1980s through the early 2000s and the social and intellectual context of the advocacy Landy organized with the Campaign for Peace and Democracy. The files are both paper and electronic, though the majority of the records are paper. The files on the Campaign for Peace and Democracy include audio and video recordings of talks by Landy pertaining to the organization's activism.</abstract>
-    <physloc id="aspace_fefcc5c6d895802c74fb39ff26c0e6d7">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-    <langmaterial id="aspace_6c61ced72574f19daf77ee7207053086">Materials are written in English.</langmaterial>
-  </did>
-  <acqinfo id="aspace_ddc040568cb02c03c8988bc0f2cd61f3">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Tom Harrison in January 2019, the accession number associated with this donation is 2019.049.</p>  </acqinfo>
-  <arrangement id="aspace_2c06111e13c921440021384fa7418005">
-    <head>Arrangement</head>
-<p>Collection was organized into two series. Series I: <emph render="italic">New Politics</emph> Correspondences and Administrative Records and Series II: Campaign for Peace and Democracy. Correspondence files in Series I were arranged in order by last name of correspondent.  Flyers, Clippings, and Ephemera files in Series II were kept in chronological order by year.</p>  </arrangement>
-  <bioghist id="aspace_f7b23bc316a05a7a4857ef8581f96307">
-    <head>Biographical Note</head>
-<p>Joanne Landy (1941-2017) was a writer, editor, and activist associated with the "Third Camp" socialist movement, who critiqued authoritarianism in nations on both sides of the Cold War. A student activist in the 1960s, Landy went on to be a longstanding member of the editorial board for the socialist magazine <emph render="italic">New Politics</emph>. In 1982, she co-founded the Campaign for Peace and Democracy, an international leftist solidarity movement advocating for egalitarian democratic socialism.</p>  </bioghist>
-  <prefercite id="aspace_f649010a2c0ee6cfa2d11a5928eb1acb">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Joanne Landy Papers; TAM 785; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <processinfo id="aspace_521d7193a68ed74419bc85856c21cdc6">
-    <head>Processing Information</head>
-<p>Materials were rehoused in acid-free boxes and oversize materials were rehoused in appropriately sized folders. Born-digital materials were identified, physically separated, and inventoried. In January 2020, born-digital materials were processed in Forensic Toolkit and materials were  rehoused in manuscript boxes and acid-free folders. New York University Libraries follows professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity of the content.</p>  </processinfo>
-  <scopecontent id="aspace_47da27f222432d0d04cd935a17943a73">
-    <head>Scope and Contents</head>
-<p>This collection consists of activist and writer Joanne Landy's files on her editorial work at <emph render="italic">New Politics</emph> magazine and her activist work as co-director of the Campaign for Peace and Democracy. The files on <emph render="italic">New Politics</emph> reflect Landy's  work on the magazine's editorial board in the 1980s through the 2000s, including correspondence with subscribers, writers, and other members of the editorial board, alongside meeting minutes and other administrative records pertaining to the magazine. The files on the Campaign for Peace and Democracy include flyers for events and protests, clippings, correspondence, electronic records, audio recordings, and video recordings related to the organization's progressive anti-war international activism starting from the 1980s until Landy's death in 2017.</p>  </scopecontent>
-  <userestrict id="aspace_b393da1696299c755b11c1817540c4c0">
-    <head>Conditions Governing Use</head>
-<p>Any rights (including copyright and related rights to publicity and privacy) held by Joanne Landy, the creator of this collection, were relinquished and transferred to the public domain in February 2019 by Tom Harrison. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/</p>  </userestrict>
-  <accessrestrict id="aspace_732b9166a8869787470cd7dd80e5fcba">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <appraisal id="aspace_6c2990a20fedd40c9cc499819bbd6e29">
-    <head>Appraisal</head>
-<p>2 blank CD-Rs and 1 installation CD-R were discarded.</p>  </appraisal>
-  <phystech id="aspace_9a2cf3eb69a8bde1fa4813b396e007c4">
-    <head>Born-digital Access Policies and Procedures</head>
-<p>Advance notice is required for the use of computer records. Original physical digital media is restricted. An access terminal for born-digital materials in the collection is available by appointment for reading room viewing and listening only. Researchers may view an item's original container and/or carrier, but the physical carriers themselves are not available for use because of preservation concerns.</p>  </phystech>
-  <phystech id="aspace_2e2df028c44a2ecb5e98f5392525909c">
-    <head>Audiovisual Access Policies and Procedures</head>
-<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact Tamiment Libraries/Robert F. Wagner Labor Archives with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
-  <controlaccess>
-    <subject source="lcsh">Socialism -- New York (State).</subject>
-    <subject source="lcsh">Peace movements -- United States.</subject>
-    <subject source="lcsh">Social democracy</subject>
-    <subject source="lcsh">Journalism, Socialist -- United States</subject>
-    <subject source="lcsh">Solidarity</subject>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <persname role="dnr" rules="dacs" source="local">Harrison, Tom</persname>
-    <corpname rules="dacs" source="naf">Campaign for Peace and Democracy</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_53657e49929fcbe1a36ac32c17d3fcc3" level="series"><did><unittitle>Series I: <emph render="italic">New Politics</emph> Correspondences and Administrative Records</unittitle><unitdate normal="1967/2000" type="bulk">1967-2000</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial></did><scopecontent id="aspace_5cb5dbb0db679541bf5f4adbe046d8f8"><head>Scope and Contents</head><p>Series I contains correspondences and various administrative records of the <emph render="italic">New Politics</emph> publication, including editorial board minutes and copyright certificates.</p></scopecontent><c id="aspace_39c1ae963ae484dd6575af6024d04d78" level="file"><did><unittitle>Correspondence: Stanley Aronwitz</unittitle><unitdate normal="1988/1988">1988</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_6e7908f73cc83060549601c3ee64c7bb" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_7e2013382b3c052ea3e57847eaa8be59" parent="aspace_6e7908f73cc83060549601c3ee64c7bb" type="folder">1</container></did></c><c id="aspace_ac16f12a416499326edcc4422663826c" level="file"><did><unittitle>Correspondence: John Bloom</unittitle><unitdate normal="1984/1984">1984</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_33a3a64b80ed4d4fff23fdc8572aab17" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_cdc330ae0c00386f24a4c17adc6baaa1" parent="aspace_33a3a64b80ed4d4fff23fdc8572aab17" type="folder">2</container></did></c><c id="aspace_bc5f0b4c355479d1808b8292291b057e" level="file"><did><unittitle>Correspondence: Sam Bottome</unittitle><unitdate normal="1987/1998" type="inclusive">1987-1998</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_5457554364cf505863bb8472cbed2e75" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_0ca2a5246d3072a66d5bedc5a596ed94" parent="aspace_5457554364cf505863bb8472cbed2e75" type="folder">3</container></did></c><c id="aspace_117b801378807bccb2ab06da26db89a1" level="file"><did><unittitle>Correspondence: Paul Buhle</unittitle><unitdate normal="1994/1998" type="inclusive">1994-1998</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_37ebf35077732a5bbb1f5e151317862e" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_34a513f9e1e74fb1b1380aa95f14b9bc" parent="aspace_37ebf35077732a5bbb1f5e151317862e" type="folder">4</container></did></c><c id="aspace_d5aa762a010453c781c1826169604ae9" level="file"><did><unittitle>Correspondence: Raymond Challinor</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_5bbac39515c3b8a0d8e1487692043e53" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_148f05785cf81645573517bf0d9a9ae5" parent="aspace_5bbac39515c3b8a0d8e1487692043e53" type="folder">5</container></did></c><c id="aspace_c4344d84be01d87ef1147c6bb4a6cce5" level="file"><did><unittitle>Correspondence: Robert Cummings</unittitle><unitdate normal="1986/1994" type="inclusive">1986-1994</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_f82f90edc89c7e4fe2723e8288d91154" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_b7999331bc503efdccd124a052146786" parent="aspace_f82f90edc89c7e4fe2723e8288d91154" type="folder">6</container></did></c><c id="aspace_bf1a4ddf5764fae99889852ad5d5d839" level="file"><did><unittitle>Correspondence: Ernest Erber </unittitle><unitdate normal="1984/1997" type="inclusive">1984-1997</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_e429a2e939e0da240c18893eda98051f" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_9e3e0bdae68c58cc3c71de2fd05891c9" parent="aspace_e429a2e939e0da240c18893eda98051f" type="folder">7</container></did></c><c id="aspace_19849fcf25c418f537ee66d4dde0b1d2" level="file"><did><unittitle>Correspondence: Gertrude Ezorsky </unittitle><unitdate normal="1988/1993" type="inclusive">1988-1993</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_c4f0912a1eaaa6fb1d644170e7282537" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_7be9d36e3556a6c273a2b18d4bf753ec" parent="aspace_c4f0912a1eaaa6fb1d644170e7282537" type="folder">8</container></did></c><c id="aspace_32d2371aaf57a5e25f0f199d050269bb" level="file"><did><unittitle>Correspondence: Ernie Haberkern</unittitle><unitdate normal="1995/1995">1995</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_74507e24b12dd123f07bf428970e3ed7" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_fa3f2aaa0ce46babba065856f160a427" parent="aspace_74507e24b12dd123f07bf428970e3ed7" type="folder">9</container></did></c><c id="aspace_62dfb0c11fb85777517cec8f68937d62" level="file"><did><unittitle>Correspondence: Herbert Hill</unittitle><unitdate normal="1998/1999" type="inclusive">1998-1999</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_cdfd80791c40d8bb0ebaf472b81082ee" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_190285d106b9376a35aace35a7ddd628" parent="aspace_cdfd80791c40d8bb0ebaf472b81082ee" type="folder">10</container></did></c><c id="aspace_dcc624b8444c5b37778feea82a5e7190" level="file"><did><unittitle>Correspondence: Alan Johnson</unittitle><unitdate normal="2000/2000">2000</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_eb75ae3082e2ad22cb18740d75d31344" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_52821d0f62f064083ab1f29e0d28934d" parent="aspace_eb75ae3082e2ad22cb18740d75d31344" type="folder">11</container></did></c><c id="aspace_69046571ee45236029724cf822200cf8" level="file"><did><unittitle>Correspondence: Arthur Lipon</unittitle><unitdate normal="1988/1991" type="inclusive">1988-1991</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_f840beab9711101e6e656299b86d6312" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_865695870793ac0ce7325da4df050a4c" parent="aspace_f840beab9711101e6e656299b86d6312" type="folder">12</container></did></c><c id="aspace_a3d3cae46572295047a91ad368f22275" level="file"><did><unittitle>Correspondence: Stanford Lyman</unittitle><unitdate normal="1999/1999">1999</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_319b8558de3334d8b8d3c772ce13248c" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_5d7bd57d4040ffbc9c4daba20cc78f5a" parent="aspace_319b8558de3334d8b8d3c772ce13248c" type="folder">13</container></did></c><c id="aspace_d5ed8b3ad5c15f5144a0615d4a960c81" level="file"><did><unittitle>Correspondence: Marvin Mandell</unittitle><unitdate normal="1988/1999" type="inclusive">1988-1999</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_098ea12325155a610ac433bd0c9f9345" label="mixed materials [31142063352481]" type="box">1</container><container id="aspace_d02e18b48e7b8c85706344238c46ee43" parent="aspace_098ea12325155a610ac433bd0c9f9345" type="folder">14</container></did></c><c id="aspace_faf299923d71b072efab2b6b59e1dac4" level="file"><did><unittitle>Correspondence: Scott McLemee</unittitle><unitdate normal="1994/1994">1994</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_ed107a9a1e84ba52ecbf4268d4d9a963" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_543e94d81d648b58be7a9e1fc83ce15d" parent="aspace_ed107a9a1e84ba52ecbf4268d4d9a963" type="folder">15</container></did></c><c id="aspace_207f1cb33b7a7c3b24806044bdb7b9cc" level="file"><did><unittitle>Correspondence: George Meany</unittitle><unitdate normal="1982/1985" type="inclusive">1982-1985</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_844c9c34fceed0ef71343791e7c8eb54" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_291fdd80dce7a3222d2917393a4ddc5a" parent="aspace_844c9c34fceed0ef71343791e7c8eb54" type="folder">16</container></did></c><c id="aspace_fb99a20a0ec4f667516a7ea79dff5ed0" level="file"><did><unittitle>Correspondence: Christopher Phelps</unittitle><unitdate normal="1999/1999">1999</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_12ba2995dcac9e13a7b8801c67b94871" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_27d1cae971f12d751cd67efbec855398" parent="aspace_12ba2995dcac9e13a7b8801c67b94871" type="folder">17</container></did></c><c id="aspace_9aa5773878e28954750467d9f04184aa" level="file"><did><unittitle>Correspondence: Alan Wald</unittitle><unitdate normal="1983/1985" type="inclusive">1983-1985</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_92e168e2b6b141019984d7d0e925be8f" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_88066261bf9416884e40cbe9461236de" parent="aspace_92e168e2b6b141019984d7d0e925be8f" type="folder">18</container></did></c><c id="aspace_fc359428c44258657bf06804f90e5432" level="file"><did><unittitle>Correspondence: Michael Wreszin</unittitle><unitdate normal="1998/1999" type="inclusive">1998-1999</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_5cd7cea16b1d08b2b5c7f4de8493ab14" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_30852c994c5f66ad3a3044a790f71cfb" parent="aspace_5cd7cea16b1d08b2b5c7f4de8493ab14" type="folder">19</container></did></c><c id="aspace_bbd4e94c4141431bad53ee209ca6da50" level="file"><did><unittitle>Correspondence: Jim Young</unittitle><unitdate normal="1988/1996" type="inclusive">1988-1996</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_2b997dbb831b16d66cdf0e6a72fef6c1" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_5719ac1ade495de79487720d0236ca90" parent="aspace_2b997dbb831b16d66cdf0e6a72fef6c1" type="folder">20</container></did></c><c id="aspace_b710c440bc4bd988af0d50bb619012dc" level="file"><did><unittitle>Correspondence: "Cuckoo" Letters</unittitle><unitdate normal="1975/1986" type="inclusive">1975-1986</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_9c6818b405f515fa7a9d959561b92b1f" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_5d27e6f40b6c5fcd5c67b7d6b33c4261" parent="aspace_9c6818b405f515fa7a9d959561b92b1f" type="folder">21</container></did></c><c id="aspace_a77adc284704e4d2f4544d4b9aeb63c2" level="file"><did><unittitle>Correspondence: General</unittitle><unitdate normal="1986/2000" type="inclusive">1986-2000</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_e66ef86259ce7e1c99a6f57a29c16372" label="Mixed Materials [31142063352481]" type="box">1</container><container id="aspace_6410b3ca017ab8148052622d16b2429e" parent="aspace_e66ef86259ce7e1c99a6f57a29c16372" type="folder">22</container></did></c><c id="aspace_fa8a1aefc41f7fe15b07edf76d29eaeb" level="file"><did><unittitle>Interviews with Phillis Jacobson and Julius Jacobson</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_3bf32fd0dc8808bdf634c9d1709adfb4" label="Mixed Materials [31142063352499]" type="box">2</container><container id="aspace_06cbf84048a031f35ad52978c6ed2a00" parent="aspace_3bf32fd0dc8808bdf634c9d1709adfb4" type="folder">1</container></did></c><c id="aspace_aaeb9bea25ef9ecf695090d1099f1204" level="file"><did><unittitle>Advertising</unittitle><unitdate normal="1986/1996" type="inclusive">1986-1996</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_7945b86f5603b0c495ac99a88c87c8b3" label="Mixed Materials [31142063352499]" type="box">2</container><container id="aspace_0ee7758894467745a6e23292d3d2067c" parent="aspace_7945b86f5603b0c495ac99a88c87c8b3" type="folder">2</container></did></c><c id="aspace_2cce68c2e916806367b5b103811bd93a" level="file"><did><unittitle>Historic Documents</unittitle><unitdate normal="1967/1984" type="inclusive">1967-1984</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_fd630a471889f74cbd73db9936ed4fd0" label="Mixed Materials [31142063352499]" type="box">2</container><container id="aspace_a0fb0d872e974310b0b13bac6ef63ea1" parent="aspace_fd630a471889f74cbd73db9936ed4fd0" type="folder">3</container></did></c><c id="aspace_9bfc3259b2474458ee5e81c2b8b4e545" level="file"><did><unittitle>Reprint Requests</unittitle><unitdate normal="1987/1999" type="inclusive">1987-1999</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_423e1f7117b1ec100a5391e33180012a" label="Mixed Materials [31142063352499]" type="box">2</container><container id="aspace_d1a38e7183ac686c99a30705e82b1671" parent="aspace_423e1f7117b1ec100a5391e33180012a" type="folder">4</container></did></c><c id="aspace_40edd31926fe773f2b0159c79d891d5a" level="file"><did><unittitle>Editorial Board Minutes</unittitle><unitdate normal="1984/2000" type="inclusive">1984-2000</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_cdca8ccffd704e31b0e1fb9619f436cb" label="Mixed Materials [31142063352499]" type="box">2</container><container id="aspace_393e213515e6c270aa6e2233521d4cb9" parent="aspace_cdca8ccffd704e31b0e1fb9619f436cb" type="folder">5</container></did></c><c id="aspace_4d6146264cbf9723108593dadf50813e" level="file"><did><unittitle>Fund Appeals</unittitle><unitdate normal="1993/1998" type="inclusive">1993-1998</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_be85e41f8b265617dd1540f409746d05" label="Mixed Materials [31142063352499]" type="box">2</container><container id="aspace_fb9df940b3b60a37fdfea0772715b3be" parent="aspace_be85e41f8b265617dd1540f409746d05" type="folder">6</container></did></c><c id="aspace_03ebbb5cd57295492445377eb749ff2e" level="file"><did><unittitle>Copyright Certificates</unittitle><unitdate normal="1988/2000" type="inclusive">1988-2000</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_369d097e19bc50d79e26e59f188e4359" label="Mixed Materials [31142063352499]" type="box">2</container><container id="aspace_da8124f211e81a966327e7333f25d794" parent="aspace_369d097e19bc50d79e26e59f188e4359" type="folder">7</container></did></c><c id="aspace_b28ee892ef51bf13d7c2cfa4616de651" level="file"><did><unittitle>Intellectual Notes</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_7e3fd5c63dee03e4b858bb2feb8094fa" label="Mixed Materials [31142063352499]" type="box">2</container><container id="aspace_37271ec36ce0ef1d1126627d7f70c380" parent="aspace_7e3fd5c63dee03e4b858bb2feb8094fa" type="folder">8</container></did></c></c><c id="aspace_3f3b87f9a87b34aa2e2a85c25925774b" level="series"><did><unittitle>Series II: Campaign for Peace and Democracy</unittitle><unitdate normal="1980/2017" type="inclusive">1980-2017</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial></did><scopecontent id="aspace_523b20b04a90c0174564120ea90aa86c"><head>Scope and Contents</head><p>Series II contains documents pertaining to the Campaign for Peace and Democracy. The series consists mostly of flyers, clippings, and ephemera from events and actions. Series also contains audiocassettes and digital files.</p></scopecontent><c id="aspace_d2dd519e7401bc1b970687b34d217679" level="file"><did><unittitle>Posters</unittitle><unitdate normal="1987/1993" type="inclusive">1987-1993</unitdate><container altrender="Flat OS Box 17" id="aspace_54890b53ca1e90878fb6a40d1d6c3f46" label="Mixed Materials [31142062995116]" type="box">Shared Tamiment 054</container><container id="aspace_7762b1cbddc68b818dd58e6317fedfde" parent="aspace_54890b53ca1e90878fb6a40d1d6c3f46" type="folder">3</container></did></c><c id="aspace_115e8cd70082f51892998dd64cd07f50" level="file"><did><unittitle> Flyers, Clippings, and Ephemera</unittitle><unitdate normal="1981/1981">1981</unitdate><container altrender="Manuscript box - Letter" id="aspace_051f4e621c787b24504460322a025c6d" label="Mixed Materials [31142063073970]" type="box">5</container><container id="aspace_0e4895bbbf7e2e9691e8042b83b714fb" parent="aspace_051f4e621c787b24504460322a025c6d" type="folder">1</container></did></c><c id="aspace_f82f04e0200ce4879d62e0e20c51932d" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="1982/1982">1982</unitdate><container altrender="Manuscript box - Letter" id="aspace_1e189f1022a978984b31b90806d7921f" label="Mixed Materials [31142063073970]" type="box">5</container><container id="aspace_c3560f82a5519587a3f073b83fb3e701" parent="aspace_1e189f1022a978984b31b90806d7921f" type="folder">2</container></did></c><c id="aspace_3538ef93e81670d56802b3edd05c069b" level="file"><did><unittitle> Flyers, Clippings, and Ephemera</unittitle><unitdate normal="1983/1983">1983</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_6f7412947a4049e12ef1d5a61ad1b51b" label="Mixed Materials [31142063073970]" type="box">5</container><container id="aspace_c0615e062261b3235128537cfaaccd7e" parent="aspace_6f7412947a4049e12ef1d5a61ad1b51b" type="folder">3</container></did></c><c id="aspace_8516be2c28a758ced7ec4f9466e55600" level="file"><did><unittitle> Flyers, Clippings, and Ephemera</unittitle><unitdate normal="1984/1984">1984</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_3a6e798d242484582fbd80d9c8db84c5" label="Mixed Materials [31142063073970]" type="box">5</container><container id="aspace_ec077ca0d5494b112c9f0faac1487128" parent="aspace_3a6e798d242484582fbd80d9c8db84c5" type="folder">4</container></did></c><c id="aspace_6319f8ffcd9660aac5d67f78bd92b5d4" level="file"><did><unittitle> Flyers, Clippings, and Ephemera</unittitle><unitdate normal="1985/1985">1985</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_828177e0daf3734e0e3bbf6b7711fcb9" label="Mixed Materials [31142063073970]" type="box">5</container><container id="aspace_04c9337f0a315db0d021096c544c69b7" parent="aspace_828177e0daf3734e0e3bbf6b7711fcb9" type="folder">5</container></did></c><c id="aspace_2d31b260323ca1d8e4d3d6bc0ef5ec38" level="file"><did><unittitle> Flyers, Clippings, and Ephemera</unittitle><unitdate normal="1986/1986">1986</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_f09f9b06d8d8f4b9ca6dbe26352e7992" label="Mixed Materials [31142063073970]" type="box">5</container><container id="aspace_fc0dc75d9ff962ea4408780bcffa9bbc" parent="aspace_f09f9b06d8d8f4b9ca6dbe26352e7992" type="folder">6</container></did></c><c id="aspace_22447455b57c31445bfe6f1d6286a1b9" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="1987/1987">1987</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_8c6c862245a6caeb6b6f17fa964e02ed" label="Mixed Materials [31142063073970]" type="box">5</container><container id="aspace_89f6b61f347978d1a2a36149c173c102" parent="aspace_8c6c862245a6caeb6b6f17fa964e02ed" type="folder">7</container></did></c><c id="aspace_1b970d78f16db22a3d88b24b7744510d" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="1988/1988">1988</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_3ada9167475ba367dca742e165ef609a" label="Mixed Materials [31142063073970]" type="box">5</container><container id="aspace_6c09fa93a2d6444c0bec53dcc44e2830" parent="aspace_3ada9167475ba367dca742e165ef609a" type="folder">8</container></did></c><c id="aspace_0ec1265b28ffb997ca09a4b87a87260b" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="1989/1989">1989</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_139d61a42548bcf4bde7ab112f277865" label="Mixed Materials [31142063073970]" type="box">5</container><container id="aspace_5dc8e9413ccbd67dff7c7091b3be6b73" parent="aspace_139d61a42548bcf4bde7ab112f277865" type="folder">9</container></did></c><c id="aspace_a2fb25f546ea12df545e015e828b88d1" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="1990/1990">1990</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_66c5054dbc17019692b5e7b457dbd1ec" label="Mixed Materials [31142063073970]" type="box">5</container><container id="aspace_895163aa5f46da2fb66c9610b657dc81" parent="aspace_66c5054dbc17019692b5e7b457dbd1ec" type="folder">10</container><container altrender="Manuscript box - Letter" id="aspace_e3e147d606e45e1c0ebc82ac82196963" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_237ad7a8f7d20366bd7df1f2487690b1" parent="aspace_e3e147d606e45e1c0ebc82ac82196963" type="folder">1</container></did></c><c id="aspace_59922dabba5c2efee8856b64e22612e2" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="1991/1991">1991</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_09516c0fcb03247a355b68560e093ffa" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_5264dcfd44b5e0e72c589cd468568ac3" parent="aspace_09516c0fcb03247a355b68560e093ffa" type="folder">2</container></did></c><c id="aspace_9136804a0c4093636d0d42fb829c9c6e" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="1992/1992">1992</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_d86263b1ba38a9ebdba78322a069bcb5" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_42cf7c24180fbb16e7e3296f193809b3" parent="aspace_d86263b1ba38a9ebdba78322a069bcb5" type="folder">3</container></did></c><c id="aspace_fa96b51738c0303254824078f5da066a" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="1993/1993">1993</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_bd65485d9575df11b4ad0f79d7584f40" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_7bea26aba08631509aecdfed59c65926" parent="aspace_bd65485d9575df11b4ad0f79d7584f40" type="folder">4</container></did></c><c id="aspace_27d0001afc94f5c5c642b24bf92d0129" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="1994/1994">1994</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_b4d39f823dfa4023aef8cedec542be4d" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_9f8117b9d313a06150eb0be68861c9eb" parent="aspace_b4d39f823dfa4023aef8cedec542be4d" type="folder">5</container></did></c><c id="aspace_ff8cb07c125fb58feb0d3144a397683a" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="1995/1995">1995</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_5c6df9ba8860de99648d38cf663bba9d" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_ed7e63adde83be8a9ef73ff2eb084376" parent="aspace_5c6df9ba8860de99648d38cf663bba9d" type="folder">6</container></did></c><c id="aspace_26c8d823cc426337e98a5875874af98e" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="1996/1996">1996</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_8c50368e3236316e278c81882680cde7" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_44b77f32e5ca6c3890f00067b7f9bf18" parent="aspace_8c50368e3236316e278c81882680cde7" type="folder">7</container></did></c><c id="aspace_4a79b7dcc82e3227a23053d50b68fd38" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="1998/1998">1998</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_bd17c90708a0bc817f7d40a84189be4c" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_3bff72d5e0cbd5ddcbd344e379a71aa4" parent="aspace_bd17c90708a0bc817f7d40a84189be4c" type="folder">8</container></did></c><c id="aspace_0083e6ba57444a5eeecb8073f6ed0e1b" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="1999/1999">1999</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_3684c19e6074599b2e4b827cf75bf9f6" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_bd00c26fdf1e504a5f410d604e8c8d8c" parent="aspace_3684c19e6074599b2e4b827cf75bf9f6" type="folder">9</container></did></c><c id="aspace_0863d6b7653970a0d2ad97c43edf20dc" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="2003/2003">2003</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_dd904aba317a30f6037e7422d9eabb65" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_4a65e329be7ef31633a5b743caaef3cf" parent="aspace_dd904aba317a30f6037e7422d9eabb65" type="folder">10</container></did></c><c id="aspace_c0c3b89dfdfd5288547a22d7dc88af7a" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="2004/2004">2004</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_98023b18bb662d1f08aebdba34f76678" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_8d8fea0ab012949d372af44cb0df6fe0" parent="aspace_98023b18bb662d1f08aebdba34f76678" type="folder">11</container></did></c><c id="aspace_2f9d739deb4793af04deba3660b184b3" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="2006/2006">2006</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_b7a734818b7aac35c5702b76dde9d86a" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_618999efa24c80e7969b66b33103224a" parent="aspace_b7a734818b7aac35c5702b76dde9d86a" type="folder">12</container></did></c><c id="aspace_9bc1be30c6bd525e5fd57d6d55fee9b5" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="2007/2007">2007</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_af57be1da37669d0e3d39d00f976b992" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_d9b29d042471df2ee77423d91d490b7d" parent="aspace_af57be1da37669d0e3d39d00f976b992" type="folder">13</container></did></c><c id="aspace_153964f2ed7955a0b77d0175c17bdf7f" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="2008/2008">2008</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_d62ccdbc7c63ea8d00ac443559117a61" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_a832176ddd4d20dd08f99cc54324488c" parent="aspace_d62ccdbc7c63ea8d00ac443559117a61" type="folder">14</container></did></c><c id="aspace_01cb90d74d9a087c5f3bde172356cbcc" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="2009/2009">2009</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_d407fa496cec5e16d5223881d3252b1b" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_a63e233f3bf537c70c3e8800afadece1" parent="aspace_d407fa496cec5e16d5223881d3252b1b" type="folder">15</container></did></c><c id="aspace_c22249406a832a2364df614db2318d1f" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="2010/2010">2010</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_fbfe112866ccfcaad94ff472d6efbe6e" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_780ee48b80124cf6cd084ec2a6606ed9" parent="aspace_fbfe112866ccfcaad94ff472d6efbe6e" type="folder">16</container></did></c><c id="aspace_9fe08753c8fd359447d7ce9a00f5b417" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="2011/2011">2011</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_b4cd270746e04bddd277db99397b36d0" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_493496a2db1c3e895cc3112419719c8d" parent="aspace_b4cd270746e04bddd277db99397b36d0" type="folder">17</container></did></c><c id="aspace_721bb2fb4471ca874bf45ae73c4de441" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="2012/2012">2012</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_afef78fb398c5805551e8051fbc69e64" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_f83f53459e42b6b7c366e64cd49573fd" parent="aspace_afef78fb398c5805551e8051fbc69e64" type="folder">18</container></did></c><c id="aspace_aef517c239bae5066aa6eccdbeb8f6f4" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="2013/2013">2013</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_89a93615a8be9e9366e521d5c1242d31" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_eb5c5d865a4f6a5df8a8342f5704a7e4" parent="aspace_89a93615a8be9e9366e521d5c1242d31" type="folder">19</container></did></c><c id="aspace_c645ecc99f53f87f0fad6c44a9300d3a" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="2014/2014">2014</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_5d89b6e8d60457928f10e0edc4e1b2fc" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_ce285a253428c8d3947d8c601c3af82d" parent="aspace_5d89b6e8d60457928f10e0edc4e1b2fc" type="folder">20</container></did></c><c id="aspace_aa4c29a8d665bd74839f6ebfe3e79e36" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="2015/2015">2015</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_073262d55454f06f2caec16abeb8e730" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_a5b3f27adf7dcbbc27abf1a229a6d8b8" parent="aspace_073262d55454f06f2caec16abeb8e730" type="folder">21</container></did></c><c id="aspace_9efc41ecb784062df7a7acd2b8f7539c" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate normal="2016/2016">2016</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_67a6d445d7d110ea6bda66e01dbf2b6a" label="Mixed Materials [31142063073988]" type="box">6</container><container id="aspace_ca1650669de764b2c1c34977040db967" parent="aspace_67a6d445d7d110ea6bda66e01dbf2b6a" type="folder">22</container></did></c><c id="aspace_8eedc16d1c8c94ef9ef8df9ff1b1c744" level="file"><did><unittitle>Flyers, Clippings, and Ephemera</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_80bc3d5f4b7f3f74b520ef9327d2a088" label="Mixed Materials [31142063073996]" type="box">3</container><container id="aspace_41b845776baee1f1a65d528df39d24c3" parent="aspace_80bc3d5f4b7f3f74b520ef9327d2a088" type="folder">1</container></did></c><c id="aspace_c1040d5f83630c7dd7ccdce1cb3a24ec" level="file"><did><unittitle>Photos </unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_a684225fec42bf5a85b06b1f4f8994f8" label="photographs [31142063073996]" type="box">3</container><container id="aspace_301f3ea8413a657a6a3ea5e9e027394a" parent="aspace_a684225fec42bf5a85b06b1f4f8994f8" type="folder">2</container></did></c><c id="aspace_923b174861ea3cb21a9678857d63fe20" level="file"><did><unittitle>Joanne Landy on American Public Health Association</unittitle><unitdate normal="1980-12/1980-12">1980-12</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_67419e7dd5909384717a139ead7d5ad3" label="Mixed Materials [31142063073996]" type="box">3</container><container id="aspace_c745667d3ca38887a949bc8ab2791d59" parent="aspace_67419e7dd5909384717a139ead7d5ad3" type="folder">3</container></did></c><c id="aspace_aac4cd6384dc16c0bdb819d641dc6c7f" level="file"><did><unittitle>Joanne Landy on Tuberculosis</unittitle><unitdate normal="1980-05-15/1980-05-15">1980-05-15</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_fd98f1814f6e8a3290b01ca6ee5f0696" label="Mixed Materials [31142063073996]" type="box">3</container><container id="aspace_78661b0297f2990df2e68108f4e2a872" parent="aspace_fd98f1814f6e8a3290b01ca6ee5f0696" type="folder">4</container></did></c><c id="aspace_b13425e4c115003159bbe701292af320" level="file"><did><unittitle>Joanne Landy on Polish Healthcare</unittitle><unitdate normal="1982/1982">1982</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_75151170c656eeab80bcd70ecbb6b5b3" label="Mixed Materials [31142063073996]" type="box">3</container><container id="aspace_9f8706ba23c22458cc7e78751ca0215d" parent="aspace_75151170c656eeab80bcd70ecbb6b5b3" type="folder">5</container></did></c><c id="aspace_ae7017e52d71f77f366cfd3bf9418be1" level="file"><did><unittitle>MacArthur Proposal </unittitle><unitdate normal="1990/1990">1990</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_bd9f6080972d71fce723c648a8a2fa8f" label="Mixed Materials [31142063073996]" type="box">3</container><container id="aspace_9a7642c747fb4db7f9da43d1a205b4d1" parent="aspace_bd9f6080972d71fce723c648a8a2fa8f" type="folder">6</container></did></c><c id="aspace_ece8cf254105cd7257c63c8bd6e62d95" level="file"><did><unittitle>MacArthur Grant</unittitle><unitdate normal="1986/1995" type="inclusive">1986-1995</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_a82cea4c351e81ee7bc98d74a9c3abae" label="Mixed Materials [31142063073996]" type="box">3</container><container id="aspace_b6eb865a1d20699e3adbfd9a16912706" parent="aspace_a82cea4c351e81ee7bc98d74a9c3abae" type="folder">7</container></did></c><c id="aspace_d8d211bdfc4565883ec7f951af51efad" level="file"><did><unittitle>Letters of Support</unittitle><unitdate normal="1988/1994" type="inclusive">1988-1994</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_c98576e8b2ef30c76706d3bcd4c85af9" label="Mixed Materials [31142063073996]" type="box">3</container><container id="aspace_7879c381de4ad07e7560f89530374cc2" parent="aspace_c98576e8b2ef30c76706d3bcd4c85af9" type="folder">8</container></did></c><c id="aspace_0bb93df847aba714dba5f124f608c74a" level="file"><did><unittitle>Untitled Audio Cassettes</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_4d5fee5d50585fbf4f04442075892bcf" label="sound cassettes (audiocassette) [31142063341476]" type="box">4</container></did></c><c id="aspace_86c585af3587fb9fd84eb52ed102614e" level="file"><did><unittitle>Joanne Landy on WBAI Radio</unittitle><unitdate normal="1987-03-23/1987-03-23">1987-03-23</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_c3e91ee03a8e930e1cfcfe07c36ba16d" label="sound cassettes (audiocassette) [31142063341476]" type="box">4</container></did></c><c id="aspace_a08e0473e39b1de71ebee97462c4e695" level="file"><did><unittitle>Joanne Landy on Poland </unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_e3bb7ae69bd5d3f2e6483103061a07c1" label="sound cassettes (audiocassette) [31142063341476]" type="box">4</container></did></c><c id="aspace_e696cb568fcc21f1ee290f98c681e3fb" level="file"><did><unittitle>Joanne Landy on Bob Grant Program</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_b02bdbfbc32ff8896aa1ff667df1bd9b" label="sound cassettes (audiocassette) [31142063341476]" type="box">4</container></did></c><c id="aspace_57c34560e70ee9256283594cd768c906" level="file"><did><unittitle>Joanne Landy</unittitle><unitdate normal="1984-12-01/1984-12-01">1984-12-01</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_2de1941ef04f27205830c33b08981915" label="sound cassettes (audiocassette) [31142063341476]" type="box">4</container></did></c><c id="aspace_0bd65b7d477f4346fbd8224410927b67" level="file"><did><unittitle>"Solidarity"</unittitle><unitdate normal="1981-11-08/1981-11-08">1981-11-08</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_34e41473361fa3a058151259cb521857" label="sound cassettes (audiocassette) [31142063341476]" type="box">4</container></did></c><c id="aspace_90afa9b581a7c58ecdb9f5af4e493d17" level="file"><did><unittitle>Discussion Tape</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_ab1b59f12553fd666757c6eb64f3ec2e" label="sound cassettes (audiocassette) [31142063341476]" type="box">4</container></did></c><c id="aspace_4de00196afb708f22433f3ac1c75f474" level="file"><did><unittitle>Rally at Palazzo delle Esposizioni</unittitle><unitdate normal="2011-10/2011-10">2011-10</unitdate><langmaterial><language langcode="ita" scriptcode="Latn">Italian</language>.</langmaterial><container id="aspace_4c92aa88558c3f88b4afd62c9e9450a5" label="electronic records" type="box">Electronic Records</container><container id="aspace_17b0d8dbda75844f06760574cb1c26a7" parent="aspace_4c92aa88558c3f88b4afd62c9e9450a5" type="E-records">TW_TAM_785_ER_1</container><dao xlink:actuate="onLoad" xlink:href=" https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/tam_785.xml&amp;view=xml" xlink:role="electronic-records-service" xlink:show="new" xlink:title="Rally at Palazzo delle Esposizioni" xlink:type="simple"><daodesc><p>Rally at Palazzo delle Esposizioni: 2011-10-</p></daodesc></dao></did></c><c id="aspace_7aaec3924dc4ddfc39861fa5f2f02004" level="file"><did><unittitle>Turning the Tide Presentation by Friends for a Nonviolent World</unittitle><unitdate normal="2009-02-21/2009-02-21">2009-02-21</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_be2fe4bbf5cf7c17bc74499eb7b69523" label="electronic records" type="box">Electronic Records</container><container id="aspace_5fe32407668a747a9ced2947b85e6cc7" parent="aspace_be2fe4bbf5cf7c17bc74499eb7b69523" type="E-records">TW_TAM_785_ER_2</container><dao xlink:actuate="onLoad" xlink:href=" https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/tam_785.xml&amp;view=xml" xlink:role="electronic-records-service" xlink:show="new" xlink:title="Turning the Tide Presentation" xlink:type="simple"><daodesc><p>Turning the Tide Presentation: 2009-2-21-</p></daodesc></dao></did></c></c></dsc>
-</archdesc>
+      <corpname rules="dacs" source="naf">Campaign for Peace and Democracy</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_53657e49929fcbe1a36ac32c17d3fcc3" level="series">
+        <did>
+          <unittitle>Series I: <emph render="italic">New Politics</emph> Correspondences and Administrative Records</unittitle>
+          <unitdate normal="1967/2000" type="bulk">1967-2000</unitdate>
+          <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_5cb5dbb0db679541bf5f4adbe046d8f8">
+          <head>Scope and Contents</head>
+          <p>Series I contains correspondences and various administrative records of the <emph render="italic">New Politics</emph> publication, including editorial board minutes and copyright certificates.</p>
+        </scopecontent>
+        <c id="aspace_39c1ae963ae484dd6575af6024d04d78" level="file">
+          <did>
+            <unittitle>Correspondence: Stanley Aronwitz</unittitle>
+            <unitdate normal="1988/1988">1988</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_6e7908f73cc83060549601c3ee64c7bb" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_7e2013382b3c052ea3e57847eaa8be59" parent="aspace_6e7908f73cc83060549601c3ee64c7bb" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ac16f12a416499326edcc4422663826c" level="file">
+          <did>
+            <unittitle>Correspondence: John Bloom</unittitle>
+            <unitdate normal="1984/1984">1984</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_33a3a64b80ed4d4fff23fdc8572aab17" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_cdc330ae0c00386f24a4c17adc6baaa1" parent="aspace_33a3a64b80ed4d4fff23fdc8572aab17" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_bc5f0b4c355479d1808b8292291b057e" level="file">
+          <did>
+            <unittitle>Correspondence: Sam Bottome</unittitle>
+            <unitdate normal="1987/1998" type="inclusive">1987-1998</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_5457554364cf505863bb8472cbed2e75" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_0ca2a5246d3072a66d5bedc5a596ed94" parent="aspace_5457554364cf505863bb8472cbed2e75" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_117b801378807bccb2ab06da26db89a1" level="file">
+          <did>
+            <unittitle>Correspondence: Paul Buhle</unittitle>
+            <unitdate normal="1994/1998" type="inclusive">1994-1998</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_37ebf35077732a5bbb1f5e151317862e" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_34a513f9e1e74fb1b1380aa95f14b9bc" parent="aspace_37ebf35077732a5bbb1f5e151317862e" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_d5aa762a010453c781c1826169604ae9" level="file">
+          <did>
+            <unittitle>Correspondence: Raymond Challinor</unittitle>
+            <unitdate>undated</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_5bbac39515c3b8a0d8e1487692043e53" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_148f05785cf81645573517bf0d9a9ae5" parent="aspace_5bbac39515c3b8a0d8e1487692043e53" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_c4344d84be01d87ef1147c6bb4a6cce5" level="file">
+          <did>
+            <unittitle>Correspondence: Robert Cummings</unittitle>
+            <unitdate normal="1986/1994" type="inclusive">1986-1994</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_f82f90edc89c7e4fe2723e8288d91154" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_b7999331bc503efdccd124a052146786" parent="aspace_f82f90edc89c7e4fe2723e8288d91154" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_bf1a4ddf5764fae99889852ad5d5d839" level="file">
+          <did>
+            <unittitle>Correspondence: Ernest Erber </unittitle>
+            <unitdate normal="1984/1997" type="inclusive">1984-1997</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_e429a2e939e0da240c18893eda98051f" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_9e3e0bdae68c58cc3c71de2fd05891c9" parent="aspace_e429a2e939e0da240c18893eda98051f" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_19849fcf25c418f537ee66d4dde0b1d2" level="file">
+          <did>
+            <unittitle>Correspondence: Gertrude Ezorsky </unittitle>
+            <unitdate normal="1988/1993" type="inclusive">1988-1993</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_c4f0912a1eaaa6fb1d644170e7282537" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_7be9d36e3556a6c273a2b18d4bf753ec" parent="aspace_c4f0912a1eaaa6fb1d644170e7282537" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_32d2371aaf57a5e25f0f199d050269bb" level="file">
+          <did>
+            <unittitle>Correspondence: Ernie Haberkern</unittitle>
+            <unitdate normal="1995/1995">1995</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_74507e24b12dd123f07bf428970e3ed7" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_fa3f2aaa0ce46babba065856f160a427" parent="aspace_74507e24b12dd123f07bf428970e3ed7" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_62dfb0c11fb85777517cec8f68937d62" level="file">
+          <did>
+            <unittitle>Correspondence: Herbert Hill</unittitle>
+            <unitdate normal="1998/1999" type="inclusive">1998-1999</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_cdfd80791c40d8bb0ebaf472b81082ee" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_190285d106b9376a35aace35a7ddd628" parent="aspace_cdfd80791c40d8bb0ebaf472b81082ee" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_dcc624b8444c5b37778feea82a5e7190" level="file">
+          <did>
+            <unittitle>Correspondence: Alan Johnson</unittitle>
+            <unitdate normal="2000/2000">2000</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_eb75ae3082e2ad22cb18740d75d31344" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_52821d0f62f064083ab1f29e0d28934d" parent="aspace_eb75ae3082e2ad22cb18740d75d31344" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_69046571ee45236029724cf822200cf8" level="file">
+          <did>
+            <unittitle>Correspondence: Arthur Lipon</unittitle>
+            <unitdate normal="1988/1991" type="inclusive">1988-1991</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_f840beab9711101e6e656299b86d6312" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_865695870793ac0ce7325da4df050a4c" parent="aspace_f840beab9711101e6e656299b86d6312" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_a3d3cae46572295047a91ad368f22275" level="file">
+          <did>
+            <unittitle>Correspondence: Stanford Lyman</unittitle>
+            <unitdate normal="1999/1999">1999</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_319b8558de3334d8b8d3c772ce13248c" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_5d7bd57d4040ffbc9c4daba20cc78f5a" parent="aspace_319b8558de3334d8b8d3c772ce13248c" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_d5ed8b3ad5c15f5144a0615d4a960c81" level="file">
+          <did>
+            <unittitle>Correspondence: Marvin Mandell</unittitle>
+            <unitdate normal="1988/1999" type="inclusive">1988-1999</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_098ea12325155a610ac433bd0c9f9345" label="mixed materials [31142063352481]" type="box">1</container>
+            <container id="aspace_d02e18b48e7b8c85706344238c46ee43" parent="aspace_098ea12325155a610ac433bd0c9f9345" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_faf299923d71b072efab2b6b59e1dac4" level="file">
+          <did>
+            <unittitle>Correspondence: Scott McLemee</unittitle>
+            <unitdate normal="1994/1994">1994</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_ed107a9a1e84ba52ecbf4268d4d9a963" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_543e94d81d648b58be7a9e1fc83ce15d" parent="aspace_ed107a9a1e84ba52ecbf4268d4d9a963" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_207f1cb33b7a7c3b24806044bdb7b9cc" level="file">
+          <did>
+            <unittitle>Correspondence: George Meany</unittitle>
+            <unitdate normal="1982/1985" type="inclusive">1982-1985</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_844c9c34fceed0ef71343791e7c8eb54" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_291fdd80dce7a3222d2917393a4ddc5a" parent="aspace_844c9c34fceed0ef71343791e7c8eb54" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_fb99a20a0ec4f667516a7ea79dff5ed0" level="file">
+          <did>
+            <unittitle>Correspondence: Christopher Phelps</unittitle>
+            <unitdate normal="1999/1999">1999</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_12ba2995dcac9e13a7b8801c67b94871" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_27d1cae971f12d751cd67efbec855398" parent="aspace_12ba2995dcac9e13a7b8801c67b94871" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_9aa5773878e28954750467d9f04184aa" level="file">
+          <did>
+            <unittitle>Correspondence: Alan Wald</unittitle>
+            <unitdate normal="1983/1985" type="inclusive">1983-1985</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_92e168e2b6b141019984d7d0e925be8f" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_88066261bf9416884e40cbe9461236de" parent="aspace_92e168e2b6b141019984d7d0e925be8f" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_fc359428c44258657bf06804f90e5432" level="file">
+          <did>
+            <unittitle>Correspondence: Michael Wreszin</unittitle>
+            <unitdate normal="1998/1999" type="inclusive">1998-1999</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_5cd7cea16b1d08b2b5c7f4de8493ab14" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_30852c994c5f66ad3a3044a790f71cfb" parent="aspace_5cd7cea16b1d08b2b5c7f4de8493ab14" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_bbd4e94c4141431bad53ee209ca6da50" level="file">
+          <did>
+            <unittitle>Correspondence: Jim Young</unittitle>
+            <unitdate normal="1988/1996" type="inclusive">1988-1996</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_2b997dbb831b16d66cdf0e6a72fef6c1" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_5719ac1ade495de79487720d0236ca90" parent="aspace_2b997dbb831b16d66cdf0e6a72fef6c1" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_b710c440bc4bd988af0d50bb619012dc" level="file">
+          <did>
+            <unittitle>Correspondence: "Cuckoo" Letters</unittitle>
+            <unitdate normal="1975/1986" type="inclusive">1975-1986</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_9c6818b405f515fa7a9d959561b92b1f" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_5d27e6f40b6c5fcd5c67b7d6b33c4261" parent="aspace_9c6818b405f515fa7a9d959561b92b1f" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_a77adc284704e4d2f4544d4b9aeb63c2" level="file">
+          <did>
+            <unittitle>Correspondence: General</unittitle>
+            <unitdate normal="1986/2000" type="inclusive">1986-2000</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_e66ef86259ce7e1c99a6f57a29c16372" label="Mixed Materials [31142063352481]" type="box">1</container>
+            <container id="aspace_6410b3ca017ab8148052622d16b2429e" parent="aspace_e66ef86259ce7e1c99a6f57a29c16372" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_fa8a1aefc41f7fe15b07edf76d29eaeb" level="file">
+          <did>
+            <unittitle>Interviews with Phillis Jacobson and Julius Jacobson</unittitle>
+            <unitdate>undated</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_3bf32fd0dc8808bdf634c9d1709adfb4" label="Mixed Materials [31142063352499]" type="box">2</container>
+            <container id="aspace_06cbf84048a031f35ad52978c6ed2a00" parent="aspace_3bf32fd0dc8808bdf634c9d1709adfb4" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_aaeb9bea25ef9ecf695090d1099f1204" level="file">
+          <did>
+            <unittitle>Advertising</unittitle>
+            <unitdate normal="1986/1996" type="inclusive">1986-1996</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_7945b86f5603b0c495ac99a88c87c8b3" label="Mixed Materials [31142063352499]" type="box">2</container>
+            <container id="aspace_0ee7758894467745a6e23292d3d2067c" parent="aspace_7945b86f5603b0c495ac99a88c87c8b3" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_2cce68c2e916806367b5b103811bd93a" level="file">
+          <did>
+            <unittitle>Historic Documents</unittitle>
+            <unitdate normal="1967/1984" type="inclusive">1967-1984</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_fd630a471889f74cbd73db9936ed4fd0" label="Mixed Materials [31142063352499]" type="box">2</container>
+            <container id="aspace_a0fb0d872e974310b0b13bac6ef63ea1" parent="aspace_fd630a471889f74cbd73db9936ed4fd0" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_9bfc3259b2474458ee5e81c2b8b4e545" level="file">
+          <did>
+            <unittitle>Reprint Requests</unittitle>
+            <unitdate normal="1987/1999" type="inclusive">1987-1999</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_423e1f7117b1ec100a5391e33180012a" label="Mixed Materials [31142063352499]" type="box">2</container>
+            <container id="aspace_d1a38e7183ac686c99a30705e82b1671" parent="aspace_423e1f7117b1ec100a5391e33180012a" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_40edd31926fe773f2b0159c79d891d5a" level="file">
+          <did>
+            <unittitle>Editorial Board Minutes</unittitle>
+            <unitdate normal="1984/2000" type="inclusive">1984-2000</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_cdca8ccffd704e31b0e1fb9619f436cb" label="Mixed Materials [31142063352499]" type="box">2</container>
+            <container id="aspace_393e213515e6c270aa6e2233521d4cb9" parent="aspace_cdca8ccffd704e31b0e1fb9619f436cb" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_4d6146264cbf9723108593dadf50813e" level="file">
+          <did>
+            <unittitle>Fund Appeals</unittitle>
+            <unitdate normal="1993/1998" type="inclusive">1993-1998</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_be85e41f8b265617dd1540f409746d05" label="Mixed Materials [31142063352499]" type="box">2</container>
+            <container id="aspace_fb9df940b3b60a37fdfea0772715b3be" parent="aspace_be85e41f8b265617dd1540f409746d05" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_03ebbb5cd57295492445377eb749ff2e" level="file">
+          <did>
+            <unittitle>Copyright Certificates</unittitle>
+            <unitdate normal="1988/2000" type="inclusive">1988-2000</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_369d097e19bc50d79e26e59f188e4359" label="Mixed Materials [31142063352499]" type="box">2</container>
+            <container id="aspace_da8124f211e81a966327e7333f25d794" parent="aspace_369d097e19bc50d79e26e59f188e4359" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_b28ee892ef51bf13d7c2cfa4616de651" level="file">
+          <did>
+            <unittitle>Intellectual Notes</unittitle>
+            <unitdate>undated</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_7e3fd5c63dee03e4b858bb2feb8094fa" label="Mixed Materials [31142063352499]" type="box">2</container>
+            <container id="aspace_37271ec36ce0ef1d1126627d7f70c380" parent="aspace_7e3fd5c63dee03e4b858bb2feb8094fa" type="folder">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_3f3b87f9a87b34aa2e2a85c25925774b" level="series">
+        <did>
+          <unittitle>Series II: Campaign for Peace and Democracy</unittitle>
+          <unitdate normal="1980/2017" type="inclusive">1980-2017</unitdate>
+          <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_523b20b04a90c0174564120ea90aa86c">
+          <head>Scope and Contents</head>
+          <p>Series II contains documents pertaining to the Campaign for Peace and Democracy. The series consists mostly of flyers, clippings, and ephemera from events and actions. Series also contains audiocassettes and digital files.</p>
+        </scopecontent>
+        <c id="aspace_d2dd519e7401bc1b970687b34d217679" level="file">
+          <did>
+            <unittitle>Posters</unittitle>
+            <unitdate normal="1987/1993" type="inclusive">1987-1993</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_54890b53ca1e90878fb6a40d1d6c3f46" label="Mixed Materials [31142062995116]" type="box">Shared Tamiment 054</container>
+            <container id="aspace_7762b1cbddc68b818dd58e6317fedfde" parent="aspace_54890b53ca1e90878fb6a40d1d6c3f46" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_115e8cd70082f51892998dd64cd07f50" level="file">
+          <did>
+            <unittitle> Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="1981/1981">1981</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_051f4e621c787b24504460322a025c6d" label="Mixed Materials [31142063073970]" type="box">5</container>
+            <container id="aspace_0e4895bbbf7e2e9691e8042b83b714fb" parent="aspace_051f4e621c787b24504460322a025c6d" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_f82f04e0200ce4879d62e0e20c51932d" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="1982/1982">1982</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_1e189f1022a978984b31b90806d7921f" label="Mixed Materials [31142063073970]" type="box">5</container>
+            <container id="aspace_c3560f82a5519587a3f073b83fb3e701" parent="aspace_1e189f1022a978984b31b90806d7921f" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_3538ef93e81670d56802b3edd05c069b" level="file">
+          <did>
+            <unittitle> Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="1983/1983">1983</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_6f7412947a4049e12ef1d5a61ad1b51b" label="Mixed Materials [31142063073970]" type="box">5</container>
+            <container id="aspace_c0615e062261b3235128537cfaaccd7e" parent="aspace_6f7412947a4049e12ef1d5a61ad1b51b" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_8516be2c28a758ced7ec4f9466e55600" level="file">
+          <did>
+            <unittitle> Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="1984/1984">1984</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_3a6e798d242484582fbd80d9c8db84c5" label="Mixed Materials [31142063073970]" type="box">5</container>
+            <container id="aspace_ec077ca0d5494b112c9f0faac1487128" parent="aspace_3a6e798d242484582fbd80d9c8db84c5" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_6319f8ffcd9660aac5d67f78bd92b5d4" level="file">
+          <did>
+            <unittitle> Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="1985/1985">1985</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_828177e0daf3734e0e3bbf6b7711fcb9" label="Mixed Materials [31142063073970]" type="box">5</container>
+            <container id="aspace_04c9337f0a315db0d021096c544c69b7" parent="aspace_828177e0daf3734e0e3bbf6b7711fcb9" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_2d31b260323ca1d8e4d3d6bc0ef5ec38" level="file">
+          <did>
+            <unittitle> Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="1986/1986">1986</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_f09f9b06d8d8f4b9ca6dbe26352e7992" label="Mixed Materials [31142063073970]" type="box">5</container>
+            <container id="aspace_fc0dc75d9ff962ea4408780bcffa9bbc" parent="aspace_f09f9b06d8d8f4b9ca6dbe26352e7992" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_22447455b57c31445bfe6f1d6286a1b9" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="1987/1987">1987</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_8c6c862245a6caeb6b6f17fa964e02ed" label="Mixed Materials [31142063073970]" type="box">5</container>
+            <container id="aspace_89f6b61f347978d1a2a36149c173c102" parent="aspace_8c6c862245a6caeb6b6f17fa964e02ed" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_1b970d78f16db22a3d88b24b7744510d" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="1988/1988">1988</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_3ada9167475ba367dca742e165ef609a" label="Mixed Materials [31142063073970]" type="box">5</container>
+            <container id="aspace_6c09fa93a2d6444c0bec53dcc44e2830" parent="aspace_3ada9167475ba367dca742e165ef609a" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_0ec1265b28ffb997ca09a4b87a87260b" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="1989/1989">1989</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_139d61a42548bcf4bde7ab112f277865" label="Mixed Materials [31142063073970]" type="box">5</container>
+            <container id="aspace_5dc8e9413ccbd67dff7c7091b3be6b73" parent="aspace_139d61a42548bcf4bde7ab112f277865" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_a2fb25f546ea12df545e015e828b88d1" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="1990/1990">1990</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_66c5054dbc17019692b5e7b457dbd1ec" label="Mixed Materials [31142063073970]" type="box">5</container>
+            <container id="aspace_895163aa5f46da2fb66c9610b657dc81" parent="aspace_66c5054dbc17019692b5e7b457dbd1ec" type="folder">10</container>
+            <container altrender="Manuscript box - Letter" id="aspace_e3e147d606e45e1c0ebc82ac82196963" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_237ad7a8f7d20366bd7df1f2487690b1" parent="aspace_e3e147d606e45e1c0ebc82ac82196963" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_59922dabba5c2efee8856b64e22612e2" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="1991/1991">1991</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_09516c0fcb03247a355b68560e093ffa" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_5264dcfd44b5e0e72c589cd468568ac3" parent="aspace_09516c0fcb03247a355b68560e093ffa" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_9136804a0c4093636d0d42fb829c9c6e" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="1992/1992">1992</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_d86263b1ba38a9ebdba78322a069bcb5" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_42cf7c24180fbb16e7e3296f193809b3" parent="aspace_d86263b1ba38a9ebdba78322a069bcb5" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_fa96b51738c0303254824078f5da066a" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="1993/1993">1993</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_bd65485d9575df11b4ad0f79d7584f40" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_7bea26aba08631509aecdfed59c65926" parent="aspace_bd65485d9575df11b4ad0f79d7584f40" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_27d0001afc94f5c5c642b24bf92d0129" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="1994/1994">1994</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_b4d39f823dfa4023aef8cedec542be4d" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_9f8117b9d313a06150eb0be68861c9eb" parent="aspace_b4d39f823dfa4023aef8cedec542be4d" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ff8cb07c125fb58feb0d3144a397683a" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="1995/1995">1995</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_5c6df9ba8860de99648d38cf663bba9d" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_ed7e63adde83be8a9ef73ff2eb084376" parent="aspace_5c6df9ba8860de99648d38cf663bba9d" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_26c8d823cc426337e98a5875874af98e" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="1996/1996">1996</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_8c50368e3236316e278c81882680cde7" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_44b77f32e5ca6c3890f00067b7f9bf18" parent="aspace_8c50368e3236316e278c81882680cde7" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_4a79b7dcc82e3227a23053d50b68fd38" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="1998/1998">1998</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_bd17c90708a0bc817f7d40a84189be4c" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_3bff72d5e0cbd5ddcbd344e379a71aa4" parent="aspace_bd17c90708a0bc817f7d40a84189be4c" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_0083e6ba57444a5eeecb8073f6ed0e1b" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="1999/1999">1999</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_3684c19e6074599b2e4b827cf75bf9f6" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_bd00c26fdf1e504a5f410d604e8c8d8c" parent="aspace_3684c19e6074599b2e4b827cf75bf9f6" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_0863d6b7653970a0d2ad97c43edf20dc" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="2003/2003">2003</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_dd904aba317a30f6037e7422d9eabb65" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_4a65e329be7ef31633a5b743caaef3cf" parent="aspace_dd904aba317a30f6037e7422d9eabb65" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_c0c3b89dfdfd5288547a22d7dc88af7a" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="2004/2004">2004</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_98023b18bb662d1f08aebdba34f76678" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_8d8fea0ab012949d372af44cb0df6fe0" parent="aspace_98023b18bb662d1f08aebdba34f76678" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_2f9d739deb4793af04deba3660b184b3" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="2006/2006">2006</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_b7a734818b7aac35c5702b76dde9d86a" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_618999efa24c80e7969b66b33103224a" parent="aspace_b7a734818b7aac35c5702b76dde9d86a" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_9bc1be30c6bd525e5fd57d6d55fee9b5" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="2007/2007">2007</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_af57be1da37669d0e3d39d00f976b992" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_d9b29d042471df2ee77423d91d490b7d" parent="aspace_af57be1da37669d0e3d39d00f976b992" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_153964f2ed7955a0b77d0175c17bdf7f" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="2008/2008">2008</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_d62ccdbc7c63ea8d00ac443559117a61" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_a832176ddd4d20dd08f99cc54324488c" parent="aspace_d62ccdbc7c63ea8d00ac443559117a61" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_01cb90d74d9a087c5f3bde172356cbcc" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="2009/2009">2009</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_d407fa496cec5e16d5223881d3252b1b" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_a63e233f3bf537c70c3e8800afadece1" parent="aspace_d407fa496cec5e16d5223881d3252b1b" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_c22249406a832a2364df614db2318d1f" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="2010/2010">2010</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_fbfe112866ccfcaad94ff472d6efbe6e" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_780ee48b80124cf6cd084ec2a6606ed9" parent="aspace_fbfe112866ccfcaad94ff472d6efbe6e" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_9fe08753c8fd359447d7ce9a00f5b417" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="2011/2011">2011</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_b4cd270746e04bddd277db99397b36d0" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_493496a2db1c3e895cc3112419719c8d" parent="aspace_b4cd270746e04bddd277db99397b36d0" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_721bb2fb4471ca874bf45ae73c4de441" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="2012/2012">2012</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_afef78fb398c5805551e8051fbc69e64" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_f83f53459e42b6b7c366e64cd49573fd" parent="aspace_afef78fb398c5805551e8051fbc69e64" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_aef517c239bae5066aa6eccdbeb8f6f4" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="2013/2013">2013</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_89a93615a8be9e9366e521d5c1242d31" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_eb5c5d865a4f6a5df8a8342f5704a7e4" parent="aspace_89a93615a8be9e9366e521d5c1242d31" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_c645ecc99f53f87f0fad6c44a9300d3a" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_5d89b6e8d60457928f10e0edc4e1b2fc" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_ce285a253428c8d3947d8c601c3af82d" parent="aspace_5d89b6e8d60457928f10e0edc4e1b2fc" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_aa4c29a8d665bd74839f6ebfe3e79e36" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="2015/2015">2015</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_073262d55454f06f2caec16abeb8e730" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_a5b3f27adf7dcbbc27abf1a229a6d8b8" parent="aspace_073262d55454f06f2caec16abeb8e730" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_9efc41ecb784062df7a7acd2b8f7539c" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate normal="2016/2016">2016</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_67a6d445d7d110ea6bda66e01dbf2b6a" label="Mixed Materials [31142063073988]" type="box">6</container>
+            <container id="aspace_ca1650669de764b2c1c34977040db967" parent="aspace_67a6d445d7d110ea6bda66e01dbf2b6a" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_8eedc16d1c8c94ef9ef8df9ff1b1c744" level="file">
+          <did>
+            <unittitle>Flyers, Clippings, and Ephemera</unittitle>
+            <unitdate>undated</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_80bc3d5f4b7f3f74b520ef9327d2a088" label="Mixed Materials [31142063073996]" type="box">3</container>
+            <container id="aspace_41b845776baee1f1a65d528df39d24c3" parent="aspace_80bc3d5f4b7f3f74b520ef9327d2a088" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_c1040d5f83630c7dd7ccdce1cb3a24ec" level="file">
+          <did>
+            <unittitle>Photos </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_a684225fec42bf5a85b06b1f4f8994f8" label="photographs [31142063073996]" type="box">3</container>
+            <container id="aspace_301f3ea8413a657a6a3ea5e9e027394a" parent="aspace_a684225fec42bf5a85b06b1f4f8994f8" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_923b174861ea3cb21a9678857d63fe20" level="file">
+          <did>
+            <unittitle>Joanne Landy on American Public Health Association</unittitle>
+            <unitdate normal="1980-12/1980-12">1980-12</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_67419e7dd5909384717a139ead7d5ad3" label="Mixed Materials [31142063073996]" type="box">3</container>
+            <container id="aspace_c745667d3ca38887a949bc8ab2791d59" parent="aspace_67419e7dd5909384717a139ead7d5ad3" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_aac4cd6384dc16c0bdb819d641dc6c7f" level="file">
+          <did>
+            <unittitle>Joanne Landy on Tuberculosis</unittitle>
+            <unitdate normal="1980-05-15/1980-05-15">1980-05-15</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_fd98f1814f6e8a3290b01ca6ee5f0696" label="Mixed Materials [31142063073996]" type="box">3</container>
+            <container id="aspace_78661b0297f2990df2e68108f4e2a872" parent="aspace_fd98f1814f6e8a3290b01ca6ee5f0696" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_b13425e4c115003159bbe701292af320" level="file">
+          <did>
+            <unittitle>Joanne Landy on Polish Healthcare</unittitle>
+            <unitdate normal="1982/1982">1982</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_75151170c656eeab80bcd70ecbb6b5b3" label="Mixed Materials [31142063073996]" type="box">3</container>
+            <container id="aspace_9f8706ba23c22458cc7e78751ca0215d" parent="aspace_75151170c656eeab80bcd70ecbb6b5b3" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ae7017e52d71f77f366cfd3bf9418be1" level="file">
+          <did>
+            <unittitle>MacArthur Proposal </unittitle>
+            <unitdate normal="1990/1990">1990</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_bd9f6080972d71fce723c648a8a2fa8f" label="Mixed Materials [31142063073996]" type="box">3</container>
+            <container id="aspace_9a7642c747fb4db7f9da43d1a205b4d1" parent="aspace_bd9f6080972d71fce723c648a8a2fa8f" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ece8cf254105cd7257c63c8bd6e62d95" level="file">
+          <did>
+            <unittitle>MacArthur Grant</unittitle>
+            <unitdate normal="1986/1995" type="inclusive">1986-1995</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_a82cea4c351e81ee7bc98d74a9c3abae" label="Mixed Materials [31142063073996]" type="box">3</container>
+            <container id="aspace_b6eb865a1d20699e3adbfd9a16912706" parent="aspace_a82cea4c351e81ee7bc98d74a9c3abae" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_d8d211bdfc4565883ec7f951af51efad" level="file">
+          <did>
+            <unittitle>Letters of Support</unittitle>
+            <unitdate normal="1988/1994" type="inclusive">1988-1994</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_c98576e8b2ef30c76706d3bcd4c85af9" label="Mixed Materials [31142063073996]" type="box">3</container>
+            <container id="aspace_7879c381de4ad07e7560f89530374cc2" parent="aspace_c98576e8b2ef30c76706d3bcd4c85af9" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_0bb93df847aba714dba5f124f608c74a" level="file">
+          <did>
+            <unittitle>Untitled Audio Cassettes</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_4d5fee5d50585fbf4f04442075892bcf" label="sound cassettes (audiocassette) [31142063341476]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_86c585af3587fb9fd84eb52ed102614e" level="file">
+          <did>
+            <unittitle>Joanne Landy on WBAI Radio</unittitle>
+            <unitdate normal="1987-03-23/1987-03-23">1987-03-23</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_c3e91ee03a8e930e1cfcfe07c36ba16d" label="sound cassettes (audiocassette) [31142063341476]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_a08e0473e39b1de71ebee97462c4e695" level="file">
+          <did>
+            <unittitle>Joanne Landy on Poland </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_e3bb7ae69bd5d3f2e6483103061a07c1" label="sound cassettes (audiocassette) [31142063341476]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_e696cb568fcc21f1ee290f98c681e3fb" level="file">
+          <did>
+            <unittitle>Joanne Landy on Bob Grant Program</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_b02bdbfbc32ff8896aa1ff667df1bd9b" label="sound cassettes (audiocassette) [31142063341476]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_57c34560e70ee9256283594cd768c906" level="file">
+          <did>
+            <unittitle>Joanne Landy</unittitle>
+            <unitdate normal="1984-12-01/1984-12-01">1984-12-01</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_2de1941ef04f27205830c33b08981915" label="sound cassettes (audiocassette) [31142063341476]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_0bd65b7d477f4346fbd8224410927b67" level="file">
+          <did>
+            <unittitle>"Solidarity"</unittitle>
+            <unitdate normal="1981-11-08/1981-11-08">1981-11-08</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_34e41473361fa3a058151259cb521857" label="sound cassettes (audiocassette) [31142063341476]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_90afa9b581a7c58ecdb9f5af4e493d17" level="file">
+          <did>
+            <unittitle>Discussion Tape</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_ab1b59f12553fd666757c6eb64f3ec2e" label="sound cassettes (audiocassette) [31142063341476]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_4de00196afb708f22433f3ac1c75f474" level="file">
+          <did>
+            <unittitle>Rally at Palazzo delle Esposizioni</unittitle>
+            <unitdate normal="2011-10/2011-10">2011-10</unitdate>
+            <langmaterial><language langcode="ita" scriptcode="Latn">Italian</language>.</langmaterial>
+            <container id="aspace_4c92aa88558c3f88b4afd62c9e9450a5" label="electronic records" type="box">Electronic Records</container>
+            <container id="aspace_17b0d8dbda75844f06760574cb1c26a7" parent="aspace_4c92aa88558c3f88b4afd62c9e9450a5" type="E-records">TW_TAM_785_ER_1</container>
+            <dao xlink:actuate="onLoad" xlink:href=" https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/tam_785.xml&amp;view=xml" xlink:role="electronic-records-service" xlink:show="new" xlink:title="Rally at Palazzo delle Esposizioni" xlink:type="simple">
+              <daodesc>
+                <p>Rally at Palazzo delle Esposizioni: 2011-10-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_7aaec3924dc4ddfc39861fa5f2f02004" level="file">
+          <did>
+            <unittitle>Turning the Tide Presentation by Friends for a Nonviolent World</unittitle>
+            <unitdate normal="2009-02-21/2009-02-21">2009-02-21</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container id="aspace_be2fe4bbf5cf7c17bc74499eb7b69523" label="electronic records" type="box">Electronic Records</container>
+            <container id="aspace_5fe32407668a747a9ced2947b85e6cc7" parent="aspace_be2fe4bbf5cf7c17bc74499eb7b69523" type="E-records">TW_TAM_785_ER_2</container>
+            <dao xlink:actuate="onLoad" xlink:href=" https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/tam_785.xml&amp;view=xml" xlink:role="electronic-records-service" xlink:show="new" xlink:title="Turning the Tide Presentation" xlink:type="simple">
+              <daodesc>
+                <p>Turning the Tide Presentation: 2009-2-21-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

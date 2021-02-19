@@ -1,74 +1,308 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_158">alba_158</eadid><filedesc><titlestmt><titleproper>Guide to the James I. Loeb Papers <num>ALBA.158</num></titleproper><author>Wendy Scheir</author></titlestmt><editionstmt><p>This version was derived from loeb.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:35:19 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>James I. Loeb Papers</unittitle>
-    <origination label="Creator">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_158">alba_158</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the James I. Loeb Papers <num>ALBA.158</num></titleproper>
+        <author>Wendy Scheir</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from loeb.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:35:19 -0500</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>James I. Loeb Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Loeb, James I. (James Isaac), 1908-</persname>
+      </origination>
+      <unitid>ALBA.158</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+        <extent altrender="carrier">in 1 manscript box</extent>
+      </physdesc>
+      <unitdate normal="1937/1963" type="inclusive">1937-1963</unitdate>
+      <unitdate normal="1939/1939" type="bulk">1939</unitdate>
+      <abstract id="aspace_f5209adbe25ceb954ec6fb6f3e09dd53">James Isaac Loeb (1908-1992), began his career of public service as a member of the Socialist Party, supporting the antifascist effort in Spain during the Spanish Civil War and leading efforts to aid refugees. The collection consists predominantly of correspondence documenting Loeb's efforts to coordinate international aid for refugees, as well as his analyses of international and inter-party politics.</abstract>
+      <langmaterial id="aspace_844b853858d9a701701df981b2542828">Materials are in English.</langmaterial>
+    </did>
+    <custodhist id="aspace_c4c27166d5401af8d286b0ed0cc53086">
+      <head>Custodial History</head>
+      <p>The James I. Loeb Papers were donated to Abraham Lincoln Brigade Archives by James I. Loeb in 1969 and 1970. This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>
+    </custodhist>
+    <accessrestrict id="aspace_3e2d461c1dd069a29f7b1ebeed83293e">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </accessrestrict>
+    <bioghist id="aspace_09007ce0a6d9a2a791be1db0f597312c">
+      <head>Historical/Biographical Note</head>
+      <p>James Isaac Loeb (1908-1992) was born in Illinois. After receiving his Ph.D. from Northwestern University in 1938, Loeb moved to New York City with his wife, Ellen. There, Loeb's belief in the Spanish republican cause and his passionate desire to combat totalitarianism led him into political activism, beginning what turned into a career of public service.</p>
+      <p>A member of the International Labor Solidarity Committee of the Socialist Party, Loeb grew to detest the factionalism that he felt was damaging the unity and effectiveness of many progressive efforts, and during this period he became a sharp critic of the Communist Party. Despite his disaffection, Loeb continued working to gain freedom for Spanish political prisoners and to provide support to refugees. Fluent in Spanish and French, he traveled to Europe to meet with Socialist and other progressive leaders.</p>
+      <p>In 1941, Loeb co-founded and directed the Union for Democratic Action, and in 1947 he co-founded Americans for Democratic Action. From 1951-1952, Loeb was consultant to President Truman's special counsel. In 1952, he was executive assistant to Governor W. Averell Harriman. From 1961-1962, he was U.S. Ambassador to Peru, and Ambassador to Guinea from 1963-1965.</p>
+      <p>Sources:</p>
+      <p>
+        <list>
+          <item>Oral History Interviews with James I. Loeb, Truman Presidential Museum and Library</item>
+          <item>The Papers of James I. Loeb, Dartmouth College Library</item>
+        </list>
+      </p>
+    </bioghist>
+    <scopecontent id="aspace_925bdd0f131cdb24bf8eae10e86d4f49">
+      <head>Scope and Content Note</head>
+      <p>The bulk of the collection consists of correspondence documenting Loeb's efforts to coordinate international aid for refugees of the Spanish Civil War, as well as his analyses of international and inter-party politics. Index cards with notes in blue felt tip pen interspersed throughout the collection were probably written by Loeb around 1970 in preparation to donate the materials to the Abraham Lincoln Brigade Archives.</p>
+      <p>In letters to Socialist comrades and others, including Roger Baldwin of the American Civil Liberties Union, Loeb expresses anger and disappointment at the increasing factionalism on the left; this sentiment is borne out as well in a Socialist Party statement declaring withdrawal from the Medical Bureau and North American Committee to Aid Spanish Democracy. In a section of a book proposal, "The Appeal to Unity," Loeb analyzes international political forces at play during and after the Spanish Civil War. Correspondence with Arthur G. McDowell, Acting Executive Secretary of the Socialist Party discusses underground antifascist activity in Spain and Germany.</p>
+      <p>Materials from the 1950s include telegrams from Norman Thomas to Franco, Truman and others regarding the threatened executions of Spanish trade union leaders. Also from this period Thomas writes to the Minister of Justice in Barcelona requesting amnesty for leaders of the communist organization Partido Obrero de Unificación Marxista (P.O.U.M.) who had been arrested and accused of being fascist collaborators, and for the release of Russell Blackwell, an American jailed in Spain.</p>
+    </scopecontent>
+    <arrangement id="aspace_1f196e3a0dccce40ffd4eff98fb6bfe1">
+      <head>Arrangement</head>
+      <p>Folders are arranged alphabetically.</p>
+      <p>The files are grouped into one series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I, Spanish Refugee Aid and Relief</item>
+      </list>
+    </arrangement>
+    <userestrict id="aspace_15d1611c60492e4938a8333e824cc679">
+      <head>Use Restrictions</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </userestrict>
+    <prefercite id="aspace_5ed86578156cf75580e3a97d89ce7266">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; James I. Loeb Papers; ALBA 151; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <controlaccess>
+      <genreform source="aat">Typescripts</genreform>
+      <genreform source="aat">Personal papers.</genreform>
+      <subject source="lcsh">Socialism -- United States.</subject>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Foreign public opinion</geogname>
+      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Sources</geogname>
+      <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Causes.</geogname>
+      <genreform source="aat">Drafts (documents)</genreform>
+      <subject source="lcsh">Communism -- Spain -- History.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Articles.</genreform>
+      <corpname source="naf">Partido Obrero de Unificación Marxista</corpname>
+      <corpname source="naf">North American Committee to Aid Spanish Democracy</corpname>
+      <corpname source="naf">Medical Bureau to Aid Spanish Democracy</corpname>
+      <corpname source="naf">Medical Bureau and North American Committee to Aid Spanish Democracy</corpname>
+      <corpname source="naf">Abraham Lincoln Brigade Archives</corpname>
+      <persname source="naf">Thomas, Norman, 1884-1968</persname>
       <persname source="naf">Loeb, James I. (James Isaac), 1908-</persname>
-    </origination>
-    <unitid>ALBA.158</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
-      <extent altrender="carrier">in 1 manscript box</extent>
-    </physdesc>
-    <unitdate normal="1937/1963" type="inclusive">1937-1963</unitdate>
-    <unitdate normal="1939/1939" type="bulk">1939</unitdate>
-    <abstract id="aspace_f5209adbe25ceb954ec6fb6f3e09dd53">James Isaac Loeb (1908-1992), began his career of public service as a member of the Socialist Party, supporting the antifascist effort in Spain during the Spanish Civil War and leading efforts to aid refugees. The collection consists predominantly of correspondence documenting Loeb's efforts to coordinate international aid for refugees, as well as his analyses of international and inter-party politics.</abstract>
-    <langmaterial id="aspace_844b853858d9a701701df981b2542828">Materials are in English.</langmaterial>
-  </did>
-  <custodhist id="aspace_c4c27166d5401af8d286b0ed0cc53086">
-    <head>Custodial History</head>
-<p>The James I. Loeb Papers were donated to Abraham Lincoln Brigade Archives by James I. Loeb in 1969 and 1970. This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>  </custodhist>
-  <accessrestrict id="aspace_3e2d461c1dd069a29f7b1ebeed83293e">
-    <head>Access Restrictions</head>
-<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
-  <bioghist id="aspace_09007ce0a6d9a2a791be1db0f597312c">
-    <head>Historical/Biographical Note</head>
-<p>James Isaac Loeb (1908-1992) was born in Illinois. After receiving his Ph.D. from Northwestern University in 1938, Loeb moved to New York City with his wife, Ellen. There, Loeb's belief in the Spanish republican cause and his passionate desire to combat totalitarianism led him into political activism, beginning what turned into a career of public service.</p><p>A member of the International Labor Solidarity Committee of the Socialist Party, Loeb grew to detest the factionalism that he felt was damaging the unity and effectiveness of many progressive efforts, and during this period he became a sharp critic of the Communist Party. Despite his disaffection, Loeb continued working to gain freedom for Spanish political prisoners and to provide support to refugees. Fluent in Spanish and French, he traveled to Europe to meet with Socialist and other progressive leaders.</p><p>In 1941, Loeb co-founded and directed the Union for Democratic Action, and in 1947 he co-founded Americans for Democratic Action. From 1951-1952, Loeb was consultant to President Truman's special counsel. In 1952, he was executive assistant to Governor W. Averell Harriman. From 1961-1962, he was U.S. Ambassador to Peru, and Ambassador to Guinea from 1963-1965.</p><p>Sources:</p><p><list><item>Oral History Interviews with James I. Loeb, Truman Presidential Museum and Library</item><item>The Papers of James I. Loeb, Dartmouth College Library</item></list> </p>  </bioghist>
-  <scopecontent id="aspace_925bdd0f131cdb24bf8eae10e86d4f49">
-    <head>Scope and Content Note</head>
-<p>The bulk of the collection consists of correspondence documenting Loeb's efforts to coordinate international aid for refugees of the Spanish Civil War, as well as his analyses of international and inter-party politics. Index cards with notes in blue felt tip pen interspersed throughout the collection were probably written by Loeb around 1970 in preparation to donate the materials to the Abraham Lincoln Brigade Archives.</p><p>In letters to Socialist comrades and others, including Roger Baldwin of the American Civil Liberties Union, Loeb expresses anger and disappointment at the increasing factionalism on the left; this sentiment is borne out as well in a Socialist Party statement declaring withdrawal from the Medical Bureau and North American Committee to Aid Spanish Democracy. In a section of a book proposal, "The Appeal to Unity," Loeb analyzes international political forces at play during and after the Spanish Civil War. Correspondence with Arthur G. McDowell, Acting Executive Secretary of the Socialist Party discusses underground antifascist activity in Spain and Germany.</p><p>Materials from the 1950s include telegrams from Norman Thomas to Franco, Truman and others regarding the threatened executions of Spanish trade union leaders. Also from this period Thomas writes to the Minister of Justice in Barcelona requesting amnesty for leaders of the communist organization Partido Obrero de Unificación Marxista (P.O.U.M.) who had been arrested and accused of being fascist collaborators, and for the release of Russell Blackwell, an American jailed in Spain.</p>  </scopecontent>
-  <arrangement id="aspace_1f196e3a0dccce40ffd4eff98fb6bfe1">
-    <head>Arrangement</head>
-<p>Folders are arranged alphabetically.</p><p>The files are grouped into one series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>I, Spanish Refugee Aid and Relief</item>
-    </list>
-  </arrangement>
-  <userestrict id="aspace_15d1611c60492e4938a8333e824cc679">
-    <head>Use Restrictions</head>
-<p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
-  <prefercite id="aspace_5ed86578156cf75580e3a97d89ce7266">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; James I. Loeb Papers; ALBA 151; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <controlaccess>
-    <genreform source="aat">Typescripts</genreform>
-    <genreform source="aat">Personal papers.</genreform>
-    <subject source="lcsh">Socialism -- United States.</subject>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Foreign public opinion</geogname>
-    <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Sources</geogname>
-    <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Causes.</geogname>
-    <genreform source="aat">Drafts (documents)</genreform>
-    <subject source="lcsh">Communism -- Spain -- History.</subject>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Articles.</genreform>
-    <corpname source="naf">Partido Obrero de Unificación Marxista</corpname>
-    <corpname source="naf">North American Committee to Aid Spanish Democracy</corpname>
-    <corpname source="naf">Medical Bureau to Aid Spanish Democracy</corpname>
-    <corpname source="naf">Medical Bureau and North American Committee to Aid Spanish Democracy</corpname>
-    <corpname source="naf">Abraham Lincoln Brigade Archives</corpname>
-    <persname source="naf">Thomas, Norman, 1884-1968</persname>
-    <persname source="naf">Loeb, James I. (James Isaac), 1908-</persname>
-    <corpname source="naf">Socialist Party (U.S.)</corpname>
-    <persname source="naf">Baldwin, Roger Nash, 1884-1981</persname>
-    <persname source="naf">McDowell, Arthur G.</persname>
-    <persname rules="dacs" source="local">Meiklejohn, Kenneth</persname>
-    <persname source="naf">Ríos, Fernando de los, 1879-1949</persname>
-    <persname rules="dacs" source="local">Schneebaum, Nandor</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref14" level="series"><did><unittitle>Series I: Spanish Refugee Aid and Relief</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref15" level="file"><did><unittitle>The Appeal to Unity: Section of book proposal by Loeb (typescript)</unittitle><unitdate normal="1953/1973" type="inclusive">ca.1963</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_bc9f72a2666b94b739a00adaf23aa92b" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_c5a8cccef7264294608e288e1b7d25f7" parent="aspace_bc9f72a2666b94b739a00adaf23aa92b" type="folder">1</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Bibliography: Spanish Civil War material</unittitle><unitdate normal="1937/1963" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5111645a050a5470c646e72b6eaa4eb7" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_784264c24f1868b744368428789f51d7" parent="aspace_5111645a050a5470c646e72b6eaa4eb7" type="folder">2</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1938/1939" type="inclusive">1938-1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f01992284f07b3e31abaae42018ab0a0" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_004341a565b20d13045da2f876dd6efb" parent="aspace_f01992284f07b3e31abaae42018ab0a0" type="folder">3</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Correspondence: Argentine Socialist Party</unittitle><unitdate>Feb 1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0723db1ec816d53a74bcb2ead82c13fa" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_10b20c0e78720ae95590fdc00b444f68" parent="aspace_0723db1ec816d53a74bcb2ead82c13fa" type="folder">4</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Correspondence: Baldwin, Roger</unittitle><unitdate>Feb 1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c807f2965954505cd6b8359570307822" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_7a69d24d25ac52b268eafa98c48a3a3c" parent="aspace_c807f2965954505cd6b8359570307822" type="folder">5</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Correspondence: Castro, José</unittitle><unitdate>Feb 1939-Mar 1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_53d323a4769b533d331f589b689d0590" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_986fb6a73b540789b02e2c884006f4f5" parent="aspace_53d323a4769b533d331f589b689d0590" type="folder">6</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Correspondence: General</unittitle><unitdate normal="1937/1963" type="inclusive">undated , Feb 1937-Apr 1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_11a445cbb85b2a66151bf27131cd5ba1" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_9aae2ee37fefecb83820588e08384633" parent="aspace_11a445cbb85b2a66151bf27131cd5ba1" type="folder">7</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Correspondence: Letters to the Editor</unittitle><unitdate normal="1937/1963" type="inclusive">undated , May 1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0237d693d11578c5228f711b4c3b071c" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_04254f389318989af52a5971a11fd132" parent="aspace_0237d693d11578c5228f711b4c3b071c" type="folder">8</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Correspondence: McDowell, Arthur G.</unittitle><unitdate>Mar 1939-Apr 1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a6139966276db713633d1bb2775afb7d" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_e2c65e6f99c6c6a1fc9d3a33e43cc413" parent="aspace_a6139966276db713633d1bb2775afb7d" type="folder">9</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Correspondence: Meiklejohn, Kenneth</unittitle><unitdate normal="1937/1963" type="inclusive">undated , Jan 1938, Jan 1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0f973f7a39699ce070b174d5d535e49d" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_cdd281f0b27462464a30786be664227b" parent="aspace_0f973f7a39699ce070b174d5d535e49d" type="folder">10</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Correspondence: Plaza, Juan M.</unittitle><unitdate>Mar 1939-May 1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_749d6d430228c4a8a511f2e78a6e9e57" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_7aecdf3a286911312c54b86fbd4fa243" parent="aspace_749d6d430228c4a8a511f2e78a6e9e57" type="folder">11</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Correspondence: Ríos, Fernando de los</unittitle><unitdate normal="1937/1963" type="inclusive">undated , Jan 1937, Apr 1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f16c760f758755526e8f20b16e2de96c" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_311de1b7a8116ec67e901cb1b97c0135" parent="aspace_f16c760f758755526e8f20b16e2de96c" type="folder">12</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Correspondence: Schneebaum, Nandor</unittitle><unitdate>Mar 1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ee0bd9392f5fdc4f92ac9754362d4e60" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_a2d21047d6c498c013053c7405d226af" parent="aspace_ee0bd9392f5fdc4f92ac9754362d4e60" type="folder">13</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Correspondence: Spanish Civil War refugees</unittitle><unitdate>Feb 1938-Apr 1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_790ab9542d3eb030d3e89ea36c70e2e5" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_fda3ec6c243d9400cdcd143b9db0d0bb" parent="aspace_790ab9542d3eb030d3e89ea36c70e2e5" type="folder">14</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Correspondence: Thomas, Norman</unittitle><unitdate>Dec 1937-Apr 1939 , Mar 1952</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_29bc642c85dd9523040ba1ed0f84525a" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_f9edb4592ee03f928a62711fa52842e5" parent="aspace_29bc642c85dd9523040ba1ed0f84525a" type="folder">15</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>International Labor Solidarity Committee of the Socialist Party: Minutes</unittitle><unitdate>Nov 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_eecee04a90c937fea446daccf5cd9c60" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_b78c9dd009a5b4c0e8fd5932d57ca27d" parent="aspace_eecee04a90c937fea446daccf5cd9c60" type="folder">16</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Medical Bureau and North American Committee to Aid Spanish Democracy: Flyers</unittitle><unitdate>Apr 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2d96901a542bd58b1e4a575bd6276253" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_6b79bde4fb0701d2d4ec4a2066a9cc35" parent="aspace_2d96901a542bd58b1e4a575bd6276253" type="folder">17</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Medical Bureau and North American Committee to Aid Spanish Democracy: Socialist statement of withdrawal from (typescript)</unittitle><unitdate normal="1929/1949" type="inclusive">ca.1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4340017d9c66f1a468bd392d80d63164" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_3e84aa08b7800171b35681f00cd90ed6" parent="aspace_4340017d9c66f1a468bd392d80d63164" type="folder">18</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Newsletters (in Spanish): Boletín Interior; Confederacion Naccional del Trabajo</unittitle><unitdate normal="1937/1939" type="inclusive">1937 , 1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_35654411f471c89748c8e4a6f558ee98" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_671f6b185e8f5382ea5ab12a96e6d1ee" parent="aspace_35654411f471c89748c8e4a6f558ee98" type="folder">19</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Spain's Tragedy: Socialist Party statement on political situation in Spain</unittitle><unitdate normal="1939/1939" type="inclusive">1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_749c4fd736fb7b112cfe0f4e6f7ae0ab" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_861e450bb41aa815463610d730c43464" parent="aspace_749c4fd736fb7b112cfe0f4e6f7ae0ab" type="folder">20</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Spanish Embassy in France: Authorization for Loeb's travel to Spain</unittitle><unitdate>Aug 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f02607461d93145fc43e1a3254254bd9" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_6c2754d144badfbfe81e2f34da9a4b14" parent="aspace_f02607461d93145fc43e1a3254254bd9" type="folder">21</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Spanish Civil War refugees: Statements regarding</unittitle><unitdate normal="1929/1961" type="inclusive">ca.1939 , ca.1951</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_87d6b50e05d6a72b943b7a2bde5efd8b" label="Mixed Materials [31142062757029]" type="box">1</container><container id="aspace_47fc9e6481955f5f548b0c55ed734259" parent="aspace_87d6b50e05d6a72b943b7a2bde5efd8b" type="folder">22</container></did></c></c></dsc>
-</archdesc>
+      <corpname source="naf">Socialist Party (U.S.)</corpname>
+      <persname source="naf">Baldwin, Roger Nash, 1884-1981</persname>
+      <persname source="naf">McDowell, Arthur G.</persname>
+      <persname rules="dacs" source="local">Meiklejohn, Kenneth</persname>
+      <persname source="naf">Ríos, Fernando de los, 1879-1949</persname>
+      <persname rules="dacs" source="local">Schneebaum, Nandor</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref14" level="series">
+        <did>
+          <unittitle>Series I: Spanish Refugee Aid and Relief</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>The Appeal to Unity: Section of book proposal by Loeb (typescript)</unittitle>
+            <unitdate normal="1953/1973" type="inclusive">ca.1963</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_bc9f72a2666b94b739a00adaf23aa92b" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_c5a8cccef7264294608e288e1b7d25f7" parent="aspace_bc9f72a2666b94b739a00adaf23aa92b" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Bibliography: Spanish Civil War material</unittitle>
+            <unitdate normal="1937/1963" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_5111645a050a5470c646e72b6eaa4eb7" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_784264c24f1868b744368428789f51d7" parent="aspace_5111645a050a5470c646e72b6eaa4eb7" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate normal="1938/1939" type="inclusive">1938-1939</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_f01992284f07b3e31abaae42018ab0a0" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_004341a565b20d13045da2f876dd6efb" parent="aspace_f01992284f07b3e31abaae42018ab0a0" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Correspondence: Argentine Socialist Party</unittitle>
+            <unitdate>Feb 1939</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_0723db1ec816d53a74bcb2ead82c13fa" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_10b20c0e78720ae95590fdc00b444f68" parent="aspace_0723db1ec816d53a74bcb2ead82c13fa" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Correspondence: Baldwin, Roger</unittitle>
+            <unitdate>Feb 1939</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_c807f2965954505cd6b8359570307822" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_7a69d24d25ac52b268eafa98c48a3a3c" parent="aspace_c807f2965954505cd6b8359570307822" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Correspondence: Castro, José</unittitle>
+            <unitdate>Feb 1939-Mar 1939</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_53d323a4769b533d331f589b689d0590" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_986fb6a73b540789b02e2c884006f4f5" parent="aspace_53d323a4769b533d331f589b689d0590" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Correspondence: General</unittitle>
+            <unitdate normal="1937/1963" type="inclusive">undated , Feb 1937-Apr 1939</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_11a445cbb85b2a66151bf27131cd5ba1" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_9aae2ee37fefecb83820588e08384633" parent="aspace_11a445cbb85b2a66151bf27131cd5ba1" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Correspondence: Letters to the Editor</unittitle>
+            <unitdate normal="1937/1963" type="inclusive">undated , May 1939</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_0237d693d11578c5228f711b4c3b071c" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_04254f389318989af52a5971a11fd132" parent="aspace_0237d693d11578c5228f711b4c3b071c" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Correspondence: McDowell, Arthur G.</unittitle>
+            <unitdate>Mar 1939-Apr 1939</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_a6139966276db713633d1bb2775afb7d" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_e2c65e6f99c6c6a1fc9d3a33e43cc413" parent="aspace_a6139966276db713633d1bb2775afb7d" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Correspondence: Meiklejohn, Kenneth</unittitle>
+            <unitdate normal="1937/1963" type="inclusive">undated , Jan 1938, Jan 1939</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_0f973f7a39699ce070b174d5d535e49d" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_cdd281f0b27462464a30786be664227b" parent="aspace_0f973f7a39699ce070b174d5d535e49d" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Correspondence: Plaza, Juan M.</unittitle>
+            <unitdate>Mar 1939-May 1939</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_749d6d430228c4a8a511f2e78a6e9e57" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_7aecdf3a286911312c54b86fbd4fa243" parent="aspace_749d6d430228c4a8a511f2e78a6e9e57" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Correspondence: Ríos, Fernando de los</unittitle>
+            <unitdate normal="1937/1963" type="inclusive">undated , Jan 1937, Apr 1939</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_f16c760f758755526e8f20b16e2de96c" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_311de1b7a8116ec67e901cb1b97c0135" parent="aspace_f16c760f758755526e8f20b16e2de96c" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Correspondence: Schneebaum, Nandor</unittitle>
+            <unitdate>Mar 1939</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_ee0bd9392f5fdc4f92ac9754362d4e60" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_a2d21047d6c498c013053c7405d226af" parent="aspace_ee0bd9392f5fdc4f92ac9754362d4e60" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Correspondence: Spanish Civil War refugees</unittitle>
+            <unitdate>Feb 1938-Apr 1939</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_790ab9542d3eb030d3e89ea36c70e2e5" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_fda3ec6c243d9400cdcd143b9db0d0bb" parent="aspace_790ab9542d3eb030d3e89ea36c70e2e5" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Correspondence: Thomas, Norman</unittitle>
+            <unitdate>Dec 1937-Apr 1939 , Mar 1952</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_29bc642c85dd9523040ba1ed0f84525a" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_f9edb4592ee03f928a62711fa52842e5" parent="aspace_29bc642c85dd9523040ba1ed0f84525a" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>International Labor Solidarity Committee of the Socialist Party: Minutes</unittitle>
+            <unitdate>Nov 1938</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_eecee04a90c937fea446daccf5cd9c60" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_b78c9dd009a5b4c0e8fd5932d57ca27d" parent="aspace_eecee04a90c937fea446daccf5cd9c60" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Medical Bureau and North American Committee to Aid Spanish Democracy: Flyers</unittitle>
+            <unitdate>Apr 1938</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_2d96901a542bd58b1e4a575bd6276253" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_6b79bde4fb0701d2d4ec4a2066a9cc35" parent="aspace_2d96901a542bd58b1e4a575bd6276253" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Medical Bureau and North American Committee to Aid Spanish Democracy: Socialist statement of withdrawal from (typescript)</unittitle>
+            <unitdate normal="1929/1949" type="inclusive">ca.1939</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_4340017d9c66f1a468bd392d80d63164" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_3e84aa08b7800171b35681f00cd90ed6" parent="aspace_4340017d9c66f1a468bd392d80d63164" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Newsletters (in Spanish): Boletín Interior; Confederacion Naccional del Trabajo</unittitle>
+            <unitdate normal="1937/1939" type="inclusive">1937 , 1939</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_35654411f471c89748c8e4a6f558ee98" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_671f6b185e8f5382ea5ab12a96e6d1ee" parent="aspace_35654411f471c89748c8e4a6f558ee98" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Spain's Tragedy: Socialist Party statement on political situation in Spain</unittitle>
+            <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_749c4fd736fb7b112cfe0f4e6f7ae0ab" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_861e450bb41aa815463610d730c43464" parent="aspace_749c4fd736fb7b112cfe0f4e6f7ae0ab" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Spanish Embassy in France: Authorization for Loeb's travel to Spain</unittitle>
+            <unitdate>Aug 1938</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_f02607461d93145fc43e1a3254254bd9" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_6c2754d144badfbfe81e2f34da9a4b14" parent="aspace_f02607461d93145fc43e1a3254254bd9" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Spanish Civil War refugees: Statements regarding</unittitle>
+            <unitdate normal="1929/1961" type="inclusive">ca.1939 , ca.1951</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_87d6b50e05d6a72b943b7a2bde5efd8b" label="Mixed Materials [31142062757029]" type="box">1</container>
+            <container id="aspace_47fc9e6481955f5f548b0c55ed734259" parent="aspace_87d6b50e05d6a72b943b7a2bde5efd8b" type="folder">22</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

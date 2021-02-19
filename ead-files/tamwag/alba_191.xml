@@ -1,87 +1,981 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_191/">alba_191</eadid><filedesc><titlestmt><titleproper>Guide to the Robert Hale Merriman and Marion Merriman Papers <num>ALBA.191</num></titleproper><author>Processed by Susan Tofte, 2007</author></titlestmt><editionstmt><p>Merriman, Robert ALBA #191.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:35:27 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>January 2017</date><item>Edited by Heather Mulliner to include 2016 accretion.</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Robert Hale Merriman and Marion Merriman Papers</unittitle>
-    <origination label="Creator">
-      <persname source="naf">Merriman, Marion, 1909-</persname>
-    </origination>
-    <origination label="Creator">
-      <persname source="naf">Merriman, Robert Hale</persname>
-    </origination>
-    <unitid>ALBA.191</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">8 Linear Feet</extent>
-      <extent altrender="carrier">in 5 record boxes and 4 oversized flat boxes.</extent>
-    </physdesc>
-    <unitdate normal="1922/1993" type="inclusive">1922-1993</unitdate>
-    <unitdate normal="1934/1989" type="bulk">1934-1989</unitdate>
-    <abstract id="aspace_9f5b5d6d49172f3731db2cc33f56f0b2">Robert Hale Merriman (1908-1938) and his wife Marion Merriman (later Wachtel) served with the Abraham Lincoln Brigade in the Spanish Civil War. Robert served as first commander of the Lincolns and rose to the rank of chief of staff of the 15th International Brigade. Marion served the Brigade as a volunteer in several capacities. In November 1937, Marion returned to the United States to raise money for war by making speeches at rallies across the country. Robert disappeared during an ambush at Corbera (Ebro Valley) and his body was never found. Marion became active in the Bay Area Chapter of Veterans of the Abraham Lincoln Brigade (VALB). Later in her life, she co-wrote <title render="italic">American Commander in Spain: Robert Hale Merriman and the Abraham Lincoln Brigade</title>with journalist Warren Lerude. Robert Jordan, the main character in For Whom the Bell Tolls – Ernest Hemingway's Spanish Civil War novel – was apparently modeled after Robert Merriman. This collection contains a small amount of material from the Spanish Civil War, including letters from Robert to Marion before Marion joined him in Spain and two diaries he kept in Spain. The bulk of the collection consists of organizational materials documenting Marion's involvement in the Bay Area chapter of VALB. Three typescript versions of <title render="italic">American Commander in Spain</title>and additional material related to the writing of the book are also included.</abstract>
-    <langmaterial id="aspace_e474560d0e7654d5e141ed413aa991c7">Materials are in English.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_4fa67cc24db2c612cf24c55392b3e04d">
-    <head>Access Restrictions</head>
-<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
-  <acqinfo id="aspace_596970061b84ec635213a6abe9f1f92e">
-    <head>Immediate Source of Acquisition</head>
-<p>The Robert Hale Merriman and Marion Merriman Papers (.25 ft.) were first donated to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University. The remaining Merriman papers held by the Abraham Lincoln Brigade Archives (ALBA) were donated to Tamiment, via Peter Carroll in June 2006. The accession number associated with both of these donations is 2001.145. In 2015, Joe Wachtel sent 4 boxes of artifacts and clothing in 2015. The accession number associated with this gift is 2015.060. Joe Wachtel sent an additional 3 boxes of correspondence, clippings, and photographs in 2016. The accession number associated with this gift is 2016.071.</p>  </acqinfo>
-  <arrangement id="aspace_769d6814a3098cd2ef10978c33493b8a">
-    <head>Arrangement</head>
-<p>Folders in series I-IV are arranged alphabetically. Materials in Series V: 2016 Accretion have not been arranged by an archivist and are in the order in which they were received from the donor.  </p><p>The series arrangement of the collection is as follows:</p><p>Series I: Spanish Civil War and Earlier, 1932-1937.
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_191/">alba_191</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Robert Hale Merriman and Marion Merriman Papers <num>ALBA.191</num></titleproper>
+        <author>Processed by Susan Tofte, 2007</author>
+      </titlestmt>
+      <editionstmt>
+        <p>Merriman, Robert ALBA #191.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:35:27 -0500</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>January 2017</date>
+        <item>Edited by Heather Mulliner to include 2016 accretion.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Robert Hale Merriman and Marion Merriman Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Merriman, Marion, 1909-</persname>
+      </origination>
+      <origination label="Creator">
+        <persname source="naf">Merriman, Robert Hale</persname>
+      </origination>
+      <unitid>ALBA.191</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">8 Linear Feet</extent>
+        <extent altrender="carrier">in 5 record boxes and 4 oversized flat boxes.</extent>
+      </physdesc>
+      <unitdate normal="1922/1993" type="inclusive">1922-1993</unitdate>
+      <unitdate normal="1934/1989" type="bulk">1934-1989</unitdate>
+      <abstract id="aspace_9f5b5d6d49172f3731db2cc33f56f0b2">Robert Hale Merriman (1908-1938) and his wife Marion Merriman (later Wachtel) served with the Abraham Lincoln Brigade in the Spanish Civil War. Robert served as first commander of the Lincolns and rose to the rank of chief of staff of the 15th International Brigade. Marion served the Brigade as a volunteer in several capacities. In November 1937, Marion returned to the United States to raise money for war by making speeches at rallies across the country. Robert disappeared during an ambush at Corbera (Ebro Valley) and his body was never found. Marion became active in the Bay Area Chapter of Veterans of the Abraham Lincoln Brigade (VALB). Later in her life, she co-wrote <title render="italic">American Commander in Spain: Robert Hale Merriman and the Abraham Lincoln Brigade</title>with journalist Warren Lerude. Robert Jordan, the main character in For Whom the Bell Tolls – Ernest Hemingway's Spanish Civil War novel – was apparently modeled after Robert Merriman. This collection contains a small amount of material from the Spanish Civil War, including letters from Robert to Marion before Marion joined him in Spain and two diaries he kept in Spain. The bulk of the collection consists of organizational materials documenting Marion's involvement in the Bay Area chapter of VALB. Three typescript versions of <title render="italic">American Commander in Spain</title>and additional material related to the writing of the book are also included.</abstract>
+      <langmaterial id="aspace_e474560d0e7654d5e141ed413aa991c7">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_4fa67cc24db2c612cf24c55392b3e04d">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_596970061b84ec635213a6abe9f1f92e">
+      <head>Immediate Source of Acquisition</head>
+      <p>The Robert Hale Merriman and Marion Merriman Papers (.25 ft.) were first donated to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University. The remaining Merriman papers held by the Abraham Lincoln Brigade Archives (ALBA) were donated to Tamiment, via Peter Carroll in June 2006. The accession number associated with both of these donations is 2001.145. In 2015, Joe Wachtel sent 4 boxes of artifacts and clothing in 2015. The accession number associated with this gift is 2015.060. Joe Wachtel sent an additional 3 boxes of correspondence, clippings, and photographs in 2016. The accession number associated with this gift is 2016.071.</p>
+    </acqinfo>
+    <arrangement id="aspace_769d6814a3098cd2ef10978c33493b8a">
+      <head>Arrangement</head>
+      <p>Folders in series I-IV are arranged alphabetically. Materials in Series V: 2016 Accretion have not been arranged by an archivist and are in the order in which they were received from the donor.  </p>
+      <p>The series arrangement of the collection is as follows:</p>
+      <p>Series I: Spanish Civil War and Earlier, 1932-1937.
 Series II: Subject Files, 1946-1993.
 Series III: Files relating to American Commander in Spain: Robert Hale Merriman and the Abraham Lincoln Brigade, 1982-1987.
 Series IV: Artifacts, 1922-1933.
-Series V: 2016 Accretion</p>  </arrangement>
-  <bioghist id="aspace_4ff21946a8fc1c713c38cc0d232d7820">
-    <head>Historical/Biographical Note</head>
-<p>Robert Hale Merriman (1908-1938) was a graduate student in economics at the University of California at Berkeley when he became interested in Russian economics. He had met his future wife Marion Stone when both were undergraduates at the University of Nevada; they married on their graduation day, May 9, 1932. The Merrimans moved to Moscow in January 1935. An excursion to Vienna gave Robert and Marion a firsthand view of Nazism and motivated Robert, who had received some basic military training in ROTC as a undergraduate at the University of Nevada, to join the Abraham Lincoln Brigade in 1937. In Spain, Robert trained other U.S. volunteers and eventually rose to the rank of chief of staff of the 15th International Brigade. At first, Marion remained in Moscow, working for a <title render="italic">New York Times</title>correspondent Walter Duranty. She came to Spain in March of 1937 to tend to Robert after he was wounded by a gunshot to the shoulder in the Battle of Jarama. After his recovery, Marion remained in Spain and served the brigade as a clerk. Marion also worked in a hospital, held various staff jobs, collected information for death certificates, and led tours for visiting celebrities. She was eventually promoted to the rank of corporal. In November 1937, Marion returned to the United States to raise money for the cause. She made numerous speeches at rallies across the country and returned to San Francisco in March 1938, where she worked as a secretary for a group raising medical aid for the Loyalists.</p><p>After Robert Merriman disappeared, during an ambush at Corbera (Ebro Valley), conflicting reports stated that he was being held by fascist forces or that he had been killed. Unsuccessful appeals were made urging the U. S. State Department to press for his release, including a petition from UC Berkeley professors and UC President Robert Gordon Sproul. Merriman's body was never found but by 1938 he was presumed dead.</p><p>Marion was eventually remarried, to attorney Emil Wachtel. She had three sons with Wachtel, who died in 1977. She held various jobs throughout her life and continued for many years to be active in the Bay Area Veterans of the Abraham Lincoln Brigade (VALB). She took several trips to Spain after the death of Francisco Franco, and worked strenuously to keep Robert Merriman's memory alive. Later in her life, she co-wrote <title render="italic">American Commander in Spain: Robert Hale Merriman and the Abraham Lincoln Brigade</title>(University of Nevada Press, 1986) with journalist and University of Nevada faculty member Warren Lerude. Robert Jordan, the main character in <title render="italic">For Whom the Bell Tolls</title>– Ernest Hemingway's Spanish Civil War novel – was apparently modeled after Robert Merriman.</p>  </bioghist>
-  <prefercite id="aspace_99c3a6317afe621715f86b6582861a9a">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Robert Hale Merriman and Marion Merriman Papers; ALBA 191; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <scopecontent id="aspace_8858817251f0c3875686f46500a249aa">
-    <head>Scope and Content Note</head>
-<p>This collection contains a small amount of material from the Spanish Civil War including two of Robert Merriman's diaries and letters from Robert to Marion Merriman before she joined him in Spain. The bulk of the collection consists of materials related to the Veterans of the Abraham Lincoln Brigade (VALB). Marion Merriman corresponded with and collected material on many Lincoln veterans. There is also organizational material from the national office and Bay Area chapter of VALB. Files related to the writing of <title>American Commander in Spain</title> include notes, correspondence, three typescript versions (an early draft, an edited version and a final manuscript), reviews, publicity material and letters from readers. Artifacts (Series IV) consist of two printed items owned by Robert before the Spanish Civil War, a belt worn by Marion and two hats and six garments owned by Robert in the Spanish Civil War years. Additional clippings, articles, photographs, and correspondence regarding Robert and Marion Merriman's experience during the Spanish Civil War and the Veterans of the Abraham Lincoln Brigades are included in Series V: 2016 Accretion. These materials include drafts of Marion Merriman's writings, newspaper clippings regarding Robert's disappearance and death, and an assortment of articles and newsletters about Lincoln Brigade veterans. They also include photographs of Robert and Marion Merriman in the 1930s, and photos of Marion as late as the 1980s. These materials also include 2 undated audio recordings of the Veterans of the Abraham Lincoln Brigades.</p>  </scopecontent>
-  <separatedmaterial id="aspace_67480b91d5af1146c0122fcc90b44856">
-    <head>Separated Material</head>
-<p>Photographs and audiotapes from the Robert Hale Merriman Papers have been transferred to the non-print section of the ALBA collections in the Tamiment Library.</p><p>Issues of <emph render="italic">The Volunteer</emph> donated in 2016 were separated and added to Tamiment's periodicals collections.</p>  </separatedmaterial>
-  <userestrict id="aspace_59cb34c8822ea3add4f840ac3e4b5722">
-    <head>Use Restrictions</head>
-<p>Any rights (including copyright and related rights to publicity and privacy) held by Robert Hale Merriman or Marion Merriman, the creators of this collection, were relinquished and transferred to the public domain in 2015 by Joe Wachtel. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, <extref>https://creativecommons.org/licenses/</extref></p>  </userestrict>
-  <processinfo id="aspace_3fa6c90d6d1536bc0a91f1abcd2b0905">
-    <head>Processing Information</head>
-<p>There is no information regarding processing decisions made before 2016. In 2016, an additional three boxes of correspondence, newspaper clippings, and photographs were added to the collection as Series V: 2016 Accretion. Materials in this series were removed from hanging files and original folder titles were retained. Additional folder titles were supplied by the archivist. At the time of accessioning materials were described at the series level, with a brief box list identifying topical grouping. These materials have not been arranged and have been retained in the order in which they were received by the donor.</p><p>In 2016, the collection title was changed to the Robert Hale Merriman and Marion Merriman Papers to reflect the inclusion of materials created by Marion Merriman.</p>  </processinfo>
-  <controlaccess>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Campaigns.</geogname>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Literature and the war.</geogname>
-    <genreform source="aat">Research (document genres).</genreform>
-    <genreform source="aat">Drafts (documents)</genreform>
-    <geogname source="lcsh">Belchite (Spain) -- History -- Siege, 1937.</geogname>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Personal narratives.</geogname>
-    <genreform source="aat">Articles.</genreform>
-    <genreform source="aat">Biography files.</genreform>
-    <subject source="lcsh">Ebro River, Battle of the, Spain, 1938.</subject>
-    <genreform source="aat">Personal papers.</genreform>
-    <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
-    <subject source="lcsh">Brunete, Battle of, Brunete, Spain, 1937.</subject>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Women.</geogname>
-    <geogname source="lcsh">Barcelona (Spain)</geogname>
-    <geogname source="lcsh">Madrid (Spain)</geogname>
-    <geogname source="lcsh">Murcia (Spain)</geogname>
-    <geogname source="lcsh">Jarama River Valley (Spain)</geogname>
-    <genreform source="aat">Correspondence.</genreform>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Hospitals.</geogname>
-    <persname source="naf">Lerude, Warren, 1937-</persname>
-    <corpname source="naf">Veterans of the Abraham Lincoln Brigade. Bay Area Post</corpname>
-    <corpname source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
-    <persname source="naf">Merriman, Robert Hale</persname>
-    <persname source="naf">Merriman, Marion, 1909-</persname>
-    <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
-    <corpname source="naf">Abraham Lincoln Brigade Archives</corpname>
-    <corpname source="naf">North American Committee to Aid Spanish Democracy</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref14" level="series"><did><unittitle>Series I: Spanish Civil War and Earlier, 1932-1937.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref15" level="file"><did><unittitle>Correspondence from Robert Merriman to Marion Merriman</unittitle><unitdate normal="1932/1933" type="inclusive">1932-1933</unitdate><container altrender="Record carton" id="aspace_4b31e92b2fc8a4ddce829db2bc63faa2" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_bd4c6b935144d97fe400947d650a8153" parent="aspace_4b31e92b2fc8a4ddce829db2bc63faa2" type="folder">1</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Correspondence from Robert Merriman to Marion Merriman</unittitle><unitdate normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Record carton" id="aspace_78117650d9d7d86905ba955ca8262ac6" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_9759bdbbbd01cab9c4756e2f90b68261" parent="aspace_78117650d9d7d86905ba955ca8262ac6" type="folder">2</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>RHM Diaries (2 volumes)</unittitle><unitdate normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Record carton" id="aspace_eb3ad62e97ff09a577e116e8304c1546" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_d2de98ada54f1ecce00a59e9a0077498" parent="aspace_eb3ad62e97ff09a577e116e8304c1546" type="folder">3</container></did></c></c><c id="aspace_ref18" level="series"><did><unittitle>Series II: Subject Files, 1946-1993.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref19" level="file"><did><unittitle>Bailey, Bill</unittitle><unitdate normal="1984/1989" type="inclusive">1984 , 1989</unitdate><container altrender="Record carton" id="aspace_3b36777ccb5b95b2293e7576d5d1042e" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_0333b21ee32913f9ed9b1c48c90ffa6a" parent="aspace_3b36777ccb5b95b2293e7576d5d1042e" type="folder">4</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Baley, Barney</unittitle><unitdate normal="1984/1987" type="inclusive">1984-1987</unitdate><container altrender="Record carton" id="aspace_2c6f1695057093ce603e182460500f84" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_8069e72cb563fc3b2d181a1c4e94a7f7" parent="aspace_2c6f1695057093ce603e182460500f84" type="folder">5</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Barsky, Vita</unittitle><unitdate normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Record carton" id="aspace_9b7231ded326e6ececf9508146d5603e" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_a6ea67de6556b85334e7e734882b01c0" parent="aspace_9b7231ded326e6ececf9508146d5603e" type="folder">6</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Bay Area Post, Veterans of the Abraham Lincoln Brigade (VALB): Al Stanley Scholarship Fund – La Cheim School</unittitle><unitdate normal="1982/1982" type="inclusive">1982</unitdate><container altrender="Record carton" id="aspace_9842b516b2f7387dfc65f0b3e23ed47c" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_0a28205b7a1aa4db5b24bd56515cab3f" parent="aspace_9842b516b2f7387dfc65f0b3e23ed47c" type="folder">7</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Bay Area Post, VALB: Executive Board Meetings</unittitle><unitdate normal="1982/1982" type="inclusive">1982</unitdate><container altrender="Record carton" id="aspace_cd8a43969d4ce1b1fbf76a747066720d" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_bcd04ae6d36e1cfc37ba501d83b5a50f" parent="aspace_cd8a43969d4ce1b1fbf76a747066720d" type="folder">8</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Bay Area Post, VALB: Newspaper Clippings</unittitle><unitdate normal="1982/1982" type="inclusive">1982</unitdate><container altrender="Record carton" id="aspace_d65f02d20638bcb3c31a4d7061cc86e8" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_2302541b8ef9caf92e2c470d90cc96d9" parent="aspace_d65f02d20638bcb3c31a4d7061cc86e8" type="folder">9</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Bay Area Post, VALB: Veterans Rights Committee</unittitle><unitdate normal="1981/1981" type="inclusive">1981</unitdate><container altrender="Record carton" id="aspace_2a3b7ecfd62488a0b88c01d80b866747" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_ba4d63a54ff6e7f938acfe64365786d2" parent="aspace_2a3b7ecfd62488a0b88c01d80b866747" type="folder">10</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Bender, Ed</unittitle><unitdate normal="1982/1985" type="inclusive">1982-1985</unitdate><container altrender="Record carton" id="aspace_ae18acc7fc210623d7fb02ef1aba5c32" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_0d22e078d06fa4da484998b821eea4cd" parent="aspace_ae18acc7fc210623d7fb02ef1aba5c32" type="folder">11</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Bertelli and Nuwer</unittitle><unitdate normal="1975/1975" type="inclusive">1975</unitdate><container altrender="Record carton" id="aspace_d344fbddc524f998a3e3b125ff3bb4b3" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_68ff24d17926e3fbf416bff77bd81d99" parent="aspace_d344fbddc524f998a3e3b125ff3bb4b3" type="folder">12</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Bessie, Alvah</unittitle><unitdate normal="1970/1985" type="inclusive">1970-1985</unitdate><container altrender="Record carton" id="aspace_096ec0c67dc260a6b256945c72f54dc3" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_85eb3dffe95e22416add110b4ab9324a" parent="aspace_096ec0c67dc260a6b256945c72f54dc3" type="folder">13</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Brown, Archie: Retirement Testimonial Committee</unittitle><unitdate normal="1922/1993" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_c1ff6f46f06193167fa33cd65764cf76" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_87114835d20a7247c1b5e1203c1333e9" parent="aspace_c1ff6f46f06193167fa33cd65764cf76" type="folder">14</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Chipp, Herschel</unittitle><unitdate normal="1985/1992" type="inclusive">1985-1992</unitdate><container altrender="Record carton" id="aspace_92e0d45e9e187e3b22af48dd84542441" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_f29bf1f99fe8fc548fcd2924e01f53a5" parent="aspace_92e0d45e9e187e3b22af48dd84542441" type="folder">15</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Colodny, Robert</unittitle><unitdate normal="1966/1989" type="inclusive">1966-1989</unitdate><container altrender="Record carton" id="aspace_2d35090f300cf7d55facdbf584faf665" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_b124a67f21dec4d0883d54ab15ff7190" parent="aspace_2d35090f300cf7d55facdbf584faf665" type="folder">16</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Corbin, Rudy</unittitle><unitdate normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Record carton" id="aspace_d3364dacb4469e72f296ddd002946530" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_5d736ae29c5b8cc0bdde0eecc32bb888" parent="aspace_d3364dacb4469e72f296ddd002946530" type="folder">17</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Ducan, Faiga</unittitle><unitdate normal="1984/1989" type="inclusive">1984-1989</unitdate><container altrender="Record carton" id="aspace_831e1e476c44e27b826febbd912db3a4" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_74362c4a9245cc32e8624a9526d52c29" parent="aspace_831e1e476c44e27b826febbd912db3a4" type="folder">18</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Eloesser, Leo</unittitle><unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate><container altrender="Record carton" id="aspace_bbc384568a2c803598a9cb4dabce9480" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_e4f41553bc4763fd0956267eba68939a" parent="aspace_bbc384568a2c803598a9cb4dabce9480" type="folder">19</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Entwistle, Tom</unittitle><unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate><container altrender="Record carton" id="aspace_1130a0e3522f7a94584afae4c543515a" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_207f9d7d86a99ec059de1286a6cb1783" parent="aspace_1130a0e3522f7a94584afae4c543515a" type="folder">20</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Esteban, Fausto Villar</unittitle><unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate><container altrender="Record carton" id="aspace_3957fa6f353a0948a8877babc4003bf8" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_bf693f23b09d1d454cbacd9b4e480d7a" parent="aspace_3957fa6f353a0948a8877babc4003bf8" type="folder">21</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Geiser, Carl</unittitle><unitdate normal="1978/1987" type="inclusive">1978-1987</unitdate><container altrender="Record carton" id="aspace_d394242ddcaa3aa235f4e8733e8a3de4" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_74842139f32ed28fabb23b3b6ac99089" parent="aspace_d394242ddcaa3aa235f4e8733e8a3de4" type="folder">22</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Hene, Julius</unittitle><unitdate normal="1922/1993" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_a4b86f91944611bcf677f98f4fb763ef" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_f097b20c0098162720363efb71256794" parent="aspace_a4b86f91944611bcf677f98f4fb763ef" type="folder">23</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Iceland, Ben</unittitle><unitdate normal="1922/1993" type="inclusive">undated , 1986</unitdate><container altrender="Record carton" id="aspace_784d3a0076ce85b93467b6aa4ec7c64f" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_c4ef1f43e2d7b593aeba74da62a25d4e" parent="aspace_784d3a0076ce85b93467b6aa4ec7c64f" type="folder">24</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Lamb, Leonard</unittitle><unitdate normal="1976/1980" type="inclusive">1976-1980</unitdate><container altrender="Record carton" id="aspace_a2287ea38860b8d8f2db70b2a7025f67" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_b1720fc12780b1661815e089a198d5a6" parent="aspace_a2287ea38860b8d8f2db70b2a7025f67" type="folder">25</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Law, Norman</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Record carton" id="aspace_a8392a2d7a208153bccb45a0d97f158c" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_54f6f69d1b29f7550d58b1948457111d" parent="aspace_a8392a2d7a208153bccb45a0d97f158c" type="folder">26</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Lucid, Jack</unittitle><unitdate normal="1982/1982" type="inclusive">1982</unitdate><container altrender="Record carton" id="aspace_e58caec8e897a5cc666efb7fbc9b08f6" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_536c76967e064477ae775a4a59cabfd3" parent="aspace_e58caec8e897a5cc666efb7fbc9b08f6" type="folder">27</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Martin, Fredricka</unittitle><unitdate normal="1977/1979" type="inclusive">1977-1979</unitdate><container altrender="Record carton" id="aspace_07c39506c889fd684dbf4cf7e899db8a" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_dc74a6635a44617bb1d645f4dd758487" parent="aspace_07c39506c889fd684dbf4cf7e899db8a" type="folder">28</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Mates, Dave</unittitle><unitdate normal="1977/1984" type="inclusive">1977-1984</unitdate><container altrender="Record carton" id="aspace_ce0645bfd4e8dcbeccf3f50ccedaa997" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_16f797a87e94939c42ad8bc5f978eb22" parent="aspace_ce0645bfd4e8dcbeccf3f50ccedaa997" type="folder">29</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>McLeod, Don</unittitle><unitdate normal="1979/1984" type="inclusive">1979 , 1984</unitdate><container altrender="Record carton" id="aspace_2778cf4c16d963aaaad04d2fdd67c4f0" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_5a54f350f223744fb0a766c90077ab3d" parent="aspace_2778cf4c16d963aaaad04d2fdd67c4f0" type="folder">30</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Nelson, Steve</unittitle><unitdate normal="1976/1993" type="inclusive">1976-1993</unitdate><container altrender="Record carton" id="aspace_4b1119c5fa3f4bbcd5df968dac291f3c" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_b21e13af5a77ade8c5d974fcafada90b" parent="aspace_4b1119c5fa3f4bbcd5df968dac291f3c" type="folder">31</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Newan, Roby</unittitle><unitdate normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Record carton" id="aspace_6e58331670d248d194167b56b3a1c278" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_72975b1e84f84ac6df1d72b553464549" parent="aspace_6e58331670d248d194167b56b3a1c278" type="folder">32</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Powell, Bill and Sylvia</unittitle><unitdate normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Record carton" id="aspace_250f5ee417439de47aebd2dc4a4e41e2" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_7263ac9483db717a153974d7c95899e7" parent="aspace_250f5ee417439de47aebd2dc4a4e41e2" type="folder">33</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Prago, Albert</unittitle><unitdate normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Record carton" id="aspace_869d297a8e5dc9f31ec88346af845d7a" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_10866f39d4547d3e6191195c9b94d1f0" parent="aspace_869d297a8e5dc9f31ec88346af845d7a" type="folder">34</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Reed, Robert</unittitle><unitdate normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Record carton" id="aspace_cac337d84cf586e4600f1a01002eae7a" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_823eb5ecc410f74b9fb84634d3793f33" parent="aspace_cac337d84cf586e4600f1a01002eae7a" type="folder">35</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Rodriguez, Gabriel Salinas</unittitle><unitdate normal="1982/1984" type="inclusive">1982-1984</unitdate><container altrender="Record carton" id="aspace_dce571581e0c7e7cb8ca7b3a8df7bd9c" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_e3332fec1af42374c66db873a118e4fb" parent="aspace_dce571581e0c7e7cb8ca7b3a8df7bd9c" type="folder">36</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Rolfe, Edwin</unittitle><unitdate normal="1922/1993" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_229e60f992c13c7d822eb3d2b3986a30" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_d5030d2a29ccc243ed7e561f814e6aab" parent="aspace_229e60f992c13c7d822eb3d2b3986a30" type="folder">37</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Simon, Mildred Rackley</unittitle><unitdate normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Record carton" id="aspace_94996b5a3e09d528b5f7c8c9d8e52a14" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_26e605421bd4fe06844a5790c8c37964" parent="aspace_94996b5a3e09d528b5f7c8c9d8e52a14" type="folder">38</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Smith, Randall B. (Pete)</unittitle><unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate><container altrender="Record carton" id="aspace_5b98a2a400f8650f026496c8bb8f656c" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_a2c3d67b6cfca3124977fa911e032bd5" parent="aspace_5b98a2a400f8650f026496c8bb8f656c" type="folder">39</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Spanish Refugee Appeal</unittitle><unitdate normal="1946/1954" type="inclusive">1946-1954</unitdate><container altrender="Record carton" id="aspace_b37779860784a347870cc71e65a893e8" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_43830490f01b99978ed12f1a2b863a43" parent="aspace_b37779860784a347870cc71e65a893e8" type="folder">40</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Speigel, Irene Golden</unittitle><unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate><container altrender="Record carton" id="aspace_5834a31f28a1d6f004369e3dd72021b0" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_367b535033b19601a996215c2257bf22" parent="aspace_5834a31f28a1d6f004369e3dd72021b0" type="folder">41</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Tisa, John</unittitle><unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate><container altrender="Record carton" id="aspace_51657b2ba6929a697a8c87a0869d4269" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_e9e98b4c9291adeb9aa7cfbe2b414ed1" parent="aspace_51657b2ba6929a697a8c87a0869d4269" type="folder">42</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>U.S. Committee for a Democratic Spain</unittitle><unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate><container altrender="Record carton" id="aspace_7329e96cc3780bfeceff6b001a79bd4f" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_307816c8fc7c54d8fb6050690e4bbcfb" parent="aspace_7329e96cc3780bfeceff6b001a79bd4f" type="folder">43</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Veterans of the Abraham Lincoln Brigade (VALB)</unittitle><unitdate normal="1966/1969" type="inclusive">1966-1969</unitdate><container altrender="Record carton" id="aspace_a1b28f737721c9672198cfc7b23cda5f" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_09001b75af61f6edd885df82f351ec19" parent="aspace_a1b28f737721c9672198cfc7b23cda5f" type="folder">44</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>VALB</unittitle><unitdate normal="1970/1973" type="inclusive">1970-1973</unitdate><container altrender="Record carton" id="aspace_071110108d7d9b8fb6186c1a5101cbd5" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_b781539f108f824f15d83b4bfc46f635" parent="aspace_071110108d7d9b8fb6186c1a5101cbd5" type="folder">45</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>VALB</unittitle><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Record carton" id="aspace_3ca0610bc1ad9927225a48a7a0985fe6" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_5dbbd5e6b587ad0f5e3be552e5772741" parent="aspace_3ca0610bc1ad9927225a48a7a0985fe6" type="folder">46</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>VALB</unittitle><unitdate normal="1975/1975" type="inclusive">1975</unitdate><container altrender="Record carton" id="aspace_684cd5ed87aa8962768531c3e26ce85c" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_0ce6fb8f9411e5f3e8ca04e98367e40b" parent="aspace_684cd5ed87aa8962768531c3e26ce85c" type="folder">47</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>VALB</unittitle><unitdate normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Record carton" id="aspace_461af36b6a7461ab0b8b7c0cf67bf345" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_6cbbbf0519d92f4ca5c7b84fad13e088" parent="aspace_461af36b6a7461ab0b8b7c0cf67bf345" type="folder">48</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>VALB</unittitle><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Record carton" id="aspace_854e28fa568d74b54dfc779eac089eaa" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_10c524371d4c096579f5f84df48012e4" parent="aspace_854e28fa568d74b54dfc779eac089eaa" type="folder">49</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>VALB</unittitle><unitdate normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Record carton" id="aspace_a36ddb3136075a8a5f41e3e358f3ca6e" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_89ff7a8621307dbb6853d6ddc5087a1f" parent="aspace_a36ddb3136075a8a5f41e3e358f3ca6e" type="folder">50</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>VALB</unittitle><unitdate normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Record carton" id="aspace_b6753ef7cf85d487fbc4806d2f48d332" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_3a3c2047dca9b8bed7e92face0d87fd1" parent="aspace_b6753ef7cf85d487fbc4806d2f48d332" type="folder">51</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>VALB</unittitle><unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate><container altrender="Record carton" id="aspace_eeb19590e00143e6287c7010e701e898" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_fa30fd5ec06ad16b481da85b2d736d5c" parent="aspace_eeb19590e00143e6287c7010e701e898" type="folder">52</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>VALB</unittitle><unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate><container altrender="Record carton" id="aspace_d981046037a8b8eefa222a20529d4b4e" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_808872ef3d59d9fb0acde0ac1122b40e" parent="aspace_d981046037a8b8eefa222a20529d4b4e" type="folder">53</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>VALB</unittitle><unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate><container altrender="Record carton" id="aspace_a3e2caf46f25dbf8ea132a1b34c8191c" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_5e134ec38dfce83215b1a22c8a635c2f" parent="aspace_a3e2caf46f25dbf8ea132a1b34c8191c" type="folder">54</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>VALB</unittitle><unitdate normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Record carton" id="aspace_0400f6aebf7f710145c02822d3f9d7a4" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_3ea2649d3176ed7fa7241783ea3b651d" parent="aspace_0400f6aebf7f710145c02822d3f9d7a4" type="folder">55</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>VALB</unittitle><unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate><container altrender="Record carton" id="aspace_cb98deaf902422fcf652a90358c7f889" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_b0bb874ce97dd751cd5a46f590569dcb" parent="aspace_cb98deaf902422fcf652a90358c7f889" type="folder">56</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>VALB</unittitle><unitdate normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Record carton" id="aspace_8b7425b6ce0f00f3a0e40c38829c9020" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_39219830aaea9dcf76390a6f58d8a814" parent="aspace_8b7425b6ce0f00f3a0e40c38829c9020" type="folder">57</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>VALB: Administrative Committee</unittitle><unitdate normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Record carton" id="aspace_9763df245724827b1c1b37e0e119c4c8" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_127f43c6b0d4a48f0b6c1b5163f31497" parent="aspace_9763df245724827b1c1b37e0e119c4c8" type="folder">58</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>VALB: Anniversary (50th)</unittitle><unitdate normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Record carton" id="aspace_9760a0449760d4e5637b008912540d4b" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_fb9d971fa305ab5b5e6b135f87170727" parent="aspace_9760a0449760d4e5637b008912540d4b" type="folder">59</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>VALB: Anniversary Dinners</unittitle><unitdate normal="1973/1986" type="inclusive">1973-1986</unitdate><container altrender="Record carton" id="aspace_dd1122ad0cbbc9ff00a51cb71126f43f" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_ae0b387762cdface5fa6ef25862c8caa" parent="aspace_dd1122ad0cbbc9ff00a51cb71126f43f" type="folder">60</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>VALB: Mailing List</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Record carton" id="aspace_914dc67f8dc594d38095e470e1f61d65" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_1f609d29256559652e5b4047e9f11f0a" parent="aspace_914dc67f8dc594d38095e470e1f61d65" type="folder">61</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>VALB: National Board</unittitle><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Record carton" id="aspace_463274e44caad5d69480ad17f7da16f7" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_8c004743f5a2ce3850553b58ab92be86" parent="aspace_463274e44caad5d69480ad17f7da16f7" type="folder">62</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>VALB: Organizational Material</unittitle><unitdate normal="1971/1982" type="inclusive">1971-1982</unitdate><container altrender="Record carton" id="aspace_dc83bb59ebd9db3145ab9b2055f5f3c1" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_f420644918dcb7fe851bc96d8e70a4fe" parent="aspace_dc83bb59ebd9db3145ab9b2055f5f3c1" type="folder">63</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>VALB: Speeches</unittitle><unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate><container altrender="Record carton" id="aspace_b0b0e57deb3da8c0623a48cdcf5b83bf" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_de8ec9b9ab41b043a2653428a129575a" parent="aspace_b0b0e57deb3da8c0623a48cdcf5b83bf" type="folder">64</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Wheeler, Bill</unittitle><unitdate normal="1983/1987" type="inclusive">1983-1987</unitdate><container altrender="Record carton" id="aspace_e6b295e9ad21f62e05411bf0cc89ffe9" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_db04cb636b2d80103caf64201bc7a186" parent="aspace_e6b295e9ad21f62e05411bf0cc89ffe9" type="folder">65</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Wolff, Milt</unittitle><unitdate normal="1975/1984" type="inclusive">1975-1984</unitdate><container altrender="Record carton" id="aspace_797ea18a71d8f14caf45866ca0fee147" label="Mixed Materials [31142054856615]" type="box">1</container><container id="aspace_cafb8b50b9d7766045005919d264dfd5" parent="aspace_797ea18a71d8f14caf45866ca0fee147" type="folder">66</container></did></c></c><c id="aspace_ref82" level="series"><did><unittitle>Series III: Files Relating to <title render="italic">American Commander in Spain: Robert Merriman and the Abraham Lincoln Brigade</title>, 1982-1987.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref83" level="file"><did><unittitle>Background Material, Notes</unittitle><unitdate normal="1982/1984" type="inclusive">1982-1984</unitdate><container altrender="Record carton" id="aspace_9191e06e997188b19baf5f0d4b174fc6" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_9ec6d6f6148ed0abd934fca3d2773612" parent="aspace_9191e06e997188b19baf5f0d4b174fc6" type="folder">1</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Bancroft Library</unittitle><unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate><container altrender="Record carton" id="aspace_99d2005d2fb2330013233dcb2737e775" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_e39c519d815eafcc0a8736c91e4c422d" parent="aspace_99d2005d2fb2330013233dcb2737e775" type="folder">2</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Dust Jacket</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Record carton" id="aspace_be5a413ae554bdee923d7b2f4de8e97a" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_f0467fe35d07d044f0aed357a8775715" parent="aspace_be5a413ae554bdee923d7b2f4de8e97a" type="folder">3</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Foreign Editions</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Record carton" id="aspace_0f33bf08f673387993ace3362d7677af" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_18eb6e43b36b9f762db3e69714a05d9f" parent="aspace_0f33bf08f673387993ace3362d7677af" type="folder">4</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>Letters from Readers</unittitle><unitdate normal="1985/1989" type="inclusive">1985-1989</unitdate><container altrender="Record carton" id="aspace_45899bfa08edf0f901295fb7ea082009" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_5fbd4742acb045e4def03a15bec9c7fe" parent="aspace_45899bfa08edf0f901295fb7ea082009" type="folder">5</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Manuscript: Edited (Chapter 1-13)</unittitle><unitdate normal="1922/1993" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_62c63621778ed149136352d6ce9f98a4" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_52b071a722b9a493f21204e5996c6bc3" parent="aspace_62c63621778ed149136352d6ce9f98a4" type="folder">6</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Manuscript: Edited (Chapter 14 – Notes and Bibliography)</unittitle><unitdate normal="1922/1993" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_88b54a5a4804808a43075c42baaaac94" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_7c4b2d78bbb46a2ee25040346746b5a7" parent="aspace_88b54a5a4804808a43075c42baaaac94" type="folder">7</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Manuscript: Edited (Chapter 1-24)</unittitle><unitdate>Apr 1985</unitdate><container altrender="Record carton" id="aspace_07af7633f4fb6c90bbb35fe9bd617e8d" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_5a2b88254af3552e13125a3ea9844cf3" parent="aspace_07af7633f4fb6c90bbb35fe9bd617e8d" type="folder">8</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Manuscript: Edited (Chapter 25 – Epilogue)</unittitle><unitdate>Apr 1985</unitdate><container altrender="Record carton" id="aspace_a1e44adbb0622f7fcf0985d4b7d05a39" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_de3a5fd8d2a5b2307357847879f3427a" parent="aspace_a1e44adbb0622f7fcf0985d4b7d05a39" type="folder">9</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Manuscript: Final (Photo Credits, Chapters 1-8)</unittitle><unitdate>Sep 1985</unitdate><container altrender="Record carton" id="aspace_e107606eb1dfc05997bd4d2900686934" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_84581a37de1238f67c21685a5fd491cf" parent="aspace_e107606eb1dfc05997bd4d2900686934" type="folder">10</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>Manuscript: Final (Chapters 9-16)</unittitle><unitdate>Sep 1985</unitdate><container altrender="Record carton" id="aspace_a03daf9a877a8c6efd3e258328764c1c" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_41b859e61418d055b1f0569182672daa" parent="aspace_a03daf9a877a8c6efd3e258328764c1c" type="folder">11</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>Manuscript: Final (Chapter 17 – Epilogue, notes, Bibliography</unittitle><unitdate>Sep 1985</unitdate><container altrender="Record carton" id="aspace_c602b3d93a5e49248adb4df7aac1920b" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_df629ad084eb9c55dead87ddc1e39abe" parent="aspace_c602b3d93a5e49248adb4df7aac1920b" type="folder">12</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>Manuscript: Unedited (Prologue, Chapters 1-17)</unittitle><unitdate normal="1922/1993" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_97ae43fb6cf2b5bcfae28ebd34e5f939" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_5db8be3ecfc1431c49888ac6920e5eca" parent="aspace_97ae43fb6cf2b5bcfae28ebd34e5f939" type="folder">13</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>Manuscript: Unedited (Chapters 18-24)</unittitle><unitdate normal="1922/1993" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_971c22767dc500621a6c60c0d37b715c" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_2074ed064dc10b42cc404f94a75b2113" parent="aspace_971c22767dc500621a6c60c0d37b715c" type="folder">14</container></did></c><c id="aspace_ref97" level="file"><did><unittitle>Preface Dedication</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Record carton" id="aspace_fa4f4360f6b1e95c65652f108e845920" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_71906bfb9fbfc9ce943b0edf99d34e00" parent="aspace_fa4f4360f6b1e95c65652f108e845920" type="folder">15</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>Publicity</unittitle><unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate><container altrender="Record carton" id="aspace_49b563e332d2d46fead889c2462d2a83" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_262a4167d5cb10d12a46729982035f47" parent="aspace_49b563e332d2d46fead889c2462d2a83" type="folder">16</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Publishers: Correspondence with</unittitle><unitdate normal="1982/1985" type="inclusive">1982-1985</unitdate><container altrender="Record carton" id="aspace_f89c39742f0023bdd205f1f9b4a64a46" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_1efd7e61ee0ef93c2429a80d48cc9d78" parent="aspace_f89c39742f0023bdd205f1f9b4a64a46" type="folder">17</container></did></c><c id="aspace_ref100" level="file"><did><unittitle>Reviews</unittitle><unitdate normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Record carton" id="aspace_b6c1dcde15218c5d1546ce4b8cc68a45" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_a70411725151524f2e23ea270de9bcf5" parent="aspace_b6c1dcde15218c5d1546ce4b8cc68a45" type="folder">18</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>University of Nevada Press</unittitle><unitdate normal="1984/1986" type="inclusive">1984-1986</unitdate><container altrender="Record carton" id="aspace_7615184c64ca3fa56fb220edf25d20b1" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_5b84ccdd7cbdc26fc124509102847dac" parent="aspace_7615184c64ca3fa56fb220edf25d20b1" type="folder">19</container></did></c></c><c id="aspace_ref102" level="series"><did><unittitle>Series IV: Artifacts, 1922-1933</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref103" level="file"><did><unittitle><title render="italic">California Chinese Chatter</title></unittitle><unitdate normal="1933/1933" type="inclusive">1933</unitdate><container altrender="Record carton" id="aspace_e327593afad309eed1e22d47a52fe6fb" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_58d7af8486efe1a8d5e99f2e76f3c9ac" parent="aspace_e327593afad309eed1e22d47a52fe6fb" type="folder">20</container></did></c><c id="aspace_ref104" level="file"><did><unittitle>Marion Merriman's Belt</unittitle><unitdate normal="1922/1993" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_74067df984b41e9d18a174277fc6f03d" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_25679e81c8ec5cd60da4a4d67814819d" parent="aspace_74067df984b41e9d18a174277fc6f03d" type="folder">21</container></did></c><c id="aspace_ref105" level="file"><did><unittitle>Modern Postage Stamp Album</unittitle><unitdate normal="1922/1922" type="inclusive">1922</unitdate><container altrender="Record carton" id="aspace_da9b610899ed6fbbe8f7b966c7c8a943" label="Mixed Materials [31142054856607]" type="box">2</container><container id="aspace_96f1b3fa482ec29d2448b3fe5d52f0db" parent="aspace_da9b610899ed6fbbe8f7b966c7c8a943" type="folder">22</container></did></c><c id="aspace_ref108" level="file"><did><unittitle>Beaded Silk Hat and Black Velvet Hat</unittitle><unitdate>Circa 1932-1938</unitdate><container altrender="Record carton" id="aspace_17fc8b9cbc2554b9f22dffea5a333b6d" label="Mixed Materials [31142054856599]" type="box">3</container></did></c><c id="aspace_ref109" level="file"><did><unittitle>Black Wool Coat and Gray/Brown Wool Coat</unittitle><unitdate>undated</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_e436a6fdfb26a41d2a0811790cdbbef7" label="Mixed Materials [31142054856581]" type="box">4</container></did></c><c id="aspace_ref110" level="file"><did><unittitle>Multicolored Silk Jacket and Blue Silk Robe</unittitle><unitdate>undated</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_e5b0703f30089d168016ca35125c5694" label="Mixed Materials [31142054856573]" type="box">5</container></did></c><c id="aspace_ref111" level="file"><did><unittitle>Padded Blue Silk Robe and Cream Silk Robe</unittitle><unitdate>undated</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_67b52c9971746f4ad5997b641c1feb94" label="Mixed Materials [31142054856565]" type="box">6</container></did></c></c><c id="aspace_a95346fe2fcbd93eff8ef650b72ca6be" level="series"><did><unittitle>2016 Accretion</unittitle></did><scopecontent id="aspace_cddceb17d949e253d65dcac96b1c6cd6"><head>Scope and Contents</head><p>This series contains an assortment of documents and articles collected by Marion Merriman about her late husband Robert Hale Merriman. These materials largely consist of articles and essays about Robert Merriman's service with the Abraham Lincoln Brigades in Spain and stories about his death in 1938. They include newspaper clippings from the 1930s as well as articles and essays written about Robert and Marion Merriman in the 1970s and 1980s. The collection contains several photographs of Robert and Marion Merriman in Spain during the war as well as photographs of Marion later in her life. The series includes several files of newspaper clippings, scholarly articles, and essays about the Veterans of the Abraham Lincoln Brigades (VALB) that Marion Merriman collected in the years after the Spanish Civil War. Several files relate to Marion's work on her 1986 biography of Robert, <emph render="italic">American Commander in Spain</emph>, which she wrote with Warren Larude. Also included in the series are transcripts of Robert's diaries, photocopies of his letter letters, a scrapbook of clippings about the Spanish Civil War, and two audio reels of the Veterans of the Abraham Lincoln Brigades.</p></scopecontent><c id="aspace_bc90af6e6dcf58ab49ce8230bd9d2103" level="file"><did><unittitle>Robert Merriman Education and Military Service</unittitle><unitdate normal="1932/1986" type="inclusive">1932-1934, 1986</unitdate><container altrender="Record carton" id="aspace_1d6e51594a354ef192b5af9dca3fd840" label="Mixed Materials [31142054856557]" type="box">7</container></did></c><c id="aspace_a6cb2f3c91f710e4fa60cf37018b50de" level="file"><did><unittitle>Marion Merrman Wachtel Writings</unittitle><unitdate normal="1948/1956" type="inclusive">1948-1956, undated</unitdate><container altrender="Record carton" id="aspace_b9328acf82f28ee6f4168c24d7207598" label="Mixed Materials [31142054856557]" type="box">7</container></did></c><c id="aspace_b4c8060e15bcae2b193c6f010dad4970" level="file"><did><unittitle>Robert and Marion Merriman Photographs</unittitle><unitdate normal="1930/1980" type="inclusive">circa 1930-1980</unitdate><container altrender="Record carton" id="aspace_2b40c3d368efb863b06182e5bb53d881" label="Mixed Materials [31142054856557]" type="box">7</container></did></c><c id="aspace_833ec7fd82e3bf6fa484dc9de80bf2c2" level="file"><did><unittitle><emph render="italic">Mac-Paps News Bulletin</emph></unittitle><unitdate normal="1975/1981" type="inclusive">1975-1981</unitdate><container altrender="Record carton" id="aspace_35ee2defc684da2ee91ecf80ed67a521" label="Mixed Materials [31142054856557]" type="box">7</container></did></c><c id="aspace_ffc45750849bcaa1c1e42c5911155c26" level="file"><did><unittitle>Veterans of the Abraham Lincoln Brigade Clippings and Research Files</unittitle><unitdate normal="1936/1986" type="inclusive">1936-1986</unitdate><container altrender="Record carton" id="aspace_0cf7192a7c00ac0ff099b720f5519fd4" label="Mixed Materials [31142054856557]" type="box">7</container><container altrender="Record carton" id="aspace_72ee3017e57f304aea164f7ed565d3ad" label="Mixed Materials [31142054856540]" type="box">8</container></did></c><c id="aspace_1e213560038471e16506ae2dcd29e5df" level="file"><did><unittitle>Scholarly Articles on the Spanish Civil War</unittitle><unitdate normal="1939/1986" type="inclusive">1939-1986</unitdate><container altrender="Record carton" id="aspace_b29e75935d3e47c65e4efe834187f849" label="Mixed Materials [31142054856540]" type="box">8</container></did></c><c id="aspace_855e2776f3ebd67c351492c5fb5f6498" level="file"><did><unittitle>Robert Merriman Diary Transcripts</unittitle><unitdate normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Record carton" id="aspace_d2e730af15a7b5660c99eeca04bdf442" label="Mixed Materials [31142054856540]" type="box">8</container></did></c><c id="aspace_6fc0bad4adfea883d38aef77e13a1382" level="file"><did><unittitle>Lists of American Volunteers in Spain</unittitle><unitdate normal="1983/1985" type="inclusive">1983-1985</unitdate><container altrender="Record carton" id="aspace_0056348187f7369484b15356e074564c" label="Mixed Materials [31142054856540]" type="box">8</container></did></c><c id="aspace_2f1edc6150b7679c48d79292355323b9" level="file"><did><unittitle>Spanish Civil War Scrapbook</unittitle><unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate><container altrender="Flat Box 11.75 x 15.5" id="aspace_42e715783c47ec5416135fa978739132" label="Mixed Materials [31142054856532]" type="box">9</container></did></c><c id="aspace_2f5c854a87c64c0bcc876309bc3b8465" level="file"><did><unittitle>Audio Recordings - Spain</unittitle><unitdate type="inclusive">undated</unitdate><container altrender="Flat Box 11.75 x 15.5" id="aspace_dd510138972bce71ef582ccfe2b1c0d5" label="Mixed Materials [31142054856532]" type="box">9</container></did></c></c></dsc>
-</archdesc>
+Series V: 2016 Accretion</p>
+    </arrangement>
+    <bioghist id="aspace_4ff21946a8fc1c713c38cc0d232d7820">
+      <head>Historical/Biographical Note</head>
+      <p>Robert Hale Merriman (1908-1938) was a graduate student in economics at the University of California at Berkeley when he became interested in Russian economics. He had met his future wife Marion Stone when both were undergraduates at the University of Nevada; they married on their graduation day, May 9, 1932. The Merrimans moved to Moscow in January 1935. An excursion to Vienna gave Robert and Marion a firsthand view of Nazism and motivated Robert, who had received some basic military training in ROTC as a undergraduate at the University of Nevada, to join the Abraham Lincoln Brigade in 1937. In Spain, Robert trained other U.S. volunteers and eventually rose to the rank of chief of staff of the 15th International Brigade. At first, Marion remained in Moscow, working for a <title render="italic">New York Times</title>correspondent Walter Duranty. She came to Spain in March of 1937 to tend to Robert after he was wounded by a gunshot to the shoulder in the Battle of Jarama. After his recovery, Marion remained in Spain and served the brigade as a clerk. Marion also worked in a hospital, held various staff jobs, collected information for death certificates, and led tours for visiting celebrities. She was eventually promoted to the rank of corporal. In November 1937, Marion returned to the United States to raise money for the cause. She made numerous speeches at rallies across the country and returned to San Francisco in March 1938, where she worked as a secretary for a group raising medical aid for the Loyalists.</p>
+      <p>After Robert Merriman disappeared, during an ambush at Corbera (Ebro Valley), conflicting reports stated that he was being held by fascist forces or that he had been killed. Unsuccessful appeals were made urging the U. S. State Department to press for his release, including a petition from UC Berkeley professors and UC President Robert Gordon Sproul. Merriman's body was never found but by 1938 he was presumed dead.</p>
+      <p>Marion was eventually remarried, to attorney Emil Wachtel. She had three sons with Wachtel, who died in 1977. She held various jobs throughout her life and continued for many years to be active in the Bay Area Veterans of the Abraham Lincoln Brigade (VALB). She took several trips to Spain after the death of Francisco Franco, and worked strenuously to keep Robert Merriman's memory alive. Later in her life, she co-wrote <title render="italic">American Commander in Spain: Robert Hale Merriman and the Abraham Lincoln Brigade</title>(University of Nevada Press, 1986) with journalist and University of Nevada faculty member Warren Lerude. Robert Jordan, the main character in <title render="italic">For Whom the Bell Tolls</title>– Ernest Hemingway's Spanish Civil War novel – was apparently modeled after Robert Merriman.</p>
+    </bioghist>
+    <prefercite id="aspace_99c3a6317afe621715f86b6582861a9a">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Robert Hale Merriman and Marion Merriman Papers; ALBA 191; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <scopecontent id="aspace_8858817251f0c3875686f46500a249aa">
+      <head>Scope and Content Note</head>
+      <p>This collection contains a small amount of material from the Spanish Civil War including two of Robert Merriman's diaries and letters from Robert to Marion Merriman before she joined him in Spain. The bulk of the collection consists of materials related to the Veterans of the Abraham Lincoln Brigade (VALB). Marion Merriman corresponded with and collected material on many Lincoln veterans. There is also organizational material from the national office and Bay Area chapter of VALB. Files related to the writing of <title>American Commander in Spain</title> include notes, correspondence, three typescript versions (an early draft, an edited version and a final manuscript), reviews, publicity material and letters from readers. Artifacts (Series IV) consist of two printed items owned by Robert before the Spanish Civil War, a belt worn by Marion and two hats and six garments owned by Robert in the Spanish Civil War years. Additional clippings, articles, photographs, and correspondence regarding Robert and Marion Merriman's experience during the Spanish Civil War and the Veterans of the Abraham Lincoln Brigades are included in Series V: 2016 Accretion. These materials include drafts of Marion Merriman's writings, newspaper clippings regarding Robert's disappearance and death, and an assortment of articles and newsletters about Lincoln Brigade veterans. They also include photographs of Robert and Marion Merriman in the 1930s, and photos of Marion as late as the 1980s. These materials also include 2 undated audio recordings of the Veterans of the Abraham Lincoln Brigades.</p>
+    </scopecontent>
+    <separatedmaterial id="aspace_67480b91d5af1146c0122fcc90b44856">
+      <head>Separated Material</head>
+      <p>Photographs and audiotapes from the Robert Hale Merriman Papers have been transferred to the non-print section of the ALBA collections in the Tamiment Library.</p>
+      <p>Issues of <emph render="italic">The Volunteer</emph> donated in 2016 were separated and added to Tamiment's periodicals collections.</p>
+    </separatedmaterial>
+    <userestrict id="aspace_59cb34c8822ea3add4f840ac3e4b5722">
+      <head>Use Restrictions</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by Robert Hale Merriman or Marion Merriman, the creators of this collection, were relinquished and transferred to the public domain in 2015 by Joe Wachtel. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, <extref>https://creativecommons.org/licenses/</extref></p>
+    </userestrict>
+    <processinfo id="aspace_3fa6c90d6d1536bc0a91f1abcd2b0905">
+      <head>Processing Information</head>
+      <p>There is no information regarding processing decisions made before 2016. In 2016, an additional three boxes of correspondence, newspaper clippings, and photographs were added to the collection as Series V: 2016 Accretion. Materials in this series were removed from hanging files and original folder titles were retained. Additional folder titles were supplied by the archivist. At the time of accessioning materials were described at the series level, with a brief box list identifying topical grouping. These materials have not been arranged and have been retained in the order in which they were received by the donor.</p>
+      <p>In 2016, the collection title was changed to the Robert Hale Merriman and Marion Merriman Papers to reflect the inclusion of materials created by Marion Merriman.</p>
+    </processinfo>
+    <controlaccess>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Campaigns.</geogname>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Literature and the war.</geogname>
+      <genreform source="aat">Research (document genres).</genreform>
+      <genreform source="aat">Drafts (documents)</genreform>
+      <geogname source="lcsh">Belchite (Spain) -- History -- Siege, 1937.</geogname>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Personal narratives.</geogname>
+      <genreform source="aat">Articles.</genreform>
+      <genreform source="aat">Biography files.</genreform>
+      <subject source="lcsh">Ebro River, Battle of the, Spain, 1938.</subject>
+      <genreform source="aat">Personal papers.</genreform>
+      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
+      <subject source="lcsh">Brunete, Battle of, Brunete, Spain, 1937.</subject>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Women.</geogname>
+      <geogname source="lcsh">Barcelona (Spain)</geogname>
+      <geogname source="lcsh">Madrid (Spain)</geogname>
+      <geogname source="lcsh">Murcia (Spain)</geogname>
+      <geogname source="lcsh">Jarama River Valley (Spain)</geogname>
+      <genreform source="aat">Correspondence.</genreform>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Hospitals.</geogname>
+      <persname source="naf">Lerude, Warren, 1937-</persname>
+      <corpname source="naf">Veterans of the Abraham Lincoln Brigade. Bay Area Post</corpname>
+      <corpname source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
+      <persname source="naf">Merriman, Robert Hale</persname>
+      <persname source="naf">Merriman, Marion, 1909-</persname>
+      <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
+      <corpname source="naf">Abraham Lincoln Brigade Archives</corpname>
+      <corpname source="naf">North American Committee to Aid Spanish Democracy</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref14" level="series">
+        <did>
+          <unittitle>Series I: Spanish Civil War and Earlier, 1932-1937.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Correspondence from Robert Merriman to Marion Merriman</unittitle>
+            <unitdate normal="1932/1933" type="inclusive">1932-1933</unitdate>
+            <container altrender="Record carton" id="aspace_4b31e92b2fc8a4ddce829db2bc63faa2" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_bd4c6b935144d97fe400947d650a8153" parent="aspace_4b31e92b2fc8a4ddce829db2bc63faa2" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Correspondence from Robert Merriman to Marion Merriman</unittitle>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Record carton" id="aspace_78117650d9d7d86905ba955ca8262ac6" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_9759bdbbbd01cab9c4756e2f90b68261" parent="aspace_78117650d9d7d86905ba955ca8262ac6" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>RHM Diaries (2 volumes)</unittitle>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Record carton" id="aspace_eb3ad62e97ff09a577e116e8304c1546" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_d2de98ada54f1ecce00a59e9a0077498" parent="aspace_eb3ad62e97ff09a577e116e8304c1546" type="folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref18" level="series">
+        <did>
+          <unittitle>Series II: Subject Files, 1946-1993.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Bailey, Bill</unittitle>
+            <unitdate normal="1984/1989" type="inclusive">1984 , 1989</unitdate>
+            <container altrender="Record carton" id="aspace_3b36777ccb5b95b2293e7576d5d1042e" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_0333b21ee32913f9ed9b1c48c90ffa6a" parent="aspace_3b36777ccb5b95b2293e7576d5d1042e" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Baley, Barney</unittitle>
+            <unitdate normal="1984/1987" type="inclusive">1984-1987</unitdate>
+            <container altrender="Record carton" id="aspace_2c6f1695057093ce603e182460500f84" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_8069e72cb563fc3b2d181a1c4e94a7f7" parent="aspace_2c6f1695057093ce603e182460500f84" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Barsky, Vita</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container altrender="Record carton" id="aspace_9b7231ded326e6ececf9508146d5603e" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_a6ea67de6556b85334e7e734882b01c0" parent="aspace_9b7231ded326e6ececf9508146d5603e" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Bay Area Post, Veterans of the Abraham Lincoln Brigade (VALB): Al Stanley Scholarship Fund – La Cheim School</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container altrender="Record carton" id="aspace_9842b516b2f7387dfc65f0b3e23ed47c" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_0a28205b7a1aa4db5b24bd56515cab3f" parent="aspace_9842b516b2f7387dfc65f0b3e23ed47c" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Bay Area Post, VALB: Executive Board Meetings</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container altrender="Record carton" id="aspace_cd8a43969d4ce1b1fbf76a747066720d" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_bcd04ae6d36e1cfc37ba501d83b5a50f" parent="aspace_cd8a43969d4ce1b1fbf76a747066720d" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Bay Area Post, VALB: Newspaper Clippings</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container altrender="Record carton" id="aspace_d65f02d20638bcb3c31a4d7061cc86e8" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_2302541b8ef9caf92e2c470d90cc96d9" parent="aspace_d65f02d20638bcb3c31a4d7061cc86e8" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Bay Area Post, VALB: Veterans Rights Committee</unittitle>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container altrender="Record carton" id="aspace_2a3b7ecfd62488a0b88c01d80b866747" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_ba4d63a54ff6e7f938acfe64365786d2" parent="aspace_2a3b7ecfd62488a0b88c01d80b866747" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Bender, Ed</unittitle>
+            <unitdate normal="1982/1985" type="inclusive">1982-1985</unitdate>
+            <container altrender="Record carton" id="aspace_ae18acc7fc210623d7fb02ef1aba5c32" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_0d22e078d06fa4da484998b821eea4cd" parent="aspace_ae18acc7fc210623d7fb02ef1aba5c32" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Bertelli and Nuwer</unittitle>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container altrender="Record carton" id="aspace_d344fbddc524f998a3e3b125ff3bb4b3" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_68ff24d17926e3fbf416bff77bd81d99" parent="aspace_d344fbddc524f998a3e3b125ff3bb4b3" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Bessie, Alvah</unittitle>
+            <unitdate normal="1970/1985" type="inclusive">1970-1985</unitdate>
+            <container altrender="Record carton" id="aspace_096ec0c67dc260a6b256945c72f54dc3" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_85eb3dffe95e22416add110b4ab9324a" parent="aspace_096ec0c67dc260a6b256945c72f54dc3" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Brown, Archie: Retirement Testimonial Committee</unittitle>
+            <unitdate normal="1922/1993" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_c1ff6f46f06193167fa33cd65764cf76" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_87114835d20a7247c1b5e1203c1333e9" parent="aspace_c1ff6f46f06193167fa33cd65764cf76" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Chipp, Herschel</unittitle>
+            <unitdate normal="1985/1992" type="inclusive">1985-1992</unitdate>
+            <container altrender="Record carton" id="aspace_92e0d45e9e187e3b22af48dd84542441" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_f29bf1f99fe8fc548fcd2924e01f53a5" parent="aspace_92e0d45e9e187e3b22af48dd84542441" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Colodny, Robert</unittitle>
+            <unitdate normal="1966/1989" type="inclusive">1966-1989</unitdate>
+            <container altrender="Record carton" id="aspace_2d35090f300cf7d55facdbf584faf665" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_b124a67f21dec4d0883d54ab15ff7190" parent="aspace_2d35090f300cf7d55facdbf584faf665" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Corbin, Rudy</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container altrender="Record carton" id="aspace_d3364dacb4469e72f296ddd002946530" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_5d736ae29c5b8cc0bdde0eecc32bb888" parent="aspace_d3364dacb4469e72f296ddd002946530" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Ducan, Faiga</unittitle>
+            <unitdate normal="1984/1989" type="inclusive">1984-1989</unitdate>
+            <container altrender="Record carton" id="aspace_831e1e476c44e27b826febbd912db3a4" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_74362c4a9245cc32e8624a9526d52c29" parent="aspace_831e1e476c44e27b826febbd912db3a4" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Eloesser, Leo</unittitle>
+            <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
+            <container altrender="Record carton" id="aspace_bbc384568a2c803598a9cb4dabce9480" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_e4f41553bc4763fd0956267eba68939a" parent="aspace_bbc384568a2c803598a9cb4dabce9480" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Entwistle, Tom</unittitle>
+            <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <container altrender="Record carton" id="aspace_1130a0e3522f7a94584afae4c543515a" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_207f9d7d86a99ec059de1286a6cb1783" parent="aspace_1130a0e3522f7a94584afae4c543515a" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Esteban, Fausto Villar</unittitle>
+            <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
+            <container altrender="Record carton" id="aspace_3957fa6f353a0948a8877babc4003bf8" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_bf693f23b09d1d454cbacd9b4e480d7a" parent="aspace_3957fa6f353a0948a8877babc4003bf8" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Geiser, Carl</unittitle>
+            <unitdate normal="1978/1987" type="inclusive">1978-1987</unitdate>
+            <container altrender="Record carton" id="aspace_d394242ddcaa3aa235f4e8733e8a3de4" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_74842139f32ed28fabb23b3b6ac99089" parent="aspace_d394242ddcaa3aa235f4e8733e8a3de4" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Hene, Julius</unittitle>
+            <unitdate normal="1922/1993" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_a4b86f91944611bcf677f98f4fb763ef" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_f097b20c0098162720363efb71256794" parent="aspace_a4b86f91944611bcf677f98f4fb763ef" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Iceland, Ben</unittitle>
+            <unitdate normal="1922/1993" type="inclusive">undated , 1986</unitdate>
+            <container altrender="Record carton" id="aspace_784d3a0076ce85b93467b6aa4ec7c64f" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_c4ef1f43e2d7b593aeba74da62a25d4e" parent="aspace_784d3a0076ce85b93467b6aa4ec7c64f" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Lamb, Leonard</unittitle>
+            <unitdate normal="1976/1980" type="inclusive">1976-1980</unitdate>
+            <container altrender="Record carton" id="aspace_a2287ea38860b8d8f2db70b2a7025f67" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_b1720fc12780b1661815e089a198d5a6" parent="aspace_a2287ea38860b8d8f2db70b2a7025f67" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Law, Norman</unittitle>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container altrender="Record carton" id="aspace_a8392a2d7a208153bccb45a0d97f158c" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_54f6f69d1b29f7550d58b1948457111d" parent="aspace_a8392a2d7a208153bccb45a0d97f158c" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Lucid, Jack</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container altrender="Record carton" id="aspace_e58caec8e897a5cc666efb7fbc9b08f6" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_536c76967e064477ae775a4a59cabfd3" parent="aspace_e58caec8e897a5cc666efb7fbc9b08f6" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Martin, Fredricka</unittitle>
+            <unitdate normal="1977/1979" type="inclusive">1977-1979</unitdate>
+            <container altrender="Record carton" id="aspace_07c39506c889fd684dbf4cf7e899db8a" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_dc74a6635a44617bb1d645f4dd758487" parent="aspace_07c39506c889fd684dbf4cf7e899db8a" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Mates, Dave</unittitle>
+            <unitdate normal="1977/1984" type="inclusive">1977-1984</unitdate>
+            <container altrender="Record carton" id="aspace_ce0645bfd4e8dcbeccf3f50ccedaa997" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_16f797a87e94939c42ad8bc5f978eb22" parent="aspace_ce0645bfd4e8dcbeccf3f50ccedaa997" type="folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>McLeod, Don</unittitle>
+            <unitdate normal="1979/1984" type="inclusive">1979 , 1984</unitdate>
+            <container altrender="Record carton" id="aspace_2778cf4c16d963aaaad04d2fdd67c4f0" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_5a54f350f223744fb0a766c90077ab3d" parent="aspace_2778cf4c16d963aaaad04d2fdd67c4f0" type="folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Nelson, Steve</unittitle>
+            <unitdate normal="1976/1993" type="inclusive">1976-1993</unitdate>
+            <container altrender="Record carton" id="aspace_4b1119c5fa3f4bbcd5df968dac291f3c" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_b21e13af5a77ade8c5d974fcafada90b" parent="aspace_4b1119c5fa3f4bbcd5df968dac291f3c" type="folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Newan, Roby</unittitle>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container altrender="Record carton" id="aspace_6e58331670d248d194167b56b3a1c278" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_72975b1e84f84ac6df1d72b553464549" parent="aspace_6e58331670d248d194167b56b3a1c278" type="folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Powell, Bill and Sylvia</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container altrender="Record carton" id="aspace_250f5ee417439de47aebd2dc4a4e41e2" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_7263ac9483db717a153974d7c95899e7" parent="aspace_250f5ee417439de47aebd2dc4a4e41e2" type="folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Prago, Albert</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container altrender="Record carton" id="aspace_869d297a8e5dc9f31ec88346af845d7a" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_10866f39d4547d3e6191195c9b94d1f0" parent="aspace_869d297a8e5dc9f31ec88346af845d7a" type="folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Reed, Robert</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container altrender="Record carton" id="aspace_cac337d84cf586e4600f1a01002eae7a" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_823eb5ecc410f74b9fb84634d3793f33" parent="aspace_cac337d84cf586e4600f1a01002eae7a" type="folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Rodriguez, Gabriel Salinas</unittitle>
+            <unitdate normal="1982/1984" type="inclusive">1982-1984</unitdate>
+            <container altrender="Record carton" id="aspace_dce571581e0c7e7cb8ca7b3a8df7bd9c" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_e3332fec1af42374c66db873a118e4fb" parent="aspace_dce571581e0c7e7cb8ca7b3a8df7bd9c" type="folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Rolfe, Edwin</unittitle>
+            <unitdate normal="1922/1993" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_229e60f992c13c7d822eb3d2b3986a30" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_d5030d2a29ccc243ed7e561f814e6aab" parent="aspace_229e60f992c13c7d822eb3d2b3986a30" type="folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Simon, Mildred Rackley</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container altrender="Record carton" id="aspace_94996b5a3e09d528b5f7c8c9d8e52a14" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_26e605421bd4fe06844a5790c8c37964" parent="aspace_94996b5a3e09d528b5f7c8c9d8e52a14" type="folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Smith, Randall B. (Pete)</unittitle>
+            <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
+            <container altrender="Record carton" id="aspace_5b98a2a400f8650f026496c8bb8f656c" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_a2c3d67b6cfca3124977fa911e032bd5" parent="aspace_5b98a2a400f8650f026496c8bb8f656c" type="folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Spanish Refugee Appeal</unittitle>
+            <unitdate normal="1946/1954" type="inclusive">1946-1954</unitdate>
+            <container altrender="Record carton" id="aspace_b37779860784a347870cc71e65a893e8" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_43830490f01b99978ed12f1a2b863a43" parent="aspace_b37779860784a347870cc71e65a893e8" type="folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Speigel, Irene Golden</unittitle>
+            <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <container altrender="Record carton" id="aspace_5834a31f28a1d6f004369e3dd72021b0" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_367b535033b19601a996215c2257bf22" parent="aspace_5834a31f28a1d6f004369e3dd72021b0" type="folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Tisa, John</unittitle>
+            <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <container altrender="Record carton" id="aspace_51657b2ba6929a697a8c87a0869d4269" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_e9e98b4c9291adeb9aa7cfbe2b414ed1" parent="aspace_51657b2ba6929a697a8c87a0869d4269" type="folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>U.S. Committee for a Democratic Spain</unittitle>
+            <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
+            <container altrender="Record carton" id="aspace_7329e96cc3780bfeceff6b001a79bd4f" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_307816c8fc7c54d8fb6050690e4bbcfb" parent="aspace_7329e96cc3780bfeceff6b001a79bd4f" type="folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Veterans of the Abraham Lincoln Brigade (VALB)</unittitle>
+            <unitdate normal="1966/1969" type="inclusive">1966-1969</unitdate>
+            <container altrender="Record carton" id="aspace_a1b28f737721c9672198cfc7b23cda5f" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_09001b75af61f6edd885df82f351ec19" parent="aspace_a1b28f737721c9672198cfc7b23cda5f" type="folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>VALB</unittitle>
+            <unitdate normal="1970/1973" type="inclusive">1970-1973</unitdate>
+            <container altrender="Record carton" id="aspace_071110108d7d9b8fb6186c1a5101cbd5" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_b781539f108f824f15d83b4bfc46f635" parent="aspace_071110108d7d9b8fb6186c1a5101cbd5" type="folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>VALB</unittitle>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container altrender="Record carton" id="aspace_3ca0610bc1ad9927225a48a7a0985fe6" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_5dbbd5e6b587ad0f5e3be552e5772741" parent="aspace_3ca0610bc1ad9927225a48a7a0985fe6" type="folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>VALB</unittitle>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container altrender="Record carton" id="aspace_684cd5ed87aa8962768531c3e26ce85c" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_0ce6fb8f9411e5f3e8ca04e98367e40b" parent="aspace_684cd5ed87aa8962768531c3e26ce85c" type="folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>VALB</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container altrender="Record carton" id="aspace_461af36b6a7461ab0b8b7c0cf67bf345" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_6cbbbf0519d92f4ca5c7b84fad13e088" parent="aspace_461af36b6a7461ab0b8b7c0cf67bf345" type="folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>VALB</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Record carton" id="aspace_854e28fa568d74b54dfc779eac089eaa" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_10c524371d4c096579f5f84df48012e4" parent="aspace_854e28fa568d74b54dfc779eac089eaa" type="folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>VALB</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Record carton" id="aspace_a36ddb3136075a8a5f41e3e358f3ca6e" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_89ff7a8621307dbb6853d6ddc5087a1f" parent="aspace_a36ddb3136075a8a5f41e3e358f3ca6e" type="folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>VALB</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container altrender="Record carton" id="aspace_b6753ef7cf85d487fbc4806d2f48d332" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_3a3c2047dca9b8bed7e92face0d87fd1" parent="aspace_b6753ef7cf85d487fbc4806d2f48d332" type="folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>VALB</unittitle>
+            <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
+            <container altrender="Record carton" id="aspace_eeb19590e00143e6287c7010e701e898" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_fa30fd5ec06ad16b481da85b2d736d5c" parent="aspace_eeb19590e00143e6287c7010e701e898" type="folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>VALB</unittitle>
+            <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <container altrender="Record carton" id="aspace_d981046037a8b8eefa222a20529d4b4e" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_808872ef3d59d9fb0acde0ac1122b40e" parent="aspace_d981046037a8b8eefa222a20529d4b4e" type="folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>VALB</unittitle>
+            <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+            <container altrender="Record carton" id="aspace_a3e2caf46f25dbf8ea132a1b34c8191c" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_5e134ec38dfce83215b1a22c8a635c2f" parent="aspace_a3e2caf46f25dbf8ea132a1b34c8191c" type="folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>VALB</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container altrender="Record carton" id="aspace_0400f6aebf7f710145c02822d3f9d7a4" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_3ea2649d3176ed7fa7241783ea3b651d" parent="aspace_0400f6aebf7f710145c02822d3f9d7a4" type="folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>VALB</unittitle>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container altrender="Record carton" id="aspace_cb98deaf902422fcf652a90358c7f889" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_b0bb874ce97dd751cd5a46f590569dcb" parent="aspace_cb98deaf902422fcf652a90358c7f889" type="folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>VALB</unittitle>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container altrender="Record carton" id="aspace_8b7425b6ce0f00f3a0e40c38829c9020" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_39219830aaea9dcf76390a6f58d8a814" parent="aspace_8b7425b6ce0f00f3a0e40c38829c9020" type="folder">57</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>VALB: Administrative Committee</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container altrender="Record carton" id="aspace_9763df245724827b1c1b37e0e119c4c8" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_127f43c6b0d4a48f0b6c1b5163f31497" parent="aspace_9763df245724827b1c1b37e0e119c4c8" type="folder">58</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>VALB: Anniversary (50th)</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container altrender="Record carton" id="aspace_9760a0449760d4e5637b008912540d4b" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_fb9d971fa305ab5b5e6b135f87170727" parent="aspace_9760a0449760d4e5637b008912540d4b" type="folder">59</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>VALB: Anniversary Dinners</unittitle>
+            <unitdate normal="1973/1986" type="inclusive">1973-1986</unitdate>
+            <container altrender="Record carton" id="aspace_dd1122ad0cbbc9ff00a51cb71126f43f" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_ae0b387762cdface5fa6ef25862c8caa" parent="aspace_dd1122ad0cbbc9ff00a51cb71126f43f" type="folder">60</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>VALB: Mailing List</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container altrender="Record carton" id="aspace_914dc67f8dc594d38095e470e1f61d65" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_1f609d29256559652e5b4047e9f11f0a" parent="aspace_914dc67f8dc594d38095e470e1f61d65" type="folder">61</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>VALB: National Board</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Record carton" id="aspace_463274e44caad5d69480ad17f7da16f7" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_8c004743f5a2ce3850553b58ab92be86" parent="aspace_463274e44caad5d69480ad17f7da16f7" type="folder">62</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>VALB: Organizational Material</unittitle>
+            <unitdate normal="1971/1982" type="inclusive">1971-1982</unitdate>
+            <container altrender="Record carton" id="aspace_dc83bb59ebd9db3145ab9b2055f5f3c1" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_f420644918dcb7fe851bc96d8e70a4fe" parent="aspace_dc83bb59ebd9db3145ab9b2055f5f3c1" type="folder">63</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>VALB: Speeches</unittitle>
+            <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
+            <container altrender="Record carton" id="aspace_b0b0e57deb3da8c0623a48cdcf5b83bf" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_de8ec9b9ab41b043a2653428a129575a" parent="aspace_b0b0e57deb3da8c0623a48cdcf5b83bf" type="folder">64</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Wheeler, Bill</unittitle>
+            <unitdate normal="1983/1987" type="inclusive">1983-1987</unitdate>
+            <container altrender="Record carton" id="aspace_e6b295e9ad21f62e05411bf0cc89ffe9" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_db04cb636b2d80103caf64201bc7a186" parent="aspace_e6b295e9ad21f62e05411bf0cc89ffe9" type="folder">65</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Wolff, Milt</unittitle>
+            <unitdate normal="1975/1984" type="inclusive">1975-1984</unitdate>
+            <container altrender="Record carton" id="aspace_797ea18a71d8f14caf45866ca0fee147" label="Mixed Materials [31142054856615]" type="box">1</container>
+            <container id="aspace_cafb8b50b9d7766045005919d264dfd5" parent="aspace_797ea18a71d8f14caf45866ca0fee147" type="folder">66</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref82" level="series">
+        <did>
+          <unittitle>Series III: Files Relating to <title render="italic">American Commander in Spain: Robert Merriman and the Abraham Lincoln Brigade</title>, 1982-1987.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Background Material, Notes</unittitle>
+            <unitdate normal="1982/1984" type="inclusive">1982-1984</unitdate>
+            <container altrender="Record carton" id="aspace_9191e06e997188b19baf5f0d4b174fc6" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_9ec6d6f6148ed0abd934fca3d2773612" parent="aspace_9191e06e997188b19baf5f0d4b174fc6" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Bancroft Library</unittitle>
+            <unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate>
+            <container altrender="Record carton" id="aspace_99d2005d2fb2330013233dcb2737e775" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_e39c519d815eafcc0a8736c91e4c422d" parent="aspace_99d2005d2fb2330013233dcb2737e775" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Dust Jacket</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container altrender="Record carton" id="aspace_be5a413ae554bdee923d7b2f4de8e97a" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_f0467fe35d07d044f0aed357a8775715" parent="aspace_be5a413ae554bdee923d7b2f4de8e97a" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Foreign Editions</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container altrender="Record carton" id="aspace_0f33bf08f673387993ace3362d7677af" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_18eb6e43b36b9f762db3e69714a05d9f" parent="aspace_0f33bf08f673387993ace3362d7677af" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Letters from Readers</unittitle>
+            <unitdate normal="1985/1989" type="inclusive">1985-1989</unitdate>
+            <container altrender="Record carton" id="aspace_45899bfa08edf0f901295fb7ea082009" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_5fbd4742acb045e4def03a15bec9c7fe" parent="aspace_45899bfa08edf0f901295fb7ea082009" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Manuscript: Edited (Chapter 1-13)</unittitle>
+            <unitdate normal="1922/1993" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_62c63621778ed149136352d6ce9f98a4" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_52b071a722b9a493f21204e5996c6bc3" parent="aspace_62c63621778ed149136352d6ce9f98a4" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Manuscript: Edited (Chapter 14 – Notes and Bibliography)</unittitle>
+            <unitdate normal="1922/1993" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_88b54a5a4804808a43075c42baaaac94" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_7c4b2d78bbb46a2ee25040346746b5a7" parent="aspace_88b54a5a4804808a43075c42baaaac94" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Manuscript: Edited (Chapter 1-24)</unittitle>
+            <unitdate>Apr 1985</unitdate>
+            <container altrender="Record carton" id="aspace_07af7633f4fb6c90bbb35fe9bd617e8d" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_5a2b88254af3552e13125a3ea9844cf3" parent="aspace_07af7633f4fb6c90bbb35fe9bd617e8d" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Manuscript: Edited (Chapter 25 – Epilogue)</unittitle>
+            <unitdate>Apr 1985</unitdate>
+            <container altrender="Record carton" id="aspace_a1e44adbb0622f7fcf0985d4b7d05a39" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_de3a5fd8d2a5b2307357847879f3427a" parent="aspace_a1e44adbb0622f7fcf0985d4b7d05a39" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Manuscript: Final (Photo Credits, Chapters 1-8)</unittitle>
+            <unitdate>Sep 1985</unitdate>
+            <container altrender="Record carton" id="aspace_e107606eb1dfc05997bd4d2900686934" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_84581a37de1238f67c21685a5fd491cf" parent="aspace_e107606eb1dfc05997bd4d2900686934" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Manuscript: Final (Chapters 9-16)</unittitle>
+            <unitdate>Sep 1985</unitdate>
+            <container altrender="Record carton" id="aspace_a03daf9a877a8c6efd3e258328764c1c" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_41b859e61418d055b1f0569182672daa" parent="aspace_a03daf9a877a8c6efd3e258328764c1c" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Manuscript: Final (Chapter 17 – Epilogue, notes, Bibliography</unittitle>
+            <unitdate>Sep 1985</unitdate>
+            <container altrender="Record carton" id="aspace_c602b3d93a5e49248adb4df7aac1920b" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_df629ad084eb9c55dead87ddc1e39abe" parent="aspace_c602b3d93a5e49248adb4df7aac1920b" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Manuscript: Unedited (Prologue, Chapters 1-17)</unittitle>
+            <unitdate normal="1922/1993" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_97ae43fb6cf2b5bcfae28ebd34e5f939" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_5db8be3ecfc1431c49888ac6920e5eca" parent="aspace_97ae43fb6cf2b5bcfae28ebd34e5f939" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Manuscript: Unedited (Chapters 18-24)</unittitle>
+            <unitdate normal="1922/1993" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_971c22767dc500621a6c60c0d37b715c" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_2074ed064dc10b42cc404f94a75b2113" parent="aspace_971c22767dc500621a6c60c0d37b715c" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Preface Dedication</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container altrender="Record carton" id="aspace_fa4f4360f6b1e95c65652f108e845920" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_71906bfb9fbfc9ce943b0edf99d34e00" parent="aspace_fa4f4360f6b1e95c65652f108e845920" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Publicity</unittitle>
+            <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
+            <container altrender="Record carton" id="aspace_49b563e332d2d46fead889c2462d2a83" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_262a4167d5cb10d12a46729982035f47" parent="aspace_49b563e332d2d46fead889c2462d2a83" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Publishers: Correspondence with</unittitle>
+            <unitdate normal="1982/1985" type="inclusive">1982-1985</unitdate>
+            <container altrender="Record carton" id="aspace_f89c39742f0023bdd205f1f9b4a64a46" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_1efd7e61ee0ef93c2429a80d48cc9d78" parent="aspace_f89c39742f0023bdd205f1f9b4a64a46" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Reviews</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container altrender="Record carton" id="aspace_b6c1dcde15218c5d1546ce4b8cc68a45" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_a70411725151524f2e23ea270de9bcf5" parent="aspace_b6c1dcde15218c5d1546ce4b8cc68a45" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>University of Nevada Press</unittitle>
+            <unitdate normal="1984/1986" type="inclusive">1984-1986</unitdate>
+            <container altrender="Record carton" id="aspace_7615184c64ca3fa56fb220edf25d20b1" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_5b84ccdd7cbdc26fc124509102847dac" parent="aspace_7615184c64ca3fa56fb220edf25d20b1" type="folder">19</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref102" level="series">
+        <did>
+          <unittitle>Series IV: Artifacts, 1922-1933</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>
+              <title render="italic">California Chinese Chatter</title>
+            </unittitle>
+            <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+            <container altrender="Record carton" id="aspace_e327593afad309eed1e22d47a52fe6fb" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_58d7af8486efe1a8d5e99f2e76f3c9ac" parent="aspace_e327593afad309eed1e22d47a52fe6fb" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>Marion Merriman's Belt</unittitle>
+            <unitdate normal="1922/1993" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_74067df984b41e9d18a174277fc6f03d" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_25679e81c8ec5cd60da4a4d67814819d" parent="aspace_74067df984b41e9d18a174277fc6f03d" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Modern Postage Stamp Album</unittitle>
+            <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+            <container altrender="Record carton" id="aspace_da9b610899ed6fbbe8f7b966c7c8a943" label="Mixed Materials [31142054856607]" type="box">2</container>
+            <container id="aspace_96f1b3fa482ec29d2448b3fe5d52f0db" parent="aspace_da9b610899ed6fbbe8f7b966c7c8a943" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Beaded Silk Hat and Black Velvet Hat</unittitle>
+            <unitdate>Circa 1932-1938</unitdate>
+            <container altrender="Record carton" id="aspace_17fc8b9cbc2554b9f22dffea5a333b6d" label="Mixed Materials [31142054856599]" type="box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Black Wool Coat and Gray/Brown Wool Coat</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_e436a6fdfb26a41d2a0811790cdbbef7" label="Mixed Materials [31142054856581]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Multicolored Silk Jacket and Blue Silk Robe</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_e5b0703f30089d168016ca35125c5694" label="Mixed Materials [31142054856573]" type="box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Padded Blue Silk Robe and Cream Silk Robe</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_67b52c9971746f4ad5997b641c1feb94" label="Mixed Materials [31142054856565]" type="box">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_a95346fe2fcbd93eff8ef650b72ca6be" level="series">
+        <did>
+          <unittitle>2016 Accretion</unittitle>
+        </did>
+        <scopecontent id="aspace_cddceb17d949e253d65dcac96b1c6cd6">
+          <head>Scope and Contents</head>
+          <p>This series contains an assortment of documents and articles collected by Marion Merriman about her late husband Robert Hale Merriman. These materials largely consist of articles and essays about Robert Merriman's service with the Abraham Lincoln Brigades in Spain and stories about his death in 1938. They include newspaper clippings from the 1930s as well as articles and essays written about Robert and Marion Merriman in the 1970s and 1980s. The collection contains several photographs of Robert and Marion Merriman in Spain during the war as well as photographs of Marion later in her life. The series includes several files of newspaper clippings, scholarly articles, and essays about the Veterans of the Abraham Lincoln Brigades (VALB) that Marion Merriman collected in the years after the Spanish Civil War. Several files relate to Marion's work on her 1986 biography of Robert, <emph render="italic">American Commander in Spain</emph>, which she wrote with Warren Larude. Also included in the series are transcripts of Robert's diaries, photocopies of his letter letters, a scrapbook of clippings about the Spanish Civil War, and two audio reels of the Veterans of the Abraham Lincoln Brigades.</p>
+        </scopecontent>
+        <c id="aspace_bc90af6e6dcf58ab49ce8230bd9d2103" level="file">
+          <did>
+            <unittitle>Robert Merriman Education and Military Service</unittitle>
+            <unitdate normal="1932/1986" type="inclusive">1932-1934, 1986</unitdate>
+            <container altrender="Record carton" id="aspace_1d6e51594a354ef192b5af9dca3fd840" label="Mixed Materials [31142054856557]" type="box">7</container>
+          </did>
+        </c>
+        <c id="aspace_a6cb2f3c91f710e4fa60cf37018b50de" level="file">
+          <did>
+            <unittitle>Marion Merrman Wachtel Writings</unittitle>
+            <unitdate normal="1948/1956" type="inclusive">1948-1956, undated</unitdate>
+            <container altrender="Record carton" id="aspace_b9328acf82f28ee6f4168c24d7207598" label="Mixed Materials [31142054856557]" type="box">7</container>
+          </did>
+        </c>
+        <c id="aspace_b4c8060e15bcae2b193c6f010dad4970" level="file">
+          <did>
+            <unittitle>Robert and Marion Merriman Photographs</unittitle>
+            <unitdate normal="1930/1980" type="inclusive">circa 1930-1980</unitdate>
+            <container altrender="Record carton" id="aspace_2b40c3d368efb863b06182e5bb53d881" label="Mixed Materials [31142054856557]" type="box">7</container>
+          </did>
+        </c>
+        <c id="aspace_833ec7fd82e3bf6fa484dc9de80bf2c2" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Mac-Paps News Bulletin</emph>
+            </unittitle>
+            <unitdate normal="1975/1981" type="inclusive">1975-1981</unitdate>
+            <container altrender="Record carton" id="aspace_35ee2defc684da2ee91ecf80ed67a521" label="Mixed Materials [31142054856557]" type="box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ffc45750849bcaa1c1e42c5911155c26" level="file">
+          <did>
+            <unittitle>Veterans of the Abraham Lincoln Brigade Clippings and Research Files</unittitle>
+            <unitdate normal="1936/1986" type="inclusive">1936-1986</unitdate>
+            <container altrender="Record carton" id="aspace_0cf7192a7c00ac0ff099b720f5519fd4" label="Mixed Materials [31142054856557]" type="box">7</container>
+            <container altrender="Record carton" id="aspace_72ee3017e57f304aea164f7ed565d3ad" label="Mixed Materials [31142054856540]" type="box">8</container>
+          </did>
+        </c>
+        <c id="aspace_1e213560038471e16506ae2dcd29e5df" level="file">
+          <did>
+            <unittitle>Scholarly Articles on the Spanish Civil War</unittitle>
+            <unitdate normal="1939/1986" type="inclusive">1939-1986</unitdate>
+            <container altrender="Record carton" id="aspace_b29e75935d3e47c65e4efe834187f849" label="Mixed Materials [31142054856540]" type="box">8</container>
+          </did>
+        </c>
+        <c id="aspace_855e2776f3ebd67c351492c5fb5f6498" level="file">
+          <did>
+            <unittitle>Robert Merriman Diary Transcripts</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container altrender="Record carton" id="aspace_d2e730af15a7b5660c99eeca04bdf442" label="Mixed Materials [31142054856540]" type="box">8</container>
+          </did>
+        </c>
+        <c id="aspace_6fc0bad4adfea883d38aef77e13a1382" level="file">
+          <did>
+            <unittitle>Lists of American Volunteers in Spain</unittitle>
+            <unitdate normal="1983/1985" type="inclusive">1983-1985</unitdate>
+            <container altrender="Record carton" id="aspace_0056348187f7369484b15356e074564c" label="Mixed Materials [31142054856540]" type="box">8</container>
+          </did>
+        </c>
+        <c id="aspace_2f1edc6150b7679c48d79292355323b9" level="file">
+          <did>
+            <unittitle>Spanish Civil War Scrapbook</unittitle>
+            <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_42e715783c47ec5416135fa978739132" label="Mixed Materials [31142054856532]" type="box">9</container>
+          </did>
+        </c>
+        <c id="aspace_2f5c854a87c64c0bcc876309bc3b8465" level="file">
+          <did>
+            <unittitle>Audio Recordings - Spain</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_dd510138972bce71ef582ccfe2b1c0d5" label="Mixed Materials [31142054856532]" type="box">9</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

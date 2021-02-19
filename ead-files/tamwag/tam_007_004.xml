@@ -1,92 +1,1041 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_007_004/">tam_007_004</eadid><filedesc><titlestmt><titleproper>Guide to the Tamiment Institute Records <num>TAM.007.004</num></titleproper><author>Tamiment Staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2012</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:45:10 -0500</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Tamiment Institute Records</unittitle>
-    <origination label="Creator">
-      <corpname source="naf">Tamiment Institute</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="naf">Tamiment Institute</corpname>
-    </origination>
-    <origination label="source">
-      <corpname role="dnr" source="local">People's Educational Camp Society</corpname>
-    </origination>
-    <unitid>TAM.007.004</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">15.5 Linear Feet</extent>
-      <extent altrender="carrier">in 11 manuscript boxes, 11 record cartons, and one folder in one shared box.</extent>
-    </physdesc>
-    <unitdate normal="1935/1999" type="inclusive">1935-1990s</unitdate>
-    <abstract id="aspace_d72b6c727595d48221ac7d0b37ab4485">The Tamiment Institute was founded in 1935 as the educational arm of the People's Educational Camp Society (PECS), which owned and operated Camp Tamiment, an educational and recreational summer resort (originally) for socialists and their families near Bushkill, in Pennsylvania's Pocono Mountains. The Institute organized lectures, conferences and seminars, essay contests, and book awards at the Camp and in New York City. The Collection contains clippings, correspondence, conference and seminar papers, essays, programs,  administrative and financial records, and photographs.</abstract>
-    <langmaterial id="aspace_dd91e1280214cedbb6f70299a79fc742">Materials are in English</langmaterial>
-  </did>
-  <bioghist id="aspace_ebafee8b69f56f0847334dfbd8465354">
-    <head>Historical/Biographical Note</head>
-<p>The Tamiment Institute was founded in 1935 as the educational arm of the People's Educational Camp Society (PECS), which owned and operated Camp Tamiment, originally a resort for socialists. The Institute organized lectures, an annual conference (1930s-40s) that focused on labor, industrial relations and related issues, seminars, an annual essay contest for college students, an annual book award (beginning in 1950), and concerts. These activities took place at the Camp and in New York City. The seminars featured prominent liberal and social-democratic intellectuals of the day, and were jointly sponsored with <emph render="italic">Daedalus</emph>, the journal of the American Academy of the Arts and Sciences, from 1958 to 1962. Topics included the Cold War, the city, and mass culture.  Upon the 1956 closure and absorption of the Rand School of Social Science (a New York City school for workers and socialists, with close ties with the American socialist movement, founded in 1906) by PECS, the Institute undertook the reorganization of the Rand School's Meyer London Memorial Library, reopened in 1957 as the Tamiment Institute Library, which it then donated it to New York University in 1963. In 1960 the Institute established the quarterly periodical <emph render="italic">Labor History</emph>. The Institute also published the <emph render="italic">New Leader</emph>, successor to the <emph render="italic">New York Call</emph>.</p>  </bioghist>
-  <userestrict id="aspace_c66c4666431910f91e950ca58c0d2929">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the Tamiment Institute, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <accessrestrict id="aspace_021bda0505250bfdaa82981d331d86f3">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <arrangement id="aspace_686cd514ce194158a591ceaa9374ee45">
-    <head>Arrangement</head>
-<p>The records are organized into three series: </p><p>I. Records<lb/>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_007_004/">tam_007_004</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Tamiment Institute Records <num>TAM.007.004</num></titleproper>
+        <author>Tamiment Staff</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:45:10 -0500</date>.</creation>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Tamiment Institute Records</unittitle>
+      <origination label="Creator">
+        <corpname source="naf">Tamiment Institute</corpname>
+      </origination>
+      <origination label="Creator">
+        <corpname source="naf">Tamiment Institute</corpname>
+      </origination>
+      <origination label="source">
+        <corpname role="dnr" source="local">People's Educational Camp Society</corpname>
+      </origination>
+      <unitid>TAM.007.004</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">15.5 Linear Feet</extent>
+        <extent altrender="carrier">in 11 manuscript boxes, 11 record cartons, and one folder in one shared box.</extent>
+      </physdesc>
+      <unitdate normal="1935/1999" type="inclusive">1935-1990s</unitdate>
+      <abstract id="aspace_d72b6c727595d48221ac7d0b37ab4485">The Tamiment Institute was founded in 1935 as the educational arm of the People's Educational Camp Society (PECS), which owned and operated Camp Tamiment, an educational and recreational summer resort (originally) for socialists and their families near Bushkill, in Pennsylvania's Pocono Mountains. The Institute organized lectures, conferences and seminars, essay contests, and book awards at the Camp and in New York City. The Collection contains clippings, correspondence, conference and seminar papers, essays, programs,  administrative and financial records, and photographs.</abstract>
+      <langmaterial id="aspace_dd91e1280214cedbb6f70299a79fc742">Materials are in English</langmaterial>
+    </did>
+    <bioghist id="aspace_ebafee8b69f56f0847334dfbd8465354">
+      <head>Historical/Biographical Note</head>
+      <p>The Tamiment Institute was founded in 1935 as the educational arm of the People's Educational Camp Society (PECS), which owned and operated Camp Tamiment, originally a resort for socialists. The Institute organized lectures, an annual conference (1930s-40s) that focused on labor, industrial relations and related issues, seminars, an annual essay contest for college students, an annual book award (beginning in 1950), and concerts. These activities took place at the Camp and in New York City. The seminars featured prominent liberal and social-democratic intellectuals of the day, and were jointly sponsored with <emph render="italic">Daedalus</emph>, the journal of the American Academy of the Arts and Sciences, from 1958 to 1962. Topics included the Cold War, the city, and mass culture.  Upon the 1956 closure and absorption of the Rand School of Social Science (a New York City school for workers and socialists, with close ties with the American socialist movement, founded in 1906) by PECS, the Institute undertook the reorganization of the Rand School's Meyer London Memorial Library, reopened in 1957 as the Tamiment Institute Library, which it then donated it to New York University in 1963. In 1960 the Institute established the quarterly periodical <emph render="italic">Labor History</emph>. The Institute also published the <emph render="italic">New Leader</emph>, successor to the <emph render="italic">New York Call</emph>.</p>
+    </bioghist>
+    <userestrict id="aspace_c66c4666431910f91e950ca58c0d2929">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the Tamiment Institute, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <accessrestrict id="aspace_021bda0505250bfdaa82981d331d86f3">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <arrangement id="aspace_686cd514ce194158a591ceaa9374ee45">
+      <head>Arrangement</head>
+      <p>The records are organized into three series: </p>
+      <p>I. Records<lb/>
 II. Photographs<lb/>
-III. Addendum: Administrative and Financial Records and Correspondence (Unprocessed)<lb/></p><p>Folders are arranged in alphabetical order by title within the processed portion of the collection; unprocessed materials have not been arranged by archivist.</p>  </arrangement>
-  <relatedmaterial id="aspace_af207744bf853f57a92700f9e889f1a0">
-    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-<p>People's Educational Camp Society and Camp Tamiment (Tamiment 007.3)</p>  </relatedmaterial>
-  <processinfo id="aspace_b06dff0b816fbc1c6142fb769d77a16c">
-    <head>Processing Information</head>
-<p>Photographs from this collection were established as a separate collection, Tamiment Institute Photographs (PHOTOS 195).  In January 2014, this photographs collection was reincorporated into the Tamiment Institute Records (TAM 007.4).</p>  </processinfo>
-  <prefercite id="aspace_267aa86cc60a2d522896c12aa464c016">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Tamiment Institute Records; TAM 007.004; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <scopecontent id="aspace_ef7c700a805d56313745cb704437f87f">
-    <head>Scope and Contents</head>
-<p>Contains correspondence, documents, and a small number of photographs relating to the Tamiment Institute's various activities, including its annual conferences, book awards, and essay contest for college students.  The collection also includes adminstrative and financial records for the Institute.</p>  </scopecontent>
-  <acqinfo id="aspace_1a608b1625e1fa2bddfd60ebff424c47">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by the People's Educational Camp Society, 1963. The accession numbers associated with this gift are 1963.003, 1963.011, and 2010.103.</p><p>A List of Donations Made by Robert D. Bloom in Memory of Louis P. Goldberg was found in the repository. The accession number associated with this material is 2014.047.</p>  </acqinfo>
-  <custodhist id="aspace_6473e0048be7b683ea53426cadd0101b">
-    <head>Custodial History</head>
-<p>The Tamiment Institute Records were transferred to New York University in 1963 by the People's Educational Camp Society (later renamed the Tamiment Institute), as part of a larger transfer of records of the Rand School of Social Science and of organizations associated with the founding and maintenance of the School (including the American Socialist Society, The Society of the Commonwealth Center, and the People's Educational Camp Society) as well as the contents of the School's library, the Meyer London Memorial Library. Additional records were donated in later years, whose likely source is the New York City law firm of Vladeck, Waldman, Elias &amp; Engelhard.</p><p>A List of Donations Made by Robert D. Bloom in Memory of Louis P. Goldberg was found in the repository. The accession number associated with this material is 2014.047.</p>  </custodhist>
-  <controlaccess>
-    <subject source="lcsh">Adult education |z Pennsylvania.</subject>
-    <subject source="lcsh">Socialism -- United States.</subject>
-    <genreform source="aat">Black-and-white photographs.</genreform>
-    <subject source="lcsh">Liberalism |z United States</subject>
-    <subject source="lcsh">Liberals |z United States.</subject>
-    <geogname source="lcsh">Summer resorts -- Pennsylvania.</geogname>
-    <subject source="lcsh">Socialists -- United States.</subject>
-    <persname source="naf">Handlin, Oscar, 1915-</persname>
-    <persname source="naf">Berenson, Bernard, 1865-1959</persname>
-    <persname rules="dacs" source="local">Josephson, Ben, 1895-1980</persname>
-    <persname source="naf">Erikson, Erik H. (Erik Homburger), 1902-1994</persname>
-    <persname source="naf">Bettelheim, Bruno</persname>
-    <persname source="naf">Morgenthau, Hans J. (Hans Joachim), 1904-1980</persname>
-    <persname source="naf">Nagel, Ernest, 1901-1985</persname>
-    <persname role="crp" source="local">Mailly, Bertha Howell -- |v Correspondence</persname>
-    <persname source="naf">Hook, Sidney, 1902-1989</persname>
-    <persname source="naf">Rosten, Leo Calvin, 1908-1997</persname>
-    <corpname source="naf">Tamiment Institute</corpname>
-    <persname source="naf">Niebuhr, Reinhold, 1892-1971</persname>
-    <persname source="naf">Parsons, Talcott, 1902-1979</persname>
-    <corpname source="local">Camp Tamiment (Pa.)</corpname>
-    <persname rules="dacs" source="local">Jacobs, Norman</persname>
-    <corpname source="local">People's Educational Camp Society</corpname>
-    <persname source="local">Blaker, Ben</persname>
-    <persname source="local">Bohn, William E.</persname>
-    <corpname role="dnr" source="local">People's Educational Camp Society</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref10" level="series"><did><unittitle>Series I: Records</unittitle><unitdate normal="1935/1972" type="inclusive">1935-1972</unitdate></did><scopecontent id="aspace_4ccf9c8fb01434ddc5587f4f041f2090"><head>Scope and Content Note</head><p>Series I contains correspondence relating to the Tamiment Institute's various activities, including its annual conferences, notably one that established the journal <emph render="italic">Labor History</emph>, transcripts of conference and seminar papers, entries from the annual essay contest for college students, material relating to the institute's annual book awards, brochures and programs, clippings, and administrative and financial records. The principal correspondents are the successive educational directors of the Tamiment Institute: William E. Bohn, Ben Blaker, and Norman Jacobs, whose correspondence includes exchanges with prominent intellectuals, labor leaders and educators, socialists, journalists, and political figures, mostly concerning their possible or actual participation in Institute-sponsored events and activities. There is also some correspondence of successive Camp Tamiment Directors Bertha Mailly and Ben Josephson, as well as correspondence related to the 50th Anniversary of the <emph render="italic">New Leader</emph>. Conference/seminar papers include those by Bernard Berenson, Bruno Bettelheim, Erik Erikson, Oscar Handlin, Sidney Hook, Hans J. Morgenthau, Ernest Nagel, Reinhold Niebuhr, Talcott Parsons, and Leo Rosten.</p></scopecontent><c id="aspace_ref17" level="file"><did><unittitle>Bohn, William E.: "A Short Snappy Biography" (typescript) </unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_88ad2e5b2265741489d3f190b7a2451a" label="Mixed Materials [31142062771186]" type="box">1</container><container id="aspace_7400f5ee9af3aca2b2f2f43f371ce28d" parent="aspace_88ad2e5b2265741489d3f190b7a2451a" type="folder">1</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Book Award (3rd: 1952) </unittitle><unitdate normal="1952/1952" type="inclusive">1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_ee9be4a844ad6c5073f4692768e737a3" label="Mixed Materials [31142062771186]" type="box">1</container><container id="aspace_fabc7bcccd9f19331becad0bad219bf9" parent="aspace_ee9be4a844ad6c5073f4692768e737a3" type="folder">1a</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Book Award (4th: 1953)</unittitle><unitdate normal="1952/1953" type="inclusive">192-1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_7430994653fb6e69ea70b0c4fe66da02" label="Mixed Materials [31142062771186]" type="box">1</container><container id="aspace_76e37e7989a4abe6e13df91439223728" parent="aspace_7430994653fb6e69ea70b0c4fe66da02" type="folder">2</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Book Award (5th: 1954)</unittitle><unitdate normal="1953/1954" type="inclusive">1953-1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_d48e7edf4775341f1f1b99ddfe99b298" label="Mixed Materials [31142062771186]" type="box">1</container><container id="aspace_67d3ce617690399a982231dd9b7d8eea" parent="aspace_d48e7edf4775341f1f1b99ddfe99b298" type="folder">3</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Book Award (6th: 1955) </unittitle><unitdate normal="1954/1955" type="inclusive">1954-1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_2a737eb785625c287d3ba55daded1373" label="Mixed Materials [31142062771186]" type="box">1</container><container id="aspace_cb4435c03ad2e8ef5777b9d2ae2baec1" parent="aspace_2a737eb785625c287d3ba55daded1373" type="folder">4</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Book Award (7th: 1956)</unittitle><unitdate normal="1956/1956" type="inclusive">1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_1677c3775f04f0b1290cf0ea8368534d" label="Mixed Materials [31142062771186]" type="box">1</container><container id="aspace_286f797d39d138624ea6b58df27d154c" parent="aspace_1677c3775f04f0b1290cf0ea8368534d" type="folder">5</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Book Award (8th: 1957)</unittitle><unitdate>1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_ba2f8ad6ff8dba8bd9ead673b0ca29c9" label="Mixed Materials [31142062771186]" type="box">1</container><container id="aspace_55bdeb84a3efd5a3e62428581a6d05b3" parent="aspace_ba2f8ad6ff8dba8bd9ead673b0ca29c9" type="folder">6</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Book Award (9th: 1958)</unittitle><unitdate normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_3346f540816bea933ab02eaf0c530498" label="Mixed Materials [31142062771186]" type="box">1</container><container id="aspace_07afe44fc1e21a4998ecfa4404d591ed" parent="aspace_3346f540816bea933ab02eaf0c530498" type="folder">7</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Camp Tamiment: Brochures</unittitle><unitdate normal="1958/1960" type="inclusive">1958-1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_ce33394b8b9a4370a9190a9e9e991e0c" label="Mixed Materials [31142062771194]" type="box">1a</container><container id="aspace_ae122d8485ad1cb363d790b6ced6d914" parent="aspace_ce33394b8b9a4370a9190a9e9e991e0c" type="folder">1</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Camp Tamiment Mortgage: Correspondence</unittitle><unitdate normal="1939/1939" type="inclusive">1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_346f57931d04361ff04bc67bc2973340" label="Mixed Materials [31142062771194]" type="box">1a</container><container id="aspace_2b685183ad2150d4ace04a7627caf38a" parent="aspace_346f57931d04361ff04bc67bc2973340" type="folder">2</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Camp Tamiment Town Meeting Series</unittitle><unitdate normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Manuscript box - Legal" id="aspace_22a5001b29ecea39f302bbc6417662b2" label="Mixed Materials [31142062771194]" type="box">1a</container><container id="aspace_402eb5027bbb11680d08556f1c98f021" parent="aspace_22a5001b29ecea39f302bbc6417662b2" type="folder">3</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Chamber Music Festivals: Pamphlets and Posters</unittitle><unitdate normal="1953/1957" type="inclusive">1953-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_9f0cedfa69db114dbf1aa2cacb54b738" label="Mixed Materials [31142062771194]" type="box">1a</container><container id="aspace_9463b650402d44da0f45d5cdcb5e3207" parent="aspace_9f0cedfa69db114dbf1aa2cacb54b738" type="folder">4</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1941/1950" type="inclusive">1941-1942, 1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_1800d02518f7c1975f59802c386f939e" label="Mixed Materials [31142062771194]" type="box">1a</container><container id="aspace_313d73f6b4d3ddc34b9d9bbd89a9dfed" parent="aspace_1800d02518f7c1975f59802c386f939e" type="folder">5  </container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1926/1948" type="inclusive">1926, 1947-1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_65380b5863c88ee071a45af97c8e5f98" label="Mixed Materials [31142062771194]" type="box">1a</container><container id="aspace_43a42445410e15af10db446b35b154f1" parent="aspace_65380b5863c88ee071a45af97c8e5f98" type="folder">6</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1949/1949" type="inclusive">1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_bad6e2a53e0b8c627ce09b8f25f39cfc" label="Mixed Materials [31142062771194]" type="box">1a</container><container id="aspace_1ce682a5073f3f822699b738c44de8a3" parent="aspace_bad6e2a53e0b8c627ce09b8f25f39cfc" type="folder">7</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1951/1956" type="inclusive">1951, 1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_3658c8d825aa2ba4cb131e4f1820d1c5" label="Mixed Materials [31142062771194]" type="box">1a</container><container id="aspace_00033666629270ca215f95998b5eb5aa" parent="aspace_3658c8d825aa2ba4cb131e4f1820d1c5" type="folder">8</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Correspondence: Waldman &amp; Waldman, Attorney</unittitle><unitdate normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_040efdd835aeb3add60d3e789eeac739" label="Mixed Materials [31142062771194]" type="box">1a</container><container id="aspace_cf7e24db5bb25115e34fea27d0bdbcbc" parent="aspace_040efdd835aeb3add60d3e789eeac739" type="folder">9</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Daedalus and Tamiment Institute Seminar on Mass Culture</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_2638cf40515254859bf7713c109742c2" label="Mixed Materials [31142062771194]" type="box">1a</container><container id="aspace_1b4ff73a88614b615ec5a35fe574a9a4" parent="aspace_2638cf40515254859bf7713c109742c2" type="folder">10</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Daedalus and Tamiment Institute Seminar on Mass Culture: Correspondence</unittitle><unitdate normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_967f634b2721a1bb05499494b7f7001a" label="Mixed Materials [31142062771202]" type="box">2</container><container id="aspace_6e0f230eab6a6cd5b370036142155dc8" parent="aspace_967f634b2721a1bb05499494b7f7001a" type="folder">1</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Daedalus and Tamiment Institute Seminar on Mass Culture: Correspondence</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_616ac5ae4d313537a05aa44f44dcfa89" label="Mixed Materials [31142062771202]" type="box">2</container><container id="aspace_ed90a85bb180817ab49e56f154958688" parent="aspace_616ac5ae4d313537a05aa44f44dcfa89" type="folder">2</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Daedalus and Tamiment Institute Seminar on Mass Culture: Minutes</unittitle><unitdate normal="1959/1959" type="inclusive">1959 Jun</unitdate><container altrender="Manuscript box - Legal" id="aspace_bdfdec3df478c1a6d2bb182dd67cee78" label="Mixed Materials [31142062771202]" type="box">2</container><container id="aspace_5b33ae6ba4556ff8769f83b8b35c2c4a" parent="aspace_bdfdec3df478c1a6d2bb182dd67cee78" type="folder">3</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Daedalus and Tamiment Institute Seminar on Mass Culture: Papers</unittitle><unitdate normal="1959/1959" type="inclusive">1959 Mar</unitdate><container altrender="Manuscript box - Legal" id="aspace_2f9ad312ec0416ef3a7613309f79dfbf" label="Mixed Materials [31142062771202]" type="box">2</container><container id="aspace_6ac44c97c60d3771ea003a79ab626cf6" parent="aspace_2f9ad312ec0416ef3a7613309f79dfbf" type="folder">4</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Daedalus and Tamiment Institute Seminar on Mass Culture: Papers, Drafts</unittitle><unitdate normal="1959/1959" type="inclusive">1959 Jun</unitdate><container altrender="Manuscript box - Legal" id="aspace_ab08707c453fcdb97596753aafd6c450" label="Mixed Materials [31142062771210]" type="box">3</container><container id="aspace_6812ef68cddb5d9cf31406ac0f150091" parent="aspace_ab08707c453fcdb97596753aafd6c450" type="folder">1</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Daedalus and Tamiment Institute Seminar on Mass Culture: Related Magazines and Pamphlets</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_702c482d0c35d24a7099ed3d7fcf17e7" label="Mixed Materials [31142062771210]" type="box">3</container><container id="aspace_f96f6492937f949b24ed284b57d9c295" parent="aspace_702c482d0c35d24a7099ed3d7fcf17e7" type="folder">2</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Daedalus and Tamiment Institute Seminar on the Metropolis: Correspondence</unittitle><unitdate normal="1960/1961" type="inclusive">1960-1961</unitdate><container altrender="Manuscript box - Legal" id="aspace_a65c917106b35413585632d11f8b3604" label="Mixed Materials [31142062771210]" type="box">3</container><container id="aspace_f96e78e7ad341e9de274213e7df1de84" parent="aspace_a65c917106b35413585632d11f8b3604" type="folder">3</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Daedalus and Tamiment Institute Seminar on the Metropolis: Minutes</unittitle><unitdate normal="1960/1960" type="inclusive">1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_48fd062935dfc9cf51fc425db14775ae" label="Mixed Materials [31142062771210]" type="box">3</container><container id="aspace_f30adde7f4ade4a025faa1e40f33b617" parent="aspace_48fd062935dfc9cf51fc425db14775ae" type="folder">4</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Daedalus and Tamiment Institute Seminar on the Metropolis: Papers, Drafts</unittitle><unitdate normal="1960/1960" type="inclusive">1960 Jun</unitdate><container altrender="Manuscript box - Legal" id="aspace_98298f8fc68cabbcf55181eeee6b431c" label="Mixed Materials [31142062771210]" type="box">3</container><container id="aspace_9857259f3d7dbf74a33cb7c8f4f6a475" parent="aspace_98298f8fc68cabbcf55181eeee6b431c" type="folder">5</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Daedalus and Tamiment Institute Seminar on Youth: Correspondence</unittitle><unitdate normal="1960/1960" type="inclusive">1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_58e5287a3c50f93d494f1fc842bcf0df" label="Mixed Materials [31142062771228]" type="box">4</container><container id="aspace_90d7461a8714ea1c53233c7896ce28b3" parent="aspace_58e5287a3c50f93d494f1fc842bcf0df" type="folder">1</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Daedalus and Tamiment Institute Seminar on Youth: Correspondence
-</unittitle><unitdate normal="1962/1962" type="inclusive">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_99b6ac2b7f5076c159b81b05406108b1" label="Mixed Materials [31142062771228]" type="box">4</container><container id="aspace_bbc24e2ef23fceff8c3b6127dbea3b85" parent="aspace_99b6ac2b7f5076c159b81b05406108b1" type="folder">3</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Daedalus and Tamiment Institute Seminar on Youth: Papers, Drafts</unittitle><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container altrender="Manuscript box - Legal" id="aspace_cf26878b5e09dde9e05291380d12a7a5" label="Mixed Materials [31142062771228]" type="box">4</container><container id="aspace_0a5677ce57af9a8f5bd53040472acb67" parent="aspace_cf26878b5e09dde9e05291380d12a7a5" type="folder">4</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Daedalus and Tamiment Institute Seminar on United States Foreign Policy
-</unittitle><unitdate normal="1962/1962" type="inclusive">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_b90557c410ebc35a38ba077545cd3f9a" label="Mixed Materials [31142062771228]" type="box">4</container><container id="aspace_60b83361f46933d54eeedca3f526df1b" parent="aspace_b90557c410ebc35a38ba077545cd3f9a" type="folder">5</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Daedalus and Tamiment Institute Seminar on United States Foreign Policy: Draft Texts</unittitle><unitdate normal="1962/1962" type="inclusive">1962 May</unitdate><container altrender="Manuscript box - Legal" id="aspace_f255f4b94924afe5ae3a256171e1da3e" label="Mixed Materials [31142062771228]" type="box">4</container><container id="aspace_a49328292832c57f50efe16cfdc692e8" parent="aspace_f255f4b94924afe5ae3a256171e1da3e" type="folder">6</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Essay Contest (1st)</unittitle><unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_374d9fa6f011a4be7fa15915a687a9eb" label="Mixed Materials [31142062771236]" type="box">5</container><container id="aspace_9dde11266006fbefc670d18cedc8dde4" parent="aspace_374d9fa6f011a4be7fa15915a687a9eb" type="folder">1</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Essay Contest (1st) Correspondence Regarding Eligibility and Certification of Contestants</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_091a0b879eb1ea8cbeab3993a9f56f51" label="Mixed Materials [31142062771236]" type="box">5</container><container id="aspace_34d5dfd5172cb08aca7809fe09722657" parent="aspace_091a0b879eb1ea8cbeab3993a9f56f51" type="folder">2</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Essay Contest (1st) Essays
-</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_f993d774248abfe9cf5d1f03d33ca93d" label="Mixed Materials [31142062771236]" type="box">5</container><container id="aspace_57c73da92c2ae7589435599fa91079cc" parent="aspace_f993d774248abfe9cf5d1f03d33ca93d" type="folder">3</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Essay Contest (1st) Evaluation Material</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_705cc993f9a1ddac1f54d9b602ae8f0c" label="Mixed Materials [31142062771236]" type="box">5</container><container id="aspace_baa346ca407fb1ee0be9572622a11c46" parent="aspace_705cc993f9a1ddac1f54d9b602ae8f0c" type="folder">4</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Essay Contest (1st) Log</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_85275331bf5042e2ec2409f6c6320c90" label="Mixed Materials [31142062771236]" type="box">5</container><container id="aspace_9818fc397a9a70fd0e0a4f2229c6cedf" parent="aspace_85275331bf5042e2ec2409f6c6320c90" type="folder">5</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Essay Contest (2nd)</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_cc2bd93fa1b20b2899952c2fa9848d83" label="Mixed Materials [31142062771236]" type="box">5</container><container id="aspace_e0d04167c6da3389c800baffe844083c" parent="aspace_cc2bd93fa1b20b2899952c2fa9848d83" type="folder">6</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Essay Contest (2nd) Correspondence: Postcards </unittitle><unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_bf51bd0b3737995879c69c91bcb2d42d" label="Mixed Materials [31142062771236]" type="box">5</container><container id="aspace_f080e36c8431c0b7356a9fb5098e6cd2" parent="aspace_bf51bd0b3737995879c69c91bcb2d42d" type="folder">7</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Essay Contest (2nd) Correspondence Relating To Information And Entry-Blanks</unittitle><unitdate normal="1947/1947" type="inclusive">1947 Jan-1947 Feb</unitdate><container altrender="Manuscript box - Legal" id="aspace_01293cda1fd163b75212e9ecfeb5810f" label="Mixed Materials [31142062771236]" type="box">5</container><container id="aspace_2fb75494cc7a0fec35aecbaabe4908e8" parent="aspace_01293cda1fd163b75212e9ecfeb5810f" type="folder">8</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Essay Contest (2nd) Correspondence Relating To Information And Entry-Blanks</unittitle><unitdate normal="1948/1948" type="inclusive">1948 Jan</unitdate><container altrender="Manuscript box - Legal" id="aspace_b3ee23012cb035290e7f33375bdd7154" label="Mixed Materials [31142062771236]" type="box">5</container><container id="aspace_6531a903b0eecc954ad306ee0c261843" parent="aspace_b3ee23012cb035290e7f33375bdd7154" type="folder">9</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Essay Contest (2nd) Correspondence Relating To Information And Entry-Blanks</unittitle><unitdate normal="1948/1948" type="inclusive">1948  Feb</unitdate><container altrender="Manuscript box - Legal" id="aspace_c5c921f88e28f66d8ce8168a9da97989" label="Mixed Materials [31142062771236]" type="box">5</container><container id="aspace_1054803c867fdfc0eef50276becb875c" parent="aspace_c5c921f88e28f66d8ce8168a9da97989" type="folder">10</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Essay Contest (2nd) Correspondence Relating To Information And Entry-Blanks </unittitle><unitdate normal="1948/1948" type="inclusive">1948 Mar-1948 Apr </unitdate><container altrender="Manuscript box - Legal" id="aspace_cd233132a76c9f2d921948859de4bcff" label="Mixed Materials [31142062771244]" type="box">6</container><container id="aspace_1e8b38ec2750d2bcb7128c3c8a00ea54" parent="aspace_cd233132a76c9f2d921948859de4bcff" type="folder">1</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Essay Contest (2nd) Correspondence Relating To Information And Entry-Blanks</unittitle><unitdate normal="1948/1948" type="inclusive">1948 May-1948 Dec </unitdate><container altrender="Manuscript box - Legal" id="aspace_25ff8d64dcc73439aea97459b343af37" label="Mixed Materials [31142062771244]" type="box">6</container><container id="aspace_1592269a69c0a98e0d65d78d7a7e87da" parent="aspace_25ff8d64dcc73439aea97459b343af37" type="folder">2</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Essay Contest (2nd) Evaluation Materials</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_20770e8b172cc844d06ae63a00434e82" label="Mixed Materials [31142062771244]" type="box">6</container><container id="aspace_c31820389deef529539df4ea0c2ed86e" parent="aspace_20770e8b172cc844d06ae63a00434e82" type="folder">3</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Essay Contest (2nd) Log</unittitle><unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_41e411b80c79c395a83eb8a9ebb275ea" label="Mixed Materials [31142062771244]" type="box">6</container><container id="aspace_6ec6517b0a7c6959a9bde43c5e3c3153" parent="aspace_41e411b80c79c395a83eb8a9ebb275ea" type="folder">4</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Essay Contest (2nd) Non-Prize Winning Essays/1</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_58124cdb753aea29686d13bd085d310c" label="Mixed Materials [31142062771244]" type="box">6</container><container id="aspace_1c884c957c7ac2d0d2a86529f06c386b" parent="aspace_58124cdb753aea29686d13bd085d310c" type="folder">5</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Essay Contest (2nd) Non-Prize Winning Essays/2</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_b05ea0eeb877026ebfb7fee5809b6071" label="Mixed Materials [31142062771244]" type="box">6</container><container id="aspace_3fd543474ac5cb6849672c2057fe7d4b" parent="aspace_b05ea0eeb877026ebfb7fee5809b6071" type="folder">6</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Essay Contest (2nd) Prize Winning Essays</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_eccce7407f25379cfb909d22eff81e60" label="Mixed Materials [31142062771244]" type="box">6</container><container id="aspace_47f5d7811e5214f6afcac92788cdc221" parent="aspace_eccce7407f25379cfb909d22eff81e60" type="folder">7</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Essay Contest (2nd) Reports</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_d459c40249d5801a35fb4dee81dbcae8" label="Mixed Materials [31142062771244]" type="box">6</container><container id="aspace_65fe88836e996f36939591c5274c8f23" parent="aspace_d459c40249d5801a35fb4dee81dbcae8" type="folder">8</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Essay Contest (4th) Correspondence</unittitle><unitdate normal="1956/1956" type="inclusive">1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_76e15676151bbeaabf8f8869f727b28b" label="Mixed Materials [31142062771244]" type="box">6</container><container id="aspace_c67cfdb6ab687eacb1f5a47a652bb47e" parent="aspace_76e15676151bbeaabf8f8869f727b28b" type="folder">9</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Essay Contests: Bulletins and Publicity Materials </unittitle><unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_2ca5616ab02c4321aa02cb1d7aba3b74" label="Mixed Materials [31142062771251]" type="box">7</container><container id="aspace_bec9c4648084f2b03eb4f123d81accd1" parent="aspace_2ca5616ab02c4321aa02cb1d7aba3b74" type="folder">1</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Financial</unittitle><unitdate normal="1972/1974" type="inclusive">1972-1974</unitdate><container altrender="Manuscript box - Legal" id="aspace_e12320ad550f7a9604b8137f70fa2e07" label="Mixed Materials [31142062771251]" type="box">7</container><container id="aspace_1463c2c4e06d26766b8a54f4d501bd50" parent="aspace_e12320ad550f7a9604b8137f70fa2e07" type="folder">2</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Forum on Communism in the Twentieth Century </unittitle><unitdate normal="1956/1956" type="inclusive">1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_2e7a9bd90684831606ca31eff4feba03" label="Mixed Materials [31142062771251]" type="box">7</container><container id="aspace_10ece07fc82bca255cee37cb04659d6e" parent="aspace_2e7a9bd90684831606ca31eff4feba03" type="folder">2a</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Forum on Marxism Correspondence </unittitle><unitdate>1958 Nov-1959 Mar</unitdate><container altrender="Manuscript box - Legal" id="aspace_0050d5df38a432d998a6ce4ece1d1ea3" label="Mixed Materials [31142062771251]" type="box">7</container><container id="aspace_81fea30396c3f98d6db93cad74ede99d" parent="aspace_0050d5df38a432d998a6ce4ece1d1ea3" type="folder">3</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Forum on American Foreign Policy – Minutes </unittitle><unitdate normal="1958/1958" type="inclusive">1958 Feb 26</unitdate><container altrender="Manuscript box - Legal" id="aspace_2da7e612d718635b71d5500785d634d6" label="Mixed Materials [31142062771251]" type="box">7</container><container id="aspace_b90f374401fdadf3f5de33cb5526d272" parent="aspace_2da7e612d718635b71d5500785d634d6" type="folder">4</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Josephson, Ben Yearbook (Calendar)</unittitle><unitdate normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_1cc1d3c607f23f51d55a5cc9ec34af9e" label="Mixed Materials [31142062771251]" type="box">7</container><container id="aspace_b02d4b905ea305dee2a405c59d5c432f" parent="aspace_1cc1d3c607f23f51d55a5cc9ec34af9e" type="folder">5</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Labor Archives of the Tamiment Library at NYU: Correspondence </unittitle><unitdate normal="1964/1968" type="inclusive">1964-1968</unitdate><container altrender="Manuscript box - Legal" id="aspace_51e90d94f585f46cd8d3cccf51f8cfa6" label="Mixed Materials [31142062771251]" type="box">7</container><container id="aspace_9b689105ff432dc6a95223b81e1c7c56" parent="aspace_51e90d94f585f46cd8d3cccf51f8cfa6" type="folder">6</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>Labor History Conference: Correspondence </unittitle><unitdate normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_bb303969ae70d85a84dc74d69113520e" label="Mixed Materials [31142062771251]" type="box">7</container><container id="aspace_fdabd27e1671301a027c8ab564821cc2" parent="aspace_bb303969ae70d85a84dc74d69113520e" type="folder">7</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Labor History: Correspondence</unittitle><unitdate normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_adb07e4547ca69cabb60df6971a3c6f4" label="Mixed Materials [31142062771251]" type="box">7</container><container id="aspace_0590307d071ac697d5b22866d6d119ee" parent="aspace_adb07e4547ca69cabb60df6971a3c6f4" type="folder">8</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Labor History: Correspondence</unittitle><unitdate normal="1959/1962" type="inclusive">1959-1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_3c085c5f905a8deed6df9fc7ca151feb" label="Mixed Materials [31142062771251]" type="box">7</container><container id="aspace_d643a532cac9c6faa5181d7c13879301" parent="aspace_3c085c5f905a8deed6df9fc7ca151feb" type="folder">9</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Lecture Series: Correspondence</unittitle><unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_59c0f6bdee7491e1b780383edab4b066" label="Mixed Materials [31142062771269]" type="box">8</container><container id="aspace_abbf6ac39c26bcc6b393c571e1885673" parent="aspace_59c0f6bdee7491e1b780383edab4b066" type="folder">1</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Lecture Series: Correspondence </unittitle><unitdate normal="1957/1959" type="inclusive">1957-1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_8f675b3bd1e60221ed0d5e04f5aa2b65" label="Mixed Materials [31142062771269]" type="box">8</container><container id="aspace_aae7c987fa1929fa31c7b3c9e9d0a308" parent="aspace_8f675b3bd1e60221ed0d5e04f5aa2b65" type="folder">2</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Lee, Algernon: Life Insurance Policy – Correspondence </unittitle><unitdate normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_1c62e5af36c90177be30ceecb1671ac8" label="Mixed Materials [31142062771269]" type="box">8</container><container id="aspace_352a66fe89a3bdd7c2be9a5d192479d2" parent="aspace_1c62e5af36c90177be30ceecb1671ac8" type="folder">3</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>Lee, Algernon: Obituaries</unittitle><unitdate normal="1954/1954" type="inclusive">1954 Jan</unitdate><container altrender="Manuscript box - Legal" id="aspace_89bb6ac6d3941ff5eb8f1d60618fe2c1" label="Mixed Materials [31142062771269]" type="box">8</container><container id="aspace_97f80aadeebd56b6c3c845fcee0dcd04" parent="aspace_89bb6ac6d3941ff5eb8f1d60618fe2c1" type="folder">3a</container></did></c><c id="aspace_ref132" level="file"><did><unittitle>List of Donations Made by Robert D. Bloom in Memory of Louis P. Goldberg</unittitle><unitdate>circa 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_1486c075be2c4f9cd0e087f35b16e4fa" label="Mixed Materials [31142062722528]" type="box">MS002</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>Meyer London Memorial Library </unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_068bbedce8f50c6636685f535956b527" label="Mixed Materials [31142062771269]" type="box">8</container><container id="aspace_a784b3ae7a61c43c798b2e0d3857bc3c" parent="aspace_068bbedce8f50c6636685f535956b527" type="folder">4</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>National Labor Conference (1st) </unittitle><unitdate normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_76c77f86caa594e288a1049d70ddae10" label="Mixed Materials [31142062771269]" type="box">8</container><container id="aspace_6bf07fbcf6e11839743639d56d4423ab" parent="aspace_76c77f86caa594e288a1049d70ddae10" type="folder">4a</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>National Labor Conference (2nd)</unittitle><unitdate normal="1936/1936" type="inclusive">1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_e831cf2b0c39168ad39e49832de2ab81" label="Mixed Materials [31142062771269]" type="box">8</container><container id="aspace_cb0194cd93d7d0556f4b4224c4800aa2" parent="aspace_e831cf2b0c39168ad39e49832de2ab81" type="folder">5</container></did></c><c id="aspace_ref97" level="file"><did><unittitle>New Leader: Loan to 50th Anniversary of </unittitle><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Manuscript box - Legal" id="aspace_cdafa8813956ece0f7259864d267d80e" label="Mixed Materials [31142062771269]" type="box">8</container><container id="aspace_1202f0caeff3d9c7e11da98c5850e692" parent="aspace_cdafa8813956ece0f7259864d267d80e" type="folder">6</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>Rand School: Winter Ball</unittitle><unitdate normal="1921/1921" type="inclusive">1921</unitdate><container altrender="Manuscript box - Legal" id="aspace_e4b3dd8cfd328e955b1caaf3bcde98a6" label="Mixed Materials [31142062771269]" type="box">8</container><container id="aspace_47ba1dc64f529098315b7f05c088e2f5" parent="aspace_e4b3dd8cfd328e955b1caaf3bcde98a6" type="folder">6a</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Seminar on Education: Clippings</unittitle><unitdate normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_a5c722f6779caa85e0d4c5a0159183ec" label="Mixed Materials [31142062771269]" type="box">8</container><container id="aspace_29a9f120cc546a8eb89b07b60ba68309" parent="aspace_a5c722f6779caa85e0d4c5a0159183ec" type="folder">7</container></did></c><c id="aspace_ref100" level="file"><did><unittitle>Seminar on Education: Correspondence </unittitle><unitdate normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_613d21ad220214a35a9acecb5e2f74c7" label="Mixed Materials [31142062771269]" type="box">8</container><container id="aspace_75c3438d3ae6b1725b9f9c1fff605679" parent="aspace_613d21ad220214a35a9acecb5e2f74c7" type="folder">7a </container></did></c><c id="aspace_ref101" level="file"><did><unittitle>Seminar on Education – Papers: Arthur Bestor, Douglas Bush, John Childs, Sidney Hook, Hans J. Morgenthau</unittitle><unitdate normal="1958/1958" type="inclusive">1958 Jun</unitdate><container altrender="Manuscript box - Legal" id="aspace_9e071eb571ba2bed35becbc4ceed2fd3" label="Mixed Materials [31142062771269]" type="box">8</container><container id="aspace_742589df98aefd72484b908ae5bc7f11" parent="aspace_9e071eb571ba2bed35becbc4ceed2fd3" type="folder">8</container></did></c><c id="aspace_ref102" level="file"><did><unittitle>Seminar on Education: Partial Transcript
-</unittitle><unitdate normal="1958/1958" type="inclusive">1958 Jun</unitdate><container altrender="Manuscript box - Legal" id="aspace_63fd4952ddbf9cc0b7f96a7924fac4d8" label="Mixed Materials [31142062771269]" type="box">8</container><container id="aspace_4506ba3a272502e260d9bbb46a23edf1" parent="aspace_63fd4952ddbf9cc0b7f96a7924fac4d8" type="folder">9</container></did></c><c id="aspace_ref103" level="file"><did><unittitle>String Quartet Composition Award: Correspondence </unittitle><unitdate normal="1953/1955" type="inclusive">1953-1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_0399996e922564a4cdabe025f325ed84" label="Mixed Materials [31142062771277]" type="box">9</container><container id="aspace_2128849eb329e399c9a666bc88cb6c70" parent="aspace_0399996e922564a4cdabe025f325ed84" type="folder">1</container></did></c><c id="aspace_ref104" level="file"><did><unittitle>String Quartet Composition Award: Correspondence </unittitle><unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_0f79c74dd7323123faedadbc66a64bff" label="Mixed Materials [31142062771277]" type="box">9</container><container id="aspace_650b625d635147a282676a3d6d31dad9" parent="aspace_0f79c74dd7323123faedadbc66a64bff" type="folder">2</container></did></c><c id="aspace_ref105" level="file"><did><unittitle>Tamiment Institute Conference (4th): Correspondence and Other Materials </unittitle><unitdate normal="1938/1938" type="inclusive">1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_67d857e169f3988a9bb799939fa22bdb" label="Mixed Materials [31142062771277]" type="box">9</container><container id="aspace_8f8829171da76ada41b95a4d29dd1cbb" parent="aspace_67d857e169f3988a9bb799939fa22bdb" type="folder">3</container></did></c><c id="aspace_ref106" level="file"><did><unittitle>Tamiment Institute Conference (5th): Correspondence and Other Materials</unittitle><unitdate normal="1938/1939" type="inclusive">1938 Sep-1939 Jul</unitdate><container altrender="Manuscript box - Legal" id="aspace_9024c5509a087758a0835d986d553d8e" label="Mixed Materials [31142062771277]" type="box">9</container><container id="aspace_52e0dcd146a495c09eec647c7a2c4957" parent="aspace_9024c5509a087758a0835d986d553d8e" type="folder">4</container></did></c><c id="aspace_ref107" level="file"><did><unittitle>Tamiment Institute Conference (6th): Correspondence and Other Materials</unittitle><unitdate normal="1940/1940" type="inclusive">1940 Apr-1940 May</unitdate><container altrender="Manuscript box - Legal" id="aspace_93108cdd53f7f06bb1c8b93d15a796a0" label="Mixed Materials [31142062771277]" type="box">9</container><container id="aspace_3cdb3ac46db5a359d28143b3ec460e70" parent="aspace_93108cdd53f7f06bb1c8b93d15a796a0" type="folder">5</container></did></c><c id="aspace_ref108" level="file"><did><unittitle>Tamiment Institute Conference (6th): Correspondence and Other Materials</unittitle><unitdate normal="1940/1940" type="inclusive">1940 May-1940 Jun</unitdate><container altrender="Manuscript box - Legal" id="aspace_0e3fc2324bab8964ac1fad01fe809842" label="Mixed Materials [31142062771277]" type="box">9</container><container id="aspace_31286490400237a20469018d2ab321c1" parent="aspace_0e3fc2324bab8964ac1fad01fe809842" type="folder">6</container></did></c><c id="aspace_ref109" level="file"><did><unittitle>Tamiment Institute Conference (7th): Correspondence and Other Materials </unittitle><unitdate normal="1941/1941" type="inclusive">1941 Feb-1941 Jun 19</unitdate><container altrender="Manuscript box - Legal" id="aspace_2297247d5becc5906304ca82a9a570fb" label="Mixed Materials [31142062771277]" type="box">9</container><container id="aspace_e5daa351d84cf768634daecf54b56b23" parent="aspace_2297247d5becc5906304ca82a9a570fb" type="folder">7</container></did></c><c id="aspace_ref110" level="file"><did><unittitle>Tamiment Institute Conference (7th): Correspondence and Other Materials</unittitle><unitdate normal="1941/1941" type="inclusive">1941 Jun 20-1941 Jun 27 </unitdate><container altrender="Manuscript box - Legal" id="aspace_f4bd3cb055311ee673281b9db1dd29d3" label="Mixed Materials [31142062771277]" type="box">9</container><container id="aspace_776a486977978403d10ad1d7ab05320f" parent="aspace_f4bd3cb055311ee673281b9db1dd29d3" type="folder">8</container></did></c><c id="aspace_ref111" level="file"><did><unittitle>Tamiment Institute Conference (8th): Correspondence and Other Materials</unittitle><unitdate normal="1942/1942" type="inclusive">1942 Mar-1942 Jul </unitdate><container altrender="Manuscript box - Legal" id="aspace_8c8298aea2e4844750a736fc1f94bc7d" label="Mixed Materials [31142062771277]" type="box">9</container><container id="aspace_6b74d44c3ebb852010c7d221c94d04f8" parent="aspace_8c8298aea2e4844750a736fc1f94bc7d" type="folder">9</container></did></c><c id="aspace_ref112" level="file"><did><unittitle>Tamiment Institute Conference (9th): Correspondence and Other Materials </unittitle><unitdate normal="1943/1943" type="inclusive">1943 May-1943 Jul</unitdate><container altrender="Manuscript box - Legal" id="aspace_d4e8621f880209579bfd3a03a3d3f714" label="Mixed Materials [31142062771277]" type="box">9</container><container id="aspace_da16ecc06d496d7a5dd5bec446abe0bb" parent="aspace_d4e8621f880209579bfd3a03a3d3f714" type="folder">10</container></did></c><c id="aspace_ref113" level="file"><did><unittitle>Tamiment Institute Conference (9th) – Labor Union Attendance: Correspondence and Other Materials</unittitle><unitdate normal="1943/1943" type="inclusive">1943 May-1943 Jun</unitdate><container altrender="Manuscript box - Legal" id="aspace_9e34d0a167868726f51247b4de9e4056" label="Mixed Materials [31142062771277]" type="box">9</container><container id="aspace_0e79a038cbeb7ab9457e1f9b4dd2149e" parent="aspace_9e34d0a167868726f51247b4de9e4056" type="folder">11</container></did></c><c id="aspace_ref114" level="file"><did><unittitle>Tamiment Institute Conference (10th): Correspondence and Other Materials</unittitle><unitdate normal="1944/1944" type="inclusive"> 1944 Apr-1944 Aug </unitdate><container altrender="Manuscript box - Legal" id="aspace_7160d8cfcc762792521daca3bc9c2a78" label="Mixed Materials [31142062771277]" type="box">9</container><container id="aspace_78a227895c3725179272b404c8078f57" parent="aspace_7160d8cfcc762792521daca3bc9c2a78" type="folder">12</container></did></c><c id="aspace_ref115" level="file"><did><unittitle>Tamiment Institute Conference (10th) – Labor Union Attendance: Correspondence and Other Materials</unittitle><unitdate normal="1944/1944" type="inclusive">1944 Mar-1944 Aug</unitdate><container altrender="Manuscript box - Legal" id="aspace_53c5fe0af3b3df06c9d4934dfd2251b2" label="Mixed Materials [31142062771319]" type="box">10</container><container id="aspace_b0a2325c1976d7e3ef8ada16fe7d3d57" parent="aspace_53c5fe0af3b3df06c9d4934dfd2251b2" type="folder">1</container></did></c><c id="aspace_ref116" level="file"><did><unittitle>Tamiment Institute Conference (11th): Correspondence and Other Materials</unittitle><unitdate normal="1945/1945" type="inclusive">1945 May-1945 Jul</unitdate><container altrender="Manuscript box - Legal" id="aspace_8df19fc3498094dfc70cb1925eaf949f" label="Mixed Materials [31142062771319]" type="box">10</container><container id="aspace_486c797de439bc7bb59cfc120435c8f3" parent="aspace_8df19fc3498094dfc70cb1925eaf949f" type="folder">2</container></did></c><c id="aspace_ref117" level="file"><did><unittitle>Tamiment Institute Conference (12th): Correspondence and Other Materials </unittitle><unitdate normal="1946/1946" type="inclusive">1946 Apr-1946 Jun</unitdate><container altrender="Manuscript box - Legal" id="aspace_809031952648a6ea0d4b3cd6c53d7055" label="Mixed Materials [31142062771319]" type="box">10</container><container id="aspace_57f0b868739b476df3a61850da4b3eff" parent="aspace_809031952648a6ea0d4b3cd6c53d7055" type="folder">3</container></did></c><c id="aspace_ref118" level="file"><did><unittitle>Tamiment Institute Conference (12th): Correspondence and Other Materials</unittitle><unitdate normal="1946/1946" type="inclusive">1946 Jun 20-1946 Jun 28</unitdate><container altrender="Manuscript box - Legal" id="aspace_c60d3dae0bca68557fc7213a0ee2292b" label="Mixed Materials [31142062771319]" type="box">10</container><container id="aspace_24ca5e06c0305e5ff12ebf9d859f6196" parent="aspace_c60d3dae0bca68557fc7213a0ee2292b" type="folder">4</container></did></c><c id="aspace_ref119" level="file"><did><unittitle>Tamiment Institute Conference (13th): Correspondence and Other Materials </unittitle><unitdate normal="1947/1947" type="inclusive">1947 Jun 6-1947 Jun 24 </unitdate><container altrender="Manuscript box - Legal" id="aspace_d8013d3a1ac72c6445f3340e39100a3e" label="Mixed Materials [31142062771319]" type="box">10</container><container id="aspace_fb3b26dd1976dfc536a23fe3ec0a7077" parent="aspace_d8013d3a1ac72c6445f3340e39100a3e" type="folder">5</container></did></c><c id="aspace_ref120" level="file"><did><unittitle>Tamiment Institute Conference (14th): Correspondence and Other Materials</unittitle><unitdate normal="1948/1948" type="inclusive">1948 Apr-1948 May</unitdate><container altrender="Manuscript box - Legal" id="aspace_078b00911ba8adef1da90ed1de50b49f" label="Mixed Materials [31142062771319]" type="box">10</container><container id="aspace_be3b20f56498fe887df2cf260b71ed5f" parent="aspace_078b00911ba8adef1da90ed1de50b49f" type="folder">6</container></did></c><c id="aspace_ref121" level="file"><did><unittitle>Tamiment Institute Conference (14th): Correspondence and Other Materials</unittitle><unitdate normal="1948/1948" type="inclusive">1948 Jun</unitdate><container altrender="Manuscript box - Legal" id="aspace_b6adb9af1e21f1e57e112b6ff5888b6a" label="Mixed Materials [31142062771319]" type="box">10</container><container id="aspace_99e38c1d9413b5f834cd64a3d0b317eb" parent="aspace_b6adb9af1e21f1e57e112b6ff5888b6a" type="folder">7</container></did></c><c id="aspace_ref122" level="file"><did><unittitle>Tamiment Institute Library: Reports</unittitle><unitdate normal="1957/1958" type="inclusive">1957-1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_b50c7e31fc0b2381ef01162e00f2f8e1" label="Mixed Materials [31142062771319]" type="box">10</container><container id="aspace_ba30ef408b4d4fded46c57d37b596715" parent="aspace_b50c7e31fc0b2381ef01162e00f2f8e1" type="folder">7a</container></did></c><c id="aspace_ref123" level="file"><did><unittitle>Tamiment Institute Publications, Requests for, Invoices, etc.</unittitle><unitdate normal="1955/1961" type="inclusive">1955-1961</unitdate><container altrender="Manuscript box - Legal" id="aspace_17a5aabcbfc3fa6ab70ec0d346c3e163" label="Mixed Materials [31142062771319]" type="box">10</container><container id="aspace_97ffea1c9dabcc2ed7c52f3b1977ad95" parent="aspace_17a5aabcbfc3fa6ab70ec0d346c3e163" type="folder">8</container></did></c><c id="aspace_ref124" level="file"><did><unittitle><emph render="italic">The Sandpiper</emph> (Sandyville School children's newsletter)  </unittitle><unitdate normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_41ea4391eed669b1a5982876b9a2d747" label="Mixed Materials [31142062771319]" type="box">10</container><container id="aspace_cd880b551dd1f4f82663a95b57035859" parent="aspace_41ea4391eed669b1a5982876b9a2d747" type="folder">8a</container></did></c><c id="aspace_ref125" level="file"><did><unittitle>Vladeck, Baruch Charney Biography: Grant to Franklin Jonas</unittitle><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Manuscript box - Legal" id="aspace_5cbc8888a916b397029a72734b1a05d7" label="Mixed Materials [31142062771319]" type="box">10</container><container id="aspace_e5ef339db14ccefa33cca1faa7cc63fc" parent="aspace_5cbc8888a916b397029a72734b1a05d7" type="folder">9</container></did></c></c><c id="aspace_ref9" level="series"><did><unittitle>Series II. Photographs</unittitle><unitdate normal="1950/1958" type="inclusive">1950-1958, undated</unitdate></did><scopecontent id="aspace_653fbb20fd3663b9b886db16f454c690"><head>Scope and Content Note</head><p>Series II consists of black and white photographs that include images of the Tamiment Institute's annual book award ceremonies, of 1950 (to Rupert Hughes for his fictionalized biography of Samuel Gompers "The Giant Awakes"), 1951 (to Ethel Waters, for her autobiography, "His Eye Is On The Sparrow), 1953 (Carl Sandberg, for "Always the Young Strangers"), and 1958 (to John Kenneth Galbraith for "The Affluent Society"), at Camp Tamiment in Bushkill, Pennsylvania and at the Waldorf-Astoria Hotel in New York City.  Besides the authors being honored, photographs include Marx Lewis,   Daniel Bell, Harry Laidler, Ben Josephson, and Eugene Lyons.  Some were shot by Camp Tamiment photographer "Snappy" Lewis Goren.  There are also shots of of unidentified lectures or seminars and classical music performances at Camp Tamiment circa the 1950s.</p></scopecontent><c id="aspace_ref127" level="file"><did><unittitle>Tamiment Institute - Photographs</unittitle><unitdate normal="1950/1958" type="inclusive">1950-1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_a7a8106c10d9b10d4842ca0517b5b50d" label="photographs [31142062838852]" type="box">Shared A006</container><container id="aspace_b34825e0c05d9598b1783944c9e47caf" parent="aspace_a7a8106c10d9b10d4842ca0517b5b50d" type="folder">1</container></did></c><c id="aspace_5010e5444654acf59bc9041f707b32f8" level="file"><did><unittitle>Loose photograph of Perry Como and child</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_9381619377dc5ed04e3154e2806afe1e" label="Mixed Materials [31142062882389]" type="box">Shared Tamiment 018</container><container id="aspace_be415783fe56065b8e67de62c7de8743" parent="aspace_9381619377dc5ed04e3154e2806afe1e" type="folder">19</container></did></c></c><c id="aspace_ref11" level="series"><did><unittitle>Series III. Addendum: Administrative and Financial Records and Correspondence (Unprocessed)</unittitle><unitdate normal="1970/1999" type="inclusive">1970s-1990s, undated</unitdate></did><scopecontent id="aspace_2e875a236c6f4103c5a06463028b3af1"><head>Scope and Content Note</head><p>Series III consists of administrative and financial records, and correspondence from 1970s through the 1990s.</p></scopecontent><c id="aspace_ref23" level="file"><did><unittitle>Administrative Records 1</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_c84f0d68c923135f540f470def9bd04e" label="Mixed Materials [31142063398385]" type="box">11</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Administrative Records 2</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_261cad6a7e5aec0abf0aec49d8e34749" label="Mixed Materials [31142063398393]" type="box">12</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Administrative Records 3</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_2ddc88dfbd93770dc4093a784259d984" label="Mixed Materials [31142063398401]" type="box">13</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1970/1999" type="inclusive">1970s-1990s</unitdate><container altrender="Record carton" id="aspace_e9e75e8845bbf1a219a5c082fb033933" label="Mixed Materials [31142063398419]" type="box">14</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Financial Records 1</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_6ca1d3a34e7da49f8f19c5a1b3e026cf" label="Mixed Materials [31142063398427]" type="box">15</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Financial Records 2 </unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_1cec15a8df5fe95a7bd1e5d2097523e0" label="Mixed Materials [31142063398435]" type="box">16</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Financial Records 3</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_53705a118e64a444b62f3f03146110af" label="Mixed Materials [31142063398443]" type="box">17</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Financial Records 4</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_032b59dc66e6d826f9f3d6e907b3f284" label="Mixed Materials [31142063398369]" type="box">18</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Financial Records 5 </unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_e3c18cf24bdc4f8a608752f6e22374d7" label="Mixed Materials [31142063398351]" type="box">19</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Financial Records 6 </unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_1e2b8b9596c69e0b982173a6c11c2672" label="Mixed Materials [31142063398344]" type="box">20</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Financial Records 7</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_1b8c69bc9c86d7750b6698a36aeafdf2" label="Mixed Materials [31142063398377]" type="box">21</container></did></c></c></dsc>
-</archdesc>
+III. Addendum: Administrative and Financial Records and Correspondence (Unprocessed)<lb/></p>
+      <p>Folders are arranged in alphabetical order by title within the processed portion of the collection; unprocessed materials have not been arranged by archivist.</p>
+    </arrangement>
+    <relatedmaterial id="aspace_af207744bf853f57a92700f9e889f1a0">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>People's Educational Camp Society and Camp Tamiment (Tamiment 007.3)</p>
+    </relatedmaterial>
+    <processinfo id="aspace_b06dff0b816fbc1c6142fb769d77a16c">
+      <head>Processing Information</head>
+      <p>Photographs from this collection were established as a separate collection, Tamiment Institute Photographs (PHOTOS 195).  In January 2014, this photographs collection was reincorporated into the Tamiment Institute Records (TAM 007.4).</p>
+    </processinfo>
+    <prefercite id="aspace_267aa86cc60a2d522896c12aa464c016">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Tamiment Institute Records; TAM 007.004; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <scopecontent id="aspace_ef7c700a805d56313745cb704437f87f">
+      <head>Scope and Contents</head>
+      <p>Contains correspondence, documents, and a small number of photographs relating to the Tamiment Institute's various activities, including its annual conferences, book awards, and essay contest for college students.  The collection also includes adminstrative and financial records for the Institute.</p>
+    </scopecontent>
+    <acqinfo id="aspace_1a608b1625e1fa2bddfd60ebff424c47">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by the People's Educational Camp Society, 1963. The accession numbers associated with this gift are 1963.003, 1963.011, and 2010.103.</p>
+      <p>A List of Donations Made by Robert D. Bloom in Memory of Louis P. Goldberg was found in the repository. The accession number associated with this material is 2014.047.</p>
+    </acqinfo>
+    <custodhist id="aspace_6473e0048be7b683ea53426cadd0101b">
+      <head>Custodial History</head>
+      <p>The Tamiment Institute Records were transferred to New York University in 1963 by the People's Educational Camp Society (later renamed the Tamiment Institute), as part of a larger transfer of records of the Rand School of Social Science and of organizations associated with the founding and maintenance of the School (including the American Socialist Society, The Society of the Commonwealth Center, and the People's Educational Camp Society) as well as the contents of the School's library, the Meyer London Memorial Library. Additional records were donated in later years, whose likely source is the New York City law firm of Vladeck, Waldman, Elias &amp; Engelhard.</p>
+      <p>A List of Donations Made by Robert D. Bloom in Memory of Louis P. Goldberg was found in the repository. The accession number associated with this material is 2014.047.</p>
+    </custodhist>
+    <controlaccess>
+      <subject source="lcsh">Adult education |z Pennsylvania.</subject>
+      <subject source="lcsh">Socialism -- United States.</subject>
+      <genreform source="aat">Black-and-white photographs.</genreform>
+      <subject source="lcsh">Liberalism |z United States</subject>
+      <subject source="lcsh">Liberals |z United States.</subject>
+      <geogname source="lcsh">Summer resorts -- Pennsylvania.</geogname>
+      <subject source="lcsh">Socialists -- United States.</subject>
+      <persname source="naf">Handlin, Oscar, 1915-</persname>
+      <persname source="naf">Berenson, Bernard, 1865-1959</persname>
+      <persname rules="dacs" source="local">Josephson, Ben, 1895-1980</persname>
+      <persname source="naf">Erikson, Erik H. (Erik Homburger), 1902-1994</persname>
+      <persname source="naf">Bettelheim, Bruno</persname>
+      <persname source="naf">Morgenthau, Hans J. (Hans Joachim), 1904-1980</persname>
+      <persname source="naf">Nagel, Ernest, 1901-1985</persname>
+      <persname role="crp" source="local">Mailly, Bertha Howell -- |v Correspondence</persname>
+      <persname source="naf">Hook, Sidney, 1902-1989</persname>
+      <persname source="naf">Rosten, Leo Calvin, 1908-1997</persname>
+      <corpname source="naf">Tamiment Institute</corpname>
+      <persname source="naf">Niebuhr, Reinhold, 1892-1971</persname>
+      <persname source="naf">Parsons, Talcott, 1902-1979</persname>
+      <corpname source="local">Camp Tamiment (Pa.)</corpname>
+      <persname rules="dacs" source="local">Jacobs, Norman</persname>
+      <corpname source="local">People's Educational Camp Society</corpname>
+      <persname source="local">Blaker, Ben</persname>
+      <persname source="local">Bohn, William E.</persname>
+      <corpname role="dnr" source="local">People's Educational Camp Society</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref10" level="series">
+        <did>
+          <unittitle>Series I: Records</unittitle>
+          <unitdate normal="1935/1972" type="inclusive">1935-1972</unitdate>
+        </did>
+        <scopecontent id="aspace_4ccf9c8fb01434ddc5587f4f041f2090">
+          <head>Scope and Content Note</head>
+          <p>Series I contains correspondence relating to the Tamiment Institute's various activities, including its annual conferences, notably one that established the journal <emph render="italic">Labor History</emph>, transcripts of conference and seminar papers, entries from the annual essay contest for college students, material relating to the institute's annual book awards, brochures and programs, clippings, and administrative and financial records. The principal correspondents are the successive educational directors of the Tamiment Institute: William E. Bohn, Ben Blaker, and Norman Jacobs, whose correspondence includes exchanges with prominent intellectuals, labor leaders and educators, socialists, journalists, and political figures, mostly concerning their possible or actual participation in Institute-sponsored events and activities. There is also some correspondence of successive Camp Tamiment Directors Bertha Mailly and Ben Josephson, as well as correspondence related to the 50th Anniversary of the <emph render="italic">New Leader</emph>. Conference/seminar papers include those by Bernard Berenson, Bruno Bettelheim, Erik Erikson, Oscar Handlin, Sidney Hook, Hans J. Morgenthau, Ernest Nagel, Reinhold Niebuhr, Talcott Parsons, and Leo Rosten.</p>
+        </scopecontent>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Bohn, William E.: "A Short Snappy Biography" (typescript) </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_88ad2e5b2265741489d3f190b7a2451a" label="Mixed Materials [31142062771186]" type="box">1</container>
+            <container id="aspace_7400f5ee9af3aca2b2f2f43f371ce28d" parent="aspace_88ad2e5b2265741489d3f190b7a2451a" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Book Award (3rd: 1952) </unittitle>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ee9be4a844ad6c5073f4692768e737a3" label="Mixed Materials [31142062771186]" type="box">1</container>
+            <container id="aspace_fabc7bcccd9f19331becad0bad219bf9" parent="aspace_ee9be4a844ad6c5073f4692768e737a3" type="folder">1a</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Book Award (4th: 1953)</unittitle>
+            <unitdate normal="1952/1953" type="inclusive">192-1953</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7430994653fb6e69ea70b0c4fe66da02" label="Mixed Materials [31142062771186]" type="box">1</container>
+            <container id="aspace_76e37e7989a4abe6e13df91439223728" parent="aspace_7430994653fb6e69ea70b0c4fe66da02" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Book Award (5th: 1954)</unittitle>
+            <unitdate normal="1953/1954" type="inclusive">1953-1954</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d48e7edf4775341f1f1b99ddfe99b298" label="Mixed Materials [31142062771186]" type="box">1</container>
+            <container id="aspace_67d3ce617690399a982231dd9b7d8eea" parent="aspace_d48e7edf4775341f1f1b99ddfe99b298" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Book Award (6th: 1955) </unittitle>
+            <unitdate normal="1954/1955" type="inclusive">1954-1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2a737eb785625c287d3ba55daded1373" label="Mixed Materials [31142062771186]" type="box">1</container>
+            <container id="aspace_cb4435c03ad2e8ef5777b9d2ae2baec1" parent="aspace_2a737eb785625c287d3ba55daded1373" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Book Award (7th: 1956)</unittitle>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1677c3775f04f0b1290cf0ea8368534d" label="Mixed Materials [31142062771186]" type="box">1</container>
+            <container id="aspace_286f797d39d138624ea6b58df27d154c" parent="aspace_1677c3775f04f0b1290cf0ea8368534d" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Book Award (8th: 1957)</unittitle>
+            <unitdate>1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ba2f8ad6ff8dba8bd9ead673b0ca29c9" label="Mixed Materials [31142062771186]" type="box">1</container>
+            <container id="aspace_55bdeb84a3efd5a3e62428581a6d05b3" parent="aspace_ba2f8ad6ff8dba8bd9ead673b0ca29c9" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Book Award (9th: 1958)</unittitle>
+            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3346f540816bea933ab02eaf0c530498" label="Mixed Materials [31142062771186]" type="box">1</container>
+            <container id="aspace_07afe44fc1e21a4998ecfa4404d591ed" parent="aspace_3346f540816bea933ab02eaf0c530498" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Camp Tamiment: Brochures</unittitle>
+            <unitdate normal="1958/1960" type="inclusive">1958-1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ce33394b8b9a4370a9190a9e9e991e0c" label="Mixed Materials [31142062771194]" type="box">1a</container>
+            <container id="aspace_ae122d8485ad1cb363d790b6ced6d914" parent="aspace_ce33394b8b9a4370a9190a9e9e991e0c" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Camp Tamiment Mortgage: Correspondence</unittitle>
+            <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_346f57931d04361ff04bc67bc2973340" label="Mixed Materials [31142062771194]" type="box">1a</container>
+            <container id="aspace_2b685183ad2150d4ace04a7627caf38a" parent="aspace_346f57931d04361ff04bc67bc2973340" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Camp Tamiment Town Meeting Series</unittitle>
+            <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_22a5001b29ecea39f302bbc6417662b2" label="Mixed Materials [31142062771194]" type="box">1a</container>
+            <container id="aspace_402eb5027bbb11680d08556f1c98f021" parent="aspace_22a5001b29ecea39f302bbc6417662b2" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Chamber Music Festivals: Pamphlets and Posters</unittitle>
+            <unitdate normal="1953/1957" type="inclusive">1953-1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9f0cedfa69db114dbf1aa2cacb54b738" label="Mixed Materials [31142062771194]" type="box">1a</container>
+            <container id="aspace_9463b650402d44da0f45d5cdcb5e3207" parent="aspace_9f0cedfa69db114dbf1aa2cacb54b738" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate normal="1941/1950" type="inclusive">1941-1942, 1950</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1800d02518f7c1975f59802c386f939e" label="Mixed Materials [31142062771194]" type="box">1a</container>
+            <container id="aspace_313d73f6b4d3ddc34b9d9bbd89a9dfed" parent="aspace_1800d02518f7c1975f59802c386f939e" type="folder">5  </container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1926/1948" type="inclusive">1926, 1947-1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_65380b5863c88ee071a45af97c8e5f98" label="Mixed Materials [31142062771194]" type="box">1a</container>
+            <container id="aspace_43a42445410e15af10db446b35b154f1" parent="aspace_65380b5863c88ee071a45af97c8e5f98" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bad6e2a53e0b8c627ce09b8f25f39cfc" label="Mixed Materials [31142062771194]" type="box">1a</container>
+            <container id="aspace_1ce682a5073f3f822699b738c44de8a3" parent="aspace_bad6e2a53e0b8c627ce09b8f25f39cfc" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1951/1956" type="inclusive">1951, 1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3658c8d825aa2ba4cb131e4f1820d1c5" label="Mixed Materials [31142062771194]" type="box">1a</container>
+            <container id="aspace_00033666629270ca215f95998b5eb5aa" parent="aspace_3658c8d825aa2ba4cb131e4f1820d1c5" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Correspondence: Waldman &amp; Waldman, Attorney</unittitle>
+            <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_040efdd835aeb3add60d3e789eeac739" label="Mixed Materials [31142062771194]" type="box">1a</container>
+            <container id="aspace_cf7e24db5bb25115e34fea27d0bdbcbc" parent="aspace_040efdd835aeb3add60d3e789eeac739" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Daedalus and Tamiment Institute Seminar on Mass Culture</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2638cf40515254859bf7713c109742c2" label="Mixed Materials [31142062771194]" type="box">1a</container>
+            <container id="aspace_1b4ff73a88614b615ec5a35fe574a9a4" parent="aspace_2638cf40515254859bf7713c109742c2" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Daedalus and Tamiment Institute Seminar on Mass Culture: Correspondence</unittitle>
+            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_967f634b2721a1bb05499494b7f7001a" label="Mixed Materials [31142062771202]" type="box">2</container>
+            <container id="aspace_6e0f230eab6a6cd5b370036142155dc8" parent="aspace_967f634b2721a1bb05499494b7f7001a" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Daedalus and Tamiment Institute Seminar on Mass Culture: Correspondence</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_616ac5ae4d313537a05aa44f44dcfa89" label="Mixed Materials [31142062771202]" type="box">2</container>
+            <container id="aspace_ed90a85bb180817ab49e56f154958688" parent="aspace_616ac5ae4d313537a05aa44f44dcfa89" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Daedalus and Tamiment Institute Seminar on Mass Culture: Minutes</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">1959 Jun</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bdfdec3df478c1a6d2bb182dd67cee78" label="Mixed Materials [31142062771202]" type="box">2</container>
+            <container id="aspace_5b33ae6ba4556ff8769f83b8b35c2c4a" parent="aspace_bdfdec3df478c1a6d2bb182dd67cee78" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Daedalus and Tamiment Institute Seminar on Mass Culture: Papers</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">1959 Mar</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2f9ad312ec0416ef3a7613309f79dfbf" label="Mixed Materials [31142062771202]" type="box">2</container>
+            <container id="aspace_6ac44c97c60d3771ea003a79ab626cf6" parent="aspace_2f9ad312ec0416ef3a7613309f79dfbf" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Daedalus and Tamiment Institute Seminar on Mass Culture: Papers, Drafts</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">1959 Jun</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ab08707c453fcdb97596753aafd6c450" label="Mixed Materials [31142062771210]" type="box">3</container>
+            <container id="aspace_6812ef68cddb5d9cf31406ac0f150091" parent="aspace_ab08707c453fcdb97596753aafd6c450" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Daedalus and Tamiment Institute Seminar on Mass Culture: Related Magazines and Pamphlets</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_702c482d0c35d24a7099ed3d7fcf17e7" label="Mixed Materials [31142062771210]" type="box">3</container>
+            <container id="aspace_f96f6492937f949b24ed284b57d9c295" parent="aspace_702c482d0c35d24a7099ed3d7fcf17e7" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Daedalus and Tamiment Institute Seminar on the Metropolis: Correspondence</unittitle>
+            <unitdate normal="1960/1961" type="inclusive">1960-1961</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a65c917106b35413585632d11f8b3604" label="Mixed Materials [31142062771210]" type="box">3</container>
+            <container id="aspace_f96e78e7ad341e9de274213e7df1de84" parent="aspace_a65c917106b35413585632d11f8b3604" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Daedalus and Tamiment Institute Seminar on the Metropolis: Minutes</unittitle>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_48fd062935dfc9cf51fc425db14775ae" label="Mixed Materials [31142062771210]" type="box">3</container>
+            <container id="aspace_f30adde7f4ade4a025faa1e40f33b617" parent="aspace_48fd062935dfc9cf51fc425db14775ae" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Daedalus and Tamiment Institute Seminar on the Metropolis: Papers, Drafts</unittitle>
+            <unitdate normal="1960/1960" type="inclusive">1960 Jun</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_98298f8fc68cabbcf55181eeee6b431c" label="Mixed Materials [31142062771210]" type="box">3</container>
+            <container id="aspace_9857259f3d7dbf74a33cb7c8f4f6a475" parent="aspace_98298f8fc68cabbcf55181eeee6b431c" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Daedalus and Tamiment Institute Seminar on Youth: Correspondence</unittitle>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_58e5287a3c50f93d494f1fc842bcf0df" label="Mixed Materials [31142062771228]" type="box">4</container>
+            <container id="aspace_90d7461a8714ea1c53233c7896ce28b3" parent="aspace_58e5287a3c50f93d494f1fc842bcf0df" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Daedalus and Tamiment Institute Seminar on Youth: Correspondence
+</unittitle>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_99b6ac2b7f5076c159b81b05406108b1" label="Mixed Materials [31142062771228]" type="box">4</container>
+            <container id="aspace_bbc24e2ef23fceff8c3b6127dbea3b85" parent="aspace_99b6ac2b7f5076c159b81b05406108b1" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Daedalus and Tamiment Institute Seminar on Youth: Papers, Drafts</unittitle>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cf26878b5e09dde9e05291380d12a7a5" label="Mixed Materials [31142062771228]" type="box">4</container>
+            <container id="aspace_0a5677ce57af9a8f5bd53040472acb67" parent="aspace_cf26878b5e09dde9e05291380d12a7a5" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Daedalus and Tamiment Institute Seminar on United States Foreign Policy
+</unittitle>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b90557c410ebc35a38ba077545cd3f9a" label="Mixed Materials [31142062771228]" type="box">4</container>
+            <container id="aspace_60b83361f46933d54eeedca3f526df1b" parent="aspace_b90557c410ebc35a38ba077545cd3f9a" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Daedalus and Tamiment Institute Seminar on United States Foreign Policy: Draft Texts</unittitle>
+            <unitdate normal="1962/1962" type="inclusive">1962 May</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f255f4b94924afe5ae3a256171e1da3e" label="Mixed Materials [31142062771228]" type="box">4</container>
+            <container id="aspace_a49328292832c57f50efe16cfdc692e8" parent="aspace_f255f4b94924afe5ae3a256171e1da3e" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Essay Contest (1st)</unittitle>
+            <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_374d9fa6f011a4be7fa15915a687a9eb" label="Mixed Materials [31142062771236]" type="box">5</container>
+            <container id="aspace_9dde11266006fbefc670d18cedc8dde4" parent="aspace_374d9fa6f011a4be7fa15915a687a9eb" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Essay Contest (1st) Correspondence Regarding Eligibility and Certification of Contestants</unittitle>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_091a0b879eb1ea8cbeab3993a9f56f51" label="Mixed Materials [31142062771236]" type="box">5</container>
+            <container id="aspace_34d5dfd5172cb08aca7809fe09722657" parent="aspace_091a0b879eb1ea8cbeab3993a9f56f51" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Essay Contest (1st) Essays
+</unittitle>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f993d774248abfe9cf5d1f03d33ca93d" label="Mixed Materials [31142062771236]" type="box">5</container>
+            <container id="aspace_57c73da92c2ae7589435599fa91079cc" parent="aspace_f993d774248abfe9cf5d1f03d33ca93d" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Essay Contest (1st) Evaluation Material</unittitle>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_705cc993f9a1ddac1f54d9b602ae8f0c" label="Mixed Materials [31142062771236]" type="box">5</container>
+            <container id="aspace_baa346ca407fb1ee0be9572622a11c46" parent="aspace_705cc993f9a1ddac1f54d9b602ae8f0c" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Essay Contest (1st) Log</unittitle>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_85275331bf5042e2ec2409f6c6320c90" label="Mixed Materials [31142062771236]" type="box">5</container>
+            <container id="aspace_9818fc397a9a70fd0e0a4f2229c6cedf" parent="aspace_85275331bf5042e2ec2409f6c6320c90" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Essay Contest (2nd)</unittitle>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cc2bd93fa1b20b2899952c2fa9848d83" label="Mixed Materials [31142062771236]" type="box">5</container>
+            <container id="aspace_e0d04167c6da3389c800baffe844083c" parent="aspace_cc2bd93fa1b20b2899952c2fa9848d83" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Essay Contest (2nd) Correspondence: Postcards </unittitle>
+            <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bf51bd0b3737995879c69c91bcb2d42d" label="Mixed Materials [31142062771236]" type="box">5</container>
+            <container id="aspace_f080e36c8431c0b7356a9fb5098e6cd2" parent="aspace_bf51bd0b3737995879c69c91bcb2d42d" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Essay Contest (2nd) Correspondence Relating To Information And Entry-Blanks</unittitle>
+            <unitdate normal="1947/1947" type="inclusive">1947 Jan-1947 Feb</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_01293cda1fd163b75212e9ecfeb5810f" label="Mixed Materials [31142062771236]" type="box">5</container>
+            <container id="aspace_2fb75494cc7a0fec35aecbaabe4908e8" parent="aspace_01293cda1fd163b75212e9ecfeb5810f" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Essay Contest (2nd) Correspondence Relating To Information And Entry-Blanks</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948 Jan</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b3ee23012cb035290e7f33375bdd7154" label="Mixed Materials [31142062771236]" type="box">5</container>
+            <container id="aspace_6531a903b0eecc954ad306ee0c261843" parent="aspace_b3ee23012cb035290e7f33375bdd7154" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Essay Contest (2nd) Correspondence Relating To Information And Entry-Blanks</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948  Feb</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c5c921f88e28f66d8ce8168a9da97989" label="Mixed Materials [31142062771236]" type="box">5</container>
+            <container id="aspace_1054803c867fdfc0eef50276becb875c" parent="aspace_c5c921f88e28f66d8ce8168a9da97989" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Essay Contest (2nd) Correspondence Relating To Information And Entry-Blanks </unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948 Mar-1948 Apr </unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cd233132a76c9f2d921948859de4bcff" label="Mixed Materials [31142062771244]" type="box">6</container>
+            <container id="aspace_1e8b38ec2750d2bcb7128c3c8a00ea54" parent="aspace_cd233132a76c9f2d921948859de4bcff" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Essay Contest (2nd) Correspondence Relating To Information And Entry-Blanks</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948 May-1948 Dec </unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_25ff8d64dcc73439aea97459b343af37" label="Mixed Materials [31142062771244]" type="box">6</container>
+            <container id="aspace_1592269a69c0a98e0d65d78d7a7e87da" parent="aspace_25ff8d64dcc73439aea97459b343af37" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Essay Contest (2nd) Evaluation Materials</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_20770e8b172cc844d06ae63a00434e82" label="Mixed Materials [31142062771244]" type="box">6</container>
+            <container id="aspace_c31820389deef529539df4ea0c2ed86e" parent="aspace_20770e8b172cc844d06ae63a00434e82" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Essay Contest (2nd) Log</unittitle>
+            <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_41e411b80c79c395a83eb8a9ebb275ea" label="Mixed Materials [31142062771244]" type="box">6</container>
+            <container id="aspace_6ec6517b0a7c6959a9bde43c5e3c3153" parent="aspace_41e411b80c79c395a83eb8a9ebb275ea" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Essay Contest (2nd) Non-Prize Winning Essays/1</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_58124cdb753aea29686d13bd085d310c" label="Mixed Materials [31142062771244]" type="box">6</container>
+            <container id="aspace_1c884c957c7ac2d0d2a86529f06c386b" parent="aspace_58124cdb753aea29686d13bd085d310c" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Essay Contest (2nd) Non-Prize Winning Essays/2</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b05ea0eeb877026ebfb7fee5809b6071" label="Mixed Materials [31142062771244]" type="box">6</container>
+            <container id="aspace_3fd543474ac5cb6849672c2057fe7d4b" parent="aspace_b05ea0eeb877026ebfb7fee5809b6071" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Essay Contest (2nd) Prize Winning Essays</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_eccce7407f25379cfb909d22eff81e60" label="Mixed Materials [31142062771244]" type="box">6</container>
+            <container id="aspace_47f5d7811e5214f6afcac92788cdc221" parent="aspace_eccce7407f25379cfb909d22eff81e60" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Essay Contest (2nd) Reports</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d459c40249d5801a35fb4dee81dbcae8" label="Mixed Materials [31142062771244]" type="box">6</container>
+            <container id="aspace_65fe88836e996f36939591c5274c8f23" parent="aspace_d459c40249d5801a35fb4dee81dbcae8" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Essay Contest (4th) Correspondence</unittitle>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_76e15676151bbeaabf8f8869f727b28b" label="Mixed Materials [31142062771244]" type="box">6</container>
+            <container id="aspace_c67cfdb6ab687eacb1f5a47a652bb47e" parent="aspace_76e15676151bbeaabf8f8869f727b28b" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Essay Contests: Bulletins and Publicity Materials </unittitle>
+            <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2ca5616ab02c4321aa02cb1d7aba3b74" label="Mixed Materials [31142062771251]" type="box">7</container>
+            <container id="aspace_bec9c4648084f2b03eb4f123d81accd1" parent="aspace_2ca5616ab02c4321aa02cb1d7aba3b74" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Financial</unittitle>
+            <unitdate normal="1972/1974" type="inclusive">1972-1974</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e12320ad550f7a9604b8137f70fa2e07" label="Mixed Materials [31142062771251]" type="box">7</container>
+            <container id="aspace_1463c2c4e06d26766b8a54f4d501bd50" parent="aspace_e12320ad550f7a9604b8137f70fa2e07" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Forum on Communism in the Twentieth Century </unittitle>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2e7a9bd90684831606ca31eff4feba03" label="Mixed Materials [31142062771251]" type="box">7</container>
+            <container id="aspace_10ece07fc82bca255cee37cb04659d6e" parent="aspace_2e7a9bd90684831606ca31eff4feba03" type="folder">2a</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Forum on Marxism Correspondence </unittitle>
+            <unitdate>1958 Nov-1959 Mar</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0050d5df38a432d998a6ce4ece1d1ea3" label="Mixed Materials [31142062771251]" type="box">7</container>
+            <container id="aspace_81fea30396c3f98d6db93cad74ede99d" parent="aspace_0050d5df38a432d998a6ce4ece1d1ea3" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Forum on American Foreign Policy – Minutes </unittitle>
+            <unitdate normal="1958/1958" type="inclusive">1958 Feb 26</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2da7e612d718635b71d5500785d634d6" label="Mixed Materials [31142062771251]" type="box">7</container>
+            <container id="aspace_b90f374401fdadf3f5de33cb5526d272" parent="aspace_2da7e612d718635b71d5500785d634d6" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Josephson, Ben Yearbook (Calendar)</unittitle>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1cc1d3c607f23f51d55a5cc9ec34af9e" label="Mixed Materials [31142062771251]" type="box">7</container>
+            <container id="aspace_b02d4b905ea305dee2a405c59d5c432f" parent="aspace_1cc1d3c607f23f51d55a5cc9ec34af9e" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Labor Archives of the Tamiment Library at NYU: Correspondence </unittitle>
+            <unitdate normal="1964/1968" type="inclusive">1964-1968</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_51e90d94f585f46cd8d3cccf51f8cfa6" label="Mixed Materials [31142062771251]" type="box">7</container>
+            <container id="aspace_9b689105ff432dc6a95223b81e1c7c56" parent="aspace_51e90d94f585f46cd8d3cccf51f8cfa6" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Labor History Conference: Correspondence </unittitle>
+            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bb303969ae70d85a84dc74d69113520e" label="Mixed Materials [31142062771251]" type="box">7</container>
+            <container id="aspace_fdabd27e1671301a027c8ab564821cc2" parent="aspace_bb303969ae70d85a84dc74d69113520e" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Labor History: Correspondence</unittitle>
+            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_adb07e4547ca69cabb60df6971a3c6f4" label="Mixed Materials [31142062771251]" type="box">7</container>
+            <container id="aspace_0590307d071ac697d5b22866d6d119ee" parent="aspace_adb07e4547ca69cabb60df6971a3c6f4" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Labor History: Correspondence</unittitle>
+            <unitdate normal="1959/1962" type="inclusive">1959-1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3c085c5f905a8deed6df9fc7ca151feb" label="Mixed Materials [31142062771251]" type="box">7</container>
+            <container id="aspace_d643a532cac9c6faa5181d7c13879301" parent="aspace_3c085c5f905a8deed6df9fc7ca151feb" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Lecture Series: Correspondence</unittitle>
+            <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_59c0f6bdee7491e1b780383edab4b066" label="Mixed Materials [31142062771269]" type="box">8</container>
+            <container id="aspace_abbf6ac39c26bcc6b393c571e1885673" parent="aspace_59c0f6bdee7491e1b780383edab4b066" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Lecture Series: Correspondence </unittitle>
+            <unitdate normal="1957/1959" type="inclusive">1957-1959</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8f675b3bd1e60221ed0d5e04f5aa2b65" label="Mixed Materials [31142062771269]" type="box">8</container>
+            <container id="aspace_aae7c987fa1929fa31c7b3c9e9d0a308" parent="aspace_8f675b3bd1e60221ed0d5e04f5aa2b65" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Lee, Algernon: Life Insurance Policy – Correspondence </unittitle>
+            <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1c62e5af36c90177be30ceecb1671ac8" label="Mixed Materials [31142062771269]" type="box">8</container>
+            <container id="aspace_352a66fe89a3bdd7c2be9a5d192479d2" parent="aspace_1c62e5af36c90177be30ceecb1671ac8" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Lee, Algernon: Obituaries</unittitle>
+            <unitdate normal="1954/1954" type="inclusive">1954 Jan</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_89bb6ac6d3941ff5eb8f1d60618fe2c1" label="Mixed Materials [31142062771269]" type="box">8</container>
+            <container id="aspace_97f80aadeebd56b6c3c845fcee0dcd04" parent="aspace_89bb6ac6d3941ff5eb8f1d60618fe2c1" type="folder">3a</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle>List of Donations Made by Robert D. Bloom in Memory of Louis P. Goldberg</unittitle>
+            <unitdate>circa 1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1486c075be2c4f9cd0e087f35b16e4fa" label="Mixed Materials [31142062722528]" type="box">MS002</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Meyer London Memorial Library </unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_068bbedce8f50c6636685f535956b527" label="Mixed Materials [31142062771269]" type="box">8</container>
+            <container id="aspace_a784b3ae7a61c43c798b2e0d3857bc3c" parent="aspace_068bbedce8f50c6636685f535956b527" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>National Labor Conference (1st) </unittitle>
+            <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_76c77f86caa594e288a1049d70ddae10" label="Mixed Materials [31142062771269]" type="box">8</container>
+            <container id="aspace_6bf07fbcf6e11839743639d56d4423ab" parent="aspace_76c77f86caa594e288a1049d70ddae10" type="folder">4a</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>National Labor Conference (2nd)</unittitle>
+            <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e831cf2b0c39168ad39e49832de2ab81" label="Mixed Materials [31142062771269]" type="box">8</container>
+            <container id="aspace_cb0194cd93d7d0556f4b4224c4800aa2" parent="aspace_e831cf2b0c39168ad39e49832de2ab81" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>New Leader: Loan to 50th Anniversary of </unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cdafa8813956ece0f7259864d267d80e" label="Mixed Materials [31142062771269]" type="box">8</container>
+            <container id="aspace_1202f0caeff3d9c7e11da98c5850e692" parent="aspace_cdafa8813956ece0f7259864d267d80e" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Rand School: Winter Ball</unittitle>
+            <unitdate normal="1921/1921" type="inclusive">1921</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e4b3dd8cfd328e955b1caaf3bcde98a6" label="Mixed Materials [31142062771269]" type="box">8</container>
+            <container id="aspace_47ba1dc64f529098315b7f05c088e2f5" parent="aspace_e4b3dd8cfd328e955b1caaf3bcde98a6" type="folder">6a</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Seminar on Education: Clippings</unittitle>
+            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a5c722f6779caa85e0d4c5a0159183ec" label="Mixed Materials [31142062771269]" type="box">8</container>
+            <container id="aspace_29a9f120cc546a8eb89b07b60ba68309" parent="aspace_a5c722f6779caa85e0d4c5a0159183ec" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Seminar on Education: Correspondence </unittitle>
+            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_613d21ad220214a35a9acecb5e2f74c7" label="Mixed Materials [31142062771269]" type="box">8</container>
+            <container id="aspace_75c3438d3ae6b1725b9f9c1fff605679" parent="aspace_613d21ad220214a35a9acecb5e2f74c7" type="folder">7a </container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Seminar on Education – Papers: Arthur Bestor, Douglas Bush, John Childs, Sidney Hook, Hans J. Morgenthau</unittitle>
+            <unitdate normal="1958/1958" type="inclusive">1958 Jun</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9e071eb571ba2bed35becbc4ceed2fd3" label="Mixed Materials [31142062771269]" type="box">8</container>
+            <container id="aspace_742589df98aefd72484b908ae5bc7f11" parent="aspace_9e071eb571ba2bed35becbc4ceed2fd3" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Seminar on Education: Partial Transcript
+</unittitle>
+            <unitdate normal="1958/1958" type="inclusive">1958 Jun</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_63fd4952ddbf9cc0b7f96a7924fac4d8" label="Mixed Materials [31142062771269]" type="box">8</container>
+            <container id="aspace_4506ba3a272502e260d9bbb46a23edf1" parent="aspace_63fd4952ddbf9cc0b7f96a7924fac4d8" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>String Quartet Composition Award: Correspondence </unittitle>
+            <unitdate normal="1953/1955" type="inclusive">1953-1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0399996e922564a4cdabe025f325ed84" label="Mixed Materials [31142062771277]" type="box">9</container>
+            <container id="aspace_2128849eb329e399c9a666bc88cb6c70" parent="aspace_0399996e922564a4cdabe025f325ed84" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>String Quartet Composition Award: Correspondence </unittitle>
+            <unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0f79c74dd7323123faedadbc66a64bff" label="Mixed Materials [31142062771277]" type="box">9</container>
+            <container id="aspace_650b625d635147a282676a3d6d31dad9" parent="aspace_0f79c74dd7323123faedadbc66a64bff" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Tamiment Institute Conference (4th): Correspondence and Other Materials </unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_67d857e169f3988a9bb799939fa22bdb" label="Mixed Materials [31142062771277]" type="box">9</container>
+            <container id="aspace_8f8829171da76ada41b95a4d29dd1cbb" parent="aspace_67d857e169f3988a9bb799939fa22bdb" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Tamiment Institute Conference (5th): Correspondence and Other Materials</unittitle>
+            <unitdate normal="1938/1939" type="inclusive">1938 Sep-1939 Jul</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9024c5509a087758a0835d986d553d8e" label="Mixed Materials [31142062771277]" type="box">9</container>
+            <container id="aspace_52e0dcd146a495c09eec647c7a2c4957" parent="aspace_9024c5509a087758a0835d986d553d8e" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Tamiment Institute Conference (6th): Correspondence and Other Materials</unittitle>
+            <unitdate normal="1940/1940" type="inclusive">1940 Apr-1940 May</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_93108cdd53f7f06bb1c8b93d15a796a0" label="Mixed Materials [31142062771277]" type="box">9</container>
+            <container id="aspace_3cdb3ac46db5a359d28143b3ec460e70" parent="aspace_93108cdd53f7f06bb1c8b93d15a796a0" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Tamiment Institute Conference (6th): Correspondence and Other Materials</unittitle>
+            <unitdate normal="1940/1940" type="inclusive">1940 May-1940 Jun</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0e3fc2324bab8964ac1fad01fe809842" label="Mixed Materials [31142062771277]" type="box">9</container>
+            <container id="aspace_31286490400237a20469018d2ab321c1" parent="aspace_0e3fc2324bab8964ac1fad01fe809842" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Tamiment Institute Conference (7th): Correspondence and Other Materials </unittitle>
+            <unitdate normal="1941/1941" type="inclusive">1941 Feb-1941 Jun 19</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2297247d5becc5906304ca82a9a570fb" label="Mixed Materials [31142062771277]" type="box">9</container>
+            <container id="aspace_e5daa351d84cf768634daecf54b56b23" parent="aspace_2297247d5becc5906304ca82a9a570fb" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Tamiment Institute Conference (7th): Correspondence and Other Materials</unittitle>
+            <unitdate normal="1941/1941" type="inclusive">1941 Jun 20-1941 Jun 27 </unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f4bd3cb055311ee673281b9db1dd29d3" label="Mixed Materials [31142062771277]" type="box">9</container>
+            <container id="aspace_776a486977978403d10ad1d7ab05320f" parent="aspace_f4bd3cb055311ee673281b9db1dd29d3" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Tamiment Institute Conference (8th): Correspondence and Other Materials</unittitle>
+            <unitdate normal="1942/1942" type="inclusive">1942 Mar-1942 Jul </unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8c8298aea2e4844750a736fc1f94bc7d" label="Mixed Materials [31142062771277]" type="box">9</container>
+            <container id="aspace_6b74d44c3ebb852010c7d221c94d04f8" parent="aspace_8c8298aea2e4844750a736fc1f94bc7d" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Tamiment Institute Conference (9th): Correspondence and Other Materials </unittitle>
+            <unitdate normal="1943/1943" type="inclusive">1943 May-1943 Jul</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d4e8621f880209579bfd3a03a3d3f714" label="Mixed Materials [31142062771277]" type="box">9</container>
+            <container id="aspace_da16ecc06d496d7a5dd5bec446abe0bb" parent="aspace_d4e8621f880209579bfd3a03a3d3f714" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>Tamiment Institute Conference (9th) – Labor Union Attendance: Correspondence and Other Materials</unittitle>
+            <unitdate normal="1943/1943" type="inclusive">1943 May-1943 Jun</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9e34d0a167868726f51247b4de9e4056" label="Mixed Materials [31142062771277]" type="box">9</container>
+            <container id="aspace_0e79a038cbeb7ab9457e1f9b4dd2149e" parent="aspace_9e34d0a167868726f51247b4de9e4056" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Tamiment Institute Conference (10th): Correspondence and Other Materials</unittitle>
+            <unitdate normal="1944/1944" type="inclusive"> 1944 Apr-1944 Aug </unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7160d8cfcc762792521daca3bc9c2a78" label="Mixed Materials [31142062771277]" type="box">9</container>
+            <container id="aspace_78a227895c3725179272b404c8078f57" parent="aspace_7160d8cfcc762792521daca3bc9c2a78" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Tamiment Institute Conference (10th) – Labor Union Attendance: Correspondence and Other Materials</unittitle>
+            <unitdate normal="1944/1944" type="inclusive">1944 Mar-1944 Aug</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_53c5fe0af3b3df06c9d4934dfd2251b2" label="Mixed Materials [31142062771319]" type="box">10</container>
+            <container id="aspace_b0a2325c1976d7e3ef8ada16fe7d3d57" parent="aspace_53c5fe0af3b3df06c9d4934dfd2251b2" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Tamiment Institute Conference (11th): Correspondence and Other Materials</unittitle>
+            <unitdate normal="1945/1945" type="inclusive">1945 May-1945 Jul</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8df19fc3498094dfc70cb1925eaf949f" label="Mixed Materials [31142062771319]" type="box">10</container>
+            <container id="aspace_486c797de439bc7bb59cfc120435c8f3" parent="aspace_8df19fc3498094dfc70cb1925eaf949f" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Tamiment Institute Conference (12th): Correspondence and Other Materials </unittitle>
+            <unitdate normal="1946/1946" type="inclusive">1946 Apr-1946 Jun</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_809031952648a6ea0d4b3cd6c53d7055" label="Mixed Materials [31142062771319]" type="box">10</container>
+            <container id="aspace_57f0b868739b476df3a61850da4b3eff" parent="aspace_809031952648a6ea0d4b3cd6c53d7055" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Tamiment Institute Conference (12th): Correspondence and Other Materials</unittitle>
+            <unitdate normal="1946/1946" type="inclusive">1946 Jun 20-1946 Jun 28</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c60d3dae0bca68557fc7213a0ee2292b" label="Mixed Materials [31142062771319]" type="box">10</container>
+            <container id="aspace_24ca5e06c0305e5ff12ebf9d859f6196" parent="aspace_c60d3dae0bca68557fc7213a0ee2292b" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Tamiment Institute Conference (13th): Correspondence and Other Materials </unittitle>
+            <unitdate normal="1947/1947" type="inclusive">1947 Jun 6-1947 Jun 24 </unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d8013d3a1ac72c6445f3340e39100a3e" label="Mixed Materials [31142062771319]" type="box">10</container>
+            <container id="aspace_fb3b26dd1976dfc536a23fe3ec0a7077" parent="aspace_d8013d3a1ac72c6445f3340e39100a3e" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Tamiment Institute Conference (14th): Correspondence and Other Materials</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948 Apr-1948 May</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_078b00911ba8adef1da90ed1de50b49f" label="Mixed Materials [31142062771319]" type="box">10</container>
+            <container id="aspace_be3b20f56498fe887df2cf260b71ed5f" parent="aspace_078b00911ba8adef1da90ed1de50b49f" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>Tamiment Institute Conference (14th): Correspondence and Other Materials</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948 Jun</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b6adb9af1e21f1e57e112b6ff5888b6a" label="Mixed Materials [31142062771319]" type="box">10</container>
+            <container id="aspace_99e38c1d9413b5f834cd64a3d0b317eb" parent="aspace_b6adb9af1e21f1e57e112b6ff5888b6a" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>Tamiment Institute Library: Reports</unittitle>
+            <unitdate normal="1957/1958" type="inclusive">1957-1959</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b50c7e31fc0b2381ef01162e00f2f8e1" label="Mixed Materials [31142062771319]" type="box">10</container>
+            <container id="aspace_ba30ef408b4d4fded46c57d37b596715" parent="aspace_b50c7e31fc0b2381ef01162e00f2f8e1" type="folder">7a</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>Tamiment Institute Publications, Requests for, Invoices, etc.</unittitle>
+            <unitdate normal="1955/1961" type="inclusive">1955-1961</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_17a5aabcbfc3fa6ab70ec0d346c3e163" label="Mixed Materials [31142062771319]" type="box">10</container>
+            <container id="aspace_97ffea1c9dabcc2ed7c52f3b1977ad95" parent="aspace_17a5aabcbfc3fa6ab70ec0d346c3e163" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle><emph render="italic">The Sandpiper</emph> (Sandyville School children's newsletter)  </unittitle>
+            <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_41ea4391eed669b1a5982876b9a2d747" label="Mixed Materials [31142062771319]" type="box">10</container>
+            <container id="aspace_cd880b551dd1f4f82663a95b57035859" parent="aspace_41ea4391eed669b1a5982876b9a2d747" type="folder">8a</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>Vladeck, Baruch Charney Biography: Grant to Franklin Jonas</unittitle>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5cbc8888a916b397029a72734b1a05d7" label="Mixed Materials [31142062771319]" type="box">10</container>
+            <container id="aspace_e5ef339db14ccefa33cca1faa7cc63fc" parent="aspace_5cbc8888a916b397029a72734b1a05d7" type="folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref9" level="series">
+        <did>
+          <unittitle>Series II. Photographs</unittitle>
+          <unitdate normal="1950/1958" type="inclusive">1950-1958, undated</unitdate>
+        </did>
+        <scopecontent id="aspace_653fbb20fd3663b9b886db16f454c690">
+          <head>Scope and Content Note</head>
+          <p>Series II consists of black and white photographs that include images of the Tamiment Institute's annual book award ceremonies, of 1950 (to Rupert Hughes for his fictionalized biography of Samuel Gompers "The Giant Awakes"), 1951 (to Ethel Waters, for her autobiography, "His Eye Is On The Sparrow), 1953 (Carl Sandberg, for "Always the Young Strangers"), and 1958 (to John Kenneth Galbraith for "The Affluent Society"), at Camp Tamiment in Bushkill, Pennsylvania and at the Waldorf-Astoria Hotel in New York City.  Besides the authors being honored, photographs include Marx Lewis,   Daniel Bell, Harry Laidler, Ben Josephson, and Eugene Lyons.  Some were shot by Camp Tamiment photographer "Snappy" Lewis Goren.  There are also shots of of unidentified lectures or seminars and classical music performances at Camp Tamiment circa the 1950s.</p>
+        </scopecontent>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>Tamiment Institute - Photographs</unittitle>
+            <unitdate normal="1950/1958" type="inclusive">1950-1958</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a7a8106c10d9b10d4842ca0517b5b50d" label="photographs [31142062838852]" type="box">Shared A006</container>
+            <container id="aspace_b34825e0c05d9598b1783944c9e47caf" parent="aspace_a7a8106c10d9b10d4842ca0517b5b50d" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_5010e5444654acf59bc9041f707b32f8" level="file">
+          <did>
+            <unittitle>Loose photograph of Perry Como and child</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_9381619377dc5ed04e3154e2806afe1e" label="Mixed Materials [31142062882389]" type="box">Shared Tamiment 018</container>
+            <container id="aspace_be415783fe56065b8e67de62c7de8743" parent="aspace_9381619377dc5ed04e3154e2806afe1e" type="folder">19</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref11" level="series">
+        <did>
+          <unittitle>Series III. Addendum: Administrative and Financial Records and Correspondence (Unprocessed)</unittitle>
+          <unitdate normal="1970/1999" type="inclusive">1970s-1990s, undated</unitdate>
+        </did>
+        <scopecontent id="aspace_2e875a236c6f4103c5a06463028b3af1">
+          <head>Scope and Content Note</head>
+          <p>Series III consists of administrative and financial records, and correspondence from 1970s through the 1990s.</p>
+        </scopecontent>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Administrative Records 1</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_c84f0d68c923135f540f470def9bd04e" label="Mixed Materials [31142063398385]" type="box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Administrative Records 2</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_261cad6a7e5aec0abf0aec49d8e34749" label="Mixed Materials [31142063398393]" type="box">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Administrative Records 3</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_2ddc88dfbd93770dc4093a784259d984" label="Mixed Materials [31142063398401]" type="box">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1970/1999" type="inclusive">1970s-1990s</unitdate>
+            <container altrender="Record carton" id="aspace_e9e75e8845bbf1a219a5c082fb033933" label="Mixed Materials [31142063398419]" type="box">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Financial Records 1</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_6ca1d3a34e7da49f8f19c5a1b3e026cf" label="Mixed Materials [31142063398427]" type="box">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Financial Records 2 </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_1cec15a8df5fe95a7bd1e5d2097523e0" label="Mixed Materials [31142063398435]" type="box">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Financial Records 3</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_53705a118e64a444b62f3f03146110af" label="Mixed Materials [31142063398443]" type="box">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Financial Records 4</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_032b59dc66e6d826f9f3d6e907b3f284" label="Mixed Materials [31142063398369]" type="box">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Financial Records 5 </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_e3c18cf24bdc4f8a608752f6e22374d7" label="Mixed Materials [31142063398351]" type="box">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Financial Records 6 </unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_1e2b8b9596c69e0b982173a6c11c2672" label="Mixed Materials [31142063398344]" type="box">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Financial Records 7</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_1b8c69bc9c86d7750b6698a36aeafdf2" label="Mixed Materials [31142063398377]" type="box">21</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,65 +1,600 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/oh_015">oh_015</eadid><filedesc><titlestmt><titleproper>Guide to the Camp Midvale / Nature Friends of America Oral History Collection  <num>OH.015</num></titleproper><author>David Olson</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>Feb 2, 1994</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:37:55 -0500</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Camp Midvale/Nature Friends of America Oral History Collection</unittitle>
-    <origination label="Creator">
-      <persname rules="dacs" source="local">Lanset, Andy</persname>
-    </origination>
-    <unitid>OH.015</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
-      <extent altrender="carrier">In 1 manuscript box, 1 compact disk box, 3 card catalog drawers.</extent>
-    </physdesc>
-    <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
-    <abstract id="aspace_591d4d3f37e9434d554892ab131afb6a">Camp Midvale, located near Ringwood, New Jersey, was purchased by the Nature Friends of America in 1930. The U.S. branch of this organization was founded by German-American socialists and trade unionists in 1910 to provide workers with outdoor recreational opportunities. Interviewees describe life at the camp, hiking and other activities, the immigrant experience, and political activities. The collection's thirty-five interviews were conducted by Andy Lanset and were used to create the radio documentary "Camp Midvale: An Oral History," which is also included in the collection. Indexes are available for many interviews.</abstract>
-    <langmaterial id="aspace_46070c3efcb4a6a1482cc2bda153173f">Materials are in English</langmaterial>
-  </did>
-  <userestrict id="aspace_cf1589ed1e177727b8825575cc845e7d">
-    <head>Use Restrictions</head>
-<p>Copyright held by Tamiment Library and Robert F. Wagner Labor Archives<lb/><lb/></p><p>Permission to publish materials must be obtained in writing from the: <lb/>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/oh_015">oh_015</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Camp Midvale / Nature Friends of America Oral History Collection  <num>OH.015</num></titleproper>
+        <author>David Olson</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>Feb 2, 1994</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:37:55 -0500</date>.</creation>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Camp Midvale/Nature Friends of America Oral History Collection</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Lanset, Andy</persname>
+      </origination>
+      <unitid>OH.015</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
+        <extent altrender="carrier">In 1 manuscript box, 1 compact disk box, 3 card catalog drawers.</extent>
+      </physdesc>
+      <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+      <abstract id="aspace_591d4d3f37e9434d554892ab131afb6a">Camp Midvale, located near Ringwood, New Jersey, was purchased by the Nature Friends of America in 1930. The U.S. branch of this organization was founded by German-American socialists and trade unionists in 1910 to provide workers with outdoor recreational opportunities. Interviewees describe life at the camp, hiking and other activities, the immigrant experience, and political activities. The collection's thirty-five interviews were conducted by Andy Lanset and were used to create the radio documentary "Camp Midvale: An Oral History," which is also included in the collection. Indexes are available for many interviews.</abstract>
+      <langmaterial id="aspace_46070c3efcb4a6a1482cc2bda153173f">Materials are in English</langmaterial>
+    </did>
+    <userestrict id="aspace_cf1589ed1e177727b8825575cc845e7d">
+      <head>Use Restrictions</head>
+      <p>Copyright held by Tamiment Library and Robert F. Wagner Labor Archives<lb/><lb/></p>
+      <p>Permission to publish materials must be obtained in writing from the: <lb/>
 Tamiment Library/Robert F. Wagner Labor Archives <lb/>
 Elmer Holmes Bobst Library <lb/>
 70 Washington Square South <lb/>
 New York, NY 10012 <lb/>
 Phone: (212) 998-2630 <lb/>
 Fax: (212) 995-4225 <lb/>
-E-mail: tamiment.wagner@nyu.edu <lb/></p>  </userestrict>
-  <accessrestrict id="aspace_5bb13e7a6d07c376ef6aa7f82cba6682">
-    <head>Access Restrictions</head>
-<p>Content open to users without restriction. Entire collection has been digitized. Researchers must use access compact disks.</p>  </accessrestrict>
-  <bioghist id="aspace_76f7ca101ee86beb0de061598f5bdb82">
-    <head>Historical/Biographical Note</head>
-<p>Camp Midvale, located in Ringwood, New Jersey, was one of 400 camps worldwide established by the Nature Friends, whose U.S. branch had been founded in 1910 by German-American socialists and trade unionists. The organization's goals were to preserve wildlife and to provide workers with affordable outdoor recreation. Camp Midvale's 150 acres, with a clubhouse and hiking trails, was purchased in 1930 and served as a hub for Nature Friends' activities on the East Coast.</p><p>Nature Friends offered a political perspective, combining ecological "nature love" with progressive sympathies. "Fascist convictions" were outlawed in their by-laws. Hikers raised funds for such causes as the Scottsboro Boys, the Abraham Lincoln Brigade, the Committee for the Protection of the Foreign Born, the Committee to Release the Rosenbergs, and the civil rights movement. Placed on the Attorney General's list of subversive organizations in 1947, Nature Friends saw its members severely harassed. Camp Midvale was given to the Ethical Culture Society in 1968 in hope that it would be preserved as an ecological retreat.</p><p>Camp Midvale, located in Ringwood, New Jersey, was one of 400 camps worldwide established by the Nature Friends whose U.S. branch had been founded in 1910 by German-American socialists and trade unionists. The organization's goals were to preserve wildlife and to provide workers with affordable outdoor recreation. Camp Midvale's 150 acres, with a clubhouse and hiking trails, was purchased in 1930 and served as a hub for Nature Friends' activities on the East Coast.</p><p>Nature Friends offered a political perspective, combining ecological "nature love" with progressive sympathies. "Fascist convictions" were outlawed in their by-laws. Hikers raised funds for such causes as the "Scottsboro Boys", the Abraham Lincoln Brigade, the Committee for the Protection of the Foreign Born, the Committee to Release the Rosenbergs, and the civil rights movement. Placed on the Attorney General's list of "subversive organizations" in 1947, Nature Friends saw its members severely harassed. Camp Midvale was given to the Ethical Culture Society in 1968 in hope that it would be preserved as an ecological retreat.</p>  </bioghist>
-  <arrangement id="aspace_73368b5fca0b242171f4c4d1a8428375">
-    <head>Arrangement</head>
-<p>Collection arranged alphabetically by interviewee surname.</p>  </arrangement>
-  <scopecontent id="aspace_fa6716aae53f5a18017c58ed2a3786e5">
-    <head>Scope and Contents note</head>
-<p>Oral history interviews conducted by Andy Lanset, freelance radio producer and oral historian, with funding from the New Jersey Historical Commission in 1987 and 1988. Interviews document the scope of Nature Friends' activities. The resulting one hour documentary program was broadcast on WBAI, WFMU, WFUV in 1988, entitiled "Camp Midvale: An Oral History", which is also included. All interviews are open for research and many have indexes.</p>  </scopecontent>
-  <acqinfo id="aspace_04dc10440ae87d49b780384c9753f39f">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Andy Lanset.</p>  </acqinfo>
-  <processinfo id="aspace_de58ce52cbf6605403c30489cc03cd7f">
-    <head>Processing information</head>
-<p>Interviews originally recorded on cassette. Entire collection digitzed in 2011-2012 to create digital preservation masters and access compact disks.</p>  </processinfo>
-  <prefercite id="aspace_6b12298c2165f9abb778c3bb44524197">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Camp Midvale/Nature Friends of America Oral History Collection; OH015; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <relatedmaterial id="aspace_2fdd5dd28154c7ed43ff4941a0174369">
-    <head>Related Archival Materials</head>
-<p>Another collection, Camp Midvale/Nature Friends of America: FOIA Files (TAM.089), contains documents of FBI investigations into the activities of the camp, Nature Friends Incorporated, The Labor Lyceum and other related organizations, obtained through a Freedom of Information Act request.</p>  </relatedmaterial>
-  <controlaccess>
-    <subject source="lcsh">Ecology movement |z United States</subject>
-    <subject source="lcsh">Working class |x Recreation |z United States</subject>
-    <subject source="lcsh">Radicalism -- United States.</subject>
-    <subject source="lcsh">Camps |z New Jersey.</subject>
-    <subject source="lcsh">Socialism -- United States.</subject>
-    <subject source="lcsh">Socialism and youth -- United States.</subject>
-    <corpname source="local">Camp Midvale (Ringwood, N.J.)</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref25" level="file"><did><unittitle><title render="italic">Camp Midvale: An Oral History </title>radio program</unittitle><unitdate normal="1988/1988" type="inclusive">Oct 3, 1988</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_7e4d5eb1f1d01f69b66f3fbc24ef8ddb" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_d7dc8bc26b4ed127ab756a0afdb88fe5" parent="aspace_7e4d5eb1f1d01f69b66f3fbc24ef8ddb" type="cassette">1A-1B</container><container altrender="Card Box - 6.5 - long" id="aspace_d3e252c52e9a2ca2a1f7ce163483c4e9" label="access cd [31142062759090]" type="box">2</container><container id="aspace_524ac2cf20999c7b87fd896527502dfd" parent="aspace_d3e252c52e9a2ca2a1f7ce163483c4e9" type="cd">Camp Midavle: An Oral History 1-2</container></did></c><c id="aspace_ref2" level="file"><did><unittitle><name role="Interviewee">Theresa &amp; Irwin Adametz</name></unittitle><unitdate normal="1987/1987" type="inclusive">Jun 20, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_99bafbc0129260ffe52d9f26db3eb3e8" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_fad736ed42aa3d0e07e9e5fe53f9ad6c" parent="aspace_99bafbc0129260ffe52d9f26db3eb3e8" type="cassette">2A</container><container altrender="Manuscript box - Legal - Half" id="aspace_098b044900c4dcab83ceeaf9cdc6d1b2" label="transcript [31142062671956]" type="box">1</container><container id="aspace_dbd16a55969c8a70768958e566316ef5" parent="aspace_098b044900c4dcab83ceeaf9cdc6d1b2" type="folder">1</container><container altrender="Card Box - 6.5 - long" id="aspace_f974609178d6c3e2a50a1bd8d7c3133b" label="access cd [31142062759090]" type="box">2</container><container id="aspace_898539fed073ae83c8071600602cbb1e" parent="aspace_f974609178d6c3e2a50a1bd8d7c3133b" type="cd">Adametz 1</container></did></c><c id="aspace_ref3" level="file"><did><unittitle><name role="Interviewee">Norma Allen</name></unittitle><unitdate normal="1987/1987" type="inclusive">Dec 11, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_29f311d21540f98e8df604f5793a3acc" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_4fe80c139c30162da12eafaf148331a6" parent="aspace_29f311d21540f98e8df604f5793a3acc" type="cassette">3A</container><container altrender="Manuscript box - Legal - Half" id="aspace_502c0d5ccff5c5746df29a89169e0c45" label="transcript [31142062671956]" type="box">1</container><container id="aspace_36f7edfc645c2613937054d62e6b6334" parent="aspace_502c0d5ccff5c5746df29a89169e0c45" type="folder">2</container><container altrender="Card Box - 6.5 - long" id="aspace_d4dd3d7f00da54b7d6d6dbbce0de267d" label="access cd [31142062759090]" type="box">2</container><container id="aspace_bb8ad1560875d867256f11fdb2ef4809" parent="aspace_d4dd3d7f00da54b7d6d6dbbce0de267d" type="cd">Allen 1</container></did></c><c id="aspace_ref4" level="file"><did><unittitle><name role="Interviewee">Bertha Bloksberg</name></unittitle><unitdate normal="1987/1987" type="inclusive">Aug 4, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_225831b00e0a30d24d15a5670744da2e" label="transcript [31142062671956]" type="box">1</container><container id="aspace_7f89fa27cd9e743a720d02767d565466" parent="aspace_225831b00e0a30d24d15a5670744da2e" type="folder">3</container><container altrender="Card Box - 6.5 - long" id="aspace_73bf07bdba49a72cbf3307e0a79fafb3" label="access cd [31142062759090]" type="box">2</container><container id="aspace_6ecdc7ab0d7082678c67055d29517f02" parent="aspace_73bf07bdba49a72cbf3307e0a79fafb3" type="cd">Bloksberg 1-2</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_3939aa95583776110a00c173c5b1db4c" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_b9a0a5a012812386e461221c3f2b7f23" parent="aspace_3939aa95583776110a00c173c5b1db4c" type="cassette">4A</container></did></c><c id="aspace_ref5" level="file"><did><unittitle><name role="Interviewee">Esther &amp; Fred Buchthal</name></unittitle><unitdate normal="1987/1987" type="inclusive">Oct 11, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_06449e8bdc6804ad8d3d1fb6ab4eb641" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_a6cbd638d60159326743526696fcb6c9" parent="aspace_06449e8bdc6804ad8d3d1fb6ab4eb641" type="cassette">5A</container><container altrender="Card Box - 6.5 - long" id="aspace_9ee448d3bffcea1315e45bbfb5d8c59d" label="access cd [31142062759090]" type="box">2</container><container id="aspace_16ab26f001e7647a6dadf2d87178fcc9" parent="aspace_9ee448d3bffcea1315e45bbfb5d8c59d" type="cd">Buchtal 1</container><container altrender="Manuscript box - Legal - Half" id="aspace_cce44af3d8911dfef5fd5b659def3e3c" label="transcript [31142062671956]" type="box">1</container><container id="aspace_b3c903dfe6ca9c3be4eef203b8f24a8e" parent="aspace_cce44af3d8911dfef5fd5b659def3e3c" type="folder">4</container></did></c><c id="aspace_ref6" level="file"><did><unittitle><name role="Interviewee">August Danielsson</name></unittitle><unitdate normal="1987/1987" type="inclusive">Aug 15, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4f67272abe8d3b2d46f8c79080210fa6" label="transcript [31142062671956]" type="box">1</container><container id="aspace_7177a496a3a3bf8ddb4c1291efe03d85" parent="aspace_4f67272abe8d3b2d46f8c79080210fa6" type="folder">5</container><container altrender="Card Box - 6.5 - long" id="aspace_7f2c66f2f62ef98404fb7a1cc0f83f18" label="access cd [31142062759090]" type="box">2</container><container id="aspace_121705fbe19ac227d78942791cfd6db5" parent="aspace_7f2c66f2f62ef98404fb7a1cc0f83f18" type="cd">A. Danielsson 1</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_893d5a7e0f49f27b7631aa55bd1c2b79" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_8ecf887eba1131d0504602a0ba836650" parent="aspace_893d5a7e0f49f27b7631aa55bd1c2b79" type="cassette">6A</container></did></c><c id="aspace_ref7" level="file"><did><unittitle><name role="Interviewee">Claire Danielsson</name></unittitle><unitdate normal="1987/1987" type="inclusive">Aug 15, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_3ba45ef7f0d750a00a6f175f4916fb25" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_d62efd6bae39eec0fd3ed3c014aaf353" parent="aspace_3ba45ef7f0d750a00a6f175f4916fb25" type="cassette">7A</container><container altrender="Card Box - 6.5 - long" id="aspace_07bf57133adbb5b756415189353dc586" label="access cd [31142062759090]" type="box">2</container><container id="aspace_8721c5f302bac6d403c0a67d3f598ffc" parent="aspace_07bf57133adbb5b756415189353dc586" type="cd">C. Danielsson 1</container><container altrender="Manuscript box - Legal - Half" id="aspace_dd0376a9ac36b69586018f7364b596c6" label="transcript [31142062671956]" type="box">1</container><container id="aspace_61b41ddbcadd85e4216cd4f6a5b0e540" parent="aspace_dd0376a9ac36b69586018f7364b596c6" type="folder">6</container></did></c><c id="aspace_ref8" level="file"><did><unittitle><name role="Interviewee">Hanni Duffy</name></unittitle><unitdate normal="1987/1987" type="inclusive">Nov 15, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_72a11943ead3ca620c0031945be831e5" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_771744193b0ff9c6dd07318cf71fa6bf" parent="aspace_72a11943ead3ca620c0031945be831e5" type="cassette">8A</container><container altrender="Card Box - 6.5 - long" id="aspace_50db44ba54f2262a92405c9a35fdf9a8" label="access cd [31142062759090]" type="box">2</container><container id="aspace_03e48b338af9ed5155d3ce1fc7945556" parent="aspace_50db44ba54f2262a92405c9a35fdf9a8" type="cd">Duffy 1</container></did></c><c id="aspace_ref9" level="file"><did><unittitle><name role="Interviewee">Robert &amp; Kornelia Ehrlich</name></unittitle><unitdate normal="1987/1987" type="inclusive">Jun 6, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_7feedf43f9b9e7b1a0de2cdd87d478e1" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_1afd582d80172f4c11508a0c27772080" parent="aspace_7feedf43f9b9e7b1a0de2cdd87d478e1" type="cassette">9A</container><container altrender="Card Box - 6.5 - long" id="aspace_e2406926dad5558645b55ab2af4f089e" label="access cd [31142062759090]" type="box">2</container><container id="aspace_e1ce4442c24a948f7b75c5664ec2bce5" parent="aspace_e2406926dad5558645b55ab2af4f089e" type="cd">R. &amp; K. Erlich 1-2</container><container altrender="Manuscript box - Legal - Half" id="aspace_58fadf04eb13ccc42c9d6dcc019a2964" label="transcript [31142062671956]" type="box">1</container><container id="aspace_b0ec78192931dc626d5fbd01b2493e4f" parent="aspace_58fadf04eb13ccc42c9d6dcc019a2964" type="folder">7</container></did></c><c id="aspace_ref10" level="file"><did><unittitle><name role="Interviewee">Saul Ehrlich</name></unittitle><unitdate normal="1987/1987" type="inclusive">Nov 8, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3b145015b9c0edeef4eadd4c15f1a4d3" label="transcript [31142062671956]" type="box">1</container><container id="aspace_10e77d95b066e05b8dbed15933479540" parent="aspace_3b145015b9c0edeef4eadd4c15f1a4d3" type="folder">8</container><container altrender="Card Box - 6.5 - long" id="aspace_19e8e512428318b5eab62b27a30a4261" label="access cd [31142062759090]" type="box">2</container><container id="aspace_605c65b0c010df2df845062406cf3f4d" parent="aspace_19e8e512428318b5eab62b27a30a4261" type="cd">S. Erlich 1</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_151cc36fea32e7cee7e03ffc0f6e5235" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_b96b77793858583c3297c6fe371bfe23" parent="aspace_151cc36fea32e7cee7e03ffc0f6e5235" type="cassette">10A</container></did></c><c id="aspace_ref11" level="file"><did><unittitle><name role="Interviewee">Max &amp; Estelle Halle</name></unittitle><unitdate normal="1987/1987" type="inclusive">Dec 30, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_33e311188c66aeb8c366a7205d4d65af" label="transcript [31142062671956]" type="box">1</container><container id="aspace_d068bf9e95629e1aa8e90adbee9891a6" parent="aspace_33e311188c66aeb8c366a7205d4d65af" type="folder">9</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_46cda712460c18a2cefc49e5662ff2bf" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_2ff096a1b67c8a47a9359abca03b0299" parent="aspace_46cda712460c18a2cefc49e5662ff2bf" type="cassette">11A</container><container altrender="Card Box - 6.5 - long" id="aspace_1ed2003791f244ed2bbf2406a773471d" label="access cd [31142062759090]" type="box">2</container><container id="aspace_6f66606dcc7574b4370e61a9c2915a19" parent="aspace_1ed2003791f244ed2bbf2406a773471d" type="cd">Halle 1</container></did></c><c id="aspace_ref12" level="file"><did><unittitle><name role="Interviewee">Al &amp; Judy Hodges</name></unittitle><unitdate normal="1987/1987" type="inclusive">Aug 7, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_825da0c414c0de09c05d05e02b7364f7" label="transcript [31142062671956]" type="box">1</container><container id="aspace_45ee0313209fcfcd72eb211f72332666" parent="aspace_825da0c414c0de09c05d05e02b7364f7" type="folder">10</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_5712445d161973eabecb852df68e2371" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_3678ad0ea3c68ecc8cc5466f37e6e317" parent="aspace_5712445d161973eabecb852df68e2371" type="cassette">12A</container><container altrender="Card Box - 6.5 - long" id="aspace_acc2295d0084d216e333f891b83c09c5" label="access cd [31142062759090]" type="box">2</container><container id="aspace_4ddc8a93ac331a3d9af017963dafdd87" parent="aspace_acc2295d0084d216e333f891b83c09c5" type="cd">Hodges 1</container></did></c><c id="aspace_ref13" level="file"><did><unittitle><name role="Interviewee">Werner Jurow</name></unittitle><unitdate normal="1988/1988" type="inclusive">May 12, 1988</unitdate><container altrender="Card Box - 6.5 - long" id="aspace_28b48b1cc1bf8876c404e9ed5e36b3a7" label="access cd [31142062759090]" type="box">2</container><container id="aspace_5320a34d48c34b78347e60b663574c1e" parent="aspace_28b48b1cc1bf8876c404e9ed5e36b3a7" type="cd">Jurow 1-2</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_425dce16b0e7856cf444ec0e6fc91020" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_bb0c08ab96b2aac09a212c6396e747df" parent="aspace_425dce16b0e7856cf444ec0e6fc91020" type="cassette">13A-13B</container></did></c><c id="aspace_ref14" level="file"><did><unittitle><name role="Interviewee">Otto &amp; Lillian Karsch</name></unittitle><unitdate normal="1987/1987" type="inclusive">Dec 10, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_f9e30f0aca4f4cf54a49c14c63b395ff" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_709eba6e22e251f40a13fb7c8876f3ac" parent="aspace_f9e30f0aca4f4cf54a49c14c63b395ff" type="cassette">14A-14B</container><container altrender="Card Box - 6.5 - long" id="aspace_ddd9dbcdc9ae6c2fe5e59ba61cadb774" label="access cd [31142062759090]" type="box">2</container><container id="aspace_86e68bc04ab76d5b6baffad877ce4401" parent="aspace_ddd9dbcdc9ae6c2fe5e59ba61cadb774" type="cd">Karsch 1-3</container><container altrender="Manuscript box - Legal - Half" id="aspace_da86ced92a2b8d824ede45a8c18a8555" label="transcript [31142062671956]" type="box">1</container><container id="aspace_c9aa0a08c122c13cb6175c85fcb35e9f" parent="aspace_da86ced92a2b8d824ede45a8c18a8555" type="folder">11</container></did></c><c id="aspace_ref15" level="file"><did><unittitle><name role="Interviewee">Carl Kirschner</name></unittitle><unitdate normal="1988/1988" type="inclusive">Jan 21, 1988</unitdate><container altrender="Card Box - 6.5 - long" id="aspace_1d65f17fd9a46a3e1a625dff6532ebf9" label="access cd [31142062759090]" type="box">2</container><container id="aspace_d82999c2ce4b1a15eb187ab0c6e2cf03" parent="aspace_1d65f17fd9a46a3e1a625dff6532ebf9" type="cd">C. Kirschner 1</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_9944db24ec7ae12f1457c7bb378d14eb" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_fbc87a5764d36c253097d6797b0892f8" parent="aspace_9944db24ec7ae12f1457c7bb378d14eb" type="cassette">15A</container><container altrender="Manuscript box - Legal - Half" id="aspace_973f6de299aecc6dfd295190b4cf29d3" label="transcript [31142062671956]" type="box">1</container><container id="aspace_379f5506b605906ed410d78fe0568b60" parent="aspace_973f6de299aecc6dfd295190b4cf29d3" type="folder">12</container></did></c><c id="aspace_ref16" level="file"><did><unittitle><name role="Interviewee">Ethyl Kirschner</name></unittitle><unitdate normal="1987/1987" type="inclusive">Dec 19, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_60b8c27e668f5ab5c6f1a110f5191ef8" label="transcript [31142062671956]" type="box">1</container><container id="aspace_ef2444562755270db2120e6add55b4ad" parent="aspace_60b8c27e668f5ab5c6f1a110f5191ef8" type="folder">13</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_8f25fc36004c8ce6d54a14b8b7aad547" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_86ae4f6f28b584f639606ed1faeffcab" parent="aspace_8f25fc36004c8ce6d54a14b8b7aad547" type="cassette">16A</container><container altrender="Card Box - 6.5 - long" id="aspace_8e733b33d0a313a473012a81d788e05e" label="access cd [31142062759090]" type="box">2</container><container id="aspace_8995ba7044fc4db7e2cd8fa9cd17953b" parent="aspace_8e733b33d0a313a473012a81d788e05e" type="cd">E. Kirschner 1-2</container></did></c><c id="aspace_ref17" level="file"><did><unittitle><name role="Interviewee">George Kirschner</name></unittitle><unitdate normal="1987/1987" type="inclusive">Nov 7, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_38d4f2d2b84c9067e9ab66e1485a0319" label="transcript [31142062671956]" type="box">1</container><container id="aspace_c8de220949f8c5c5c2a4c0f985a9f186" parent="aspace_38d4f2d2b84c9067e9ab66e1485a0319" type="folder">14</container><container altrender="Card Box - 6.5 - long" id="aspace_957b920eaa7d78933f69af0962127c99" label="access cd [31142062759090]" type="box">2</container><container id="aspace_62d02055228bacbcf27c763aec72e110" parent="aspace_957b920eaa7d78933f69af0962127c99" type="cd">G. Kirschner 1-3</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_7dd7229eca5ed813517f655e4a47fecd" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_cf0f2df299da8065d497b2c8be13d499" parent="aspace_7dd7229eca5ed813517f655e4a47fecd" type="cassette">17A-17B</container></did></c><c id="aspace_ref18" level="file"><did><unittitle><name role="Interviewee">Leon Kuhl</name></unittitle><unitdate normal="1987/1987" type="inclusive">Aug 29, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_9a92c8fc52dd50825ca9ac024d1e350d" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_a56b71810c8c83a4d9bce4ae0d2f2376" parent="aspace_9a92c8fc52dd50825ca9ac024d1e350d" type="cassette">18A</container><container altrender="Card Box - 6.5 - long" id="aspace_35b351b6402d877c240edee9ec8b6ac5" label="access cd [31142062759090]" type="box">2</container><container id="aspace_8d5a68519b6d2b25a331d7e1f10e6c30" parent="aspace_35b351b6402d877c240edee9ec8b6ac5" type="cd">Kuhl 1-2</container></did></c><c id="aspace_ref19" level="file"><did><unittitle><name role="Interviewee">Meyer Kukle</name></unittitle><unitdate normal="1987/1987" type="inclusive">Jul 9, 1987</unitdate><container altrender="Card Box - 6.5 - long" id="aspace_d818e88e2dc6338b3664ee91874be9cf" label="access cd [31142062759090]" type="box">2</container><container id="aspace_8072cd75edba1989eeb5571e1da906d5" parent="aspace_d818e88e2dc6338b3664ee91874be9cf" type="cd">Kukle 1-2</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_c68759971fd88f392f6f6816c7aac379" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_1ebb9b5b21eadeeff6da0c1a45f2b147" parent="aspace_c68759971fd88f392f6f6816c7aac379" type="cassette">19A</container><container altrender="Manuscript box - Legal - Half" id="aspace_0800cb6ab8ee70456efbd8ab6f20e6de" label="transcript [31142062671956]" type="box">1</container><container id="aspace_c40f4791f98c83643886fe2f10636302" parent="aspace_0800cb6ab8ee70456efbd8ab6f20e6de" type="folder">15</container></did></c><c id="aspace_ref20" level="file"><did><unittitle><name role="Interviewee">George Levine</name></unittitle><unitdate normal="1987/1987" type="inclusive">Sep 17, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_c9e6c9f7bb9e38aaa54881c63374342e" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_ac235ce95960b3332a37e4f3d71abdaf" parent="aspace_c9e6c9f7bb9e38aaa54881c63374342e" type="cassette">20A</container><container altrender="Card Box - 6.5 - long" id="aspace_c3e2625215cfac0f92bf4756267fb570" label="access cd [31142062759090]" type="box">2</container><container id="aspace_f28a888892bd31faf62cda8d2d698949" parent="aspace_c3e2625215cfac0f92bf4756267fb570" type="cd">Levine 1</container><container altrender="Manuscript box - Legal - Half" id="aspace_84e93f4c72a6ed25b7c9accb67dbd23b" label="transcript [31142062671956]" type="box">1</container><container id="aspace_09e62f229f3092e23594a5c56408f89e" parent="aspace_84e93f4c72a6ed25b7c9accb67dbd23b" type="folder">16</container></did></c><c id="aspace_ref21" level="file"><did><unittitle><name role="Interviewee">Virginia Marson</name></unittitle><unitdate normal="1987/1987" type="inclusive">Jul 11, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_8cc9865c65d2be8382a25005cd033e23" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_e0a3dfdf189f0954199fd4b6aea925d2" parent="aspace_8cc9865c65d2be8382a25005cd033e23" type="cassette">21A</container><container altrender="Card Box - 6.5 - long" id="aspace_eca4f87b3223e01fcac1594c681afb9f" label="access cd [31142062759090]" type="box">2</container><container id="aspace_840c047316257730fcc04de8f639c990" parent="aspace_eca4f87b3223e01fcac1594c681afb9f" type="cd">Marson 1</container><container altrender="Manuscript box - Legal - Half" id="aspace_a667595b178dd8ef5818bc17ab3687ff" label="transcript [31142062671956]" type="box">1</container><container id="aspace_73fbe5005027c5f36e7dba4a4e61cc18" parent="aspace_a667595b178dd8ef5818bc17ab3687ff" type="folder">17</container></did></c><c id="aspace_ref22" level="file"><did><unittitle><name role="Interviewee">Louis Merkel</name></unittitle><unitdate normal="1987/1987" type="inclusive">Jul 10, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_2ea2de0132f5dd88f00862a4f4a2e279" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_6d854ed0089e233546ad8b4b644abc77" parent="aspace_2ea2de0132f5dd88f00862a4f4a2e279" type="cassette">22A</container><container altrender="Card Box - 6.5 - long" id="aspace_3bbe4f4ad5da158b3c59533c87e7e02b" label="access cd [31142062759090]" type="box">2</container><container id="aspace_543d69b4dc9f647a5be5aac4c85d4675" parent="aspace_3bbe4f4ad5da158b3c59533c87e7e02b" type="cd">Merkel 1</container><container altrender="Manuscript box - Legal - Half" id="aspace_9c0d6d9da75d657bf01e6dd64ea3385d" label="transcript [31142062671956]" type="box">1</container><container id="aspace_aed9b1d4cf207f8f93e383a8debd23e3" parent="aspace_9c0d6d9da75d657bf01e6dd64ea3385d" type="folder">18</container></did></c><c id="aspace_ref23" level="file"><did><unittitle><name role="Interviewee">Benaldo Montenegro &amp; Rose</name></unittitle><unitdate normal="1987/1987" type="inclusive">Aug 29, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_1a35ff544d1221fe4030b5948cd37834" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_cf7ee78001fdf6950882fb89124cdd70" parent="aspace_1a35ff544d1221fe4030b5948cd37834" type="cassette">23A-23B</container><container altrender="Card Box - 6.5 - long" id="aspace_b57f9b7b287b6b31ac6aa0419425a41f" label="access cd [31142062759090]" type="box">2</container><container id="aspace_f2da2df412d451f650e2dce636bd9f1c" parent="aspace_b57f9b7b287b6b31ac6aa0419425a41f" type="cd">Montenegro 1-3</container><container altrender="Manuscript box - Legal - Half" id="aspace_2de7a38f89b6eab3ecc2609a4d9ddcfa" label="transcript [31142062671956]" type="box">1</container><container id="aspace_207c7f00cc31949d647cffda7450d0af" parent="aspace_2de7a38f89b6eab3ecc2609a4d9ddcfa" type="folder">19</container></did></c><c id="aspace_ref24" level="file"><did><unittitle><name role="Interviewee">George Nieswand</name></unittitle><unitdate normal="1988/1988" type="inclusive">Jan 21, 1988</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_97551912df3f59ec149aad0dbe7473e5" label="transcript [31142062671956]" type="box">1</container><container id="aspace_aec0c29f611acce534c7c85b4eeae595" parent="aspace_97551912df3f59ec149aad0dbe7473e5" type="folder">20</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_3ae9586c8eb9b5dee72a16ff13b0bd36" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_c273cecbdef253330d0c2f0e447acf2b" parent="aspace_3ae9586c8eb9b5dee72a16ff13b0bd36" type="cassette">24A</container><container altrender="Card Box - 6.5 - long" id="aspace_1bdb7063493c47c5db610650487b9cc2" label="access cd [31142062759090]" type="box">2</container><container id="aspace_87bdb3061a0acb45204e78dd35bb0a01" parent="aspace_1bdb7063493c47c5db610650487b9cc2" type="cd">Nieswand 1</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Elsa Powitz</unittitle><unitdate normal="1987/1987" type="inclusive">Jun 14, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f9315d16ae30d39d43228f911354454d" label="transcript [31142062671956]" type="box">1</container><container id="aspace_fda3565d89bdcb9375e4501414607ab7" parent="aspace_f9315d16ae30d39d43228f911354454d" type="folder">21</container><container altrender="Card Box - 6.5 - long" id="aspace_137e5947630ebdcae549be6688b58f9e" label="access cd [31142062759090]" type="box">2</container><container id="aspace_ba1ad9028c3f67dcdea0aced2c306d2d" parent="aspace_137e5947630ebdcae549be6688b58f9e" type="cd">Powitz 1</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_c59cc9b1e3476da61c277368a6ce3d0f" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_6cfa72e4c5b4d79d782bf1197170a27f" parent="aspace_c59cc9b1e3476da61c277368a6ce3d0f" type="cassette">25A</container></did></c><c id="aspace_ref27" level="file"><did><unittitle><name role="Interviewee">Harry Rabinowitz</name></unittitle><unitdate normal="1987/1987" type="inclusive">Aug 22, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0bb9ac7c8af02ea40bfa4b48b883e866" label="transcript [31142062671956]" type="box">1</container><container id="aspace_454a9e09c8ae0f5d94f70bb545bbff14" parent="aspace_0bb9ac7c8af02ea40bfa4b48b883e866" type="folder">22</container><container altrender="Card Box - 6.5 - long" id="aspace_5042e5c6c8de50915ac7c03accba6a94" label="access cd [31142062759090]" type="box">2</container><container id="aspace_cda5df9f6478e9afb393b2a0b586cdba" parent="aspace_5042e5c6c8de50915ac7c03accba6a94" type="cd">Rabinowitz 1-2</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_ed7dcad95d057302cf2c8904e8f65cd6" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_f642747416c2ad2f196721e55ae438ae" parent="aspace_ed7dcad95d057302cf2c8904e8f65cd6" type="cassette">26A-26B</container></did></c><c id="aspace_ref28" level="file"><did><unittitle><name role="Interviewee">Reinhard Richter</name></unittitle><unitdate normal="1987/1987" type="inclusive">Jun 19, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_05f06321994cc09cfc8838314c9ed7cb" label="transcript [31142062671956]" type="box">1</container><container id="aspace_73abcc8b2758dd3bf6477b722e843f7c" parent="aspace_05f06321994cc09cfc8838314c9ed7cb" type="folder">23</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_8738c3b1ad6900ce2b0e6756e434afce" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_2a9de0b4c088b8135e816e4f08976793" parent="aspace_8738c3b1ad6900ce2b0e6756e434afce" type="cassette">27A</container><container altrender="Card Box - 6.5 - long" id="aspace_d1b65cf4ccd535b9bf2312aada0eed1b" label="access cd [31142062759090]" type="box">2</container><container id="aspace_d3aa786855d4cf139d9177bbd89ceda6" parent="aspace_d1b65cf4ccd535b9bf2312aada0eed1b" type="cd">Richter 1</container></did></c><c id="aspace_ref29" level="file"><did><unittitle><name role="Interviewee">Fritz Schmucker</name></unittitle><unitdate>undated</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_2bc745569659012e49eb40caebe0ab0d" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_56eca8ea9c78f2b186447bb7ba39ae16" parent="aspace_2bc745569659012e49eb40caebe0ab0d" type="cassette">34B</container><container altrender="Card Box - 6.5 - long" id="aspace_3d92e317b72207a02e4e9e6d78b51df0" label="access cd [31142062759090]" type="box">2</container><container id="aspace_7d2437f224b70b96540ff4f0d8ed3621" parent="aspace_3d92e317b72207a02e4e9e6d78b51df0" type="cd">Schmucker 1-2</container><container altrender="Manuscript box - Legal - Half" id="aspace_d4d2fb59831526ea4df1cabb6d62ddf8" label="transcript [31142062671956]" type="box">1</container><container id="aspace_eb5f51113324266c39d493d37ff2c353" parent="aspace_d4d2fb59831526ea4df1cabb6d62ddf8" type="folder">30</container></did></c><c id="aspace_ref30" level="file"><did><unittitle><name role="Interviewee">Edith Segal</name></unittitle><unitdate normal="1987/1987" type="inclusive">Jun 23, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_755d5e5eaaf3b0cfb1e16eab316fc3a0" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_379125a751339d65d3f2754d7aac0f2f" parent="aspace_755d5e5eaaf3b0cfb1e16eab316fc3a0" type="cassette">28A</container><container altrender="Manuscript box - Legal - Half" id="aspace_802e8f59d2d5ca42f223e87c14771b09" label="transcript [31142062671956]" type="box">1</container><container id="aspace_299716157965908c18a4570d1ea6a6ff" parent="aspace_802e8f59d2d5ca42f223e87c14771b09" type="folder">24</container><container altrender="Card Box - 6.5 - long" id="aspace_2ed8974ab4cb87d30c26df5448c2b84a" label="access cd [31142062759090]" type="box">2</container><container id="aspace_545ba0244b23ed277e6a754382b0ac21" parent="aspace_2ed8974ab4cb87d30c26df5448c2b84a" type="cd">Segel 1-2</container></did></c><c id="aspace_ref31" level="file"><did><unittitle><name role="Interviewee">Emanuel Sterne</name></unittitle><unitdate normal="1987/1987" type="inclusive">Jun 6, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_4fed73c84142673c0df41be8b9d99788" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_88862951c9753ccad76a416907d5de00" parent="aspace_4fed73c84142673c0df41be8b9d99788" type="cassette">29A</container><container altrender="Manuscript box - Legal - Half" id="aspace_ea4fe285cfd3888fb9e7b9834dcf85e3" label="transcript [31142062671956]" type="box">1</container><container id="aspace_3b0d5cb7ae2debca97ae28d43afa5f53" parent="aspace_ea4fe285cfd3888fb9e7b9834dcf85e3" type="folder">25</container><container altrender="Card Box - 6.5 - long" id="aspace_0b87926e85c3e9115a48ee9a03668b50" label="access cd [31142062759090]" type="box">2</container><container id="aspace_5769d6e1bdff4a0ebe2bd645f6319780" parent="aspace_0b87926e85c3e9115a48ee9a03668b50" type="cd">Sterne 1</container></did></c><c id="aspace_ref32" level="file"><did><unittitle><name role="Interviewee">Louis Sutherland</name></unittitle><unitdate normal="1987/1987" type="inclusive">Aug 20, 1987</unitdate><container altrender="Card Box - 6.5 - long" id="aspace_84f636f6863b5f04b25010c3ffe61f08" label="access cd [31142062759090]" type="box">2</container><container id="aspace_543488f0142c6627c4df8fee7240e31e" parent="aspace_84f636f6863b5f04b25010c3ffe61f08" type="cd">Sutherland 1</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_efc5ad4c1e86510689a06e63959c514e" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_f0d772a1e388fbb0f91f2dbd5b525d63" parent="aspace_efc5ad4c1e86510689a06e63959c514e" type="cassette">30A</container><container altrender="Manuscript box - Legal - Half" id="aspace_b1e76e5163251e4e253db6c7cd154f06" label="transcript [31142062671956]" type="box">1</container><container id="aspace_85e50d3d341e61da4d392120b4714938" parent="aspace_b1e76e5163251e4e253db6c7cd154f06" type="folder">26</container></did></c><c id="aspace_ref33" level="file"><did><unittitle><name role="Interviewee">Walter Tanzer</name></unittitle><unitdate normal="1987/1987" type="inclusive">Aug 25, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_577ae9a214a20cdef883508a75752dca" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_ebe80822f3515b6d4b64c251a4ca2ee4" parent="aspace_577ae9a214a20cdef883508a75752dca" type="cassette">31A</container><container altrender="Card Box - 6.5 - long" id="aspace_1d57b50098fe19906c4ae5caefb8ad70" label="access cd [31142062759090]" type="box">2</container><container id="aspace_cea8b8456494cfad12ccb9898c905c1d" parent="aspace_1d57b50098fe19906c4ae5caefb8ad70" type="cd">Tanzer 1</container><container altrender="Manuscript box - Legal - Half" id="aspace_0b6b77fb1e777248cc3f2f06656bb8b0" label="transcript [31142062671956]" type="box">1</container><container id="aspace_d249149aa264f3994370240332856e56" parent="aspace_0b6b77fb1e777248cc3f2f06656bb8b0" type="folder">27</container></did></c><c id="aspace_ref34" level="file"><did><unittitle><name role="Interviewee">Sonia Vieth</name></unittitle><unitdate normal="1987/1987" type="inclusive">Jul 11, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_cdf246ee00e0940610d47f0c3158aaed" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_b9c240c0cdb583d33736e931baa630ba" parent="aspace_cdf246ee00e0940610d47f0c3158aaed" type="cassette">32A</container><container altrender="Manuscript box - Legal - Half" id="aspace_1440d50b4c65629dcf168f32e88ed243" label="transcript [31142062671956]" type="box">1</container><container id="aspace_40950d13ce052d951af296451b2505d7" parent="aspace_1440d50b4c65629dcf168f32e88ed243" type="folder">28</container><container altrender="Card Box - 6.5 - long" id="aspace_c66ee3d7b4b19461c66cbfcb678bc098" label="access cd [31142062759090]" type="box">2</container><container id="aspace_f2ecf24d9435d9a6be05a35329be0a40" parent="aspace_c66ee3d7b4b19461c66cbfcb678bc098" type="cd">Vieth 1</container></did></c><c id="aspace_ref35" level="file"><did><unittitle><name role="Interviewee">William Voelkel</name></unittitle><unitdate normal="1987/1987" type="inclusive">Jun 27, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_cbbe6f1b8719a4c5c22bd02b64dcd8e1" label="transcript [31142062671956]" type="box">1</container><container id="aspace_8240a8a5af753d6c935229731362e5d5" parent="aspace_cbbe6f1b8719a4c5c22bd02b64dcd8e1" type="folder">29</container><container altrender="Card Box - 6.5 - long" id="aspace_4b541b5aa1f67d71a8211aabcc3de885" label="access cd [31142062759090]" type="box">2</container><container id="aspace_86570986a6c39dd079a60417c4dd59dd" parent="aspace_4b541b5aa1f67d71a8211aabcc3de885" type="cd">Voelkel 1</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_dbe2be36e39066068a6631e74a6f0187" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_c17d48fcc35d5e4245aeb7bbb3e6647f" parent="aspace_dbe2be36e39066068a6631e74a6f0187" type="cassette">33A</container></did></c><c id="aspace_ref36" level="file"><did><unittitle><name role="Interviewee">Hans Wittich</name></unittitle><unitdate normal="1987/1987" type="inclusive">Dec 28, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a1514be863368bee481163cc44ee5a34" label="transcript [31142062671956]" type="box">1</container><container id="aspace_a6c744b01771995060589dee12be0cca" parent="aspace_a1514be863368bee481163cc44ee5a34" type="folder">30</container><container altrender="Card Box - 6.5 - long" id="aspace_84ca1757134422ea4924d8f5ed0ecd13" label="access cd [31142062759090]" type="box">2</container><container id="aspace_19c5cec2f21942676679f42a78308752" parent="aspace_84ca1757134422ea4924d8f5ed0ecd13" type="cd">Wittich 1-5</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_f321b7165b4b0fa6df07894868fdba5e" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_5a9f9d6beaa86219c3e556f65b7bf444" parent="aspace_f321b7165b4b0fa6df07894868fdba5e" type="cassette">34A-C</container></did></c><c id="aspace_ref37" level="file"><did><unittitle><name role="Interviewee">Hans Wittich, Gerhardt Zwilling &amp; Henrietta Zwilling</name></unittitle><unitdate normal="1987/1987" type="inclusive">Dec 28, 1987</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Card Box - 6.5 - long" id="aspace_ec0a18fb349b9bbb856449bd07f08973" label="access cd [31142062759090]" type="box">2</container><container id="aspace_0c4431cc6688e77e5ec478b10e30e3ad" parent="aspace_ec0a18fb349b9bbb856449bd07f08973" type="cd">Zwilling &amp; Wittich 1-3</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_f177be73942714906df722e51971098f" label="master cassette [31142054612430]" type="box">3</container><container id="aspace_2d9576b30d30096a3fb0ab75a17c99d2" parent="aspace_f177be73942714906df722e51971098f" type="cassette">35A-B</container><container altrender="Manuscript box - Legal - Half" id="aspace_cecc2b1f2d209eef45cc5b5012a8480d" label="transcript [31142062671956]" type="box">1</container><container id="aspace_5d1b0dc11a37bc25cee7bbc4826e70f7" parent="aspace_cecc2b1f2d209eef45cc5b5012a8480d" type="folder">31</container></did></c></dsc>
-</archdesc>
+E-mail: tamiment.wagner@nyu.edu <lb/></p>
+    </userestrict>
+    <accessrestrict id="aspace_5bb13e7a6d07c376ef6aa7f82cba6682">
+      <head>Access Restrictions</head>
+      <p>Content open to users without restriction. Entire collection has been digitized. Researchers must use access compact disks.</p>
+    </accessrestrict>
+    <bioghist id="aspace_76f7ca101ee86beb0de061598f5bdb82">
+      <head>Historical/Biographical Note</head>
+      <p>Camp Midvale, located in Ringwood, New Jersey, was one of 400 camps worldwide established by the Nature Friends, whose U.S. branch had been founded in 1910 by German-American socialists and trade unionists. The organization's goals were to preserve wildlife and to provide workers with affordable outdoor recreation. Camp Midvale's 150 acres, with a clubhouse and hiking trails, was purchased in 1930 and served as a hub for Nature Friends' activities on the East Coast.</p>
+      <p>Nature Friends offered a political perspective, combining ecological "nature love" with progressive sympathies. "Fascist convictions" were outlawed in their by-laws. Hikers raised funds for such causes as the Scottsboro Boys, the Abraham Lincoln Brigade, the Committee for the Protection of the Foreign Born, the Committee to Release the Rosenbergs, and the civil rights movement. Placed on the Attorney General's list of subversive organizations in 1947, Nature Friends saw its members severely harassed. Camp Midvale was given to the Ethical Culture Society in 1968 in hope that it would be preserved as an ecological retreat.</p>
+      <p>Camp Midvale, located in Ringwood, New Jersey, was one of 400 camps worldwide established by the Nature Friends whose U.S. branch had been founded in 1910 by German-American socialists and trade unionists. The organization's goals were to preserve wildlife and to provide workers with affordable outdoor recreation. Camp Midvale's 150 acres, with a clubhouse and hiking trails, was purchased in 1930 and served as a hub for Nature Friends' activities on the East Coast.</p>
+      <p>Nature Friends offered a political perspective, combining ecological "nature love" with progressive sympathies. "Fascist convictions" were outlawed in their by-laws. Hikers raised funds for such causes as the "Scottsboro Boys", the Abraham Lincoln Brigade, the Committee for the Protection of the Foreign Born, the Committee to Release the Rosenbergs, and the civil rights movement. Placed on the Attorney General's list of "subversive organizations" in 1947, Nature Friends saw its members severely harassed. Camp Midvale was given to the Ethical Culture Society in 1968 in hope that it would be preserved as an ecological retreat.</p>
+    </bioghist>
+    <arrangement id="aspace_73368b5fca0b242171f4c4d1a8428375">
+      <head>Arrangement</head>
+      <p>Collection arranged alphabetically by interviewee surname.</p>
+    </arrangement>
+    <scopecontent id="aspace_fa6716aae53f5a18017c58ed2a3786e5">
+      <head>Scope and Contents note</head>
+      <p>Oral history interviews conducted by Andy Lanset, freelance radio producer and oral historian, with funding from the New Jersey Historical Commission in 1987 and 1988. Interviews document the scope of Nature Friends' activities. The resulting one hour documentary program was broadcast on WBAI, WFMU, WFUV in 1988, entitiled "Camp Midvale: An Oral History", which is also included. All interviews are open for research and many have indexes.</p>
+    </scopecontent>
+    <acqinfo id="aspace_04dc10440ae87d49b780384c9753f39f">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Andy Lanset.</p>
+    </acqinfo>
+    <processinfo id="aspace_de58ce52cbf6605403c30489cc03cd7f">
+      <head>Processing information</head>
+      <p>Interviews originally recorded on cassette. Entire collection digitzed in 2011-2012 to create digital preservation masters and access compact disks.</p>
+    </processinfo>
+    <prefercite id="aspace_6b12298c2165f9abb778c3bb44524197">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Camp Midvale/Nature Friends of America Oral History Collection; OH015; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <relatedmaterial id="aspace_2fdd5dd28154c7ed43ff4941a0174369">
+      <head>Related Archival Materials</head>
+      <p>Another collection, Camp Midvale/Nature Friends of America: FOIA Files (TAM.089), contains documents of FBI investigations into the activities of the camp, Nature Friends Incorporated, The Labor Lyceum and other related organizations, obtained through a Freedom of Information Act request.</p>
+    </relatedmaterial>
+    <controlaccess>
+      <subject source="lcsh">Ecology movement |z United States</subject>
+      <subject source="lcsh">Working class |x Recreation |z United States</subject>
+      <subject source="lcsh">Radicalism -- United States.</subject>
+      <subject source="lcsh">Camps |z New Jersey.</subject>
+      <subject source="lcsh">Socialism -- United States.</subject>
+      <subject source="lcsh">Socialism and youth -- United States.</subject>
+      <corpname source="local">Camp Midvale (Ringwood, N.J.)</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle><title render="italic">Camp Midvale: An Oral History </title>radio program</unittitle>
+          <unitdate normal="1988/1988" type="inclusive">Oct 3, 1988</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_7e4d5eb1f1d01f69b66f3fbc24ef8ddb" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_d7dc8bc26b4ed127ab756a0afdb88fe5" parent="aspace_7e4d5eb1f1d01f69b66f3fbc24ef8ddb" type="cassette">1A-1B</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_d3e252c52e9a2ca2a1f7ce163483c4e9" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_524ac2cf20999c7b87fd896527502dfd" parent="aspace_d3e252c52e9a2ca2a1f7ce163483c4e9" type="cd">Camp Midavle: An Oral History 1-2</container>
+        </did>
+      </c>
+      <c id="aspace_ref2" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Theresa &amp; Irwin Adametz</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Jun 20, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_99bafbc0129260ffe52d9f26db3eb3e8" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_fad736ed42aa3d0e07e9e5fe53f9ad6c" parent="aspace_99bafbc0129260ffe52d9f26db3eb3e8" type="cassette">2A</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_098b044900c4dcab83ceeaf9cdc6d1b2" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_dbd16a55969c8a70768958e566316ef5" parent="aspace_098b044900c4dcab83ceeaf9cdc6d1b2" type="folder">1</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_f974609178d6c3e2a50a1bd8d7c3133b" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_898539fed073ae83c8071600602cbb1e" parent="aspace_f974609178d6c3e2a50a1bd8d7c3133b" type="cd">Adametz 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref3" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Norma Allen</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Dec 11, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_29f311d21540f98e8df604f5793a3acc" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_4fe80c139c30162da12eafaf148331a6" parent="aspace_29f311d21540f98e8df604f5793a3acc" type="cassette">3A</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_502c0d5ccff5c5746df29a89169e0c45" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_36f7edfc645c2613937054d62e6b6334" parent="aspace_502c0d5ccff5c5746df29a89169e0c45" type="folder">2</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_d4dd3d7f00da54b7d6d6dbbce0de267d" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_bb8ad1560875d867256f11fdb2ef4809" parent="aspace_d4dd3d7f00da54b7d6d6dbbce0de267d" type="cd">Allen 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref4" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Bertha Bloksberg</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Aug 4, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_225831b00e0a30d24d15a5670744da2e" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_7f89fa27cd9e743a720d02767d565466" parent="aspace_225831b00e0a30d24d15a5670744da2e" type="folder">3</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_73bf07bdba49a72cbf3307e0a79fafb3" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_6ecdc7ab0d7082678c67055d29517f02" parent="aspace_73bf07bdba49a72cbf3307e0a79fafb3" type="cd">Bloksberg 1-2</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_3939aa95583776110a00c173c5b1db4c" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_b9a0a5a012812386e461221c3f2b7f23" parent="aspace_3939aa95583776110a00c173c5b1db4c" type="cassette">4A</container>
+        </did>
+      </c>
+      <c id="aspace_ref5" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Esther &amp; Fred Buchthal</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Oct 11, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_06449e8bdc6804ad8d3d1fb6ab4eb641" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_a6cbd638d60159326743526696fcb6c9" parent="aspace_06449e8bdc6804ad8d3d1fb6ab4eb641" type="cassette">5A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_9ee448d3bffcea1315e45bbfb5d8c59d" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_16ab26f001e7647a6dadf2d87178fcc9" parent="aspace_9ee448d3bffcea1315e45bbfb5d8c59d" type="cd">Buchtal 1</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_cce44af3d8911dfef5fd5b659def3e3c" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_b3c903dfe6ca9c3be4eef203b8f24a8e" parent="aspace_cce44af3d8911dfef5fd5b659def3e3c" type="folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref6" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">August Danielsson</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Aug 15, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_4f67272abe8d3b2d46f8c79080210fa6" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_7177a496a3a3bf8ddb4c1291efe03d85" parent="aspace_4f67272abe8d3b2d46f8c79080210fa6" type="folder">5</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_7f2c66f2f62ef98404fb7a1cc0f83f18" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_121705fbe19ac227d78942791cfd6db5" parent="aspace_7f2c66f2f62ef98404fb7a1cc0f83f18" type="cd">A. Danielsson 1</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_893d5a7e0f49f27b7631aa55bd1c2b79" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_8ecf887eba1131d0504602a0ba836650" parent="aspace_893d5a7e0f49f27b7631aa55bd1c2b79" type="cassette">6A</container>
+        </did>
+      </c>
+      <c id="aspace_ref7" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Claire Danielsson</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Aug 15, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_3ba45ef7f0d750a00a6f175f4916fb25" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_d62efd6bae39eec0fd3ed3c014aaf353" parent="aspace_3ba45ef7f0d750a00a6f175f4916fb25" type="cassette">7A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_07bf57133adbb5b756415189353dc586" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_8721c5f302bac6d403c0a67d3f598ffc" parent="aspace_07bf57133adbb5b756415189353dc586" type="cd">C. Danielsson 1</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_dd0376a9ac36b69586018f7364b596c6" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_61b41ddbcadd85e4216cd4f6a5b0e540" parent="aspace_dd0376a9ac36b69586018f7364b596c6" type="folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref8" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Hanni Duffy</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Nov 15, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_72a11943ead3ca620c0031945be831e5" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_771744193b0ff9c6dd07318cf71fa6bf" parent="aspace_72a11943ead3ca620c0031945be831e5" type="cassette">8A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_50db44ba54f2262a92405c9a35fdf9a8" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_03e48b338af9ed5155d3ce1fc7945556" parent="aspace_50db44ba54f2262a92405c9a35fdf9a8" type="cd">Duffy 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref9" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Robert &amp; Kornelia Ehrlich</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Jun 6, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_7feedf43f9b9e7b1a0de2cdd87d478e1" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_1afd582d80172f4c11508a0c27772080" parent="aspace_7feedf43f9b9e7b1a0de2cdd87d478e1" type="cassette">9A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_e2406926dad5558645b55ab2af4f089e" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_e1ce4442c24a948f7b75c5664ec2bce5" parent="aspace_e2406926dad5558645b55ab2af4f089e" type="cd">R. &amp; K. Erlich 1-2</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_58fadf04eb13ccc42c9d6dcc019a2964" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_b0ec78192931dc626d5fbd01b2493e4f" parent="aspace_58fadf04eb13ccc42c9d6dcc019a2964" type="folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref10" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Saul Ehrlich</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Nov 8, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_3b145015b9c0edeef4eadd4c15f1a4d3" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_10e77d95b066e05b8dbed15933479540" parent="aspace_3b145015b9c0edeef4eadd4c15f1a4d3" type="folder">8</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_19e8e512428318b5eab62b27a30a4261" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_605c65b0c010df2df845062406cf3f4d" parent="aspace_19e8e512428318b5eab62b27a30a4261" type="cd">S. Erlich 1</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_151cc36fea32e7cee7e03ffc0f6e5235" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_b96b77793858583c3297c6fe371bfe23" parent="aspace_151cc36fea32e7cee7e03ffc0f6e5235" type="cassette">10A</container>
+        </did>
+      </c>
+      <c id="aspace_ref11" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Max &amp; Estelle Halle</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Dec 30, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_33e311188c66aeb8c366a7205d4d65af" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_d068bf9e95629e1aa8e90adbee9891a6" parent="aspace_33e311188c66aeb8c366a7205d4d65af" type="folder">9</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_46cda712460c18a2cefc49e5662ff2bf" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_2ff096a1b67c8a47a9359abca03b0299" parent="aspace_46cda712460c18a2cefc49e5662ff2bf" type="cassette">11A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_1ed2003791f244ed2bbf2406a773471d" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_6f66606dcc7574b4370e61a9c2915a19" parent="aspace_1ed2003791f244ed2bbf2406a773471d" type="cd">Halle 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Al &amp; Judy Hodges</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Aug 7, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_825da0c414c0de09c05d05e02b7364f7" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_45ee0313209fcfcd72eb211f72332666" parent="aspace_825da0c414c0de09c05d05e02b7364f7" type="folder">10</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_5712445d161973eabecb852df68e2371" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_3678ad0ea3c68ecc8cc5466f37e6e317" parent="aspace_5712445d161973eabecb852df68e2371" type="cassette">12A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_acc2295d0084d216e333f891b83c09c5" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_4ddc8a93ac331a3d9af017963dafdd87" parent="aspace_acc2295d0084d216e333f891b83c09c5" type="cd">Hodges 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Werner Jurow</name>
+          </unittitle>
+          <unitdate normal="1988/1988" type="inclusive">May 12, 1988</unitdate>
+          <container altrender="Card Box - 6.5 - long" id="aspace_28b48b1cc1bf8876c404e9ed5e36b3a7" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_5320a34d48c34b78347e60b663574c1e" parent="aspace_28b48b1cc1bf8876c404e9ed5e36b3a7" type="cd">Jurow 1-2</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_425dce16b0e7856cf444ec0e6fc91020" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_bb0c08ab96b2aac09a212c6396e747df" parent="aspace_425dce16b0e7856cf444ec0e6fc91020" type="cassette">13A-13B</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Otto &amp; Lillian Karsch</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Dec 10, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_f9e30f0aca4f4cf54a49c14c63b395ff" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_709eba6e22e251f40a13fb7c8876f3ac" parent="aspace_f9e30f0aca4f4cf54a49c14c63b395ff" type="cassette">14A-14B</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_ddd9dbcdc9ae6c2fe5e59ba61cadb774" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_86e68bc04ab76d5b6baffad877ce4401" parent="aspace_ddd9dbcdc9ae6c2fe5e59ba61cadb774" type="cd">Karsch 1-3</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_da86ced92a2b8d824ede45a8c18a8555" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_c9aa0a08c122c13cb6175c85fcb35e9f" parent="aspace_da86ced92a2b8d824ede45a8c18a8555" type="folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Carl Kirschner</name>
+          </unittitle>
+          <unitdate normal="1988/1988" type="inclusive">Jan 21, 1988</unitdate>
+          <container altrender="Card Box - 6.5 - long" id="aspace_1d65f17fd9a46a3e1a625dff6532ebf9" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_d82999c2ce4b1a15eb187ab0c6e2cf03" parent="aspace_1d65f17fd9a46a3e1a625dff6532ebf9" type="cd">C. Kirschner 1</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_9944db24ec7ae12f1457c7bb378d14eb" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_fbc87a5764d36c253097d6797b0892f8" parent="aspace_9944db24ec7ae12f1457c7bb378d14eb" type="cassette">15A</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_973f6de299aecc6dfd295190b4cf29d3" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_379f5506b605906ed410d78fe0568b60" parent="aspace_973f6de299aecc6dfd295190b4cf29d3" type="folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Ethyl Kirschner</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Dec 19, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_60b8c27e668f5ab5c6f1a110f5191ef8" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_ef2444562755270db2120e6add55b4ad" parent="aspace_60b8c27e668f5ab5c6f1a110f5191ef8" type="folder">13</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_8f25fc36004c8ce6d54a14b8b7aad547" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_86ae4f6f28b584f639606ed1faeffcab" parent="aspace_8f25fc36004c8ce6d54a14b8b7aad547" type="cassette">16A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_8e733b33d0a313a473012a81d788e05e" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_8995ba7044fc4db7e2cd8fa9cd17953b" parent="aspace_8e733b33d0a313a473012a81d788e05e" type="cd">E. Kirschner 1-2</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">George Kirschner</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Nov 7, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_38d4f2d2b84c9067e9ab66e1485a0319" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_c8de220949f8c5c5c2a4c0f985a9f186" parent="aspace_38d4f2d2b84c9067e9ab66e1485a0319" type="folder">14</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_957b920eaa7d78933f69af0962127c99" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_62d02055228bacbcf27c763aec72e110" parent="aspace_957b920eaa7d78933f69af0962127c99" type="cd">G. Kirschner 1-3</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_7dd7229eca5ed813517f655e4a47fecd" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_cf0f2df299da8065d497b2c8be13d499" parent="aspace_7dd7229eca5ed813517f655e4a47fecd" type="cassette">17A-17B</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Leon Kuhl</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Aug 29, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_9a92c8fc52dd50825ca9ac024d1e350d" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_a56b71810c8c83a4d9bce4ae0d2f2376" parent="aspace_9a92c8fc52dd50825ca9ac024d1e350d" type="cassette">18A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_35b351b6402d877c240edee9ec8b6ac5" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_8d5a68519b6d2b25a331d7e1f10e6c30" parent="aspace_35b351b6402d877c240edee9ec8b6ac5" type="cd">Kuhl 1-2</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Meyer Kukle</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Jul 9, 1987</unitdate>
+          <container altrender="Card Box - 6.5 - long" id="aspace_d818e88e2dc6338b3664ee91874be9cf" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_8072cd75edba1989eeb5571e1da906d5" parent="aspace_d818e88e2dc6338b3664ee91874be9cf" type="cd">Kukle 1-2</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_c68759971fd88f392f6f6816c7aac379" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_1ebb9b5b21eadeeff6da0c1a45f2b147" parent="aspace_c68759971fd88f392f6f6816c7aac379" type="cassette">19A</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_0800cb6ab8ee70456efbd8ab6f20e6de" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_c40f4791f98c83643886fe2f10636302" parent="aspace_0800cb6ab8ee70456efbd8ab6f20e6de" type="folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">George Levine</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Sep 17, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_c9e6c9f7bb9e38aaa54881c63374342e" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_ac235ce95960b3332a37e4f3d71abdaf" parent="aspace_c9e6c9f7bb9e38aaa54881c63374342e" type="cassette">20A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_c3e2625215cfac0f92bf4756267fb570" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_f28a888892bd31faf62cda8d2d698949" parent="aspace_c3e2625215cfac0f92bf4756267fb570" type="cd">Levine 1</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_84e93f4c72a6ed25b7c9accb67dbd23b" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_09e62f229f3092e23594a5c56408f89e" parent="aspace_84e93f4c72a6ed25b7c9accb67dbd23b" type="folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Virginia Marson</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Jul 11, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_8cc9865c65d2be8382a25005cd033e23" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_e0a3dfdf189f0954199fd4b6aea925d2" parent="aspace_8cc9865c65d2be8382a25005cd033e23" type="cassette">21A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_eca4f87b3223e01fcac1594c681afb9f" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_840c047316257730fcc04de8f639c990" parent="aspace_eca4f87b3223e01fcac1594c681afb9f" type="cd">Marson 1</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_a667595b178dd8ef5818bc17ab3687ff" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_73fbe5005027c5f36e7dba4a4e61cc18" parent="aspace_a667595b178dd8ef5818bc17ab3687ff" type="folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Louis Merkel</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Jul 10, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_2ea2de0132f5dd88f00862a4f4a2e279" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_6d854ed0089e233546ad8b4b644abc77" parent="aspace_2ea2de0132f5dd88f00862a4f4a2e279" type="cassette">22A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_3bbe4f4ad5da158b3c59533c87e7e02b" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_543d69b4dc9f647a5be5aac4c85d4675" parent="aspace_3bbe4f4ad5da158b3c59533c87e7e02b" type="cd">Merkel 1</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_9c0d6d9da75d657bf01e6dd64ea3385d" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_aed9b1d4cf207f8f93e383a8debd23e3" parent="aspace_9c0d6d9da75d657bf01e6dd64ea3385d" type="folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Benaldo Montenegro &amp; Rose</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Aug 29, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_1a35ff544d1221fe4030b5948cd37834" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_cf7ee78001fdf6950882fb89124cdd70" parent="aspace_1a35ff544d1221fe4030b5948cd37834" type="cassette">23A-23B</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_b57f9b7b287b6b31ac6aa0419425a41f" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_f2da2df412d451f650e2dce636bd9f1c" parent="aspace_b57f9b7b287b6b31ac6aa0419425a41f" type="cd">Montenegro 1-3</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_2de7a38f89b6eab3ecc2609a4d9ddcfa" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_207c7f00cc31949d647cffda7450d0af" parent="aspace_2de7a38f89b6eab3ecc2609a4d9ddcfa" type="folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">George Nieswand</name>
+          </unittitle>
+          <unitdate normal="1988/1988" type="inclusive">Jan 21, 1988</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_97551912df3f59ec149aad0dbe7473e5" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_aec0c29f611acce534c7c85b4eeae595" parent="aspace_97551912df3f59ec149aad0dbe7473e5" type="folder">20</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_3ae9586c8eb9b5dee72a16ff13b0bd36" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_c273cecbdef253330d0c2f0e447acf2b" parent="aspace_3ae9586c8eb9b5dee72a16ff13b0bd36" type="cassette">24A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_1bdb7063493c47c5db610650487b9cc2" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_87bdb3061a0acb45204e78dd35bb0a01" parent="aspace_1bdb7063493c47c5db610650487b9cc2" type="cd">Nieswand 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Elsa Powitz</unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Jun 14, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_f9315d16ae30d39d43228f911354454d" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_fda3565d89bdcb9375e4501414607ab7" parent="aspace_f9315d16ae30d39d43228f911354454d" type="folder">21</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_137e5947630ebdcae549be6688b58f9e" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_ba1ad9028c3f67dcdea0aced2c306d2d" parent="aspace_137e5947630ebdcae549be6688b58f9e" type="cd">Powitz 1</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_c59cc9b1e3476da61c277368a6ce3d0f" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_6cfa72e4c5b4d79d782bf1197170a27f" parent="aspace_c59cc9b1e3476da61c277368a6ce3d0f" type="cassette">25A</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Harry Rabinowitz</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Aug 22, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_0bb9ac7c8af02ea40bfa4b48b883e866" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_454a9e09c8ae0f5d94f70bb545bbff14" parent="aspace_0bb9ac7c8af02ea40bfa4b48b883e866" type="folder">22</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_5042e5c6c8de50915ac7c03accba6a94" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_cda5df9f6478e9afb393b2a0b586cdba" parent="aspace_5042e5c6c8de50915ac7c03accba6a94" type="cd">Rabinowitz 1-2</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_ed7dcad95d057302cf2c8904e8f65cd6" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_f642747416c2ad2f196721e55ae438ae" parent="aspace_ed7dcad95d057302cf2c8904e8f65cd6" type="cassette">26A-26B</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Reinhard Richter</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Jun 19, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_05f06321994cc09cfc8838314c9ed7cb" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_73abcc8b2758dd3bf6477b722e843f7c" parent="aspace_05f06321994cc09cfc8838314c9ed7cb" type="folder">23</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_8738c3b1ad6900ce2b0e6756e434afce" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_2a9de0b4c088b8135e816e4f08976793" parent="aspace_8738c3b1ad6900ce2b0e6756e434afce" type="cassette">27A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_d1b65cf4ccd535b9bf2312aada0eed1b" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_d3aa786855d4cf139d9177bbd89ceda6" parent="aspace_d1b65cf4ccd535b9bf2312aada0eed1b" type="cd">Richter 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Fritz Schmucker</name>
+          </unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_2bc745569659012e49eb40caebe0ab0d" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_56eca8ea9c78f2b186447bb7ba39ae16" parent="aspace_2bc745569659012e49eb40caebe0ab0d" type="cassette">34B</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_3d92e317b72207a02e4e9e6d78b51df0" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_7d2437f224b70b96540ff4f0d8ed3621" parent="aspace_3d92e317b72207a02e4e9e6d78b51df0" type="cd">Schmucker 1-2</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_d4d2fb59831526ea4df1cabb6d62ddf8" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_eb5f51113324266c39d493d37ff2c353" parent="aspace_d4d2fb59831526ea4df1cabb6d62ddf8" type="folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Edith Segal</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Jun 23, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_755d5e5eaaf3b0cfb1e16eab316fc3a0" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_379125a751339d65d3f2754d7aac0f2f" parent="aspace_755d5e5eaaf3b0cfb1e16eab316fc3a0" type="cassette">28A</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_802e8f59d2d5ca42f223e87c14771b09" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_299716157965908c18a4570d1ea6a6ff" parent="aspace_802e8f59d2d5ca42f223e87c14771b09" type="folder">24</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_2ed8974ab4cb87d30c26df5448c2b84a" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_545ba0244b23ed277e6a754382b0ac21" parent="aspace_2ed8974ab4cb87d30c26df5448c2b84a" type="cd">Segel 1-2</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Emanuel Sterne</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Jun 6, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_4fed73c84142673c0df41be8b9d99788" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_88862951c9753ccad76a416907d5de00" parent="aspace_4fed73c84142673c0df41be8b9d99788" type="cassette">29A</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_ea4fe285cfd3888fb9e7b9834dcf85e3" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_3b0d5cb7ae2debca97ae28d43afa5f53" parent="aspace_ea4fe285cfd3888fb9e7b9834dcf85e3" type="folder">25</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_0b87926e85c3e9115a48ee9a03668b50" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_5769d6e1bdff4a0ebe2bd645f6319780" parent="aspace_0b87926e85c3e9115a48ee9a03668b50" type="cd">Sterne 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Louis Sutherland</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Aug 20, 1987</unitdate>
+          <container altrender="Card Box - 6.5 - long" id="aspace_84f636f6863b5f04b25010c3ffe61f08" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_543488f0142c6627c4df8fee7240e31e" parent="aspace_84f636f6863b5f04b25010c3ffe61f08" type="cd">Sutherland 1</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_efc5ad4c1e86510689a06e63959c514e" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_f0d772a1e388fbb0f91f2dbd5b525d63" parent="aspace_efc5ad4c1e86510689a06e63959c514e" type="cassette">30A</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_b1e76e5163251e4e253db6c7cd154f06" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_85e50d3d341e61da4d392120b4714938" parent="aspace_b1e76e5163251e4e253db6c7cd154f06" type="folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Walter Tanzer</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Aug 25, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_577ae9a214a20cdef883508a75752dca" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_ebe80822f3515b6d4b64c251a4ca2ee4" parent="aspace_577ae9a214a20cdef883508a75752dca" type="cassette">31A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_1d57b50098fe19906c4ae5caefb8ad70" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_cea8b8456494cfad12ccb9898c905c1d" parent="aspace_1d57b50098fe19906c4ae5caefb8ad70" type="cd">Tanzer 1</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_0b6b77fb1e777248cc3f2f06656bb8b0" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_d249149aa264f3994370240332856e56" parent="aspace_0b6b77fb1e777248cc3f2f06656bb8b0" type="folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Sonia Vieth</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Jul 11, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_cdf246ee00e0940610d47f0c3158aaed" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_b9c240c0cdb583d33736e931baa630ba" parent="aspace_cdf246ee00e0940610d47f0c3158aaed" type="cassette">32A</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_1440d50b4c65629dcf168f32e88ed243" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_40950d13ce052d951af296451b2505d7" parent="aspace_1440d50b4c65629dcf168f32e88ed243" type="folder">28</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_c66ee3d7b4b19461c66cbfcb678bc098" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_f2ecf24d9435d9a6be05a35329be0a40" parent="aspace_c66ee3d7b4b19461c66cbfcb678bc098" type="cd">Vieth 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">William Voelkel</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Jun 27, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_cbbe6f1b8719a4c5c22bd02b64dcd8e1" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_8240a8a5af753d6c935229731362e5d5" parent="aspace_cbbe6f1b8719a4c5c22bd02b64dcd8e1" type="folder">29</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_4b541b5aa1f67d71a8211aabcc3de885" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_86570986a6c39dd079a60417c4dd59dd" parent="aspace_4b541b5aa1f67d71a8211aabcc3de885" type="cd">Voelkel 1</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_dbe2be36e39066068a6631e74a6f0187" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_c17d48fcc35d5e4245aeb7bbb3e6647f" parent="aspace_dbe2be36e39066068a6631e74a6f0187" type="cassette">33A</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Hans Wittich</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Dec 28, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_a1514be863368bee481163cc44ee5a34" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_a6c744b01771995060589dee12be0cca" parent="aspace_a1514be863368bee481163cc44ee5a34" type="folder">30</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_84ca1757134422ea4924d8f5ed0ecd13" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_19c5cec2f21942676679f42a78308752" parent="aspace_84ca1757134422ea4924d8f5ed0ecd13" type="cd">Wittich 1-5</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_f321b7165b4b0fa6df07894868fdba5e" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_5a9f9d6beaa86219c3e556f65b7bf444" parent="aspace_f321b7165b4b0fa6df07894868fdba5e" type="cassette">34A-C</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>
+            <name role="Interviewee">Hans Wittich, Gerhardt Zwilling &amp; Henrietta Zwilling</name>
+          </unittitle>
+          <unitdate normal="1987/1987" type="inclusive">Dec 28, 1987</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Card Box - 6.5 - long" id="aspace_ec0a18fb349b9bbb856449bd07f08973" label="access cd [31142062759090]" type="box">2</container>
+          <container id="aspace_0c4431cc6688e77e5ec478b10e30e3ad" parent="aspace_ec0a18fb349b9bbb856449bd07f08973" type="cd">Zwilling &amp; Wittich 1-3</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_f177be73942714906df722e51971098f" label="master cassette [31142054612430]" type="box">3</container>
+          <container id="aspace_2d9576b30d30096a3fb0ab75a17c99d2" parent="aspace_f177be73942714906df722e51971098f" type="cassette">35A-B</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_cecc2b1f2d209eef45cc5b5012a8480d" label="transcript [31142062671956]" type="box">1</container>
+          <container id="aspace_5d1b0dc11a37bc25cee7bbc4826e70f7" parent="aspace_cecc2b1f2d209eef45cc5b5012a8480d" type="folder">31</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

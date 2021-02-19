@@ -1,85 +1,380 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_046/">tam_046</eadid><filedesc><titlestmt><titleproper>Guide to the Art Young Papers <num>TAM.046</num></titleproper><author>Tamiment staff, undated; Revised by Hillel Arnold, 2009</author></titlestmt><editionstmt><p>This version was derived from Young, Art template.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:45:47 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Art Young Papers</unittitle>
-    <origination label="Creator">
-      <persname source="naf">Young, Art, 1866-1943.</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" source="naf">Frank, Adelaide Schulkind</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">Friedkin, Anna D.</persname>
-    </origination>
-    <unitid>TAM.046</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-      <extent altrender="carrier">(1 box)</extent>
-    </physdesc>
-    <unitdate normal="1891/1955" type="inclusive">1891-1955</unitdate>
-    <unitdate normal="1924/1944" type="bulk">1924-1944</unitdate>
-    <abstract id="aspace_77f065c525ba4b38a00fd6f406ee96b6">Art Young was a cartoonist and socialist. The papers include correspondence, three original drawings, cartoons, clippings, postcards, printed material and catalogs of exhibits by artists working with political themes.</abstract>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_046/">tam_046</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Art Young Papers <num>TAM.046</num></titleproper>
+        <author>Tamiment staff, undated; Revised by Hillel Arnold, 2009</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Young, Art template.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:45:47 -0500</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Art Young Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Young, Art, 1866-1943.</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" source="naf">Frank, Adelaide Schulkind</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Friedkin, Anna D.</persname>
+      </origination>
+      <unitid>TAM.046</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+        <extent altrender="carrier">(1 box)</extent>
+      </physdesc>
+      <unitdate normal="1891/1955" type="inclusive">1891-1955</unitdate>
+      <unitdate normal="1924/1944" type="bulk">1924-1944</unitdate>
+      <abstract id="aspace_77f065c525ba4b38a00fd6f406ee96b6">Art Young was a cartoonist and socialist. The papers include correspondence, three original drawings, cartoons, clippings, postcards, printed material and catalogs of exhibits by artists working with political themes.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-  </did>
-  <acqinfo id="aspace_cda3cf749e629f41a5106d13874630a7">
-    <head>Provenance</head>
-<p>Donated by Adelaide Schulkind Frank and Anna Friedkin in 1971. The accession number associated with this gift is 1971.004. Additional materials may have been donation by Albert Boni in 1972.</p>  </acqinfo>
-  <accessrestrict id="aspace_dc67ab9a2b651f4c53b475714e36a703">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <bioghist id="aspace_3a5f97b5e1e4fc094e87fd1a42c05283">
-    <head>Historical/Biographical Note</head>
-<p>Art Young (1866-1943) was a leading socialist cartoonist and humorist whose work appeared in <title render="italic">The Masses</title>(1910-1917) and elsewhere. He was born in Monroe, Wisconsin, studied at the Academy of Design in Chicago, where he first illustrated news stories and saw his cartoons published in various newspapers. In 1895 Young moved to New York where his work was published in Life and where he became a socialist and, in 1910, one of the founding members of the artists and writers cooperative that produced <title render="italic">The Masses</title>, a socialist monthly. Young's work was among that cited by the U.S. government as being in violation of the World War I-inspired Espionage Act. Young's work also appeared in <title render="italic">The Liberator</title>(1918-1924), which he helped establish, his own radical humor magazine, <title render="italic">Good Morning</title>(1919-1921), the <title render="italic">New Leader</title>, the <title render="italic">New Masses</title>, <title render="italic">The Nation</title>, and elsewhere.</p>  </bioghist>
-  <scopecontent id="aspace_12a8b8bcf4d4e83913c62a22b9638649">
-    <head>Scope and Content Note</head>
-<p>The papers include correspondence (principally outgoing), clippings, pamphlets, cartoons, printed material and catalogs of exhibits by artists working with political themes including Maurice Becker, Edmond McKenna, Archibald J. Motley, Jr. and Herman Rose some of these contain illustrations. The bulk of Young's letters are to Adelaide Schulkind, Meyer Friedkin and Arthur Spingarn. There is one letter each from William Gropper and Will Durant. The file on Young's death includes letters from John Haynes Holmes and Young's relatives. There are three original drawings, clippings from newspapers and periodicals, including the <title render="italic">New Masses</title>, containing cartoons by and articles about Young, a set of twelve postcards, <title render="italic">How to Cure World-Unrest</title>, New Year's cards (1936-39, 1941-44), an illustrated envelope (1943) designed to accompany an affixed poster-stamp by Gilbert Wilson, "Unity for Victory," on the theme of black-white unity, a typescript of Young's <title render="italic">Thomas Rowlandson</title>(1938), a biography of the 18th century cartoonist, publication correspondence for Young's autobiography, <title render="italic">Art Young, His Life and Times</title>(1939), including a letter from John Nicholas Beffel, and Young's last will and testament.</p>  </scopecontent>
-  <arrangement id="aspace_c49ffb9fda8515b7f2e27ddef2e4c0bd">
-    <head>Arrangement</head>
-<p>Folders are arranged alphabetically.</p><p>The files are grouped into 1 series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>Inventory</item>
-    </list>
-  </arrangement>
-  <userestrict id="aspace_4aae040979189ff088cd8174314d4a88">
-    <head>Conditions Governing Use</head>
-<p>Materials in this collection, which were created in 1891-1955, are in the public domain. Permission to publish or reproduce is not required.</p>  </userestrict>
-  <prefercite id="aspace_d2d6cf801dec9d369c62412cde12e03c">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Art Young Papers; TAM 046; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <controlaccess>
-    <genreform source="aat">Postcards.</genreform>
-    <genreform source="aat">Wills</genreform>
-    <subject source="lcsh">Cartoonists.</subject>
-    <subject source="lcsh">Right and left (Political science).</subject>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <subject source="lcsh">Art, American -- 20th century</subject>
-    <subject source="lcsh">Socialism -- United States.</subject>
-    <genreform source="aat">Obituaries.</genreform>
-    <genreform source="aat">Manuscripts for publication.</genreform>
-    <genreform source="aat">Exhibition catalogs.</genreform>
-    <genreform source="lcsh">Caricatures and cartoons.</genreform>
-    <genreform source="aat">Drawings (visual works)</genreform>
-    <persname source="ingest">Wilson, Gilbert.</persname>
-    <persname source="naf">Holmes, John Haynes, 1879-1964</persname>
-    <persname source="naf">Spingarn, Arthur B. (Arthur Barnett), 1878-1971.</persname>
-    <persname rules="dacs" source="local">McKenna, Edmond</persname>
-    <persname source="ingest">Rose, Herman.</persname>
-    <persname source="naf">Motley, Archibald John, Jr., 1891-1981</persname>
-    <persname source="naf">Durant, Will, 1885-1981</persname>
-    <persname source="naf">Frank, Adelaide Schulkind</persname>
-    <persname rules="dacs" source="local">Friedkin, Meyer</persname>
-    <persname source="naf">Gropper, William, 1897-1977</persname>
-    <persname source="naf">Young, Art, 1866-1943.</persname>
-    <persname source="naf">Becker, Maurice, 1889-1975</persname>
-    <persname source="naf">Beffel, John Nicholas</persname>
-    <persname role="dnr" source="naf">Frank, Adelaide Schulkind</persname>
-    <persname role="dnr" rules="dacs" source="local">Friedkin, Anna D.</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Inventory</unittitle></did><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>Art Young: His Life and Times (flyer and special issue of <emph render="italic">New Masses</emph>)</unittitle><unitdate normal="1944/1944" type="inclusive">1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_d21c1e090501d66df2b41428ff918959" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_6f57676c291add68b7df80412631af52" parent="aspace_d21c1e090501d66df2b41428ff918959" type="folder">1</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle>Autobiography: Contract for</unittitle><unitdate normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_7c2f7dcfa7dd515081ffb392a8edc67d" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_8fb4cb053a0616a0f6f90d2bd71c3434" parent="aspace_7c2f7dcfa7dd515081ffb392a8edc67d" type="folder">2</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle>Becker, Maurice: Exhibitions, Clippings, Drawings (includes watercolor sketches on postcards and 2 sketches of Eugene V. Debs)</unittitle><unitdate normal="1942/1961" type="inclusive">1942-1961</unitdate><container altrender="Manuscript box - Legal" id="aspace_f0599202d53c90771d31751d85537680" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_86607f9987fa8fc0da39fbcd149ce46f" parent="aspace_f0599202d53c90771d31751d85537680" type="folder">3</container></did></c><c id="aspace_ref17" level="otherlevel" otherlevel="unspecified"><did><unittitle>Beffel, John Nicholas: Profiles of AY ( <emph render="italic">New Yorker</emph>) and AY sketch of Beffel</unittitle><unitdate normal="1939/1939" type="inclusive">Mar 2, 1935 , 1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_9aa418b9db324031a3fd585ab4297c2e" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_6d83e98972455999a0f4977f33da1895" parent="aspace_9aa418b9db324031a3fd585ab4297c2e" type="folder">4</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle>Belsky, Ben: Letters to</unittitle><unitdate normal="1933/1934" type="inclusive">1933-1934 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_dc67d14bdd934c07df334ebfea96bfbf" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_7d1414a471678b92fe648b9c668a0db8" parent="aspace_dc67d14bdd934c07df334ebfea96bfbf" type="folder">5</container></did></c><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle>Clippings: About AY, <emph render="italic">New Masses</emph></unittitle><unitdate normal="1913/1925" type="inclusive">1913-1925 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e26a4e5a64f3ce11f7f7988a4ce6e58b" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_051f36ef4f013fa9d7b256f20526e0d5" parent="aspace_e26a4e5a64f3ce11f7f7988a4ce6e58b" type="folder">6</container></did></c><c id="aspace_ref20" level="otherlevel" otherlevel="unspecified"><did><unittitle>Clippings: AY Drawings</unittitle><unitdate normal="1918/1944" type="inclusive">1918-1944 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_54af2ff51b988f9eba605c0cd32b8d29" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_a889c186c073f2c0c90d7500cb35aa52" parent="aspace_54af2ff51b988f9eba605c0cd32b8d29" type="folder">7</container></did></c><c id="aspace_ref21" level="otherlevel" otherlevel="unspecified"><did><unittitle>Clippings: AY Drawings (periodicals, proofs and copies)</unittitle><unitdate normal="1891/1937" type="inclusive">1891-1937 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_c6486c82a516d2f0067cca84001b615e" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_39c1b53894a97705f77bb1b048444906" parent="aspace_c6486c82a516d2f0067cca84001b615e" type="folder">8</container></did></c><c id="aspace_ref22" level="otherlevel" otherlevel="unspecified"><did><unittitle>Death: Memorial Meeting, Estate, Correspondence, Obituaries</unittitle><unitdate normal="1944/1944" type="inclusive">1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_2117da868671e8eb968187ab8fffdb48" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_f49019e9983fea01130406023ee4efd9" parent="aspace_2117da868671e8eb968187ab8fffdb48" type="folder">9</container></did></c><c id="aspace_ref23" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="italic">Direction</emph>: Art Young Issue (Vol. 7, no. 2)</unittitle><unitdate>Apr 1944-May 1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_e2f3cded8c2fda81978f80945a2769b6" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_7d1905c9eca6f6cea936973dd4b22521" parent="aspace_e2f3cded8c2fda81978f80945a2769b6" type="folder">10</container></did></c><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle>Drawings, Original, b&amp;w, ink [3]Contents: <lb/>1. Silhouette. [With inscription "To my friend John Nicholas Beffel from Seneca Ill. From his heighbor. Art Young of Monroe Wis. Bethel, July 21, 1935"], signed "Art Young" <lb/>2. "Collis P. Huntington on board the Teutonic," signed "AY" nd <lb/>3. "It Surprised Him [penciled caption]" signed "Art Young" 1930 <lb/>[two bearded, hatted farmers in ragged dress in a field; with text below, as follows- <lb/>John Presley: "I see by the Clarion that they're goin to bring the log of the Mayflower over here." <lb/>Hiram Harrow: "Gosh! I didn't 'spose there was a splinter of the old boat left"]</unittitle><unitdate normal="1930/1935" type="inclusive">1930 , 1935 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_5fc4817f71c11858b1b2031a5e428316" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_6b9699b13d80a18b5c74bf5a7bc3f633" parent="aspace_5fc4817f71c11858b1b2031a5e428316" type="folder">11</container></did></c><c id="aspace_ref25" level="otherlevel" otherlevel="unspecified"><did><unittitle>Durant, Will: Letter to AY</unittitle><unitdate>Jan 5, 1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_53dae88590600a69060a090bbe89ae2e" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_b20e75814e7a089340cb7d03f864a17d" parent="aspace_53dae88590600a69060a090bbe89ae2e" type="folder">12</container></did></c><c id="aspace_ref26" level="otherlevel" otherlevel="unspecified"><did><unittitle>Exhibitions and Publications (AY, Others)</unittitle><unitdate normal="1934/1939" type="inclusive">1934 , 1939 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_9b9099ad6f2fb79bdf9ca01f84408445" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_572c8aeaca9f33ca247a63229d219bec" parent="aspace_9b9099ad6f2fb79bdf9ca01f84408445" type="folder">13</container></did></c><c id="aspace_ref27" level="otherlevel" otherlevel="unspecified"><did><unittitle>Friedkin, Meyer [Mike]: Letters to (some illustrated)</unittitle><unitdate normal="1928/1940" type="inclusive">1928-1940 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_3022eb2f6e0e89591a2841cfb0c8d761" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_796a1dcee75a99ba4da7199bdaefc0f6" parent="aspace_3022eb2f6e0e89591a2841cfb0c8d761" type="folder">14</container></did></c><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle>Gropper, William: Letter to Ann and Meyer [Friedkin]</unittitle><unitdate>Aug 5, 1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_b2262106f51a3aea76bfee30d4fdad6b" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_fd07a2b025e2897af15cc42f68fbd392" parent="aspace_b2262106f51a3aea76bfee30d4fdad6b" type="folder">15</container></did></c><c id="aspace_ref44" level="otherlevel" otherlevel="unspecified"><did><unittitle>Horn of Plenty [cartoon]</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_cf16c4144be8cd15ba57073105b86bcc" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_0cc3517d47380a0235fdbb0dbb65e1bc" parent="aspace_cf16c4144be8cd15ba57073105b86bcc" type="folder">15A</container></did></c><c id="aspace_ref45" level="otherlevel" otherlevel="unspecified"><did><unittitle>Jesus Christ ["Reward" Drawing with text]</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f3892b64a3327df0df1d25cd7e4b17fd" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_4f1b1289f575cd0824bd5ff49689ba6e" parent="aspace_f3892b64a3327df0df1d25cd7e4b17fd" type="folder">15B</container></did></c><c id="aspace_ref29" level="otherlevel" otherlevel="unspecified"><did><unittitle>Last Will and Testament, Book Contract</unittitle><unitdate normal="1935/1939" type="inclusive">1935 , 1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_b20c3b5f93e94a8268644f98d628576c" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_75c9ab700f00c792d2ee73d05970346e" parent="aspace_b20c3b5f93e94a8268644f98d628576c" type="folder">16</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle>McKenna, Edmond: Exhibition</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_de95c7be2e49cecae114e512cc8e9fc8" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_589926aece2b27d314215edf854c896f" parent="aspace_de95c7be2e49cecae114e512cc8e9fc8" type="folder">17</container></did></c><c id="aspace_ref31" level="otherlevel" otherlevel="unspecified"><did><unittitle>Motley, Archibald J. Jr.: Exhibition of Paintings (catalogue)</unittitle><unitdate normal="1928/1928" type="inclusive">1928</unitdate><container altrender="Manuscript box - Legal" id="aspace_4360e277dcfad2b9a91a24845129d97a" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_6dc20f88665e69bec6fab4c7d0451f05" parent="aspace_4360e277dcfad2b9a91a24845129d97a" type="folder">18</container></did></c><c id="aspace_ref32" level="otherlevel" otherlevel="unspecified"><did><unittitle>Postcards: How to Cure World-Unrest [set of 12]</unittitle><unitdate normal="1891/1955" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_cb9b97a7830d27515e657fdc4dbc2e32" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_80f0369722a1c00b57f8766d93b06b9b" parent="aspace_cb9b97a7830d27515e657fdc4dbc2e32" type="folder">19</container></did></c><c id="aspace_ref33" level="otherlevel" otherlevel="unspecified"><did><unittitle>Postcards: New Years</unittitle><unitdate normal="1936/1944" type="inclusive">1936-1939 , 1941-1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_85b6a7ebaae9e627c220df5c1f2ec2e2" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_c77dfdf61267595a6893c7f84d97bd92" parent="aspace_85b6a7ebaae9e627c220df5c1f2ec2e2" type="folder">20</container></did></c><c id="aspace_ref34" level="otherlevel" otherlevel="unspecified"><did><unittitle>Rose, Herman: Exhibitions</unittitle><unitdate normal="1891/1955" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_ad7feee1cb6c04e88513cd17efe05c4d" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_0698db173079378cd51e79f1cd295a36" parent="aspace_ad7feee1cb6c04e88513cd17efe05c4d" type="folder">21</container></did></c><c id="aspace_ref35" level="otherlevel" otherlevel="unspecified"><did><unittitle>Schulkind, Adelaide: AY Letters to</unittitle><unitdate normal="1936/1942" type="inclusive">1936-1942 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e0c1f69ec643a996e1ac70919082fffa" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_ae30e8da7ee420eaf60356b71626ac31" parent="aspace_e0c1f69ec643a996e1ac70919082fffa" type="folder">22</container></did></c><c id="aspace_ref36" level="otherlevel" otherlevel="unspecified"><did><unittitle>Spingarn, Arthur: AY Letters to</unittitle><unitdate normal="1930/1930" type="inclusive">1930 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_893fba9b46f60f0dc7a2cdcbff3d7745" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_7c793ee1ee2c5ebd849ed195b5d9b33c" parent="aspace_893fba9b46f60f0dc7a2cdcbff3d7745" type="folder">23</container></did></c><c id="aspace_ref37" level="otherlevel" otherlevel="unspecified"><did><unittitle>Thomas Rowlandson [typescript] by AY</unittitle><unitdate normal="1891/1955" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_dcba6f754f68794d0e4d7675e2deb72d" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_9f62cc4803340811f85fcce898ff943f" parent="aspace_dcba6f754f68794d0e4d7675e2deb72d" type="folder">24</container></did></c><c id="aspace_ref38" level="otherlevel" otherlevel="unspecified"><did><unittitle>Thomas Rowlandson: Exhibition Catalog with Drawings by AY, New Art Circle, New York/Munich</unittitle><unitdate normal="1927/1927" type="inclusive">1927</unitdate><container altrender="Manuscript box - Legal" id="aspace_5fb9ca3e0454e7ca621d1bf51ab8d959" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_9ee63c464ef2ded4b2eef3b54d9e4635" parent="aspace_5fb9ca3e0454e7ca621d1bf51ab8d959" type="folder">25</container></did></c><c id="aspace_ref39" level="otherlevel" otherlevel="unspecified"><did><unittitle>Wilson, Gilbert Contains: postcard from AT; Contains: "Our Common Destiny," a printed envelope, illustrated by AY, with [and referring to] a postage stamp by GW, "Unity for Victory: Minorities are vital to victory -F.D. Roosevelt"</unittitle><unitdate normal="1943/1943" type="inclusive">1943</unitdate><container altrender="Manuscript box - Legal" id="aspace_01514675a50ae89a29853fa2f59b296f" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_682a38dfc0f3cb1c69d1504836048267" parent="aspace_01514675a50ae89a29853fa2f59b296f" type="folder">26</container></did></c><c id="aspace_ref40" level="otherlevel" otherlevel="unspecified"><did><unittitle>Photographs of AY</unittitle><unitdate normal="1891/1955" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_7d4bd1f4fb9b821b070fae15840fa5fb" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_11ebafb7227fa89a9e82f98f6caa79f4" parent="aspace_7d4bd1f4fb9b821b070fae15840fa5fb" type="folder">27</container></did></c><c id="aspace_ref41" level="otherlevel" otherlevel="unspecified"><did><unittitle>Oversize Pages (mostly from <emph render="italic">The Masses</emph>)</unittitle><unitdate normal="1891/1955" type="inclusive">undated</unitdate><container altrender="Flat OS 21" id="aspace_080aabffca83d8946fe4d74fad151cdc" label="Mixed Materials [31142062760239]" type="box">XOS001</container><container id="aspace_c444263c6c4a27c66de4aa255a538c22" parent="aspace_080aabffca83d8946fe4d74fad151cdc" type="folder">1</container><container altrender="Manuscript box - Legal" id="aspace_0168d80d163e432448b557f54a60639f" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_d189056b44d0de8d33ab02176230c912" parent="aspace_0168d80d163e432448b557f54a60639f" type="folder">28</container></did></c><c id="aspace_6cea874485159d59912ca8e2257c8085" level="file"><did><unittitle>This Campaign in Cartoons</unittitle><unitdate normal="1928/1928">1928</unitdate><container altrender="Manuscript box - Legal" id="aspace_830ca134d28c8323080c03fe8eda9377" label="Mixed Materials [31142062883122]" type="box">1</container><container id="aspace_62ed3c2b5959aae344304f97cdeb5d63" parent="aspace_830ca134d28c8323080c03fe8eda9377" type="folder">29-31</container></did></c></c></dsc>
-</archdesc>
+    </did>
+    <acqinfo id="aspace_cda3cf749e629f41a5106d13874630a7">
+      <head>Provenance</head>
+      <p>Donated by Adelaide Schulkind Frank and Anna Friedkin in 1971. The accession number associated with this gift is 1971.004. Additional materials may have been donation by Albert Boni in 1972.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_dc67ab9a2b651f4c53b475714e36a703">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_3a5f97b5e1e4fc094e87fd1a42c05283">
+      <head>Historical/Biographical Note</head>
+      <p>Art Young (1866-1943) was a leading socialist cartoonist and humorist whose work appeared in <title render="italic">The Masses</title>(1910-1917) and elsewhere. He was born in Monroe, Wisconsin, studied at the Academy of Design in Chicago, where he first illustrated news stories and saw his cartoons published in various newspapers. In 1895 Young moved to New York where his work was published in Life and where he became a socialist and, in 1910, one of the founding members of the artists and writers cooperative that produced <title render="italic">The Masses</title>, a socialist monthly. Young's work was among that cited by the U.S. government as being in violation of the World War I-inspired Espionage Act. Young's work also appeared in <title render="italic">The Liberator</title>(1918-1924), which he helped establish, his own radical humor magazine, <title render="italic">Good Morning</title>(1919-1921), the <title render="italic">New Leader</title>, the <title render="italic">New Masses</title>, <title render="italic">The Nation</title>, and elsewhere.</p>
+    </bioghist>
+    <scopecontent id="aspace_12a8b8bcf4d4e83913c62a22b9638649">
+      <head>Scope and Content Note</head>
+      <p>The papers include correspondence (principally outgoing), clippings, pamphlets, cartoons, printed material and catalogs of exhibits by artists working with political themes including Maurice Becker, Edmond McKenna, Archibald J. Motley, Jr. and Herman Rose some of these contain illustrations. The bulk of Young's letters are to Adelaide Schulkind, Meyer Friedkin and Arthur Spingarn. There is one letter each from William Gropper and Will Durant. The file on Young's death includes letters from John Haynes Holmes and Young's relatives. There are three original drawings, clippings from newspapers and periodicals, including the <title render="italic">New Masses</title>, containing cartoons by and articles about Young, a set of twelve postcards, <title render="italic">How to Cure World-Unrest</title>, New Year's cards (1936-39, 1941-44), an illustrated envelope (1943) designed to accompany an affixed poster-stamp by Gilbert Wilson, "Unity for Victory," on the theme of black-white unity, a typescript of Young's <title render="italic">Thomas Rowlandson</title>(1938), a biography of the 18th century cartoonist, publication correspondence for Young's autobiography, <title render="italic">Art Young, His Life and Times</title>(1939), including a letter from John Nicholas Beffel, and Young's last will and testament.</p>
+    </scopecontent>
+    <arrangement id="aspace_c49ffb9fda8515b7f2e27ddef2e4c0bd">
+      <head>Arrangement</head>
+      <p>Folders are arranged alphabetically.</p>
+      <p>The files are grouped into 1 series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>Inventory</item>
+      </list>
+    </arrangement>
+    <userestrict id="aspace_4aae040979189ff088cd8174314d4a88">
+      <head>Conditions Governing Use</head>
+      <p>Materials in this collection, which were created in 1891-1955, are in the public domain. Permission to publish or reproduce is not required.</p>
+    </userestrict>
+    <prefercite id="aspace_d2d6cf801dec9d369c62412cde12e03c">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Art Young Papers; TAM 046; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <controlaccess>
+      <genreform source="aat">Postcards.</genreform>
+      <genreform source="aat">Wills</genreform>
+      <subject source="lcsh">Cartoonists.</subject>
+      <subject source="lcsh">Right and left (Political science).</subject>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <subject source="lcsh">Art, American -- 20th century</subject>
+      <subject source="lcsh">Socialism -- United States.</subject>
+      <genreform source="aat">Obituaries.</genreform>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <genreform source="aat">Exhibition catalogs.</genreform>
+      <genreform source="lcsh">Caricatures and cartoons.</genreform>
+      <genreform source="aat">Drawings (visual works)</genreform>
+      <persname source="ingest">Wilson, Gilbert.</persname>
+      <persname source="naf">Holmes, John Haynes, 1879-1964</persname>
+      <persname source="naf">Spingarn, Arthur B. (Arthur Barnett), 1878-1971.</persname>
+      <persname rules="dacs" source="local">McKenna, Edmond</persname>
+      <persname source="ingest">Rose, Herman.</persname>
+      <persname source="naf">Motley, Archibald John, Jr., 1891-1981</persname>
+      <persname source="naf">Durant, Will, 1885-1981</persname>
+      <persname source="naf">Frank, Adelaide Schulkind</persname>
+      <persname rules="dacs" source="local">Friedkin, Meyer</persname>
+      <persname source="naf">Gropper, William, 1897-1977</persname>
+      <persname source="naf">Young, Art, 1866-1943.</persname>
+      <persname source="naf">Becker, Maurice, 1889-1975</persname>
+      <persname source="naf">Beffel, John Nicholas</persname>
+      <persname role="dnr" source="naf">Frank, Adelaide Schulkind</persname>
+      <persname role="dnr" rules="dacs" source="local">Friedkin, Anna D.</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13" level="series">
+        <did>
+          <unittitle>Inventory</unittitle>
+        </did>
+        <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Art Young: His Life and Times (flyer and special issue of <emph render="italic">New Masses</emph>)</unittitle>
+            <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d21c1e090501d66df2b41428ff918959" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_6f57676c291add68b7df80412631af52" parent="aspace_d21c1e090501d66df2b41428ff918959" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Autobiography: Contract for</unittitle>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7c2f7dcfa7dd515081ffb392a8edc67d" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_8fb4cb053a0616a0f6f90d2bd71c3434" parent="aspace_7c2f7dcfa7dd515081ffb392a8edc67d" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Becker, Maurice: Exhibitions, Clippings, Drawings (includes watercolor sketches on postcards and 2 sketches of Eugene V. Debs)</unittitle>
+            <unitdate normal="1942/1961" type="inclusive">1942-1961</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f0599202d53c90771d31751d85537680" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_86607f9987fa8fc0da39fbcd149ce46f" parent="aspace_f0599202d53c90771d31751d85537680" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Beffel, John Nicholas: Profiles of AY ( <emph render="italic">New Yorker</emph>) and AY sketch of Beffel</unittitle>
+            <unitdate normal="1939/1939" type="inclusive">Mar 2, 1935 , 1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9aa418b9db324031a3fd585ab4297c2e" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_6d83e98972455999a0f4977f33da1895" parent="aspace_9aa418b9db324031a3fd585ab4297c2e" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Belsky, Ben: Letters to</unittitle>
+            <unitdate normal="1933/1934" type="inclusive">1933-1934 , undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dc67d14bdd934c07df334ebfea96bfbf" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_7d1414a471678b92fe648b9c668a0db8" parent="aspace_dc67d14bdd934c07df334ebfea96bfbf" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Clippings: About AY, <emph render="italic">New Masses</emph></unittitle>
+            <unitdate normal="1913/1925" type="inclusive">1913-1925 , undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e26a4e5a64f3ce11f7f7988a4ce6e58b" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_051f36ef4f013fa9d7b256f20526e0d5" parent="aspace_e26a4e5a64f3ce11f7f7988a4ce6e58b" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Clippings: AY Drawings</unittitle>
+            <unitdate normal="1918/1944" type="inclusive">1918-1944 , undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_54af2ff51b988f9eba605c0cd32b8d29" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_a889c186c073f2c0c90d7500cb35aa52" parent="aspace_54af2ff51b988f9eba605c0cd32b8d29" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Clippings: AY Drawings (periodicals, proofs and copies)</unittitle>
+            <unitdate normal="1891/1937" type="inclusive">1891-1937 , undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c6486c82a516d2f0067cca84001b615e" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_39c1b53894a97705f77bb1b048444906" parent="aspace_c6486c82a516d2f0067cca84001b615e" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Death: Memorial Meeting, Estate, Correspondence, Obituaries</unittitle>
+            <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2117da868671e8eb968187ab8fffdb48" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_f49019e9983fea01130406023ee4efd9" parent="aspace_2117da868671e8eb968187ab8fffdb48" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle><emph render="italic">Direction</emph>: Art Young Issue (Vol. 7, no. 2)</unittitle>
+            <unitdate>Apr 1944-May 1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e2f3cded8c2fda81978f80945a2769b6" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_7d1905c9eca6f6cea936973dd4b22521" parent="aspace_e2f3cded8c2fda81978f80945a2769b6" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Drawings, Original, b&amp;w, ink [3]Contents: <lb/>1. Silhouette. [With inscription "To my friend John Nicholas Beffel from Seneca Ill. From his heighbor. Art Young of Monroe Wis. Bethel, July 21, 1935"], signed "Art Young" <lb/>2. "Collis P. Huntington on board the Teutonic," signed "AY" nd <lb/>3. "It Surprised Him [penciled caption]" signed "Art Young" 1930 <lb/>[two bearded, hatted farmers in ragged dress in a field; with text below, as follows- <lb/>John Presley: "I see by the Clarion that they're goin to bring the log of the Mayflower over here." <lb/>Hiram Harrow: "Gosh! I didn't 'spose there was a splinter of the old boat left"]</unittitle>
+            <unitdate normal="1930/1935" type="inclusive">1930 , 1935 , undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5fc4817f71c11858b1b2031a5e428316" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_6b9699b13d80a18b5c74bf5a7bc3f633" parent="aspace_5fc4817f71c11858b1b2031a5e428316" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Durant, Will: Letter to AY</unittitle>
+            <unitdate>Jan 5, 1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_53dae88590600a69060a090bbe89ae2e" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_b20e75814e7a089340cb7d03f864a17d" parent="aspace_53dae88590600a69060a090bbe89ae2e" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Exhibitions and Publications (AY, Others)</unittitle>
+            <unitdate normal="1934/1939" type="inclusive">1934 , 1939 , undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9b9099ad6f2fb79bdf9ca01f84408445" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_572c8aeaca9f33ca247a63229d219bec" parent="aspace_9b9099ad6f2fb79bdf9ca01f84408445" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Friedkin, Meyer [Mike]: Letters to (some illustrated)</unittitle>
+            <unitdate normal="1928/1940" type="inclusive">1928-1940 , undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3022eb2f6e0e89591a2841cfb0c8d761" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_796a1dcee75a99ba4da7199bdaefc0f6" parent="aspace_3022eb2f6e0e89591a2841cfb0c8d761" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gropper, William: Letter to Ann and Meyer [Friedkin]</unittitle>
+            <unitdate>Aug 5, 1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b2262106f51a3aea76bfee30d4fdad6b" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_fd07a2b025e2897af15cc42f68fbd392" parent="aspace_b2262106f51a3aea76bfee30d4fdad6b" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Horn of Plenty [cartoon]</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cf16c4144be8cd15ba57073105b86bcc" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_0cc3517d47380a0235fdbb0dbb65e1bc" parent="aspace_cf16c4144be8cd15ba57073105b86bcc" type="folder">15A</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jesus Christ ["Reward" Drawing with text]</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f3892b64a3327df0df1d25cd7e4b17fd" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_4f1b1289f575cd0824bd5ff49689ba6e" parent="aspace_f3892b64a3327df0df1d25cd7e4b17fd" type="folder">15B</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Last Will and Testament, Book Contract</unittitle>
+            <unitdate normal="1935/1939" type="inclusive">1935 , 1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b20c3b5f93e94a8268644f98d628576c" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_75c9ab700f00c792d2ee73d05970346e" parent="aspace_b20c3b5f93e94a8268644f98d628576c" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>McKenna, Edmond: Exhibition</unittitle>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_de95c7be2e49cecae114e512cc8e9fc8" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_589926aece2b27d314215edf854c896f" parent="aspace_de95c7be2e49cecae114e512cc8e9fc8" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Motley, Archibald J. Jr.: Exhibition of Paintings (catalogue)</unittitle>
+            <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4360e277dcfad2b9a91a24845129d97a" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_6dc20f88665e69bec6fab4c7d0451f05" parent="aspace_4360e277dcfad2b9a91a24845129d97a" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Postcards: How to Cure World-Unrest [set of 12]</unittitle>
+            <unitdate normal="1891/1955" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cb9b97a7830d27515e657fdc4dbc2e32" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_80f0369722a1c00b57f8766d93b06b9b" parent="aspace_cb9b97a7830d27515e657fdc4dbc2e32" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Postcards: New Years</unittitle>
+            <unitdate normal="1936/1944" type="inclusive">1936-1939 , 1941-1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_85b6a7ebaae9e627c220df5c1f2ec2e2" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_c77dfdf61267595a6893c7f84d97bd92" parent="aspace_85b6a7ebaae9e627c220df5c1f2ec2e2" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Rose, Herman: Exhibitions</unittitle>
+            <unitdate normal="1891/1955" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ad7feee1cb6c04e88513cd17efe05c4d" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_0698db173079378cd51e79f1cd295a36" parent="aspace_ad7feee1cb6c04e88513cd17efe05c4d" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Schulkind, Adelaide: AY Letters to</unittitle>
+            <unitdate normal="1936/1942" type="inclusive">1936-1942 , undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e0c1f69ec643a996e1ac70919082fffa" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_ae30e8da7ee420eaf60356b71626ac31" parent="aspace_e0c1f69ec643a996e1ac70919082fffa" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Spingarn, Arthur: AY Letters to</unittitle>
+            <unitdate normal="1930/1930" type="inclusive">1930 , undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_893fba9b46f60f0dc7a2cdcbff3d7745" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_7c793ee1ee2c5ebd849ed195b5d9b33c" parent="aspace_893fba9b46f60f0dc7a2cdcbff3d7745" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Thomas Rowlandson [typescript] by AY</unittitle>
+            <unitdate normal="1891/1955" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dcba6f754f68794d0e4d7675e2deb72d" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_9f62cc4803340811f85fcce898ff943f" parent="aspace_dcba6f754f68794d0e4d7675e2deb72d" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Thomas Rowlandson: Exhibition Catalog with Drawings by AY, New Art Circle, New York/Munich</unittitle>
+            <unitdate normal="1927/1927" type="inclusive">1927</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5fb9ca3e0454e7ca621d1bf51ab8d959" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_9ee63c464ef2ded4b2eef3b54d9e4635" parent="aspace_5fb9ca3e0454e7ca621d1bf51ab8d959" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Wilson, Gilbert Contains: postcard from AT; Contains: "Our Common Destiny," a printed envelope, illustrated by AY, with [and referring to] a postage stamp by GW, "Unity for Victory: Minorities are vital to victory -F.D. Roosevelt"</unittitle>
+            <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_01514675a50ae89a29853fa2f59b296f" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_682a38dfc0f3cb1c69d1504836048267" parent="aspace_01514675a50ae89a29853fa2f59b296f" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Photographs of AY</unittitle>
+            <unitdate normal="1891/1955" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7d4bd1f4fb9b821b070fae15840fa5fb" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_11ebafb7227fa89a9e82f98f6caa79f4" parent="aspace_7d4bd1f4fb9b821b070fae15840fa5fb" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Oversize Pages (mostly from <emph render="italic">The Masses</emph>)</unittitle>
+            <unitdate normal="1891/1955" type="inclusive">undated</unitdate>
+            <container altrender="Flat OS 21" id="aspace_080aabffca83d8946fe4d74fad151cdc" label="Mixed Materials [31142062760239]" type="box">XOS001</container>
+            <container id="aspace_c444263c6c4a27c66de4aa255a538c22" parent="aspace_080aabffca83d8946fe4d74fad151cdc" type="folder">1</container>
+            <container altrender="Manuscript box - Legal" id="aspace_0168d80d163e432448b557f54a60639f" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_d189056b44d0de8d33ab02176230c912" parent="aspace_0168d80d163e432448b557f54a60639f" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_6cea874485159d59912ca8e2257c8085" level="file">
+          <did>
+            <unittitle>This Campaign in Cartoons</unittitle>
+            <unitdate normal="1928/1928">1928</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_830ca134d28c8323080c03fe8eda9377" label="Mixed Materials [31142062883122]" type="box">1</container>
+            <container id="aspace_62ed3c2b5959aae344304f97cdeb5d63" parent="aspace_830ca134d28c8323080c03fe8eda9377" type="folder">29-31</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

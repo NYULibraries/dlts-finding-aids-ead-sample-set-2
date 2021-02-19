@@ -1,61 +1,936 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_224">mss_224</eadid><filedesc><titlestmt><titleproper>Guide to the Patricia Dix Papers <num>MSS.224</num></titleproper><author>Jennifer E. Neal</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>September 2018</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:15:24 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Fales Library and Special Collections</corpname>
-    </repository>
-    <unittitle>Patricia Dix Papers</unittitle>
-    <origination label="Creator">
-      <persname rules="dacs" source="local">Dix, Patricia R. (Patricia Rose), 1955-2001</persname>
-    </origination>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_224">mss_224</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Patricia Dix Papers <num>MSS.224</num></titleproper>
+        <author>Jennifer E. Neal</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>September 2018</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:15:24 -0500</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Patricia Dix Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Dix, Patricia R. (Patricia Rose), 1955-2001</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" source="local">Arnoldi, Katherine</persname>
+      </origination>
+      <unitid>MSS.224</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
+        <extent altrender="carrier">in 4 records cartons</extent>
+      </physdesc>
+      <unitdate normal="1940/2001" type="inclusive">1940-2001</unitdate>
+      <unitdate normal="1986/2001" type="bulk">1986-2001</unitdate>
+      <abstract id="aspace_30d6936c90b2457da07204bdd16223db">Patricia "Pat" Rose Dix (1955-2001) was a freelance editor and writer in New York City. She was born in Brooklyn, attended Queen Mary College at the University of London, and spent most of her adult life living in Greenwich Village and the Lower East Side in Manhattan. This collection provides a glimpse of life in New York City during the downtown arts scene that emerged in the 1970s through the early 1990s. Materials include resumes; birth, marriage, and naturalization certificates; annotated and handwritten writings; correspondence; sketches; clippings and articles; brochures; utility bills and receipts; postage stamps; flyers; notebooks; day planners; and photographs.</abstract>
+      <physloc id="aspace_f0f05790cf41e6bd8b850a11d8bf98e6">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_6731b18ea9493121b52711074eb04750">Materials primarily in English, with some materials in French and German.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_6be1f72f8941eed9112d0c5cd9280f44">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_40f506a6d6ff297e271511a07877a219">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Katherine Arnoldi in 2008. The accession number associated with this collection is 2008.224.</p>
+    </acqinfo>
+    <appraisal id="aspace_dd9bb56206e37dc157ecf9ceba0025d5">
+      <head>Appraisal</head>
+      <p>Medical records for Patricia Dix and social security information for Patricia Dix and Joan Dix were removed from box 1 folder 34, box 2 folder 9, and box 3 folder 12 for deaccession.</p>
+    </appraisal>
+    <arrangement id="aspace_cafc95b7e930d5102e4ef3b64e22df68">
+      <head>Arrangement</head>
+      <p>The materials are arranged in the order in which they were received from the donor.</p>
+    </arrangement>
+    <bioghist id="aspace_5df0e75b6fb8619151d751e18a09d27f">
+      <head>Biographical Note</head>
+      <p>Patricia "Pat" Rose Dix, a freelance editor and writer, was born on December 6, 1955 in Brooklyn, New York. Her parents, Robert Armstrong Dix and Joan Wright Donegan were married at the Church of Transfiguration in 1949 in Manhattan. Her father was born in England and became a naturalized citizen in 1954. Dix attended Queen Mary College at the University of London from 1973 to 1975 where she studied Medieval History.</p>
+      <p>Dix spent most of her adult life living in Greenwich Village and the Lower East Side of Manhattan. She worked as a caregiver, freelance legal secretary, and freelance editor while working toward her personal goal of becoming a published author. She was an avid correspondent to friends, family, medical and literary professionals, and theater actors. Dix also struggled with health issues that led her to become interested in nutrition and healthy living. She had problems with her lungs and required oxygen therapy. Dix passed away on December 4, 2001, two days before her forty-sixth birthday.</p>
+    </bioghist>
+    <prefercite id="aspace_395e6ca0e127a75db63f770704993589">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Patricia Dix Papers; MSS 224; box number; folder number; Fales Library and Special Collections, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_7839d5b5cb57f1962feccdc7828ead04">
+      <head>Processing Information</head>
+      <p>Materials were placed in new acid-free folders. Original folder titles, when available, were retained. Materials that were in envelopes were removed and unfolded. Photographs were placed in photograph sleeves.</p>
+    </processinfo>
+    <scopecontent id="aspace_587e736c1a8a309255826e72258e5986">
+      <head>Scope and Contents</head>
+      <p>This collection provides a glimpse of life in Greenwich Village and the Lower East Side of Manhattan during the downtown arts scene that emerged in the 1970s through the early 1990s. Materials include Dix's professional resume and her friend, Kevin Stevens' resume; Dix's birth certificate, her parents' marriage license and certificate, and her father's birth and naturalization certificates; annotated and handwritten original writings that included sketches; clippings and articles regarding NYC cultural events, book reviews, diseases, nutrition, and healthy living; postage stamps; brochures regarding oxygen therapy; utility bills and receipts; event flyers from downtown literary and theater events; notebooks that contain Dix's personal thoughts and feelings and general notes related to work; day planners; and photographs of unidentified men and women, and a few headshots. </p>
+      <p>The bulk of the collection includes Dix's writings and correspondence that document her daily life in New York City between 1986 and 2001, and address numerous topics including her personal relationships with men, specifically a man named John; theater; politics and terrorism; cigarettes and smoking; her mother's death; issues she had with people she lived with and their neighbors; frustrations with her writing not being published; working as a caregiver for a woman named Ruth and their daily visits to the Metropolitan Museum of Art; drugs; music; fashion; book reviews; New York Times articles; and her physical and mental health. Dix's most notable writing in the collection is a piece she wrote entitled "Betty Boop: A Feminist Timeline," where Dix describes a fictional account of Betty Boop's life growing up. Much of her writing is present in her correspondence with friends and literary professionals. The majority of correspondence includes letters to and from Dix's friends in England, John and Sue; Teofilo "Teo" R. Ruiz, a Brooklyn College professor she worked with; and letters to medical professionals. Many of Dix's letters to medical professionals were addressed to physicians and expressed her concerns regarding the problems with her lungs and her interactions with doctors and nurses at various medical facilities. </p>
+    </scopecontent>
+    <userestrict id="aspace_fe141881e5442fdf18ec36af9f40a87e">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Patricia Dix, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="local">Downtown Collection.</subject>
+      <subject source="local">Downtown writers.</subject>
+      <geogname source="lcsh">Greenwich Village (New York, N.Y.)</geogname>
+      <geogname source="lcsh">Lower East Side (New York, N.Y.)</geogname>
       <persname role="dnr" source="local">Arnoldi, Katherine</persname>
-    </origination>
-    <unitid>MSS.224</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
-      <extent altrender="carrier">in 4 records cartons</extent>
-    </physdesc>
-    <unitdate normal="1940/2001" type="inclusive">1940-2001</unitdate>
-    <unitdate normal="1986/2001" type="bulk">1986-2001</unitdate>
-    <abstract id="aspace_30d6936c90b2457da07204bdd16223db">Patricia "Pat" Rose Dix (1955-2001) was a freelance editor and writer in New York City. She was born in Brooklyn, attended Queen Mary College at the University of London, and spent most of her adult life living in Greenwich Village and the Lower East Side in Manhattan. This collection provides a glimpse of life in New York City during the downtown arts scene that emerged in the 1970s through the early 1990s. Materials include resumes; birth, marriage, and naturalization certificates; annotated and handwritten writings; correspondence; sketches; clippings and articles; brochures; utility bills and receipts; postage stamps; flyers; notebooks; day planners; and photographs.</abstract>
-    <physloc id="aspace_f0f05790cf41e6bd8b850a11d8bf98e6">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-    <langmaterial id="aspace_6731b18ea9493121b52711074eb04750">Materials primarily in English, with some materials in French and German.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_6be1f72f8941eed9112d0c5cd9280f44">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_40f506a6d6ff297e271511a07877a219">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Katherine Arnoldi in 2008. The accession number associated with this collection is 2008.224.</p>  </acqinfo>
-  <appraisal id="aspace_dd9bb56206e37dc157ecf9ceba0025d5">
-    <head>Appraisal</head>
-<p>Medical records for Patricia Dix and social security information for Patricia Dix and Joan Dix were removed from box 1 folder 34, box 2 folder 9, and box 3 folder 12 for deaccession.</p>  </appraisal>
-  <arrangement id="aspace_cafc95b7e930d5102e4ef3b64e22df68">
-    <head>Arrangement</head>
-<p>The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
-  <bioghist id="aspace_5df0e75b6fb8619151d751e18a09d27f">
-    <head>Biographical Note</head>
-<p>Patricia "Pat" Rose Dix, a freelance editor and writer, was born on December 6, 1955 in Brooklyn, New York. Her parents, Robert Armstrong Dix and Joan Wright Donegan were married at the Church of Transfiguration in 1949 in Manhattan. Her father was born in England and became a naturalized citizen in 1954. Dix attended Queen Mary College at the University of London from 1973 to 1975 where she studied Medieval History.</p><p>Dix spent most of her adult life living in Greenwich Village and the Lower East Side of Manhattan. She worked as a caregiver, freelance legal secretary, and freelance editor while working toward her personal goal of becoming a published author. She was an avid correspondent to friends, family, medical and literary professionals, and theater actors. Dix also struggled with health issues that led her to become interested in nutrition and healthy living. She had problems with her lungs and required oxygen therapy. Dix passed away on December 4, 2001, two days before her forty-sixth birthday.</p>  </bioghist>
-  <prefercite id="aspace_395e6ca0e127a75db63f770704993589">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Patricia Dix Papers; MSS 224; box number; folder number; Fales Library and Special Collections, New York University.</p>  </prefercite>
-  <processinfo id="aspace_7839d5b5cb57f1962feccdc7828ead04">
-    <head>Processing Information</head>
-<p>Materials were placed in new acid-free folders. Original folder titles, when available, were retained. Materials that were in envelopes were removed and unfolded. Photographs were placed in photograph sleeves.</p>  </processinfo>
-  <scopecontent id="aspace_587e736c1a8a309255826e72258e5986">
-    <head>Scope and Contents</head>
-<p>This collection provides a glimpse of life in Greenwich Village and the Lower East Side of Manhattan during the downtown arts scene that emerged in the 1970s through the early 1990s. Materials include Dix's professional resume and her friend, Kevin Stevens' resume; Dix's birth certificate, her parents' marriage license and certificate, and her father's birth and naturalization certificates; annotated and handwritten original writings that included sketches; clippings and articles regarding NYC cultural events, book reviews, diseases, nutrition, and healthy living; postage stamps; brochures regarding oxygen therapy; utility bills and receipts; event flyers from downtown literary and theater events; notebooks that contain Dix's personal thoughts and feelings and general notes related to work; day planners; and photographs of unidentified men and women, and a few headshots. </p><p>The bulk of the collection includes Dix's writings and correspondence that document her daily life in New York City between 1986 and 2001, and address numerous topics including her personal relationships with men, specifically a man named John; theater; politics and terrorism; cigarettes and smoking; her mother's death; issues she had with people she lived with and their neighbors; frustrations with her writing not being published; working as a caregiver for a woman named Ruth and their daily visits to the Metropolitan Museum of Art; drugs; music; fashion; book reviews; New York Times articles; and her physical and mental health. Dix's most notable writing in the collection is a piece she wrote entitled "Betty Boop: A Feminist Timeline," where Dix describes a fictional account of Betty Boop's life growing up. Much of her writing is present in her correspondence with friends and literary professionals. The majority of correspondence includes letters to and from Dix's friends in England, John and Sue; Teofilo "Teo" R. Ruiz, a Brooklyn College professor she worked with; and letters to medical professionals. Many of Dix's letters to medical professionals were addressed to physicians and expressed her concerns regarding the problems with her lungs and her interactions with doctors and nurses at various medical facilities. </p>  </scopecontent>
-  <userestrict id="aspace_fe141881e5442fdf18ec36af9f40a87e">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Patricia Dix, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <controlaccess>
-    <subject source="local">Downtown Collection.</subject>
-    <subject source="local">Downtown writers.</subject>
-    <geogname source="lcsh">Greenwich Village (New York, N.Y.)</geogname>
-    <geogname source="lcsh">Lower East Side (New York, N.Y.)</geogname>
-    <persname role="dnr" source="local">Arnoldi, Katherine</persname>
-  </controlaccess>
-  <dsc><c id="aspace_e50da4864332d62a33b71fe6bc102ba3" level="file"><did><unittitle>Correspondence to Kevin Stevens</unittitle><unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate><container altrender="Record carton" id="aspace_8bccfe1fef2d72f5178e0724a69144a4" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_4d346a9cde2a1f4beeb7d982446ef1ad" parent="aspace_8bccfe1fef2d72f5178e0724a69144a4" type="folder">1</container></did></c><c id="aspace_35d4b4889b4c22664ba6bd1828765820" level="file"><did><unittitle>Resume, event flyer, sketch</unittitle><unitdate normal="1989/1989">1989, undated</unitdate><container altrender="Record carton" id="aspace_07abce1390e891bad99e851c15976794" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_a6bd83de996c2f7abbaacaeb5989ef6c" parent="aspace_07abce1390e891bad99e851c15976794" type="folder">2</container></did></c><c id="aspace_20768bfddd9331dbf7ae4c3211f7decc" level="file"><did><unittitle>Letters to Dr. Perry, Cher Christain</unittitle><unitdate normal="1995/1997" type="inclusive">1995-1997</unitdate><container altrender="Record carton" id="aspace_b25c4bb821e6ab4230cbdb82ee8c2d4a" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_9eeed380607d9eacc61bed2b89dffe1e" parent="aspace_b25c4bb821e6ab4230cbdb82ee8c2d4a" type="folder">3</container></did></c><c id="aspace_ffe0a021e458659416c7c7c1f7b591d1" level="file"><did><unittitle>Information sheets and articles on nutrition and healthy living</unittitle><unitdate normal="2000/2000">2000, undated</unitdate><container altrender="Record carton" id="aspace_3404a618803936e3f8b173103bb0725d" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_50cfff6700d6a612fe0c7e45c0a7aa87" parent="aspace_3404a618803936e3f8b173103bb0725d" type="folder">4</container></did></c><c id="aspace_9fc8869390d6cdb6e7cc72e57b8ee257" level="file"><did><unittitle>Clippings re NYC cultural events, book reviews, and conformational disease</unittitle><unitdate normal="2000/2000">2000</unitdate><container altrender="Record carton" id="aspace_64892d6acba0dac2eb2421f222c3ef16" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_11927dc593da955ab4a7331944df5ab7" parent="aspace_64892d6acba0dac2eb2421f222c3ef16" type="folder">5</container></did></c><c id="aspace_567e78c6642e36b881dd791fc605ed2b" level="file"><did><unittitle>Letter and email from Robert Whitaker</unittitle><unitdate normal="1998/1998">1998</unitdate><container altrender="Record carton" id="aspace_033a8595157330b96888e4a9b601d1a7" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_deee9f0a16afbefabbb35ebd76411f50" parent="aspace_033a8595157330b96888e4a9b601d1a7" type="folder">6</container></did></c><c id="aspace_86f45b5a89b5cc71cfa957c1ffbcb7bd" level="file"><did><unittitle>Letters to Dr. Chawala re Dix's health</unittitle><unitdate normal="2001/2001">2001</unitdate><container altrender="Record carton" id="aspace_c4572f158e91467a104246e6d4873738" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_826c91631945b8640ccafdc7f953722c" parent="aspace_c4572f158e91467a104246e6d4873738" type="folder">7</container></did></c><c id="aspace_da0131717ecb7a574c3fa1c452690263" level="file"><did><unittitle>Utility bills and receipts</unittitle><unitdate normal="2000/2001" type="inclusive">2000-2001</unitdate><container altrender="Record carton" id="aspace_21be8f883b1c926ecd6a8121d1a2a77d" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_6b33ec6ecbaebd522a32b6de6d44febf" parent="aspace_21be8f883b1c926ecd6a8121d1a2a77d" type="folder">8</container></did></c><c id="aspace_ca6c413c0db89eff0f2535e522da4a9b" level="file"><did><unittitle>Letters and clippings </unittitle><unitdate normal="2000/2001" type="inclusive">2000-2001</unitdate><container altrender="Record carton" id="aspace_1d3808f4378846f15868620158630df3" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_0cb0bf5e37822bbd5a669b0aaef4eab5" parent="aspace_1d3808f4378846f15868620158630df3" type="folder">9</container></did></c><c id="aspace_d653aeb485590d5132a699cccd281fce" level="file"><did><unittitle>Letters to Dr. Chawala re Dix's health</unittitle><unitdate normal="2000/2001" type="inclusive">2000-2001</unitdate><container altrender="Record carton" id="aspace_98cdefb604b7ef798ba819e14bc7e16e" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_a498e7e538dedd65c55b6dae53ab68cd" parent="aspace_98cdefb604b7ef798ba819e14bc7e16e" type="folder">10</container></did></c><c id="aspace_af55bf75b4d13037f6ecb6cc233a6e5d" level="file"><did><unittitle>Clippings, brochures, and receipts re politics, health, and oxygen therapy</unittitle><unitdate normal="2000/2000">2000</unitdate><container altrender="Record carton" id="aspace_1cdd654ed2567ca2d018493eecdc6fb6" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_2bdbf2ec4d13d4ebf9d6de8cf42b3d89" parent="aspace_1cdd654ed2567ca2d018493eecdc6fb6" type="folder">11</container></did></c><c id="aspace_67d52c8060165a2cc7395bf4f94e7f02" level="file"><did><unittitle>Annotated writings</unittitle><unitdate normal="1987/1987">1987, undated</unitdate><container altrender="Record carton" id="aspace_c718320798986c46bde94ad665f6a48c" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_fcaf00a75ce76d767f360d52e472dd60" parent="aspace_c718320798986c46bde94ad665f6a48c" type="folder">12</container></did></c><c id="aspace_7b63b45e53cfd698cbb60002ee3c23ce" level="file"><did><unittitle>Personal correspondence</unittitle><unitdate normal="1991/1996" type="inclusive">1991-1996</unitdate><container altrender="Record carton" id="aspace_d3b9b2be953ec2ae3157fd6b0e657b22" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_abf8e5baa7b6d9af03147221eb3f4066" parent="aspace_d3b9b2be953ec2ae3157fd6b0e657b22" type="folder">13</container></did></c><c id="aspace_9475b9a2f67d938f63184210d1f6bc99" level="file"><did><unittitle>Educational and vocational planning quiz</unittitle><unitdate normal="1991/1991">1991</unitdate><container altrender="Record carton" id="aspace_a2eb008cea434b23cdd9e986afe105d9" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_c62e3388892cb18f89a252adb960a4d9" parent="aspace_a2eb008cea434b23cdd9e986afe105d9" type="folder">14</container></did></c><c id="aspace_d20f97e1665d6d814347cd6d7951e1c2" level="file"><did><unittitle>The Lookout special 1994 annual report issue on seafarer's rights</unittitle><unitdate normal="1995/1995">1995</unitdate><container altrender="Record carton" id="aspace_1910076384c40d17b7aed356840c7038" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_60f6786fef478deb7e07fad3055d8077" parent="aspace_1910076384c40d17b7aed356840c7038" type="folder">15</container></did></c><c id="aspace_fe5fa0cb2fb1758023077cf10d16064e" level="file"><did><unittitle>Notebook containing personal thoughts and feelings</unittitle><unitdate normal="1989/1989">1989</unitdate><container altrender="Record carton" id="aspace_efbc5494c67981fba9b111ab5befec45" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_d74cd17f694e6fcfac2fbb92401d7041" parent="aspace_efbc5494c67981fba9b111ab5befec45" type="folder">16</container></did></c><c id="aspace_831c01ba82d87ed43ef9dea5668aac94" level="file"><did><unittitle>Personal correspondence, notes, receipts</unittitle><unitdate normal="1979/1987" type="inclusive">1979-1987, undated</unitdate><container altrender="Record carton" id="aspace_2f856fbf40b662ab58cb89f033965f73" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_14c1a5ff44bd47492737f6b7540ed07d" parent="aspace_2f856fbf40b662ab58cb89f033965f73" type="folder">17</container></did></c><c id="aspace_d31b1c4ea23b48618ad05ff3d36c9999" level="file"><did><unittitle>Annotated writings</unittitle><unitdate normal="1986/1986">1986</unitdate><container altrender="Record carton" id="aspace_d2a12792a05e9e8c9918aace3e61dc01" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_a6a52a77081fd0f381d91357cad68e9d" parent="aspace_d2a12792a05e9e8c9918aace3e61dc01" type="folder">18</container></did></c><c id="aspace_8d67679740351df53a65a937173af96f" level="file"><did><unittitle>BAI Scripts [and postcards, photographs]</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_822df0e60e19981c9e1ac4cb4bab7f71" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_fa1aef444a7a21a6713a5d488ba5a08d" parent="aspace_822df0e60e19981c9e1ac4cb4bab7f71" type="folder">19</container></did></c><c id="aspace_c07eea24de321d11655a7983894cd1d2" level="file"><did><unittitle>Annotated writings</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_701d5adde2dab0ee23ca5696c43bfbb5" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_b9f471cfdbe358355c7881a11a313ada" parent="aspace_701d5adde2dab0ee23ca5696c43bfbb5" type="folder">20</container></did></c><c id="aspace_0be30a381a8330503ab409c4a1375e54" level="file"><did><unittitle>Handwritten draft of a play and notes</unittitle><unitdate normal="1980/1980">1980</unitdate><container altrender="Record carton" id="aspace_82f45ffc9abf0bef1e0548c2378a1fc2" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_aa44ec64ade5d290e642d8dc87cdc212" parent="aspace_82f45ffc9abf0bef1e0548c2378a1fc2" type="folder">21</container></did></c><c id="aspace_494d9b1fabe5063d62dd73caf6ea0a68" level="file"><did><unittitle>Personal correspondence with George Trow</unittitle><unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate><container altrender="Record carton" id="aspace_d8e83a8d6d06b980accc22088807fc90" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_b8e9b8cc9ce374da1349f60a65c976f7" parent="aspace_d8e83a8d6d06b980accc22088807fc90" type="folder">22</container></did></c><c id="aspace_66d75a70796ea41d37b3e1b57ee855b4" level="file"><did><unittitle>Letters to Patrick and Giani</unittitle><unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate><container altrender="Record carton" id="aspace_e16a4ae9fc2e1c37e24de23f315cd5a3" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_4b22bb36c63e5616c0e2905625a2966c" parent="aspace_e16a4ae9fc2e1c37e24de23f315cd5a3" type="folder">23</container></did></c><c id="aspace_db52700900e91a43527f4dcbc065d1ad" level="file"><did><unittitle>Annotated writings and drafts</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_b31739a14d4c906ef1326d72bb212492" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_b4096ff640470633eca17f7067b90b81" parent="aspace_b31739a14d4c906ef1326d72bb212492" type="folder">24</container></did></c><c id="aspace_563383902989409099f27a76cb1b9a8e" level="file"><did><unittitle>Letters to Joanne, Teo, Barbara, and annotated writings</unittitle><unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate><container altrender="Record carton" id="aspace_6c8d7b0bf6b47eb8b676cd35b8818d77" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_99ed821e9deccbcf8d207723a7f50500" parent="aspace_6c8d7b0bf6b47eb8b676cd35b8818d77" type="folder">25</container></did></c><c id="aspace_97f4b4d12cbf32417e7a2f8be070fdb2" level="file"><did><unittitle>Clippings - New York Times Book Review</unittitle><unitdate normal="1986/1986">1986</unitdate><container altrender="Record carton" id="aspace_515dc60d237afe955795b2f4cc80e46c" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_2e665baca8cffc4054f7a5cdbff6603c" parent="aspace_515dc60d237afe955795b2f4cc80e46c" type="folder">26</container></did></c><c id="aspace_3033ec8f500ebe313e424d861157eaf0" level="file"><did><unittitle>Annotated writings, notes, Kevin Stevens resume, letters, and play program</unittitle><unitdate normal="1984/1984">1984, undated</unitdate><container altrender="Record carton" id="aspace_f1922f72dde82fef921beea9d41c8d04" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_167708d21493969b7909ed2f5e337082" parent="aspace_f1922f72dde82fef921beea9d41c8d04" type="folder">27</container></did></c><c id="aspace_5649723118e1abd043c17cf698a4d610" level="file"><did><unittitle>Day planner</unittitle><unitdate normal="1984/1984">1984</unitdate><container altrender="Record carton" id="aspace_d40355346c426276259534c02cf4e5ba" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_d556cc5389b538da9caa34e91cc7d715" parent="aspace_d40355346c426276259534c02cf4e5ba" type="folder">28</container></did></c><c id="aspace_6f3245cb159b2927ea1f9a0756d47299" level="file"><did><unittitle>Handwritten and annotated writing</unittitle><unitdate normal="1987/1987">1987, undated</unitdate><container altrender="Record carton" id="aspace_0a20c8790c6a647181c6002a5f00f228" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_919a2993839139789167bee4fcc929d3" parent="aspace_0a20c8790c6a647181c6002a5f00f228" type="folder">29</container></did></c><c id="aspace_b5b5aae7822279f3b58c62581c5bb09a" level="file"><did><unittitle>Notebook of letters to Robert</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_bf6d77f15dc597ad7067ef93b84c24ce" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_2772b9c74641e4be00784c414d711dda" parent="aspace_bf6d77f15dc597ad7067ef93b84c24ce" type="folder">30</container></did></c><c id="aspace_1648648d9c8a5dd92b8006ef9fc86868" level="file"><did><unittitle>Letters to John and Robert, and annotated writings</unittitle><unitdate normal="1987/1987">1987, undated</unitdate><container altrender="Record carton" id="aspace_e27a28ac019486c09767b6675b22305e" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_e32c1481e2bb0a7ca87ba280e59f3ff7" parent="aspace_e27a28ac019486c09767b6675b22305e" type="folder">31</container></did></c><c id="aspace_89d248a2aa0f4b40758fbbe224a7a978" level="file"><did><unittitle>Annotated book reviews by Pat Dix</unittitle><unitdate normal="1987/1987">1987</unitdate><container altrender="Record carton" id="aspace_0bc6befe08991525e08985992b8f45bd" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_62610d817294440cdef9aac1c1aa9653" parent="aspace_0bc6befe08991525e08985992b8f45bd" type="folder">32</container></did></c><c id="aspace_4e0ad08e4cdf15716371fa702830a5a2" level="file"><did><unittitle>Letters to Sydney, Jim, and John, annotated wrings, notes</unittitle><unitdate normal="1986/1988" type="inclusive">1986-1988, undated</unitdate><container altrender="Record carton" id="aspace_3c1438ef5f9149eb82c87882ce961846" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_0554407f887d23c8e0d012156078f7ba" parent="aspace_3c1438ef5f9149eb82c87882ce961846" type="folder">33</container></did></c><c id="aspace_314f4b2a3c68dc93e7852b010906c521" level="file"><did><unittitle>Letter to Dr. Schwartz</unittitle><unitdate normal="2001/2001">2001</unitdate><container altrender="Record carton" id="aspace_703d830cbaf89a720b6d93b1e075a779" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_dc8131fbc5623bb4f222c6918fa94b50" parent="aspace_703d830cbaf89a720b6d93b1e075a779" type="folder">34</container></did></c><c id="aspace_c6d45cf64ed51ac5674c110958c33f5f" level="file"><did><unittitle>"A Sailor's Legacy" notebook</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_652d3fade1c774494b0ed0624fc38f4b" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_f16aad8142be25121caf28ab7b5f0e25" parent="aspace_652d3fade1c774494b0ed0624fc38f4b" type="folder">35</container></did></c><c id="aspace_51a288f8ecdda0a8d40e6b5bfef4e430" level="file"><did><unittitle>Photograph of Pat Dix</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_907669ed9cb77b0f13647632a5f5195f" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_eef72f31e0e60e3ead58168ad00298e5" parent="aspace_907669ed9cb77b0f13647632a5f5195f" type="folder">36</container></did></c><c id="aspace_b372b82a9b091d6ee809b4decdbb45c4" level="file"><did><unittitle>Notebooks containing personal thoughts, feelings, and general notes</unittitle><unitdate normal="1999/2000" type="inclusive">1999-2000</unitdate><container altrender="Record carton" id="aspace_1f42828a26ce40a76a775a3bc5a7bd0f" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_336c43afe26f9eb6f95c10a703e2e4d6" parent="aspace_1f42828a26ce40a76a775a3bc5a7bd0f" type="folder">37</container></did></c><c id="aspace_adbfe64a8b64c6a8cb4e5384a4132fe9" level="file"><did><unittitle>Letters out 1987</unittitle><unitdate normal="1987/1987">1987</unitdate><container altrender="Record carton" id="aspace_5a4ac4d7c15282196387e9710c2e23f6" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_5c1251052883a56b4d49a70837576aba" parent="aspace_5a4ac4d7c15282196387e9710c2e23f6" type="folder">38</container></did></c><c id="aspace_a74cfb253e75000517ef5393182eef42" level="file"><did><unittitle>Letter to John and Sue, annotated writings re roommates and a sausage ad campaign</unittitle><unitdate normal="1984/1984">1984, undated</unitdate><container altrender="Record carton" id="aspace_acb1669fe58c6dc1747621245a83fce4" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_0b3dcb328f93c1f5b6298716eee8edbc" parent="aspace_acb1669fe58c6dc1747621245a83fce4" type="folder">39</container></did></c><c id="aspace_043ed6dba28fa28819e20ed1586d7c00" level="file"><did><unittitle>Letters out 1999</unittitle><unitdate normal="1998/1998">1998</unitdate><container altrender="Record carton" id="aspace_23d22cd0b84c49a51a5618359fd85366" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_f97b5c5bc88ce57326498ee8e2b5c59f" parent="aspace_23d22cd0b84c49a51a5618359fd85366" type="folder">40</container></did></c><c id="aspace_ffaaa59bb15d50f5b0e288f3255026e3" level="file"><did><unittitle>Day planner</unittitle><unitdate normal="2001/2001">2001</unitdate><container altrender="Record carton" id="aspace_6534551a632d916286725b761b8e85e0" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_5bd2ead88910b203db32e9b61ac647e1" parent="aspace_6534551a632d916286725b761b8e85e0" type="folder">41</container></did></c><c id="aspace_3905b67fcc82ebfa034fd41491529f96" level="file"><did><unittitle>Pagen Papers God's Own Drug</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_3010d68927d70cf05015fa8c7da67458" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_716814646d5d79a319988d93691b4ed3" parent="aspace_3010d68927d70cf05015fa8c7da67458" type="folder">42</container></did></c><c id="aspace_0e7fe5ff7cd9fe4ced51e7c9bb68af7a" level="file"><did><unittitle>Obscure, violent, funny news items [and script for "The Great Smudge"]</unittitle><unitdate normal="1975/1987" type="inclusive">1975-1987</unitdate><container altrender="Record carton" id="aspace_c048ab635924b3bdd40cdd8a464b508e" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_450fe68ea7300ba93c8b5c79978606d4" parent="aspace_c048ab635924b3bdd40cdd8a464b508e" type="folder">43</container></did></c><c id="aspace_0d87218b75a6325c80ec947737ba346c" level="file"><did><unittitle>Letters and writings</unittitle><unitdate>1987, undated</unitdate><container altrender="Record carton" id="aspace_92212918f54af5dfdd2c56a808d9cff3" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_23893cb7a64e8abb036152ce7f8b4771" parent="aspace_92212918f54af5dfdd2c56a808d9cff3" type="folder">44</container></did></c><c id="aspace_3ca3d8432ad5f1499b2a59a3874f2ff0" level="file"><did><unittitle>Notebook containing personal thoughts and feelings</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_87cad47bbc6306719b8f6d1d83a62913" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_65a55c261a53965ad0bc95212b2508dc" parent="aspace_87cad47bbc6306719b8f6d1d83a62913" type="folder">45</container></did></c><c id="aspace_37afce78e4b0fba8e3c70e89e3223339" level="file"><did><unittitle>"The Icecream Cometh" playbill and Kitting Factory event flyer</unittitle><unitdate normal="1985/1985">1985</unitdate><container altrender="Record carton" id="aspace_6737ed2e96db8acb5cbccbdcbd58ab6b" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_9da749f614eac3293c1dbafa9d1c9b1f" parent="aspace_6737ed2e96db8acb5cbccbdcbd58ab6b" type="folder">46</container></did></c><c id="aspace_0c473db4749c005ff9fcaedf394000c3" level="file"><did><unittitle>Letters and writings</unittitle><unitdate normal="1987/1987">1987, undated</unitdate><container altrender="Record carton" id="aspace_5ed05c52eb5c3597be3bee2796bc7867" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_2023cd544be2666b1829ecd166cdedda" parent="aspace_5ed05c52eb5c3597be3bee2796bc7867" type="folder">47</container></did></c><c id="aspace_b9daf4a1a1958cf2c3514504de5608c2" level="file"><did><unittitle>Arab Post, published in NYC</unittitle><unitdate normal="1985/1985">1985</unitdate><container altrender="Record carton" id="aspace_3275ec632b6017c00af0cac64092d4ab" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_ddb79ec658a7656082efc0eb55162656" parent="aspace_3275ec632b6017c00af0cac64092d4ab" type="folder">48</container></did></c><c id="aspace_c60cd8a8eedd6de204c3808720e1bd26" level="file"><did><unittitle>Sailors [letters and annotated writings]</unittitle><unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate><container altrender="Record carton" id="aspace_e6ced73b475e16224f2f55b873fdc188" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_2647118a254568fa6341908cf565d600" parent="aspace_e6ced73b475e16224f2f55b873fdc188" type="folder">49</container></did></c><c id="aspace_db894ba95314c5d6fa6bbd876a6229f4" level="file"><did><unittitle>Writings</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_f7dd446b93bab5375b110e60d9fde54d" label="Mixed Materials [31142063605557]" type="box">1</container><container id="aspace_a3e40818e5b3d578ede30dae15fff67c" parent="aspace_f7dd446b93bab5375b110e60d9fde54d" type="folder">50-51</container></did></c><c id="aspace_9287f8732a002a0b18838f15444722ba" level="file"><did><unittitle>Legal pad with writing about John and luggage tag</unittitle><unitdate normal="1986/1986">1986</unitdate><container altrender="Record carton" id="aspace_9f4e50345ded6a09220b39fed8ee2beb" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_91c872a43f4d703f168a9c0033f0c876" parent="aspace_9f4e50345ded6a09220b39fed8ee2beb" type="folder">1</container></did></c><c id="aspace_59d668c4b9eac3d03edd49660a2d77d9" level="file"><did><unittitle>Correspondence with Teofilo R. Ruiz and a letter to John and Sue</unittitle><unitdate normal="1986/1987" type="inclusive">1986-1987, undated</unitdate><container altrender="Record carton" id="aspace_7f14d1f2f8062fac50d5e9956470a2b6" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_0303feed940457039c6e657fbb665297" parent="aspace_7f14d1f2f8062fac50d5e9956470a2b6" type="folder">2</container></did></c><c id="aspace_46f7168e1b68faa7c0dd9ce9a2b919b1" level="file"><did><unittitle>Letters to Sidney Smith</unittitle><unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate><container altrender="Record carton" id="aspace_886c60976f205c5c893099f864af078f" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_9a718db0c5132ae4c80e7fbe87b8110e" parent="aspace_886c60976f205c5c893099f864af078f" type="folder">3</container></did></c><c id="aspace_0f6475d110b636861ac94f57191e5b2d" level="file"><did><unittitle>Letters to Margot, Michael Yawney, Rosa Ruiz, Wes, Dr. Lloyd DeMause; writing fragments</unittitle><unitdate normal="1989/1989">1989, undated</unitdate><container altrender="Record carton" id="aspace_5df19da24ed4092d543e3707a5718595" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_da5de1fc4811b6b518b8af4a9ce1be1d" parent="aspace_5df19da24ed4092d543e3707a5718595" type="folder">4</container></did></c><c id="aspace_33ce597e4dedb5f683a2c8504c698cca" level="file"><did><unittitle>Critics/pedagogy</unittitle><unitdate normal="1995/1995">1995</unitdate><container altrender="Record carton" id="aspace_473749953f3d97512b269f40e2e5ddd9" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_a7ba84a8b1dee085847eef4544cf430b" parent="aspace_473749953f3d97512b269f40e2e5ddd9" type="folder">5</container></did></c><c id="aspace_ce6a5bec2699f2aec92ea70302262170" level="file"><did><unittitle>Recent U.S. History</unittitle><unitdate normal="1990/1996" type="inclusive">1990-1996</unitdate><container altrender="Record carton" id="aspace_1128ad988dc94275adfa805f0b794749" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_d08ca6703e65cc17cff485e223d81b32" parent="aspace_1128ad988dc94275adfa805f0b794749" type="folder">6</container></did></c><c id="aspace_fe1c99fe7a92d7c57e9242386bf231b5" level="file"><did><unittitle>NYC Tarot cards, photo of woman with stuffed panda, clipping</unittitle><unitdate normal="1944/1944">undated</unitdate><container altrender="Record carton" id="aspace_bc0702f12426cf6954a00b21ae1f1a7f" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_23a2d50dc82077bb02d13656ca3d8ef6" parent="aspace_bc0702f12426cf6954a00b21ae1f1a7f" type="folder">7</container></did></c><c id="aspace_5f3890ce495c1bb992f188080eae6b0f" level="file"><did><unittitle>Utility bills</unittitle><unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate><container altrender="Record carton" id="aspace_62f0ecd70a7a0b607d0a28093433430d" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_68d5c568f0e5381c6fe02d0e209ba184" parent="aspace_62f0ecd70a7a0b607d0a28093433430d" type="folder">8</container></did></c><c id="aspace_10de1de16ac53805617c811fddb633dd" level="file"><did><unittitle>Letters, report cards, sketches, photograph of a woman on a bench</unittitle><unitdate normal="1964/1967" type="inclusive">1964-1967</unitdate><container altrender="Record carton" id="aspace_f4f64610f0afb08548543a6605c7e787" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_e2588a225a0ede18c1980b4d7673fc17" parent="aspace_f4f64610f0afb08548543a6605c7e787" type="folder">9</container></did></c><c id="aspace_7be9e9685cfe9f47a62d07eff7909be1" level="file"><did><unittitle>Empty buffalo nickel case</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_1337ad37aefca0e7f7f21ccc59eb5148" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_f7e1f80afbc90eeb4b404676d02bb332" parent="aspace_1337ad37aefca0e7f7f21ccc59eb5148" type="folder">10</container></did></c><c id="aspace_d042b5fb64de0b73800d35bb89371ff1" level="file"><did><unittitle>Handwritten letters</unittitle><unitdate normal="2001/2001">2001, undated</unitdate><container altrender="Record carton" id="aspace_aa75a7ccbfd95af38e1c67da9e134c06" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_0d89062af54f8d6c3a335d14b6c4d541" parent="aspace_aa75a7ccbfd95af38e1c67da9e134c06" type="folder">11</container></did></c><c id="aspace_1f8cabe66d947f80da6629621e7fbccc" level="file"><did><unittitle>Notebook with handwritten letters</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_8a6387c2d7b4f7dbd7be7312ff5c60ce" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_04ee5c13ecec43df536ba60e5051688f" parent="aspace_8a6387c2d7b4f7dbd7be7312ff5c60ce" type="folder">12</container></did></c><c id="aspace_99ddc587e6a55f5958ae51ea163e3341" level="file"><did><unittitle>Writings, notes, study of values test booklet, letters, employment info</unittitle><unitdate normal="1991/1991">1991, undated</unitdate><container altrender="Record carton" id="aspace_e9f0650c33edb2fcbfcc985033574596" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_6cc2bc0bf3aa6814771ecfd3c5f24bd6" parent="aspace_e9f0650c33edb2fcbfcc985033574596" type="folder">13</container></did></c><c id="aspace_1d52f472f447909b1aeff9da3eeebb4a" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1991/1991">1991</unitdate><container altrender="Record carton" id="aspace_7d6c84feaf1116c9b3445130ccc72b60" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_23540e1a80c613ab2dd796350fc4a403" parent="aspace_7d6c84feaf1116c9b3445130ccc72b60" type="folder">14</container></did></c><c id="aspace_370c6c9a3213af8fed13264962b5a11b" level="file"><did><unittitle>Letters, writings, and notes</unittitle><unitdate normal="1990/1990">1990, undated</unitdate><container altrender="Record carton" id="aspace_6b77134eea871296b0a7827eabeaacb7" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_03f64072c57d27ff672fc5f513a117cc" parent="aspace_6b77134eea871296b0a7827eabeaacb7" type="folder">15</container></did></c><c id="aspace_941023355799c7eed989315d2f3e2d26" level="file"><did><unittitle>Annotated folder with letters, notes, resumes, clippings</unittitle><unitdate normal="1991/1991">1991</unitdate><container altrender="Record carton" id="aspace_378c5edb60cbf2968c82d181400f0e71" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_bdbf248cb114e55267a2f9dd88696d09" parent="aspace_378c5edb60cbf2968c82d181400f0e71" type="folder">16</container></did></c><c id="aspace_18d6273abe77034af150a62e54c64c8a" level="file"><did><unittitle>Letters, writings, annotated folder, the Writer's Center mailing</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_63223f6b53bdd5c58c3e53f17684a8e3" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_54ce80ded111c651909e0e97a9e5e0f2" parent="aspace_63223f6b53bdd5c58c3e53f17684a8e3" type="folder">17</container></did></c><c id="aspace_e448c075d3c68e1989abaac74c6381b1" level="file"><did><unittitle>Austin John Marshall book review and interview draft</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_466c36feafa44b37069590c124bb0c84" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_66acab04a62b8e0a4bcf505d23479c03" parent="aspace_466c36feafa44b37069590c124bb0c84" type="folder">18</container></did></c><c id="aspace_d620c29bcb3c621561f5ceece048be99" level="file"><did><unittitle>Letters to Laura Flanders, Mary Ellen Keane, Buddy, and a Persona time card</unittitle><unitdate>1991, undated</unitdate><container altrender="Record carton" id="aspace_2289160a081fd30841533b9e6cfd54db" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_d9a278838bf98ac5e4e39db19495451e" parent="aspace_2289160a081fd30841533b9e6cfd54db" type="folder">19</container></did></c><c id="aspace_3c3ce4a3cfb52e2c7af78239d66ff58d" level="file"><did><unittitle>Patricia Dix resume and birth certificate; Robert Dix naturalization and birth certificates; Robert and Joan Dix marriage licence and certificate</unittitle><unitdate normal="1949/1989" type="inclusive">1949-1989</unitdate><container altrender="Record carton" id="aspace_5719537167222a90b3202be703f2686f" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_8151c13d14cb54c19710bdb2167b5c79" parent="aspace_5719537167222a90b3202be703f2686f" type="folder">20</container></did></c><c id="aspace_dffdebd71f9b5534b739368d48298247" level="file"><did><unittitle>Writings, mail, flyers, notes, sketches</unittitle><unitdate normal="1983/1990" type="inclusive">1983-1990</unitdate><container altrender="Record carton" id="aspace_4d289f58bb3408d598445c5653183744" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_9943555021ee565eff869736e8d948cb" parent="aspace_4d289f58bb3408d598445c5653183744" type="folder">21</container></did></c><c id="aspace_366b955db58dec4d7439475f6059889c" level="file"><did><unittitle>Writings, notes, flyers, utility bills, notice of Marshal's Legal Possession of property</unittitle><unitdate normal="1987/1991" type="inclusive">1987-1991</unitdate><container altrender="Record carton" id="aspace_4c5e9e2cc989e2d4d007daa05e67971a" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_639f251ab7789b54d118ea6422bd0ad6" parent="aspace_4c5e9e2cc989e2d4d007daa05e67971a" type="folder">22</container></did></c><c id="aspace_0434ff8dd9e51ed5d1f21a0006c2b652" level="file"><did><unittitle>Letters to John and Sue, Wes, Betsy, Robert</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_6d84825ba468be080078d97973cbfc49" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_b007572de68dd9a236e8751b2591037c" parent="aspace_6d84825ba468be080078d97973cbfc49" type="folder">23</container></did></c><c id="aspace_4ec13a7d0483926f8bc2d091f3902e23" level="file"><did><unittitle>Letters: Teo, others (personal)</unittitle><unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate><container altrender="Record carton" id="aspace_c2c77a8a750332ae75d043b3279036e8" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_4c053f05b47808a0bc40238fe28ea9bd" parent="aspace_c2c77a8a750332ae75d043b3279036e8" type="folder">24</container></did></c><c id="aspace_c53f706434609628cee677fef9a395d4" level="file"><did><unittitle>Teo, pre-1987</unittitle><unitdate normal="1964/1986" type="inclusive">1964-1986</unitdate><container altrender="Record carton" id="aspace_e9ac5a282c0039469fe666ddaeda9e6a" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_9117377a7d567c6b194e0e3b98018db1" parent="aspace_e9ac5a282c0039469fe666ddaeda9e6a" type="folder">25</container></did></c><c id="aspace_61627c81c8c29eaeeb27fb4b49fabcc3" level="file"><did><unittitle>Sketches and writings</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_a28c9f5de63a718d626af3483f180c21" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_782651afc5bd041ee8f4f5f2715545de" parent="aspace_a28c9f5de63a718d626af3483f180c21" type="folder">26</container></did></c><c id="aspace_991891f87a7bf810b7cb66f84b0aa7b9" level="file"><did><unittitle>Notebooks and writings</unittitle><unitdate normal="1999/2001" type="inclusive">1999-2001</unitdate><container altrender="Record carton" id="aspace_9795c19a13998a9253b849718b4c90bd" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_33155635a127a1dbfbbf8a95d602b4db" parent="aspace_9795c19a13998a9253b849718b4c90bd" type="folder">27</container></did></c><c id="aspace_35cb6604ba8151f101f8c156df35decb" level="file"><did><unittitle>Writings, sketches, and letters to Mr. Vidal, Mr. Lopate, Damien, Dorothy, Teo</unittitle><unitdate normal="1987/1998" type="inclusive">1987-1998</unitdate><container altrender="Record carton" id="aspace_7ebae2c188ad1379714b98f0bce76cfa" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_4e30fbeaa298e0d28c01a8cc08a6ddc6" parent="aspace_7ebae2c188ad1379714b98f0bce76cfa" type="folder">28</container></did></c><c id="aspace_3574aa83a5d08e0e43ae33047d18dc89" level="file"><did><unittitle>Legal pad with notes</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_93372839c37f5b3a3a2452ed9b93fb0a" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_a5ada2dad0ebd58418c0f5a2ea70f6b7" parent="aspace_93372839c37f5b3a3a2452ed9b93fb0a" type="folder">29</container></did></c><c id="aspace_50beec815fb2bd3df0ec79245ba425db" level="file"><did><unittitle>Exploitation 1 [letters to Ted and Rob]</unittitle><unitdate normal="1995/1995">1995</unitdate><container altrender="Record carton" id="aspace_734863d72006ec973580e181449d21ce" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_663ea39e6beaa1196619404f7223ce67" parent="aspace_734863d72006ec973580e181449d21ce" type="folder">30</container></did></c><c id="aspace_54d8f301d820ea1c4616b6c98cc6f987" level="file"><did><unittitle>Misc. Letters [to Teo, Mr. Cockburn, Mr. Vidal, Mr. Veder]</unittitle><unitdate normal="1993/1995" type="inclusive">1993-1995</unitdate><container altrender="Record carton" id="aspace_63c088b6c830c054e2c9424a663add75" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_894c949a31bea379e358d2c9173f21ec" parent="aspace_63c088b6c830c054e2c9424a663add75" type="folder">31</container></did></c><c id="aspace_62759e9ff2ba2397e66e9b0af085bb84" level="file"><did><unittitle>Misc. Letters #1 [to Teo]</unittitle><unitdate normal="1996/1996">1996</unitdate><container altrender="Record carton" id="aspace_7e8996c2d5ca7d325ba7628ffa9b88b7" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_48668382c450ca35996124d1e336d2d2" parent="aspace_7e8996c2d5ca7d325ba7628ffa9b88b7" type="folder">32</container></did></c><c id="aspace_87b385ad9620734265ee97dca0a11d8c" level="file"><did><unittitle>Misc. essay topics #2 [letters to Patrick, Teo, Mr. Hitchens]</unittitle><unitdate normal="1995/1996" type="inclusive">1995-1996</unitdate><container altrender="Record carton" id="aspace_99c50bedcc105e12b8c5b437782bdb9d" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_fede58acfdba34c43ae862b5097b6c9c" parent="aspace_99c50bedcc105e12b8c5b437782bdb9d" type="folder">33</container></did></c><c id="aspace_b4e4437694e788db855c6762c5c9f776" level="file"><did><unittitle>Reviews misc. [letter to John and Sue]</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_cc6a4d960076ab4e32b2ab8a0d38a89e" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_5d6862aa2fca99be8506785938e64965" parent="aspace_cc6a4d960076ab4e32b2ab8a0d38a89e" type="folder">34</container></did></c><c id="aspace_ace7e831c6c119622b53b3112d1c1d1c" level="file"><did><unittitle>Hello You [letters to Mr. Danes and Ray, notes, writings]</unittitle><unitdate normal="1996/1996">1996, undated</unitdate><container altrender="Record carton" id="aspace_b08af208e6236c201c05b5920208b296" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_66985c0c74379263880ec2eedceb3039" parent="aspace_b08af208e6236c201c05b5920208b296" type="folder">35</container></did></c><c id="aspace_6836d69b202e98c9f336b7c380fc8c89" level="file"><did><unittitle>G. Vidal; leftist novelist correspondence</unittitle><unitdate normal="1996/1996">1996</unitdate><container altrender="Record carton" id="aspace_be6e1985230f451d9c6abcdb65095cf7" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_44ed2efe38eca78c8e3598b3770d56b3" parent="aspace_be6e1985230f451d9c6abcdb65095cf7" type="folder">36</container></did></c><c id="aspace_d297073b5907214c9070f9e1118cceb0" level="file"><did><unittitle>Exploitation 2 [letters to Teo, Sue and John, Aunt Pauline, Barbara]</unittitle><unitdate normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Record carton" id="aspace_06b3d256afc12737f53bb204a678a5d3" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_90a013d38510f1a1516ff0123be7740e" parent="aspace_06b3d256afc12737f53bb204a678a5d3" type="folder">37</container></did></c><c id="aspace_98448aa8b82b61ce04fcfa0ea5884df3" level="file"><did><unittitle>Danny Boy [letters to Pierce Teo, Giani]</unittitle><unitdate normal="1996/1996">1996</unitdate><container altrender="Record carton" id="aspace_6ad3f0138eb0b9172f0b982135b00806" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_c0ed3f4f6ab770b30a417692459215d5" parent="aspace_6ad3f0138eb0b9172f0b982135b00806" type="folder">38</container></did></c><c id="aspace_63d5b490f227e5d468e96dc329f0ab39" level="file"><did><unittitle>Betty Boop</unittitle><unitdate normal="1987/1987">1987</unitdate><container altrender="Record carton" id="aspace_ee1474e35a9b4dcd6c2e60fad9449abd" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_b2a35938e09105af3a75ab0467c83983" parent="aspace_ee1474e35a9b4dcd6c2e60fad9449abd" type="folder">39</container></did></c><c id="aspace_e36f6e056123380c5e691ffc5c0d7b36" level="file"><did><unittitle>Terrorism (public service announcements)</unittitle><unitdate normal="1985/1988" type="inclusive">1985-1988, undated</unitdate><container altrender="Record carton" id="aspace_6b2d61f7eae95e400be81f226a908c6a" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_2d38e3d07f94495961151385fde5818a" parent="aspace_6b2d61f7eae95e400be81f226a908c6a" type="folder">40</container></did></c><c id="aspace_b98782143bac69469d13f0904f1c9752" level="file"><did><unittitle>REI [notebook with writings in French]</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_88b5142ede962cba1df989bb8f6aece0" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_55882d95b250efd660bb9bbe992b56f0" parent="aspace_88b5142ede962cba1df989bb8f6aece0" type="folder">41</container></did></c><c id="aspace_8f6bc741e4863528aee428ea914bae50" level="file"><did><unittitle>Correspondence, clippings, writings, notes</unittitle><unitdate normal="1970/1997" type="inclusive">1970-1997, undated</unitdate><container altrender="Record carton" id="aspace_38a05f04ee4e8245a9883091262c5d04" label="Mixed Materials [31142063605565]" type="box">2</container><container id="aspace_865c4ca19678d07a5f066a6b35b5a880" parent="aspace_38a05f04ee4e8245a9883091262c5d04" type="folder">42</container><container altrender="Record carton" id="aspace_5d56d787a1e2358e3edce754da005240" label="Mixed Materials [31142063605573]" type="box">3</container><container id="aspace_8773279d708021c9a16b733dda142d5c" parent="aspace_5d56d787a1e2358e3edce754da005240" type="folder">1-3</container></did></c><c id="aspace_3124786bb0fd5a958a05ba543d6f8e69" level="file"><did><unittitle>Letters to Matthew, Monica, Dorothy, Rosemary, Teo</unittitle><unitdate normal="1998/1998">1998</unitdate><container altrender="Record carton" id="aspace_eed9e0ba4f33c87b66bf954bf239f9f1" label="Mixed Materials [31142063605573]" type="box">3</container><container id="aspace_99e0ac52f5eb4b1212e3e52c1a082f65" parent="aspace_eed9e0ba4f33c87b66bf954bf239f9f1" type="folder">4</container></did></c><c id="aspace_db50103233a240a05ae7ca9aa07ac3b7" level="file"><did><unittitle>Kafka [from accordion file in box 3, folder 11]</unittitle><unitdate normal="1987/1987">1987</unitdate><container altrender="Record carton" id="aspace_dbedf9cf2d9055af21ebbb04859841e5" label="Mixed Materials [31142063605573]" type="box">3</container><container id="aspace_bda6f0704abf67b4dd92b04b9c4249f0" parent="aspace_dbedf9cf2d9055af21ebbb04859841e5" type="folder">5</container></did></c><c id="aspace_195437269887fc8d8d502fc52b8b6d7a" level="file"><did><unittitle>TV Obsession [from accordion file in box 3 folder 11]</unittitle><unitdate normal="1987/1989" type="inclusive">1987-1989</unitdate><container altrender="Record carton" id="aspace_76ee8f73a771423eeab54c0eaf8ee287" label="Mixed Materials [31142063605573]" type="box">3</container><container id="aspace_0fd54012674372ffb1abf8910bfa854f" parent="aspace_76ee8f73a771423eeab54c0eaf8ee287" type="folder">6</container></did></c><c id="aspace_34a1caf886fabd9a5d53ba4c95bbc312" level="file"><did><unittitle>Misc. Literary corresp. [from accordion file in box 3 folder 11]</unittitle><unitdate normal="1986/1990" type="inclusive">1986-1990</unitdate><container altrender="Record carton" id="aspace_ded721aa418ca6ccd8868f8bf2afd1c5" label="Mixed Materials [31142063605573]" type="box">3</container><container id="aspace_e1a8362744b1611104f9fb5049794d90" parent="aspace_ded721aa418ca6ccd8868f8bf2afd1c5" type="folder">7</container></did></c><c id="aspace_b0229d68e355eb2bfe553785ce0f1c58" level="file"><did><unittitle>Wisker [from accordion file in box e folder 11]</unittitle><unitdate normal="1989/1989">1989</unitdate><container altrender="Record carton" id="aspace_57e6a2e15e6dcc25c257a4fa423757a0" label="Mixed Materials [31142063605573]" type="box">3</container><container id="aspace_2f6ecb78d2a91f5057ea1c8a00a97d3e" parent="aspace_57e6a2e15e6dcc25c257a4fa423757a0" type="folder">8</container></did></c><c id="aspace_0a59758ccd682be9345a17ef8106058a" level="file"><did><unittitle>Who or what is Edward Meese [from accordion file in box 3 folder 11]</unittitle><unitdate normal="1986/1986">1986</unitdate><container altrender="Record carton" id="aspace_c8d0a3e782bef107f998bcadf6b6e509" label="Mixed Materials [31142063605573]" type="box">3</container><container id="aspace_b527f3a47fe40b04b4faab01878c5252" parent="aspace_c8d0a3e782bef107f998bcadf6b6e509" type="folder">9</container></did></c><c id="aspace_467ef792ccaf1e6f6f7a3a95df9265fb" level="file"><did><unittitle>Brian [from accordion file in box 3 folder 11]</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_67c7432bfad0a709f221bcb10500394d" label="Mixed Materials [31142063605573]" type="box">3</container><container id="aspace_d832390c220de5ec081aa29f469b9851" parent="aspace_67c7432bfad0a709f221bcb10500394d" type="folder">10</container></did></c><c id="aspace_afc04a9f4ee1abfb5de0fd9e2a8652ee" level="file"><did><unittitle>Accordion file with subject headings</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_e8b302c467b5a7d7d10fb7e31417d796" label="Mixed Materials [31142063605573]" type="box">3</container><container id="aspace_44a433c0037e78ef5db51121462db36a" parent="aspace_e8b302c467b5a7d7d10fb7e31417d796" type="folder">11</container></did></c><c id="aspace_29b158fbff6a9be32365c7f98a863fc9" level="file"><did><unittitle>Letters re physical health</unittitle><unitdate normal="2001/2001">2001</unitdate><container altrender="Record carton" id="aspace_853c821a93433276c4add62d7c67311c" label="Mixed Materials [31142063605573]" type="box">3</container><container id="aspace_f3e25861cf99fe3cef5e515ca7515f6a" parent="aspace_853c821a93433276c4add62d7c67311c" type="folder">12</container></did></c><c id="aspace_b93e0dc9e835150ce5167e03344163fd" level="file"><did><unittitle>Letters re physical health and the psychiatric profession</unittitle><unitdate normal="2001/2001">2001</unitdate><container altrender="Record carton" id="aspace_0d39ca3d2186ed84451798d1928003a9" label="Mixed Materials [31142063605573]" type="box">3</container><container id="aspace_686de0eb0f3d5346ebb20c0c903a391e" parent="aspace_0d39ca3d2186ed84451798d1928003a9" type="folder">13</container></did></c><c id="aspace_a396dee4ac025078c621e8b7cd9b7a97" level="file"><did><unittitle>Letters of grievance</unittitle><unitdate normal="2001/2001">2001</unitdate><container altrender="Record carton" id="aspace_51944c66fa3e649695b2fa7fab38b457" label="Mixed Materials [31142063605573]" type="box">3</container><container id="aspace_99776fc2ce562865b969599267bc188e" parent="aspace_51944c66fa3e649695b2fa7fab38b457" type="folder">14</container></did></c><c id="aspace_23ed0a701861ff587be3e58055ab81e8" level="file"><did><unittitle>Letters to friends and medical professionals</unittitle><unitdate normal="2001/2001">2001</unitdate><container altrender="Record carton" id="aspace_cfae8e96cbd1dc687324e3ae0be9e599" label="Mixed Materials [31142063605573]" type="box">3</container><container id="aspace_3a6da648d84040a8cacb6991ab9098e2" parent="aspace_cfae8e96cbd1dc687324e3ae0be9e599" type="folder">15-16</container></did></c><c id="aspace_e5d9fd312afa9bf4bb544af25b09fb03" level="file"><did><unittitle>Letters, writing fragments, sketch pad</unittitle><unitdate normal="1993/1993">1993</unitdate><container altrender="Record carton" id="aspace_cc21e7f6dc4a9b31788889ae1d86b561" label="Mixed Materials [31142063605573]" type="box">3</container><container id="aspace_8ce15f27499a0fc99844d40bae168395" parent="aspace_cc21e7f6dc4a9b31788889ae1d86b561" type="folder">17</container></did></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_e50da4864332d62a33b71fe6bc102ba3" level="file">
+        <did>
+          <unittitle>Correspondence to Kevin Stevens</unittitle>
+          <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+          <container altrender="Record carton" id="aspace_8bccfe1fef2d72f5178e0724a69144a4" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_4d346a9cde2a1f4beeb7d982446ef1ad" parent="aspace_8bccfe1fef2d72f5178e0724a69144a4" type="folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_35d4b4889b4c22664ba6bd1828765820" level="file">
+        <did>
+          <unittitle>Resume, event flyer, sketch</unittitle>
+          <unitdate normal="1989/1989">1989, undated</unitdate>
+          <container altrender="Record carton" id="aspace_07abce1390e891bad99e851c15976794" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_a6bd83de996c2f7abbaacaeb5989ef6c" parent="aspace_07abce1390e891bad99e851c15976794" type="folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_20768bfddd9331dbf7ae4c3211f7decc" level="file">
+        <did>
+          <unittitle>Letters to Dr. Perry, Cher Christain</unittitle>
+          <unitdate normal="1995/1997" type="inclusive">1995-1997</unitdate>
+          <container altrender="Record carton" id="aspace_b25c4bb821e6ab4230cbdb82ee8c2d4a" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_9eeed380607d9eacc61bed2b89dffe1e" parent="aspace_b25c4bb821e6ab4230cbdb82ee8c2d4a" type="folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ffe0a021e458659416c7c7c1f7b591d1" level="file">
+        <did>
+          <unittitle>Information sheets and articles on nutrition and healthy living</unittitle>
+          <unitdate normal="2000/2000">2000, undated</unitdate>
+          <container altrender="Record carton" id="aspace_3404a618803936e3f8b173103bb0725d" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_50cfff6700d6a612fe0c7e45c0a7aa87" parent="aspace_3404a618803936e3f8b173103bb0725d" type="folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_9fc8869390d6cdb6e7cc72e57b8ee257" level="file">
+        <did>
+          <unittitle>Clippings re NYC cultural events, book reviews, and conformational disease</unittitle>
+          <unitdate normal="2000/2000">2000</unitdate>
+          <container altrender="Record carton" id="aspace_64892d6acba0dac2eb2421f222c3ef16" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_11927dc593da955ab4a7331944df5ab7" parent="aspace_64892d6acba0dac2eb2421f222c3ef16" type="folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_567e78c6642e36b881dd791fc605ed2b" level="file">
+        <did>
+          <unittitle>Letter and email from Robert Whitaker</unittitle>
+          <unitdate normal="1998/1998">1998</unitdate>
+          <container altrender="Record carton" id="aspace_033a8595157330b96888e4a9b601d1a7" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_deee9f0a16afbefabbb35ebd76411f50" parent="aspace_033a8595157330b96888e4a9b601d1a7" type="folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_86f45b5a89b5cc71cfa957c1ffbcb7bd" level="file">
+        <did>
+          <unittitle>Letters to Dr. Chawala re Dix's health</unittitle>
+          <unitdate normal="2001/2001">2001</unitdate>
+          <container altrender="Record carton" id="aspace_c4572f158e91467a104246e6d4873738" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_826c91631945b8640ccafdc7f953722c" parent="aspace_c4572f158e91467a104246e6d4873738" type="folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_da0131717ecb7a574c3fa1c452690263" level="file">
+        <did>
+          <unittitle>Utility bills and receipts</unittitle>
+          <unitdate normal="2000/2001" type="inclusive">2000-2001</unitdate>
+          <container altrender="Record carton" id="aspace_21be8f883b1c926ecd6a8121d1a2a77d" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_6b33ec6ecbaebd522a32b6de6d44febf" parent="aspace_21be8f883b1c926ecd6a8121d1a2a77d" type="folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ca6c413c0db89eff0f2535e522da4a9b" level="file">
+        <did>
+          <unittitle>Letters and clippings </unittitle>
+          <unitdate normal="2000/2001" type="inclusive">2000-2001</unitdate>
+          <container altrender="Record carton" id="aspace_1d3808f4378846f15868620158630df3" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_0cb0bf5e37822bbd5a669b0aaef4eab5" parent="aspace_1d3808f4378846f15868620158630df3" type="folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_d653aeb485590d5132a699cccd281fce" level="file">
+        <did>
+          <unittitle>Letters to Dr. Chawala re Dix's health</unittitle>
+          <unitdate normal="2000/2001" type="inclusive">2000-2001</unitdate>
+          <container altrender="Record carton" id="aspace_98cdefb604b7ef798ba819e14bc7e16e" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_a498e7e538dedd65c55b6dae53ab68cd" parent="aspace_98cdefb604b7ef798ba819e14bc7e16e" type="folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_af55bf75b4d13037f6ecb6cc233a6e5d" level="file">
+        <did>
+          <unittitle>Clippings, brochures, and receipts re politics, health, and oxygen therapy</unittitle>
+          <unitdate normal="2000/2000">2000</unitdate>
+          <container altrender="Record carton" id="aspace_1cdd654ed2567ca2d018493eecdc6fb6" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_2bdbf2ec4d13d4ebf9d6de8cf42b3d89" parent="aspace_1cdd654ed2567ca2d018493eecdc6fb6" type="folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_67d52c8060165a2cc7395bf4f94e7f02" level="file">
+        <did>
+          <unittitle>Annotated writings</unittitle>
+          <unitdate normal="1987/1987">1987, undated</unitdate>
+          <container altrender="Record carton" id="aspace_c718320798986c46bde94ad665f6a48c" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_fcaf00a75ce76d767f360d52e472dd60" parent="aspace_c718320798986c46bde94ad665f6a48c" type="folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_7b63b45e53cfd698cbb60002ee3c23ce" level="file">
+        <did>
+          <unittitle>Personal correspondence</unittitle>
+          <unitdate normal="1991/1996" type="inclusive">1991-1996</unitdate>
+          <container altrender="Record carton" id="aspace_d3b9b2be953ec2ae3157fd6b0e657b22" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_abf8e5baa7b6d9af03147221eb3f4066" parent="aspace_d3b9b2be953ec2ae3157fd6b0e657b22" type="folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_9475b9a2f67d938f63184210d1f6bc99" level="file">
+        <did>
+          <unittitle>Educational and vocational planning quiz</unittitle>
+          <unitdate normal="1991/1991">1991</unitdate>
+          <container altrender="Record carton" id="aspace_a2eb008cea434b23cdd9e986afe105d9" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_c62e3388892cb18f89a252adb960a4d9" parent="aspace_a2eb008cea434b23cdd9e986afe105d9" type="folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_d20f97e1665d6d814347cd6d7951e1c2" level="file">
+        <did>
+          <unittitle>The Lookout special 1994 annual report issue on seafarer's rights</unittitle>
+          <unitdate normal="1995/1995">1995</unitdate>
+          <container altrender="Record carton" id="aspace_1910076384c40d17b7aed356840c7038" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_60f6786fef478deb7e07fad3055d8077" parent="aspace_1910076384c40d17b7aed356840c7038" type="folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_fe5fa0cb2fb1758023077cf10d16064e" level="file">
+        <did>
+          <unittitle>Notebook containing personal thoughts and feelings</unittitle>
+          <unitdate normal="1989/1989">1989</unitdate>
+          <container altrender="Record carton" id="aspace_efbc5494c67981fba9b111ab5befec45" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_d74cd17f694e6fcfac2fbb92401d7041" parent="aspace_efbc5494c67981fba9b111ab5befec45" type="folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_831c01ba82d87ed43ef9dea5668aac94" level="file">
+        <did>
+          <unittitle>Personal correspondence, notes, receipts</unittitle>
+          <unitdate normal="1979/1987" type="inclusive">1979-1987, undated</unitdate>
+          <container altrender="Record carton" id="aspace_2f856fbf40b662ab58cb89f033965f73" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_14c1a5ff44bd47492737f6b7540ed07d" parent="aspace_2f856fbf40b662ab58cb89f033965f73" type="folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_d31b1c4ea23b48618ad05ff3d36c9999" level="file">
+        <did>
+          <unittitle>Annotated writings</unittitle>
+          <unitdate normal="1986/1986">1986</unitdate>
+          <container altrender="Record carton" id="aspace_d2a12792a05e9e8c9918aace3e61dc01" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_a6a52a77081fd0f381d91357cad68e9d" parent="aspace_d2a12792a05e9e8c9918aace3e61dc01" type="folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_8d67679740351df53a65a937173af96f" level="file">
+        <did>
+          <unittitle>BAI Scripts [and postcards, photographs]</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_822df0e60e19981c9e1ac4cb4bab7f71" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_fa1aef444a7a21a6713a5d488ba5a08d" parent="aspace_822df0e60e19981c9e1ac4cb4bab7f71" type="folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_c07eea24de321d11655a7983894cd1d2" level="file">
+        <did>
+          <unittitle>Annotated writings</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_701d5adde2dab0ee23ca5696c43bfbb5" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_b9f471cfdbe358355c7881a11a313ada" parent="aspace_701d5adde2dab0ee23ca5696c43bfbb5" type="folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_0be30a381a8330503ab409c4a1375e54" level="file">
+        <did>
+          <unittitle>Handwritten draft of a play and notes</unittitle>
+          <unitdate normal="1980/1980">1980</unitdate>
+          <container altrender="Record carton" id="aspace_82f45ffc9abf0bef1e0548c2378a1fc2" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_aa44ec64ade5d290e642d8dc87cdc212" parent="aspace_82f45ffc9abf0bef1e0548c2378a1fc2" type="folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_494d9b1fabe5063d62dd73caf6ea0a68" level="file">
+        <did>
+          <unittitle>Personal correspondence with George Trow</unittitle>
+          <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+          <container altrender="Record carton" id="aspace_d8e83a8d6d06b980accc22088807fc90" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_b8e9b8cc9ce374da1349f60a65c976f7" parent="aspace_d8e83a8d6d06b980accc22088807fc90" type="folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_66d75a70796ea41d37b3e1b57ee855b4" level="file">
+        <did>
+          <unittitle>Letters to Patrick and Giani</unittitle>
+          <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+          <container altrender="Record carton" id="aspace_e16a4ae9fc2e1c37e24de23f315cd5a3" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_4b22bb36c63e5616c0e2905625a2966c" parent="aspace_e16a4ae9fc2e1c37e24de23f315cd5a3" type="folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_db52700900e91a43527f4dcbc065d1ad" level="file">
+        <did>
+          <unittitle>Annotated writings and drafts</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_b31739a14d4c906ef1326d72bb212492" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_b4096ff640470633eca17f7067b90b81" parent="aspace_b31739a14d4c906ef1326d72bb212492" type="folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_563383902989409099f27a76cb1b9a8e" level="file">
+        <did>
+          <unittitle>Letters to Joanne, Teo, Barbara, and annotated writings</unittitle>
+          <unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate>
+          <container altrender="Record carton" id="aspace_6c8d7b0bf6b47eb8b676cd35b8818d77" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_99ed821e9deccbcf8d207723a7f50500" parent="aspace_6c8d7b0bf6b47eb8b676cd35b8818d77" type="folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_97f4b4d12cbf32417e7a2f8be070fdb2" level="file">
+        <did>
+          <unittitle>Clippings - New York Times Book Review</unittitle>
+          <unitdate normal="1986/1986">1986</unitdate>
+          <container altrender="Record carton" id="aspace_515dc60d237afe955795b2f4cc80e46c" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_2e665baca8cffc4054f7a5cdbff6603c" parent="aspace_515dc60d237afe955795b2f4cc80e46c" type="folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_3033ec8f500ebe313e424d861157eaf0" level="file">
+        <did>
+          <unittitle>Annotated writings, notes, Kevin Stevens resume, letters, and play program</unittitle>
+          <unitdate normal="1984/1984">1984, undated</unitdate>
+          <container altrender="Record carton" id="aspace_f1922f72dde82fef921beea9d41c8d04" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_167708d21493969b7909ed2f5e337082" parent="aspace_f1922f72dde82fef921beea9d41c8d04" type="folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_5649723118e1abd043c17cf698a4d610" level="file">
+        <did>
+          <unittitle>Day planner</unittitle>
+          <unitdate normal="1984/1984">1984</unitdate>
+          <container altrender="Record carton" id="aspace_d40355346c426276259534c02cf4e5ba" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_d556cc5389b538da9caa34e91cc7d715" parent="aspace_d40355346c426276259534c02cf4e5ba" type="folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_6f3245cb159b2927ea1f9a0756d47299" level="file">
+        <did>
+          <unittitle>Handwritten and annotated writing</unittitle>
+          <unitdate normal="1987/1987">1987, undated</unitdate>
+          <container altrender="Record carton" id="aspace_0a20c8790c6a647181c6002a5f00f228" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_919a2993839139789167bee4fcc929d3" parent="aspace_0a20c8790c6a647181c6002a5f00f228" type="folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_b5b5aae7822279f3b58c62581c5bb09a" level="file">
+        <did>
+          <unittitle>Notebook of letters to Robert</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_bf6d77f15dc597ad7067ef93b84c24ce" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_2772b9c74641e4be00784c414d711dda" parent="aspace_bf6d77f15dc597ad7067ef93b84c24ce" type="folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_1648648d9c8a5dd92b8006ef9fc86868" level="file">
+        <did>
+          <unittitle>Letters to John and Robert, and annotated writings</unittitle>
+          <unitdate normal="1987/1987">1987, undated</unitdate>
+          <container altrender="Record carton" id="aspace_e27a28ac019486c09767b6675b22305e" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_e32c1481e2bb0a7ca87ba280e59f3ff7" parent="aspace_e27a28ac019486c09767b6675b22305e" type="folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_89d248a2aa0f4b40758fbbe224a7a978" level="file">
+        <did>
+          <unittitle>Annotated book reviews by Pat Dix</unittitle>
+          <unitdate normal="1987/1987">1987</unitdate>
+          <container altrender="Record carton" id="aspace_0bc6befe08991525e08985992b8f45bd" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_62610d817294440cdef9aac1c1aa9653" parent="aspace_0bc6befe08991525e08985992b8f45bd" type="folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_4e0ad08e4cdf15716371fa702830a5a2" level="file">
+        <did>
+          <unittitle>Letters to Sydney, Jim, and John, annotated wrings, notes</unittitle>
+          <unitdate normal="1986/1988" type="inclusive">1986-1988, undated</unitdate>
+          <container altrender="Record carton" id="aspace_3c1438ef5f9149eb82c87882ce961846" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_0554407f887d23c8e0d012156078f7ba" parent="aspace_3c1438ef5f9149eb82c87882ce961846" type="folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_314f4b2a3c68dc93e7852b010906c521" level="file">
+        <did>
+          <unittitle>Letter to Dr. Schwartz</unittitle>
+          <unitdate normal="2001/2001">2001</unitdate>
+          <container altrender="Record carton" id="aspace_703d830cbaf89a720b6d93b1e075a779" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_dc8131fbc5623bb4f222c6918fa94b50" parent="aspace_703d830cbaf89a720b6d93b1e075a779" type="folder">34</container>
+        </did>
+      </c>
+      <c id="aspace_c6d45cf64ed51ac5674c110958c33f5f" level="file">
+        <did>
+          <unittitle>"A Sailor's Legacy" notebook</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_652d3fade1c774494b0ed0624fc38f4b" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_f16aad8142be25121caf28ab7b5f0e25" parent="aspace_652d3fade1c774494b0ed0624fc38f4b" type="folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_51a288f8ecdda0a8d40e6b5bfef4e430" level="file">
+        <did>
+          <unittitle>Photograph of Pat Dix</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_907669ed9cb77b0f13647632a5f5195f" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_eef72f31e0e60e3ead58168ad00298e5" parent="aspace_907669ed9cb77b0f13647632a5f5195f" type="folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_b372b82a9b091d6ee809b4decdbb45c4" level="file">
+        <did>
+          <unittitle>Notebooks containing personal thoughts, feelings, and general notes</unittitle>
+          <unitdate normal="1999/2000" type="inclusive">1999-2000</unitdate>
+          <container altrender="Record carton" id="aspace_1f42828a26ce40a76a775a3bc5a7bd0f" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_336c43afe26f9eb6f95c10a703e2e4d6" parent="aspace_1f42828a26ce40a76a775a3bc5a7bd0f" type="folder">37</container>
+        </did>
+      </c>
+      <c id="aspace_adbfe64a8b64c6a8cb4e5384a4132fe9" level="file">
+        <did>
+          <unittitle>Letters out 1987</unittitle>
+          <unitdate normal="1987/1987">1987</unitdate>
+          <container altrender="Record carton" id="aspace_5a4ac4d7c15282196387e9710c2e23f6" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_5c1251052883a56b4d49a70837576aba" parent="aspace_5a4ac4d7c15282196387e9710c2e23f6" type="folder">38</container>
+        </did>
+      </c>
+      <c id="aspace_a74cfb253e75000517ef5393182eef42" level="file">
+        <did>
+          <unittitle>Letter to John and Sue, annotated writings re roommates and a sausage ad campaign</unittitle>
+          <unitdate normal="1984/1984">1984, undated</unitdate>
+          <container altrender="Record carton" id="aspace_acb1669fe58c6dc1747621245a83fce4" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_0b3dcb328f93c1f5b6298716eee8edbc" parent="aspace_acb1669fe58c6dc1747621245a83fce4" type="folder">39</container>
+        </did>
+      </c>
+      <c id="aspace_043ed6dba28fa28819e20ed1586d7c00" level="file">
+        <did>
+          <unittitle>Letters out 1999</unittitle>
+          <unitdate normal="1998/1998">1998</unitdate>
+          <container altrender="Record carton" id="aspace_23d22cd0b84c49a51a5618359fd85366" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_f97b5c5bc88ce57326498ee8e2b5c59f" parent="aspace_23d22cd0b84c49a51a5618359fd85366" type="folder">40</container>
+        </did>
+      </c>
+      <c id="aspace_ffaaa59bb15d50f5b0e288f3255026e3" level="file">
+        <did>
+          <unittitle>Day planner</unittitle>
+          <unitdate normal="2001/2001">2001</unitdate>
+          <container altrender="Record carton" id="aspace_6534551a632d916286725b761b8e85e0" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_5bd2ead88910b203db32e9b61ac647e1" parent="aspace_6534551a632d916286725b761b8e85e0" type="folder">41</container>
+        </did>
+      </c>
+      <c id="aspace_3905b67fcc82ebfa034fd41491529f96" level="file">
+        <did>
+          <unittitle>Pagen Papers God's Own Drug</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_3010d68927d70cf05015fa8c7da67458" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_716814646d5d79a319988d93691b4ed3" parent="aspace_3010d68927d70cf05015fa8c7da67458" type="folder">42</container>
+        </did>
+      </c>
+      <c id="aspace_0e7fe5ff7cd9fe4ced51e7c9bb68af7a" level="file">
+        <did>
+          <unittitle>Obscure, violent, funny news items [and script for "The Great Smudge"]</unittitle>
+          <unitdate normal="1975/1987" type="inclusive">1975-1987</unitdate>
+          <container altrender="Record carton" id="aspace_c048ab635924b3bdd40cdd8a464b508e" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_450fe68ea7300ba93c8b5c79978606d4" parent="aspace_c048ab635924b3bdd40cdd8a464b508e" type="folder">43</container>
+        </did>
+      </c>
+      <c id="aspace_0d87218b75a6325c80ec947737ba346c" level="file">
+        <did>
+          <unittitle>Letters and writings</unittitle>
+          <unitdate>1987, undated</unitdate>
+          <container altrender="Record carton" id="aspace_92212918f54af5dfdd2c56a808d9cff3" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_23893cb7a64e8abb036152ce7f8b4771" parent="aspace_92212918f54af5dfdd2c56a808d9cff3" type="folder">44</container>
+        </did>
+      </c>
+      <c id="aspace_3ca3d8432ad5f1499b2a59a3874f2ff0" level="file">
+        <did>
+          <unittitle>Notebook containing personal thoughts and feelings</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_87cad47bbc6306719b8f6d1d83a62913" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_65a55c261a53965ad0bc95212b2508dc" parent="aspace_87cad47bbc6306719b8f6d1d83a62913" type="folder">45</container>
+        </did>
+      </c>
+      <c id="aspace_37afce78e4b0fba8e3c70e89e3223339" level="file">
+        <did>
+          <unittitle>"The Icecream Cometh" playbill and Kitting Factory event flyer</unittitle>
+          <unitdate normal="1985/1985">1985</unitdate>
+          <container altrender="Record carton" id="aspace_6737ed2e96db8acb5cbccbdcbd58ab6b" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_9da749f614eac3293c1dbafa9d1c9b1f" parent="aspace_6737ed2e96db8acb5cbccbdcbd58ab6b" type="folder">46</container>
+        </did>
+      </c>
+      <c id="aspace_0c473db4749c005ff9fcaedf394000c3" level="file">
+        <did>
+          <unittitle>Letters and writings</unittitle>
+          <unitdate normal="1987/1987">1987, undated</unitdate>
+          <container altrender="Record carton" id="aspace_5ed05c52eb5c3597be3bee2796bc7867" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_2023cd544be2666b1829ecd166cdedda" parent="aspace_5ed05c52eb5c3597be3bee2796bc7867" type="folder">47</container>
+        </did>
+      </c>
+      <c id="aspace_b9daf4a1a1958cf2c3514504de5608c2" level="file">
+        <did>
+          <unittitle>Arab Post, published in NYC</unittitle>
+          <unitdate normal="1985/1985">1985</unitdate>
+          <container altrender="Record carton" id="aspace_3275ec632b6017c00af0cac64092d4ab" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_ddb79ec658a7656082efc0eb55162656" parent="aspace_3275ec632b6017c00af0cac64092d4ab" type="folder">48</container>
+        </did>
+      </c>
+      <c id="aspace_c60cd8a8eedd6de204c3808720e1bd26" level="file">
+        <did>
+          <unittitle>Sailors [letters and annotated writings]</unittitle>
+          <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
+          <container altrender="Record carton" id="aspace_e6ced73b475e16224f2f55b873fdc188" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_2647118a254568fa6341908cf565d600" parent="aspace_e6ced73b475e16224f2f55b873fdc188" type="folder">49</container>
+        </did>
+      </c>
+      <c id="aspace_db894ba95314c5d6fa6bbd876a6229f4" level="file">
+        <did>
+          <unittitle>Writings</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_f7dd446b93bab5375b110e60d9fde54d" label="Mixed Materials [31142063605557]" type="box">1</container>
+          <container id="aspace_a3e40818e5b3d578ede30dae15fff67c" parent="aspace_f7dd446b93bab5375b110e60d9fde54d" type="folder">50-51</container>
+        </did>
+      </c>
+      <c id="aspace_9287f8732a002a0b18838f15444722ba" level="file">
+        <did>
+          <unittitle>Legal pad with writing about John and luggage tag</unittitle>
+          <unitdate normal="1986/1986">1986</unitdate>
+          <container altrender="Record carton" id="aspace_9f4e50345ded6a09220b39fed8ee2beb" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_91c872a43f4d703f168a9c0033f0c876" parent="aspace_9f4e50345ded6a09220b39fed8ee2beb" type="folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_59d668c4b9eac3d03edd49660a2d77d9" level="file">
+        <did>
+          <unittitle>Correspondence with Teofilo R. Ruiz and a letter to John and Sue</unittitle>
+          <unitdate normal="1986/1987" type="inclusive">1986-1987, undated</unitdate>
+          <container altrender="Record carton" id="aspace_7f14d1f2f8062fac50d5e9956470a2b6" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_0303feed940457039c6e657fbb665297" parent="aspace_7f14d1f2f8062fac50d5e9956470a2b6" type="folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_46f7168e1b68faa7c0dd9ce9a2b919b1" level="file">
+        <did>
+          <unittitle>Letters to Sidney Smith</unittitle>
+          <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
+          <container altrender="Record carton" id="aspace_886c60976f205c5c893099f864af078f" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_9a718db0c5132ae4c80e7fbe87b8110e" parent="aspace_886c60976f205c5c893099f864af078f" type="folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_0f6475d110b636861ac94f57191e5b2d" level="file">
+        <did>
+          <unittitle>Letters to Margot, Michael Yawney, Rosa Ruiz, Wes, Dr. Lloyd DeMause; writing fragments</unittitle>
+          <unitdate normal="1989/1989">1989, undated</unitdate>
+          <container altrender="Record carton" id="aspace_5df19da24ed4092d543e3707a5718595" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_da5de1fc4811b6b518b8af4a9ce1be1d" parent="aspace_5df19da24ed4092d543e3707a5718595" type="folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_33ce597e4dedb5f683a2c8504c698cca" level="file">
+        <did>
+          <unittitle>Critics/pedagogy</unittitle>
+          <unitdate normal="1995/1995">1995</unitdate>
+          <container altrender="Record carton" id="aspace_473749953f3d97512b269f40e2e5ddd9" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_a7ba84a8b1dee085847eef4544cf430b" parent="aspace_473749953f3d97512b269f40e2e5ddd9" type="folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ce6a5bec2699f2aec92ea70302262170" level="file">
+        <did>
+          <unittitle>Recent U.S. History</unittitle>
+          <unitdate normal="1990/1996" type="inclusive">1990-1996</unitdate>
+          <container altrender="Record carton" id="aspace_1128ad988dc94275adfa805f0b794749" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_d08ca6703e65cc17cff485e223d81b32" parent="aspace_1128ad988dc94275adfa805f0b794749" type="folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_fe1c99fe7a92d7c57e9242386bf231b5" level="file">
+        <did>
+          <unittitle>NYC Tarot cards, photo of woman with stuffed panda, clipping</unittitle>
+          <unitdate normal="1944/1944">undated</unitdate>
+          <container altrender="Record carton" id="aspace_bc0702f12426cf6954a00b21ae1f1a7f" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_23a2d50dc82077bb02d13656ca3d8ef6" parent="aspace_bc0702f12426cf6954a00b21ae1f1a7f" type="folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_5f3890ce495c1bb992f188080eae6b0f" level="file">
+        <did>
+          <unittitle>Utility bills</unittitle>
+          <unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate>
+          <container altrender="Record carton" id="aspace_62f0ecd70a7a0b607d0a28093433430d" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_68d5c568f0e5381c6fe02d0e209ba184" parent="aspace_62f0ecd70a7a0b607d0a28093433430d" type="folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_10de1de16ac53805617c811fddb633dd" level="file">
+        <did>
+          <unittitle>Letters, report cards, sketches, photograph of a woman on a bench</unittitle>
+          <unitdate normal="1964/1967" type="inclusive">1964-1967</unitdate>
+          <container altrender="Record carton" id="aspace_f4f64610f0afb08548543a6605c7e787" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_e2588a225a0ede18c1980b4d7673fc17" parent="aspace_f4f64610f0afb08548543a6605c7e787" type="folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_7be9e9685cfe9f47a62d07eff7909be1" level="file">
+        <did>
+          <unittitle>Empty buffalo nickel case</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_1337ad37aefca0e7f7f21ccc59eb5148" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_f7e1f80afbc90eeb4b404676d02bb332" parent="aspace_1337ad37aefca0e7f7f21ccc59eb5148" type="folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_d042b5fb64de0b73800d35bb89371ff1" level="file">
+        <did>
+          <unittitle>Handwritten letters</unittitle>
+          <unitdate normal="2001/2001">2001, undated</unitdate>
+          <container altrender="Record carton" id="aspace_aa75a7ccbfd95af38e1c67da9e134c06" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_0d89062af54f8d6c3a335d14b6c4d541" parent="aspace_aa75a7ccbfd95af38e1c67da9e134c06" type="folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_1f8cabe66d947f80da6629621e7fbccc" level="file">
+        <did>
+          <unittitle>Notebook with handwritten letters</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_8a6387c2d7b4f7dbd7be7312ff5c60ce" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_04ee5c13ecec43df536ba60e5051688f" parent="aspace_8a6387c2d7b4f7dbd7be7312ff5c60ce" type="folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_99ddc587e6a55f5958ae51ea163e3341" level="file">
+        <did>
+          <unittitle>Writings, notes, study of values test booklet, letters, employment info</unittitle>
+          <unitdate normal="1991/1991">1991, undated</unitdate>
+          <container altrender="Record carton" id="aspace_e9f0650c33edb2fcbfcc985033574596" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_6cc2bc0bf3aa6814771ecfd3c5f24bd6" parent="aspace_e9f0650c33edb2fcbfcc985033574596" type="folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_1d52f472f447909b1aeff9da3eeebb4a" level="file">
+        <did>
+          <unittitle>Clippings</unittitle>
+          <unitdate normal="1991/1991">1991</unitdate>
+          <container altrender="Record carton" id="aspace_7d6c84feaf1116c9b3445130ccc72b60" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_23540e1a80c613ab2dd796350fc4a403" parent="aspace_7d6c84feaf1116c9b3445130ccc72b60" type="folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_370c6c9a3213af8fed13264962b5a11b" level="file">
+        <did>
+          <unittitle>Letters, writings, and notes</unittitle>
+          <unitdate normal="1990/1990">1990, undated</unitdate>
+          <container altrender="Record carton" id="aspace_6b77134eea871296b0a7827eabeaacb7" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_03f64072c57d27ff672fc5f513a117cc" parent="aspace_6b77134eea871296b0a7827eabeaacb7" type="folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_941023355799c7eed989315d2f3e2d26" level="file">
+        <did>
+          <unittitle>Annotated folder with letters, notes, resumes, clippings</unittitle>
+          <unitdate normal="1991/1991">1991</unitdate>
+          <container altrender="Record carton" id="aspace_378c5edb60cbf2968c82d181400f0e71" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_bdbf248cb114e55267a2f9dd88696d09" parent="aspace_378c5edb60cbf2968c82d181400f0e71" type="folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_18d6273abe77034af150a62e54c64c8a" level="file">
+        <did>
+          <unittitle>Letters, writings, annotated folder, the Writer's Center mailing</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_63223f6b53bdd5c58c3e53f17684a8e3" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_54ce80ded111c651909e0e97a9e5e0f2" parent="aspace_63223f6b53bdd5c58c3e53f17684a8e3" type="folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_e448c075d3c68e1989abaac74c6381b1" level="file">
+        <did>
+          <unittitle>Austin John Marshall book review and interview draft</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_466c36feafa44b37069590c124bb0c84" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_66acab04a62b8e0a4bcf505d23479c03" parent="aspace_466c36feafa44b37069590c124bb0c84" type="folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_d620c29bcb3c621561f5ceece048be99" level="file">
+        <did>
+          <unittitle>Letters to Laura Flanders, Mary Ellen Keane, Buddy, and a Persona time card</unittitle>
+          <unitdate>1991, undated</unitdate>
+          <container altrender="Record carton" id="aspace_2289160a081fd30841533b9e6cfd54db" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_d9a278838bf98ac5e4e39db19495451e" parent="aspace_2289160a081fd30841533b9e6cfd54db" type="folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_3c3ce4a3cfb52e2c7af78239d66ff58d" level="file">
+        <did>
+          <unittitle>Patricia Dix resume and birth certificate; Robert Dix naturalization and birth certificates; Robert and Joan Dix marriage licence and certificate</unittitle>
+          <unitdate normal="1949/1989" type="inclusive">1949-1989</unitdate>
+          <container altrender="Record carton" id="aspace_5719537167222a90b3202be703f2686f" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_8151c13d14cb54c19710bdb2167b5c79" parent="aspace_5719537167222a90b3202be703f2686f" type="folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_dffdebd71f9b5534b739368d48298247" level="file">
+        <did>
+          <unittitle>Writings, mail, flyers, notes, sketches</unittitle>
+          <unitdate normal="1983/1990" type="inclusive">1983-1990</unitdate>
+          <container altrender="Record carton" id="aspace_4d289f58bb3408d598445c5653183744" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_9943555021ee565eff869736e8d948cb" parent="aspace_4d289f58bb3408d598445c5653183744" type="folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_366b955db58dec4d7439475f6059889c" level="file">
+        <did>
+          <unittitle>Writings, notes, flyers, utility bills, notice of Marshal's Legal Possession of property</unittitle>
+          <unitdate normal="1987/1991" type="inclusive">1987-1991</unitdate>
+          <container altrender="Record carton" id="aspace_4c5e9e2cc989e2d4d007daa05e67971a" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_639f251ab7789b54d118ea6422bd0ad6" parent="aspace_4c5e9e2cc989e2d4d007daa05e67971a" type="folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_0434ff8dd9e51ed5d1f21a0006c2b652" level="file">
+        <did>
+          <unittitle>Letters to John and Sue, Wes, Betsy, Robert</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_6d84825ba468be080078d97973cbfc49" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_b007572de68dd9a236e8751b2591037c" parent="aspace_6d84825ba468be080078d97973cbfc49" type="folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_4ec13a7d0483926f8bc2d091f3902e23" level="file">
+        <did>
+          <unittitle>Letters: Teo, others (personal)</unittitle>
+          <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+          <container altrender="Record carton" id="aspace_c2c77a8a750332ae75d043b3279036e8" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_4c053f05b47808a0bc40238fe28ea9bd" parent="aspace_c2c77a8a750332ae75d043b3279036e8" type="folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_c53f706434609628cee677fef9a395d4" level="file">
+        <did>
+          <unittitle>Teo, pre-1987</unittitle>
+          <unitdate normal="1964/1986" type="inclusive">1964-1986</unitdate>
+          <container altrender="Record carton" id="aspace_e9ac5a282c0039469fe666ddaeda9e6a" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_9117377a7d567c6b194e0e3b98018db1" parent="aspace_e9ac5a282c0039469fe666ddaeda9e6a" type="folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_61627c81c8c29eaeeb27fb4b49fabcc3" level="file">
+        <did>
+          <unittitle>Sketches and writings</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_a28c9f5de63a718d626af3483f180c21" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_782651afc5bd041ee8f4f5f2715545de" parent="aspace_a28c9f5de63a718d626af3483f180c21" type="folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_991891f87a7bf810b7cb66f84b0aa7b9" level="file">
+        <did>
+          <unittitle>Notebooks and writings</unittitle>
+          <unitdate normal="1999/2001" type="inclusive">1999-2001</unitdate>
+          <container altrender="Record carton" id="aspace_9795c19a13998a9253b849718b4c90bd" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_33155635a127a1dbfbbf8a95d602b4db" parent="aspace_9795c19a13998a9253b849718b4c90bd" type="folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_35cb6604ba8151f101f8c156df35decb" level="file">
+        <did>
+          <unittitle>Writings, sketches, and letters to Mr. Vidal, Mr. Lopate, Damien, Dorothy, Teo</unittitle>
+          <unitdate normal="1987/1998" type="inclusive">1987-1998</unitdate>
+          <container altrender="Record carton" id="aspace_7ebae2c188ad1379714b98f0bce76cfa" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_4e30fbeaa298e0d28c01a8cc08a6ddc6" parent="aspace_7ebae2c188ad1379714b98f0bce76cfa" type="folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_3574aa83a5d08e0e43ae33047d18dc89" level="file">
+        <did>
+          <unittitle>Legal pad with notes</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_93372839c37f5b3a3a2452ed9b93fb0a" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_a5ada2dad0ebd58418c0f5a2ea70f6b7" parent="aspace_93372839c37f5b3a3a2452ed9b93fb0a" type="folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_50beec815fb2bd3df0ec79245ba425db" level="file">
+        <did>
+          <unittitle>Exploitation 1 [letters to Ted and Rob]</unittitle>
+          <unitdate normal="1995/1995">1995</unitdate>
+          <container altrender="Record carton" id="aspace_734863d72006ec973580e181449d21ce" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_663ea39e6beaa1196619404f7223ce67" parent="aspace_734863d72006ec973580e181449d21ce" type="folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_54d8f301d820ea1c4616b6c98cc6f987" level="file">
+        <did>
+          <unittitle>Misc. Letters [to Teo, Mr. Cockburn, Mr. Vidal, Mr. Veder]</unittitle>
+          <unitdate normal="1993/1995" type="inclusive">1993-1995</unitdate>
+          <container altrender="Record carton" id="aspace_63c088b6c830c054e2c9424a663add75" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_894c949a31bea379e358d2c9173f21ec" parent="aspace_63c088b6c830c054e2c9424a663add75" type="folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_62759e9ff2ba2397e66e9b0af085bb84" level="file">
+        <did>
+          <unittitle>Misc. Letters #1 [to Teo]</unittitle>
+          <unitdate normal="1996/1996">1996</unitdate>
+          <container altrender="Record carton" id="aspace_7e8996c2d5ca7d325ba7628ffa9b88b7" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_48668382c450ca35996124d1e336d2d2" parent="aspace_7e8996c2d5ca7d325ba7628ffa9b88b7" type="folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_87b385ad9620734265ee97dca0a11d8c" level="file">
+        <did>
+          <unittitle>Misc. essay topics #2 [letters to Patrick, Teo, Mr. Hitchens]</unittitle>
+          <unitdate normal="1995/1996" type="inclusive">1995-1996</unitdate>
+          <container altrender="Record carton" id="aspace_99c50bedcc105e12b8c5b437782bdb9d" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_fede58acfdba34c43ae862b5097b6c9c" parent="aspace_99c50bedcc105e12b8c5b437782bdb9d" type="folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_b4e4437694e788db855c6762c5c9f776" level="file">
+        <did>
+          <unittitle>Reviews misc. [letter to John and Sue]</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_cc6a4d960076ab4e32b2ab8a0d38a89e" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_5d6862aa2fca99be8506785938e64965" parent="aspace_cc6a4d960076ab4e32b2ab8a0d38a89e" type="folder">34</container>
+        </did>
+      </c>
+      <c id="aspace_ace7e831c6c119622b53b3112d1c1d1c" level="file">
+        <did>
+          <unittitle>Hello You [letters to Mr. Danes and Ray, notes, writings]</unittitle>
+          <unitdate normal="1996/1996">1996, undated</unitdate>
+          <container altrender="Record carton" id="aspace_b08af208e6236c201c05b5920208b296" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_66985c0c74379263880ec2eedceb3039" parent="aspace_b08af208e6236c201c05b5920208b296" type="folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_6836d69b202e98c9f336b7c380fc8c89" level="file">
+        <did>
+          <unittitle>G. Vidal; leftist novelist correspondence</unittitle>
+          <unitdate normal="1996/1996">1996</unitdate>
+          <container altrender="Record carton" id="aspace_be6e1985230f451d9c6abcdb65095cf7" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_44ed2efe38eca78c8e3598b3770d56b3" parent="aspace_be6e1985230f451d9c6abcdb65095cf7" type="folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_d297073b5907214c9070f9e1118cceb0" level="file">
+        <did>
+          <unittitle>Exploitation 2 [letters to Teo, Sue and John, Aunt Pauline, Barbara]</unittitle>
+          <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+          <container altrender="Record carton" id="aspace_06b3d256afc12737f53bb204a678a5d3" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_90a013d38510f1a1516ff0123be7740e" parent="aspace_06b3d256afc12737f53bb204a678a5d3" type="folder">37</container>
+        </did>
+      </c>
+      <c id="aspace_98448aa8b82b61ce04fcfa0ea5884df3" level="file">
+        <did>
+          <unittitle>Danny Boy [letters to Pierce Teo, Giani]</unittitle>
+          <unitdate normal="1996/1996">1996</unitdate>
+          <container altrender="Record carton" id="aspace_6ad3f0138eb0b9172f0b982135b00806" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_c0ed3f4f6ab770b30a417692459215d5" parent="aspace_6ad3f0138eb0b9172f0b982135b00806" type="folder">38</container>
+        </did>
+      </c>
+      <c id="aspace_63d5b490f227e5d468e96dc329f0ab39" level="file">
+        <did>
+          <unittitle>Betty Boop</unittitle>
+          <unitdate normal="1987/1987">1987</unitdate>
+          <container altrender="Record carton" id="aspace_ee1474e35a9b4dcd6c2e60fad9449abd" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_b2a35938e09105af3a75ab0467c83983" parent="aspace_ee1474e35a9b4dcd6c2e60fad9449abd" type="folder">39</container>
+        </did>
+      </c>
+      <c id="aspace_e36f6e056123380c5e691ffc5c0d7b36" level="file">
+        <did>
+          <unittitle>Terrorism (public service announcements)</unittitle>
+          <unitdate normal="1985/1988" type="inclusive">1985-1988, undated</unitdate>
+          <container altrender="Record carton" id="aspace_6b2d61f7eae95e400be81f226a908c6a" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_2d38e3d07f94495961151385fde5818a" parent="aspace_6b2d61f7eae95e400be81f226a908c6a" type="folder">40</container>
+        </did>
+      </c>
+      <c id="aspace_b98782143bac69469d13f0904f1c9752" level="file">
+        <did>
+          <unittitle>REI [notebook with writings in French]</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_88b5142ede962cba1df989bb8f6aece0" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_55882d95b250efd660bb9bbe992b56f0" parent="aspace_88b5142ede962cba1df989bb8f6aece0" type="folder">41</container>
+        </did>
+      </c>
+      <c id="aspace_8f6bc741e4863528aee428ea914bae50" level="file">
+        <did>
+          <unittitle>Correspondence, clippings, writings, notes</unittitle>
+          <unitdate normal="1970/1997" type="inclusive">1970-1997, undated</unitdate>
+          <container altrender="Record carton" id="aspace_38a05f04ee4e8245a9883091262c5d04" label="Mixed Materials [31142063605565]" type="box">2</container>
+          <container id="aspace_865c4ca19678d07a5f066a6b35b5a880" parent="aspace_38a05f04ee4e8245a9883091262c5d04" type="folder">42</container>
+          <container altrender="Record carton" id="aspace_5d56d787a1e2358e3edce754da005240" label="Mixed Materials [31142063605573]" type="box">3</container>
+          <container id="aspace_8773279d708021c9a16b733dda142d5c" parent="aspace_5d56d787a1e2358e3edce754da005240" type="folder">1-3</container>
+        </did>
+      </c>
+      <c id="aspace_3124786bb0fd5a958a05ba543d6f8e69" level="file">
+        <did>
+          <unittitle>Letters to Matthew, Monica, Dorothy, Rosemary, Teo</unittitle>
+          <unitdate normal="1998/1998">1998</unitdate>
+          <container altrender="Record carton" id="aspace_eed9e0ba4f33c87b66bf954bf239f9f1" label="Mixed Materials [31142063605573]" type="box">3</container>
+          <container id="aspace_99e0ac52f5eb4b1212e3e52c1a082f65" parent="aspace_eed9e0ba4f33c87b66bf954bf239f9f1" type="folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_db50103233a240a05ae7ca9aa07ac3b7" level="file">
+        <did>
+          <unittitle>Kafka [from accordion file in box 3, folder 11]</unittitle>
+          <unitdate normal="1987/1987">1987</unitdate>
+          <container altrender="Record carton" id="aspace_dbedf9cf2d9055af21ebbb04859841e5" label="Mixed Materials [31142063605573]" type="box">3</container>
+          <container id="aspace_bda6f0704abf67b4dd92b04b9c4249f0" parent="aspace_dbedf9cf2d9055af21ebbb04859841e5" type="folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_195437269887fc8d8d502fc52b8b6d7a" level="file">
+        <did>
+          <unittitle>TV Obsession [from accordion file in box 3 folder 11]</unittitle>
+          <unitdate normal="1987/1989" type="inclusive">1987-1989</unitdate>
+          <container altrender="Record carton" id="aspace_76ee8f73a771423eeab54c0eaf8ee287" label="Mixed Materials [31142063605573]" type="box">3</container>
+          <container id="aspace_0fd54012674372ffb1abf8910bfa854f" parent="aspace_76ee8f73a771423eeab54c0eaf8ee287" type="folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_34a1caf886fabd9a5d53ba4c95bbc312" level="file">
+        <did>
+          <unittitle>Misc. Literary corresp. [from accordion file in box 3 folder 11]</unittitle>
+          <unitdate normal="1986/1990" type="inclusive">1986-1990</unitdate>
+          <container altrender="Record carton" id="aspace_ded721aa418ca6ccd8868f8bf2afd1c5" label="Mixed Materials [31142063605573]" type="box">3</container>
+          <container id="aspace_e1a8362744b1611104f9fb5049794d90" parent="aspace_ded721aa418ca6ccd8868f8bf2afd1c5" type="folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_b0229d68e355eb2bfe553785ce0f1c58" level="file">
+        <did>
+          <unittitle>Wisker [from accordion file in box e folder 11]</unittitle>
+          <unitdate normal="1989/1989">1989</unitdate>
+          <container altrender="Record carton" id="aspace_57e6a2e15e6dcc25c257a4fa423757a0" label="Mixed Materials [31142063605573]" type="box">3</container>
+          <container id="aspace_2f6ecb78d2a91f5057ea1c8a00a97d3e" parent="aspace_57e6a2e15e6dcc25c257a4fa423757a0" type="folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_0a59758ccd682be9345a17ef8106058a" level="file">
+        <did>
+          <unittitle>Who or what is Edward Meese [from accordion file in box 3 folder 11]</unittitle>
+          <unitdate normal="1986/1986">1986</unitdate>
+          <container altrender="Record carton" id="aspace_c8d0a3e782bef107f998bcadf6b6e509" label="Mixed Materials [31142063605573]" type="box">3</container>
+          <container id="aspace_b527f3a47fe40b04b4faab01878c5252" parent="aspace_c8d0a3e782bef107f998bcadf6b6e509" type="folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_467ef792ccaf1e6f6f7a3a95df9265fb" level="file">
+        <did>
+          <unittitle>Brian [from accordion file in box 3 folder 11]</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_67c7432bfad0a709f221bcb10500394d" label="Mixed Materials [31142063605573]" type="box">3</container>
+          <container id="aspace_d832390c220de5ec081aa29f469b9851" parent="aspace_67c7432bfad0a709f221bcb10500394d" type="folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_afc04a9f4ee1abfb5de0fd9e2a8652ee" level="file">
+        <did>
+          <unittitle>Accordion file with subject headings</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Record carton" id="aspace_e8b302c467b5a7d7d10fb7e31417d796" label="Mixed Materials [31142063605573]" type="box">3</container>
+          <container id="aspace_44a433c0037e78ef5db51121462db36a" parent="aspace_e8b302c467b5a7d7d10fb7e31417d796" type="folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_29b158fbff6a9be32365c7f98a863fc9" level="file">
+        <did>
+          <unittitle>Letters re physical health</unittitle>
+          <unitdate normal="2001/2001">2001</unitdate>
+          <container altrender="Record carton" id="aspace_853c821a93433276c4add62d7c67311c" label="Mixed Materials [31142063605573]" type="box">3</container>
+          <container id="aspace_f3e25861cf99fe3cef5e515ca7515f6a" parent="aspace_853c821a93433276c4add62d7c67311c" type="folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_b93e0dc9e835150ce5167e03344163fd" level="file">
+        <did>
+          <unittitle>Letters re physical health and the psychiatric profession</unittitle>
+          <unitdate normal="2001/2001">2001</unitdate>
+          <container altrender="Record carton" id="aspace_0d39ca3d2186ed84451798d1928003a9" label="Mixed Materials [31142063605573]" type="box">3</container>
+          <container id="aspace_686de0eb0f3d5346ebb20c0c903a391e" parent="aspace_0d39ca3d2186ed84451798d1928003a9" type="folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_a396dee4ac025078c621e8b7cd9b7a97" level="file">
+        <did>
+          <unittitle>Letters of grievance</unittitle>
+          <unitdate normal="2001/2001">2001</unitdate>
+          <container altrender="Record carton" id="aspace_51944c66fa3e649695b2fa7fab38b457" label="Mixed Materials [31142063605573]" type="box">3</container>
+          <container id="aspace_99776fc2ce562865b969599267bc188e" parent="aspace_51944c66fa3e649695b2fa7fab38b457" type="folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_23ed0a701861ff587be3e58055ab81e8" level="file">
+        <did>
+          <unittitle>Letters to friends and medical professionals</unittitle>
+          <unitdate normal="2001/2001">2001</unitdate>
+          <container altrender="Record carton" id="aspace_cfae8e96cbd1dc687324e3ae0be9e599" label="Mixed Materials [31142063605573]" type="box">3</container>
+          <container id="aspace_3a6da648d84040a8cacb6991ab9098e2" parent="aspace_cfae8e96cbd1dc687324e3ae0be9e599" type="folder">15-16</container>
+        </did>
+      </c>
+      <c id="aspace_e5d9fd312afa9bf4bb544af25b09fb03" level="file">
+        <did>
+          <unittitle>Letters, writing fragments, sketch pad</unittitle>
+          <unitdate normal="1993/1993">1993</unitdate>
+          <container altrender="Record carton" id="aspace_cc21e7f6dc4a9b31788889ae1d86b561" label="Mixed Materials [31142063605573]" type="box">3</container>
+          <container id="aspace_8ce15f27499a0fc99844d40bae168395" parent="aspace_cc21e7f6dc4a9b31788889ae1d86b561" type="folder">17</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

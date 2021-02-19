@@ -1,64 +1,481 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_073">mss_073</eadid><filedesc><titlestmt><titleproper>Guide to the Milton R. Rackmil Memorabilia Collection <num>MSS.073</num></titleproper><author>Jennifer E. Neal</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>August 2018</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:15:34 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Fales Library and Special Collections</corpname>
-    </repository>
-    <unittitle>Milton R. Rackmil Memorabilia Collection</unittitle>
-    <origination label="Creator">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_073">mss_073</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Milton R. Rackmil Memorabilia Collection <num>MSS.073</num></titleproper>
+        <author>Jennifer E. Neal</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>August 2018</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:15:34 -0500</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Milton R. Rackmil Memorabilia Collection</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Rackmil, Milton R., 1906-1992</persname>
+      </origination>
+      <unitid>MSS.073</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5 Linear Feet</extent>
+        <extent altrender="carrier">in 2 manuscript boxes, 3 half manuscript boxes, and 7 flat boxes</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5 sound discs (vinyl)</extent>
+      </physdesc>
+      <unitdate normal="1938/1990" type="inclusive">1938-1990</unitdate>
+      <unitdate normal="1953/1972" type="bulk">1953-1972</unitdate>
+      <abstract id="aspace_e1a103863c67c5663e8f2da8bb83b8d6">Milton R. Rackmil (1906-1992) was a native New Yorker and a New York University graduate. In 1934, Rackmil founded Decca Records with Jack Kapp and Edward Lewis, and became president in 1949. Decca Records became the largest shareholder in the Universal Pictures Company in 1951, and in 1952 Rackmil took over as president. MCA bought Decca and Universal in 1962 and Rackmil became vice chairman of MCA's board. He remained head of MCA's film and record companies until his retirement in 1972. This collection documents Rackmil's career in the music and motion picture industries. Materials include scrapbooks, photographs, clippings, plaques, publicity, certificates, speeches, annual reports, correspondence, ephemera, and five vinyl records dating from 1938 to 1990. The bulk of the collection focuses on memorabilia from Rackmil's time at Decca Records and Universal Pictures from 1938-1972.</abstract>
+      <physloc id="aspace_ffe3d352153d494a127e85640b702aae">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_74554b761368c61d183cb4c6c6eca5ba">Materials are primarily in English</langmaterial>
+    </did>
+    <accessrestrict id="aspace_5d426e189080ccd61fe83e8cf9bd52e4">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_5a41c243a7dca8b47714f077ad7ba925">
+      <head>Immediate Source of Acquisition</head>
+      <p>Materials found in collection; provenance is unknown. The accession number associated with this collection is 1994.073.</p>
+    </acqinfo>
+    <appraisal id="aspace_465d42c729c9afa6988c8e974a2a1342">
+      <head>Appraisal</head>
+      <p>One piece of rolled ephemera was reviewed by the curator for deaccession. The ephemera consisted of a muscial score in which the song lyrics were written about Rackmil. The ephemera was laminated and rolled, and has significantly deteriorated over time. The item was deaccessioned due to the deterioration and low historic value.</p>
+    </appraisal>
+    <arrangement id="aspace_c26cfaa988f4ea9fdbc394b65b409cdf">
+      <head>Arrangement</head>
+      <p>Materials are arranged in the order in which they were recieved from the donor.</p>
+    </arrangement>
+    <bioghist id="aspace_8b77f8e034375c153bd1d9059c0750ad">
+      <head>Biographical Note</head>
+      <p>Milton R. Rackmil (1906-1992) was born in the Lower East Side of New York City. He grew up in Brooklyn and graduated from NYU with a degree in accounting. In 1934, Rackmil founded Decca Records with Jack Kapp and Edward Lewis, and became president in 1949. Decca Records became the largest shareholder in the Universal Pictures Company in 1951, and in 1952 Rackmil took over as president. MCA bought Decca and Universal in 1962 and Rackmil became vice chairman of MCA's board. He remained head of MCA's film and record companies until his retirement in 1972.</p>
+    </bioghist>
+    <phystech id="aspace_39d3b73256e955ed597dc997d91acfaa">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact fales.library@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <prefercite id="aspace_3b55b09a56a6ee2e8cd8b2c50aa64052">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Milton R. Rackmil Memorabilia Collection; MSS 073; box number; folder number; Fales Library and Special Collections, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_44138e9ff3ac4cfdcf493c11f5d16c16">
+      <head>Processing Information</head>
+      <p>Materials were placed in new, acid-free folders; original order was maintained. Scrapbooks were placed in flat boxes and secured with tissue. Objects were wrapped in foam and housed in a half manuscript box.</p>
+    </processinfo>
+    <scopecontent id="aspace_853bc929ab7a72537f030c0a59ad79de">
+      <head>Scope and Contents</head>
+      <p>This collection documents Milton R. Rackmil's career in the music and motion picture industries from 1938 up to his retirement in 1972. Materials include scrapbooks documenting a 1953 European sales convention, trips around the world that Rackmil took with colleagues from Universal Pictures in 1953, the 1962 Motion Picture Pioneer of the Year Annual Dinner honoring Rackmil; and the 1965 New York Variety Club Celebrity Ball. Other memorabilia include photographs related to travel and banquets that include photos with colleagues and celebrities, including Sammy Davis Jr.; clippings, awards plaques, and publicity related to Rackmil's career in the music and motion picture industries, including Decca Records' 20th, 25th, and 30th anniversaries; certificates from various airlines for good fortune while traveling; and speeches Rackmil gave to the New York Stock Exchange in 1960 and at the 1962 Motion Picture Pioneer of the Year Annual Dinner where he accepted the Pioneer of the Year Award. This collection also includes a 1959 annual report for Decca Records; stock market reports for Decca Records; an invitation to meet the President of the United States over cocktails and dinner for the White House News Photographers' Association Dinner; a lifetime pass to the Country Music Hall of Fame and Museum; five audio recordings on vinyl records of banquets and various artists; and draft reports, correspondence, and a press release related to the 1952 acquisition of Decca Records by Universal Pictures and the 1990 acquisition of MCA by Matsushita Electrical Industrial Co.</p>
+    </scopecontent>
+    <userestrict id="aspace_f2df3eda98fe2d96ec7db14169f44a2d">
+      <head>Conditions Governing Use</head>
+      <p>Fales Library and Special Collections has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1938-1990, are expected to enter the public domain in 2110.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Music industry</subject>
+      <subject source="lcsh">Motion picture industry</subject>
       <persname rules="dacs" source="local">Rackmil, Milton R., 1906-1992</persname>
-    </origination>
-    <unitid>MSS.073</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">5 Linear Feet</extent>
-      <extent altrender="carrier">in 2 manuscript boxes, 3 half manuscript boxes, and 7 flat boxes</extent>
-    </physdesc>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">5 sound discs (vinyl)</extent>
-    </physdesc>
-    <unitdate normal="1938/1990" type="inclusive">1938-1990</unitdate>
-    <unitdate normal="1953/1972" type="bulk">1953-1972</unitdate>
-    <abstract id="aspace_e1a103863c67c5663e8f2da8bb83b8d6">Milton R. Rackmil (1906-1992) was a native New Yorker and a New York University graduate. In 1934, Rackmil founded Decca Records with Jack Kapp and Edward Lewis, and became president in 1949. Decca Records became the largest shareholder in the Universal Pictures Company in 1951, and in 1952 Rackmil took over as president. MCA bought Decca and Universal in 1962 and Rackmil became vice chairman of MCA's board. He remained head of MCA's film and record companies until his retirement in 1972. This collection documents Rackmil's career in the music and motion picture industries. Materials include scrapbooks, photographs, clippings, plaques, publicity, certificates, speeches, annual reports, correspondence, ephemera, and five vinyl records dating from 1938 to 1990. The bulk of the collection focuses on memorabilia from Rackmil's time at Decca Records and Universal Pictures from 1938-1972.</abstract>
-    <physloc id="aspace_ffe3d352153d494a127e85640b702aae">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-    <langmaterial id="aspace_74554b761368c61d183cb4c6c6eca5ba">Materials are primarily in English</langmaterial>
-  </did>
-  <accessrestrict id="aspace_5d426e189080ccd61fe83e8cf9bd52e4">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_5a41c243a7dca8b47714f077ad7ba925">
-    <head>Immediate Source of Acquisition</head>
-<p>Materials found in collection; provenance is unknown. The accession number associated with this collection is 1994.073.</p>  </acqinfo>
-  <appraisal id="aspace_465d42c729c9afa6988c8e974a2a1342">
-    <head>Appraisal</head>
-<p>One piece of rolled ephemera was reviewed by the curator for deaccession. The ephemera consisted of a muscial score in which the song lyrics were written about Rackmil. The ephemera was laminated and rolled, and has significantly deteriorated over time. The item was deaccessioned due to the deterioration and low historic value.</p>  </appraisal>
-  <arrangement id="aspace_c26cfaa988f4ea9fdbc394b65b409cdf">
-    <head>Arrangement</head>
-<p>Materials are arranged in the order in which they were recieved from the donor.</p>  </arrangement>
-  <bioghist id="aspace_8b77f8e034375c153bd1d9059c0750ad">
-    <head>Biographical Note</head>
-<p>Milton R. Rackmil (1906-1992) was born in the Lower East Side of New York City. He grew up in Brooklyn and graduated from NYU with a degree in accounting. In 1934, Rackmil founded Decca Records with Jack Kapp and Edward Lewis, and became president in 1949. Decca Records became the largest shareholder in the Universal Pictures Company in 1951, and in 1952 Rackmil took over as president. MCA bought Decca and Universal in 1962 and Rackmil became vice chairman of MCA's board. He remained head of MCA's film and record companies until his retirement in 1972.</p>  </bioghist>
-  <phystech id="aspace_39d3b73256e955ed597dc997d91acfaa">
-    <head>Audiovisual Access Policies and Procedures</head>
-<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact fales.library@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
-  <prefercite id="aspace_3b55b09a56a6ee2e8cd8b2c50aa64052">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Milton R. Rackmil Memorabilia Collection; MSS 073; box number; folder number; Fales Library and Special Collections, New York University.</p>  </prefercite>
-  <processinfo id="aspace_44138e9ff3ac4cfdcf493c11f5d16c16">
-    <head>Processing Information</head>
-<p>Materials were placed in new, acid-free folders; original order was maintained. Scrapbooks were placed in flat boxes and secured with tissue. Objects were wrapped in foam and housed in a half manuscript box.</p>  </processinfo>
-  <scopecontent id="aspace_853bc929ab7a72537f030c0a59ad79de">
-    <head>Scope and Contents</head>
-<p>This collection documents Milton R. Rackmil's career in the music and motion picture industries from 1938 up to his retirement in 1972. Materials include scrapbooks documenting a 1953 European sales convention, trips around the world that Rackmil took with colleagues from Universal Pictures in 1953, the 1962 Motion Picture Pioneer of the Year Annual Dinner honoring Rackmil; and the 1965 New York Variety Club Celebrity Ball. Other memorabilia include photographs related to travel and banquets that include photos with colleagues and celebrities, including Sammy Davis Jr.; clippings, awards plaques, and publicity related to Rackmil's career in the music and motion picture industries, including Decca Records' 20th, 25th, and 30th anniversaries; certificates from various airlines for good fortune while traveling; and speeches Rackmil gave to the New York Stock Exchange in 1960 and at the 1962 Motion Picture Pioneer of the Year Annual Dinner where he accepted the Pioneer of the Year Award. This collection also includes a 1959 annual report for Decca Records; stock market reports for Decca Records; an invitation to meet the President of the United States over cocktails and dinner for the White House News Photographers' Association Dinner; a lifetime pass to the Country Music Hall of Fame and Museum; five audio recordings on vinyl records of banquets and various artists; and draft reports, correspondence, and a press release related to the 1952 acquisition of Decca Records by Universal Pictures and the 1990 acquisition of MCA by Matsushita Electrical Industrial Co.</p>  </scopecontent>
-  <userestrict id="aspace_f2df3eda98fe2d96ec7db14169f44a2d">
-    <head>Conditions Governing Use</head>
-<p>Fales Library and Special Collections has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1938-1990, are expected to enter the public domain in 2110.</p>  </userestrict>
-  <controlaccess>
-    <subject source="lcsh">Music industry</subject>
-    <subject source="lcsh">Motion picture industry</subject>
-    <persname rules="dacs" source="local">Rackmil, Milton R., 1906-1992</persname>
-    <corpname source="naf">Decca Records (Firm)</corpname>
-    <corpname source="naf">Universal Pictures (Firm)</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_1455a5f9b48278eb8383b2c784b5a5cb" level="file"><did><unittitle>Vinyl record - Larry Evans and His Quartet </unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_505c6ad8ea649d906dd548224008f3fb" label="Audio [31142062772226]" type="box">Shared Fales 009</container><container id="aspace_9518ef62b015a0842a6eee613c875a52" parent="aspace_505c6ad8ea649d906dd548224008f3fb" type="folder">1</container></did></c><c id="aspace_c9c2fd69da1559716c4b656162409fe7" level="file"><did><unittitle>Vinyl record - Murray Arnold </unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_29d71c63c834d86aa14e4de76acdd6ee" label="Audio [31142062772226]" type="box">Shared Fales 009</container><container id="aspace_e7fee2cf38cdc6c07c2faead83abb5fa" parent="aspace_29d71c63c834d86aa14e4de76acdd6ee" type="folder">2</container></did></c><c id="aspace_9fbedaf57d606a5225d1706ed8064577" level="file"><did><unittitle>Vinyl record - London Banquet in honour of the United States and Canadian distributors for the Decca Record Company Limited </unittitle><unitdate normal="1964/1964">1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_e15b4453e13fb557e44d446b6a527c33" label="Audio [31142062772226]" type="box">Shared Fales 009</container><container id="aspace_3ad18c18420a600eef7f5e41fe2207de" parent="aspace_e15b4453e13fb557e44d446b6a527c33" type="folder">3</container></did></c><c id="aspace_ad3e8a7ea3afd6deabfae165177352fd" level="file"><did><unittitle>Vinyl record - Dinner given by Mr. and Mrs. Eric Gallo to celebrate the 25th anniversary of the entry of Mr. E.R. Lewis into the Gramophone Record Industry </unittitle><unitdate normal="1956/1956">1956</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_3e9630a8afb3c3ce5d6a4e3f898a88ef" label="Audio [31142062772226]" type="box">Shared Fales 009</container><container id="aspace_bc8e250d47c7e30ea908b1da604aeff7" parent="aspace_3e9630a8afb3c3ce5d6a4e3f898a88ef" type="folder">4-5</container></did></c><c id="aspace_a9f2ca269383435d1d569fc8795366b6" level="file"><did><unittitle>Photographs with colleagues</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_a4bd6e645cd4d748d895f36049a156dc" label="Mixed Materials [31142062772218]" type="box">1</container><container id="aspace_1055ef3d3b6dba494ef67425adcd3b68" parent="aspace_a4bd6e645cd4d748d895f36049a156dc" type="folder">1</container></did></c><c id="aspace_87f4913841e99aba2f907b3ae1b5f6cd" level="file"><did><unittitle>Speech given at the New York Stock Exchange</unittitle><unitdate normal="1960/1960">1960</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_c6f2dfda89d818c3414ef9146d80bd4c" label="Mixed Materials [31142062772218]" type="box">1</container><container id="aspace_79230a00ee3d679cd2cac6792540f2f4" parent="aspace_c6f2dfda89d818c3414ef9146d80bd4c" type="folder">2</container></did></c><c id="aspace_8910bda58a1902d122667285dd378c6f" level="file"><did><unittitle>Photographs re traveling and banquets</unittitle><unitdate normal="1955/1955">1955, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_1b4187e49a424840305905fc79a7aae6" label="Mixed Materials [31142062772218]" type="box">1</container><container id="aspace_fe128c0377a41b3d91e94e2b9214002a" parent="aspace_1b4187e49a424840305905fc79a7aae6" type="folder">3</container></did></c><c id="aspace_8298cfe7cee63e6e2f5bd50ff9624b73" level="file"><did><unittitle>Certificates from Japan Airlines and Qantas Empire Airlines</unittitle><unitdate normal="1959/1964" type="inclusive">1959-1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_cfb82dbcd8ac86aff2e0c349f5c6c33e" label="Mixed Materials [31142062772218]" type="box">1</container><container id="aspace_b7edadd4d8b3bf72610e749877f5250c" parent="aspace_cfb82dbcd8ac86aff2e0c349f5c6c33e" type="folder">4</container></did></c><c id="aspace_04738a9d7caacd27394644cb5316e0c4" level="file"><did><unittitle>MCA Merger with  Matsushita Electrical Industrial Co.</unittitle><unitdate normal="1990/1990">1990</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_370f2038209b830038974c637d0f8379" label="Mixed Materials [31142062772218]" type="box">1</container><container id="aspace_7ed709629a3ad33bd3221582b162a234" parent="aspace_370f2038209b830038974c637d0f8379" type="folder">5</container></did></c><c id="aspace_a002bf909eabf8651f92915dbf694578" level="file"><did><unittitle>Personal publicity re Rackmil's career</unittitle><unitdate normal="1957/1972" type="inclusive">1957-1972, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_34823560d452715d70dc949fe990a8af" label="Mixed Materials [31142062772218]" type="box">1</container><container id="aspace_f4d25df32d535a042fc69006c7e6cda6" parent="aspace_34823560d452715d70dc949fe990a8af" type="folder">6-8</container></did></c><c id="aspace_0fd720711b07757e6a5ca01459543b53" level="file"><did><unittitle>Photographs with Sammy Davis, Jr.</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_a207bfda33cfda67149abe6689c090ec" label="Mixed Materials [31142062772218]" type="box">1</container><container id="aspace_e5f5f8d1c69dc1569e8c794722149692" parent="aspace_a207bfda33cfda67149abe6689c090ec" type="folder">9</container></did></c><c id="aspace_1ad00236f09f9679ed5f9c4f9e760580" level="file"><did><unittitle>Clippings re Decca Records' 20th Anniversary</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_933af122f673f927c032431aae52c185" label="Mixed Materials [31142062772218]" type="box">1</container><container id="aspace_81b517769b66f8a6ac5b058419bc39aa" parent="aspace_933af122f673f927c032431aae52c185" type="folder">10</container></did></c><c id="aspace_995f2dea01eb04affc626c5d07103103" level="file"><did><unittitle>Clippings re Decca Records' 25th Anniversary</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_1acfdae84bfe73fe0ee6df8e540deee4" label="Mixed Materials [31142062772218]" type="box">1</container><container id="aspace_b2703f7da42f541ee5f12397c6c68bd0" parent="aspace_1acfdae84bfe73fe0ee6df8e540deee4" type="folder">11</container></did></c><c id="aspace_453b19277911ca9655fe4a53a595f0e4" level="file"><did><unittitle>30th Anniversary (permanent) Decca Records</unittitle><unitdate normal="1964/1964">1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_d3f9d4b09046f38abe66e07297fb9819" label="Mixed Materials [31142062772218]" type="box">1</container><container id="aspace_f54d50fff35ccfa9fa942944bd411e29" parent="aspace_d3f9d4b09046f38abe66e07297fb9819" type="folder">12</container></did></c><c id="aspace_bf1c5034e000038ae6fcd7016d135c0b" level="file"><did><unittitle>Decca Records annual report and invoice for a tin of caviar</unittitle><unitdate normal="1959/1969" type="inclusive">1959, 1969</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_8864b0dd452944fb88b10454b8e956f8" label="Mixed Materials [31142062772218]" type="box">1</container><container id="aspace_626ba1e1bc3461244174057885420d3b" parent="aspace_8864b0dd452944fb88b10454b8e956f8" type="folder">13</container></did></c><c id="aspace_fa493da8023cf0585e18785bd47d8b55" level="file"><did><unittitle>Correspondence re Decca Records</unittitle><unitdate normal="1954/1954">1954</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_c9853d0bea2f7e8a5bc940812def5d13" label="Mixed Materials [31142062772218]" type="box">1</container><container id="aspace_77c9daaa6311f5f1e9303e5f910c4160" parent="aspace_c9853d0bea2f7e8a5bc940812def5d13" type="folder">14</container></did></c><c id="aspace_fad58b88ebd5a6c1e89939cc9d49f84c" level="file"><did><unittitle>Ephemera and photographs re Rackmil's career and acheivements</unittitle><unitdate normal="1962/1964" type="inclusive">1962-1964, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_c27e28af13b4a37a4c1ccbb614ccb230" label="Mixed Materials [31142062772218]" type="box">1</container><container id="aspace_3b6edfbd2020d2045f208d983e45c9b3" parent="aspace_c27e28af13b4a37a4c1ccbb614ccb230" type="folder">15</container></did></c><c id="aspace_22591d157d674c6042bda083e6780f00" level="file"><did><unittitle>Certificate for a dinner given in honor of Milton R. Rackmil</unittitle><unitdate normal="1952/1952">1952</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_7c1061b8dd9904055066d221fb2771cb" label="Mixed Materials [31142062772218]" type="box">1</container><container id="aspace_a6a905e5de04b22e53fe3c56d4cb9e83" parent="aspace_7c1061b8dd9904055066d221fb2771cb" type="folder">16</container></did></c><c id="aspace_b9b0079dea15efa1c72c8f5e1a3c8595" level="file"><did><unittitle>Memorandum on allocation of defense materials to phonograph record industry</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_81cf17b4457862b7fa3ae0863b0eee6b" label="Mixed Materials [31142062772218]" type="box">1</container><container id="aspace_64dac043d6b957e5dd128673f4dbb82c" parent="aspace_81cf17b4457862b7fa3ae0863b0eee6b" type="folder">17</container></did></c><c id="aspace_3ce300c14714af46c5acc7e9e2fce635" level="file"><did><unittitle>Clippings re MCA and the 1965 Country Music Festival</unittitle><unitdate normal="1963/1965" type="inclusive">1963-1965</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_6114ac2826e7e23768ff9a521b3002bd" label="Mixed Materials [31142062772218]" type="box">1</container><container id="aspace_50bb68745ceaa10f6458f538031477a2" parent="aspace_6114ac2826e7e23768ff9a521b3002bd" type="folder">18</container></did></c><c id="aspace_d729fd84be44f584ea598a6d34ed224c" level="file"><did><unittitle>Draft report for the acquisition of assets of Decca Records by Universal Pictures</unittitle><unitdate normal="1952/1952">1952</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_3b196f1e8f1a1042ab0b752a56df8059" label="Mixed Materials [31142062772234]" type="box">2</container><container id="aspace_e16ef2bfcfd7aa8832d101c50b5a0dc0" parent="aspace_3b196f1e8f1a1042ab0b752a56df8059" type="folder">1</container></did></c><c id="aspace_1e21fcdad4461ed8eb94d70ce63d7c97" level="file"><did><unittitle>Annual meeting of Decca Records, Inc.</unittitle><unitdate>1954</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_52c4d115307d1b5d3fc8cf6771a03a98" label="Mixed Materials [31142062772234]" type="box">2</container><container id="aspace_5a75f7f8d7ddf0d9557d7da402658644" parent="aspace_52c4d115307d1b5d3fc8cf6771a03a98" type="folder">2</container></did></c><c id="aspace_02145709f409cd5fd2eb658efd9c81f2" level="file"><did><unittitle>Correspondence and contracts re Decca Records and Universal Pictures</unittitle><unitdate normal="1951/1968" type="inclusive">1951-1968</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_c514d282edb7502e90e2a7ef5000e155" label="Mixed Materials [31142062772234]" type="box">2</container><container id="aspace_7e19fa90f284119a4c7afb99e6e56d65" parent="aspace_c514d282edb7502e90e2a7ef5000e155" type="folder">3</container></did></c><c id="aspace_7c6a8b9331fad9136d0f6d6aeace3fe3" level="file"><did><unittitle>Letter found in the Universal Pictures world tour with Alfred E. Daff scrapbook</unittitle><unitdate normal="1965/1965">1965</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_32c7c5a3c787e8d2a65ab31ff1a187fc" label="Mixed Materials [31142062772234]" type="box">2</container><container id="aspace_1da81c5952fda99a80649c345ff3f818" parent="aspace_32c7c5a3c787e8d2a65ab31ff1a187fc" type="folder">4</container></did></c><c id="aspace_d15d9080e18b655e8a0ffcb32d8146c2" level="file"><did><unittitle>Photographs of Milton Rackmil with wife Jackie (in Acapulco and N.Y.)  found in the Universal Pictures world tour with Alfred E. Daff scrapbook</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_5e7a255bc615719a621aaccbe904d4e6" label="Mixed Materials [31142062772234]" type="box">2</container><container id="aspace_2a5effee8a78447d07783aacd9a70e76" parent="aspace_5e7a255bc615719a621aaccbe904d4e6" type="folder">5</container></did></c><c id="aspace_d08171dca19a4512563e9ec5f0ace654" level="file"><did><unittitle>Pioneer Dinner Speech found in the Motion Picture Pioneer of the Year Twenty Fourth Annual Dinner honoring Milton R. Rackmil scrabbook</unittitle><unitdate normal="1962/1962">1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_ce5b6bf516d0e0db33bdf4ab951f8c1a" label="Mixed Materials [31142062772234]" type="box">2</container><container id="aspace_4ca34a0f2e67fc0a492b042429f7475c" parent="aspace_ce5b6bf516d0e0db33bdf4ab951f8c1a" type="folder">6</container></did></c><c id="aspace_cd9ebef644cf24a72a7d7e910255c00c" level="file"><did><unittitle>Pioneer Dinner photographs found in the Motion Picture Pioneer of the Year Twenty Fourth Annual Dinner honoring Milton R. Rackmil scrabbook</unittitle><unitdate normal="1962/1962">1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_f38cb86e2c72b736b9f581b39c5c49ae" label="Mixed Materials [31142062772234]" type="box">2</container><container id="aspace_718ac2b64e39bab61c7ee971467b3f7f" parent="aspace_f38cb86e2c72b736b9f581b39c5c49ae" type="folder">7-8</container></did></c><c id="aspace_c764270afcf61d8d82d02b92414f35fb" level="file"><did><unittitle>Scrapbook - Around the World in 30 Days</unittitle><unitdate normal="1953-09-11/1953-10-12" type="inclusive">1953-09-11-1953-10-12</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_6c4fa659309eb29b9eaabff5ecd841fe" label="Mixed Materials [31142062772242]" type="box">3</container><container id="aspace_46f465ff61300eb16a9ffa1c282029bd" parent="aspace_6c4fa659309eb29b9eaabff5ecd841fe" type="folder">1-11</container></did></c><c id="aspace_117de09a16af3cd37aaf53655310518d" level="file"><did><unittitle>Personal Publicity re Rackmil's career</unittitle><unitdate normal="1951/1972" type="inclusive">1951-1972</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat Box - 12 x 15.25" id="aspace_2ed2dcbd8583e2942ce4c21900e0ca9d" label="Mixed Materials [31142062772259]" type="box">4</container><container id="aspace_71981816f7033d52f34a39f83653e5b5" parent="aspace_2ed2dcbd8583e2942ce4c21900e0ca9d" type="folder">1-3</container></did></c><c id="aspace_a0cfa903494bf7b10c4193462afe476b" level="file"><did><unittitle>Decca Records, Inc. securities and exchange reports</unittitle><unitdate normal="1938/1953" type="inclusive">1938-1953</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat Box - 12 x 15.25" id="aspace_7ad890698c1ec73b7816584eaaf9c2a6" label="Mixed Materials [31142062772259]" type="box">4</container><container id="aspace_5e563b1f318d35d82b6ad7d7a86ee217" parent="aspace_7ad890698c1ec73b7816584eaaf9c2a6" type="folder">4</container></did></c><c id="aspace_c04dd401fedaeadfc43236c05583f372" level="file"><did><unittitle>Personal Publicity</unittitle><unitdate normal="1954/1957" type="inclusive">1954-1957, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat Box - 12 x 15.25" id="aspace_316d7823a81f5f5983a3dc177626090a" label="Mixed Materials [31142062772259]" type="box">4</container><container id="aspace_f122afb7bee68cb730716ed5d0182177" parent="aspace_316d7823a81f5f5983a3dc177626090a" type="folder">5</container></did></c><c id="aspace_a1f35bb06b986e5c4e2e775657ae25e3" level="file"><did><unittitle>Clippings re motion picture industry</unittitle><unitdate normal="1956/1972" type="inclusive">1956-1972</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat Box - 12 x 15.25" id="aspace_4a1697c5b1d214719f7494fd8bb69026" label="Mixed Materials [31142062772259]" type="box">4</container><container id="aspace_e3275d9c0f7b3b4e0a46d4c6422c0563" parent="aspace_4a1697c5b1d214719f7494fd8bb69026" type="folder">6</container></did></c><c id="aspace_82bd518855064eaa025941909887a3a5" level="file"><did><unittitle>Photograph of Universal - International Sales Executives Conference</unittitle><unitdate normal="1955/1955">1955</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat Box - 12 x 15.25" id="aspace_92bc7d219f8b4141d97fb3ce09d8533b" label="Mixed Materials [31142062772259]" type="box">4</container><container id="aspace_3514a864100eb9893609b29bbdc8d11e" parent="aspace_92bc7d219f8b4141d97fb3ce09d8533b" type="folder">7</container></did></c><c id="aspace_66077d721d33a7670d02ad9aaf50d36f" level="file"><did><unittitle>National advertisements for Decca Records</unittitle><unitdate normal="1944/1944">1944</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat Box - 12 x 15.25" id="aspace_c9259c690897fc97702f16d41fbd5b4c" label="Mixed Materials [31142062772259]" type="box">4</container><container id="aspace_dd9d31a4207aa35b3a5e11f8e1a9bf48" parent="aspace_c9259c690897fc97702f16d41fbd5b4c" type="folder">8</container></did></c><c id="aspace_a3574948fa64bcfd1ae3a42d2ee47001" level="file"><did><unittitle>City Paper</unittitle><unitdate normal="1984/1984">1984</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat OS Box 17" id="aspace_7af267efb81438dd1053125c5c5e29db" label="Mixed Materials [31142063412160]" type="box">Shared Fales 004</container><container id="aspace_2dc2c746b6a097a1a6df8cc5588e476c" parent="aspace_7af267efb81438dd1053125c5c5e29db" type="folder">7</container></did></c><c id="aspace_0975df7402497e6bc2d2bb7c18198a7d" level="file"><did><unittitle>Commemorative pen holder</unittitle><unitdate normal="1962/1962">1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_c214d4223dfb4342e989cdf71068f401" label="Mixed Materials [31142062772267]" type="box">5</container><container id="aspace_4e25e4c9dffc262ab52cafca232c380f" parent="aspace_c214d4223dfb4342e989cdf71068f401" type="object">1</container></did></c><c id="aspace_ffc8cd969cfabe02324e2c8d226e1dbf" level="file"><did><unittitle>Commemorative glass plaque</unittitle><unitdate normal="1964/1964">1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_6980ff4bf61178fdd86629d40d83b789" label="Mixed Materials [31142062772267]" type="box">5</container><container id="aspace_0fc8bbe534985a0743df32d3feeaffd5" parent="aspace_6980ff4bf61178fdd86629d40d83b789" type="object">2</container></did></c><c id="aspace_a73103c61c7230b3c7e06cea86674b72" level="file"><did><unittitle>Award plaque</unittitle><unitdate normal="1955/1955">1955</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_4d4875ebbb51eedfaa9becfde2193610" label="Mixed Materials [31142062772267]" type="box">5</container><container id="aspace_c60a75d4596b18d445a7feb1e6c8cb30" parent="aspace_4d4875ebbb51eedfaa9becfde2193610" type="object">3</container></did></c><c id="aspace_d89866362c8537e5e317730a8c153b8e" level="file"><did><unittitle>Scrapbook - Universal International European Conference, Barcelona, June 7-10, 1954</unittitle><unitdate normal="1954/1954">1954</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat Box - 12 x 15.25" id="aspace_21c2884668dbbcc50637424c41e06760" label="Mixed Materials [31142062772275]" type="box">6</container></did></c><c id="aspace_cc23313f0bb76dfd3b66b3553d49500b" level="file"><did><unittitle>Scrapbook - European Sales Convention, Rome, Italy, June 1953</unittitle><unitdate normal="1953/1953">1953</unitdate><container altrender="OS Flat Box - 15x19x3" id="aspace_bf395348b0af53bd5458daa6a00226d3" label="Mixed Materials [31142062772283]" type="box">7</container></did></c><c id="aspace_bf6732bc37726d6ea01b07e9cfaffee2" level="file"><did><unittitle>Scrapbook - Universal Pictures world tour with Alfred E. Daff</unittitle><unitdate normal="1953/1953">1953</unitdate><container altrender="OS Flat Box - 15x19x3" id="aspace_1b892d0221d8d3ac2596a3e88318224f" label="Mixed Materials [31142062772291]" type="box">8</container></did></c><c id="aspace_0565502834dbf7b2e68ebec9bb40bded" level="file"><did><unittitle>Scrapbook - Variety Club of New York Celebrity Ball, Friday, November 12, 1965</unittitle><unitdate normal="1965/1965">1965</unitdate><container altrender="OS Flat Box - 15x19x3" id="aspace_7f984f0fb663ad315950d0bf06ddace3" label="Mixed Materials [31142062772309]" type="box">9</container></did></c><c id="aspace_5ec6775160f6895d1237f400a06a7ed3" level="file"><did><unittitle>Scrapbook - Motion Picture Pioneer of the Year Twenty Fourth Annual Dinner honoring Milton R. Rackmil, November 19th, 1962</unittitle><unitdate normal="1962/1962">1962</unitdate><container altrender="OS Flat Box - 15x19x3" id="aspace_18c2e98c02c6fc76c7f804f94fed814c" label="Mixed Materials [31142062772309]" type="box">9</container></did></c><c id="aspace_c73f6fc19e00c728c3f9e28b764898e6" level="file"><did><unittitle>Scrapbook - Motion Picture Pioneer of the Year </unittitle><unitdate normal="1962/1962">1962</unitdate><container altrender="OS Flat Box - 15x19x3" id="aspace_efccc8836f0502c9ba0069f397fad49a" label="Mixed Materials [31142062772317]" type="box">10</container></did></c></dsc>
-</archdesc>
+      <corpname source="naf">Decca Records (Firm)</corpname>
+      <corpname source="naf">Universal Pictures (Firm)</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_1455a5f9b48278eb8383b2c784b5a5cb" level="file">
+        <did>
+          <unittitle>Vinyl record - Larry Evans and His Quartet </unittitle>
+          <unitdate>undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_505c6ad8ea649d906dd548224008f3fb" label="Audio [31142062772226]" type="box">Shared Fales 009</container>
+          <container id="aspace_9518ef62b015a0842a6eee613c875a52" parent="aspace_505c6ad8ea649d906dd548224008f3fb" type="folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_c9c2fd69da1559716c4b656162409fe7" level="file">
+        <did>
+          <unittitle>Vinyl record - Murray Arnold </unittitle>
+          <unitdate>undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_29d71c63c834d86aa14e4de76acdd6ee" label="Audio [31142062772226]" type="box">Shared Fales 009</container>
+          <container id="aspace_e7fee2cf38cdc6c07c2faead83abb5fa" parent="aspace_29d71c63c834d86aa14e4de76acdd6ee" type="folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_9fbedaf57d606a5225d1706ed8064577" level="file">
+        <did>
+          <unittitle>Vinyl record - London Banquet in honour of the United States and Canadian distributors for the Decca Record Company Limited </unittitle>
+          <unitdate normal="1964/1964">1964</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_e15b4453e13fb557e44d446b6a527c33" label="Audio [31142062772226]" type="box">Shared Fales 009</container>
+          <container id="aspace_3ad18c18420a600eef7f5e41fe2207de" parent="aspace_e15b4453e13fb557e44d446b6a527c33" type="folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ad3e8a7ea3afd6deabfae165177352fd" level="file">
+        <did>
+          <unittitle>Vinyl record - Dinner given by Mr. and Mrs. Eric Gallo to celebrate the 25th anniversary of the entry of Mr. E.R. Lewis into the Gramophone Record Industry </unittitle>
+          <unitdate normal="1956/1956">1956</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_3e9630a8afb3c3ce5d6a4e3f898a88ef" label="Audio [31142062772226]" type="box">Shared Fales 009</container>
+          <container id="aspace_bc8e250d47c7e30ea908b1da604aeff7" parent="aspace_3e9630a8afb3c3ce5d6a4e3f898a88ef" type="folder">4-5</container>
+        </did>
+      </c>
+      <c id="aspace_a9f2ca269383435d1d569fc8795366b6" level="file">
+        <did>
+          <unittitle>Photographs with colleagues</unittitle>
+          <unitdate>undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_a4bd6e645cd4d748d895f36049a156dc" label="Mixed Materials [31142062772218]" type="box">1</container>
+          <container id="aspace_1055ef3d3b6dba494ef67425adcd3b68" parent="aspace_a4bd6e645cd4d748d895f36049a156dc" type="folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_87f4913841e99aba2f907b3ae1b5f6cd" level="file">
+        <did>
+          <unittitle>Speech given at the New York Stock Exchange</unittitle>
+          <unitdate normal="1960/1960">1960</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_c6f2dfda89d818c3414ef9146d80bd4c" label="Mixed Materials [31142062772218]" type="box">1</container>
+          <container id="aspace_79230a00ee3d679cd2cac6792540f2f4" parent="aspace_c6f2dfda89d818c3414ef9146d80bd4c" type="folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_8910bda58a1902d122667285dd378c6f" level="file">
+        <did>
+          <unittitle>Photographs re traveling and banquets</unittitle>
+          <unitdate normal="1955/1955">1955, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_1b4187e49a424840305905fc79a7aae6" label="Mixed Materials [31142062772218]" type="box">1</container>
+          <container id="aspace_fe128c0377a41b3d91e94e2b9214002a" parent="aspace_1b4187e49a424840305905fc79a7aae6" type="folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_8298cfe7cee63e6e2f5bd50ff9624b73" level="file">
+        <did>
+          <unittitle>Certificates from Japan Airlines and Qantas Empire Airlines</unittitle>
+          <unitdate normal="1959/1964" type="inclusive">1959-1964</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_cfb82dbcd8ac86aff2e0c349f5c6c33e" label="Mixed Materials [31142062772218]" type="box">1</container>
+          <container id="aspace_b7edadd4d8b3bf72610e749877f5250c" parent="aspace_cfb82dbcd8ac86aff2e0c349f5c6c33e" type="folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_04738a9d7caacd27394644cb5316e0c4" level="file">
+        <did>
+          <unittitle>MCA Merger with  Matsushita Electrical Industrial Co.</unittitle>
+          <unitdate normal="1990/1990">1990</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_370f2038209b830038974c637d0f8379" label="Mixed Materials [31142062772218]" type="box">1</container>
+          <container id="aspace_7ed709629a3ad33bd3221582b162a234" parent="aspace_370f2038209b830038974c637d0f8379" type="folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_a002bf909eabf8651f92915dbf694578" level="file">
+        <did>
+          <unittitle>Personal publicity re Rackmil's career</unittitle>
+          <unitdate normal="1957/1972" type="inclusive">1957-1972, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_34823560d452715d70dc949fe990a8af" label="Mixed Materials [31142062772218]" type="box">1</container>
+          <container id="aspace_f4d25df32d535a042fc69006c7e6cda6" parent="aspace_34823560d452715d70dc949fe990a8af" type="folder">6-8</container>
+        </did>
+      </c>
+      <c id="aspace_0fd720711b07757e6a5ca01459543b53" level="file">
+        <did>
+          <unittitle>Photographs with Sammy Davis, Jr.</unittitle>
+          <unitdate>undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_a207bfda33cfda67149abe6689c090ec" label="Mixed Materials [31142062772218]" type="box">1</container>
+          <container id="aspace_e5f5f8d1c69dc1569e8c794722149692" parent="aspace_a207bfda33cfda67149abe6689c090ec" type="folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_1ad00236f09f9679ed5f9c4f9e760580" level="file">
+        <did>
+          <unittitle>Clippings re Decca Records' 20th Anniversary</unittitle>
+          <unitdate>undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_933af122f673f927c032431aae52c185" label="Mixed Materials [31142062772218]" type="box">1</container>
+          <container id="aspace_81b517769b66f8a6ac5b058419bc39aa" parent="aspace_933af122f673f927c032431aae52c185" type="folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_995f2dea01eb04affc626c5d07103103" level="file">
+        <did>
+          <unittitle>Clippings re Decca Records' 25th Anniversary</unittitle>
+          <unitdate>undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_1acfdae84bfe73fe0ee6df8e540deee4" label="Mixed Materials [31142062772218]" type="box">1</container>
+          <container id="aspace_b2703f7da42f541ee5f12397c6c68bd0" parent="aspace_1acfdae84bfe73fe0ee6df8e540deee4" type="folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_453b19277911ca9655fe4a53a595f0e4" level="file">
+        <did>
+          <unittitle>30th Anniversary (permanent) Decca Records</unittitle>
+          <unitdate normal="1964/1964">1964</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_d3f9d4b09046f38abe66e07297fb9819" label="Mixed Materials [31142062772218]" type="box">1</container>
+          <container id="aspace_f54d50fff35ccfa9fa942944bd411e29" parent="aspace_d3f9d4b09046f38abe66e07297fb9819" type="folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_bf1c5034e000038ae6fcd7016d135c0b" level="file">
+        <did>
+          <unittitle>Decca Records annual report and invoice for a tin of caviar</unittitle>
+          <unitdate normal="1959/1969" type="inclusive">1959, 1969</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_8864b0dd452944fb88b10454b8e956f8" label="Mixed Materials [31142062772218]" type="box">1</container>
+          <container id="aspace_626ba1e1bc3461244174057885420d3b" parent="aspace_8864b0dd452944fb88b10454b8e956f8" type="folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_fa493da8023cf0585e18785bd47d8b55" level="file">
+        <did>
+          <unittitle>Correspondence re Decca Records</unittitle>
+          <unitdate normal="1954/1954">1954</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_c9853d0bea2f7e8a5bc940812def5d13" label="Mixed Materials [31142062772218]" type="box">1</container>
+          <container id="aspace_77c9daaa6311f5f1e9303e5f910c4160" parent="aspace_c9853d0bea2f7e8a5bc940812def5d13" type="folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_fad58b88ebd5a6c1e89939cc9d49f84c" level="file">
+        <did>
+          <unittitle>Ephemera and photographs re Rackmil's career and acheivements</unittitle>
+          <unitdate normal="1962/1964" type="inclusive">1962-1964, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_c27e28af13b4a37a4c1ccbb614ccb230" label="Mixed Materials [31142062772218]" type="box">1</container>
+          <container id="aspace_3b6edfbd2020d2045f208d983e45c9b3" parent="aspace_c27e28af13b4a37a4c1ccbb614ccb230" type="folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_22591d157d674c6042bda083e6780f00" level="file">
+        <did>
+          <unittitle>Certificate for a dinner given in honor of Milton R. Rackmil</unittitle>
+          <unitdate normal="1952/1952">1952</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_7c1061b8dd9904055066d221fb2771cb" label="Mixed Materials [31142062772218]" type="box">1</container>
+          <container id="aspace_a6a905e5de04b22e53fe3c56d4cb9e83" parent="aspace_7c1061b8dd9904055066d221fb2771cb" type="folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_b9b0079dea15efa1c72c8f5e1a3c8595" level="file">
+        <did>
+          <unittitle>Memorandum on allocation of defense materials to phonograph record industry</unittitle>
+          <unitdate>undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_81cf17b4457862b7fa3ae0863b0eee6b" label="Mixed Materials [31142062772218]" type="box">1</container>
+          <container id="aspace_64dac043d6b957e5dd128673f4dbb82c" parent="aspace_81cf17b4457862b7fa3ae0863b0eee6b" type="folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_3ce300c14714af46c5acc7e9e2fce635" level="file">
+        <did>
+          <unittitle>Clippings re MCA and the 1965 Country Music Festival</unittitle>
+          <unitdate normal="1963/1965" type="inclusive">1963-1965</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_6114ac2826e7e23768ff9a521b3002bd" label="Mixed Materials [31142062772218]" type="box">1</container>
+          <container id="aspace_50bb68745ceaa10f6458f538031477a2" parent="aspace_6114ac2826e7e23768ff9a521b3002bd" type="folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_d729fd84be44f584ea598a6d34ed224c" level="file">
+        <did>
+          <unittitle>Draft report for the acquisition of assets of Decca Records by Universal Pictures</unittitle>
+          <unitdate normal="1952/1952">1952</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_3b196f1e8f1a1042ab0b752a56df8059" label="Mixed Materials [31142062772234]" type="box">2</container>
+          <container id="aspace_e16ef2bfcfd7aa8832d101c50b5a0dc0" parent="aspace_3b196f1e8f1a1042ab0b752a56df8059" type="folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_1e21fcdad4461ed8eb94d70ce63d7c97" level="file">
+        <did>
+          <unittitle>Annual meeting of Decca Records, Inc.</unittitle>
+          <unitdate>1954</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_52c4d115307d1b5d3fc8cf6771a03a98" label="Mixed Materials [31142062772234]" type="box">2</container>
+          <container id="aspace_5a75f7f8d7ddf0d9557d7da402658644" parent="aspace_52c4d115307d1b5d3fc8cf6771a03a98" type="folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_02145709f409cd5fd2eb658efd9c81f2" level="file">
+        <did>
+          <unittitle>Correspondence and contracts re Decca Records and Universal Pictures</unittitle>
+          <unitdate normal="1951/1968" type="inclusive">1951-1968</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_c514d282edb7502e90e2a7ef5000e155" label="Mixed Materials [31142062772234]" type="box">2</container>
+          <container id="aspace_7e19fa90f284119a4c7afb99e6e56d65" parent="aspace_c514d282edb7502e90e2a7ef5000e155" type="folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_7c6a8b9331fad9136d0f6d6aeace3fe3" level="file">
+        <did>
+          <unittitle>Letter found in the Universal Pictures world tour with Alfred E. Daff scrapbook</unittitle>
+          <unitdate normal="1965/1965">1965</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_32c7c5a3c787e8d2a65ab31ff1a187fc" label="Mixed Materials [31142062772234]" type="box">2</container>
+          <container id="aspace_1da81c5952fda99a80649c345ff3f818" parent="aspace_32c7c5a3c787e8d2a65ab31ff1a187fc" type="folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_d15d9080e18b655e8a0ffcb32d8146c2" level="file">
+        <did>
+          <unittitle>Photographs of Milton Rackmil with wife Jackie (in Acapulco and N.Y.)  found in the Universal Pictures world tour with Alfred E. Daff scrapbook</unittitle>
+          <unitdate>undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_5e7a255bc615719a621aaccbe904d4e6" label="Mixed Materials [31142062772234]" type="box">2</container>
+          <container id="aspace_2a5effee8a78447d07783aacd9a70e76" parent="aspace_5e7a255bc615719a621aaccbe904d4e6" type="folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_d08171dca19a4512563e9ec5f0ace654" level="file">
+        <did>
+          <unittitle>Pioneer Dinner Speech found in the Motion Picture Pioneer of the Year Twenty Fourth Annual Dinner honoring Milton R. Rackmil scrabbook</unittitle>
+          <unitdate normal="1962/1962">1962</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_ce5b6bf516d0e0db33bdf4ab951f8c1a" label="Mixed Materials [31142062772234]" type="box">2</container>
+          <container id="aspace_4ca34a0f2e67fc0a492b042429f7475c" parent="aspace_ce5b6bf516d0e0db33bdf4ab951f8c1a" type="folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_cd9ebef644cf24a72a7d7e910255c00c" level="file">
+        <did>
+          <unittitle>Pioneer Dinner photographs found in the Motion Picture Pioneer of the Year Twenty Fourth Annual Dinner honoring Milton R. Rackmil scrabbook</unittitle>
+          <unitdate normal="1962/1962">1962</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_f38cb86e2c72b736b9f581b39c5c49ae" label="Mixed Materials [31142062772234]" type="box">2</container>
+          <container id="aspace_718ac2b64e39bab61c7ee971467b3f7f" parent="aspace_f38cb86e2c72b736b9f581b39c5c49ae" type="folder">7-8</container>
+        </did>
+      </c>
+      <c id="aspace_c764270afcf61d8d82d02b92414f35fb" level="file">
+        <did>
+          <unittitle>Scrapbook - Around the World in 30 Days</unittitle>
+          <unitdate normal="1953-09-11/1953-10-12" type="inclusive">1953-09-11-1953-10-12</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_6c4fa659309eb29b9eaabff5ecd841fe" label="Mixed Materials [31142062772242]" type="box">3</container>
+          <container id="aspace_46f465ff61300eb16a9ffa1c282029bd" parent="aspace_6c4fa659309eb29b9eaabff5ecd841fe" type="folder">1-11</container>
+        </did>
+      </c>
+      <c id="aspace_117de09a16af3cd37aaf53655310518d" level="file">
+        <did>
+          <unittitle>Personal Publicity re Rackmil's career</unittitle>
+          <unitdate normal="1951/1972" type="inclusive">1951-1972</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Flat Box - 12 x 15.25" id="aspace_2ed2dcbd8583e2942ce4c21900e0ca9d" label="Mixed Materials [31142062772259]" type="box">4</container>
+          <container id="aspace_71981816f7033d52f34a39f83653e5b5" parent="aspace_2ed2dcbd8583e2942ce4c21900e0ca9d" type="folder">1-3</container>
+        </did>
+      </c>
+      <c id="aspace_a0cfa903494bf7b10c4193462afe476b" level="file">
+        <did>
+          <unittitle>Decca Records, Inc. securities and exchange reports</unittitle>
+          <unitdate normal="1938/1953" type="inclusive">1938-1953</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Flat Box - 12 x 15.25" id="aspace_7ad890698c1ec73b7816584eaaf9c2a6" label="Mixed Materials [31142062772259]" type="box">4</container>
+          <container id="aspace_5e563b1f318d35d82b6ad7d7a86ee217" parent="aspace_7ad890698c1ec73b7816584eaaf9c2a6" type="folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_c04dd401fedaeadfc43236c05583f372" level="file">
+        <did>
+          <unittitle>Personal Publicity</unittitle>
+          <unitdate normal="1954/1957" type="inclusive">1954-1957, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Flat Box - 12 x 15.25" id="aspace_316d7823a81f5f5983a3dc177626090a" label="Mixed Materials [31142062772259]" type="box">4</container>
+          <container id="aspace_f122afb7bee68cb730716ed5d0182177" parent="aspace_316d7823a81f5f5983a3dc177626090a" type="folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_a1f35bb06b986e5c4e2e775657ae25e3" level="file">
+        <did>
+          <unittitle>Clippings re motion picture industry</unittitle>
+          <unitdate normal="1956/1972" type="inclusive">1956-1972</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Flat Box - 12 x 15.25" id="aspace_4a1697c5b1d214719f7494fd8bb69026" label="Mixed Materials [31142062772259]" type="box">4</container>
+          <container id="aspace_e3275d9c0f7b3b4e0a46d4c6422c0563" parent="aspace_4a1697c5b1d214719f7494fd8bb69026" type="folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_82bd518855064eaa025941909887a3a5" level="file">
+        <did>
+          <unittitle>Photograph of Universal - International Sales Executives Conference</unittitle>
+          <unitdate normal="1955/1955">1955</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Flat Box - 12 x 15.25" id="aspace_92bc7d219f8b4141d97fb3ce09d8533b" label="Mixed Materials [31142062772259]" type="box">4</container>
+          <container id="aspace_3514a864100eb9893609b29bbdc8d11e" parent="aspace_92bc7d219f8b4141d97fb3ce09d8533b" type="folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_66077d721d33a7670d02ad9aaf50d36f" level="file">
+        <did>
+          <unittitle>National advertisements for Decca Records</unittitle>
+          <unitdate normal="1944/1944">1944</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Flat Box - 12 x 15.25" id="aspace_c9259c690897fc97702f16d41fbd5b4c" label="Mixed Materials [31142062772259]" type="box">4</container>
+          <container id="aspace_dd9d31a4207aa35b3a5e11f8e1a9bf48" parent="aspace_c9259c690897fc97702f16d41fbd5b4c" type="folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_a3574948fa64bcfd1ae3a42d2ee47001" level="file">
+        <did>
+          <unittitle>City Paper</unittitle>
+          <unitdate normal="1984/1984">1984</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Flat OS Box 17" id="aspace_7af267efb81438dd1053125c5c5e29db" label="Mixed Materials [31142063412160]" type="box">Shared Fales 004</container>
+          <container id="aspace_2dc2c746b6a097a1a6df8cc5588e476c" parent="aspace_7af267efb81438dd1053125c5c5e29db" type="folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_0975df7402497e6bc2d2bb7c18198a7d" level="file">
+        <did>
+          <unittitle>Commemorative pen holder</unittitle>
+          <unitdate normal="1962/1962">1962</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_c214d4223dfb4342e989cdf71068f401" label="Mixed Materials [31142062772267]" type="box">5</container>
+          <container id="aspace_4e25e4c9dffc262ab52cafca232c380f" parent="aspace_c214d4223dfb4342e989cdf71068f401" type="object">1</container>
+        </did>
+      </c>
+      <c id="aspace_ffc8cd969cfabe02324e2c8d226e1dbf" level="file">
+        <did>
+          <unittitle>Commemorative glass plaque</unittitle>
+          <unitdate normal="1964/1964">1964</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_6980ff4bf61178fdd86629d40d83b789" label="Mixed Materials [31142062772267]" type="box">5</container>
+          <container id="aspace_0fc8bbe534985a0743df32d3feeaffd5" parent="aspace_6980ff4bf61178fdd86629d40d83b789" type="object">2</container>
+        </did>
+      </c>
+      <c id="aspace_a73103c61c7230b3c7e06cea86674b72" level="file">
+        <did>
+          <unittitle>Award plaque</unittitle>
+          <unitdate normal="1955/1955">1955</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_4d4875ebbb51eedfaa9becfde2193610" label="Mixed Materials [31142062772267]" type="box">5</container>
+          <container id="aspace_c60a75d4596b18d445a7feb1e6c8cb30" parent="aspace_4d4875ebbb51eedfaa9becfde2193610" type="object">3</container>
+        </did>
+      </c>
+      <c id="aspace_d89866362c8537e5e317730a8c153b8e" level="file">
+        <did>
+          <unittitle>Scrapbook - Universal International European Conference, Barcelona, June 7-10, 1954</unittitle>
+          <unitdate normal="1954/1954">1954</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Flat Box - 12 x 15.25" id="aspace_21c2884668dbbcc50637424c41e06760" label="Mixed Materials [31142062772275]" type="box">6</container>
+        </did>
+      </c>
+      <c id="aspace_cc23313f0bb76dfd3b66b3553d49500b" level="file">
+        <did>
+          <unittitle>Scrapbook - European Sales Convention, Rome, Italy, June 1953</unittitle>
+          <unitdate normal="1953/1953">1953</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_bf395348b0af53bd5458daa6a00226d3" label="Mixed Materials [31142062772283]" type="box">7</container>
+        </did>
+      </c>
+      <c id="aspace_bf6732bc37726d6ea01b07e9cfaffee2" level="file">
+        <did>
+          <unittitle>Scrapbook - Universal Pictures world tour with Alfred E. Daff</unittitle>
+          <unitdate normal="1953/1953">1953</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_1b892d0221d8d3ac2596a3e88318224f" label="Mixed Materials [31142062772291]" type="box">8</container>
+        </did>
+      </c>
+      <c id="aspace_0565502834dbf7b2e68ebec9bb40bded" level="file">
+        <did>
+          <unittitle>Scrapbook - Variety Club of New York Celebrity Ball, Friday, November 12, 1965</unittitle>
+          <unitdate normal="1965/1965">1965</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_7f984f0fb663ad315950d0bf06ddace3" label="Mixed Materials [31142062772309]" type="box">9</container>
+        </did>
+      </c>
+      <c id="aspace_5ec6775160f6895d1237f400a06a7ed3" level="file">
+        <did>
+          <unittitle>Scrapbook - Motion Picture Pioneer of the Year Twenty Fourth Annual Dinner honoring Milton R. Rackmil, November 19th, 1962</unittitle>
+          <unitdate normal="1962/1962">1962</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_18c2e98c02c6fc76c7f804f94fed814c" label="Mixed Materials [31142062772309]" type="box">9</container>
+        </did>
+      </c>
+      <c id="aspace_c73f6fc19e00c728c3f9e28b764898e6" level="file">
+        <did>
+          <unittitle>Scrapbook - Motion Picture Pioneer of the Year </unittitle>
+          <unitdate normal="1962/1962">1962</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_efccc8836f0502c9ba0069f397fad49a" label="Mixed Materials [31142062772317]" type="box">10</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

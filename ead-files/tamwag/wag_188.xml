@@ -1,62 +1,992 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_188/">wag_188</eadid><filedesc><titlestmt><titleproper>Guide to the United Automobile Workers of America, Local 2110 Records <num>WAG.188</num></titleproper><author>Nicole Greenhouse</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>May 2014</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 16:01:44 -0500</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>United Automobile Workers of America, Local 2110 Records</unittitle>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. Local 2110 (New York, N.Y.)</corpname>
-    </origination>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_188/">wag_188</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the United Automobile Workers of America, Local 2110 Records <num>WAG.188</num></titleproper>
+        <author>Nicole Greenhouse</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>May 2014</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 16:01:44 -0500</date>.</creation>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>United Automobile Workers of America, Local 2110 Records</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. Local 2110 (New York, N.Y.)</corpname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Rosenstein, Maida</persname>
+      </origination>
+      <unitid>WAG.188</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5 Linear Feet</extent>
+        <extent altrender="carrier">in 5 record cartons.</extent>
+      </physdesc>
+      <unitdate normal="1942/2004" type="inclusive">1942-2004</unitdate>
+      <langmaterial id="aspace_60636f95c5621da0df70f61bfc4b54c0">Materials are in English</langmaterial>
+    </did>
+    <processinfo id="aspace_12b8f6ede8c2a993aab0c7e648bc6597">
+      <head>Processing Information note</head>
+      <p>In 2014, the archived website was added as series II. The inventory was adapted into EAD from the original inventory.</p>
+    </processinfo>
+    <prefercite id="aspace_2a150a34cc642ee227b21f599f40b7d1">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; United Automobile Workers of America, Local 2110 ; WAG 188; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <userestrict id="aspace_127e42a3dde46233df968b8a0217713b">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America, Local 2110, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <relatedmaterial id="aspace_7060bfee932610a8e9f3e746f7d3051c">
+      <head>Related Archival Materials</head>
+      <p>United Automobile Workers (UAW), Local 2110: Adjunct and Graduate Students Organizing Records. (WAG 285) <lb/> United Automobile Workers of America, District 65 Oral History Collection (OH 19) <lb/> United Automobile Workers of America, District 65 Photographs — Part I Negatives. (PHOTOS 023) <lb/> United Automobile Workers of America, District 65 Records. (WAG 006) <lb/> Yale Graduate Student Union Records (TAM 233) <lb/></p>
+    </relatedmaterial>
+    <arrangement id="aspace_8f51e3b021b6c6afcd3b4bd46155d567">
+      <head>Arrangement</head>
+      <p>Folders are generally arranged chronologically.</p>
+    </arrangement>
+    <scopecontent id="aspace_92edca0d6228cc208c4236266286f8e3">
+      <head>Scope and Content Note</head>
+      <p>The records of UAW 2110, 1942-2004 consist of contracts and agreements between organizations and their employees, pamphlets and brochures, correspondence including emails, shop files, reports, financial material and VHS tapes. The UAW 2110 records reflect their affiliations with a variety of institutional associations. The Brooklyn Historical Society, Long Island Historical Society, National Law Journal, Royal Business School and Riverside Church are among them. Club Med, the vacation company, the Silent Watchman, a home alarm company, and the Glemby Corporation, which in the 1990s was the nation's largest department store hair salon chain all had distinct subseries in the collection. Glemby Corporation records include occupational safety surveys, as well as negotiations and employee claims. The Silent Watchman negotiations concern the United Wholesale and Warehouse Employees.</p>
+      <p>In the UAW 2110 records District 65, United Auto Workers (UAW). District 65 traces its origins to the Wholesale Dry Goods Workers Union and New York's Lower East Side. It was one of many unions formed during the early years of the Great Depression. For a considerable period its membership consisted of primarily Jewish garment workers. The Union has a progressive and politically active history. It stood against McCarthyism during the virulent anti-communist, red scare era and stood against the Vietnam War decades later. The records related to District 65 are primarily financial, but also include an election, general information and a Black Lake retreat. The time period covered is from 1980-1989. In 1992 District 65 merged with Local 2110. Local 2110 acquired the records of former bargaining units, including academic records primarily address organizing campaigns (Yale, Boston University). The Historical Societies, Church Organizations and Misc are primarily former bargaining units of D 65 including agreements, correspondence and employee claims.</p>
+      <p>In 2002 NYU's teaching, research and graduate assistants won major economic gains and a first-ever union contract with UAW 2110. In 2004 the National Labor Relations Board (NLRB) overturned the decision. There are a few records primarily email correspondence related to NYU which was officially part of UAW 2110 from 2000 to 2004.</p>
+    </scopecontent>
+    <bioghist id="aspace_faf1a3175971b9117cc43f84d72fcde1">
+      <head>Historical/Biographical Note</head>
+      <p>The Technical, Office and Professional (TOP) Union, Local 2110, is an amalgamated union with 30 contracts covering over 3,000 workers in universities, publishing, museums, law firms and other offices. They represent teachers, secretaries, administrators, editors, computer operators, librarians, museum curators, typesetters and graphic artists, among many others. The union claims that they've taken the lead in organizing women and workers in non—profits who never had been organized before. UAW 2110's focus on establishing these non-traditional affiliations and servicing their needs is a quality that makes this local unique. They have broken new ground in winning benefits such as childcare, flex—time, job classification, domestic partner benefits and family leave and claim to have the experience necessary to organize and negotiate for "white collar" workers. Their offices are at two locations in New York City, 256 West 38th Street, Suite 704 and 430 W. 119"' Street in Morningside Heights, their area of representation includes New England, Washington D.C., New York metropolitan area, and Puerto Rico. Some organizations they work with are:</p>
+      <p>Addison—Wesley Longman Publishers <lb/> Ames &amp; Rollinson <lb/> AMSCO School Publications <lb/> Barnard College <lb/> Bronx Museum of the Arts <lb/> Church World Service <lb/> Columbia University <lb/> DASNY: Dormitory Authority of the State of New York <lb/> Feminist Press <lb/> GOLES: Good Old Lower East Side <lb/> HarperCollins Publishers <lb/> HFA: New York State Housing Finance Agency <lb/> ICCR: Interfaith Center on Corporate Responsibility <lb/> Mercy College <lb/> Monthly Review <lb/> Museum of Modern Art, New York <lb/> National Council of Churches <lb/> New Press <lb/> NYANA: New York Association for New Americans <lb/> New York Civil Liberties Union <lb/> New—York Historical Society <lb/> Rabinowitz, Boudin, Standard, Krinsky &amp; Lieberman, P.C. <lb/> SONYMA: State of New York Mortgage Agency <lb/> Stamford Advocate <lb/> State Bank of India <lb/> TCI: Technical Careers Institute <lb/> Teachers College <lb/> Union Theological Seminary <lb/> Village Voice <lb/></p>
+      <p>Some current organizing campaigns include: the Lower East Side Tenement Museum, New York University Graduate Student Organizing Committee and Columbia University Teaching and Research Assistants (GSEU). Local 2110 is actively involved in ongoing struggles to unionize each of these institutions. 2110 is a Local, part of the (UAW) United Automobile, Aerospace and Agricultural Implement Workers of America. The UAW was founded in 1935 and is one of the largest and most diverse unions in the North America.</p>
+      <p>Some of the issues UAW 2110 advocates are health care reform, the rights of employees when faced with intimidation by employers for participating in Union activities and bargaining rights.</p>
+    </bioghist>
+    <custodhist id="aspace_a475147bd4b7f9f0d0c850f93a25b7b1">
+      <head>Custodial History</head>
+      <p>The archived website was migrated from the California Digital Library's Web Archiving Service to the Internet Archive's Archive-It Service in November 2015. The link to California Digital Library was removed in October 2017.</p>
+    </custodhist>
+    <accessrestrict id="aspace_314cc26041cabf97fb7cc441c47d7a5b">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_a301c42e4fb55608e6869cd739cc6faf">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Maida Rosenstein, President of the United Automobile Workers, Local 2110, in 1999. The accession number associated with this gift is 1999.024.</p>
+    </acqinfo>
+    <phystech id="aspace_fbf2cb46cfe0e4d4e77a3f869d5829db">
+      <head>Audiovisual Access Policies and  Procedures</head>
+      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu, (212) 998-2630 with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <controlaccess>
+      <subject source="lcsh">Clerks |x Labor unions |z New York (State) |z New York.</subject>
+      <subject source="lcsh">Professional employees |x Labor Unions |z New York (State)|z New York.</subject>
       <persname role="dnr" rules="dacs" source="local">Rosenstein, Maida</persname>
-    </origination>
-    <unitid>WAG.188</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">5 Linear Feet</extent>
-      <extent altrender="carrier">in 5 record cartons.</extent>
-    </physdesc>
-    <unitdate normal="1942/2004" type="inclusive">1942-2004</unitdate>
-    <langmaterial id="aspace_60636f95c5621da0df70f61bfc4b54c0">Materials are in English</langmaterial>
-  </did>
-  <processinfo id="aspace_12b8f6ede8c2a993aab0c7e648bc6597">
-    <head>Processing Information note</head>
-<p>In 2014, the archived website was added as series II. The inventory was adapted into EAD from the original inventory.</p>  </processinfo>
-  <prefercite id="aspace_2a150a34cc642ee227b21f599f40b7d1">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; United Automobile Workers of America, Local 2110 ; WAG 188; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <userestrict id="aspace_127e42a3dde46233df968b8a0217713b">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America, Local 2110, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <relatedmaterial id="aspace_7060bfee932610a8e9f3e746f7d3051c">
-    <head>Related Archival Materials</head>
-<p>United Automobile Workers (UAW), Local 2110: Adjunct and Graduate Students Organizing Records. (WAG 285) <lb/> United Automobile Workers of America, District 65 Oral History Collection (OH 19) <lb/> United Automobile Workers of America, District 65 Photographs — Part I Negatives. (PHOTOS 023) <lb/> United Automobile Workers of America, District 65 Records. (WAG 006) <lb/> Yale Graduate Student Union Records (TAM 233) <lb/></p>  </relatedmaterial>
-  <arrangement id="aspace_8f51e3b021b6c6afcd3b4bd46155d567">
-    <head>Arrangement</head>
-<p>Folders are generally arranged chronologically.</p>  </arrangement>
-  <scopecontent id="aspace_92edca0d6228cc208c4236266286f8e3">
-    <head>Scope and Content Note</head>
-<p>The records of UAW 2110, 1942-2004 consist of contracts and agreements between organizations and their employees, pamphlets and brochures, correspondence including emails, shop files, reports, financial material and VHS tapes. The UAW 2110 records reflect their affiliations with a variety of institutional associations. The Brooklyn Historical Society, Long Island Historical Society, National Law Journal, Royal Business School and Riverside Church are among them. Club Med, the vacation company, the Silent Watchman, a home alarm company, and the Glemby Corporation, which in the 1990s was the nation's largest department store hair salon chain all had distinct subseries in the collection. Glemby Corporation records include occupational safety surveys, as well as negotiations and employee claims. The Silent Watchman negotiations concern the United Wholesale and Warehouse Employees.</p><p>In the UAW 2110 records District 65, United Auto Workers (UAW). District 65 traces its origins to the Wholesale Dry Goods Workers Union and New York's Lower East Side. It was one of many unions formed during the early years of the Great Depression. For a considerable period its membership consisted of primarily Jewish garment workers. The Union has a progressive and politically active history. It stood against McCarthyism during the virulent anti-communist, red scare era and stood against the Vietnam War decades later. The records related to District 65 are primarily financial, but also include an election, general information and a Black Lake retreat. The time period covered is from 1980-1989. In 1992 District 65 merged with Local 2110. Local 2110 acquired the records of former bargaining units, including academic records primarily address organizing campaigns (Yale, Boston University). The Historical Societies, Church Organizations and Misc are primarily former bargaining units of D 65 including agreements, correspondence and employee claims.</p><p>In 2002 NYU's teaching, research and graduate assistants won major economic gains and a first-ever union contract with UAW 2110. In 2004 the National Labor Relations Board (NLRB) overturned the decision. There are a few records primarily email correspondence related to NYU which was officially part of UAW 2110 from 2000 to 2004.</p>  </scopecontent>
-  <bioghist id="aspace_faf1a3175971b9117cc43f84d72fcde1">
-    <head>Historical/Biographical Note</head>
-<p>The Technical, Office and Professional (TOP) Union, Local 2110, is an amalgamated union with 30 contracts covering over 3,000 workers in universities, publishing, museums, law firms and other offices. They represent teachers, secretaries, administrators, editors, computer operators, librarians, museum curators, typesetters and graphic artists, among many others. The union claims that they've taken the lead in organizing women and workers in non—profits who never had been organized before. UAW 2110's focus on establishing these non-traditional affiliations and servicing their needs is a quality that makes this local unique. They have broken new ground in winning benefits such as childcare, flex—time, job classification, domestic partner benefits and family leave and claim to have the experience necessary to organize and negotiate for "white collar" workers. Their offices are at two locations in New York City, 256 West 38th Street, Suite 704 and 430 W. 119"' Street in Morningside Heights, their area of representation includes New England, Washington D.C., New York metropolitan area, and Puerto Rico. Some organizations they work with are:</p><p>Addison—Wesley Longman Publishers <lb/> Ames &amp; Rollinson <lb/> AMSCO School Publications <lb/> Barnard College <lb/> Bronx Museum of the Arts <lb/> Church World Service <lb/> Columbia University <lb/> DASNY: Dormitory Authority of the State of New York <lb/> Feminist Press <lb/> GOLES: Good Old Lower East Side <lb/> HarperCollins Publishers <lb/> HFA: New York State Housing Finance Agency <lb/> ICCR: Interfaith Center on Corporate Responsibility <lb/> Mercy College <lb/> Monthly Review <lb/> Museum of Modern Art, New York <lb/> National Council of Churches <lb/> New Press <lb/> NYANA: New York Association for New Americans <lb/> New York Civil Liberties Union <lb/> New—York Historical Society <lb/> Rabinowitz, Boudin, Standard, Krinsky &amp; Lieberman, P.C. <lb/> SONYMA: State of New York Mortgage Agency <lb/> Stamford Advocate <lb/> State Bank of India <lb/> TCI: Technical Careers Institute <lb/> Teachers College <lb/> Union Theological Seminary <lb/> Village Voice <lb/></p><p>Some current organizing campaigns include: the Lower East Side Tenement Museum, New York University Graduate Student Organizing Committee and Columbia University Teaching and Research Assistants (GSEU). Local 2110 is actively involved in ongoing struggles to unionize each of these institutions. 2110 is a Local, part of the (UAW) United Automobile, Aerospace and Agricultural Implement Workers of America. The UAW was founded in 1935 and is one of the largest and most diverse unions in the North America.</p><p>Some of the issues UAW 2110 advocates are health care reform, the rights of employees when faced with intimidation by employers for participating in Union activities and bargaining rights.</p>  </bioghist>
-  <custodhist id="aspace_a475147bd4b7f9f0d0c850f93a25b7b1">
-    <head>Custodial History</head>
-<p>The archived website was migrated from the California Digital Library's Web Archiving Service to the Internet Archive's Archive-It Service in November 2015. The link to California Digital Library was removed in October 2017.</p>  </custodhist>
-  <accessrestrict id="aspace_314cc26041cabf97fb7cc441c47d7a5b">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_a301c42e4fb55608e6869cd739cc6faf">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Maida Rosenstein, President of the United Automobile Workers, Local 2110, in 1999. The accession number associated with this gift is 1999.024.</p>  </acqinfo>
-  <phystech id="aspace_fbf2cb46cfe0e4d4e77a3f869d5829db">
-    <head>Audiovisual Access Policies and  Procedures</head>
-<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu, (212) 998-2630 with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
-  <controlaccess>
-    <subject source="lcsh">Clerks |x Labor unions |z New York (State) |z New York.</subject>
-    <subject source="lcsh">Professional employees |x Labor Unions |z New York (State)|z New York.</subject>
-    <persname role="dnr" rules="dacs" source="local">Rosenstein, Maida</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref9" level="series"><did><unittitle>Series I: Papers and Audiovisual Materials</unittitle><unitdate normal="1942/2004" type="inclusive">1942-2004</unitdate></did><c id="aspace_ref10" level="file"><did><unittitle>District 65 Finances</unittitle><unitdate normal="1980/1989" type="inclusive">1980s</unitdate><container altrender="Record carton" id="aspace_364ae3334f2a73ee13865875e70ef3c2" label="Mixed Materials [31142062727170]" type="box">1</container><container id="aspace_b53613dc42c832f69938623ea96eb3bd" parent="aspace_364ae3334f2a73ee13865875e70ef3c2" type="folder">1</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>District 65 Finances</unittitle><unitdate normal="1980/1989" type="inclusive">1980s</unitdate><container altrender="Record carton" id="aspace_c89b0078bd679b97d5b68157bb2ab0ca" label="Mixed Materials [31142062727170]" type="box">1</container><container id="aspace_8858be3b1bfece2b373e2c40d73f6e46" parent="aspace_c89b0078bd679b97d5b68157bb2ab0ca" type="folder">2</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Political Action</unittitle><unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate><container altrender="Record carton" id="aspace_087185cb8ffd272695b007265950abcb" label="Mixed Materials [31142062727170]" type="box">1</container><container id="aspace_6a418fc9e15ea0fbbceadc25a59805d3" parent="aspace_087185cb8ffd272695b007265950abcb" type="folder">3</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>NYS Community Action Program</unittitle><unitdate normal="1993/1995" type="inclusive">1993-1995</unitdate><container altrender="Record carton" id="aspace_694b2019fe73dbeba427d27900bf9b03" label="Mixed Materials [31142062727170]" type="box">1</container><container id="aspace_631e8cc2f9628ad7300cb6a5ec211932" parent="aspace_694b2019fe73dbeba427d27900bf9b03" type="folder">4</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Silent Watchman/General Office</unittitle><unitdate normal="1978/1992" type="inclusive">1978-1992</unitdate><container altrender="Record carton" id="aspace_caae83b7ba5073e09b93f17f527eab2e" label="Mixed Materials [31142062727170]" type="box">1</container><container id="aspace_a70c6d477bb9d588018f5d8e431d885f" parent="aspace_caae83b7ba5073e09b93f17f527eab2e" type="folder">5</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Labor Law Reform</unittitle><unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate><container altrender="Record carton" id="aspace_a70f941e63bb3dade1944840c3232754" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_9d32e714c043f798937328f2b591b86f" parent="aspace_a70f941e63bb3dade1944840c3232754" type="folder">1</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Lobbying</unittitle><unitdate normal="1995/1995" type="inclusive">1995</unitdate><container altrender="Record carton" id="aspace_ffe86bac36d59c871f4584790c5a3000" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_116451002bb299cdd5b5b97929da19ba" parent="aspace_ffe86bac36d59c871f4584790c5a3000" type="folder">2</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Social Issues</unittitle><unitdate normal="1993/1995" type="inclusive">1993-1995</unitdate><container altrender="Record carton" id="aspace_0427ea1b8a5abe778a889ca076cc5602" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_5d99b319dfacd79d6f4cb46e9b9335d2" parent="aspace_0427ea1b8a5abe778a889ca076cc5602" type="folder">3</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Substance Abuse</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Record carton" id="aspace_c8784c45fb38ce07d8d005139c04dec9" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_9246b4a10030c2d44ac6dc00db731128" parent="aspace_c8784c45fb38ce07d8d005139c04dec9" type="folder">4</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Health and Safety — Video Display Units</unittitle><unitdate normal="1980/1989" type="inclusive">1980s</unitdate><container altrender="Record carton" id="aspace_b0e6fcd7f00808909ae6dff59765dc58" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_25d919e71e92fc90e235e52b19b35943" parent="aspace_b0e6fcd7f00808909ae6dff59765dc58" type="folder">5</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Health and Safety — Video Display Units</unittitle><unitdate normal="1980/1989" type="inclusive">1980s</unitdate><container altrender="Record carton" id="aspace_3de65d29b99ad32e6e4103cd0768f8bb" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_10e0ddd8c1a3cec2e51680093cd667d1" parent="aspace_3de65d29b99ad32e6e4103cd0768f8bb" type="folder">6</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Women's Issues</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Record carton" id="aspace_347ba646e602e81ee9739b64850a3080" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_c893abb006b42029300d7f340bebb015" parent="aspace_347ba646e602e81ee9739b64850a3080" type="folder">7</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Air Express International</unittitle><unitdate normal="1992/1992" type="inclusive">1992</unitdate><container altrender="Record carton" id="aspace_39e3549e7206366a96f031bdff174de8" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_0b51bed18bae36ee4b56ea1e973eb541" parent="aspace_39e3549e7206366a96f031bdff174de8" type="folder">8</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Withdraw! Liability</unittitle><unitdate normal="1982/1982" type="inclusive">1982-1986</unitdate><container altrender="Record carton" id="aspace_84db784c536b07f730bf1b9956c07fb2" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_06fe6866842e2484459a9a6e3e8b4e03" parent="aspace_84db784c536b07f730bf1b9956c07fb2" type="folder">9</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Sexual Harassment</unittitle><unitdate normal="1942/2004" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_e5b342e3307d1306a47db0f1c83480bd" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_e6aded1ec3f4f46975e51df82543ac5e" parent="aspace_e5b342e3307d1306a47db0f1c83480bd" type="folder">10</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Strike Info</unittitle><unitdate normal="1942/2004" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_5457d9f99cb4efb481382048f45169f4" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_d20a21ac4775880d439d2d6f64807d64" parent="aspace_5457d9f99cb4efb481382048f45169f4" type="folder">11</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Labor Laws</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Record carton" id="aspace_8e4eb45268091e03a032332831b60465" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_d763067bb68f2c65c039d48acc25faeb" parent="aspace_8e4eb45268091e03a032332831b60465" type="folder">12</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Union Related Services</unittitle><unitdate normal="1942/2004" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_83e17cd89c3d8465476d53cf003cdea2" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_d7c6d7e1da93f6b8a71b24aca81dce7d" parent="aspace_83e17cd89c3d8465476d53cf003cdea2" type="folder">13</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Labor Lit/Solidarity</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Record carton" id="aspace_c4aea1383f05219cb347537a7415f7cb" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_d93209490f06064e2efa503787a261e3" parent="aspace_c4aea1383f05219cb347537a7415f7cb" type="folder">14</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>NYS Dept of Labor</unittitle><unitdate normal="1995/1995" type="inclusive">1995</unitdate><container altrender="Record carton" id="aspace_5c20c3cfef60b92221b870d2ad8112e2" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_334b531a600653a75921a4864cdb17c0" parent="aspace_5c20c3cfef60b92221b870d2ad8112e2" type="folder">15</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Leaflets</unittitle><unitdate normal="1980/1989" type="inclusive">1980s</unitdate><container altrender="Record carton" id="aspace_36dab06822c3dce682bc62066b1da697" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_ee0cab024ca088d3f25b04f5996e0efa" parent="aspace_36dab06822c3dce682bc62066b1da697" type="folder">16</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>D 65 Elections</unittitle><unitdate normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Record carton" id="aspace_c345b53079535bb814898c11b3eabb93" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_9e21de09bd942c4cfffeefd647ac99dd" parent="aspace_c345b53079535bb814898c11b3eabb93" type="folder">17</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Duty to Bargaining in Good Faith</unittitle><unitdate normal="1942/2004" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_b3d59858d39b571b59697491dbd18b4a" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_ebe650a62b96c3fd4983b096ebe83328" parent="aspace_b3d59858d39b571b59697491dbd18b4a" type="folder">18</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Sexual Harassment</unittitle><unitdate normal="1981/1983" type="inclusive">1981-1983</unitdate><container altrender="Record carton" id="aspace_382724d4857b8798f3970647c7606cbd" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_1663b30e8ef9150c225bfada0c9f1f72" parent="aspace_382724d4857b8798f3970647c7606cbd" type="folder">19</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Health and Safety/General Info</unittitle><unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate><container altrender="Record carton" id="aspace_7dd382e0bf6436e735fef9e6350a093b" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_f1706774382ba8e5bbfcdb3d8d16bfd9" parent="aspace_7dd382e0bf6436e735fef9e6350a093b" type="folder">20</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Local 1199</unittitle><unitdate normal="1989/1993" type="inclusive">1989-1993</unitdate><container altrender="Record carton" id="aspace_4e0a5bde1274348082878b1848f55f47" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_9b25d02baa0b09c9f1f7b36af16c6501" parent="aspace_4e0a5bde1274348082878b1848f55f47" type="folder">21</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>D 65 Finances</unittitle><unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate><container altrender="Record carton" id="aspace_6c1cfdcc3d05ffab80252ed9e09859f9" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_321db03ac114711afe57413e69b60d78" parent="aspace_6c1cfdcc3d05ffab80252ed9e09859f9" type="folder">22</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Women's Issues</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Record carton" id="aspace_5a4a7d80136fbeec132d32d0fc3ca7d4" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_4017e18f2768a4477d66feb55f0982f6" parent="aspace_5a4a7d80136fbeec132d32d0fc3ca7d4" type="folder">23</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Child Care</unittitle><unitdate normal="1992/1994" type="inclusive">1992-1994</unitdate><container altrender="Record carton" id="aspace_08694f4c45811245dd78264682595749" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_324dbaddf902f95bc8f2ab8ddd75d24c" parent="aspace_08694f4c45811245dd78264682595749" type="folder">24</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Worker's Rights Board</unittitle><unitdate normal="1994/1995" type="inclusive">1994-1995</unitdate><container altrender="Record carton" id="aspace_be1e8780a1093c7a18ef626b1e71ca79" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_e4ed613a821d769fb8e667b749d195c5" parent="aspace_be1e8780a1093c7a18ef626b1e71ca79" type="folder">25</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Family Leave and Medical Act</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Record carton" id="aspace_35871005f795284524e098a21355b205" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_51da76e93b4a2c255db247067e899b27" parent="aspace_35871005f795284524e098a21355b205" type="folder">26</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>NY Committee for Occupational Safety and Health</unittitle><unitdate normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Record carton" id="aspace_cedda03a7127fefa1b29a63098125f1b" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_2d50c22bb82cfa710a284038f1b455d7" parent="aspace_cedda03a7127fefa1b29a63098125f1b" type="folder">27</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Organizing</unittitle><unitdate normal="1942/2004" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_017602b796e483be4a3ed7e375ba689e" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_369b9b9c076e84656c59ece570fabce5" parent="aspace_017602b796e483be4a3ed7e375ba689e" type="folder">28</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Black Lake Retreat</unittitle><unitdate normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Record carton" id="aspace_ab46403ae9f58e66c2220043b764a99d" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_be83ce4c71d2db17d027cf29b8434d9a" parent="aspace_ab46403ae9f58e66c2220043b764a99d" type="folder">29</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Child Care</unittitle><unitdate normal="1942/2004" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_21dfb0bab843a00de19fcfc7373f2ebb" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_e0f192763f7426fdbf1057b2555cd0dc" parent="aspace_21dfb0bab843a00de19fcfc7373f2ebb" type="folder">30</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Union Programs</unittitle><unitdate normal="1985/1992" type="inclusive">1985-1992</unitdate><container altrender="Record carton" id="aspace_c00592b2af7b284b7fd64fc790349efd" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_dd45144c495b0a9f7a57e3e204c30595" parent="aspace_c00592b2af7b284b7fd64fc790349efd" type="folder">31</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Union Busting</unittitle><unitdate normal="1977/1980" type="inclusive">1977-1980</unitdate><container altrender="Record carton" id="aspace_0eb0da8edccfac4789427bfb4314fd72" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_7f78706f11df0c3ca3dd368f48d02713" parent="aspace_0eb0da8edccfac4789427bfb4314fd72" type="folder">32</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Health Care Reform</unittitle><unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate><container altrender="Record carton" id="aspace_30027f3f3db66c9aba33608db50460e2" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_88f70b51b6bd7ac132160c98599e51bb" parent="aspace_30027f3f3db66c9aba33608db50460e2" type="folder">33</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Academic Council</unittitle><unitdate normal="1982/1985" type="inclusive">1982-1985</unitdate><container altrender="Record carton" id="aspace_051d4fc6bed4dbecae37dc8f5e1f2ae2" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_7df4ce50eb1084ffd372fa9c87da9298" parent="aspace_051d4fc6bed4dbecae37dc8f5e1f2ae2" type="folder">34</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Local Union Press Assoc.</unittitle><unitdate normal="1995/1995" type="inclusive">1995</unitdate><container altrender="Record carton" id="aspace_7c1bd410cdaf519fa64e537944417f51" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_55e531e704318394bc1fc32117ba0979" parent="aspace_7c1bd410cdaf519fa64e537944417f51" type="folder">35</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Conferences</unittitle><unitdate normal="1992/1995" type="inclusive">1992-1995</unitdate><container altrender="Record carton" id="aspace_b975e74f8659bd8af93dc1e1d84e8590" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_e2549927c992e3f5216602b974d3f521" parent="aspace_b975e74f8659bd8af93dc1e1d84e8590" type="folder">36</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Bob Califf</unittitle><unitdate normal="1991/1991" type="inclusive">1991</unitdate><container altrender="Record carton" id="aspace_b2e3ae158f6af699ec2174a46f0ead7c" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_5196e277087fe94ffd1014a8d9c55dfd" parent="aspace_b2e3ae158f6af699ec2174a46f0ead7c" type="folder">37</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Correspondence between Rudy Thomas and Don Bendinelli</unittitle><unitdate normal="1991/1991" type="inclusive">1991</unitdate><container altrender="Record carton" id="aspace_2deaf90accff6d1e1e2641ef1470ec9d" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_fc025afaa59419f31ca62d707e9772a0" parent="aspace_2deaf90accff6d1e1e2641ef1470ec9d" type="folder">38</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>International Union Business — UAW</unittitle><unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate><container altrender="Record carton" id="aspace_6ed99aa80ff300ab6b485a52ce06bce5" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_7fb31cfc8ad2ddad9947aec18015f612" parent="aspace_6ed99aa80ff300ab6b485a52ce06bce5" type="folder">39</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>NY Committee for Occupational Safety and Health</unittitle><unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate><container altrender="Record carton" id="aspace_d779b8169d51bf811bd476a671aa69b3" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_c9b0ca358266adf836f0a7fd5e3c1844" parent="aspace_d779b8169d51bf811bd476a671aa69b3" type="folder">40</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Union Lit</unittitle><unitdate normal="1982/1995" type="inclusive">1982-1995</unitdate><container altrender="Record carton" id="aspace_52489dd4326d3cde9127c97171e560a8" label="Mixed Materials [31142062727196]" type="box">2</container><container id="aspace_6064e56aa4de8075bf8e1e4013456040" parent="aspace_52489dd4326d3cde9127c97171e560a8" type="folder">41</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>General Office/Silent Watchman</unittitle><unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate><container altrender="Record carton" id="aspace_9478081768d179d1cb1ed8e28a666349" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_a47864d3551dd09bd42d283bef700314" parent="aspace_9478081768d179d1cb1ed8e28a666349" type="folder">1</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Silent Watchman/Negotations</unittitle><unitdate normal="1991/1991" type="inclusive">1991</unitdate><container altrender="Record carton" id="aspace_917ffc511742de9f84c0d9ebd7d97ebe" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_a8faa1a7f4d13fa8a65417ab52c41b6f" parent="aspace_917ffc511742de9f84c0d9ebd7d97ebe" type="folder">2</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>General Office/Silent Watchman Negotiations</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Record carton" id="aspace_b6bab7d407689561b6e8411872356f98" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_acc7f013ddb51c3193aab45e26b92a42" parent="aspace_b6bab7d407689561b6e8411872356f98" type="folder">3</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>General Office/Silent Watchman Negotiations</unittitle><unitdate normal="1991/1991" type="inclusive">1991</unitdate><container altrender="Record carton" id="aspace_8c4ab233e94c9ce09f1ecbf035508b46" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_ba3dfd4392cfd5cbd0c54ea9fd561efb" parent="aspace_8c4ab233e94c9ce09f1ecbf035508b46" type="folder">4</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Silent Watchman</unittitle><unitdate normal="1943/1981" type="inclusive">1943-1981</unitdate><container altrender="Record carton" id="aspace_cff1a158588dae74c9907e5643d90370" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_8b9fcbb18acfabcddfbe61714049d5f8" parent="aspace_cff1a158588dae74c9907e5643d90370" type="folder">5</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>National Guardian/Reorg/RestRuc</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Record carton" id="aspace_f27b416895755ec0fb507a1079466e26" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_e1095b8a45d2c09fa00f80247a9f8ec0" parent="aspace_f27b416895755ec0fb507a1079466e26" type="folder">6</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Silent Watchman and United Warehouse Employees</unittitle><unitdate normal="1942/1984" type="inclusive">1942-1984</unitdate><container altrender="Record carton" id="aspace_7e6aed1fddfcf2f7382ff76d99e27d9e" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_52926d907013562dd7f86591fc832331" parent="aspace_7e6aed1fddfcf2f7382ff76d99e27d9e" type="folder">7</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Silent Watchman Agreements</unittitle><unitdate normal="1947/1993" type="inclusive">1947-1993</unitdate><container altrender="Record carton" id="aspace_c065bd76971c366088ac689dab0c5770" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_62196279810a662cc1543a77dc8e09c7" parent="aspace_c065bd76971c366088ac689dab0c5770" type="folder">8</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Brooklyn Historical Society</unittitle><unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate><container altrender="Record carton" id="aspace_5286550642d0fb335a3da250adafc156" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_233d01bcc51209df1ecd83ec3314690d" parent="aspace_5286550642d0fb335a3da250adafc156" type="folder">9</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Long Island Historical Society</unittitle><unitdate normal="1985/1988" type="inclusive">1985-1988</unitdate><container altrender="Record carton" id="aspace_2dddc9c5e1f3a3a585d99e33129f6c9d" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_d08c226e11702788f525cfe7acc4c619" parent="aspace_2dddc9c5e1f3a3a585d99e33129f6c9d" type="folder">10</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>National Jewish Hospital</unittitle><unitdate normal="1983/1992" type="inclusive">1983-1992</unitdate><container altrender="Record carton" id="aspace_25d88e836bdc90a669d361416d48b306" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_ce0a82b1ea9a7d3324cbb66e112a8cd1" parent="aspace_25d88e836bdc90a669d361416d48b306" type="folder">11</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>National Guardian</unittitle><unitdate normal="1946/1990" type="inclusive">1946-1990</unitdate><container altrender="Record carton" id="aspace_185200dd42ac1d466cbdcd6d3cbaa06c" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_ac01495a741d0676951b23761d05017d" parent="aspace_185200dd42ac1d466cbdcd6d3cbaa06c" type="folder">12</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Science and Society/Publishing</unittitle><unitdate normal="1976/1986" type="inclusive">1976-1986</unitdate><container altrender="Record carton" id="aspace_8b0aa9b7d2f245f65daaf3048c76a9ba" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_34557d719bd5418e4d0edd901c343be2" parent="aspace_8b0aa9b7d2f245f65daaf3048c76a9ba" type="folder">13</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>National Writers Union</unittitle><unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate><container altrender="Record carton" id="aspace_f27214bbdd79bdec42e2ff0d1a15e616" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_b60d0094c263f9a5478d684f0fa6d71e" parent="aspace_f27214bbdd79bdec42e2ff0d1a15e616" type="folder">14</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>National Law Journal</unittitle><unitdate normal="1984/1984" type="inclusive">1984</unitdate><container altrender="Record carton" id="aspace_4904ba8defa3a07b2378948f29791f6d" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_2e9b1160dce06e796c906ae27812c69c" parent="aspace_4904ba8defa3a07b2378948f29791f6d" type="folder">15</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Brooklyn Historical Society</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Record carton" id="aspace_71a5726b09d792e691e9d816bf65500d" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_7c13b7924e158a9ceae693d6b81eb94f" parent="aspace_71a5726b09d792e691e9d816bf65500d" type="folder">16</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Royal Business School</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Record carton" id="aspace_d899173e8eb220b5bd72132133e80d8d" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_67481b936970771424d4d7b1bffc40c6" parent="aspace_d899173e8eb220b5bd72132133e80d8d" type="folder">17</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Riverside Church</unittitle><unitdate normal="1992/1992" type="inclusive">1992</unitdate><container altrender="Record carton" id="aspace_021efbe7b0fb36ff1137de08477ec142" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_70055cbae7ac530ca54728125a467a22" parent="aspace_021efbe7b0fb36ff1137de08477ec142" type="folder">18</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Glemby Corp. Retirements</unittitle><unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate><container altrender="Record carton" id="aspace_cb40c82e6b6fb7b0856baa0028749a24" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_c5fdc086ddaa6fbc6b65f3c133630cf1" parent="aspace_cb40c82e6b6fb7b0856baa0028749a24" type="folder">19</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Glemby Corp. Stress Workshop Survey</unittitle><unitdate normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Record carton" id="aspace_b4c41c266e6ecef6b8a4ac35eb9bc7e7" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_5052f77da9da8761996837b4e039a2f6" parent="aspace_b4c41c266e6ecef6b8a4ac35eb9bc7e7" type="folder">20</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Joseph Chinapen</unittitle><unitdate normal="1990/1990" type="inclusive">1990</unitdate><container altrender="Record carton" id="aspace_8b0f3363604666298db9b771ad1645a5" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_fcba0f29c17ea389b0b36e61689b8641" parent="aspace_8b0f3363604666298db9b771ad1645a5" type="folder">21</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Glemby Contracts</unittitle><unitdate normal="1985/1991" type="inclusive">1985-1991</unitdate><container altrender="Record carton" id="aspace_4a81dba0cc6e9e1befe839487da86090" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_20009285ad2cd12eefa36cb2445cc66c" parent="aspace_4a81dba0cc6e9e1befe839487da86090" type="folder">22</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Glemby</unittitle><unitdate normal="1985/1991" type="inclusive">1989-1991</unitdate><container altrender="Record carton" id="aspace_31a68ea5c94e2ba85e50f51cc3bc3d60" label="Mixed Materials [31142062727204]" type="box">3</container><container id="aspace_52642deca8d193a42766378dd875e9e5" parent="aspace_31a68ea5c94e2ba85e50f51cc3bc3d60" type="folder">23</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>CBTU Convention VHS</unittitle><container altrender="Record carton" id="aspace_8ad12d2a8b2f0e50b4340b2f4d3e2afc" label="Mixed Materials [31142062727188]" type="box">4</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Dr. Wyatt Tee Walker VHS</unittitle><container altrender="Record carton" id="aspace_edaf003214afe7d81dea670f60e4964a" label="Mixed Materials [31142062727188]" type="box">4</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Boycott Shell VHS</unittitle><container altrender="Record carton" id="aspace_700d5f3a1f15098c5889a33ec2d59213" label="Mixed Materials [31142062727188]" type="box">4</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Security Plan Conference VHS</unittitle><container altrender="Record carton" id="aspace_180a8232e8194daa4c605006b6f0600b" label="Mixed Materials [31142062727188]" type="box">4</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Democracy At Work: Labor Looks at 1988 Presidential Candidates VHS</unittitle><container altrender="Record carton" id="aspace_58c24ffce737c66b80911fa19f5744dd" label="Mixed Materials [31142062727188]" type="box">4</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>D 65 at Hofstra VHS</unittitle><container altrender="Record carton" id="aspace_d6c559038322dabc7243fcc8720fbaf6" label="Mixed Materials [31142062727188]" type="box">4</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Security Plan Conference/Jim Bell VHS</unittitle><container altrender="Record carton" id="aspace_d6cf475c73a3f40e55ecc7ed64516016" label="Mixed Materials [31142062727188]" type="box">4</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Anti-Apartheid PSA VHS</unittitle><container altrender="Record carton" id="aspace_0c8a15a5a95f9e6f3fa95651838c3b2b" label="Mixed Materials [31142062727188]" type="box">4</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>Jim Bell/Hagles/Herns Fight VHS</unittitle><container altrender="Record carton" id="aspace_50e3a6cc4d7e0694799eafa787654694" label="Mixed Materials [31142062727188]" type="box">4</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Former Bargaining Units VHS</unittitle><container altrender="Record carton" id="aspace_dda6976983541d0f2baf827295a98579" label="Mixed Materials [31142062727188]" type="box">4</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Club Med</unittitle><unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate><container altrender="Record carton" id="aspace_c250e018174279f2cd261e8c4da23e68" label="Mixed Materials [31142062727188]" type="box">4</container><container id="aspace_c2e9ca7e71dee69b6515132274f57cad" parent="aspace_c250e018174279f2cd261e8c4da23e68" type="folder">1</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Kamini Gandhi</unittitle><unitdate normal="1990/1990" type="inclusive">1990</unitdate><container altrender="Record carton" id="aspace_defd0dd23ccf2a9b0213c64de444f413" label="Mixed Materials [31142062727188]" type="box">4</container><container id="aspace_4ec01874904db744ba662fd4d0cd1508" parent="aspace_defd0dd23ccf2a9b0213c64de444f413" type="folder">2</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Job Descriptions</unittitle><unitdate normal="1983/1989" type="inclusive">1983-1989</unitdate><container altrender="Record carton" id="aspace_c38f51f194178585b8b3d367709cc776" label="Mixed Materials [31142062727188]" type="box">4</container><container id="aspace_1eb35adb2e3e5ce6719d643bcfe594fd" parent="aspace_c38f51f194178585b8b3d367709cc776" type="folder">3</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Layoff Severence Letters</unittitle><unitdate normal="1983/1989" type="inclusive">1983-1989</unitdate><container altrender="Record carton" id="aspace_06b69b7a865e006c6324161644c86aa2" label="Mixed Materials [31142062727188]" type="box">4</container><container id="aspace_f8a50a7ba799cca3942453003993e782" parent="aspace_06b69b7a865e006c6324161644c86aa2" type="folder">4</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>Club Med/General</unittitle><unitdate normal="1984/1984" type="inclusive">1984</unitdate><container altrender="Record carton" id="aspace_9a68f673abd821bb11311d250dca633f" label="Mixed Materials [31142062727188]" type="box">4</container><container id="aspace_3e91b4555c3774c120471ce1e148af82" parent="aspace_9a68f673abd821bb11311d250dca633f" type="folder">5</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>Contracts</unittitle><unitdate normal="1988/1990" type="inclusive">1988-1990</unitdate><container altrender="Record carton" id="aspace_9cae5cfd6899a4318c3d0169e93c38f1" label="Mixed Materials [31142062727188]" type="box">4</container><container id="aspace_b13ff5b5b1f167ba4716495022c0f7fe" parent="aspace_9cae5cfd6899a4318c3d0169e93c38f1" type="folder">6</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>Club Med/Contracts</unittitle><unitdate normal="1989/1991" type="inclusive">1989-1991</unitdate><container altrender="Record carton" id="aspace_4f923dc0c2ce60eba1e8ffa28f0e83a1" label="Mixed Materials [31142062727188]" type="box">4</container><container id="aspace_3bcacc370710f29d6399b9487443acb7" parent="aspace_4f923dc0c2ce60eba1e8ffa28f0e83a1" type="folder">7</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>Non Traditional Employment Women (NEW)</unittitle><unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate><container altrender="Record carton" id="aspace_ede4aaa33c70034e1d2fcf7287edd479" label="Mixed Materials [31142062727188]" type="box">4</container><container id="aspace_9e950f78d4245e3c552ce503f33ecebb" parent="aspace_ede4aaa33c70034e1d2fcf7287edd479" type="folder">8</container></did></c><c id="aspace_ref97" level="file"><did><unittitle>Catholic Guardian Society</unittitle><unitdate normal="1991/1993" type="inclusive">1991-1993</unitdate><container altrender="Record carton" id="aspace_c914aa429d7efc3898e0c1e4becae2c1" label="Mixed Materials [31142062727188]" type="box">4</container><container id="aspace_a2c21e86986d13e7f1f89b0812722266" parent="aspace_c914aa429d7efc3898e0c1e4becae2c1" type="folder">9</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>General Office/Metropolitan News Co</unittitle><unitdate normal="1992/1992" type="inclusive">1992</unitdate><container altrender="Record carton" id="aspace_79c7157d646311b4b92463c649cc7c44" label="Mixed Materials [31142062727188]" type="box">4</container><container id="aspace_dbc7127ef98481e7858ba6641b34b0ce" parent="aspace_79c7157d646311b4b92463c649cc7c44" type="folder">10</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Glemby</unittitle><unitdate normal="1989/1991" type="inclusive">1989-91</unitdate><container altrender="Record carton" id="aspace_24bf56e17728fdd7e01077a6d7300611" label="Mixed Materials [31142062727188]" type="box">4</container><container id="aspace_3bbbd882673e5f1f71d31ea94eb60329" parent="aspace_24bf56e17728fdd7e01077a6d7300611" type="folder">11</container></did></c><c id="aspace_ref100" level="file"><did><unittitle>DCA Food Industries Inc</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Record carton" id="aspace_7e427b9fa9fe253914df6bb86f48fd07" label="Mixed Materials [31142062727188]" type="box">4</container><container id="aspace_5674f18291fe22113926e8c865aa88cb" parent="aspace_7e427b9fa9fe253914df6bb86f48fd07" type="folder">12</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>DCA Food Industries Contract and Index</unittitle><unitdate normal="1942/2004" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_548abe29d7a7fa32eff6ea4cf5b16151" label="Mixed Materials [31142062727188]" type="box">4</container><container id="aspace_fba1c3963b80920f3840a574d46e9b9d" parent="aspace_548abe29d7a7fa32eff6ea4cf5b16151" type="folder">13</container></did></c><c id="aspace_ref102" level="file"><did><unittitle>Citizen Action</unittitle><unitdate normal="1992/1992" type="inclusive">1992</unitdate><container altrender="Record carton" id="aspace_4d02ddeff5416c0c30103856f5e150a5" label="Mixed Materials [31142062727212]" type="box">5</container><container id="aspace_61364efc9214974e5d784c9e9a0b1068" parent="aspace_4d02ddeff5416c0c30103856f5e150a5" type="folder">1</container></did></c><c id="aspace_ref103" level="file"><did><unittitle>D 65 UAW Organizing in Non Traditional Areas</unittitle><unitdate normal="1991/1991" type="inclusive">1991</unitdate><container altrender="Record carton" id="aspace_40f066dc82b1937dc4e52ac5cf129ca6" label="Mixed Materials [31142062727212]" type="box">5</container><container id="aspace_527dc695cdfa00fda3e25eaba1a73059" parent="aspace_40f066dc82b1937dc4e52ac5cf129ca6" type="folder">2</container></did></c><c id="aspace_ref104" level="file"><did><unittitle>Other Union Correspondence/Literature</unittitle><unitdate normal="1991/1991" type="inclusive">1991</unitdate><container altrender="Record carton" id="aspace_14ad736b678a527455022bf00a56760a" label="Mixed Materials [31142062727212]" type="box">5</container><container id="aspace_6e83cef42dd93546baa5f8950688892d" parent="aspace_14ad736b678a527455022bf00a56760a" type="folder">3</container></did></c><c id="aspace_ref105" level="file"><did><unittitle>UMWA</unittitle><unitdate normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Record carton" id="aspace_7d189f0f93cdf1c4077783b5c876fa27" label="Mixed Materials [31142062727212]" type="box">5</container><container id="aspace_dd3cf3dad6698beb3053072f9e39a2fb" parent="aspace_7d189f0f93cdf1c4077783b5c876fa27" type="folder">4</container></did></c><c id="aspace_ref106" level="file"><did><unittitle>Rub Sheets/Union Busting</unittitle><unitdate normal="1976/1979" type="inclusive">1976-79</unitdate><container altrender="Record carton" id="aspace_113354637a56fad96f2f72373403eeef" label="Mixed Materials [31142062727212]" type="box">5</container><container id="aspace_80a2b31110d8b2b67f8e13704cac5b2a" parent="aspace_113354637a56fad96f2f72373403eeef" type="folder">5</container></did></c><c id="aspace_ref107" level="file"><did><unittitle>Boston University Union and Anti Union</unittitle><unitdate normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Record carton" id="aspace_b5c80b0d1c775f5418c511257e8fcdca" label="Mixed Materials [31142062727212]" type="box">5</container><container id="aspace_60a01c33bb5419dbc863a8e0b188541d" parent="aspace_b5c80b0d1c775f5418c511257e8fcdca" type="folder">6</container></did></c><c id="aspace_ref108" level="file"><did><unittitle>Anti Union Material-Yale</unittitle><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Record carton" id="aspace_b1e9b149ec154b1c6368c6ff2c2c1a8f" label="Mixed Materials [31142062727212]" type="box">5</container><container id="aspace_eb4c1f8957625c80c334a44e4a7503e8" parent="aspace_b1e9b149ec154b1c6368c6ff2c2c1a8f" type="folder">7</container></did></c><c id="aspace_ref109" level="file"><did><unittitle>Boston Anti Union Lit</unittitle><unitdate normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Record carton" id="aspace_6008c09e0042a11a87f9272c27e27c11" label="Mixed Materials [31142062727212]" type="box">5</container><container id="aspace_8c412d147c533ce71e89d0a8d3846c50" parent="aspace_6008c09e0042a11a87f9272c27e27c11" type="folder">8</container></did></c><c id="aspace_ref110" level="file"><did><unittitle>List Of All Shops and Info on TOP Division</unittitle><unitdate normal="1942/2004" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_5808ee077b7cbe745e48a168f9f731c5" label="Mixed Materials [31142062727212]" type="box">5</container><container id="aspace_494e8741973840f69b4240a74d7d790c" parent="aspace_5808ee077b7cbe745e48a168f9f731c5" type="folder">9</container></did></c><c id="aspace_ref111" level="file"><did><unittitle>General 65 Info</unittitle><unitdate normal="1942/2004" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_554031919a7f94e45e83708c81ca5975" label="Mixed Materials [31142062727212]" type="box">5</container><container id="aspace_a58d2b4996a0be6892d9b0829a60c2e7" parent="aspace_554031919a7f94e45e83708c81ca5975" type="folder">10</container></did></c><c id="aspace_ref112" level="file"><did><unittitle>New Tech</unittitle><unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate><container altrender="Record carton" id="aspace_c4df9cfa861e2ba374bb88193460655e" label="Mixed Materials [31142062727212]" type="box">5</container><container id="aspace_a56b5b3fbb8b02fe4203388747cea59a" parent="aspace_c4df9cfa861e2ba374bb88193460655e" type="folder">11</container></did></c><c id="aspace_ref113" level="file"><did><unittitle>TOP</unittitle><unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate><container altrender="Record carton" id="aspace_7dcdfa8240575d6536fe7b0d1ff095ad" label="Mixed Materials [31142062727212]" type="box">5</container><container id="aspace_eeca6e1527c033e530e5b6c5dab3a357" parent="aspace_7dcdfa8240575d6536fe7b0d1ff095ad" type="folder">12</container></did></c><c id="aspace_ref114" level="file"><did><unittitle>Benefit Tickets</unittitle><unitdate normal="1942/2004" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_3507994c832e3e8339f3560ed68554f9" label="Mixed Materials [31142062727212]" type="box">5</container><container id="aspace_f1701e77276cc74df0fa936fd7d536fd" parent="aspace_3507994c832e3e8339f3560ed68554f9" type="folder">13</container></did></c><c id="aspace_ref115" level="file"><did><unittitle>New York Emergency Co.</unittitle><unitdate normal="1990/1993" type="inclusive">1990-1993</unitdate><container altrender="Record carton" id="aspace_13286a0499b4488838fa92d8cb32363d" label="Mixed Materials [31142062727212]" type="box">5</container><container id="aspace_4fa109e877200e53c9cd01cbb82779f1" parent="aspace_13286a0499b4488838fa92d8cb32363d" type="folder">14</container></did></c><c id="aspace_ref116" level="file"><did><unittitle>Women's Committee</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Record carton" id="aspace_a896d7c7f4fbf6c4ddae314bd1c5277b" label="Mixed Materials [31142062727212]" type="box">5</container><container id="aspace_3e8119d17026c73acabfe97c01150d45" parent="aspace_a896d7c7f4fbf6c4ddae314bd1c5277b" type="folder">15</container></did></c><c id="aspace_ref117" level="file"><did><unittitle>Yale ARB Award</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Record carton" id="aspace_e508ade0e09f76c6d3104944201d57dc" label="Mixed Materials [31142062727212]" type="box">5</container><container id="aspace_7ecc304c8221d0cf0eaef0f91b73c520" parent="aspace_e508ade0e09f76c6d3104944201d57dc" type="folder">16</container></did></c><c id="aspace_ref118" level="file"><did><unittitle>University Organizing Contracts</unittitle><unitdate normal="1980/1989" type="inclusive">1980s</unitdate><container altrender="Record carton" id="aspace_e3ecc4ce518b0397c11ccfa2e24ae8d4" label="Mixed Materials [31142062727212]" type="box">5</container><container id="aspace_430e4c29ec3207e644c5306369e741aa" parent="aspace_e3ecc4ce518b0397c11ccfa2e24ae8d4" type="folder">17</container></did></c><c id="aspace_ref119" level="file"><did><unittitle>D 65 Health and Safety Dept of Labor Grant</unittitle><unitdate normal="1994/1995" type="inclusive">1994-1995</unitdate><container altrender="Record carton" id="aspace_9aaf880e8b195e512e8201779ab909e9" label="Mixed Materials [31142062727212]" type="box">5</container><container id="aspace_9ef9a1488c2eed97de91fa549e959338" parent="aspace_9aaf880e8b195e512e8201779ab909e9" type="folder">18</container></did></c></c><c id="aspace_ref120" level="series"><did><unittitle>Series II: Archived Website</unittitle><unitdate>Mar 21, 2009-ongoing</unitdate><dao xlink:actuate="onRequest" xlink:href="https://wayback.archive-it.org/6349/*/http://www.2110uaw.org/x" xlink:role="external-link" xlink:show="embed" xlink:title="United Automobile Workers of America, Local 2110" xlink:type="simple"><daodesc><p>United Automobile Workers of America, Local 2110</p></daodesc></dao></did><scopecontent id="aspace_6660c824ea2f3cfa1da2d4903e7a20af"><head>Scope and Content Note</head><p>The Technical, Office and Professional (TOP) Union, Local 2110, is an amalgamated union with contracts covering workers in universities, publishing, museums, law firms and other offices, including teachers, secretaries, administrators, editors, computer operators, librarians, museum curators, typesetters and graphic artists in New York City. They promote benefits such as childcare, flex-time, job classification, domestic partner benefits and family leave. They are affiliated with the UAW and AFL-CIO. The website includes a listing of affiliated workplaces and organizing committees, workshops and classes, and collective bargaining agreements.</p></scopecontent><phystech id="aspace_d0dc7839735adcf70acc4e553b09e2f3"><head>Physical Characteristics and Technical Requirements</head><p>Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</p></phystech></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref9" level="series">
+        <did>
+          <unittitle>Series I: Papers and Audiovisual Materials</unittitle>
+          <unitdate normal="1942/2004" type="inclusive">1942-2004</unitdate>
+        </did>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>District 65 Finances</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
+            <container altrender="Record carton" id="aspace_364ae3334f2a73ee13865875e70ef3c2" label="Mixed Materials [31142062727170]" type="box">1</container>
+            <container id="aspace_b53613dc42c832f69938623ea96eb3bd" parent="aspace_364ae3334f2a73ee13865875e70ef3c2" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>District 65 Finances</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
+            <container altrender="Record carton" id="aspace_c89b0078bd679b97d5b68157bb2ab0ca" label="Mixed Materials [31142062727170]" type="box">1</container>
+            <container id="aspace_8858be3b1bfece2b373e2c40d73f6e46" parent="aspace_c89b0078bd679b97d5b68157bb2ab0ca" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Political Action</unittitle>
+            <unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <container altrender="Record carton" id="aspace_087185cb8ffd272695b007265950abcb" label="Mixed Materials [31142062727170]" type="box">1</container>
+            <container id="aspace_6a418fc9e15ea0fbbceadc25a59805d3" parent="aspace_087185cb8ffd272695b007265950abcb" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>NYS Community Action Program</unittitle>
+            <unitdate normal="1993/1995" type="inclusive">1993-1995</unitdate>
+            <container altrender="Record carton" id="aspace_694b2019fe73dbeba427d27900bf9b03" label="Mixed Materials [31142062727170]" type="box">1</container>
+            <container id="aspace_631e8cc2f9628ad7300cb6a5ec211932" parent="aspace_694b2019fe73dbeba427d27900bf9b03" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Silent Watchman/General Office</unittitle>
+            <unitdate normal="1978/1992" type="inclusive">1978-1992</unitdate>
+            <container altrender="Record carton" id="aspace_caae83b7ba5073e09b93f17f527eab2e" label="Mixed Materials [31142062727170]" type="box">1</container>
+            <container id="aspace_a70c6d477bb9d588018f5d8e431d885f" parent="aspace_caae83b7ba5073e09b93f17f527eab2e" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Labor Law Reform</unittitle>
+            <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container altrender="Record carton" id="aspace_a70f941e63bb3dade1944840c3232754" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_9d32e714c043f798937328f2b591b86f" parent="aspace_a70f941e63bb3dade1944840c3232754" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Lobbying</unittitle>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container altrender="Record carton" id="aspace_ffe86bac36d59c871f4584790c5a3000" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_116451002bb299cdd5b5b97929da19ba" parent="aspace_ffe86bac36d59c871f4584790c5a3000" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Social Issues</unittitle>
+            <unitdate normal="1993/1995" type="inclusive">1993-1995</unitdate>
+            <container altrender="Record carton" id="aspace_0427ea1b8a5abe778a889ca076cc5602" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_5d99b319dfacd79d6f4cb46e9b9335d2" parent="aspace_0427ea1b8a5abe778a889ca076cc5602" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Substance Abuse</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Record carton" id="aspace_c8784c45fb38ce07d8d005139c04dec9" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_9246b4a10030c2d44ac6dc00db731128" parent="aspace_c8784c45fb38ce07d8d005139c04dec9" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Health and Safety — Video Display Units</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
+            <container altrender="Record carton" id="aspace_b0e6fcd7f00808909ae6dff59765dc58" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_25d919e71e92fc90e235e52b19b35943" parent="aspace_b0e6fcd7f00808909ae6dff59765dc58" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Health and Safety — Video Display Units</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
+            <container altrender="Record carton" id="aspace_3de65d29b99ad32e6e4103cd0768f8bb" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_10e0ddd8c1a3cec2e51680093cd667d1" parent="aspace_3de65d29b99ad32e6e4103cd0768f8bb" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Women's Issues</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container altrender="Record carton" id="aspace_347ba646e602e81ee9739b64850a3080" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_c893abb006b42029300d7f340bebb015" parent="aspace_347ba646e602e81ee9739b64850a3080" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Air Express International</unittitle>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container altrender="Record carton" id="aspace_39e3549e7206366a96f031bdff174de8" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_0b51bed18bae36ee4b56ea1e973eb541" parent="aspace_39e3549e7206366a96f031bdff174de8" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Withdraw! Liability</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982-1986</unitdate>
+            <container altrender="Record carton" id="aspace_84db784c536b07f730bf1b9956c07fb2" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_06fe6866842e2484459a9a6e3e8b4e03" parent="aspace_84db784c536b07f730bf1b9956c07fb2" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Sexual Harassment</unittitle>
+            <unitdate normal="1942/2004" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_e5b342e3307d1306a47db0f1c83480bd" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_e6aded1ec3f4f46975e51df82543ac5e" parent="aspace_e5b342e3307d1306a47db0f1c83480bd" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Strike Info</unittitle>
+            <unitdate normal="1942/2004" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_5457d9f99cb4efb481382048f45169f4" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_d20a21ac4775880d439d2d6f64807d64" parent="aspace_5457d9f99cb4efb481382048f45169f4" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Labor Laws</unittitle>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container altrender="Record carton" id="aspace_8e4eb45268091e03a032332831b60465" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_d763067bb68f2c65c039d48acc25faeb" parent="aspace_8e4eb45268091e03a032332831b60465" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Union Related Services</unittitle>
+            <unitdate normal="1942/2004" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_83e17cd89c3d8465476d53cf003cdea2" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_d7c6d7e1da93f6b8a71b24aca81dce7d" parent="aspace_83e17cd89c3d8465476d53cf003cdea2" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Labor Lit/Solidarity</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Record carton" id="aspace_c4aea1383f05219cb347537a7415f7cb" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_d93209490f06064e2efa503787a261e3" parent="aspace_c4aea1383f05219cb347537a7415f7cb" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>NYS Dept of Labor</unittitle>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container altrender="Record carton" id="aspace_5c20c3cfef60b92221b870d2ad8112e2" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_334b531a600653a75921a4864cdb17c0" parent="aspace_5c20c3cfef60b92221b870d2ad8112e2" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Leaflets</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
+            <container altrender="Record carton" id="aspace_36dab06822c3dce682bc62066b1da697" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_ee0cab024ca088d3f25b04f5996e0efa" parent="aspace_36dab06822c3dce682bc62066b1da697" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>D 65 Elections</unittitle>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container altrender="Record carton" id="aspace_c345b53079535bb814898c11b3eabb93" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_9e21de09bd942c4cfffeefd647ac99dd" parent="aspace_c345b53079535bb814898c11b3eabb93" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Duty to Bargaining in Good Faith</unittitle>
+            <unitdate normal="1942/2004" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_b3d59858d39b571b59697491dbd18b4a" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_ebe650a62b96c3fd4983b096ebe83328" parent="aspace_b3d59858d39b571b59697491dbd18b4a" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Sexual Harassment</unittitle>
+            <unitdate normal="1981/1983" type="inclusive">1981-1983</unitdate>
+            <container altrender="Record carton" id="aspace_382724d4857b8798f3970647c7606cbd" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_1663b30e8ef9150c225bfada0c9f1f72" parent="aspace_382724d4857b8798f3970647c7606cbd" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Health and Safety/General Info</unittitle>
+            <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <container altrender="Record carton" id="aspace_7dd382e0bf6436e735fef9e6350a093b" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_f1706774382ba8e5bbfcdb3d8d16bfd9" parent="aspace_7dd382e0bf6436e735fef9e6350a093b" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Local 1199</unittitle>
+            <unitdate normal="1989/1993" type="inclusive">1989-1993</unitdate>
+            <container altrender="Record carton" id="aspace_4e0a5bde1274348082878b1848f55f47" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_9b25d02baa0b09c9f1f7b36af16c6501" parent="aspace_4e0a5bde1274348082878b1848f55f47" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>D 65 Finances</unittitle>
+            <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <container altrender="Record carton" id="aspace_6c1cfdcc3d05ffab80252ed9e09859f9" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_321db03ac114711afe57413e69b60d78" parent="aspace_6c1cfdcc3d05ffab80252ed9e09859f9" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Women's Issues</unittitle>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container altrender="Record carton" id="aspace_5a4a7d80136fbeec132d32d0fc3ca7d4" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_4017e18f2768a4477d66feb55f0982f6" parent="aspace_5a4a7d80136fbeec132d32d0fc3ca7d4" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Child Care</unittitle>
+            <unitdate normal="1992/1994" type="inclusive">1992-1994</unitdate>
+            <container altrender="Record carton" id="aspace_08694f4c45811245dd78264682595749" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_324dbaddf902f95bc8f2ab8ddd75d24c" parent="aspace_08694f4c45811245dd78264682595749" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Worker's Rights Board</unittitle>
+            <unitdate normal="1994/1995" type="inclusive">1994-1995</unitdate>
+            <container altrender="Record carton" id="aspace_be1e8780a1093c7a18ef626b1e71ca79" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_e4ed613a821d769fb8e667b749d195c5" parent="aspace_be1e8780a1093c7a18ef626b1e71ca79" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Family Leave and Medical Act</unittitle>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container altrender="Record carton" id="aspace_35871005f795284524e098a21355b205" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_51da76e93b4a2c255db247067e899b27" parent="aspace_35871005f795284524e098a21355b205" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>NY Committee for Occupational Safety and Health</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container altrender="Record carton" id="aspace_cedda03a7127fefa1b29a63098125f1b" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_2d50c22bb82cfa710a284038f1b455d7" parent="aspace_cedda03a7127fefa1b29a63098125f1b" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Organizing</unittitle>
+            <unitdate normal="1942/2004" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_017602b796e483be4a3ed7e375ba689e" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_369b9b9c076e84656c59ece570fabce5" parent="aspace_017602b796e483be4a3ed7e375ba689e" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Black Lake Retreat</unittitle>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container altrender="Record carton" id="aspace_ab46403ae9f58e66c2220043b764a99d" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_be83ce4c71d2db17d027cf29b8434d9a" parent="aspace_ab46403ae9f58e66c2220043b764a99d" type="folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Child Care</unittitle>
+            <unitdate normal="1942/2004" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_21dfb0bab843a00de19fcfc7373f2ebb" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_e0f192763f7426fdbf1057b2555cd0dc" parent="aspace_21dfb0bab843a00de19fcfc7373f2ebb" type="folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Union Programs</unittitle>
+            <unitdate normal="1985/1992" type="inclusive">1985-1992</unitdate>
+            <container altrender="Record carton" id="aspace_c00592b2af7b284b7fd64fc790349efd" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_dd45144c495b0a9f7a57e3e204c30595" parent="aspace_c00592b2af7b284b7fd64fc790349efd" type="folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Union Busting</unittitle>
+            <unitdate normal="1977/1980" type="inclusive">1977-1980</unitdate>
+            <container altrender="Record carton" id="aspace_0eb0da8edccfac4789427bfb4314fd72" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_7f78706f11df0c3ca3dd368f48d02713" parent="aspace_0eb0da8edccfac4789427bfb4314fd72" type="folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Health Care Reform</unittitle>
+            <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container altrender="Record carton" id="aspace_30027f3f3db66c9aba33608db50460e2" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_88f70b51b6bd7ac132160c98599e51bb" parent="aspace_30027f3f3db66c9aba33608db50460e2" type="folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Academic Council</unittitle>
+            <unitdate normal="1982/1985" type="inclusive">1982-1985</unitdate>
+            <container altrender="Record carton" id="aspace_051d4fc6bed4dbecae37dc8f5e1f2ae2" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_7df4ce50eb1084ffd372fa9c87da9298" parent="aspace_051d4fc6bed4dbecae37dc8f5e1f2ae2" type="folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Local Union Press Assoc.</unittitle>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container altrender="Record carton" id="aspace_7c1bd410cdaf519fa64e537944417f51" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_55e531e704318394bc1fc32117ba0979" parent="aspace_7c1bd410cdaf519fa64e537944417f51" type="folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Conferences</unittitle>
+            <unitdate normal="1992/1995" type="inclusive">1992-1995</unitdate>
+            <container altrender="Record carton" id="aspace_b975e74f8659bd8af93dc1e1d84e8590" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_e2549927c992e3f5216602b974d3f521" parent="aspace_b975e74f8659bd8af93dc1e1d84e8590" type="folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Bob Califf</unittitle>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container altrender="Record carton" id="aspace_b2e3ae158f6af699ec2174a46f0ead7c" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_5196e277087fe94ffd1014a8d9c55dfd" parent="aspace_b2e3ae158f6af699ec2174a46f0ead7c" type="folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Correspondence between Rudy Thomas and Don Bendinelli</unittitle>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container altrender="Record carton" id="aspace_2deaf90accff6d1e1e2641ef1470ec9d" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_fc025afaa59419f31ca62d707e9772a0" parent="aspace_2deaf90accff6d1e1e2641ef1470ec9d" type="folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>International Union Business — UAW</unittitle>
+            <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container altrender="Record carton" id="aspace_6ed99aa80ff300ab6b485a52ce06bce5" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_7fb31cfc8ad2ddad9947aec18015f612" parent="aspace_6ed99aa80ff300ab6b485a52ce06bce5" type="folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>NY Committee for Occupational Safety and Health</unittitle>
+            <unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate>
+            <container altrender="Record carton" id="aspace_d779b8169d51bf811bd476a671aa69b3" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_c9b0ca358266adf836f0a7fd5e3c1844" parent="aspace_d779b8169d51bf811bd476a671aa69b3" type="folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Union Lit</unittitle>
+            <unitdate normal="1982/1995" type="inclusive">1982-1995</unitdate>
+            <container altrender="Record carton" id="aspace_52489dd4326d3cde9127c97171e560a8" label="Mixed Materials [31142062727196]" type="box">2</container>
+            <container id="aspace_6064e56aa4de8075bf8e1e4013456040" parent="aspace_52489dd4326d3cde9127c97171e560a8" type="folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>General Office/Silent Watchman</unittitle>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container altrender="Record carton" id="aspace_9478081768d179d1cb1ed8e28a666349" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_a47864d3551dd09bd42d283bef700314" parent="aspace_9478081768d179d1cb1ed8e28a666349" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Silent Watchman/Negotations</unittitle>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container altrender="Record carton" id="aspace_917ffc511742de9f84c0d9ebd7d97ebe" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_a8faa1a7f4d13fa8a65417ab52c41b6f" parent="aspace_917ffc511742de9f84c0d9ebd7d97ebe" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>General Office/Silent Watchman Negotiations</unittitle>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container altrender="Record carton" id="aspace_b6bab7d407689561b6e8411872356f98" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_acc7f013ddb51c3193aab45e26b92a42" parent="aspace_b6bab7d407689561b6e8411872356f98" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>General Office/Silent Watchman Negotiations</unittitle>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container altrender="Record carton" id="aspace_8c4ab233e94c9ce09f1ecbf035508b46" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_ba3dfd4392cfd5cbd0c54ea9fd561efb" parent="aspace_8c4ab233e94c9ce09f1ecbf035508b46" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Silent Watchman</unittitle>
+            <unitdate normal="1943/1981" type="inclusive">1943-1981</unitdate>
+            <container altrender="Record carton" id="aspace_cff1a158588dae74c9907e5643d90370" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_8b9fcbb18acfabcddfbe61714049d5f8" parent="aspace_cff1a158588dae74c9907e5643d90370" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>National Guardian/Reorg/RestRuc</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Record carton" id="aspace_f27b416895755ec0fb507a1079466e26" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_e1095b8a45d2c09fa00f80247a9f8ec0" parent="aspace_f27b416895755ec0fb507a1079466e26" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Silent Watchman and United Warehouse Employees</unittitle>
+            <unitdate normal="1942/1984" type="inclusive">1942-1984</unitdate>
+            <container altrender="Record carton" id="aspace_7e6aed1fddfcf2f7382ff76d99e27d9e" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_52926d907013562dd7f86591fc832331" parent="aspace_7e6aed1fddfcf2f7382ff76d99e27d9e" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Silent Watchman Agreements</unittitle>
+            <unitdate normal="1947/1993" type="inclusive">1947-1993</unitdate>
+            <container altrender="Record carton" id="aspace_c065bd76971c366088ac689dab0c5770" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_62196279810a662cc1543a77dc8e09c7" parent="aspace_c065bd76971c366088ac689dab0c5770" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Brooklyn Historical Society</unittitle>
+            <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <container altrender="Record carton" id="aspace_5286550642d0fb335a3da250adafc156" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_233d01bcc51209df1ecd83ec3314690d" parent="aspace_5286550642d0fb335a3da250adafc156" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Long Island Historical Society</unittitle>
+            <unitdate normal="1985/1988" type="inclusive">1985-1988</unitdate>
+            <container altrender="Record carton" id="aspace_2dddc9c5e1f3a3a585d99e33129f6c9d" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_d08c226e11702788f525cfe7acc4c619" parent="aspace_2dddc9c5e1f3a3a585d99e33129f6c9d" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>National Jewish Hospital</unittitle>
+            <unitdate normal="1983/1992" type="inclusive">1983-1992</unitdate>
+            <container altrender="Record carton" id="aspace_25d88e836bdc90a669d361416d48b306" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_ce0a82b1ea9a7d3324cbb66e112a8cd1" parent="aspace_25d88e836bdc90a669d361416d48b306" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>National Guardian</unittitle>
+            <unitdate normal="1946/1990" type="inclusive">1946-1990</unitdate>
+            <container altrender="Record carton" id="aspace_185200dd42ac1d466cbdcd6d3cbaa06c" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_ac01495a741d0676951b23761d05017d" parent="aspace_185200dd42ac1d466cbdcd6d3cbaa06c" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Science and Society/Publishing</unittitle>
+            <unitdate normal="1976/1986" type="inclusive">1976-1986</unitdate>
+            <container altrender="Record carton" id="aspace_8b0aa9b7d2f245f65daaf3048c76a9ba" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_34557d719bd5418e4d0edd901c343be2" parent="aspace_8b0aa9b7d2f245f65daaf3048c76a9ba" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>National Writers Union</unittitle>
+            <unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate>
+            <container altrender="Record carton" id="aspace_f27214bbdd79bdec42e2ff0d1a15e616" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_b60d0094c263f9a5478d684f0fa6d71e" parent="aspace_f27214bbdd79bdec42e2ff0d1a15e616" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>National Law Journal</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container altrender="Record carton" id="aspace_4904ba8defa3a07b2378948f29791f6d" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_2e9b1160dce06e796c906ae27812c69c" parent="aspace_4904ba8defa3a07b2378948f29791f6d" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Brooklyn Historical Society</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container altrender="Record carton" id="aspace_71a5726b09d792e691e9d816bf65500d" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_7c13b7924e158a9ceae693d6b81eb94f" parent="aspace_71a5726b09d792e691e9d816bf65500d" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Royal Business School</unittitle>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container altrender="Record carton" id="aspace_d899173e8eb220b5bd72132133e80d8d" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_67481b936970771424d4d7b1bffc40c6" parent="aspace_d899173e8eb220b5bd72132133e80d8d" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Riverside Church</unittitle>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container altrender="Record carton" id="aspace_021efbe7b0fb36ff1137de08477ec142" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_70055cbae7ac530ca54728125a467a22" parent="aspace_021efbe7b0fb36ff1137de08477ec142" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Glemby Corp. Retirements</unittitle>
+            <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <container altrender="Record carton" id="aspace_cb40c82e6b6fb7b0856baa0028749a24" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_c5fdc086ddaa6fbc6b65f3c133630cf1" parent="aspace_cb40c82e6b6fb7b0856baa0028749a24" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Glemby Corp. Stress Workshop Survey</unittitle>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container altrender="Record carton" id="aspace_b4c41c266e6ecef6b8a4ac35eb9bc7e7" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_5052f77da9da8761996837b4e039a2f6" parent="aspace_b4c41c266e6ecef6b8a4ac35eb9bc7e7" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Joseph Chinapen</unittitle>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container altrender="Record carton" id="aspace_8b0f3363604666298db9b771ad1645a5" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_fcba0f29c17ea389b0b36e61689b8641" parent="aspace_8b0f3363604666298db9b771ad1645a5" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Glemby Contracts</unittitle>
+            <unitdate normal="1985/1991" type="inclusive">1985-1991</unitdate>
+            <container altrender="Record carton" id="aspace_4a81dba0cc6e9e1befe839487da86090" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_20009285ad2cd12eefa36cb2445cc66c" parent="aspace_4a81dba0cc6e9e1befe839487da86090" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Glemby</unittitle>
+            <unitdate normal="1985/1991" type="inclusive">1989-1991</unitdate>
+            <container altrender="Record carton" id="aspace_31a68ea5c94e2ba85e50f51cc3bc3d60" label="Mixed Materials [31142062727204]" type="box">3</container>
+            <container id="aspace_52642deca8d193a42766378dd875e9e5" parent="aspace_31a68ea5c94e2ba85e50f51cc3bc3d60" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>CBTU Convention VHS</unittitle>
+            <container altrender="Record carton" id="aspace_8ad12d2a8b2f0e50b4340b2f4d3e2afc" label="Mixed Materials [31142062727188]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Dr. Wyatt Tee Walker VHS</unittitle>
+            <container altrender="Record carton" id="aspace_edaf003214afe7d81dea670f60e4964a" label="Mixed Materials [31142062727188]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Boycott Shell VHS</unittitle>
+            <container altrender="Record carton" id="aspace_700d5f3a1f15098c5889a33ec2d59213" label="Mixed Materials [31142062727188]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Security Plan Conference VHS</unittitle>
+            <container altrender="Record carton" id="aspace_180a8232e8194daa4c605006b6f0600b" label="Mixed Materials [31142062727188]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Democracy At Work: Labor Looks at 1988 Presidential Candidates VHS</unittitle>
+            <container altrender="Record carton" id="aspace_58c24ffce737c66b80911fa19f5744dd" label="Mixed Materials [31142062727188]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>D 65 at Hofstra VHS</unittitle>
+            <container altrender="Record carton" id="aspace_d6c559038322dabc7243fcc8720fbaf6" label="Mixed Materials [31142062727188]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Security Plan Conference/Jim Bell VHS</unittitle>
+            <container altrender="Record carton" id="aspace_d6cf475c73a3f40e55ecc7ed64516016" label="Mixed Materials [31142062727188]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Anti-Apartheid PSA VHS</unittitle>
+            <container altrender="Record carton" id="aspace_0c8a15a5a95f9e6f3fa95651838c3b2b" label="Mixed Materials [31142062727188]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Jim Bell/Hagles/Herns Fight VHS</unittitle>
+            <container altrender="Record carton" id="aspace_50e3a6cc4d7e0694799eafa787654694" label="Mixed Materials [31142062727188]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Former Bargaining Units VHS</unittitle>
+            <container altrender="Record carton" id="aspace_dda6976983541d0f2baf827295a98579" label="Mixed Materials [31142062727188]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Club Med</unittitle>
+            <unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <container altrender="Record carton" id="aspace_c250e018174279f2cd261e8c4da23e68" label="Mixed Materials [31142062727188]" type="box">4</container>
+            <container id="aspace_c2e9ca7e71dee69b6515132274f57cad" parent="aspace_c250e018174279f2cd261e8c4da23e68" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Kamini Gandhi</unittitle>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container altrender="Record carton" id="aspace_defd0dd23ccf2a9b0213c64de444f413" label="Mixed Materials [31142062727188]" type="box">4</container>
+            <container id="aspace_4ec01874904db744ba662fd4d0cd1508" parent="aspace_defd0dd23ccf2a9b0213c64de444f413" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Job Descriptions</unittitle>
+            <unitdate normal="1983/1989" type="inclusive">1983-1989</unitdate>
+            <container altrender="Record carton" id="aspace_c38f51f194178585b8b3d367709cc776" label="Mixed Materials [31142062727188]" type="box">4</container>
+            <container id="aspace_1eb35adb2e3e5ce6719d643bcfe594fd" parent="aspace_c38f51f194178585b8b3d367709cc776" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Layoff Severence Letters</unittitle>
+            <unitdate normal="1983/1989" type="inclusive">1983-1989</unitdate>
+            <container altrender="Record carton" id="aspace_06b69b7a865e006c6324161644c86aa2" label="Mixed Materials [31142062727188]" type="box">4</container>
+            <container id="aspace_f8a50a7ba799cca3942453003993e782" parent="aspace_06b69b7a865e006c6324161644c86aa2" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Club Med/General</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container altrender="Record carton" id="aspace_9a68f673abd821bb11311d250dca633f" label="Mixed Materials [31142062727188]" type="box">4</container>
+            <container id="aspace_3e91b4555c3774c120471ce1e148af82" parent="aspace_9a68f673abd821bb11311d250dca633f" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Contracts</unittitle>
+            <unitdate normal="1988/1990" type="inclusive">1988-1990</unitdate>
+            <container altrender="Record carton" id="aspace_9cae5cfd6899a4318c3d0169e93c38f1" label="Mixed Materials [31142062727188]" type="box">4</container>
+            <container id="aspace_b13ff5b5b1f167ba4716495022c0f7fe" parent="aspace_9cae5cfd6899a4318c3d0169e93c38f1" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Club Med/Contracts</unittitle>
+            <unitdate normal="1989/1991" type="inclusive">1989-1991</unitdate>
+            <container altrender="Record carton" id="aspace_4f923dc0c2ce60eba1e8ffa28f0e83a1" label="Mixed Materials [31142062727188]" type="box">4</container>
+            <container id="aspace_3bcacc370710f29d6399b9487443acb7" parent="aspace_4f923dc0c2ce60eba1e8ffa28f0e83a1" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Non Traditional Employment Women (NEW)</unittitle>
+            <unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate>
+            <container altrender="Record carton" id="aspace_ede4aaa33c70034e1d2fcf7287edd479" label="Mixed Materials [31142062727188]" type="box">4</container>
+            <container id="aspace_9e950f78d4245e3c552ce503f33ecebb" parent="aspace_ede4aaa33c70034e1d2fcf7287edd479" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Catholic Guardian Society</unittitle>
+            <unitdate normal="1991/1993" type="inclusive">1991-1993</unitdate>
+            <container altrender="Record carton" id="aspace_c914aa429d7efc3898e0c1e4becae2c1" label="Mixed Materials [31142062727188]" type="box">4</container>
+            <container id="aspace_a2c21e86986d13e7f1f89b0812722266" parent="aspace_c914aa429d7efc3898e0c1e4becae2c1" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>General Office/Metropolitan News Co</unittitle>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container altrender="Record carton" id="aspace_79c7157d646311b4b92463c649cc7c44" label="Mixed Materials [31142062727188]" type="box">4</container>
+            <container id="aspace_dbc7127ef98481e7858ba6641b34b0ce" parent="aspace_79c7157d646311b4b92463c649cc7c44" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Glemby</unittitle>
+            <unitdate normal="1989/1991" type="inclusive">1989-91</unitdate>
+            <container altrender="Record carton" id="aspace_24bf56e17728fdd7e01077a6d7300611" label="Mixed Materials [31142062727188]" type="box">4</container>
+            <container id="aspace_3bbbd882673e5f1f71d31ea94eb60329" parent="aspace_24bf56e17728fdd7e01077a6d7300611" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>DCA Food Industries Inc</unittitle>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container altrender="Record carton" id="aspace_7e427b9fa9fe253914df6bb86f48fd07" label="Mixed Materials [31142062727188]" type="box">4</container>
+            <container id="aspace_5674f18291fe22113926e8c865aa88cb" parent="aspace_7e427b9fa9fe253914df6bb86f48fd07" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>DCA Food Industries Contract and Index</unittitle>
+            <unitdate normal="1942/2004" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_548abe29d7a7fa32eff6ea4cf5b16151" label="Mixed Materials [31142062727188]" type="box">4</container>
+            <container id="aspace_fba1c3963b80920f3840a574d46e9b9d" parent="aspace_548abe29d7a7fa32eff6ea4cf5b16151" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Citizen Action</unittitle>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container altrender="Record carton" id="aspace_4d02ddeff5416c0c30103856f5e150a5" label="Mixed Materials [31142062727212]" type="box">5</container>
+            <container id="aspace_61364efc9214974e5d784c9e9a0b1068" parent="aspace_4d02ddeff5416c0c30103856f5e150a5" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>D 65 UAW Organizing in Non Traditional Areas</unittitle>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container altrender="Record carton" id="aspace_40f066dc82b1937dc4e52ac5cf129ca6" label="Mixed Materials [31142062727212]" type="box">5</container>
+            <container id="aspace_527dc695cdfa00fda3e25eaba1a73059" parent="aspace_40f066dc82b1937dc4e52ac5cf129ca6" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>Other Union Correspondence/Literature</unittitle>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container altrender="Record carton" id="aspace_14ad736b678a527455022bf00a56760a" label="Mixed Materials [31142062727212]" type="box">5</container>
+            <container id="aspace_6e83cef42dd93546baa5f8950688892d" parent="aspace_14ad736b678a527455022bf00a56760a" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>UMWA</unittitle>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container altrender="Record carton" id="aspace_7d189f0f93cdf1c4077783b5c876fa27" label="Mixed Materials [31142062727212]" type="box">5</container>
+            <container id="aspace_dd3cf3dad6698beb3053072f9e39a2fb" parent="aspace_7d189f0f93cdf1c4077783b5c876fa27" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Rub Sheets/Union Busting</unittitle>
+            <unitdate normal="1976/1979" type="inclusive">1976-79</unitdate>
+            <container altrender="Record carton" id="aspace_113354637a56fad96f2f72373403eeef" label="Mixed Materials [31142062727212]" type="box">5</container>
+            <container id="aspace_80a2b31110d8b2b67f8e13704cac5b2a" parent="aspace_113354637a56fad96f2f72373403eeef" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Boston University Union and Anti Union</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container altrender="Record carton" id="aspace_b5c80b0d1c775f5418c511257e8fcdca" label="Mixed Materials [31142062727212]" type="box">5</container>
+            <container id="aspace_60a01c33bb5419dbc863a8e0b188541d" parent="aspace_b5c80b0d1c775f5418c511257e8fcdca" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Anti Union Material-Yale</unittitle>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container altrender="Record carton" id="aspace_b1e9b149ec154b1c6368c6ff2c2c1a8f" label="Mixed Materials [31142062727212]" type="box">5</container>
+            <container id="aspace_eb4c1f8957625c80c334a44e4a7503e8" parent="aspace_b1e9b149ec154b1c6368c6ff2c2c1a8f" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Boston Anti Union Lit</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container altrender="Record carton" id="aspace_6008c09e0042a11a87f9272c27e27c11" label="Mixed Materials [31142062727212]" type="box">5</container>
+            <container id="aspace_8c412d147c533ce71e89d0a8d3846c50" parent="aspace_6008c09e0042a11a87f9272c27e27c11" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>List Of All Shops and Info on TOP Division</unittitle>
+            <unitdate normal="1942/2004" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_5808ee077b7cbe745e48a168f9f731c5" label="Mixed Materials [31142062727212]" type="box">5</container>
+            <container id="aspace_494e8741973840f69b4240a74d7d790c" parent="aspace_5808ee077b7cbe745e48a168f9f731c5" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>General 65 Info</unittitle>
+            <unitdate normal="1942/2004" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_554031919a7f94e45e83708c81ca5975" label="Mixed Materials [31142062727212]" type="box">5</container>
+            <container id="aspace_a58d2b4996a0be6892d9b0829a60c2e7" parent="aspace_554031919a7f94e45e83708c81ca5975" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>New Tech</unittitle>
+            <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+            <container altrender="Record carton" id="aspace_c4df9cfa861e2ba374bb88193460655e" label="Mixed Materials [31142062727212]" type="box">5</container>
+            <container id="aspace_a56b5b3fbb8b02fe4203388747cea59a" parent="aspace_c4df9cfa861e2ba374bb88193460655e" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>TOP</unittitle>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container altrender="Record carton" id="aspace_7dcdfa8240575d6536fe7b0d1ff095ad" label="Mixed Materials [31142062727212]" type="box">5</container>
+            <container id="aspace_eeca6e1527c033e530e5b6c5dab3a357" parent="aspace_7dcdfa8240575d6536fe7b0d1ff095ad" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Benefit Tickets</unittitle>
+            <unitdate normal="1942/2004" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_3507994c832e3e8339f3560ed68554f9" label="Mixed Materials [31142062727212]" type="box">5</container>
+            <container id="aspace_f1701e77276cc74df0fa936fd7d536fd" parent="aspace_3507994c832e3e8339f3560ed68554f9" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>New York Emergency Co.</unittitle>
+            <unitdate normal="1990/1993" type="inclusive">1990-1993</unitdate>
+            <container altrender="Record carton" id="aspace_13286a0499b4488838fa92d8cb32363d" label="Mixed Materials [31142062727212]" type="box">5</container>
+            <container id="aspace_4fa109e877200e53c9cd01cbb82779f1" parent="aspace_13286a0499b4488838fa92d8cb32363d" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Women's Committee</unittitle>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container altrender="Record carton" id="aspace_a896d7c7f4fbf6c4ddae314bd1c5277b" label="Mixed Materials [31142062727212]" type="box">5</container>
+            <container id="aspace_3e8119d17026c73acabfe97c01150d45" parent="aspace_a896d7c7f4fbf6c4ddae314bd1c5277b" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Yale ARB Award</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container altrender="Record carton" id="aspace_e508ade0e09f76c6d3104944201d57dc" label="Mixed Materials [31142062727212]" type="box">5</container>
+            <container id="aspace_7ecc304c8221d0cf0eaef0f91b73c520" parent="aspace_e508ade0e09f76c6d3104944201d57dc" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>University Organizing Contracts</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
+            <container altrender="Record carton" id="aspace_e3ecc4ce518b0397c11ccfa2e24ae8d4" label="Mixed Materials [31142062727212]" type="box">5</container>
+            <container id="aspace_430e4c29ec3207e644c5306369e741aa" parent="aspace_e3ecc4ce518b0397c11ccfa2e24ae8d4" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>D 65 Health and Safety Dept of Labor Grant</unittitle>
+            <unitdate normal="1994/1995" type="inclusive">1994-1995</unitdate>
+            <container altrender="Record carton" id="aspace_9aaf880e8b195e512e8201779ab909e9" label="Mixed Materials [31142062727212]" type="box">5</container>
+            <container id="aspace_9ef9a1488c2eed97de91fa549e959338" parent="aspace_9aaf880e8b195e512e8201779ab909e9" type="folder">18</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref120" level="series">
+        <did>
+          <unittitle>Series II: Archived Website</unittitle>
+          <unitdate>Mar 21, 2009-ongoing</unitdate>
+          <dao xlink:actuate="onRequest" xlink:href="https://wayback.archive-it.org/6349/*/http://www.2110uaw.org/x" xlink:role="external-link" xlink:show="embed" xlink:title="United Automobile Workers of America, Local 2110" xlink:type="simple">
+            <daodesc>
+              <p>United Automobile Workers of America, Local 2110</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_6660c824ea2f3cfa1da2d4903e7a20af">
+          <head>Scope and Content Note</head>
+          <p>The Technical, Office and Professional (TOP) Union, Local 2110, is an amalgamated union with contracts covering workers in universities, publishing, museums, law firms and other offices, including teachers, secretaries, administrators, editors, computer operators, librarians, museum curators, typesetters and graphic artists in New York City. They promote benefits such as childcare, flex-time, job classification, domestic partner benefits and family leave. They are affiliated with the UAW and AFL-CIO. The website includes a listing of affiliated workplaces and organizing committees, workshops and classes, and collective bargaining agreements.</p>
+        </scopecontent>
+        <phystech id="aspace_d0dc7839735adcf70acc4e553b09e2f3">
+          <head>Physical Characteristics and Technical Requirements</head>
+          <p>Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</p>
+        </phystech>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,60 +1,217 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>tam_444</eadid><filedesc><titlestmt><titleproper>Guide to the Charles Davis Research Files <num>TAM.444</num></titleproper><author>Processed by Nicole Greenhouse</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>11/17/2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:52:48 -0500</date>.</creation></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Charles Davis Research Files</unittitle>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid>tam_444</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Charles Davis Research Files <num>TAM.444</num></titleproper>
+        <author>Processed by Nicole Greenhouse</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>11/17/2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:52:48 -0500</date>.</creation>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Charles Davis Research Files</unittitle>
+      <origination label="source">
+        <persname rules="dacs" source="local">Davis, Charles</persname>
+      </origination>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Davis, Charles</persname>
+      </origination>
+      <unitid>TAM.444</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+        <extent altrender="carrier">In 1 box</extent>
+      </physdesc>
+      <unitdate normal="1920/1937" type="inclusive">1920-1937</unitdate>
+      <abstract id="aspace_38f1d8e5d857eaab14638649898df93c">This collection contains the research files of Charles Davis. The collection mostly contains pamphlets on the development of Pittsburgh and other labor-related writings.</abstract>
+      <langmaterial id="aspace_1c0557861430243a04a738a8f40bd35c">Most of the materials are English, one folder in Spanish.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_6c6e1abe5f92867ac8eea6e9f04ffcb0">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_e1d618a392b127991f53edd448e97c10">
+      <head>Immediate Source of Acquisition</head>
+      <p>Materials found in collection; provenance is unknown. The accession number associated with this collection is 1996.021.</p>
+    </acqinfo>
+    <appraisal id="aspace_28a3da47bd5c95d79e9a21aef501ad21">
+      <head>Appraisal</head>
+      <p>In May 2012, a report titled, "A Major Street Plan for Pittsburgh" by the Citizens Committee on City Plan of Pittsburgh from September 1921 was assessed by conservation and deemed unsalvagable due to mold. The report was then deaccessioned.</p>
+    </appraisal>
+    <arrangement id="aspace_a1b8b2dd92785c7f53b3dadead5de5d9">
+      <head>Arrangement</head>
+      <p>Arranged by folder alphabetically.</p>
+    </arrangement>
+    <bioghist id="aspace_2ee0226fd53fef11f856ab0e1e46724e">
+      <head>Historical/Biographical Note</head>
+      <p>While the identity of Charles Davis is unknown, the presence in the collection of an article from the January, 1936 issue of <emph render="italic">Economic Notes</emph>, the periodical of the Communist-associated Labor Research Association, may reflect the left political sympathies of Mr. Davis.</p>
+    </bioghist>
+    <prefercite id="aspace_9734268c0513832ecd6b72eb0cda1250">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_bdb196dcc42c85177badd8d16af1c232">
+      <head>Processing Information</head>
+      <p>Materials were treated for mold and placed in new acid free folders and boxes. Materials were reordered alphabetically.</p>
+    </processinfo>
+    <scopecontent id="aspace_bc3a1acd691dfc41fd9fc1e922654da0">
+      <head>Scope and Contents</head>
+      <p>Contains pamphlets, writings and reports pertaining to the research interests of Charles Davis. Included are a number of United States Agriculture Department reports, pamphlets and other materials on Pittsburgh's urban planning, and research project material on women workers in Brazil. The materials span from the 1920s to the 1940s.</p>
+    </scopecontent>
+    <userestrict id="aspace_fb555a37d618147f4503e8f67497fd2a">
+      <head>Conditions Governing Use</head>
+      <p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1867-1985, are expected to enter the public domain in 2105.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Writings (document genre)</genreform>
+      <subject source="lcsh">City planning |z Pennsylvania |z Pittsburgh.</subject>
+      <subject source="lcsh">Women |x Employment |z Brazil.</subject>
+      <genreform source="aat">Federal government records.</genreform>
+      <persname role="fmo" rules="dacs" source="local">Davis, Charles</persname>
       <persname rules="dacs" source="local">Davis, Charles</persname>
-    </origination>
-    <origination label="Creator">
-      <persname rules="dacs" source="local">Davis, Charles</persname>
-    </origination>
-    <unitid>TAM.444</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-      <extent altrender="carrier">In 1 box</extent>
-    </physdesc>
-    <unitdate normal="1920/1937" type="inclusive">1920-1937</unitdate>
-    <abstract id="aspace_38f1d8e5d857eaab14638649898df93c">This collection contains the research files of Charles Davis. The collection mostly contains pamphlets on the development of Pittsburgh and other labor-related writings.</abstract>
-    <langmaterial id="aspace_1c0557861430243a04a738a8f40bd35c">Most of the materials are English, one folder in Spanish.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_6c6e1abe5f92867ac8eea6e9f04ffcb0">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_e1d618a392b127991f53edd448e97c10">
-    <head>Immediate Source of Acquisition</head>
-<p>Materials found in collection; provenance is unknown. The accession number associated with this collection is 1996.021.</p>  </acqinfo>
-  <appraisal id="aspace_28a3da47bd5c95d79e9a21aef501ad21">
-    <head>Appraisal</head>
-<p>In May 2012, a report titled, "A Major Street Plan for Pittsburgh" by the Citizens Committee on City Plan of Pittsburgh from September 1921 was assessed by conservation and deemed unsalvagable due to mold. The report was then deaccessioned.</p>  </appraisal>
-  <arrangement id="aspace_a1b8b2dd92785c7f53b3dadead5de5d9">
-    <head>Arrangement</head>
-<p>Arranged by folder alphabetically.</p>  </arrangement>
-  <bioghist id="aspace_2ee0226fd53fef11f856ab0e1e46724e">
-    <head>Historical/Biographical Note</head>
-<p>While the identity of Charles Davis is unknown, the presence in the collection of an article from the January, 1936 issue of <emph render="italic">Economic Notes</emph>, the periodical of the Communist-associated Labor Research Association, may reflect the left political sympathies of Mr. Davis.</p>  </bioghist>
-  <prefercite id="aspace_9734268c0513832ecd6b72eb0cda1250">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <processinfo id="aspace_bdb196dcc42c85177badd8d16af1c232">
-    <head>Processing Information</head>
-<p>Materials were treated for mold and placed in new acid free folders and boxes. Materials were reordered alphabetically.</p>  </processinfo>
-  <scopecontent id="aspace_bc3a1acd691dfc41fd9fc1e922654da0">
-    <head>Scope and Contents</head>
-<p>Contains pamphlets, writings and reports pertaining to the research interests of Charles Davis. Included are a number of United States Agriculture Department reports, pamphlets and other materials on Pittsburgh's urban planning, and research project material on women workers in Brazil. The materials span from the 1920s to the 1940s.</p>  </scopecontent>
-  <userestrict id="aspace_fb555a37d618147f4503e8f67497fd2a">
-    <head>Conditions Governing Use</head>
-<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1867-1985, are expected to enter the public domain in 2105.</p>  </userestrict>
-  <controlaccess>
-    <genreform source="aat">Writings (document genre)</genreform>
-    <subject source="lcsh">City planning |z Pennsylvania |z Pittsburgh.</subject>
-    <subject source="lcsh">Women |x Employment |z Brazil.</subject>
-    <genreform source="aat">Federal government records.</genreform>
-    <persname role="fmo" rules="dacs" source="local">Davis, Charles</persname>
-    <persname rules="dacs" source="local">Davis, Charles</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref4" level="file"><did><unittitle>"A Business Survey of Pittsburgh's Metropolitan Area"</unittitle><unitdate normal="1928/1928" type="inclusive">1928</unitdate><container altrender="Manuscript box - Legal" id="aspace_bae1346e790933085d9f2afd913f5220" label="Mixed Materials [31142062883205]" type="box">1</container><container id="aspace_f90b54e9ca1e56001dc50b78ddc8e7b9" parent="aspace_bae1346e790933085d9f2afd913f5220" type="folder">1</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>"Cinco Anos de Reorganizacao do Instituto Butantan"</unittitle><unitdate normal="1933/1933" type="inclusive">Jan 1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_20ea1acf40e3dead34302e8a40ad6397" label="Mixed Materials [31142062883205]" type="box">1</container><container id="aspace_752225fa213e93b68db09dbe9e364d63" parent="aspace_20ea1acf40e3dead34302e8a40ad6397" type="folder">2</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Citizens Committee on City Plan of Pittsburgh: Parks</unittitle><unitdate normal="1923/1923" type="inclusive">Sep 1923</unitdate><container altrender="Manuscript box - Legal" id="aspace_d9f65e4d20a4b1e3f19e515bbd27ae6a" label="Mixed Materials [31142062883205]" type="box">1</container><container id="aspace_100d2eaf7f413fcc1121e5c6fc5f92e6" parent="aspace_d9f65e4d20a4b1e3f19e515bbd27ae6a" type="folder">3</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Citizens Committee on City Plan of Pittsburgh: Pittsburgh Playground</unittitle><unitdate normal="1920/1920" type="inclusive">June 1920</unitdate><container altrender="Manuscript box - Legal" id="aspace_e58ed1a870bba5ef704d92c8f16a9b82" label="Mixed Materials [31142062883205]" type="box">1</container><container id="aspace_1002639f25f780ec10f08293d9eaef53" parent="aspace_e58ed1a870bba5ef704d92c8f16a9b82" type="folder">4</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Citizens Committee on City Plan of Pittsburgh: Railroads of the Pittsburgh District</unittitle><unitdate normal="1923/1923" type="inclusive">1923</unitdate><container altrender="Manuscript box - Legal" id="aspace_3ab899791b53fdd42be860d3f3297aea" label="Mixed Materials [31142062883205]" type="box">1</container><container id="aspace_04a1ae3b1933f8072418ff847cc8f78a" parent="aspace_3ab899791b53fdd42be860d3f3297aea" type="folder">5</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Citizens Committee on City Plan of Pittsburgh: Transit</unittitle><unitdate normal="1923/1923" type="inclusive">Sept</unitdate><container altrender="Manuscript box - Legal" id="aspace_bf0d202710e3e6d3037140c96cf9db20" label="Mixed Materials [31142062883205]" type="box">1</container><container id="aspace_c53b8107b4e35b4699ab97000e93afce" parent="aspace_bf0d202710e3e6d3037140c96cf9db20" type="folder">6</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Citizens Committee on City Plan of Pittsburgh: Waterway</unittitle><unitdate normal="1923/1923" type="inclusive">Oct 1923</unitdate><container altrender="Manuscript box - Legal" id="aspace_008361500ae52ebce5ece0d501e68bbc" label="Mixed Materials [31142062883205]" type="box">1</container><container id="aspace_88a92c8b234907fb2b6eec3850ae2336" parent="aspace_008361500ae52ebce5ece0d501e68bbc" type="folder">7</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Corsman, Greta: "The Working Woman in Brazil"</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_0f846ffdf8a619d89d2cabf5f80e890f" label="Mixed Materials [31142062883205]" type="box">1</container><container id="aspace_1a5595f23b56b501b1c28e8f100920d2" parent="aspace_0f846ffdf8a619d89d2cabf5f80e890f" type="folder">8</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>International Labor Review: Recent Family Budget Enquiries</unittitle><unitdate normal="1936/1936" type="inclusive">Feb 1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_636fe3384af0cd95dd1f40bf1376bd44" label="Mixed Materials [31142062883205]" type="box">1</container><container id="aspace_01635168c90f0deb68564fa10a1bf1e6" parent="aspace_636fe3384af0cd95dd1f40bf1376bd44" type="folder">9</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Labor Research Association Economic Notes</unittitle><unitdate normal="1936/1936" type="inclusive">1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_62302b4ff02114421ea1c74b2765f808" label="Mixed Materials [31142062883205]" type="box">1</container><container id="aspace_3543092f38780bcafba45086e54e728b" parent="aspace_62302b4ff02114421ea1c74b2765f808" type="folder">10</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Larkin, Margaret: "Behind the Lives," The Woman Today</unittitle><unitdate normal="1937/1937" type="inclusive">May 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_1d6966fc9dac37add1fd58b66b55abdc" label="Mixed Materials [31142062883205]" type="box">1</container><container id="aspace_de0406de2b2f3bd1b1c4c209677787c5" parent="aspace_1d6966fc9dac37add1fd58b66b55abdc" type="folder">11</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Record of Visits to Neighborhood Centers in Typical Districts in Greater Pittsburgh</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_6b32b77606bad8f634983d88d3068b99" label="Mixed Materials [31142062883205]" type="box">1</container><container id="aspace_608d1b1e64e3c7634c365da345ce6fe8" parent="aspace_6b32b77606bad8f634983d88d3068b99" type="folder">12</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Report to the City Council of Pittsburgh on the Inter-District Traffic Circuit</unittitle><unitdate normal="1926/1926" type="inclusive">Mar 1926</unitdate><container altrender="Manuscript box - Legal" id="aspace_77b6c85d7656fe2e81cf60764c9fef71" label="Mixed Materials [31142062883205]" type="box">1</container><container id="aspace_fbd462da2723722c7abd519c58841f2e" parent="aspace_77b6c85d7656fe2e81cf60764c9fef71" type="folder">13</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Standard of Living and Minimum Wage: Notes and Bibliography</unittitle><unitdate normal="1933/1933" type="inclusive">1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_476d5fda089f6705fcd4439e201b9c6a" label="Mixed Materials [31142062883205]" type="box">1</container><container id="aspace_05864ec06f2083165a03868fa7036127" parent="aspace_476d5fda089f6705fcd4439e201b9c6a" type="folder">14</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>United States Department of Agriculture Reports</unittitle><unitdate normal="1925/1927" type="inclusive">1925-1927</unitdate><container altrender="Manuscript box - Legal" id="aspace_9a436bb2175a3ce9166ed17eba61432f" label="Mixed Materials [31142062883205]" type="box">1</container><container id="aspace_7fcd10c94e3e9b3c115d54becc51ffbb" parent="aspace_9a436bb2175a3ce9166ed17eba61432f" type="folder">15</container></did></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref4" level="file">
+        <did>
+          <unittitle>"A Business Survey of Pittsburgh's Metropolitan Area"</unittitle>
+          <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bae1346e790933085d9f2afd913f5220" label="Mixed Materials [31142062883205]" type="box">1</container>
+          <container id="aspace_f90b54e9ca1e56001dc50b78ddc8e7b9" parent="aspace_bae1346e790933085d9f2afd913f5220" type="folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref5" level="file">
+        <did>
+          <unittitle>"Cinco Anos de Reorganizacao do Instituto Butantan"</unittitle>
+          <unitdate normal="1933/1933" type="inclusive">Jan 1933</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_20ea1acf40e3dead34302e8a40ad6397" label="Mixed Materials [31142062883205]" type="box">1</container>
+          <container id="aspace_752225fa213e93b68db09dbe9e364d63" parent="aspace_20ea1acf40e3dead34302e8a40ad6397" type="folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref10" level="file">
+        <did>
+          <unittitle>Citizens Committee on City Plan of Pittsburgh: Parks</unittitle>
+          <unitdate normal="1923/1923" type="inclusive">Sep 1923</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d9f65e4d20a4b1e3f19e515bbd27ae6a" label="Mixed Materials [31142062883205]" type="box">1</container>
+          <container id="aspace_100d2eaf7f413fcc1121e5c6fc5f92e6" parent="aspace_d9f65e4d20a4b1e3f19e515bbd27ae6a" type="folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref11" level="file">
+        <did>
+          <unittitle>Citizens Committee on City Plan of Pittsburgh: Pittsburgh Playground</unittitle>
+          <unitdate normal="1920/1920" type="inclusive">June 1920</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e58ed1a870bba5ef704d92c8f16a9b82" label="Mixed Materials [31142062883205]" type="box">1</container>
+          <container id="aspace_1002639f25f780ec10f08293d9eaef53" parent="aspace_e58ed1a870bba5ef704d92c8f16a9b82" type="folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>Citizens Committee on City Plan of Pittsburgh: Railroads of the Pittsburgh District</unittitle>
+          <unitdate normal="1923/1923" type="inclusive">1923</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3ab899791b53fdd42be860d3f3297aea" label="Mixed Materials [31142062883205]" type="box">1</container>
+          <container id="aspace_04a1ae3b1933f8072418ff847cc8f78a" parent="aspace_3ab899791b53fdd42be860d3f3297aea" type="folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Citizens Committee on City Plan of Pittsburgh: Transit</unittitle>
+          <unitdate normal="1923/1923" type="inclusive">Sept</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bf0d202710e3e6d3037140c96cf9db20" label="Mixed Materials [31142062883205]" type="box">1</container>
+          <container id="aspace_c53b8107b4e35b4699ab97000e93afce" parent="aspace_bf0d202710e3e6d3037140c96cf9db20" type="folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>Citizens Committee on City Plan of Pittsburgh: Waterway</unittitle>
+          <unitdate normal="1923/1923" type="inclusive">Oct 1923</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_008361500ae52ebce5ece0d501e68bbc" label="Mixed Materials [31142062883205]" type="box">1</container>
+          <container id="aspace_88a92c8b234907fb2b6eec3850ae2336" parent="aspace_008361500ae52ebce5ece0d501e68bbc" type="folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref6" level="file">
+        <did>
+          <unittitle>Corsman, Greta: "The Working Woman in Brazil"</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0f846ffdf8a619d89d2cabf5f80e890f" label="Mixed Materials [31142062883205]" type="box">1</container>
+          <container id="aspace_1a5595f23b56b501b1c28e8f100920d2" parent="aspace_0f846ffdf8a619d89d2cabf5f80e890f" type="folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref7" level="file">
+        <did>
+          <unittitle>International Labor Review: Recent Family Budget Enquiries</unittitle>
+          <unitdate normal="1936/1936" type="inclusive">Feb 1936</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_636fe3384af0cd95dd1f40bf1376bd44" label="Mixed Materials [31142062883205]" type="box">1</container>
+          <container id="aspace_01635168c90f0deb68564fa10a1bf1e6" parent="aspace_636fe3384af0cd95dd1f40bf1376bd44" type="folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref8" level="file">
+        <did>
+          <unittitle>Labor Research Association Economic Notes</unittitle>
+          <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_62302b4ff02114421ea1c74b2765f808" label="Mixed Materials [31142062883205]" type="box">1</container>
+          <container id="aspace_3543092f38780bcafba45086e54e728b" parent="aspace_62302b4ff02114421ea1c74b2765f808" type="folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref9" level="file">
+        <did>
+          <unittitle>Larkin, Margaret: "Behind the Lives," The Woman Today</unittitle>
+          <unitdate normal="1937/1937" type="inclusive">May 1937</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1d6966fc9dac37add1fd58b66b55abdc" label="Mixed Materials [31142062883205]" type="box">1</container>
+          <container id="aspace_de0406de2b2f3bd1b1c4c209677787c5" parent="aspace_1d6966fc9dac37add1fd58b66b55abdc" type="folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>Record of Visits to Neighborhood Centers in Typical Districts in Greater Pittsburgh</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6b32b77606bad8f634983d88d3068b99" label="Mixed Materials [31142062883205]" type="box">1</container>
+          <container id="aspace_608d1b1e64e3c7634c365da345ce6fe8" parent="aspace_6b32b77606bad8f634983d88d3068b99" type="folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Report to the City Council of Pittsburgh on the Inter-District Traffic Circuit</unittitle>
+          <unitdate normal="1926/1926" type="inclusive">Mar 1926</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_77b6c85d7656fe2e81cf60764c9fef71" label="Mixed Materials [31142062883205]" type="box">1</container>
+          <container id="aspace_fbd462da2723722c7abd519c58841f2e" parent="aspace_77b6c85d7656fe2e81cf60764c9fef71" type="folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Standard of Living and Minimum Wage: Notes and Bibliography</unittitle>
+          <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_476d5fda089f6705fcd4439e201b9c6a" label="Mixed Materials [31142062883205]" type="box">1</container>
+          <container id="aspace_05864ec06f2083165a03868fa7036127" parent="aspace_476d5fda089f6705fcd4439e201b9c6a" type="folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>United States Department of Agriculture Reports</unittitle>
+          <unitdate normal="1925/1927" type="inclusive">1925-1927</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9a436bb2175a3ce9166ed17eba61432f" label="Mixed Materials [31142062883205]" type="box">1</container>
+          <container id="aspace_7fcd10c94e3e9b3c115d54becc51ffbb" parent="aspace_9a436bb2175a3ce9166ed17eba61432f" type="folder">15</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,70 +1,464 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_649">tam_649</eadid><filedesc><titlestmt><titleproper>Guide to Committee for Non-Intervention in Central America Records <num>TAM.649</num></titleproper><author>Erika Gottfried</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>08/13/2014</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:54:57 -0500</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Committee for Non-Intervention in Central America Records</unittitle>
-    <origination label="Creator">
-      <corpname role="dnr" rules="dacs" source="local">Committee for Non-Intervention in Central America</corpname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">Johnson, Frederick </persname>
-    </origination>
-    <unitid>TAM.649</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
-      <extent altrender="carrier">in two records boxes and one oversized folder</extent>
-    </physdesc>
-    <unitdate normal="1982/1991" type="inclusive">1980s-1991</unitdate>
-    <abstract id="aspace_1bed6ac77e40eaeff62f3a49cea53bed">The Committee for Non-Intervention in Central America (CNICA) was founded in 1984 by residents of New York City's Upper West Side neighborhood who opposed the United States government's foreign policy in Central America; it disbanded circa 1991. The group's membership was comprised mostly of middle-class, white professionals such as teachers, social workers, academics, and lawyers, many of whom were veterans of the anti-Vietnam War movement. The organization was one of many founded in the 1980s that concerned themselves with United States policy and human rights in Latin America, asserting that the U.S. had a history of providing military aid to and supporting authoritarian, anti-democratic regimes in Nicaragua, El Salvador, and Honduras in particular, and opposing progressive social and economic change in these countries. The collection consists of records for CNICA general meetings and for its Steering Committee and organization-sponsored events and projects; correspondence and petitions, mailings, flyers, mailing lists and a telephone tree; it also includes publications of numerous other organizations that concerned themselves with the same issues as CNICA.</abstract>
-    <physloc id="aspace_0e8c9f393b2db690063998fd43d9c639">Materials are located at the Tamiment Library.</physloc>
-    <langmaterial id="aspace_ffdf172288496ca42351f2ad6ec14b5b">Materials are in English</langmaterial>
-  </did>
-  <accessrestrict id="aspace_3815cef0fbc632e99017db3a45a5dcc0">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_cd5bab32f4910de667cab2827c3d252d">
-    <head>Immediate Source of Acquisition</head>
-<p>Materials donated by Frederick Johnson on behalf of the Committee for Non_Intervention in Central America in 2014. The accession number associated with this gift is 2014.139.</p>  </acqinfo>
-  <appraisal id="aspace_8fd4cff0ef7a338dcb77386aff1c67cb">
-    <head>Appraisal</head>
-<p>Duplicates and clippings from major publications were removed from the Collection and discarded.</p>  </appraisal>
-  <arrangement id="aspace_f04f6aa904fd823829b480187f0e8fd2">
-    <head>Arrangement</head>
-<p>Materials are arranged alphabetically by folder title within two series:  Committee for Non-Intervention in Central America and Publications Created by Other Organizations.</p>  </arrangement>
-  <bioghist id="aspace_ee2c5960054d8e0edcf2f126819ccde3">
-    <head>Historical/Biographical Note</head>
-<p>The Committee for Non-Intervention in Central America (CNICA) was founded in 1984 by residents of New York City's Upper West Side neighborhood who opposed the United States government's foreign policy in Central America.  The organization's name was purposefully worded so as to be positive: to be "for" rather than "against." </p><p>Active membership of CNICA--meaning people who attended meetings and helped to organize events ranged—ranged from 10-25 to perhaps as many as 100 at the organization's zenith, and 1,100 supporters who gave their help as needed.  A general meeting of the organization was held once a month in spaces at sympathetic agencies, community and religious based agencies with strong social justice programs, such as the Goddard Riverside Community Center and the Interchurch Center.  Fred Johnson, a social worker, who spent his career working in various youth service agencies throughout the city, mostly in community centers with low-income, minority youth, chaired the general meetings.  A steering committee did most of the active work, organizing, and charting direction of the group.  
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_649">tam_649</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to Committee for Non-Intervention in Central America Records <num>TAM.649</num></titleproper>
+        <author>Erika Gottfried</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>08/13/2014</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:54:57 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Committee for Non-Intervention in Central America Records</unittitle>
+      <origination label="Creator">
+        <corpname role="dnr" rules="dacs" source="local">Committee for Non-Intervention in Central America</corpname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Johnson, Frederick </persname>
+      </origination>
+      <unitid>TAM.649</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+        <extent altrender="carrier">in two records boxes and one oversized folder</extent>
+      </physdesc>
+      <unitdate normal="1982/1991" type="inclusive">1980s-1991</unitdate>
+      <abstract id="aspace_1bed6ac77e40eaeff62f3a49cea53bed">The Committee for Non-Intervention in Central America (CNICA) was founded in 1984 by residents of New York City's Upper West Side neighborhood who opposed the United States government's foreign policy in Central America; it disbanded circa 1991. The group's membership was comprised mostly of middle-class, white professionals such as teachers, social workers, academics, and lawyers, many of whom were veterans of the anti-Vietnam War movement. The organization was one of many founded in the 1980s that concerned themselves with United States policy and human rights in Latin America, asserting that the U.S. had a history of providing military aid to and supporting authoritarian, anti-democratic regimes in Nicaragua, El Salvador, and Honduras in particular, and opposing progressive social and economic change in these countries. The collection consists of records for CNICA general meetings and for its Steering Committee and organization-sponsored events and projects; correspondence and petitions, mailings, flyers, mailing lists and a telephone tree; it also includes publications of numerous other organizations that concerned themselves with the same issues as CNICA.</abstract>
+      <physloc id="aspace_0e8c9f393b2db690063998fd43d9c639">Materials are located at the Tamiment Library.</physloc>
+      <langmaterial id="aspace_ffdf172288496ca42351f2ad6ec14b5b">Materials are in English</langmaterial>
+    </did>
+    <accessrestrict id="aspace_3815cef0fbc632e99017db3a45a5dcc0">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_cd5bab32f4910de667cab2827c3d252d">
+      <head>Immediate Source of Acquisition</head>
+      <p>Materials donated by Frederick Johnson on behalf of the Committee for Non_Intervention in Central America in 2014. The accession number associated with this gift is 2014.139.</p>
+    </acqinfo>
+    <appraisal id="aspace_8fd4cff0ef7a338dcb77386aff1c67cb">
+      <head>Appraisal</head>
+      <p>Duplicates and clippings from major publications were removed from the Collection and discarded.</p>
+    </appraisal>
+    <arrangement id="aspace_f04f6aa904fd823829b480187f0e8fd2">
+      <head>Arrangement</head>
+      <p>Materials are arranged alphabetically by folder title within two series:  Committee for Non-Intervention in Central America and Publications Created by Other Organizations.</p>
+    </arrangement>
+    <bioghist id="aspace_ee2c5960054d8e0edcf2f126819ccde3">
+      <head>Historical/Biographical Note</head>
+      <p>The Committee for Non-Intervention in Central America (CNICA) was founded in 1984 by residents of New York City's Upper West Side neighborhood who opposed the United States government's foreign policy in Central America.  The organization's name was purposefully worded so as to be positive: to be "for" rather than "against." </p>
+      <p>Active membership of CNICA--meaning people who attended meetings and helped to organize events ranged—ranged from 10-25 to perhaps as many as 100 at the organization's zenith, and 1,100 supporters who gave their help as needed.  A general meeting of the organization was held once a month in spaces at sympathetic agencies, community and religious based agencies with strong social justice programs, such as the Goddard Riverside Community Center and the Interchurch Center.  Fred Johnson, a social worker, who spent his career working in various youth service agencies throughout the city, mostly in community centers with low-income, minority youth, chaired the general meetings.  A steering committee did most of the active work, organizing, and charting direction of the group.  
  
 The group's membership was comprised mostly of middle-class, white professionals such as teachers, social workers, academics, and lawyers, many of whom were veterans of the anti-Vietnam War movement.   
-CNICA' s work included lobbying members of Congress, "tabling"(collecting signatures for petitions at tables), voter registration, fund raising, as well as educational and cultural events and participation in demonstrations and direct action, often in collaboration with groups with similar political interests and sympathies (a frequent ally and co-sponsor was the Committee in Solidarity with the People of El Salvador--CISPES--a national  organization with chapters in various cities in the United States). These activities included two benefit concerts for humanitarian aid for victims of war in El Salvador, Guatemala, and Nicaragua; an annual awards dinner to honor efforts of politicians and activists working to end United States intervention in Central America; a campaign that collected thousands of signatures on petitions and postcards opposed U.S. government aid to the "Contras"(the rebel militia that fought against the revolutionary Sandinista government in Nicaragua), sent to Congress; joining with another organization to plan and participate in civil disobedience at New York City's Federal Plaza; public meetings and forums, including one led by Noam Chomsky and attended by over 750 persons; a film series presenting documentaries and feature films on Central America, and an annual Walkathon (in cooperation with other groups) to raise funds to provide medical aid for Central America.  Under the sponsorship of CNICA the Upper West Side and Tipitapa, Nicaragua became "Sister Cities" in the spring of 1987.  The organization had a large mailing list that included New York politicians, including progressive Democrat Congressman Ted Weiss, representing New York's West Side, who sat on the House Committee on Foreign Affairs, and who came to a meeting of CNICA at its invitation. CNICA also supported Weiss in his re-election campaign.</p><p>CNICA disbanded circa 1991, after its members concluded that the revolution in El Salvador and Nicaragua was over.  The subcommittee of the CNICA that had organized the Sister City relationship with Tititapa continued its work as  "Pueblos – the New York-Tipitapa Sister City Project," a non-profit organization working collaboratively with Nicaraguans on projects to improve education, nutrition, and health promotion, environmental health, to promote human rights, and sponsor cross-cultural and educational exchanges.
- </p>  </bioghist>
-  <prefercite id="aspace_a7050d01a0dcb8a43bb24d09a4c715d3">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Committee for Non-Intervention in Central America; TAM 649; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <processinfo id="aspace_013e9a2f01f7b7f9d7e697a615c8c351">
-    <head>Processing Information</head>
-<p>About one-half of the materials were received in file folders labeled with names and subjects, arranged in alphabetical order; the remainder of the materials were received loose, unarranged, and undescribed.  The collection was then housed in acid-free folders and boxes and described by an archivist, retaining original folder titles and following original order whenever possible.</p>  </processinfo>
-  <scopecontent id="aspace_644d6a880ea46aa28ba4956aa8190ae2">
-    <head>Scope and Content Note</head>
-<p>This collection consists of records of the general membership such as agendas and attendance lists and minutes; it also includes mailing lists, correspondence, and petitions; mailings and flyers produced and distributed by the organization; agendas, notes, and other documents for its Steering Committee; files on specific organization-sponsored events and projects; mailing lists and a telephone tree used to mobilize members and supporters. In addition, publications of numerous other organizations that concerned themselves with the same issues as CNICA make up a large part of the collection.</p>  </scopecontent>
-  <userestrict id="aspace_53e615b424bfc6a62a54d08262cc739f">
-    <head>Conditions Governing Use</head>
-<p>Any rights (including copyright and related rights to publicity and privacy) held by the Commiette for Non-Intervention in Central America, the creator of this collection, were relinquished and transferred to the public domain in 2014 by Frederich Johnson. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/.</p>  </userestrict>
-  <bibliography id="aspace_f1ae059816093a1464013005ea022102">
-    <head>Bibliographical Note</head>
-<p>Information for this guide was drawn in part from two untitled flyers in the collection issued by CNICA on  its history and accomplishments and from notes on a conversation with Frederick Johnson, one of the chief organizers of the group.</p>  </bibliography>
-  <controlaccess>
-    <subject source="lcsh">Sister cities.</subject>
-    <subject source="lcsh">Human rights |z Central America.</subject>
-    <geogname source="lcsh">United States |x Foreign relations |z Central America.</geogname>
-    <corpname rules="dacs" source="local">Committee for Non-Intervention in Central America</corpname>
-    <persname role="dnr" rules="dacs" source="local">Johnson, Frederick </persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref1" level="series"><did><unittitle>Series I:  Committee for Non-Intervention in Central America</unittitle></did><scopecontent id="aspace_eda498e9274632c2656b7a43943dd171"><head>Scope and Content Note</head><p>Organizational records of general membership include a considerable number of agendas and attendance lists for general meetings and a small amount of minutes.  Mailings to members, including newsletters and bulletins informing members about upcoming legislation and issues in Congress or about direct action embodied in upcoming demonstrations, titled "Legislative Alerts," and "Action Alerts," together with flyers for CNICA events chronicle the events and activities of the organization, as do files on specific CNICA-sponsored events and projects like benefit concerts, walkathons, and its sister city initiative.  In addition to these, the organization's belief in the legislative process as a driver of political change is documented in files of correspondence and on letter-writing and petition campaigns to members of Congress.  Mailing lists, larger and longer than meeting attendance lists, reflect the large number of sympathetic supporters the organization was trying to reach for funds and participation in larger actions like demonstrations, if not for regular active involvement in the organization.  Internal organizational files contain hand- and type- written agendas, notes, planning and position papers of CNICA's Steering Committee (which set the direction of and drove the organization at large), and "telephone trees" identify many of its principal organizers as well as documenting the use of a central tool to communicate with and mobilize its members and supporters in between CNICA monthly meetings.</p></scopecontent><c id="aspace_ref35" level="file"><did><unittitle>Ad Hoc Committee of Westsiders Against Intervention in Central America</unittitle><unitdate normal="1983/1983" type="inclusive">1983</unitdate><container altrender="Record carton" id="aspace_8dabc6e7b1a2ad140204bcb841432ed9" label="Text [31142062759165]" type="box">1</container><container id="aspace_1a15123b8f43beea74959d72ae6482b6" parent="aspace_8dabc6e7b1a2ad140204bcb841432ed9" type="folder">1</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Americans for Peace in the Americas</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_2ac3ecd5f2799450cedfcb877c6c5e2b" label="Text [31142062759165]" type="box">1</container><container id="aspace_c42e21e12f9360291ab42f786ab6306c" parent="aspace_2ac3ecd5f2799450cedfcb877c6c5e2b" type="folder">2</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Appeals - Central America</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_bca8b99f065d16c551343ff95a3a6625" label="Text [31142062759165]" type="box">1</container><container id="aspace_39568c175def6066e2971075497f2d58" parent="aspace_bca8b99f065d16c551343ff95a3a6625" type="folder">3</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Awards Receptions</unittitle><unitdate normal="1984/1988" type="inclusive">1984-1988</unitdate><container altrender="Record carton" id="aspace_70e890086b160f9e8674d294479cd3dd" label="Text [31142062759165]" type="box">1</container><container id="aspace_a461c630514044087cf5dbb96c7b561a" parent="aspace_70e890086b160f9e8674d294479cd3dd" type="folder">4</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Clips - Central America</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_2c99bda109f1dbb8b62366018bb533ba" label="Text [31142062759165]" type="box">1</container><container id="aspace_62351db927c91fe229b8f4b2ee334394" parent="aspace_2c99bda109f1dbb8b62366018bb533ba" type="folder">5</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Concerts [for] Reparations</unittitle><unitdate normal="1985/1988" type="inclusive">1985, 1988</unitdate><container altrender="Record carton" id="aspace_4764506e03875d6f16ef2b27c44eb17d" label="Text [31142062759165]" type="box">1</container><container id="aspace_97cc301ce0b13c0dd187325379877725" parent="aspace_4764506e03875d6f16ef2b27c44eb17d" type="folder">6</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Congressman Ted Weiss Petition Campaign</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_66f150fdf61dc6def4fafc89b2a24ca2" label="Text [31142062759165]" type="box">1</container><container id="aspace_3c98642426f3391a3cb5d12a6ad3474c" parent="aspace_66f150fdf61dc6def4fafc89b2a24ca2" type="folder">7</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Correspondence</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_b712fbf16b2b22003fb413e10c6f1daa" label="Text [31142062759165]" type="box">1</container><container id="aspace_32f8e94c499315885d40f4131b4f0da6" parent="aspace_b712fbf16b2b22003fb413e10c6f1daa" type="folder">8</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Financial (Including Tabling Statistics)</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_f761a922dd3dc41ebc4effb05c1b949a" label="Text [31142062759165]" type="box">1</container><container id="aspace_068059665206aa605694eeec86a44791" parent="aspace_f761a922dd3dc41ebc4effb05c1b949a" type="folder">9</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Flyers</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_4a80c47519029b63ac9c6ea20d33331c" label="Text [31142062759165]" type="box">1</container><container id="aspace_a01818a679878e7097b3dea8ce9907e1" parent="aspace_4a80c47519029b63ac9c6ea20d33331c" type="folder">10</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>General Meetings - Agendas</unittitle><unitdate normal="1984/1990" type="inclusive">1984-1990</unitdate><container altrender="Record carton" id="aspace_c4dba98c9718fd691bf3968bfb2725d5" label="Text [31142062759165]" type="box">1</container><container id="aspace_6aaf5a6333b732420b3bb7b0fdc3fa29" parent="aspace_c4dba98c9718fd691bf3968bfb2725d5" type="folder">11 - 16</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>General Meetings - Agendas - Undated</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_d2690fef7a1a36130d7a639db40a7a98" label="Text [31142062759165]" type="box">1</container><container id="aspace_956191b551210eb7fad98185402d648c" parent="aspace_d2690fef7a1a36130d7a639db40a7a98" type="folder">17</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>General Meetings Attendance Lists; Mailing Lists</unittitle><unitdate normal="1984/1989" type="inclusive">1984-1989</unitdate><container altrender="Record carton" id="aspace_55124b3584195480466f47849cd0a415" label="Text [31142062759165]" type="box">1</container><container id="aspace_49ec0a83f76c855e958f1d268e6dbd12" parent="aspace_55124b3584195480466f47849cd0a415" type="folder">18</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>General Meetings - Minutes/Report on Retreat</unittitle><unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate><container altrender="Record carton" id="aspace_8b11677f768997b56fd69f74e35fe2d2" label="Text [31142062759165]" type="box">1</container><container id="aspace_167002a1217159043e19d5229093c5d7" parent="aspace_8b11677f768997b56fd69f74e35fe2d2" type="folder">19</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Human Serve Voter Registration Campaign</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_bd2e09aa5d34901e183a597b1ff71446" label="Text [31142062759165]" type="box">1</container><container id="aspace_e91f511a0ee55d012e93f593c12dc987" parent="aspace_bd2e09aa5d34901e183a597b1ff71446" type="folder">20</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Internal Organizational</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_26f368fee71d004d1a4c6d259cc13c2f" label="Text [31142062759165]" type="box">1</container><container id="aspace_b9288498bb47791b7d1cb0bd88e746b9" parent="aspace_26f368fee71d004d1a4c6d259cc13c2f" type="folder">21 - 22</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Letters to Members of Congress/Letter-Writing Campaign</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_3a8c3cdb5b491906fad3ef5f901f2433" label="Text [31142062759165]" type="box">1</container><container id="aspace_dec882069f7ed287d239a8382fb3a902" parent="aspace_3a8c3cdb5b491906fad3ef5f901f2433" type="folder">23</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Lifetime Member Certificates</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_98d51a2c77fad28563bc05990b7ead05" label="Text [31142062759165]" type="box">1</container><container id="aspace_d26e1dbe1453c17a2d17d61d1dc0500d" parent="aspace_98d51a2c77fad28563bc05990b7ead05" type="folder">24</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Lunafil (CNICA-Aided Labor Union)</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_b79d415bf7bef0d022dca8b699c66fbc" label="Text [31142062759165]" type="box">1</container><container id="aspace_4902e4e4e001732db4ec9b8a864eed56" parent="aspace_b79d415bf7bef0d022dca8b699c66fbc" type="folder">25</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Mailing List - Labels and Corrections to Be Made</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_cf410ad749cf48cbbe063c162f07f549" label="Text [31142062759165]" type="box">1</container><container id="aspace_a6c8d2e3dac1ac5df6953114f876786e" parent="aspace_cf410ad749cf48cbbe063c162f07f549" type="folder">26</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Mailings</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_458a3832990ad35ee9c10fde593bfef1" label="Text [31142062759165]" type="box">1</container><container id="aspace_f3ccb91f7a15061317b931a48dedf46b" parent="aspace_458a3832990ad35ee9c10fde593bfef1" type="folder">27</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_3922f709161bbd76be615a56fc156641" label="Text [31142062759165]" type="box">1</container><container id="aspace_9d5f536d2b3ffa26a211b5ad34f87adf" parent="aspace_3922f709161bbd76be615a56fc156641" type="folder">28</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Petitions</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_40eaa4d4f66af6a3a0c804e0537890d4" label="Text [31142062759165]" type="box">1</container><container id="aspace_10bed50fc4416a5f476bdc8924ac9141" parent="aspace_40eaa4d4f66af6a3a0c804e0537890d4" type="folder">29</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Photographs - CNICA Demonstration (Fred and Gretchen Johnson) at Federal Building and at Other Demonstration., at Unknown Location</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_7f544a766d08739cf6b8c57bfaadd874" label="Text [31142062759165]" type="box">1</container><container id="aspace_214b481cd6d0d1a5aa5b9ad45ea6010a" parent="aspace_7f544a766d08739cf6b8c57bfaadd874" type="folder">30</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Receipts</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_92e6a35b17474eecf68fcc64281824e7" label="Text [31142062759165]" type="box">1</container><container id="aspace_25a82ea096e2e6608fe95790411cec95" parent="aspace_92e6a35b17474eecf68fcc64281824e7" type="folder">31</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Telephone Tree</unittitle><unitdate normal="1984/1990" type="inclusive">1984-1990</unitdate><container altrender="Record carton" id="aspace_0c713803223cffe78b5449ba41074aac" label="Text [31142062759165]" type="box">1</container><container id="aspace_15604e02b6a19241a37ef796af1601ec" parent="aspace_0c713803223cffe78b5449ba41074aac" type="folder">32</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Upper Westside Sister City Project</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_31988627c6e56b5535f8736f1937a0eb" label="Text [31142062759165]" type="box">1</container><container id="aspace_d9dc0ede5310df6aff2b80c725689c36" parent="aspace_31988627c6e56b5535f8736f1937a0eb" type="folder">33</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Walkathon for Medical Aid to Central America - First Annual</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Record carton" id="aspace_7930348757777242761e36b8a61969c5" label="Text [31142062759165]" type="box">1</container><container id="aspace_0f7b83309263759487940807223e93be" parent="aspace_7930348757777242761e36b8a61969c5" type="folder">34</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Walkathon for Medical Aid to Central America - Second Annual</unittitle><unitdate normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Record carton" id="aspace_230c6c493f10d449cdc8f8fb85fc0190" label="Text [31142062759165]" type="box">1</container><container id="aspace_2bd25d3c203365e4e8f24d6bece1d35f" parent="aspace_230c6c493f10d449cdc8f8fb85fc0190" type="folder">35</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Walkathon for Medical Aid to Central America - Third and Fourth</unittitle><unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate><container altrender="Record carton" id="aspace_87e89d0bc680375f693ef2ae55239553" label="Text [31142062759165]" type="box">1</container><container id="aspace_a3d66616b0a5742f3ccf84756b17a7b6" parent="aspace_87e89d0bc680375f693ef2ae55239553" type="folder">36</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Walkathon for Medical Aid to Central America - Background Research and Publicity</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_55bea0689839e03683e2f9723368f313" label="Text [31142062759157]" type="box">2</container><container id="aspace_2d25f58c15a42fb0832fec9dc5a32bcc" parent="aspace_55bea0689839e03683e2f9723368f313" type="folder">1</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Walkathon for Medical Aid to Central America - Beneficiary Organizations</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_796595cc1cd77182aaf6bce0558beaf1" label="Text [31142062759157]" type="box">2</container><container id="aspace_6ce821c5015539901ff6ea3fd61790c7" parent="aspace_796595cc1cd77182aaf6bce0558beaf1" type="folder">2</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Walkathon for Medical Aid to Central America - </unittitle><container altrender="Record carton" id="aspace_f53f987b00f4a4c725e65db67ab3da32" label="Text [31142062759157]" type="box">2</container><container id="aspace_daf8421787c523d094410e4fc12bd964" parent="aspace_f53f987b00f4a4c725e65db67ab3da32" type="folder">3</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Walkathon for Medical Aid to Central America - Layout and Design for Publicity</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_288177a07bedd5bfeb061b0e40f36909" label="Text [31142062759165]" type="box">1</container><container id="aspace_6aa0b9851fb7b69d03b38f9d01a3a438" parent="aspace_288177a07bedd5bfeb061b0e40f36909" type="folder">4</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Walkathon for Medical Aid to Central America -  Walker Registration, Administrative</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_9e6e79770716abd38f4a73b29e0801eb" label="Text [31142062759157]" type="box">2</container><container id="aspace_1cab4ae6abde520da430616caebd6938" parent="aspace_9e6e79770716abd38f4a73b29e0801eb" type="folder">5</container></did></c></c><c id="aspace_ref2" level="series"><did><unittitle>Series II: Publications Created by Other Organizations
-</unittitle><unitdate normal="1982/1991" type="inclusive">ca 1980s-1991</unitdate></did><scopecontent id="aspace_4c54831ef551bc878e0eb919b8aaf9eb"><head>Scope and Content Note</head><p>Consists of publications (in formats ranging from leaflets and newsletters to ephemera) of other organizations that concerned themselves with the same issues as CNICA, some of which CNICA worked and cooperated with  on projects and actions. These publications not only illustrate how CNICA kept itself abreast of the actions and events of these organizations, it also serves to document the larger community of left and progressive organizations (the sheer number of organizations represented by their publications in this Collection alone--140--is notable)—both locally and nationally--that CNICA was part of.  </p><p>Publications of the following organizations are included: Across Frontiers; American Friends Service Committee; April Actions for Peace, Jobs, and Justice; Artists Call Against U.S. Intervention in Central America; Barricada Internacional; Broadway Democrats; Brooklyn Committee in Solidarity with the People of El Salvador (CISPES); Brooklyn Sister City Project; Campaign for Peace and Democracy/East and West (CPD/EW); Capp Street Foundation; Casa El Salvador; Casa Nicaragua; Casa Nicaraguense De Espanol, Inc.; Casa Westchester; Catholic Worker; Center for Constitutional Rights; Center for Defense Information; Central America Week; Central America Week Coalition/NYICOCA; Central American Historical Institute; Central American Solidarity Association; Central American Solidarity Network; Children's World's Fair; Christic Institute; Clergy and Laity Concerned; Coalition Against U.S. Intervention in Central America and the Caribbean; Coalition for a New Foreign  and Military Policy; Coalition for a New Foreign Policy; Columbia Students in Solidarity with Nicaragua; Comite El Salvador; Committee for a Navyport Referendum;Committee in Solidarity with the People of El Salvador (NY CISPES); Committee of Professionals Against the Contras COM/PAC; Contra Watch; Council for Human Rights in Latin America-Fundacion Centroamericana; Cruisewatch; Cultural Correspondence; Curbstone Press; Diocese of New York of the Protestant Episcopal Church); Educators Committee on Central America; Educators for Social Responsibility; El Comite Puertorriqueno Contra la Represion; El Salvador Child Development Fund/IFCO; Emergency Human Rights Network; Faculty for Human Rights in El Salvador and Central America (FACHRES); Fairness &amp; Accuracy in Reporting (FAIR); Federacion de Asociaciones y Sindicatos Independientes de El Salvador (Federation of Independent Associations and Unions of El Salvador/FEASIES); The Field Foundation; Film Forum; First Run Features; Food First; Frank Riessman's Ideas for Action; Frente Farabundo Marti Para la Liberaction Nacional; Friends of the Democratic Convergence; Fund for Open Information and Accountability, Inc. (FOIA); Global Exchange; Guatemala Health Rights Support Project; Hermanas Princeton-Granada Sister Cities Committee; Inter-Hemispheric Education Resource Center; International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America (UAW); Inter-Religious Task Force on Central America; Inter-Religious Task Force on El Salvador &amp; Central America; Julio Cortazar Hospital Fund; Kansas Network on Central America; MADRE; Marin Interfaith Task Force on Central America; Marjorie Tuite Nicaraguan War Orphan Fund; Medical Aid for El Salvador (MEDICA); Metropolitann Center for Resource and Advocacy; Mobilization for Survival; N.Y. Committee in Solidarity with the People of El Salvador; National Action /Research on the Military Industrial Complex (NARMIC); National Bipartisan Commission on Central America; National Central America Health Rights Network; National Lawyers Guild; National Network in Solidarity with the Nicaraguan People; National Referendum to End the War in Central America; NEST Foundation/Winning Democracy Fund; New World Foundation; New York Area Central America Week; New York Area Labor Committee for Democracy and Human Rights in El Salvador; New York CIRCUS; New York Faculty Committee for Non-Intervention in Central America and the Caribbean; New York Mobilization for Justice and Peace in Central America and Southern Africa; New York Mobilization for Survival; New York Nicaragua Solidarity Network; New York\Nicaragua Construction Brigade; New Yorkers for Peace in Central America; NICA - Nuevo Instituto de CentroAmerica; Nicaragua Exchange; Nicaragua Libre; Nicaragua Medical Aid Campaign; Nicaragua Medical/Material Aid Campaign(NIC MAC); Nicaragua Network; Nicaragua Solidarity Network of Greater New York; Nicaraguan Hurricane Relief Project; North American Congress on Latin America (NACLA); North Star Fund; NY Anti-Apartheid Coordinating Council; NY Coalition Against Aid to the Contras; NY Peace Network; NY Regional Actions for Peace and Justice; NYC Coalition to End the U.S. War in El Salvador; Oats for Peace; October 25th Coalition; Orbis Books; Oxfam America; PAX Ithica, Returned Peace Corps Volunteers for Peace; Phil Reed for [New York] State Senate; Policy Alternatives for the Caribbean and Central America (PACCA); Presbyterian Office; PTV Production Inc.); Pueblo to People; Quest for Peace Congressional Education Project; Radio Habana Cuba; Referendum Campaign for a Nuclear Free Harbor; Riverside Church Disarmament Program; Santuary and Refugee Interfaith Coalition Salvadorean Medical Relief Fund); SANE (Committee for a Sane Nuclear Policy); SHARE(Salvadoran Humanitarian Aid, Research and Education) Foundation; Social Policy; Society for the Advancement of Judaism (S.A.J.); SSDIII National Coalition (United Nations Third Special Session on Nuclear Disarmament);Taller Latinoamericano; Task Force Against Intervention &amp; Apartheid; tecNICA; ; U.S. Citizens in Costa Rica Concerned for Peace); Upper Westside Sister City Project; Upper Westside Solidarity Committee with Pittston Miners; Venceremos Brigade; Ventana; Veterans Fast for Life; Voices on the Border; Walk to Witness; War Resisters League; Westchester People's Action Coalition (WESPAC); Westside Action Nuclear Freeze; Westside Committee for Human Rights; Winning Democracy; Witness for Peace; Wombat Film &amp; Video; WREE (Women for Racial and Economic Equality?). Particularly well-represented are publications of Committee in Solidarity with the People of El Salvador (CISPES) and the Pledge of Resistance (a campaign to sign up thousands of U.S. citizens to pledge to commit
+CNICA' s work included lobbying members of Congress, "tabling"(collecting signatures for petitions at tables), voter registration, fund raising, as well as educational and cultural events and participation in demonstrations and direct action, often in collaboration with groups with similar political interests and sympathies (a frequent ally and co-sponsor was the Committee in Solidarity with the People of El Salvador--CISPES--a national  organization with chapters in various cities in the United States). These activities included two benefit concerts for humanitarian aid for victims of war in El Salvador, Guatemala, and Nicaragua; an annual awards dinner to honor efforts of politicians and activists working to end United States intervention in Central America; a campaign that collected thousands of signatures on petitions and postcards opposed U.S. government aid to the "Contras"(the rebel militia that fought against the revolutionary Sandinista government in Nicaragua), sent to Congress; joining with another organization to plan and participate in civil disobedience at New York City's Federal Plaza; public meetings and forums, including one led by Noam Chomsky and attended by over 750 persons; a film series presenting documentaries and feature films on Central America, and an annual Walkathon (in cooperation with other groups) to raise funds to provide medical aid for Central America.  Under the sponsorship of CNICA the Upper West Side and Tipitapa, Nicaragua became "Sister Cities" in the spring of 1987.  The organization had a large mailing list that included New York politicians, including progressive Democrat Congressman Ted Weiss, representing New York's West Side, who sat on the House Committee on Foreign Affairs, and who came to a meeting of CNICA at its invitation. CNICA also supported Weiss in his re-election campaign.</p>
+      <p>CNICA disbanded circa 1991, after its members concluded that the revolution in El Salvador and Nicaragua was over.  The subcommittee of the CNICA that had organized the Sister City relationship with Tititapa continued its work as  "Pueblos – the New York-Tipitapa Sister City Project," a non-profit organization working collaboratively with Nicaraguans on projects to improve education, nutrition, and health promotion, environmental health, to promote human rights, and sponsor cross-cultural and educational exchanges.
+ </p>
+    </bioghist>
+    <prefercite id="aspace_a7050d01a0dcb8a43bb24d09a4c715d3">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Committee for Non-Intervention in Central America; TAM 649; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_013e9a2f01f7b7f9d7e697a615c8c351">
+      <head>Processing Information</head>
+      <p>About one-half of the materials were received in file folders labeled with names and subjects, arranged in alphabetical order; the remainder of the materials were received loose, unarranged, and undescribed.  The collection was then housed in acid-free folders and boxes and described by an archivist, retaining original folder titles and following original order whenever possible.</p>
+    </processinfo>
+    <scopecontent id="aspace_644d6a880ea46aa28ba4956aa8190ae2">
+      <head>Scope and Content Note</head>
+      <p>This collection consists of records of the general membership such as agendas and attendance lists and minutes; it also includes mailing lists, correspondence, and petitions; mailings and flyers produced and distributed by the organization; agendas, notes, and other documents for its Steering Committee; files on specific organization-sponsored events and projects; mailing lists and a telephone tree used to mobilize members and supporters. In addition, publications of numerous other organizations that concerned themselves with the same issues as CNICA make up a large part of the collection.</p>
+    </scopecontent>
+    <userestrict id="aspace_53e615b424bfc6a62a54d08262cc739f">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the Commiette for Non-Intervention in Central America, the creator of this collection, were relinquished and transferred to the public domain in 2014 by Frederich Johnson. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/.</p>
+    </userestrict>
+    <bibliography id="aspace_f1ae059816093a1464013005ea022102">
+      <head>Bibliographical Note</head>
+      <p>Information for this guide was drawn in part from two untitled flyers in the collection issued by CNICA on  its history and accomplishments and from notes on a conversation with Frederick Johnson, one of the chief organizers of the group.</p>
+    </bibliography>
+    <controlaccess>
+      <subject source="lcsh">Sister cities.</subject>
+      <subject source="lcsh">Human rights |z Central America.</subject>
+      <geogname source="lcsh">United States |x Foreign relations |z Central America.</geogname>
+      <corpname rules="dacs" source="local">Committee for Non-Intervention in Central America</corpname>
+      <persname role="dnr" rules="dacs" source="local">Johnson, Frederick </persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref1" level="series">
+        <did>
+          <unittitle>Series I:  Committee for Non-Intervention in Central America</unittitle>
+        </did>
+        <scopecontent id="aspace_eda498e9274632c2656b7a43943dd171">
+          <head>Scope and Content Note</head>
+          <p>Organizational records of general membership include a considerable number of agendas and attendance lists for general meetings and a small amount of minutes.  Mailings to members, including newsletters and bulletins informing members about upcoming legislation and issues in Congress or about direct action embodied in upcoming demonstrations, titled "Legislative Alerts," and "Action Alerts," together with flyers for CNICA events chronicle the events and activities of the organization, as do files on specific CNICA-sponsored events and projects like benefit concerts, walkathons, and its sister city initiative.  In addition to these, the organization's belief in the legislative process as a driver of political change is documented in files of correspondence and on letter-writing and petition campaigns to members of Congress.  Mailing lists, larger and longer than meeting attendance lists, reflect the large number of sympathetic supporters the organization was trying to reach for funds and participation in larger actions like demonstrations, if not for regular active involvement in the organization.  Internal organizational files contain hand- and type- written agendas, notes, planning and position papers of CNICA's Steering Committee (which set the direction of and drove the organization at large), and "telephone trees" identify many of its principal organizers as well as documenting the use of a central tool to communicate with and mobilize its members and supporters in between CNICA monthly meetings.</p>
+        </scopecontent>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Ad Hoc Committee of Westsiders Against Intervention in Central America</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container altrender="Record carton" id="aspace_8dabc6e7b1a2ad140204bcb841432ed9" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_1a15123b8f43beea74959d72ae6482b6" parent="aspace_8dabc6e7b1a2ad140204bcb841432ed9" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Americans for Peace in the Americas</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_2ac3ecd5f2799450cedfcb877c6c5e2b" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_c42e21e12f9360291ab42f786ab6306c" parent="aspace_2ac3ecd5f2799450cedfcb877c6c5e2b" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Appeals - Central America</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_bca8b99f065d16c551343ff95a3a6625" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_39568c175def6066e2971075497f2d58" parent="aspace_bca8b99f065d16c551343ff95a3a6625" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Awards Receptions</unittitle>
+            <unitdate normal="1984/1988" type="inclusive">1984-1988</unitdate>
+            <container altrender="Record carton" id="aspace_70e890086b160f9e8674d294479cd3dd" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_a461c630514044087cf5dbb96c7b561a" parent="aspace_70e890086b160f9e8674d294479cd3dd" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Clips - Central America</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_2c99bda109f1dbb8b62366018bb533ba" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_62351db927c91fe229b8f4b2ee334394" parent="aspace_2c99bda109f1dbb8b62366018bb533ba" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Concerts [for] Reparations</unittitle>
+            <unitdate normal="1985/1988" type="inclusive">1985, 1988</unitdate>
+            <container altrender="Record carton" id="aspace_4764506e03875d6f16ef2b27c44eb17d" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_97cc301ce0b13c0dd187325379877725" parent="aspace_4764506e03875d6f16ef2b27c44eb17d" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Congressman Ted Weiss Petition Campaign</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_66f150fdf61dc6def4fafc89b2a24ca2" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_3c98642426f3391a3cb5d12a6ad3474c" parent="aspace_66f150fdf61dc6def4fafc89b2a24ca2" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_b712fbf16b2b22003fb413e10c6f1daa" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_32f8e94c499315885d40f4131b4f0da6" parent="aspace_b712fbf16b2b22003fb413e10c6f1daa" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Financial (Including Tabling Statistics)</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_f761a922dd3dc41ebc4effb05c1b949a" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_068059665206aa605694eeec86a44791" parent="aspace_f761a922dd3dc41ebc4effb05c1b949a" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Flyers</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_4a80c47519029b63ac9c6ea20d33331c" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_a01818a679878e7097b3dea8ce9907e1" parent="aspace_4a80c47519029b63ac9c6ea20d33331c" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>General Meetings - Agendas</unittitle>
+            <unitdate normal="1984/1990" type="inclusive">1984-1990</unitdate>
+            <container altrender="Record carton" id="aspace_c4dba98c9718fd691bf3968bfb2725d5" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_6aaf5a6333b732420b3bb7b0fdc3fa29" parent="aspace_c4dba98c9718fd691bf3968bfb2725d5" type="folder">11 - 16</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>General Meetings - Agendas - Undated</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_d2690fef7a1a36130d7a639db40a7a98" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_956191b551210eb7fad98185402d648c" parent="aspace_d2690fef7a1a36130d7a639db40a7a98" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>General Meetings Attendance Lists; Mailing Lists</unittitle>
+            <unitdate normal="1984/1989" type="inclusive">1984-1989</unitdate>
+            <container altrender="Record carton" id="aspace_55124b3584195480466f47849cd0a415" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_49ec0a83f76c855e958f1d268e6dbd12" parent="aspace_55124b3584195480466f47849cd0a415" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>General Meetings - Minutes/Report on Retreat</unittitle>
+            <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <container altrender="Record carton" id="aspace_8b11677f768997b56fd69f74e35fe2d2" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_167002a1217159043e19d5229093c5d7" parent="aspace_8b11677f768997b56fd69f74e35fe2d2" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Human Serve Voter Registration Campaign</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_bd2e09aa5d34901e183a597b1ff71446" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_e91f511a0ee55d012e93f593c12dc987" parent="aspace_bd2e09aa5d34901e183a597b1ff71446" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Internal Organizational</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_26f368fee71d004d1a4c6d259cc13c2f" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_b9288498bb47791b7d1cb0bd88e746b9" parent="aspace_26f368fee71d004d1a4c6d259cc13c2f" type="folder">21 - 22</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Letters to Members of Congress/Letter-Writing Campaign</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_3a8c3cdb5b491906fad3ef5f901f2433" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_dec882069f7ed287d239a8382fb3a902" parent="aspace_3a8c3cdb5b491906fad3ef5f901f2433" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Lifetime Member Certificates</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_98d51a2c77fad28563bc05990b7ead05" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_d26e1dbe1453c17a2d17d61d1dc0500d" parent="aspace_98d51a2c77fad28563bc05990b7ead05" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Lunafil (CNICA-Aided Labor Union)</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_b79d415bf7bef0d022dca8b699c66fbc" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_4902e4e4e001732db4ec9b8a864eed56" parent="aspace_b79d415bf7bef0d022dca8b699c66fbc" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Mailing List - Labels and Corrections to Be Made</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_cf410ad749cf48cbbe063c162f07f549" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_a6c8d2e3dac1ac5df6953114f876786e" parent="aspace_cf410ad749cf48cbbe063c162f07f549" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Mailings</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_458a3832990ad35ee9c10fde593bfef1" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_f3ccb91f7a15061317b931a48dedf46b" parent="aspace_458a3832990ad35ee9c10fde593bfef1" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_3922f709161bbd76be615a56fc156641" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_9d5f536d2b3ffa26a211b5ad34f87adf" parent="aspace_3922f709161bbd76be615a56fc156641" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Petitions</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_40eaa4d4f66af6a3a0c804e0537890d4" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_10bed50fc4416a5f476bdc8924ac9141" parent="aspace_40eaa4d4f66af6a3a0c804e0537890d4" type="folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Photographs - CNICA Demonstration (Fred and Gretchen Johnson) at Federal Building and at Other Demonstration., at Unknown Location</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_7f544a766d08739cf6b8c57bfaadd874" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_214b481cd6d0d1a5aa5b9ad45ea6010a" parent="aspace_7f544a766d08739cf6b8c57bfaadd874" type="folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Receipts</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_92e6a35b17474eecf68fcc64281824e7" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_25a82ea096e2e6608fe95790411cec95" parent="aspace_92e6a35b17474eecf68fcc64281824e7" type="folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Telephone Tree</unittitle>
+            <unitdate normal="1984/1990" type="inclusive">1984-1990</unitdate>
+            <container altrender="Record carton" id="aspace_0c713803223cffe78b5449ba41074aac" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_15604e02b6a19241a37ef796af1601ec" parent="aspace_0c713803223cffe78b5449ba41074aac" type="folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Upper Westside Sister City Project</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_31988627c6e56b5535f8736f1937a0eb" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_d9dc0ede5310df6aff2b80c725689c36" parent="aspace_31988627c6e56b5535f8736f1937a0eb" type="folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Walkathon for Medical Aid to Central America - First Annual</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container altrender="Record carton" id="aspace_7930348757777242761e36b8a61969c5" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_0f7b83309263759487940807223e93be" parent="aspace_7930348757777242761e36b8a61969c5" type="folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Walkathon for Medical Aid to Central America - Second Annual</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container altrender="Record carton" id="aspace_230c6c493f10d449cdc8f8fb85fc0190" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_2bd25d3c203365e4e8f24d6bece1d35f" parent="aspace_230c6c493f10d449cdc8f8fb85fc0190" type="folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Walkathon for Medical Aid to Central America - Third and Fourth</unittitle>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container altrender="Record carton" id="aspace_87e89d0bc680375f693ef2ae55239553" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_a3d66616b0a5742f3ccf84756b17a7b6" parent="aspace_87e89d0bc680375f693ef2ae55239553" type="folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Walkathon for Medical Aid to Central America - Background Research and Publicity</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_55bea0689839e03683e2f9723368f313" label="Text [31142062759157]" type="box">2</container>
+            <container id="aspace_2d25f58c15a42fb0832fec9dc5a32bcc" parent="aspace_55bea0689839e03683e2f9723368f313" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Walkathon for Medical Aid to Central America - Beneficiary Organizations</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_796595cc1cd77182aaf6bce0558beaf1" label="Text [31142062759157]" type="box">2</container>
+            <container id="aspace_6ce821c5015539901ff6ea3fd61790c7" parent="aspace_796595cc1cd77182aaf6bce0558beaf1" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Walkathon for Medical Aid to Central America - </unittitle>
+            <container altrender="Record carton" id="aspace_f53f987b00f4a4c725e65db67ab3da32" label="Text [31142062759157]" type="box">2</container>
+            <container id="aspace_daf8421787c523d094410e4fc12bd964" parent="aspace_f53f987b00f4a4c725e65db67ab3da32" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Walkathon for Medical Aid to Central America - Layout and Design for Publicity</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_288177a07bedd5bfeb061b0e40f36909" label="Text [31142062759165]" type="box">1</container>
+            <container id="aspace_6aa0b9851fb7b69d03b38f9d01a3a438" parent="aspace_288177a07bedd5bfeb061b0e40f36909" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Walkathon for Medical Aid to Central America -  Walker Registration, Administrative</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_9e6e79770716abd38f4a73b29e0801eb" label="Text [31142062759157]" type="box">2</container>
+            <container id="aspace_1cab4ae6abde520da430616caebd6938" parent="aspace_9e6e79770716abd38f4a73b29e0801eb" type="folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref2" level="series">
+        <did>
+          <unittitle>Series II: Publications Created by Other Organizations
+</unittitle>
+          <unitdate normal="1982/1991" type="inclusive">ca 1980s-1991</unitdate>
+        </did>
+        <scopecontent id="aspace_4c54831ef551bc878e0eb919b8aaf9eb">
+          <head>Scope and Content Note</head>
+          <p>Consists of publications (in formats ranging from leaflets and newsletters to ephemera) of other organizations that concerned themselves with the same issues as CNICA, some of which CNICA worked and cooperated with  on projects and actions. These publications not only illustrate how CNICA kept itself abreast of the actions and events of these organizations, it also serves to document the larger community of left and progressive organizations (the sheer number of organizations represented by their publications in this Collection alone--140--is notable)—both locally and nationally--that CNICA was part of.  </p>
+          <p>Publications of the following organizations are included: Across Frontiers; American Friends Service Committee; April Actions for Peace, Jobs, and Justice; Artists Call Against U.S. Intervention in Central America; Barricada Internacional; Broadway Democrats; Brooklyn Committee in Solidarity with the People of El Salvador (CISPES); Brooklyn Sister City Project; Campaign for Peace and Democracy/East and West (CPD/EW); Capp Street Foundation; Casa El Salvador; Casa Nicaragua; Casa Nicaraguense De Espanol, Inc.; Casa Westchester; Catholic Worker; Center for Constitutional Rights; Center for Defense Information; Central America Week; Central America Week Coalition/NYICOCA; Central American Historical Institute; Central American Solidarity Association; Central American Solidarity Network; Children's World's Fair; Christic Institute; Clergy and Laity Concerned; Coalition Against U.S. Intervention in Central America and the Caribbean; Coalition for a New Foreign  and Military Policy; Coalition for a New Foreign Policy; Columbia Students in Solidarity with Nicaragua; Comite El Salvador; Committee for a Navyport Referendum;Committee in Solidarity with the People of El Salvador (NY CISPES); Committee of Professionals Against the Contras COM/PAC; Contra Watch; Council for Human Rights in Latin America-Fundacion Centroamericana; Cruisewatch; Cultural Correspondence; Curbstone Press; Diocese of New York of the Protestant Episcopal Church); Educators Committee on Central America; Educators for Social Responsibility; El Comite Puertorriqueno Contra la Represion; El Salvador Child Development Fund/IFCO; Emergency Human Rights Network; Faculty for Human Rights in El Salvador and Central America (FACHRES); Fairness &amp; Accuracy in Reporting (FAIR); Federacion de Asociaciones y Sindicatos Independientes de El Salvador (Federation of Independent Associations and Unions of El Salvador/FEASIES); The Field Foundation; Film Forum; First Run Features; Food First; Frank Riessman's Ideas for Action; Frente Farabundo Marti Para la Liberaction Nacional; Friends of the Democratic Convergence; Fund for Open Information and Accountability, Inc. (FOIA); Global Exchange; Guatemala Health Rights Support Project; Hermanas Princeton-Granada Sister Cities Committee; Inter-Hemispheric Education Resource Center; International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America (UAW); Inter-Religious Task Force on Central America; Inter-Religious Task Force on El Salvador &amp; Central America; Julio Cortazar Hospital Fund; Kansas Network on Central America; MADRE; Marin Interfaith Task Force on Central America; Marjorie Tuite Nicaraguan War Orphan Fund; Medical Aid for El Salvador (MEDICA); Metropolitann Center for Resource and Advocacy; Mobilization for Survival; N.Y. Committee in Solidarity with the People of El Salvador; National Action /Research on the Military Industrial Complex (NARMIC); National Bipartisan Commission on Central America; National Central America Health Rights Network; National Lawyers Guild; National Network in Solidarity with the Nicaraguan People; National Referendum to End the War in Central America; NEST Foundation/Winning Democracy Fund; New World Foundation; New York Area Central America Week; New York Area Labor Committee for Democracy and Human Rights in El Salvador; New York CIRCUS; New York Faculty Committee for Non-Intervention in Central America and the Caribbean; New York Mobilization for Justice and Peace in Central America and Southern Africa; New York Mobilization for Survival; New York Nicaragua Solidarity Network; New York\Nicaragua Construction Brigade; New Yorkers for Peace in Central America; NICA - Nuevo Instituto de CentroAmerica; Nicaragua Exchange; Nicaragua Libre; Nicaragua Medical Aid Campaign; Nicaragua Medical/Material Aid Campaign(NIC MAC); Nicaragua Network; Nicaragua Solidarity Network of Greater New York; Nicaraguan Hurricane Relief Project; North American Congress on Latin America (NACLA); North Star Fund; NY Anti-Apartheid Coordinating Council; NY Coalition Against Aid to the Contras; NY Peace Network; NY Regional Actions for Peace and Justice; NYC Coalition to End the U.S. War in El Salvador; Oats for Peace; October 25th Coalition; Orbis Books; Oxfam America; PAX Ithica, Returned Peace Corps Volunteers for Peace; Phil Reed for [New York] State Senate; Policy Alternatives for the Caribbean and Central America (PACCA); Presbyterian Office; PTV Production Inc.); Pueblo to People; Quest for Peace Congressional Education Project; Radio Habana Cuba; Referendum Campaign for a Nuclear Free Harbor; Riverside Church Disarmament Program; Santuary and Refugee Interfaith Coalition Salvadorean Medical Relief Fund); SANE (Committee for a Sane Nuclear Policy); SHARE(Salvadoran Humanitarian Aid, Research and Education) Foundation; Social Policy; Society for the Advancement of Judaism (S.A.J.); SSDIII National Coalition (United Nations Third Special Session on Nuclear Disarmament);Taller Latinoamericano; Task Force Against Intervention &amp; Apartheid; tecNICA; ; U.S. Citizens in Costa Rica Concerned for Peace); Upper Westside Sister City Project; Upper Westside Solidarity Committee with Pittston Miners; Venceremos Brigade; Ventana; Veterans Fast for Life; Voices on the Border; Walk to Witness; War Resisters League; Westchester People's Action Coalition (WESPAC); Westside Action Nuclear Freeze; Westside Committee for Human Rights; Winning Democracy; Witness for Peace; Wombat Film &amp; Video; WREE (Women for Racial and Economic Equality?). Particularly well-represented are publications of Committee in Solidarity with the People of El Salvador (CISPES) and the Pledge of Resistance (a campaign to sign up thousands of U.S. citizens to pledge to commit
 civil disobedience in the event of a U.S. invasion of Nicaragua).
- </p></scopecontent><c id="aspace_ref6" level="file"><did><unittitle>Publications</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_f4a6246659410861c2a8204a04df5d35" label="Text [31142062759157]" type="box">2</container><container id="aspace_27e531024cf1c44e41623b043adbf551" parent="aspace_f4a6246659410861c2a8204a04df5d35" type="folder">6 - 25</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Publications - Oversize</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate></did></c><c id="aspace_ref31" level="file"><did><unittitle>Publications -  For Events With Multiple Organizational Sponsors</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_dabe92fa4576908f5ddd2917dfea9174" label="Text [31142062759157]" type="box">2</container><container id="aspace_6ee6fb8ff12fac84b594905b9fdde6a9" parent="aspace_dabe92fa4576908f5ddd2917dfea9174" type="folder">26</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Catalogs for Organizing and Fundraising Items for Purchase</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_c6a2512059a98555cc831fb38f816630" label="Text [31142062759157]" type="box">2</container><container id="aspace_897dcfa33a0ab10a67e9e5a1e149191c" parent="aspace_c6a2512059a98555cc831fb38f816630" type="folder">27</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>[Congressman] Ted Weiss</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_1e0a26625a331593dfc3d47c1a8715a8" label="Text [31142062759157]" type="box">2</container><container id="aspace_c0dc9b52ea44603ee346cd13be83e167" parent="aspace_1e0a26625a331593dfc3d47c1a8715a8" type="folder">28</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Ephemera</unittitle><unitdate>1980s</unitdate><container altrender="Record carton" id="aspace_1c1983293b7d11ddf59e726ba8e0cc53" label="Realia [31142062759157]" type="box">2</container><container id="aspace_3ac0d21fa89bc7ee85f5b40b4b10a2d1" parent="aspace_1c1983293b7d11ddf59e726ba8e0cc53" type="folder">29</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Posters and Picket Sign</unittitle><unitdate>1980s</unitdate><container id="aspace_ed8bc13a7b99d22f8c9c167157941517" label="Graphic Materials" type="box">MSXOS003</container></did></c></c></dsc>
-</archdesc>
+ </p>
+        </scopecontent>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Publications</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_f4a6246659410861c2a8204a04df5d35" label="Text [31142062759157]" type="box">2</container>
+            <container id="aspace_27e531024cf1c44e41623b043adbf551" parent="aspace_f4a6246659410861c2a8204a04df5d35" type="folder">6 - 25</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Publications - Oversize</unittitle>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Publications -  For Events With Multiple Organizational Sponsors</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_dabe92fa4576908f5ddd2917dfea9174" label="Text [31142062759157]" type="box">2</container>
+            <container id="aspace_6ee6fb8ff12fac84b594905b9fdde6a9" parent="aspace_dabe92fa4576908f5ddd2917dfea9174" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Catalogs for Organizing and Fundraising Items for Purchase</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_c6a2512059a98555cc831fb38f816630" label="Text [31142062759157]" type="box">2</container>
+            <container id="aspace_897dcfa33a0ab10a67e9e5a1e149191c" parent="aspace_c6a2512059a98555cc831fb38f816630" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>[Congressman] Ted Weiss</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_1e0a26625a331593dfc3d47c1a8715a8" label="Text [31142062759157]" type="box">2</container>
+            <container id="aspace_c0dc9b52ea44603ee346cd13be83e167" parent="aspace_1e0a26625a331593dfc3d47c1a8715a8" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Ephemera</unittitle>
+            <unitdate>1980s</unitdate>
+            <container altrender="Record carton" id="aspace_1c1983293b7d11ddf59e726ba8e0cc53" label="Realia [31142062759157]" type="box">2</container>
+            <container id="aspace_3ac0d21fa89bc7ee85f5b40b4b10a2d1" parent="aspace_1c1983293b7d11ddf59e726ba8e0cc53" type="folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Posters and Picket Sign</unittitle>
+            <unitdate>1980s</unitdate>
+            <container id="aspace_ed8bc13a7b99d22f8c9c167157941517" label="Graphic Materials" type="box">MSXOS003</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

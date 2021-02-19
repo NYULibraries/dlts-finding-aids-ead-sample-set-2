@@ -1,63 +1,269 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_077">tam_077</eadid><filedesc><titlestmt><titleproper>Harvard Graduate Student and Teaching Fellows Union Records <num>TAM.077</num></titleproper><author>Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>12/11/2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:46:23 -0500</date>.</creation></profiledesc><revisiondesc><change><date>July 2017</date><item>Edited by Shirin Khaki for compliance with DACS and ACM Required Elements for Archival Description.</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Harvard Graduate Student and Teaching Fellows Union Records</unittitle>
-    <origination label="Creator">
-      <corpname source="local">Harvard Graduate Student and Teaching Fellows Union</corpname>
-    </origination>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_077">tam_077</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Harvard Graduate Student and Teaching Fellows Union Records <num>TAM.077</num></titleproper>
+        <author>Tamiment staff</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>12/11/2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:46:23 -0500</date>.</creation>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>July 2017</date>
+        <item>Edited by Shirin Khaki for compliance with DACS and ACM Required Elements for Archival Description.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Harvard Graduate Student and Teaching Fellows Union Records</unittitle>
+      <origination label="Creator">
+        <corpname source="local">Harvard Graduate Student and Teaching Fellows Union</corpname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Lasser, Carol S.</persname>
+      </origination>
+      <unitid>TAM.077</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.75 Linear Feet</extent>
+        <extent altrender="carrier">in 1 manuscript box and 1 half manuscript box.</extent>
+      </physdesc>
+      <unitdate normal="1967/1978" type="inclusive">1967-1978</unitdate>
+      <unitdate normal="1972/1973" type="bulk">1972-1973</unitdate>
+      <abstract id="aspace_2829dda53392a73dd4947cd866cbe79f">The Harvard Graduate Students and Teaching Fellows Union was formed by 156 teaching fellows on March 13, 1972 in response to a change in the financial aid programs available to graduate students. The Union remained in existence through the 1972-1973 school year. This collection contains correspondence, membership lists, union statements, leaflets, newspaper clippings, posters and song lyrics.</abstract>
+      <physloc id="aspace_cba828f0003500099dac9987d8e80793">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_bb74ad419a0af030242b898eb5cb4cd2">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_a5d6506d1166b9eafe9273a1d7737d29">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_8052e1413119619cf9bd4ea8d9d5576d">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Carol S. Lasser, 1978. The accession number associated with this gift is 1978.017.</p>
+    </acqinfo>
+    <bioghist id="aspace_167a6da8dc03815e2014c491a57da528">
+      <head>Historical Note</head>
+      <p>The Harvard Graduate Students and Teaching Fellows Union was formed by 156 teaching fellows on March 13, 1972 in response to a change in the financial aid programs available to graduate students. The Union remained in existence through the 1972-1973 school year but no agreement was ever reached between the Union and the University.</p>
+    </bioghist>
+    <prefercite id="aspace_6cdcb93c8263444ee23c5d8b263bbb71">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Harvard Graduate Student and Teaching Fellows Union Records; TAM 077; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <scopecontent id="aspace_c9f92960098366453d20c7406c475661">
+      <head>Scope and Content Note</head>
+      <p>This collection contains correspondence, membership lists, union statements, leaflets, newspaper clippings, posters and song lyrics. There is also material from teaching assistant unions at other campuses. The collection covers the years 1967-1974, with the bulk of the material covering union activity from 1972-1973.</p>
+    </scopecontent>
+    <userestrict id="aspace_fa0d881d2f095ef57c8e09789883652f">
+      <head>Conditions Governing Use</head>
+      <p>Tamiment Library/Robert F. Wagner Labor Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1967-1978, are expected to enter the public domain in 2047.</p>
+    </userestrict>
+    <arrangement id="aspace_15a15b6d04ab0059ab5fe0b11a75542f">
+      <head>Arrangement</head>
+      <p>The materials in the collection were arranged alphabetically by subject.</p>
+    </arrangement>
+    <processinfo id="aspace_6bd601d62a18bf4fd188fd384db2b5d9">
+      <head>Processing Information</head>
+      <p>The collection was arranged by an archivist and duplicate material was disposed of sometime prior to 2017.</p>
+    </processinfo>
+    <controlaccess>
+      <subject source="lcsh">Graduate teaching assistants -- Labor unions -- United States.</subject>
+      <subject source="lcsh">Graduate teaching assistants -- Labor unions -- Cambridge (Mass.)</subject>
+      <genreform source="aat">Songs (document genre)</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Printed ephemera.</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Posters.</genreform>
       <persname role="dnr" rules="dacs" source="local">Lasser, Carol S.</persname>
-    </origination>
-    <unitid>TAM.077</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">.75 Linear Feet</extent>
-      <extent altrender="carrier">in 1 manuscript box and 1 half manuscript box.</extent>
-    </physdesc>
-    <unitdate normal="1967/1978" type="inclusive">1967-1978</unitdate>
-    <unitdate normal="1972/1973" type="bulk">1972-1973</unitdate>
-    <abstract id="aspace_2829dda53392a73dd4947cd866cbe79f">The Harvard Graduate Students and Teaching Fellows Union was formed by 156 teaching fellows on March 13, 1972 in response to a change in the financial aid programs available to graduate students. The Union remained in existence through the 1972-1973 school year. This collection contains correspondence, membership lists, union statements, leaflets, newspaper clippings, posters and song lyrics.</abstract>
-    <physloc id="aspace_cba828f0003500099dac9987d8e80793">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
-    <langmaterial id="aspace_bb74ad419a0af030242b898eb5cb4cd2">Materials are in English.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_a5d6506d1166b9eafe9273a1d7737d29">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_8052e1413119619cf9bd4ea8d9d5576d">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Carol S. Lasser, 1978. The accession number associated with this gift is 1978.017.</p>  </acqinfo>
-  <bioghist id="aspace_167a6da8dc03815e2014c491a57da528">
-    <head>Historical Note</head>
-<p>The Harvard Graduate Students and Teaching Fellows Union was formed by 156 teaching fellows on March 13, 1972 in response to a change in the financial aid programs available to graduate students. The Union remained in existence through the 1972-1973 school year but no agreement was ever reached between the Union and the University.</p>  </bioghist>
-  <prefercite id="aspace_6cdcb93c8263444ee23c5d8b263bbb71">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Harvard Graduate Student and Teaching Fellows Union Records; TAM 077; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <scopecontent id="aspace_c9f92960098366453d20c7406c475661">
-    <head>Scope and Content Note</head>
-<p>This collection contains correspondence, membership lists, union statements, leaflets, newspaper clippings, posters and song lyrics. There is also material from teaching assistant unions at other campuses. The collection covers the years 1967-1974, with the bulk of the material covering union activity from 1972-1973.</p>  </scopecontent>
-  <userestrict id="aspace_fa0d881d2f095ef57c8e09789883652f">
-    <head>Conditions Governing Use</head>
-<p>Tamiment Library/Robert F. Wagner Labor Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1967-1978, are expected to enter the public domain in 2047.</p>  </userestrict>
-  <arrangement id="aspace_15a15b6d04ab0059ab5fe0b11a75542f">
-    <head>Arrangement</head>
-<p>The materials in the collection were arranged alphabetically by subject.</p>  </arrangement>
-  <processinfo id="aspace_6bd601d62a18bf4fd188fd384db2b5d9">
-    <head>Processing Information</head>
-<p>The collection was arranged by an archivist and duplicate material was disposed of sometime prior to 2017.</p>  </processinfo>
-  <controlaccess>
-    <subject source="lcsh">Graduate teaching assistants -- Labor unions -- United States.</subject>
-    <subject source="lcsh">Graduate teaching assistants -- Labor unions -- Cambridge (Mass.)</subject>
-    <genreform source="aat">Songs (document genre)</genreform>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Printed ephemera.</genreform>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <genreform source="aat">Posters.</genreform>
-    <persname role="dnr" rules="dacs" source="local">Lasser, Carol S.</persname>
-    <corpname source="naf">Harvard University -- Professional staff</corpname>
-    <corpname source="naf">Harvard University</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_f4202c2575bab3018f251a53c7c2af53" level="file"><did><unittitle>Accession Correspondence</unittitle><unitdate normal="1978/1978">1978</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_7d29b355943e1f9c9c48bda30439265e" label="Mixed Materials [31142063434081]" type="box">1</container><container id="aspace_8861d8ce60adaf36c2dc09571e59fa14" parent="aspace_7d29b355943e1f9c9c48bda30439265e" type="folder">1</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Constitution HGSTFU</unittitle><unitdate normal="1972/1972" type="inclusive">Spring 1972-Summer 1972</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2328cbc0c3bbea9d34e8ee7e4cbbab17" label="Mixed Materials [31142063434081]" type="box">1</container><container id="aspace_a1e2666cf89cc1310cb16c2c15688dc6" parent="aspace_2328cbc0c3bbea9d34e8ee7e4cbbab17" type="folder">2</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Contract HGSTFU; Proposed</unittitle><unitdate normal="1972/1972" type="inclusive">Summer 1972</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d5efc0f4216eb73138eaca592f20b8ab" label="Mixed Materials [31142063434081]" type="box">1</container><container id="aspace_38e6de9488bf2b3bad7be7c60c8308c8" parent="aspace_d5efc0f4216eb73138eaca592f20b8ab" type="folder">3</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1972/1972" type="inclusive">Mar 1972-Jun 1972</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b5904cb0523ac5224939678e463027b3" label="Mixed Materials [31142063434081]" type="box">1</container><container id="aspace_e677be1a5d6ad0bc0f178ce68d286240" parent="aspace_b5904cb0523ac5224939678e463027b3" type="folder">4</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Future of the Graduate School, Report of the Committee on</unittitle><unitdate normal="1969/1969" type="inclusive">Mar 1969</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b892dbf7eaff15c964071f3db7a7cf03" label="Mixed Materials [31142063434081]" type="box">1</container><container id="aspace_a36d8ac0c060970b402d94e64be4114b" parent="aspace_b892dbf7eaff15c964071f3db7a7cf03" type="folder">5</container></did></c><c id="aspace_ref8" level="file"><did><unittitle><emph render="italic">Hard Times</emph></unittitle><unitdate normal="1972/1972" type="inclusive">Apr 1972-Sep 1972</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_6d7d9014b2453b2c3eb5536c62873853" label="Mixed Materials [31142063434081]" type="box">1</container><container id="aspace_d1b14b5365071e41da6ace1f5c183c2c" parent="aspace_6d7d9014b2453b2c3eb5536c62873853" type="folder">6</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Harvard Radical Union</unittitle><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0bbfb98a0e12263d9bf0f8837c6856ac" label="Mixed Materials [31142063434081]" type="box">1</container><container id="aspace_2713dfe731d387cfff0723b370a4a58e" parent="aspace_0bbfb98a0e12263d9bf0f8837c6856ac" type="folder">7</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Leaflets and Songs, HGSTFU</unittitle><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_213f06a863d57432d7b9d22550476609" label="Mixed Materials [31142063434081]" type="box">1</container><container id="aspace_896ba2c4af3d218e87fcc69c7d2713c1" parent="aspace_213f06a863d57432d7b9d22550476609" type="folder">8</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Lists, HGSTFU Committee Membership</unittitle><unitdate normal="1972/1972" type="inclusive">Mar 1972</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3c8d23d3abccd23fe0609c6f8030d464" label="Mixed Materials [31142063434081]" type="box">1</container><container id="aspace_ce00c480b1ec58f6bab4d29141da609d" parent="aspace_3c8d23d3abccd23fe0609c6f8030d464" type="folder">9</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Lists, HGSTFU Membership</unittitle><unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e59f65832009e249149b90d473f606b7" label="Mixed Materials [31142063434081]" type="box">1</container><container id="aspace_ba765f75ec70ae6bbbee49eb1a1785bb" parent="aspace_e59f65832009e249149b90d473f606b7" type="folder">10</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Lists, HGSTFU Picket Team</unittitle><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4beaf673405107943d3cd72ac0c6a8b7" label="Mixed Materials [31142063434081]" type="box">1</container><container id="aspace_d5f631588fad540acdf434537d9301d3" parent="aspace_4beaf673405107943d3cd72ac0c6a8b7" type="folder">11</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>National Labor Relations Board</unittitle><unitdate normal="1972/1972" type="inclusive">Apr 1972</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4bf375ce769b53b428bd7328d9aad475" label="Mixed Materials [31142063434081]" type="box">1</container><container id="aspace_b24b2ae86e2dae651b1aaa7c66d911cc" parent="aspace_4bf375ce769b53b428bd7328d9aad475" type="folder">12</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>News Articles</unittitle><unitdate normal="1972/1973" type="inclusive">Mar 1972-Mar 1973</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e81746ab1a141e2059719fe43852db54" label="Mixed Materials [31142063434081]" type="box">1</container><container id="aspace_b169e66d307b5f2204acc30cb6e09186" parent="aspace_e81746ab1a141e2059719fe43852db54" type="folder">13</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Non-Harvard Union Materials</unittitle><unitdate normal="1962/1977" type="inclusive">circa 1967-1972</unitdate><container altrender="Manuscript box - Legal" id="aspace_fa42031025292bdfbe6470bd0389b7c3" label="Mixed Materials [31142063434073]" type="box">2</container><container id="aspace_5680f657895f9e3cc0c6dbcc2782bffd" parent="aspace_fa42031025292bdfbe6470bd0389b7c3" type="folder">1</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Non-Harvard Union Materials</unittitle><unitdate normal="1960/1975" type="inclusive">circa late 1960s-early 1970s</unitdate><container altrender="Manuscript box - Legal" id="aspace_27cfa1e977772bf3d08c2123ada8d3cc" label="Mixed Materials [31142063434073]" type="box">2</container><container id="aspace_faadbb87cbce2af50658f5ebbe4f0384" parent="aspace_27cfa1e977772bf3d08c2123ada8d3cc" type="folder">2</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Non-Harvard Union Materials</unittitle><unitdate normal="1968/1972" type="inclusive">1968-1972</unitdate><container altrender="Manuscript box - Legal" id="aspace_559970be5e7cbffb725eca9540943a43" label="Mixed Materials [31142063434073]" type="box">2</container><container id="aspace_0c694095720e4cdc65a0762b85458827" parent="aspace_559970be5e7cbffb725eca9540943a43" type="folder">3</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Statements, Harvard Administration</unittitle><unitdate normal="1972/1973" type="inclusive">Jan 1972-Jun 1973</unitdate><container altrender="Manuscript box - Legal" id="aspace_b19be5af5c72b120c9286dc364177a9c" label="Mixed Materials [31142063434073]" type="box">2</container><container id="aspace_1a117651cff35900cb38203fbee3a8db" parent="aspace_b19be5af5c72b120c9286dc364177a9c" type="folder">4</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Statements, HGSTFU</unittitle><unitdate normal="1972/1973" type="inclusive">Mar 1972-Spring 1973</unitdate><container altrender="Manuscript box - Legal" id="aspace_a7be1daf63f2a54fa5deb83f7069b5f3" label="Mixed Materials [31142063434073]" type="box">2</container><container id="aspace_9687ad6cb9638664e31c1c6c69979210" parent="aspace_a7be1daf63f2a54fa5deb83f7069b5f3" type="folder">5</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Status of Women in Faculty of Arts and Sciences, Report of the Committee on</unittitle><unitdate normal="1971/1971" type="inclusive">Apr 1971</unitdate><container altrender="Manuscript box - Legal" id="aspace_373e5cc4deb1c3184a7adff0758f9f24" label="Mixed Materials [31142063434073]" type="box">2</container><container id="aspace_655377995211b920465e6863e8ed5714" parent="aspace_373e5cc4deb1c3184a7adff0758f9f24" type="folder">6</container></did></c><c id="aspace_ref22" level="file"><did><unittitle><emph render="italic">Upstart</emph></unittitle><unitdate normal="1972/1972" type="inclusive">Apr 1972</unitdate><container altrender="Manuscript box - Legal" id="aspace_6e58702cc6e995971d4be7d7afee4e18" label="Mixed Materials [31142063434073]" type="box">2</container><container id="aspace_3f63b805bdaacdfba339b51b7c876c4f" parent="aspace_6e58702cc6e995971d4be7d7afee4e18" type="folder">7</container></did></c></dsc>
-</archdesc>
+      <corpname source="naf">Harvard University -- Professional staff</corpname>
+      <corpname source="naf">Harvard University</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_f4202c2575bab3018f251a53c7c2af53" level="file">
+        <did>
+          <unittitle>Accession Correspondence</unittitle>
+          <unitdate normal="1978/1978">1978</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_7d29b355943e1f9c9c48bda30439265e" label="Mixed Materials [31142063434081]" type="box">1</container>
+          <container id="aspace_8861d8ce60adaf36c2dc09571e59fa14" parent="aspace_7d29b355943e1f9c9c48bda30439265e" type="folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref4" level="file">
+        <did>
+          <unittitle>Constitution HGSTFU</unittitle>
+          <unitdate normal="1972/1972" type="inclusive">Spring 1972-Summer 1972</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_2328cbc0c3bbea9d34e8ee7e4cbbab17" label="Mixed Materials [31142063434081]" type="box">1</container>
+          <container id="aspace_a1e2666cf89cc1310cb16c2c15688dc6" parent="aspace_2328cbc0c3bbea9d34e8ee7e4cbbab17" type="folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref5" level="file">
+        <did>
+          <unittitle>Contract HGSTFU; Proposed</unittitle>
+          <unitdate normal="1972/1972" type="inclusive">Summer 1972</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_d5efc0f4216eb73138eaca592f20b8ab" label="Mixed Materials [31142063434081]" type="box">1</container>
+          <container id="aspace_38e6de9488bf2b3bad7be7c60c8308c8" parent="aspace_d5efc0f4216eb73138eaca592f20b8ab" type="folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref6" level="file">
+        <did>
+          <unittitle>Correspondence</unittitle>
+          <unitdate normal="1972/1972" type="inclusive">Mar 1972-Jun 1972</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_b5904cb0523ac5224939678e463027b3" label="Mixed Materials [31142063434081]" type="box">1</container>
+          <container id="aspace_e677be1a5d6ad0bc0f178ce68d286240" parent="aspace_b5904cb0523ac5224939678e463027b3" type="folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref7" level="file">
+        <did>
+          <unittitle>Future of the Graduate School, Report of the Committee on</unittitle>
+          <unitdate normal="1969/1969" type="inclusive">Mar 1969</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_b892dbf7eaff15c964071f3db7a7cf03" label="Mixed Materials [31142063434081]" type="box">1</container>
+          <container id="aspace_a36d8ac0c060970b402d94e64be4114b" parent="aspace_b892dbf7eaff15c964071f3db7a7cf03" type="folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref8" level="file">
+        <did>
+          <unittitle>
+            <emph render="italic">Hard Times</emph>
+          </unittitle>
+          <unitdate normal="1972/1972" type="inclusive">Apr 1972-Sep 1972</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_6d7d9014b2453b2c3eb5536c62873853" label="Mixed Materials [31142063434081]" type="box">1</container>
+          <container id="aspace_d1b14b5365071e41da6ace1f5c183c2c" parent="aspace_6d7d9014b2453b2c3eb5536c62873853" type="folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref9" level="file">
+        <did>
+          <unittitle>Harvard Radical Union</unittitle>
+          <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_0bbfb98a0e12263d9bf0f8837c6856ac" label="Mixed Materials [31142063434081]" type="box">1</container>
+          <container id="aspace_2713dfe731d387cfff0723b370a4a58e" parent="aspace_0bbfb98a0e12263d9bf0f8837c6856ac" type="folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref10" level="file">
+        <did>
+          <unittitle>Leaflets and Songs, HGSTFU</unittitle>
+          <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_213f06a863d57432d7b9d22550476609" label="Mixed Materials [31142063434081]" type="box">1</container>
+          <container id="aspace_896ba2c4af3d218e87fcc69c7d2713c1" parent="aspace_213f06a863d57432d7b9d22550476609" type="folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref11" level="file">
+        <did>
+          <unittitle>Lists, HGSTFU Committee Membership</unittitle>
+          <unitdate normal="1972/1972" type="inclusive">Mar 1972</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_3c8d23d3abccd23fe0609c6f8030d464" label="Mixed Materials [31142063434081]" type="box">1</container>
+          <container id="aspace_ce00c480b1ec58f6bab4d29141da609d" parent="aspace_3c8d23d3abccd23fe0609c6f8030d464" type="folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>Lists, HGSTFU Membership</unittitle>
+          <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_e59f65832009e249149b90d473f606b7" label="Mixed Materials [31142063434081]" type="box">1</container>
+          <container id="aspace_ba765f75ec70ae6bbbee49eb1a1785bb" parent="aspace_e59f65832009e249149b90d473f606b7" type="folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Lists, HGSTFU Picket Team</unittitle>
+          <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_4beaf673405107943d3cd72ac0c6a8b7" label="Mixed Materials [31142063434081]" type="box">1</container>
+          <container id="aspace_d5f631588fad540acdf434537d9301d3" parent="aspace_4beaf673405107943d3cd72ac0c6a8b7" type="folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>National Labor Relations Board</unittitle>
+          <unitdate normal="1972/1972" type="inclusive">Apr 1972</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_4bf375ce769b53b428bd7328d9aad475" label="Mixed Materials [31142063434081]" type="box">1</container>
+          <container id="aspace_b24b2ae86e2dae651b1aaa7c66d911cc" parent="aspace_4bf375ce769b53b428bd7328d9aad475" type="folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>News Articles</unittitle>
+          <unitdate normal="1972/1973" type="inclusive">Mar 1972-Mar 1973</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_e81746ab1a141e2059719fe43852db54" label="Mixed Materials [31142063434081]" type="box">1</container>
+          <container id="aspace_b169e66d307b5f2204acc30cb6e09186" parent="aspace_e81746ab1a141e2059719fe43852db54" type="folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Non-Harvard Union Materials</unittitle>
+          <unitdate normal="1962/1977" type="inclusive">circa 1967-1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fa42031025292bdfbe6470bd0389b7c3" label="Mixed Materials [31142063434073]" type="box">2</container>
+          <container id="aspace_5680f657895f9e3cc0c6dbcc2782bffd" parent="aspace_fa42031025292bdfbe6470bd0389b7c3" type="folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Non-Harvard Union Materials</unittitle>
+          <unitdate normal="1960/1975" type="inclusive">circa late 1960s-early 1970s</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_27cfa1e977772bf3d08c2123ada8d3cc" label="Mixed Materials [31142063434073]" type="box">2</container>
+          <container id="aspace_faadbb87cbce2af50658f5ebbe4f0384" parent="aspace_27cfa1e977772bf3d08c2123ada8d3cc" type="folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>Non-Harvard Union Materials</unittitle>
+          <unitdate normal="1968/1972" type="inclusive">1968-1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_559970be5e7cbffb725eca9540943a43" label="Mixed Materials [31142063434073]" type="box">2</container>
+          <container id="aspace_0c694095720e4cdc65a0762b85458827" parent="aspace_559970be5e7cbffb725eca9540943a43" type="folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>Statements, Harvard Administration</unittitle>
+          <unitdate normal="1972/1973" type="inclusive">Jan 1972-Jun 1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b19be5af5c72b120c9286dc364177a9c" label="Mixed Materials [31142063434073]" type="box">2</container>
+          <container id="aspace_1a117651cff35900cb38203fbee3a8db" parent="aspace_b19be5af5c72b120c9286dc364177a9c" type="folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>Statements, HGSTFU</unittitle>
+          <unitdate normal="1972/1973" type="inclusive">Mar 1972-Spring 1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a7be1daf63f2a54fa5deb83f7069b5f3" label="Mixed Materials [31142063434073]" type="box">2</container>
+          <container id="aspace_9687ad6cb9638664e31c1c6c69979210" parent="aspace_a7be1daf63f2a54fa5deb83f7069b5f3" type="folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Status of Women in Faculty of Arts and Sciences, Report of the Committee on</unittitle>
+          <unitdate normal="1971/1971" type="inclusive">Apr 1971</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_373e5cc4deb1c3184a7adff0758f9f24" label="Mixed Materials [31142063434073]" type="box">2</container>
+          <container id="aspace_655377995211b920465e6863e8ed5714" parent="aspace_373e5cc4deb1c3184a7adff0758f9f24" type="folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>
+            <emph render="italic">Upstart</emph>
+          </unittitle>
+          <unitdate normal="1972/1972" type="inclusive">Apr 1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6e58702cc6e995971d4be7d7afee4e18" label="Mixed Materials [31142063434073]" type="box">2</container>
+          <container id="aspace_3f63b805bdaacdfba339b51b7c876c4f" parent="aspace_6e58702cc6e995971d4be7d7afee4e18" type="folder">7</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

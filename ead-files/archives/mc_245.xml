@@ -1,57 +1,541 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_245/">mc_245</eadid><filedesc><titlestmt><titleproper>Guide to the H. Robert Otness Collection of New York City Postcards and Photographs <num>MC.245</num></titleproper><author>Celeste Brewer</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>2014</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 14:31:44 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>July 2019</date><item>Updated by Jennifer E. Neal to incorporate materials being sent offsite in 2019 and for compliance with DACS and ACM Required Elements for Archival Description</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>New York University Archives</corpname>
-    </repository>
-    <unittitle>H. Robert Otness Collection of New York City Postcards and Photographs</unittitle>
-    <origination label="Creator">
-      <persname source="naf">Otness, H. Robert  (Herman Robert), 1907-1995</persname>
-    </origination>
-    <unitid>MC.245</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
-      <extent altrender="carrier">in 2 manuscript boxes, 1 half manuscript box, 1 flat box, and 1 oversize flat-file folder</extent>
-    </physdesc>
-    <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
-    <abstract id="aspace_257e240692567cb07860b309229b7231">The H. Robert Otness Collection of New York City Postcards and Photographs contains postcards and a small number of photographs that document New York City's landmarks as they appeared in the 1930s.  The collection was likely created by H. Robert Otness, who earned a Ph.D. from New York University in 1939.</abstract>
-    <physloc id="aspace_e67fdeeccb192acd3d2a4621ebd2b939">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-    <langmaterial id="aspace_6ac4bcf1c7d0be2a293184fa91e9f031">Materials are primarily in English.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_f0763022dde161ec4e0162e79a0695de">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_6ca67e219731fd187f8aecf3d3b3fe32">
-    <head>Immediate Source of Acquisition</head>
-<p>Materials found in collection; there is no documentation concerning the provenance of these materials. The accession number associated with this collection is 14.020.</p>  </acqinfo>
-  <arrangement id="aspace_ec78606b49c7faaa8c1867b120a32cc1">
-    <head>Arrangement</head>
-<p>The H. Robert Otness Collection of New York City Postcards and Photographs is arranged by format on the series level.  Within each series, materials are arranged into folders alphabetically. Within the first series of postcards, landmarks that were especially well represented in the collection, such as the Chrysler Building and Washington Square Park, received their own dedicated folders. Other postcards are arranged in topical folders.  </p><p>The second series contains photographs that were found in two small envelopes in the collection.  The photographs were retained in their original order and placed within two folders corresponding to their respective envelopes.</p><p>The collection is arranged in three series:</p><p>I. Postcards</p><p>II. Personal Materials</p><p>III. Photographs</p>  </arrangement>
-  <bioghist id="aspace_c0564e0138e4b4d9e86fe451ab6ef54a">
-    <head>Biographical note</head>
-<p>Herman Robert Otness was born in Moscow, Idaho, in 1907. He attended New York University between 1935 and 1939, graduating with a Ph.D. in clinical psychology from the School of Education in 1939. It was during these years at NYU that Otness may have collected the postcards and took the photographs that make up this collection.  </p><p>After graduating from NYU, Otness worked as the chief clinical psychologist at The Training School in Vineland, New Jersey. He served in the U.S. Navy during World War II. In 1950 he accepted a position as associate professor of psychology at the University of Idaho, where he remained until his retirement in 1971. Otness died in Moscow, Idaho on April 21, 1995.</p><p>Sources:
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_245/">mc_245</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the H. Robert Otness Collection of New York City Postcards and Photographs <num>MC.245</num></titleproper>
+        <author>Celeste Brewer</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+        <p>
+          <date>2014</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 14:31:44 -0500</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>July 2019</date>
+        <item>Updated by Jennifer E. Neal to incorporate materials being sent offsite in 2019 and for compliance with DACS and ACM Required Elements for Archival Description</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>H. Robert Otness Collection of New York City Postcards and Photographs</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Otness, H. Robert  (Herman Robert), 1907-1995</persname>
+      </origination>
+      <unitid>MC.245</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+        <extent altrender="carrier">in 2 manuscript boxes, 1 half manuscript box, 1 flat box, and 1 oversize flat-file folder</extent>
+      </physdesc>
+      <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+      <abstract id="aspace_257e240692567cb07860b309229b7231">The H. Robert Otness Collection of New York City Postcards and Photographs contains postcards and a small number of photographs that document New York City's landmarks as they appeared in the 1930s.  The collection was likely created by H. Robert Otness, who earned a Ph.D. from New York University in 1939.</abstract>
+      <physloc id="aspace_e67fdeeccb192acd3d2a4621ebd2b939">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_6ac4bcf1c7d0be2a293184fa91e9f031">Materials are primarily in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_f0763022dde161ec4e0162e79a0695de">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_6ca67e219731fd187f8aecf3d3b3fe32">
+      <head>Immediate Source of Acquisition</head>
+      <p>Materials found in collection; there is no documentation concerning the provenance of these materials. The accession number associated with this collection is 14.020.</p>
+    </acqinfo>
+    <arrangement id="aspace_ec78606b49c7faaa8c1867b120a32cc1">
+      <head>Arrangement</head>
+      <p>The H. Robert Otness Collection of New York City Postcards and Photographs is arranged by format on the series level.  Within each series, materials are arranged into folders alphabetically. Within the first series of postcards, landmarks that were especially well represented in the collection, such as the Chrysler Building and Washington Square Park, received their own dedicated folders. Other postcards are arranged in topical folders.  </p>
+      <p>The second series contains photographs that were found in two small envelopes in the collection.  The photographs were retained in their original order and placed within two folders corresponding to their respective envelopes.</p>
+      <p>The collection is arranged in three series:</p>
+      <p>I. Postcards</p>
+      <p>II. Personal Materials</p>
+      <p>III. Photographs</p>
+    </arrangement>
+    <bioghist id="aspace_c0564e0138e4b4d9e86fe451ab6ef54a">
+      <head>Biographical note</head>
+      <p>Herman Robert Otness was born in Moscow, Idaho, in 1907. He attended New York University between 1935 and 1939, graduating with a Ph.D. in clinical psychology from the School of Education in 1939. It was during these years at NYU that Otness may have collected the postcards and took the photographs that make up this collection.  </p>
+      <p>After graduating from NYU, Otness worked as the chief clinical psychologist at The Training School in Vineland, New Jersey. He served in the U.S. Navy during World War II. In 1950 he accepted a position as associate professor of psychology at the University of Idaho, where he remained until his retirement in 1971. Otness died in Moscow, Idaho on April 21, 1995.</p>
+      <p>Sources:
 1.  Judith Nielsen, "Herman Robert Otness," University of Idaho Special Collections and Archives, March 1997.  Accessed June 6, 2014.  http://www.lib.uidaho.edu/special-collections/Manuscripts/mg379.htm.
-2.  New York University Commencement program, 1939.</p>  </bioghist>
-  <prefercite id="aspace_06f4b996d2ec26a7fb118410ad930c1d">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; H. Robert Otness Collection of New York City Postcards; MC 245; box number; folder number or item identifier; Repository Name, New York University.</p>  </prefercite>
-  <processinfo id="aspace_4962031fb5d7efc931279e141e05a564">
-    <head>Processing Information</head>
-<p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2018 are unknown. In 2019 materials were rehoused by Preservation and sent to offsite storage.</p>  </processinfo>
-  <relatedmaterial id="aspace_3692baae5a2cb29933c89103d4001fd8">
-    <head>Related Materials</head>
-<p>For additional information about Otness, see the Herman Robert Otness Papers at the University of Idaho's Special Collections and Archives.</p>  </relatedmaterial>
-  <scopecontent id="aspace_306a01f6ba725f45b7b0bddb69f897fb">
-    <head>Scope and Contents</head>
-<p>The bulk of the collection contains postcards depicting New York City landmarks as they appeared in the 1930s. Landmarks that are particularly well documented in the collection include the city's churches, bridges, museums, hotels, and theaters, as well as the Chrysler Building, Empire State Building, Rockefeller Center, and the Washington Square Arch. There is a small number of photographs presumably taken by Otness during the same time period. Their subject matter is largely similar to that of the postcards in the collection: Washington Square Park is heavily featured, as is the RMS <emph render="italic">Queen Mary</emph> (which completed its first transatlantic voyage to New York in 1936), and the Macy's Thanksgiving Day Parade. Materials also include ephemera collected by Otness while studying at NYU.</p>  </scopecontent>
-  <userestrict id="aspace_bff13ee79d0cbaabd1bf4cfd1d364499">
-    <head>Conditions Governing Use</head>
-<p>Any rights (including copyright and related rights to publicity and privacy) held by H. Robert Otness are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives, 212-998-2646, university-archives@nyu.edu</p>  </userestrict>
-  <controlaccess>
-    <genreform source="aat">Postcards.</genreform>
-    <subject source="lcsh">Historic buildings -- New York (State) -- New York.</subject>
-    <genreform source="aat">Photographs.</genreform>
-  </controlaccess>
-  <dsc><c id="aspace_ref2" level="series"><did><unittitle>Series I:  Postcards</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_2546ce5c365df4a3098499f30392c7b5"><head>Scope and Contents</head><p>Series I includes postcards depicting New York City landmarks as they appeared in the 1930s. Landmarks that are particularly well documented in the collection include the city's churches, bridges, museums, hotels, and theaters, as well as the Chrysler Building, Empire State Building, Rockefeller Center, and the Washington Square Arch.</p></scopecontent><c id="aspace_ref5" level="file"><did><unittitle>Aerial views</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_f7ec45129b1215dd2f134dd423e8aaa5" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_ac9262d5621bbde69bcdb8e0b7aecfa3" parent="aspace_f7ec45129b1215dd2f134dd423e8aaa5" type="folder">1</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Bridges</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_2abebc76f29bb0e32766223710d0f589" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_a4503fe56a5881b48df6a28870085164" parent="aspace_2abebc76f29bb0e32766223710d0f589" type="folder">2</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Brooklyn</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_4c5740372fa7f6f9ecfd50b775e0a793" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_8490859507907064db79ef7cee8cd3bb" parent="aspace_4c5740372fa7f6f9ecfd50b775e0a793" type="folder">3</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Chinatown</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_13147085147f5e9336c2ddfb8e96e34e" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_692dc0737d921fe45a21f83ed35868b0" parent="aspace_13147085147f5e9336c2ddfb8e96e34e" type="folder">4</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Chrysler Building</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_6d836ec3ceb52ccb1aa5b9fe83ae8bbb" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_f8430ead526cb68d316e0a209e6bec56" parent="aspace_6d836ec3ceb52ccb1aa5b9fe83ae8bbb" type="folder">5</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Churches</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_fabfcc0b390b1e9a6aacaca97ba6e782" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_141eb9c7ec912011832174748ba46033" parent="aspace_fabfcc0b390b1e9a6aacaca97ba6e782" type="folder">6</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>City views</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_49c4ac285764a6e635e3eed52bf58463" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_7cc59efc15f9fc841667634bede40b09" parent="aspace_49c4ac285764a6e635e3eed52bf58463" type="folder">7</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Colleges</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_0cb118e9dcc27105374081c51da4582e" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_889d238b92c0b5baf64eec3f9939519f" parent="aspace_0cb118e9dcc27105374081c51da4582e" type="folder">8</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Coney Island</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_eb07493af74c3034ad733661041aa72c" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_ee5dc13e39a30b6e11350fba59dbbce4" parent="aspace_eb07493af74c3034ad733661041aa72c" type="folder">9</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Construction</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_bf6f8b29d5043f044e96daafd3319eb2" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_c32012b94e036025fc3f0ed028a0b398" parent="aspace_bf6f8b29d5043f044e96daafd3319eb2" type="folder">10</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Ellis Island</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_c2d1d01b844b52f7b01faf420b556b8f" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_6d0b9f2f79bc8a68190ac7689487ea3d" parent="aspace_c2d1d01b844b52f7b01faf420b556b8f" type="folder">11</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Empire State Building</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_28cbe9235a4f0f1e104f54926f65f81a" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_fe209378f35ec61b04698c486a46cdeb" parent="aspace_28cbe9235a4f0f1e104f54926f65f81a" type="folder">12</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Government buildings</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_241cf071787252b4eea7835730e52f1a" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_073d10acc6df9c273c8f0bc396390d34" parent="aspace_241cf071787252b4eea7835730e52f1a" type="folder">13</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Grant's Tomb</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_a0202a01f89a4ed2a635b5c43b755cb6" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_a742433da92f131bad3b5e7a7acd1104" parent="aspace_a0202a01f89a4ed2a635b5c43b755cb6" type="folder">14</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Greenwich Village</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_bc55daccd1d23e230e25f7f0c58cc116" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_fc7554364a4dc35a7587bdd881fa6dbf" parent="aspace_bc55daccd1d23e230e25f7f0c58cc116" type="folder">15</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Harbor and waterfront views</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_c44000926ac00c34d8013fcf2e621f72" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_16e166882b5030c37ce9beb2816522cf" parent="aspace_c44000926ac00c34d8013fcf2e621f72" type="folder">16</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Herald Square</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_7f7381cb81c734714b1384ec8efae496" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_68cafe778c23c09fb741674a61a0d640" parent="aspace_7f7381cb81c734714b1384ec8efae496" type="folder">17</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Hotels</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_db27e6d9b30c4e1c4877384b1646b460" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_b7865c2ecb7e12ea6f40ad02bee5a81f" parent="aspace_db27e6d9b30c4e1c4877384b1646b460" type="folder">18</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Madison Square Garden</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_dba65a3ea3ace1eca880a989de119c9c" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_8d6b841f3a04ce969ba7998ca869c7ff" parent="aspace_dba65a3ea3ace1eca880a989de119c9c" type="folder">19</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Medical Center</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_0bc3e2d167e65cc71f2f2466f5da4262" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_da10799d93aa058ac21f0b517e2bcb98" parent="aspace_0bc3e2d167e65cc71f2f2466f5da4262" type="folder">20</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Museums</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_4582d0b2c670163aa76f660565938f71" label="Mixed Materials [31142062744191]" type="box">1</container><container id="aspace_411829c118ca1cce09cd081fad9e190e" parent="aspace_4582d0b2c670163aa76f660565938f71" type="folder">21</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>New York Public Library</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_6432b47ee97ccfda2f155f8ede299320" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_fa8f758d96a7d619946b6cbdeca4d871" parent="aspace_6432b47ee97ccfda2f155f8ede299320" type="folder">1</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>New York University</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_2bebec4eff9218749a1380fbc7c3bf8a" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_0da981c4e4470bcc11238713f91215a7" parent="aspace_2bebec4eff9218749a1380fbc7c3bf8a" type="folder">2</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Parks</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_f578d43f0405a5a6540cdb7475f3e52b" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_abb324ea5e9295f33e098e30a85d9b81" parent="aspace_f578d43f0405a5a6540cdb7475f3e52b" type="folder">3</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>RMS <emph render="italic">Queen Mary</emph></unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_29ca202684af7a9457b7587ec738b508" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_37f2c22de8286a972a6d3bf52ad01551" parent="aspace_29ca202684af7a9457b7587ec738b508" type="folder">4</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Restaurants</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_eb34654f6a025858d5310bde33422fb2" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_81c418a130bfbe6db629665306569e95" parent="aspace_eb34654f6a025858d5310bde33422fb2" type="folder">5</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Rockefeller Center</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_6b340724ceb1e7fd20791694369d4961" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_6d4182221947f8a1141e49f5d31883cf" parent="aspace_6b340724ceb1e7fd20791694369d4961" type="folder">6</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Skyline images</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_30ca9985e5f38ecb1b07d6a6a6b0f6f2" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_4c527b51afb84284a41a021a7bf9de8d" parent="aspace_30ca9985e5f38ecb1b07d6a6a6b0f6f2" type="folder">7</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Skyscrapers (other)</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_cd4a6d8245699e8560231b62a0e92a98" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_403c382217784a3220bb9a4fc0276818" parent="aspace_cd4a6d8245699e8560231b62a0e92a98" type="folder">8</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Staten Island</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_4ba1b7e2cd5959f4e60319cb3dd1a6cb" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_78b55ec54cda190c003c41bef9543b13" parent="aspace_4ba1b7e2cd5959f4e60319cb3dd1a6cb" type="folder">9</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Statue of Liberty</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_f8997d100f9fdc2f139413fc9b22c8f6" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_0a2fc2d92e98c9806e5623c94584fc0e" parent="aspace_f8997d100f9fdc2f139413fc9b22c8f6" type="folder">10</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Stores</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_f9d49de1ba561c482f3a1d622ba2fb68" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_b9291db54ccf35ddb96293029c7d77d8" parent="aspace_f9d49de1ba561c482f3a1d622ba2fb68" type="folder">11</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Theaters</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_fdd65494401bed5368c0b45b543185ee" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_60484a14de2be4f200e747e5f4fd5d1d" parent="aspace_fdd65494401bed5368c0b45b543185ee" type="folder">12</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Times Square</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_fae6a66ae185106fc52db66051d1dd88" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_7daa5449148a29082cd474fdb524174b" parent="aspace_fae6a66ae185106fc52db66051d1dd88" type="folder">13</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Trains</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_e02b60307ffad517de1c56a67e1a5f5c" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_28107665d07f28f397598ba08f0d2537" parent="aspace_e02b60307ffad517de1c56a67e1a5f5c" type="folder">14</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Tunnels</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_6d638976fade1ae71d659f1cbae2c202" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_aa300532a66df8e516f05db407c98fdd" parent="aspace_6d638976fade1ae71d659f1cbae2c202" type="folder">15</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Wall Street</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_6fbfbf276d55f3ad69a95a73891d7f88" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_d4d9c4b14f82f645c5fc5efdcc676c9d" parent="aspace_6fbfbf276d55f3ad69a95a73891d7f88" type="folder">16</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Washington Square</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_44340f9059e97eab4438117695913dc5" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_dc20c0bdbbc36c05d2aacdeab1c41db3" parent="aspace_44340f9059e97eab4438117695913dc5" type="folder">17</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>World's Fair</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_2339c0c66a4c1fe7dce21a7e74662d2f" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_07b20474ea177cb805b5a3f1619a6d85" parent="aspace_2339c0c66a4c1fe7dce21a7e74662d2f" type="folder">18</container></did></c></c><c id="aspace_ref3" level="series"><did><unittitle>Series II:  Photographs</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_7185562ffc8b98c8fa22e647aeb811a8"><head>Scope and Contents</head><p>Series II includes a small number of photographs presumably taken by Otness during the same time period. Their subject matter is largely similar to that of the postcards in the collection: Washington Square Park is heavily featured, as is the RMS <emph render="italic">Queen Mary</emph> (which completed its first transatlantic voyage to New York in 1936), and the Macy's Thanksgiving Day Parade.</p></scopecontent><c id="aspace_ref44" level="file"><did><unittitle>Washington Square and the <emph render="italic">Queen Mary</emph></unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_b098397faa6d3246773e9fffea6fb308" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_dbda3a8de117ab23d6afb3954ce45b9c" parent="aspace_b098397faa6d3246773e9fffea6fb308" type="folder">19</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Parade and city scenes</unittitle><unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Letter" id="aspace_65e2491bbcd084e738d05a8c17a4cce4" label="Mixed Materials [31142062744209]" type="box">2</container><container id="aspace_ce5e5f18c96d0a7e17fd608756be1b34" parent="aspace_65e2491bbcd084e738d05a8c17a4cce4" type="folder">20</container></did></c></c><c id="aspace_ref53" level="series"><did><unittitle>Series III:  Personal Materials</unittitle><unitdate normal="1935/1939" type="inclusive">1935-1939</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_2d310cbd1cecb81f745120afbf1d00b5"><head>Scope and Contents</head><p>Series III includes ephemera collected by Otness while studying at NYU.</p></scopecontent><c id="aspace_ref54" level="file"><did><unittitle>"The University Heights Campus of New York University" brochure</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_46771dc4f8721c4a0c6aa5ab58f20935" label="Mixed Materials [31142062896991]" type="box">3</container><container id="aspace_0f3a7130821c57fd9baacafab716fc98" parent="aspace_46771dc4f8721c4a0c6aa5ab58f20935" type="folder">1</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Black Hawk Line bus schedule</unittitle><unitdate normal="1935/1935" type="inclusive">1935</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did></c><c id="aspace_ref57" level="file"><did><unittitle>Flyer for Earl Browder speech at School of Education </unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_fb56b13aff7cc57a39a3c6e2ac047833" label="Mixed Materials [31142062896991]" type="box">3</container><container id="aspace_ec511611708c065c4171676c07075be0" parent="aspace_fb56b13aff7cc57a39a3c6e2ac047833" type="folder">3</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>New York Academy of Medicine library privileges</unittitle><unitdate normal="1937/1937" type="inclusive">1937</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_a4e5e56d6c21194d3edea49f8cbdf65e" label="Mixed Materials [31142062896991]" type="box">3</container><container id="aspace_1322ae475b88c62ecdd288768e1692c5" parent="aspace_a4e5e56d6c21194d3edea49f8cbdf65e" type="folder">4</container></did></c><c id="aspace_ref66" level="item"><did><unittitle>"Supervue of New York" poster by Samuel Freedman</unittitle><unitdate normal="1937/1937" type="inclusive">1937</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_067573b0bb81db22aa58e9c2fae153bf" label="Mixed Materials" type="flat-file">5</container><container id="aspace_e39ab42f4f6a4bce0fe816c13af79b30" parent="aspace_067573b0bb81db22aa58e9c2fae153bf" type="drawer">17</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>NYU Commencement programs</unittitle><unitdate normal="1939/1939" type="inclusive">1939</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_58dac4e8420a0c03a85511335825ee5b" label="Mixed Materials [31142062896991]" type="box">3</container><container id="aspace_e2a62db3401b15ed0fbe95c56d9790bc" parent="aspace_58dac4e8420a0c03a85511335825ee5b" type="folder">5</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>The New School lecture ticket</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_867e1b0fd29e1fb09dbd4b8d578f65e2" label="Mixed Materials [31142062896991]" type="box">3</container><container id="aspace_718cc83c583e1419e1e559c59038382c" parent="aspace_867e1b0fd29e1fb09dbd4b8d578f65e2" type="folder">6</container></did></c><c id="aspace_ref60" level="item"><did><unittitle>NYU pennant</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat Box - 12 x 15.25" id="aspace_5ac749ffb1b4c1fc844e4220a0d1350f" label="Mixed Materials [31142062911949]" type="box">4</container></did></c><c id="aspace_ref61" level="item"><did><unittitle>Wooden NYU plaque</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat Box - 12 x 15.25" id="aspace_d5d9493e2cf975fd073290ad400b84e5" label="Mixed Materials [31142062911949]" type="box">4</container></did></c></c></dsc>
-</archdesc>
+2.  New York University Commencement program, 1939.</p>
+    </bioghist>
+    <prefercite id="aspace_06f4b996d2ec26a7fb118410ad930c1d">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; H. Robert Otness Collection of New York City Postcards; MC 245; box number; folder number or item identifier; Repository Name, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_4962031fb5d7efc931279e141e05a564">
+      <head>Processing Information</head>
+      <p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2018 are unknown. In 2019 materials were rehoused by Preservation and sent to offsite storage.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_3692baae5a2cb29933c89103d4001fd8">
+      <head>Related Materials</head>
+      <p>For additional information about Otness, see the Herman Robert Otness Papers at the University of Idaho's Special Collections and Archives.</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_306a01f6ba725f45b7b0bddb69f897fb">
+      <head>Scope and Contents</head>
+      <p>The bulk of the collection contains postcards depicting New York City landmarks as they appeared in the 1930s. Landmarks that are particularly well documented in the collection include the city's churches, bridges, museums, hotels, and theaters, as well as the Chrysler Building, Empire State Building, Rockefeller Center, and the Washington Square Arch. There is a small number of photographs presumably taken by Otness during the same time period. Their subject matter is largely similar to that of the postcards in the collection: Washington Square Park is heavily featured, as is the RMS <emph render="italic">Queen Mary</emph> (which completed its first transatlantic voyage to New York in 1936), and the Macy's Thanksgiving Day Parade. Materials also include ephemera collected by Otness while studying at NYU.</p>
+    </scopecontent>
+    <userestrict id="aspace_bff13ee79d0cbaabd1bf4cfd1d364499">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by H. Robert Otness are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives, 212-998-2646, university-archives@nyu.edu</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Postcards.</genreform>
+      <subject source="lcsh">Historic buildings -- New York (State) -- New York.</subject>
+      <genreform source="aat">Photographs.</genreform>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref2" level="series">
+        <did>
+          <unittitle>Series I:  Postcards</unittitle>
+          <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_2546ce5c365df4a3098499f30392c7b5">
+          <head>Scope and Contents</head>
+          <p>Series I includes postcards depicting New York City landmarks as they appeared in the 1930s. Landmarks that are particularly well documented in the collection include the city's churches, bridges, museums, hotels, and theaters, as well as the Chrysler Building, Empire State Building, Rockefeller Center, and the Washington Square Arch.</p>
+        </scopecontent>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>Aerial views</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_f7ec45129b1215dd2f134dd423e8aaa5" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_ac9262d5621bbde69bcdb8e0b7aecfa3" parent="aspace_f7ec45129b1215dd2f134dd423e8aaa5" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Bridges</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_2abebc76f29bb0e32766223710d0f589" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_a4503fe56a5881b48df6a28870085164" parent="aspace_2abebc76f29bb0e32766223710d0f589" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Brooklyn</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_4c5740372fa7f6f9ecfd50b775e0a793" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_8490859507907064db79ef7cee8cd3bb" parent="aspace_4c5740372fa7f6f9ecfd50b775e0a793" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Chinatown</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_13147085147f5e9336c2ddfb8e96e34e" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_692dc0737d921fe45a21f83ed35868b0" parent="aspace_13147085147f5e9336c2ddfb8e96e34e" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Chrysler Building</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_6d836ec3ceb52ccb1aa5b9fe83ae8bbb" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_f8430ead526cb68d316e0a209e6bec56" parent="aspace_6d836ec3ceb52ccb1aa5b9fe83ae8bbb" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Churches</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_fabfcc0b390b1e9a6aacaca97ba6e782" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_141eb9c7ec912011832174748ba46033" parent="aspace_fabfcc0b390b1e9a6aacaca97ba6e782" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>City views</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_49c4ac285764a6e635e3eed52bf58463" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_7cc59efc15f9fc841667634bede40b09" parent="aspace_49c4ac285764a6e635e3eed52bf58463" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Colleges</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_0cb118e9dcc27105374081c51da4582e" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_889d238b92c0b5baf64eec3f9939519f" parent="aspace_0cb118e9dcc27105374081c51da4582e" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Coney Island</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_eb07493af74c3034ad733661041aa72c" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_ee5dc13e39a30b6e11350fba59dbbce4" parent="aspace_eb07493af74c3034ad733661041aa72c" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Construction</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_bf6f8b29d5043f044e96daafd3319eb2" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_c32012b94e036025fc3f0ed028a0b398" parent="aspace_bf6f8b29d5043f044e96daafd3319eb2" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Ellis Island</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_c2d1d01b844b52f7b01faf420b556b8f" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_6d0b9f2f79bc8a68190ac7689487ea3d" parent="aspace_c2d1d01b844b52f7b01faf420b556b8f" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Empire State Building</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_28cbe9235a4f0f1e104f54926f65f81a" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_fe209378f35ec61b04698c486a46cdeb" parent="aspace_28cbe9235a4f0f1e104f54926f65f81a" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Government buildings</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_241cf071787252b4eea7835730e52f1a" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_073d10acc6df9c273c8f0bc396390d34" parent="aspace_241cf071787252b4eea7835730e52f1a" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Grant's Tomb</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_a0202a01f89a4ed2a635b5c43b755cb6" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_a742433da92f131bad3b5e7a7acd1104" parent="aspace_a0202a01f89a4ed2a635b5c43b755cb6" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Greenwich Village</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_bc55daccd1d23e230e25f7f0c58cc116" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_fc7554364a4dc35a7587bdd881fa6dbf" parent="aspace_bc55daccd1d23e230e25f7f0c58cc116" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Harbor and waterfront views</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_c44000926ac00c34d8013fcf2e621f72" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_16e166882b5030c37ce9beb2816522cf" parent="aspace_c44000926ac00c34d8013fcf2e621f72" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Herald Square</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_7f7381cb81c734714b1384ec8efae496" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_68cafe778c23c09fb741674a61a0d640" parent="aspace_7f7381cb81c734714b1384ec8efae496" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Hotels</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_db27e6d9b30c4e1c4877384b1646b460" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_b7865c2ecb7e12ea6f40ad02bee5a81f" parent="aspace_db27e6d9b30c4e1c4877384b1646b460" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Madison Square Garden</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_dba65a3ea3ace1eca880a989de119c9c" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_8d6b841f3a04ce969ba7998ca869c7ff" parent="aspace_dba65a3ea3ace1eca880a989de119c9c" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Medical Center</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_0bc3e2d167e65cc71f2f2466f5da4262" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_da10799d93aa058ac21f0b517e2bcb98" parent="aspace_0bc3e2d167e65cc71f2f2466f5da4262" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Museums</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_4582d0b2c670163aa76f660565938f71" label="Mixed Materials [31142062744191]" type="box">1</container>
+            <container id="aspace_411829c118ca1cce09cd081fad9e190e" parent="aspace_4582d0b2c670163aa76f660565938f71" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>New York Public Library</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_6432b47ee97ccfda2f155f8ede299320" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_fa8f758d96a7d619946b6cbdeca4d871" parent="aspace_6432b47ee97ccfda2f155f8ede299320" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>New York University</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_2bebec4eff9218749a1380fbc7c3bf8a" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_0da981c4e4470bcc11238713f91215a7" parent="aspace_2bebec4eff9218749a1380fbc7c3bf8a" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Parks</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_f578d43f0405a5a6540cdb7475f3e52b" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_abb324ea5e9295f33e098e30a85d9b81" parent="aspace_f578d43f0405a5a6540cdb7475f3e52b" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>RMS <emph render="italic">Queen Mary</emph></unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_29ca202684af7a9457b7587ec738b508" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_37f2c22de8286a972a6d3bf52ad01551" parent="aspace_29ca202684af7a9457b7587ec738b508" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Restaurants</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_eb34654f6a025858d5310bde33422fb2" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_81c418a130bfbe6db629665306569e95" parent="aspace_eb34654f6a025858d5310bde33422fb2" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Rockefeller Center</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_6b340724ceb1e7fd20791694369d4961" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_6d4182221947f8a1141e49f5d31883cf" parent="aspace_6b340724ceb1e7fd20791694369d4961" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Skyline images</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_30ca9985e5f38ecb1b07d6a6a6b0f6f2" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_4c527b51afb84284a41a021a7bf9de8d" parent="aspace_30ca9985e5f38ecb1b07d6a6a6b0f6f2" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Skyscrapers (other)</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_cd4a6d8245699e8560231b62a0e92a98" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_403c382217784a3220bb9a4fc0276818" parent="aspace_cd4a6d8245699e8560231b62a0e92a98" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Staten Island</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_4ba1b7e2cd5959f4e60319cb3dd1a6cb" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_78b55ec54cda190c003c41bef9543b13" parent="aspace_4ba1b7e2cd5959f4e60319cb3dd1a6cb" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Statue of Liberty</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_f8997d100f9fdc2f139413fc9b22c8f6" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_0a2fc2d92e98c9806e5623c94584fc0e" parent="aspace_f8997d100f9fdc2f139413fc9b22c8f6" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Stores</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_f9d49de1ba561c482f3a1d622ba2fb68" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_b9291db54ccf35ddb96293029c7d77d8" parent="aspace_f9d49de1ba561c482f3a1d622ba2fb68" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Theaters</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_fdd65494401bed5368c0b45b543185ee" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_60484a14de2be4f200e747e5f4fd5d1d" parent="aspace_fdd65494401bed5368c0b45b543185ee" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Times Square</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_fae6a66ae185106fc52db66051d1dd88" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_7daa5449148a29082cd474fdb524174b" parent="aspace_fae6a66ae185106fc52db66051d1dd88" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Trains</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_e02b60307ffad517de1c56a67e1a5f5c" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_28107665d07f28f397598ba08f0d2537" parent="aspace_e02b60307ffad517de1c56a67e1a5f5c" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Tunnels</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_6d638976fade1ae71d659f1cbae2c202" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_aa300532a66df8e516f05db407c98fdd" parent="aspace_6d638976fade1ae71d659f1cbae2c202" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Wall Street</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_6fbfbf276d55f3ad69a95a73891d7f88" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_d4d9c4b14f82f645c5fc5efdcc676c9d" parent="aspace_6fbfbf276d55f3ad69a95a73891d7f88" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Washington Square</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_44340f9059e97eab4438117695913dc5" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_dc20c0bdbbc36c05d2aacdeab1c41db3" parent="aspace_44340f9059e97eab4438117695913dc5" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>World's Fair</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_2339c0c66a4c1fe7dce21a7e74662d2f" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_07b20474ea177cb805b5a3f1619a6d85" parent="aspace_2339c0c66a4c1fe7dce21a7e74662d2f" type="folder">18</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref3" level="series">
+        <did>
+          <unittitle>Series II:  Photographs</unittitle>
+          <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_7185562ffc8b98c8fa22e647aeb811a8">
+          <head>Scope and Contents</head>
+          <p>Series II includes a small number of photographs presumably taken by Otness during the same time period. Their subject matter is largely similar to that of the postcards in the collection: Washington Square Park is heavily featured, as is the RMS <emph render="italic">Queen Mary</emph> (which completed its first transatlantic voyage to New York in 1936), and the Macy's Thanksgiving Day Parade.</p>
+        </scopecontent>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Washington Square and the <emph render="italic">Queen Mary</emph></unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_b098397faa6d3246773e9fffea6fb308" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_dbda3a8de117ab23d6afb3954ce45b9c" parent="aspace_b098397faa6d3246773e9fffea6fb308" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Parade and city scenes</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_65e2491bbcd084e738d05a8c17a4cce4" label="Mixed Materials [31142062744209]" type="box">2</container>
+            <container id="aspace_ce5e5f18c96d0a7e17fd608756be1b34" parent="aspace_65e2491bbcd084e738d05a8c17a4cce4" type="folder">20</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref53" level="series">
+        <did>
+          <unittitle>Series III:  Personal Materials</unittitle>
+          <unitdate normal="1935/1939" type="inclusive">1935-1939</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_2d310cbd1cecb81f745120afbf1d00b5">
+          <head>Scope and Contents</head>
+          <p>Series III includes ephemera collected by Otness while studying at NYU.</p>
+        </scopecontent>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>"The University Heights Campus of New York University" brochure</unittitle>
+            <unitdate>undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_46771dc4f8721c4a0c6aa5ab58f20935" label="Mixed Materials [31142062896991]" type="box">3</container>
+            <container id="aspace_0f3a7130821c57fd9baacafab716fc98" parent="aspace_46771dc4f8721c4a0c6aa5ab58f20935" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Black Hawk Line bus schedule</unittitle>
+            <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Flyer for Earl Browder speech at School of Education </unittitle>
+            <unitdate>undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_fb56b13aff7cc57a39a3c6e2ac047833" label="Mixed Materials [31142062896991]" type="box">3</container>
+            <container id="aspace_ec511611708c065c4171676c07075be0" parent="aspace_fb56b13aff7cc57a39a3c6e2ac047833" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>New York Academy of Medicine library privileges</unittitle>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_a4e5e56d6c21194d3edea49f8cbdf65e" label="Mixed Materials [31142062896991]" type="box">3</container>
+            <container id="aspace_1322ae475b88c62ecdd288768e1692c5" parent="aspace_a4e5e56d6c21194d3edea49f8cbdf65e" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="item">
+          <did>
+            <unittitle>"Supervue of New York" poster by Samuel Freedman</unittitle>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_067573b0bb81db22aa58e9c2fae153bf" label="Mixed Materials" type="flat-file">5</container>
+            <container id="aspace_e39ab42f4f6a4bce0fe816c13af79b30" parent="aspace_067573b0bb81db22aa58e9c2fae153bf" type="drawer">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>NYU Commencement programs</unittitle>
+            <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_58dac4e8420a0c03a85511335825ee5b" label="Mixed Materials [31142062896991]" type="box">3</container>
+            <container id="aspace_e2a62db3401b15ed0fbe95c56d9790bc" parent="aspace_58dac4e8420a0c03a85511335825ee5b" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>The New School lecture ticket</unittitle>
+            <unitdate>undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_867e1b0fd29e1fb09dbd4b8d578f65e2" label="Mixed Materials [31142062896991]" type="box">3</container>
+            <container id="aspace_718cc83c583e1419e1e559c59038382c" parent="aspace_867e1b0fd29e1fb09dbd4b8d578f65e2" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="item">
+          <did>
+            <unittitle>NYU pennant</unittitle>
+            <unitdate>undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_5ac749ffb1b4c1fc844e4220a0d1350f" label="Mixed Materials [31142062911949]" type="box">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="item">
+          <did>
+            <unittitle>Wooden NYU plaque</unittitle>
+            <unitdate>undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_d5d9493e2cf975fd073290ad400b84e5" label="Mixed Materials [31142062911949]" type="box">4</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

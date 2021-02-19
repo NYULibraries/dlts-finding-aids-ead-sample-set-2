@@ -1,72 +1,944 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_256/">wag_256</eadid><filedesc><titlestmt><titleproper>Guide to the Douglas Gordon Papers <num>WAG.256</num></titleproper><author>K. Kevyne Baar, 2006</author></titlestmt><editionstmt><p>This version was derived from Gordon Wag #256</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 16:02:51 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Douglas Gordon Papers</unittitle>
-    <origination label="Creator">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_256/">wag_256</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Douglas Gordon Papers <num>WAG.256</num></titleproper>
+        <author>K. Kevyne Baar, 2006</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Gordon Wag #256</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 16:02:51 -0500</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Douglas Gordon Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Gordon, Douglas, 1919-</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Gordon, Rose Mary</persname>
+      </origination>
+      <unitid>WAG.256</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+        <extent altrender="carrier">(3 boxes)</extent>
+      </physdesc>
+      <unitdate normal="1951/2001" type="inclusive">1951-2001</unitdate>
+      <abstract id="aspace_1c23d7435356ca46f5b52175e11f0688">Douglas Gordon, stage manager and actor, joined the Actors' Equity Association in 1948. He was first elected to the Association's Council in the late 1960s and was elected again in the 1980s. More than two-thirds of his papers reflect his dual passions: social justice issues and the creation and support of a National Theatre in America. The collection includes correspondence, reports, notes, election materials, files on individual productions, files on other theatrical unions, such as the American Federation of Television and Radio Artists, and material on racial issues in the theater. He died on December 18th, 2009 at the age of 90.</abstract>
+      <physloc id="aspace_bf924e7b7eb4218bfc7d97a06b8826f9">Materials stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to research visit.</physloc>
+      <langmaterial id="aspace_a543b3c8d8ecc7edfe74638250f33721">Materials are in English</langmaterial>
+    </did>
+    <acqinfo id="aspace_b9c06c402c8e40af14f78b7d11856c25">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Douglas Gordon's wife, Rose Mary Gordon, in 2003. The accession number associated with this gift is 2003.007.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_9256d7397e41d2d7c9ada879dc120ab9">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_70bc89dcb8757eb6655b97787c20e93e">
+      <head>Historical/Biographical Note</head>
+      <p>Born in Seattle, Washington on April 7, 1919, Douglas Gordon joined Actors' Equity on July 15, 1948 with the status of "Junior" Member. After working in summer stock for three continuous summers, he applied for and received "Senior" Classification in 1950. Four years later he joined the American Federation of Television and Radio Actors (AFTRA). He was also a member of the Screen Actors Guild (SAG). He was elected to the Association's Council for the first time in the 1960s when he served on numerous committees, including Production Contract, Editorial Board, Agency, and Casting Information. He served during the 1970s and 1980s although he often had to run on petition, having been passed over by the nominating committee. With his passion for social justice he was active on the Ethnic Minorities committee and felt that "Equity's policy of support to [ <title render="italic">sic</title>] non-traditional casting must be vigorously pursued."</p>
+      <p>Gordon's greatest passion, demonstrated in his papers, was to secure a National Theatre here in the United States. To that end he served as the chairman of the National Theatre Committee for seven years, "during which time the final and complete Equity National Theatre plan was approved by Council and the membership." He considered "the National Theatre plan to be a singular accomplishment of Equity's." In 1987, having relocated back to his home state of Washington, he continued to wage "an unremitting campaign in the Council and the membership to save the plan from the possibility of revisions that would destroy the only National Theatre plan worth a tinker's dam [ <title render="italic">sic</title>] to the Equity membership and the American people." Sadly, his plan never came to fruition.</p>
+    </bioghist>
+    <scopecontent id="aspace_088f869be6747782ddad594f5d9385dd">
+      <head>Scope and Content Note</head>
+      <p>The Douglas Gordon Papers consist of his personal files, reflecting his career in the performing arts and his interest in social justice, which he often found interconnected. One of the most striking aspects of his personal collection is his propensity for taking notes and annotating material he received or collected. Almost every article he clipped, letter he received or speech he wrote is covered in his handwritten comments.</p>
+      <p><emph render="bold">Series I: Actors' Equity Association Materials, 1951-2001</emph>, is comprised of Gordon's files relevant to the Association, including general correspondence, reports, notes, clippings and other printed items and an extensive body of material on the National Theatre Committee, which he chaired for seven years.</p>
+      <p><emph render="bold">Series II: Subject Files, 1951-1986</emph>, contains information on Gordon's other union memberships and activities (AFTRA and SAG). This series has a major focus on his fervor for equal opportunity issues, including his work with the "Committee for the Employment of the Negro Performer."</p>
+    </scopecontent>
+    <arrangement id="aspace_1c4047caa6c81ef46f2bb63465ba8145">
+      <head>Arrangement</head>
+      <p>Arranged alphabetically within each series.</p>
+      <p>Organized into 2 series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I, Actors' Equity Association Materials, 1951-2001</item>
+        <item>II, Subject Files, 1951-1986</item>
+      </list>
+    </arrangement>
+    <userestrict id="aspace_f5f7cd040d3f5d0f4c299e50226dbdbd">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Douglas Gordon was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <prefercite id="aspace_ec7e42411dd6e96e604099f5a079d414">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Douglas Gordon Papers; WAG 256; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <controlaccess>
+      <subject source="lcsh">Actors -- United States.</subject>
+      <subject source="lcsh">Actors -- Labor unions -- United States.</subject>
+      <subject source="lcsh">Theater |z New York (State) |z New York |x History.</subject>
+      <geogname source="lcsh">New York (N.Y.).</geogname>
+      <geogname source="lcsh">Los Angeles (Calif.)</geogname>
+      <geogname source="lcsh">Seattle (Wash.)</geogname>
+      <subject source="lcsh">Theater |x United States |x Production and direction.</subject>
+      <subject source="lcsh">Theater -- United States -- History.</subject>
+      <corpname source="local">Committee for the Employment of the Negro Performer</corpname>
+      <corpname source="naf">Screen Actors Guild</corpname>
+      <persname source="naf">Grody, Don</persname>
+      <persname source="naf">Gordone, Charles</persname>
+      <persname source="naf">Burstyn, Ellen, 1932-</persname>
+      <corpname source="naf">American Federation of Television and Radio Artists</corpname>
+      <corpname source="naf">Actors' Equity Association</corpname>
       <persname rules="dacs" source="local">Gordon, Douglas, 1919-</persname>
-    </origination>
-    <origination label="source">
+      <persname rules="dacs" source="local">Munso, Felix</persname>
       <persname role="dnr" rules="dacs" source="local">Gordon, Rose Mary</persname>
-    </origination>
-    <unitid>WAG.256</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
-      <extent altrender="carrier">(3 boxes)</extent>
-    </physdesc>
-    <unitdate normal="1951/2001" type="inclusive">1951-2001</unitdate>
-    <abstract id="aspace_1c23d7435356ca46f5b52175e11f0688">Douglas Gordon, stage manager and actor, joined the Actors' Equity Association in 1948. He was first elected to the Association's Council in the late 1960s and was elected again in the 1980s. More than two-thirds of his papers reflect his dual passions: social justice issues and the creation and support of a National Theatre in America. The collection includes correspondence, reports, notes, election materials, files on individual productions, files on other theatrical unions, such as the American Federation of Television and Radio Artists, and material on racial issues in the theater. He died on December 18th, 2009 at the age of 90.</abstract>
-    <physloc id="aspace_bf924e7b7eb4218bfc7d97a06b8826f9">Materials stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to research visit.</physloc>
-    <langmaterial id="aspace_a543b3c8d8ecc7edfe74638250f33721">Materials are in English</langmaterial>
-  </did>
-  <acqinfo id="aspace_b9c06c402c8e40af14f78b7d11856c25">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Douglas Gordon's wife, Rose Mary Gordon, in 2003. The accession number associated with this gift is 2003.007.</p>  </acqinfo>
-  <accessrestrict id="aspace_9256d7397e41d2d7c9ada879dc120ab9">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <bioghist id="aspace_70bc89dcb8757eb6655b97787c20e93e">
-    <head>Historical/Biographical Note</head>
-<p>Born in Seattle, Washington on April 7, 1919, Douglas Gordon joined Actors' Equity on July 15, 1948 with the status of "Junior" Member. After working in summer stock for three continuous summers, he applied for and received "Senior" Classification in 1950. Four years later he joined the American Federation of Television and Radio Actors (AFTRA). He was also a member of the Screen Actors Guild (SAG). He was elected to the Association's Council for the first time in the 1960s when he served on numerous committees, including Production Contract, Editorial Board, Agency, and Casting Information. He served during the 1970s and 1980s although he often had to run on petition, having been passed over by the nominating committee. With his passion for social justice he was active on the Ethnic Minorities committee and felt that "Equity's policy of support to [ <title render="italic">sic</title>] non-traditional casting must be vigorously pursued."</p><p>Gordon's greatest passion, demonstrated in his papers, was to secure a National Theatre here in the United States. To that end he served as the chairman of the National Theatre Committee for seven years, "during which time the final and complete Equity National Theatre plan was approved by Council and the membership." He considered "the National Theatre plan to be a singular accomplishment of Equity's." In 1987, having relocated back to his home state of Washington, he continued to wage "an unremitting campaign in the Council and the membership to save the plan from the possibility of revisions that would destroy the only National Theatre plan worth a tinker's dam [ <title render="italic">sic</title>] to the Equity membership and the American people." Sadly, his plan never came to fruition.</p>  </bioghist>
-  <scopecontent id="aspace_088f869be6747782ddad594f5d9385dd">
-    <head>Scope and Content Note</head>
-<p>The Douglas Gordon Papers consist of his personal files, reflecting his career in the performing arts and his interest in social justice, which he often found interconnected. One of the most striking aspects of his personal collection is his propensity for taking notes and annotating material he received or collected. Almost every article he clipped, letter he received or speech he wrote is covered in his handwritten comments.</p><p><emph render="bold">Series I: Actors' Equity Association Materials, 1951-2001</emph>, is comprised of Gordon's files relevant to the Association, including general correspondence, reports, notes, clippings and other printed items and an extensive body of material on the National Theatre Committee, which he chaired for seven years.</p><p><emph render="bold">Series II: Subject Files, 1951-1986</emph>, contains information on Gordon's other union memberships and activities (AFTRA and SAG). This series has a major focus on his fervor for equal opportunity issues, including his work with the "Committee for the Employment of the Negro Performer."</p>  </scopecontent>
-  <arrangement id="aspace_1c4047caa6c81ef46f2bb63465ba8145">
-    <head>Arrangement</head>
-<p>Arranged alphabetically within each series.</p><p>Organized into 2 series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>I, Actors' Equity Association Materials, 1951-2001</item>
-      <item>II, Subject Files, 1951-1986</item>
-    </list>
-  </arrangement>
-  <userestrict id="aspace_f5f7cd040d3f5d0f4c299e50226dbdbd">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Douglas Gordon was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <prefercite id="aspace_ec7e42411dd6e96e604099f5a079d414">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Douglas Gordon Papers; WAG 256; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <controlaccess>
-    <subject source="lcsh">Actors -- United States.</subject>
-    <subject source="lcsh">Actors -- Labor unions -- United States.</subject>
-    <subject source="lcsh">Theater |z New York (State) |z New York |x History.</subject>
-    <geogname source="lcsh">New York (N.Y.).</geogname>
-    <geogname source="lcsh">Los Angeles (Calif.)</geogname>
-    <geogname source="lcsh">Seattle (Wash.)</geogname>
-    <subject source="lcsh">Theater |x United States |x Production and direction.</subject>
-    <subject source="lcsh">Theater -- United States -- History.</subject>
-    <corpname source="local">Committee for the Employment of the Negro Performer</corpname>
-    <corpname source="naf">Screen Actors Guild</corpname>
-    <persname source="naf">Grody, Don</persname>
-    <persname source="naf">Gordone, Charles</persname>
-    <persname source="naf">Burstyn, Ellen, 1932-</persname>
-    <corpname source="naf">American Federation of Television and Radio Artists</corpname>
-    <corpname source="naf">Actors' Equity Association</corpname>
-    <persname rules="dacs" source="local">Gordon, Douglas, 1919-</persname>
-    <persname rules="dacs" source="local">Munso, Felix</persname>
-    <persname role="dnr" rules="dacs" source="local">Gordon, Rose Mary</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series I: Actors' Equity Association Materials, 1951-2001.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref14" level="file"><did><unittitle>Agency and Casting Issues</unittitle><unitdate normal="1958/1980" type="inclusive">1958 , 1976-1980</unitdate><container id="aspace_e3050351f2858893e3c88bd30601f4bf" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_0607c93f763af0d8088a8253476a34e5" parent="aspace_e3050351f2858893e3c88bd30601f4bf" type="folder">1</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>American Actors Committee</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container id="aspace_524ff28f4aa0909cb155d4c119eb30e6" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_5d92b5dae17349d62dd22238198f8ace" parent="aspace_524ff28f4aa0909cb155d4c119eb30e6" type="folder">2</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>American National Theatre and Academy (ANTA)</unittitle><unitdate normal="1950/1969" type="inclusive">1950s-1960s</unitdate><container id="aspace_26788ed22a4b4dfd06efc8d8dbbf3984" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_fc42117ae97492c2f880a4a69c9cfb8e" parent="aspace_26788ed22a4b4dfd06efc8d8dbbf3984" type="folder">3</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Bakke (Allan) Case: Reverse discrimination</unittitle><unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate><container id="aspace_a9dc0de70967334bf8f157a57caaf498" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_86b1f39a6537ba7e1b5e99f118bc1bf8" parent="aspace_a9dc0de70967334bf8f157a57caaf498" type="folder">4</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Broadway Blackout</unittitle><unitdate normal="1960/1960" type="inclusive">1960</unitdate><container id="aspace_5ceba70c9b9c8b648af8e910bc9373b1" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_1394da0e95d9a996dbd2e77d2a96f0b8" parent="aspace_5ceba70c9b9c8b648af8e910bc9373b1" type="folder">5</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Caucuses and Rank &amp; File Movements</unittitle><unitdate normal="1951/2001" type="inclusive">undated</unitdate><container id="aspace_82b220624c8a916e2291a06559740dc2" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_149f2148834f1a7a416aabc3ee044c9c" parent="aspace_82b220624c8a916e2291a06559740dc2" type="folder">6</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Clippings: Equity and theatre related</unittitle><unitdate normal="1961/1978" type="inclusive">1961-1978 , undated</unitdate><container id="aspace_ed9658a42902cb02706edf86dbb8bd38" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_f3f2e80e02f51cdda660b0dc696c2951" parent="aspace_ed9658a42902cb02706edf86dbb8bd38" type="folder">7</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Clippings: General items that could affect theatre (most with notes)</unittitle><unitdate normal="1957/1985" type="inclusive">1957-1985 , undated</unitdate><container id="aspace_699929c96cb794f00e701596e1a033df" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_956a1493cf36bc66dcf004785c5dfbfc" parent="aspace_699929c96cb794f00e701596e1a033df" type="folder">8</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Clippings: segregation and discrimination mostly Equity and theatre related</unittitle><unitdate normal="1960/1969" type="inclusive">1960s</unitdate><container id="aspace_ba48b286ef8e95013eed2722d8791900" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_ed3944d248dce46824c405d256097108" parent="aspace_ba48b286ef8e95013eed2722d8791900" type="folder">9</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Conflict of Interest: includes Angus Duncan meeting on stage managers, Edward Weston Letter, articles, writings and notes</unittitle><unitdate normal="1950/1979" type="inclusive">1950s-1970s</unitdate><container id="aspace_0f5358eab0dc021ec6a652384d0229a7" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_0dcbc037d76e186685fce0e88f93ee4d" parent="aspace_0f5358eab0dc021ec6a652384d0229a7" type="folder">10</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Constitution and By-Laws: marked copies</unittitle><unitdate normal="1955/1977" type="inclusive">1955 , 1977</unitdate><container id="aspace_7654f14f26851a0ea051b826d253b82d" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_cb6ceb681d424fb73965cadf9d359899" parent="aspace_7654f14f26851a0ea051b826d253b82d" type="folder">11</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Constitutional Amendment: Article !!, Section 12 of Actors' Equity Association's Constitution</unittitle><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container id="aspace_1a3aa6cc62b0fe8a758cfdd23c527a57" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_a8b86fd5fa497fe6ef476a2fbc9eefe7" parent="aspace_1a3aa6cc62b0fe8a758cfdd23c527a57" type="folder">12</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Correspondence: Gordon personal and related Equity/theatrical (includes letters from Paddy Chayefsky and George S. Kaufman, original signatures)</unittitle><unitdate normal="1950/1959" type="inclusive">1950s</unitdate><container id="aspace_a24c6449ff5bea3d6f62d120811a6b13" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_7a91f2dfed7a5e50e2e137f5cb8c6b31" parent="aspace_a24c6449ff5bea3d6f62d120811a6b13" type="folder">13</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Correspondence: Gordon personal and related Equity/theatrical</unittitle><unitdate normal="1960/1974" type="inclusive">1960s , 1974</unitdate><container id="aspace_8994ee420316ee02cdc215b5948f11c4" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_3be7313a634758cf6c1172c40e429a2e" parent="aspace_8994ee420316ee02cdc215b5948f11c4" type="folder">14</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Correspondence: in support of Myron Fagin's play <title render="italic">Red Rainbow</title></unittitle><unitdate normal="1953/1953" type="inclusive">1953</unitdate><container id="aspace_800b49b79529a2e32b9f3cfee111042e" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_1f62075c65924bf38e14ec7b8d188391" parent="aspace_800b49b79529a2e32b9f3cfee111042e" type="folder">15</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Correspondence: to Council</unittitle><unitdate normal="1959/1985" type="inclusive">1959-1985</unitdate><container id="aspace_6949123e707cf3c4d66d6f545cda59dd" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_2df0564d35d349b4231b90c8df53b487" parent="aspace_6949123e707cf3c4d66d6f545cda59dd" type="folder">16</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Council Lists</unittitle><unitdate normal="1980/1989" type="inclusive">1980s</unitdate><container id="aspace_39a83ea7c6066e70d3ce9f3312fb44a3" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_70ebfa4f687f322670b8cb22c9512885" parent="aspace_39a83ea7c6066e70d3ce9f3312fb44a3" type="folder">17</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Council Minutes with handwritten notes</unittitle><unitdate normal="1962/1979" type="inclusive">1962 , 1977 , 1979</unitdate><container id="aspace_4204f9f37302d0a956dd5b62e2922c8a" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_07a732cee6e135d7e6199f26e0766bef" parent="aspace_4204f9f37302d0a956dd5b62e2922c8a" type="folder">18</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Department of Education [in Equity]: correspondence, minutes, petitions, and related materials</unittitle><unitdate normal="1976/1978" type="inclusive">1976-1978</unitdate><container id="aspace_f74930bc654835ed8b382ac650da26f1" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_707b998b6def6e9e3d14596d4a635217" parent="aspace_f74930bc654835ed8b382ac650da26f1" type="folder">19</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Deputy: <title render="italic">Apple Cart</title></unittitle><unitdate normal="1957/1957" type="inclusive">1957</unitdate><container id="aspace_f1f34788d04e616deddd26b5b0b1370a" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_ab380c9566d3a199f6dd4b85f9761a8d" parent="aspace_f1f34788d04e616deddd26b5b0b1370a" type="folder">20</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Deputy: <title render="italic">Fancy Meeting You Again</title></unittitle><unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate><container id="aspace_04fc1daa466829bc0d9e43ab07447c5d" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_b3a7b30d5406818a7762a84fd4714ace" parent="aspace_04fc1daa466829bc0d9e43ab07447c5d" type="folder">21</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Deputy: <title render="italic">World of Suzie Wong</title></unittitle><unitdate normal="1960/1960" type="inclusive">1960</unitdate><container id="aspace_34a75d8fcfd7c7958a9cc7db58cc7d01" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_8747557bba136b3e86766bf2549b823f" parent="aspace_34a75d8fcfd7c7958a9cc7db58cc7d01" type="folder">22</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Dues Referendum</unittitle><unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate><container id="aspace_e95859861e2cde9d84b315aa47a5223b" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_6237e030ce63f5b799aa10d7a5d93a27" parent="aspace_e95859861e2cde9d84b315aa47a5223b" type="folder">23</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Elections</unittitle><unitdate normal="1956/1958" type="inclusive">1956-1958</unitdate><container id="aspace_6bf811681a5d7bafec32abe39043b112" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_0d8c70623e9b9643682d800798ba5d64" parent="aspace_6bf811681a5d7bafec32abe39043b112" type="folder">24</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Elections</unittitle><unitdate normal="1960/1969" type="inclusive">1960s</unitdate><container id="aspace_a2b9bda6fe76a36b1122a1d79ccd4960" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_145a42e98a9ff565bdd9938b554dca33" parent="aspace_a2b9bda6fe76a36b1122a1d79ccd4960" type="folder">25</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Elections</unittitle><unitdate normal="1970/1979" type="inclusive">1970s</unitdate><container id="aspace_aaf5487e05b4ecac295d3f07a33fd819" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_07bc28008381cb44077bb4912779bbb5" parent="aspace_aaf5487e05b4ecac295d3f07a33fd819" type="folder">26</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Elections</unittitle><unitdate normal="1980/1989" type="inclusive">1980s</unitdate><container id="aspace_b0fbb212dfbd5669f1dffcef439a8a42" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_66d263fcce526fd5fd46c9e527c173fd" parent="aspace_b0fbb212dfbd5669f1dffcef439a8a42" type="folder">27</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Elections</unittitle><unitdate normal="1951/2001" type="inclusive">undated</unitdate><container id="aspace_bd28b299f81ac12406921021893e0cb3" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_117150994cd68559d8bc5f5aec695177" parent="aspace_bd28b299f81ac12406921021893e0cb3" type="folder">28</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Equity Library Theatre (ELT)</unittitle><unitdate normal="1950/1969" type="inclusive">1950s-1960s</unitdate><container id="aspace_ad3bfd867812165c47211fc670cdf1b9" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_4bfca568f2d13b7819073dc45ad65fd2" parent="aspace_ad3bfd867812165c47211fc670cdf1b9" type="folder">29</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Fouratt, James and Western Advisory Board issues</unittitle><unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate><container id="aspace_9cc62af4ea7645a68c4ecb3b69a63f0d" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_3b1a5fc0168f2da79c82e36787a1b2aa" parent="aspace_9cc62af4ea7645a68c4ecb3b69a63f0d" type="folder">30</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Future Ideas</unittitle><unitdate normal="1960/1969" type="inclusive">1960s</unitdate><container id="aspace_0cc214a85a2d4a3158baa036f637beaa" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_04e6da07adca752306ad5609bc40dfac" parent="aspace_0cc214a85a2d4a3158baa036f637beaa" type="folder">31</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>General: Meeting Notices, Reports, Duplicated Correspondence, and related material</unittitle><unitdate normal="1951/2001" type="inclusive">undated , 1960s-1980s</unitdate><container id="aspace_99be6ae57cdf4ed7b9222cafdfcd4a61" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_bd10fac10fb88467230e2c30eb12abfa" parent="aspace_99be6ae57cdf4ed7b9222cafdfcd4a61" type="folder">32</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Grody, Don/ Executive Secretary: renewal of contract and related issues</unittitle><unitdate normal="1975/1978" type="inclusive">1975-1978</unitdate><container id="aspace_a4a4709e5802fc1ec2b832f07c66a097" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_af1dd844ab371512756328445f1e0c5c" parent="aspace_a4a4709e5802fc1ec2b832f07c66a097" type="folder">33</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Handwritten Materials: notes and notebooks (I)</unittitle><unitdate normal="1951/2001" type="inclusive">undated</unitdate><container id="aspace_ce6051f276ce3c9368a382daf7992d2f" label="Mixed Materials [31142045505602]" type="box">1</container><container id="aspace_fb44aefaf303366ee82eea215ff69d4a" parent="aspace_ce6051f276ce3c9368a382daf7992d2f" type="folder">34</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Handwritten Materials: notes and notebooks (II)</unittitle><unitdate normal="1951/2001" type="inclusive">undated</unitdate><container id="aspace_5595f5a142f8bff56110d99068213d20" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_3b4ab19ca4d532a18f6624632141c824" parent="aspace_5595f5a142f8bff56110d99068213d20" type="folder">1</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Labor-Management Reporting and Disclosure Act of 1959</unittitle><unitdate>Sep 14, 1959</unitdate><container id="aspace_286c2125d24f2983938992094e8a20d3" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_fa7af0670f2081ae0bd12e012e81a57a" parent="aspace_286c2125d24f2983938992094e8a20d3" type="folder">2</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>League of Off Broadway Theatrical Employees and Technicians (LOBTET)</unittitle><unitdate normal="1951/2001" type="inclusive">undated</unitdate><container id="aspace_f121aa06a7097146225e6174a101aa8c" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_2063245d25a2cfe96cb1847a8c3a9b7c" parent="aspace_f121aa06a7097146225e6174a101aa8c" type="folder">3</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Lists</unittitle><unitdate normal="1951/2001" type="inclusive">undated</unitdate><container id="aspace_73df2334fb2ba1e988b66b8a09ef2920" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_053113ba9032d8ad827e51a52eda6f49" parent="aspace_73df2334fb2ba1e988b66b8a09ef2920" type="folder">4</container></did></c><c id="aspace_ref52" level="file"><did><unittitle><title render="italic">Man Who Never Died</title>(a play about Joe Hill): programs, reviews, notes, <title render="italic">Equity News</title>article</unittitle><unitdate normal="1958/1980" type="inclusive">1958 , 1980</unitdate><container id="aspace_0916dc4abefb2a8a217f455d1fa8028b" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_7bae1414ce27ea61957e87950875d161" parent="aspace_0916dc4abefb2a8a217f455d1fa8028b" type="folder">5</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Membership Meeting Transcript (partial and undated) of membership discussion period re: chairing the Merger Committee</unittitle><unitdate normal="1951/2001" type="inclusive">undated</unitdate><container id="aspace_2e0758002499914cb0aa1db957735861" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_96c32839ac69d734cdbcb12e5664670e" parent="aspace_2e0758002499914cb0aa1db957735861" type="folder">6</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Munso, Felix: correspondence (from Munso only) and Council minute notes</unittitle><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container id="aspace_8298afebc324d54dbfe9cd43317b2357" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_49214d490452f6249016c3a04b07b4a9" parent="aspace_8298afebc324d54dbfe9cd43317b2357" type="folder">7</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>National Theatre Committee (NTC): AFL-CIO Policy Resolution on the National Theatre</unittitle><unitdate>Oct 1975</unitdate><container id="aspace_00ac5dd5b0d8aaa5ff955247a433ec69" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_b7d56530ae6d44090cde9e4001fa0c8c" parent="aspace_00ac5dd5b0d8aaa5ff955247a433ec69" type="folder">8</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>National Theatre Committee (NTC): Analysis of the NTC Subcommittee Interim Report with cover letter</unittitle><unitdate>Jan 11, 1985</unitdate><container id="aspace_08a9db4003f27e1d0818078bf7197975" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_5f8c38cf25cf8af20480988842cd18b1" parent="aspace_08a9db4003f27e1d0818078bf7197975" type="folder">9</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>National Theatre Committee (NTC): Clippings</unittitle><unitdate>1980s , 2000s</unitdate><container id="aspace_c09e433dce3117dbd5ee52570c4f588c" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_cf1e75f1d37e66942708085481d01666" parent="aspace_c09e433dce3117dbd5ee52570c4f588c" type="folder">10</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>National Theatre Committee (NTC): correspondence/Jerry Brinkman (Seattle)</unittitle><unitdate normal="2001/2001" type="inclusive">2001</unitdate><container id="aspace_fbaf070ed0d8d58e2f3d223a78b0d9e8" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_a1c0caff14106dac22080ef001c1e55d" parent="aspace_fbaf070ed0d8d58e2f3d223a78b0d9e8" type="folder">11</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>National Theatre Committee (NTC): correspondence to Council (including statements and speeches</unittitle><unitdate normal="1983/2000" type="inclusive">1983-1985 , 2000</unitdate><container id="aspace_7f77445220f05c6c3e75cf13b40457bf" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_7e0202f25fbc19ee6416ab1eee4fffaa" parent="aspace_7f77445220f05c6c3e75cf13b40457bf" type="folder">12</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>National Theatre Committee (NTC): correspondence to/from Gordon</unittitle><unitdate normal="1983/2001" type="inclusive">1983-1985 , 2000-2001</unitdate><container id="aspace_fee8e81b81ca047abd67f246ac0dda62" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_a700ede2ac1b31763d8b6ef1a00d9059" parent="aspace_fee8e81b81ca047abd67f246ac0dda62" type="folder">13</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>National Theatre Committee (NTC): dispute re: coalition steering committee</unittitle><unitdate normal="1982/1984" type="inclusive">1982-1984</unitdate><container id="aspace_3561634e43501b2f614d5c33f5ba8d31" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_cce24e978ad6e7b00854f0456542addc" parent="aspace_3561634e43501b2f614d5c33f5ba8d31" type="folder">14</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>National Theatre Committee (NTC): "Discord"</unittitle><unitdate normal="1983/1983" type="inclusive">1983</unitdate><container id="aspace_ef12c741b82b5b1eddceebf8ef68d81b" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_e78db33e5876488d97186e21b5e89120" parent="aspace_ef12c741b82b5b1eddceebf8ef68d81b" type="folder">15</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>National Theatre Committee (NTC): Federal Theatre, People v. Elitist Theatre and related articles and materials</unittitle><unitdate>1970s</unitdate><container id="aspace_5db20aeb0958d4927b023f08ae20a775" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_e43fe5486a82fde0f57dc8d3de57d7c5" parent="aspace_5db20aeb0958d4927b023f08ae20a775" type="folder">16</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>National Theatre Committee (NTC): Final Report/National Theatre Research Sub-committee</unittitle><unitdate>Apr 25, 1985</unitdate><container id="aspace_dcbb5b74bc901142545a3d7eb1ad4627" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_9ce2e051e7e5501c06e451c31e32b833" parent="aspace_dcbb5b74bc901142545a3d7eb1ad4627" type="folder">17</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>National Theatre Committee (NTC): general/minutes, member lists and related materials</unittitle><unitdate normal="1972/1979" type="inclusive">1972-1979</unitdate><container id="aspace_bfa0ddaf4cef658a040c7eca5e5661d1" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_7a336b5e0f33c8a08f079484cd3f457e" parent="aspace_bfa0ddaf4cef658a040c7eca5e5661d1" type="folder">18</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>National Theatre Committee (NTC): general/minutes, member lists and related materials</unittitle><unitdate normal="1980/1984" type="inclusive">1980-1984</unitdate><container id="aspace_6dca48980b6ba110a7e7a36c5d9c36ff" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_56336b3563a6ea2f529518849b8748e9" parent="aspace_6dca48980b6ba110a7e7a36c5d9c36ff" type="folder">19</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>National Theatre Committee (NTC): general/minutes, member lists and related materials</unittitle><unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate><container id="aspace_32afc3e38691a16e624eca878417ac75" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_624cc7ea1cd7c964bde6eefaaf63c7b8" parent="aspace_32afc3e38691a16e624eca878417ac75" type="folder">20</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>National Theatre Committee (NTC): Interim Report</unittitle><unitdate>Dec 27, 1984</unitdate><container id="aspace_b246ada2ec06e54e56f93779c92886dd" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_c8fff4db3be50f2770b95ad8e09c89b7" parent="aspace_b246ada2ec06e54e56f93779c92886dd" type="folder">21</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>National Theatre Committee (NTC): Interim Report Reply</unittitle><unitdate>Feb 1, 1985</unitdate><container id="aspace_1e84944fafa8199264190b40082ade1f" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_fc6904892c4a05337285a28c93a39ad9" parent="aspace_1e84944fafa8199264190b40082ade1f" type="folder">22</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>National Theatre Committee (NTC): mailings from/by Gordon</unittitle><unitdate>Mar 2000-May 2000</unitdate><container id="aspace_abe96e5be97c11fee5532446b3f14476" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_68cdfc2a42c910d5ee642af314d954bb" parent="aspace_abe96e5be97c11fee5532446b3f14476" type="folder">23</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>National Theatre Committee (NTC): Majority Report (6/85) and Minority Report (5/85 &amp; 5/85) for presentation to Special Council Meeting, April 10, 1986</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container id="aspace_3f9e54e3413f5fa0b0ded9432ac75427" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_6a6d111a7dc759d10dadc15bd50316a7" parent="aspace_3f9e54e3413f5fa0b0ded9432ac75427" type="folder">24</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>National Theatre Committee (NTC): National Theatre Conference</unittitle><unitdate>May 28, 1981</unitdate><container id="aspace_1884a6f8de5375f8aca44dbd59323075" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_d1748988b3a66308f1ecf6fbef718835" parent="aspace_1884a6f8de5375f8aca44dbd59323075" type="folder">25</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>National Theatre Committee (NTC): National Theatre Conference #2</unittitle><unitdate>Nov 14, 1983</unitdate><container id="aspace_ac6662e80977bef8ba7112861e5a884a" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_d1ef0c5a03f04e8571dac1e66d89999b" parent="aspace_ac6662e80977bef8ba7112861e5a884a" type="folder">26</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>National Theatre Committee (NTC): National Theatre Conference #3</unittitle><unitdate>Feb 27, 1984</unitdate><container id="aspace_784bd5e954c61629cf3cd66915fce930" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_10fb96220d31e769c38b86f511babd08" parent="aspace_784bd5e954c61629cf3cd66915fce930" type="folder">27</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>National Theatre Committee (NTC): notes and background material for meeting with Seattle Councilor Barbara Calendar</unittitle><unitdate normal="1951/2001" type="inclusive">undated</unitdate><container id="aspace_7dbeb1ca0a496ad55e749f8d2fea258c" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_64eea2518be6a1dd66a93655bd7dfe05" parent="aspace_7dbeb1ca0a496ad55e749f8d2fea258c" type="folder">28</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>National Theatre Committee (NTC): Opposition Report/NTC version without Burstyn deletions</unittitle><unitdate>Jun 1985</unitdate><container id="aspace_75caae32e980b16bb94ca3d320558a9c" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_503bbc93c94a965b815522dae647ee10" parent="aspace_75caae32e980b16bb94ca3d320558a9c" type="folder">29</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>National Theatre Committee (NTC): Opposition Report with Burstyn corrections</unittitle><unitdate>Jun 1985</unitdate><container id="aspace_925896487d99bb18d346b387eb25425c" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_03e9541c5a1a9a5f109e3b3635c13a7d" parent="aspace_925896487d99bb18d346b387eb25425c" type="folder">30</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>National Theatre Committee (NTC): Other plans and comparative analysis including LORT (League of Resident Theatres), NEA (National Endowment for the Arts), MAB (Midwestern Advisory Board)</unittitle><unitdate normal="1979/1984" type="inclusive">1979 , 1984</unitdate><container id="aspace_090fe42fef19e7da474bf3897b1f8e84" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_9f1dba8acbd6247e79e54ca5c2934e6d" parent="aspace_090fe42fef19e7da474bf3897b1f8e84" type="folder">31</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>National Theatre Committee (NTC): political and economic considerations (research)</unittitle><unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate><container id="aspace_0655a332c9697473e62b0b50621ebfdf" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_50dafe7e1370bfc6bbe2d99069146862" parent="aspace_0655a332c9697473e62b0b50621ebfdf" type="folder">32</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>National Theatre Committee (NTC): Speech to Council</unittitle><unitdate>May 6, 1986</unitdate><container id="aspace_46f6adfa0c0dabd435838d63da21d6bf" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_f8ebad18fbdb7e1542f3c0ff67fe8412" parent="aspace_46f6adfa0c0dabd435838d63da21d6bf" type="folder">33</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Notes and clippings in file labeled "Equity January Meeting"</unittitle><unitdate normal="1962/1962" type="inclusive">1962</unitdate><container id="aspace_1b5ca955d4e7067b71a283fa85a87e71" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_e3e4de5e9cbd60be39d4f1b6032b9164" parent="aspace_1b5ca955d4e7067b71a283fa85a87e71" type="folder">34</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Oriental Actors of America Protest</unittitle><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container id="aspace_3fe23090ce1cec7ba10f8df770921531" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_30d68020099d77c1366dd00a0a6e9bab" parent="aspace_3fe23090ce1cec7ba10f8df770921531" type="folder">35</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Production Contract Issues</unittitle><unitdate normal="1977/1980" type="inclusive">1977 , 1980</unitdate><container id="aspace_784c7ca3c260520a5f7b92c8aedb1a42" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_ab528ab5b387ab5de1e727240e91b45f" parent="aspace_784c7ca3c260520a5f7b92c8aedb1a42" type="folder">36</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Production Contract Negotiations and Strike</unittitle><unitdate normal="1960/1960" type="inclusive">1960</unitdate><container id="aspace_31bd3dc51952b6b4424d5117ae28fbb4" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_38c2bfc1fcc4a0476d18f5cf6488667e" parent="aspace_31bd3dc51952b6b4424d5117ae28fbb4" type="folder">37</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Production Contract Negotiations</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container id="aspace_b5744206b10028e901156b78c6ed396d" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_c6a6bfa68b47f5a098a69efe8fd5c298" parent="aspace_b5744206b10028e901156b78c6ed396d" type="folder">38</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Racial discrimination/civil rights issues including Ron Ballard and Gordon correspondence with Equity</unittitle><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container id="aspace_07945fa724b46be2550d43a0b392a4fc" label="Mixed Materials [31142045505610]" type="box">2</container><container id="aspace_4f19ab42df804cee3b3bc48e42bdc08d" parent="aspace_07945fa724b46be2550d43a0b392a4fc" type="folder">39</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>Ratification of Contract Committee: resolutions, speech, and related materials</unittitle><unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate><container id="aspace_5e025e3d45aba96e27ffc8d9be1e2236" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_e5d7d32f964ca8fb7f16c39e69823e5e" parent="aspace_5e025e3d45aba96e27ffc8d9be1e2236" type="folder">1</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Showcase Code and 99-Seat Waiver Plan</unittitle><unitdate normal="1976/1980" type="inclusive">1976-1980</unitdate><container id="aspace_e3f5f0f35cbf0dd890e54519c81670b2" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_25320847d97e2b40685a95024b0b37e5" parent="aspace_e3f5f0f35cbf0dd890e54519c81670b2" type="folder">2</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Showcase Code Challenge</unittitle><unitdate normal="1978/1978" type="inclusive">1978</unitdate><container id="aspace_26df1e14bce6079e4f1447953005b5fc" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_afa6d9e1319cf8ce9689bbbd7ea69253" parent="aspace_26df1e14bce6079e4f1447953005b5fc" type="folder">3</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Speeches</unittitle><unitdate normal="1951/2001" type="inclusive">undated</unitdate><container id="aspace_6255b9bfcfa78b64afbae1a18aec9569" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_7d3908a447bd783e1356bb401bb3914b" parent="aspace_6255b9bfcfa78b64afbae1a18aec9569" type="folder">4</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Theatre lists by contract and related materials</unittitle><unitdate normal="1980/1989" type="inclusive">1980s</unitdate><container id="aspace_bafebf32de374dbdc550a9c78b0c7001" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_c6f86135b459362b76f918ed099bffff" parent="aspace_bafebf32de374dbdc550a9c78b0c7001" type="folder">5</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Understudies: rules in Production Contract</unittitle><unitdate normal="1970/1979" type="inclusive">1970s</unitdate><container id="aspace_5ba1f7bf336fae9c9441e2d0940acaa0" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_96e108220ff6fbe64616f20fe3258355" parent="aspace_5ba1f7bf336fae9c9441e2d0940acaa0" type="folder">6</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>U.S. Government Legislation: notes, articles, Equity resolutions, and related materials</unittitle><unitdate normal="1977/1981" type="inclusive">1977-1981 , undated</unitdate><container id="aspace_310622cab2c89879b5ef9b1f857c65d7" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_04fdb571d28c804ac7b2f8bee5df8895" parent="aspace_310622cab2c89879b5ef9b1f857c65d7" type="folder">7</container></did></c></c><c id="aspace_ref94" level="series"><did><unittitle>Series II: Subject Files, 1951-1981.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref95" level="file"><did><unittitle>American Committee for Protection of the Foreign Born: speech, script, and thank you letter</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container id="aspace_c9db21c1f30d6f2c1360d03f490c6bd1" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_84d1646ecd585660a306f7227b1cf91a" parent="aspace_c9db21c1f30d6f2c1360d03f490c6bd1" type="folder">8</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>American Federation of Television and Radio Artists (AFTRA): AWARE, Inc. and other materials on the blacklist</unittitle><unitdate normal="1955/1981" type="inclusive">1955-1981</unitdate><container id="aspace_1b971f26803bc53ecffef6ad85987d17" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_276a45b1ae517f4c49855d3dab13576c" parent="aspace_1b971f26803bc53ecffef6ad85987d17" type="folder">9</container></did></c><c id="aspace_ref97" level="file"><did><unittitle>AFTRA: clippings</unittitle><unitdate normal="1950/1959" type="inclusive">1950s , 1970s , undated</unitdate><container id="aspace_b7bce96afe790c143b62f859b40cdcf1" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_ce341b0bcbe15232e346d3eefadfd540" parent="aspace_b7bce96afe790c143b62f859b40cdcf1" type="folder">10</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>AFTRA: general (includes materials on TvA/AFRA merger and national and NY local constitutions)</unittitle><unitdate normal="1951/1955" type="inclusive">1951-1955</unitdate><container id="aspace_55ed343c1e52a17309f18f0a8ce6b1c5" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_edb0b0008232b9f82e442c6477d4c572" parent="aspace_55ed343c1e52a17309f18f0a8ce6b1c5" type="folder">11</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>AFTRA: general (includes election materials for the "Middle-of-the-Road Group" and a resolution re: Blacklisting)</unittitle><unitdate normal="1956/1956" type="inclusive">1956</unitdate><container id="aspace_915c636dd6856098cd67aa32f40813a5" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_9c45ad58bfc0bc9c6752fc2b90294318" parent="aspace_915c636dd6856098cd67aa32f40813a5" type="folder">12</container></did></c><c id="aspace_ref100" level="file"><did><unittitle>AFTRA: general</unittitle><unitdate normal="1957/1959" type="inclusive">1957-1959</unitdate><container id="aspace_d704d490f66767c692fc00cb2f92cd02" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_ef2869fae71631b482c0f8b4b481a8ea" parent="aspace_d704d490f66767c692fc00cb2f92cd02" type="folder">13</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>AFTRA: general (includes charges of un-fair labor practices by Channel 13 and a 1960 anti-communist resolution)</unittitle><unitdate normal="1960/1962" type="inclusive">1960-1962</unitdate><container id="aspace_616b1ed72d600e41b772ba9cef5192c2" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_e3a73c82861a2987dae445ebab20f387" parent="aspace_616b1ed72d600e41b772ba9cef5192c2" type="folder">14</container></did></c><c id="aspace_ref102" level="file"><did><unittitle>AFTRA: general (Includes contract for <title render="italic">The Adams Chronicles</title>)</unittitle><unitdate normal="1972/1977" type="inclusive">1972-1977 , undated</unitdate><container id="aspace_b4b89fd1b832d421a6e58395ca83777a" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_add47a67df78a2f7d8fda9aebfd9ac68" parent="aspace_b4b89fd1b832d421a6e58395ca83777a" type="folder">15</container></did></c><c id="aspace_ref103" level="file"><did><unittitle>AFTRA: speeches</unittitle><unitdate normal="1950/1959" type="inclusive">1950s , undated</unitdate><container id="aspace_bd94be3ba6dde94950608a2c7799fb7d" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_403478818ed11107e4df0d47ad64ecb9" parent="aspace_bd94be3ba6dde94950608a2c7799fb7d" type="folder">16</container></did></c><c id="aspace_ref104" level="file"><did><unittitle>American Theatre Wing Professional Training Program for veterans</unittitle><unitdate normal="1951/1953" type="inclusive">1951-1953</unitdate><container id="aspace_29d98afe9696607228a6de2f2e13031e" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_b3bd79750ae7f4035ca8933539a3e112" parent="aspace_29d98afe9696607228a6de2f2e13031e" type="folder">17</container></did></c><c id="aspace_ref105" level="file"><did><unittitle>Committee for the Employment of the Negro Performer (CENP): employment and casting issues</unittitle><unitdate normal="1962/1962" type="inclusive">1962 , undated</unitdate><container id="aspace_10c34259776d35f6a0f2740a880417fc" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_2c58640012af0e80356392732797addb" parent="aspace_10c34259776d35f6a0f2740a880417fc" type="folder">18</container></did></c><c id="aspace_ref106" level="file"><did><unittitle>CENP: Equity Rule 23/Discrimination and related issues</unittitle><unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate><container id="aspace_51e385307a6de3e631482c3e54fceba0" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_07389105235a082c626cc27b248b5165" parent="aspace_51e385307a6de3e631482c3e54fceba0" type="folder">19</container></did></c><c id="aspace_ref107" level="file"><did><unittitle>CENP: handwritten notes and notebooks</unittitle><unitdate normal="1951/2001" type="inclusive">undated</unitdate><container id="aspace_99ec94483d6270ca1db2031fe1f2f1a4" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_40c95a5296728db5cd9ee2a7258ec629" parent="aspace_99ec94483d6270ca1db2031fe1f2f1a4" type="folder">20</container></did></c><c id="aspace_ref108" level="file"><did><unittitle>CENP: meetings, committee work, and related materials</unittitle><unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate><container id="aspace_b6f1a90fc1a4967252eef1867057a8f8" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_f71c9a7a926a81fae3a3a8276860106d" parent="aspace_b6f1a90fc1a4967252eef1867057a8f8" type="folder">21</container></did></c><c id="aspace_ref109" level="file"><did><unittitle>CENP: Newsletters</unittitle><unitdate normal="1962/1962" type="inclusive">1962</unitdate><container id="aspace_48a13267370d75cc43e08b12c6d351f8" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_6221fd4dba8d0865efb43c12a655935c" parent="aspace_48a13267370d75cc43e08b12c6d351f8" type="folder">22</container></did></c><c id="aspace_ref110" level="file"><did><unittitle>CENP: resolution presented by Charles Gordone (Chair) at Equity Membership Meeting</unittitle><unitdate normal="1962/1962" type="inclusive">1962</unitdate><container id="aspace_a779eee14734348c06e4adf0cff99694" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_e31270632f893e11c0efa7480ddc405e" parent="aspace_a779eee14734348c06e4adf0cff99694" type="folder">23</container></did></c><c id="aspace_ref111" level="file"><did><unittitle>Negro American Labor Council (NALC): materials, notes, clippings</unittitle><unitdate normal="1961/1963" type="inclusive">1961-1963</unitdate><container id="aspace_bd9dae839004eb997563e2204fdd07c5" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_ee17e1685651599f46d40c5b6b7dd085" parent="aspace_bd9dae839004eb997563e2204fdd07c5" type="folder">24</container></did></c><c id="aspace_ref112" level="file"><did><unittitle>Notes, letters, and manuscript re: <title render="italic">Report on Blacklisting</title>by John Cogley [1956]</unittitle><unitdate normal="1951/2001" type="inclusive">undated</unitdate><container id="aspace_6571b2d64e05cb6bb95e8f2abefad584" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_70a8bba6116994eed6e147bfd6ba32d4" parent="aspace_6571b2d64e05cb6bb95e8f2abefad584" type="folder">25</container></did></c><c id="aspace_ref113" level="file"><did><unittitle><title render="italic">Poem for Adults</title>by Adam Wazyk</unittitle><unitdate normal="1951/2001" type="inclusive">undated</unitdate><container id="aspace_959bfd9b55c4255aebf4a189de17a9da" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_c096c06d0a2632016c657bbf64565afe" parent="aspace_959bfd9b55c4255aebf4a189de17a9da" type="folder">26</container></did></c><c id="aspace_ref114" level="file"><did><unittitle>Resume</unittitle><unitdate normal="1951/2001" type="inclusive">undated</unitdate><container id="aspace_c532409bb13a43ee321b0f4d219aba18" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_07b651cbc3633c876d0740e1941f2802" parent="aspace_c532409bb13a43ee321b0f4d219aba18" type="folder">27</container></did></c><c id="aspace_ref115" level="file"><did><unittitle>Screen Actors Guild (SAG)</unittitle><unitdate normal="1950/1959" type="inclusive">1950s</unitdate><container id="aspace_f8194c589c48f18fb8df0fbb39272b18" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_3c851b404416bb985a382f39dfb29300" parent="aspace_f8194c589c48f18fb8df0fbb39272b18" type="folder">28</container></did></c><c id="aspace_ref116" level="file"><did><unittitle>Screen Actors Guild (SAG)</unittitle><unitdate normal="1960/1979" type="inclusive">1960s-1970s</unitdate><container id="aspace_c5b55d8cc38005c6b0b86c63ac13db86" label="Mixed Materials [31142045505537]" type="box">3</container><container id="aspace_514b2cddae7bfdf3c713be48e7685d4a" parent="aspace_c5b55d8cc38005c6b0b86c63ac13db86" type="folder">29</container></did></c></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13" level="series">
+        <did>
+          <unittitle>Series I: Actors' Equity Association Materials, 1951-2001.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Agency and Casting Issues</unittitle>
+            <unitdate normal="1958/1980" type="inclusive">1958 , 1976-1980</unitdate>
+            <container id="aspace_e3050351f2858893e3c88bd30601f4bf" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_0607c93f763af0d8088a8253476a34e5" parent="aspace_e3050351f2858893e3c88bd30601f4bf" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>American Actors Committee</unittitle>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_524ff28f4aa0909cb155d4c119eb30e6" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_5d92b5dae17349d62dd22238198f8ace" parent="aspace_524ff28f4aa0909cb155d4c119eb30e6" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>American National Theatre and Academy (ANTA)</unittitle>
+            <unitdate normal="1950/1969" type="inclusive">1950s-1960s</unitdate>
+            <container id="aspace_26788ed22a4b4dfd06efc8d8dbbf3984" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_fc42117ae97492c2f880a4a69c9cfb8e" parent="aspace_26788ed22a4b4dfd06efc8d8dbbf3984" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Bakke (Allan) Case: Reverse discrimination</unittitle>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_a9dc0de70967334bf8f157a57caaf498" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_86b1f39a6537ba7e1b5e99f118bc1bf8" parent="aspace_a9dc0de70967334bf8f157a57caaf498" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Broadway Blackout</unittitle>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_5ceba70c9b9c8b648af8e910bc9373b1" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_1394da0e95d9a996dbd2e77d2a96f0b8" parent="aspace_5ceba70c9b9c8b648af8e910bc9373b1" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Caucuses and Rank &amp; File Movements</unittitle>
+            <unitdate normal="1951/2001" type="inclusive">undated</unitdate>
+            <container id="aspace_82b220624c8a916e2291a06559740dc2" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_149f2148834f1a7a416aabc3ee044c9c" parent="aspace_82b220624c8a916e2291a06559740dc2" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Clippings: Equity and theatre related</unittitle>
+            <unitdate normal="1961/1978" type="inclusive">1961-1978 , undated</unitdate>
+            <container id="aspace_ed9658a42902cb02706edf86dbb8bd38" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_f3f2e80e02f51cdda660b0dc696c2951" parent="aspace_ed9658a42902cb02706edf86dbb8bd38" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Clippings: General items that could affect theatre (most with notes)</unittitle>
+            <unitdate normal="1957/1985" type="inclusive">1957-1985 , undated</unitdate>
+            <container id="aspace_699929c96cb794f00e701596e1a033df" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_956a1493cf36bc66dcf004785c5dfbfc" parent="aspace_699929c96cb794f00e701596e1a033df" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Clippings: segregation and discrimination mostly Equity and theatre related</unittitle>
+            <unitdate normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container id="aspace_ba48b286ef8e95013eed2722d8791900" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_ed3944d248dce46824c405d256097108" parent="aspace_ba48b286ef8e95013eed2722d8791900" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Conflict of Interest: includes Angus Duncan meeting on stage managers, Edward Weston Letter, articles, writings and notes</unittitle>
+            <unitdate normal="1950/1979" type="inclusive">1950s-1970s</unitdate>
+            <container id="aspace_0f5358eab0dc021ec6a652384d0229a7" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_0dcbc037d76e186685fce0e88f93ee4d" parent="aspace_0f5358eab0dc021ec6a652384d0229a7" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Constitution and By-Laws: marked copies</unittitle>
+            <unitdate normal="1955/1977" type="inclusive">1955 , 1977</unitdate>
+            <container id="aspace_7654f14f26851a0ea051b826d253b82d" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_cb6ceb681d424fb73965cadf9d359899" parent="aspace_7654f14f26851a0ea051b826d253b82d" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Constitutional Amendment: Article !!, Section 12 of Actors' Equity Association's Constitution</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_1a3aa6cc62b0fe8a758cfdd23c527a57" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_a8b86fd5fa497fe6ef476a2fbc9eefe7" parent="aspace_1a3aa6cc62b0fe8a758cfdd23c527a57" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Correspondence: Gordon personal and related Equity/theatrical (includes letters from Paddy Chayefsky and George S. Kaufman, original signatures)</unittitle>
+            <unitdate normal="1950/1959" type="inclusive">1950s</unitdate>
+            <container id="aspace_a24c6449ff5bea3d6f62d120811a6b13" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_7a91f2dfed7a5e50e2e137f5cb8c6b31" parent="aspace_a24c6449ff5bea3d6f62d120811a6b13" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Correspondence: Gordon personal and related Equity/theatrical</unittitle>
+            <unitdate normal="1960/1974" type="inclusive">1960s , 1974</unitdate>
+            <container id="aspace_8994ee420316ee02cdc215b5948f11c4" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_3be7313a634758cf6c1172c40e429a2e" parent="aspace_8994ee420316ee02cdc215b5948f11c4" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Correspondence: in support of Myron Fagin's play <title render="italic">Red Rainbow</title></unittitle>
+            <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+            <container id="aspace_800b49b79529a2e32b9f3cfee111042e" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_1f62075c65924bf38e14ec7b8d188391" parent="aspace_800b49b79529a2e32b9f3cfee111042e" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Correspondence: to Council</unittitle>
+            <unitdate normal="1959/1985" type="inclusive">1959-1985</unitdate>
+            <container id="aspace_6949123e707cf3c4d66d6f545cda59dd" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_2df0564d35d349b4231b90c8df53b487" parent="aspace_6949123e707cf3c4d66d6f545cda59dd" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Council Lists</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
+            <container id="aspace_39a83ea7c6066e70d3ce9f3312fb44a3" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_70ebfa4f687f322670b8cb22c9512885" parent="aspace_39a83ea7c6066e70d3ce9f3312fb44a3" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Council Minutes with handwritten notes</unittitle>
+            <unitdate normal="1962/1979" type="inclusive">1962 , 1977 , 1979</unitdate>
+            <container id="aspace_4204f9f37302d0a956dd5b62e2922c8a" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_07a732cee6e135d7e6199f26e0766bef" parent="aspace_4204f9f37302d0a956dd5b62e2922c8a" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Department of Education [in Equity]: correspondence, minutes, petitions, and related materials</unittitle>
+            <unitdate normal="1976/1978" type="inclusive">1976-1978</unitdate>
+            <container id="aspace_f74930bc654835ed8b382ac650da26f1" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_707b998b6def6e9e3d14596d4a635217" parent="aspace_f74930bc654835ed8b382ac650da26f1" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Deputy: <title render="italic">Apple Cart</title></unittitle>
+            <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_f1f34788d04e616deddd26b5b0b1370a" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_ab380c9566d3a199f6dd4b85f9761a8d" parent="aspace_f1f34788d04e616deddd26b5b0b1370a" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Deputy: <title render="italic">Fancy Meeting You Again</title></unittitle>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_04fc1daa466829bc0d9e43ab07447c5d" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_b3a7b30d5406818a7762a84fd4714ace" parent="aspace_04fc1daa466829bc0d9e43ab07447c5d" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Deputy: <title render="italic">World of Suzie Wong</title></unittitle>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_34a75d8fcfd7c7958a9cc7db58cc7d01" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_8747557bba136b3e86766bf2549b823f" parent="aspace_34a75d8fcfd7c7958a9cc7db58cc7d01" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Dues Referendum</unittitle>
+            <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
+            <container id="aspace_e95859861e2cde9d84b315aa47a5223b" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_6237e030ce63f5b799aa10d7a5d93a27" parent="aspace_e95859861e2cde9d84b315aa47a5223b" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Elections</unittitle>
+            <unitdate normal="1956/1958" type="inclusive">1956-1958</unitdate>
+            <container id="aspace_6bf811681a5d7bafec32abe39043b112" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_0d8c70623e9b9643682d800798ba5d64" parent="aspace_6bf811681a5d7bafec32abe39043b112" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Elections</unittitle>
+            <unitdate normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container id="aspace_a2b9bda6fe76a36b1122a1d79ccd4960" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_145a42e98a9ff565bdd9938b554dca33" parent="aspace_a2b9bda6fe76a36b1122a1d79ccd4960" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Elections</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container id="aspace_aaf5487e05b4ecac295d3f07a33fd819" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_07bc28008381cb44077bb4912779bbb5" parent="aspace_aaf5487e05b4ecac295d3f07a33fd819" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Elections</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
+            <container id="aspace_b0fbb212dfbd5669f1dffcef439a8a42" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_66d263fcce526fd5fd46c9e527c173fd" parent="aspace_b0fbb212dfbd5669f1dffcef439a8a42" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Elections</unittitle>
+            <unitdate normal="1951/2001" type="inclusive">undated</unitdate>
+            <container id="aspace_bd28b299f81ac12406921021893e0cb3" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_117150994cd68559d8bc5f5aec695177" parent="aspace_bd28b299f81ac12406921021893e0cb3" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Equity Library Theatre (ELT)</unittitle>
+            <unitdate normal="1950/1969" type="inclusive">1950s-1960s</unitdate>
+            <container id="aspace_ad3bfd867812165c47211fc670cdf1b9" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_4bfca568f2d13b7819073dc45ad65fd2" parent="aspace_ad3bfd867812165c47211fc670cdf1b9" type="folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Fouratt, James and Western Advisory Board issues</unittitle>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_9cc62af4ea7645a68c4ecb3b69a63f0d" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_3b1a5fc0168f2da79c82e36787a1b2aa" parent="aspace_9cc62af4ea7645a68c4ecb3b69a63f0d" type="folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Future Ideas</unittitle>
+            <unitdate normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container id="aspace_0cc214a85a2d4a3158baa036f637beaa" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_04e6da07adca752306ad5609bc40dfac" parent="aspace_0cc214a85a2d4a3158baa036f637beaa" type="folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>General: Meeting Notices, Reports, Duplicated Correspondence, and related material</unittitle>
+            <unitdate normal="1951/2001" type="inclusive">undated , 1960s-1980s</unitdate>
+            <container id="aspace_99be6ae57cdf4ed7b9222cafdfcd4a61" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_bd10fac10fb88467230e2c30eb12abfa" parent="aspace_99be6ae57cdf4ed7b9222cafdfcd4a61" type="folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Grody, Don/ Executive Secretary: renewal of contract and related issues</unittitle>
+            <unitdate normal="1975/1978" type="inclusive">1975-1978</unitdate>
+            <container id="aspace_a4a4709e5802fc1ec2b832f07c66a097" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_af1dd844ab371512756328445f1e0c5c" parent="aspace_a4a4709e5802fc1ec2b832f07c66a097" type="folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Handwritten Materials: notes and notebooks (I)</unittitle>
+            <unitdate normal="1951/2001" type="inclusive">undated</unitdate>
+            <container id="aspace_ce6051f276ce3c9368a382daf7992d2f" label="Mixed Materials [31142045505602]" type="box">1</container>
+            <container id="aspace_fb44aefaf303366ee82eea215ff69d4a" parent="aspace_ce6051f276ce3c9368a382daf7992d2f" type="folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Handwritten Materials: notes and notebooks (II)</unittitle>
+            <unitdate normal="1951/2001" type="inclusive">undated</unitdate>
+            <container id="aspace_5595f5a142f8bff56110d99068213d20" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_3b4ab19ca4d532a18f6624632141c824" parent="aspace_5595f5a142f8bff56110d99068213d20" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Labor-Management Reporting and Disclosure Act of 1959</unittitle>
+            <unitdate>Sep 14, 1959</unitdate>
+            <container id="aspace_286c2125d24f2983938992094e8a20d3" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_fa7af0670f2081ae0bd12e012e81a57a" parent="aspace_286c2125d24f2983938992094e8a20d3" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>League of Off Broadway Theatrical Employees and Technicians (LOBTET)</unittitle>
+            <unitdate normal="1951/2001" type="inclusive">undated</unitdate>
+            <container id="aspace_f121aa06a7097146225e6174a101aa8c" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_2063245d25a2cfe96cb1847a8c3a9b7c" parent="aspace_f121aa06a7097146225e6174a101aa8c" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Lists</unittitle>
+            <unitdate normal="1951/2001" type="inclusive">undated</unitdate>
+            <container id="aspace_73df2334fb2ba1e988b66b8a09ef2920" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_053113ba9032d8ad827e51a52eda6f49" parent="aspace_73df2334fb2ba1e988b66b8a09ef2920" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle><title render="italic">Man Who Never Died</title>(a play about Joe Hill): programs, reviews, notes, <title render="italic">Equity News</title>article</unittitle>
+            <unitdate normal="1958/1980" type="inclusive">1958 , 1980</unitdate>
+            <container id="aspace_0916dc4abefb2a8a217f455d1fa8028b" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_7bae1414ce27ea61957e87950875d161" parent="aspace_0916dc4abefb2a8a217f455d1fa8028b" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Membership Meeting Transcript (partial and undated) of membership discussion period re: chairing the Merger Committee</unittitle>
+            <unitdate normal="1951/2001" type="inclusive">undated</unitdate>
+            <container id="aspace_2e0758002499914cb0aa1db957735861" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_96c32839ac69d734cdbcb12e5664670e" parent="aspace_2e0758002499914cb0aa1db957735861" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Munso, Felix: correspondence (from Munso only) and Council minute notes</unittitle>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_8298afebc324d54dbfe9cd43317b2357" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_49214d490452f6249016c3a04b07b4a9" parent="aspace_8298afebc324d54dbfe9cd43317b2357" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): AFL-CIO Policy Resolution on the National Theatre</unittitle>
+            <unitdate>Oct 1975</unitdate>
+            <container id="aspace_00ac5dd5b0d8aaa5ff955247a433ec69" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_b7d56530ae6d44090cde9e4001fa0c8c" parent="aspace_00ac5dd5b0d8aaa5ff955247a433ec69" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): Analysis of the NTC Subcommittee Interim Report with cover letter</unittitle>
+            <unitdate>Jan 11, 1985</unitdate>
+            <container id="aspace_08a9db4003f27e1d0818078bf7197975" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_5f8c38cf25cf8af20480988842cd18b1" parent="aspace_08a9db4003f27e1d0818078bf7197975" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): Clippings</unittitle>
+            <unitdate>1980s , 2000s</unitdate>
+            <container id="aspace_c09e433dce3117dbd5ee52570c4f588c" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_cf1e75f1d37e66942708085481d01666" parent="aspace_c09e433dce3117dbd5ee52570c4f588c" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): correspondence/Jerry Brinkman (Seattle)</unittitle>
+            <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_fbaf070ed0d8d58e2f3d223a78b0d9e8" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_a1c0caff14106dac22080ef001c1e55d" parent="aspace_fbaf070ed0d8d58e2f3d223a78b0d9e8" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): correspondence to Council (including statements and speeches</unittitle>
+            <unitdate normal="1983/2000" type="inclusive">1983-1985 , 2000</unitdate>
+            <container id="aspace_7f77445220f05c6c3e75cf13b40457bf" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_7e0202f25fbc19ee6416ab1eee4fffaa" parent="aspace_7f77445220f05c6c3e75cf13b40457bf" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): correspondence to/from Gordon</unittitle>
+            <unitdate normal="1983/2001" type="inclusive">1983-1985 , 2000-2001</unitdate>
+            <container id="aspace_fee8e81b81ca047abd67f246ac0dda62" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_a700ede2ac1b31763d8b6ef1a00d9059" parent="aspace_fee8e81b81ca047abd67f246ac0dda62" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): dispute re: coalition steering committee</unittitle>
+            <unitdate normal="1982/1984" type="inclusive">1982-1984</unitdate>
+            <container id="aspace_3561634e43501b2f614d5c33f5ba8d31" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_cce24e978ad6e7b00854f0456542addc" parent="aspace_3561634e43501b2f614d5c33f5ba8d31" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): "Discord"</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_ef12c741b82b5b1eddceebf8ef68d81b" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_e78db33e5876488d97186e21b5e89120" parent="aspace_ef12c741b82b5b1eddceebf8ef68d81b" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): Federal Theatre, People v. Elitist Theatre and related articles and materials</unittitle>
+            <unitdate>1970s</unitdate>
+            <container id="aspace_5db20aeb0958d4927b023f08ae20a775" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_e43fe5486a82fde0f57dc8d3de57d7c5" parent="aspace_5db20aeb0958d4927b023f08ae20a775" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): Final Report/National Theatre Research Sub-committee</unittitle>
+            <unitdate>Apr 25, 1985</unitdate>
+            <container id="aspace_dcbb5b74bc901142545a3d7eb1ad4627" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_9ce2e051e7e5501c06e451c31e32b833" parent="aspace_dcbb5b74bc901142545a3d7eb1ad4627" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): general/minutes, member lists and related materials</unittitle>
+            <unitdate normal="1972/1979" type="inclusive">1972-1979</unitdate>
+            <container id="aspace_bfa0ddaf4cef658a040c7eca5e5661d1" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_7a336b5e0f33c8a08f079484cd3f457e" parent="aspace_bfa0ddaf4cef658a040c7eca5e5661d1" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): general/minutes, member lists and related materials</unittitle>
+            <unitdate normal="1980/1984" type="inclusive">1980-1984</unitdate>
+            <container id="aspace_6dca48980b6ba110a7e7a36c5d9c36ff" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_56336b3563a6ea2f529518849b8748e9" parent="aspace_6dca48980b6ba110a7e7a36c5d9c36ff" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): general/minutes, member lists and related materials</unittitle>
+            <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <container id="aspace_32afc3e38691a16e624eca878417ac75" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_624cc7ea1cd7c964bde6eefaaf63c7b8" parent="aspace_32afc3e38691a16e624eca878417ac75" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): Interim Report</unittitle>
+            <unitdate>Dec 27, 1984</unitdate>
+            <container id="aspace_b246ada2ec06e54e56f93779c92886dd" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_c8fff4db3be50f2770b95ad8e09c89b7" parent="aspace_b246ada2ec06e54e56f93779c92886dd" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): Interim Report Reply</unittitle>
+            <unitdate>Feb 1, 1985</unitdate>
+            <container id="aspace_1e84944fafa8199264190b40082ade1f" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_fc6904892c4a05337285a28c93a39ad9" parent="aspace_1e84944fafa8199264190b40082ade1f" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): mailings from/by Gordon</unittitle>
+            <unitdate>Mar 2000-May 2000</unitdate>
+            <container id="aspace_abe96e5be97c11fee5532446b3f14476" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_68cdfc2a42c910d5ee642af314d954bb" parent="aspace_abe96e5be97c11fee5532446b3f14476" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): Majority Report (6/85) and Minority Report (5/85 &amp; 5/85) for presentation to Special Council Meeting, April 10, 1986</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_3f9e54e3413f5fa0b0ded9432ac75427" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_6a6d111a7dc759d10dadc15bd50316a7" parent="aspace_3f9e54e3413f5fa0b0ded9432ac75427" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): National Theatre Conference</unittitle>
+            <unitdate>May 28, 1981</unitdate>
+            <container id="aspace_1884a6f8de5375f8aca44dbd59323075" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_d1748988b3a66308f1ecf6fbef718835" parent="aspace_1884a6f8de5375f8aca44dbd59323075" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): National Theatre Conference #2</unittitle>
+            <unitdate>Nov 14, 1983</unitdate>
+            <container id="aspace_ac6662e80977bef8ba7112861e5a884a" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_d1ef0c5a03f04e8571dac1e66d89999b" parent="aspace_ac6662e80977bef8ba7112861e5a884a" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): National Theatre Conference #3</unittitle>
+            <unitdate>Feb 27, 1984</unitdate>
+            <container id="aspace_784bd5e954c61629cf3cd66915fce930" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_10fb96220d31e769c38b86f511babd08" parent="aspace_784bd5e954c61629cf3cd66915fce930" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): notes and background material for meeting with Seattle Councilor Barbara Calendar</unittitle>
+            <unitdate normal="1951/2001" type="inclusive">undated</unitdate>
+            <container id="aspace_7dbeb1ca0a496ad55e749f8d2fea258c" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_64eea2518be6a1dd66a93655bd7dfe05" parent="aspace_7dbeb1ca0a496ad55e749f8d2fea258c" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): Opposition Report/NTC version without Burstyn deletions</unittitle>
+            <unitdate>Jun 1985</unitdate>
+            <container id="aspace_75caae32e980b16bb94ca3d320558a9c" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_503bbc93c94a965b815522dae647ee10" parent="aspace_75caae32e980b16bb94ca3d320558a9c" type="folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): Opposition Report with Burstyn corrections</unittitle>
+            <unitdate>Jun 1985</unitdate>
+            <container id="aspace_925896487d99bb18d346b387eb25425c" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_03e9541c5a1a9a5f109e3b3635c13a7d" parent="aspace_925896487d99bb18d346b387eb25425c" type="folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): Other plans and comparative analysis including LORT (League of Resident Theatres), NEA (National Endowment for the Arts), MAB (Midwestern Advisory Board)</unittitle>
+            <unitdate normal="1979/1984" type="inclusive">1979 , 1984</unitdate>
+            <container id="aspace_090fe42fef19e7da474bf3897b1f8e84" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_9f1dba8acbd6247e79e54ca5c2934e6d" parent="aspace_090fe42fef19e7da474bf3897b1f8e84" type="folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): political and economic considerations (research)</unittitle>
+            <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <container id="aspace_0655a332c9697473e62b0b50621ebfdf" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_50dafe7e1370bfc6bbe2d99069146862" parent="aspace_0655a332c9697473e62b0b50621ebfdf" type="folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>National Theatre Committee (NTC): Speech to Council</unittitle>
+            <unitdate>May 6, 1986</unitdate>
+            <container id="aspace_46f6adfa0c0dabd435838d63da21d6bf" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_f8ebad18fbdb7e1542f3c0ff67fe8412" parent="aspace_46f6adfa0c0dabd435838d63da21d6bf" type="folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Notes and clippings in file labeled "Equity January Meeting"</unittitle>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_1b5ca955d4e7067b71a283fa85a87e71" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_e3e4de5e9cbd60be39d4f1b6032b9164" parent="aspace_1b5ca955d4e7067b71a283fa85a87e71" type="folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Oriental Actors of America Protest</unittitle>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_3fe23090ce1cec7ba10f8df770921531" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_30d68020099d77c1366dd00a0a6e9bab" parent="aspace_3fe23090ce1cec7ba10f8df770921531" type="folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Production Contract Issues</unittitle>
+            <unitdate normal="1977/1980" type="inclusive">1977 , 1980</unitdate>
+            <container id="aspace_784c7ca3c260520a5f7b92c8aedb1a42" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_ab528ab5b387ab5de1e727240e91b45f" parent="aspace_784c7ca3c260520a5f7b92c8aedb1a42" type="folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Production Contract Negotiations and Strike</unittitle>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_31bd3dc51952b6b4424d5117ae28fbb4" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_38c2bfc1fcc4a0476d18f5cf6488667e" parent="aspace_31bd3dc51952b6b4424d5117ae28fbb4" type="folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Production Contract Negotiations</unittitle>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_b5744206b10028e901156b78c6ed396d" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_c6a6bfa68b47f5a098a69efe8fd5c298" parent="aspace_b5744206b10028e901156b78c6ed396d" type="folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Racial discrimination/civil rights issues including Ron Ballard and Gordon correspondence with Equity</unittitle>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_07945fa724b46be2550d43a0b392a4fc" label="Mixed Materials [31142045505610]" type="box">2</container>
+            <container id="aspace_4f19ab42df804cee3b3bc48e42bdc08d" parent="aspace_07945fa724b46be2550d43a0b392a4fc" type="folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Ratification of Contract Committee: resolutions, speech, and related materials</unittitle>
+            <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
+            <container id="aspace_5e025e3d45aba96e27ffc8d9be1e2236" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_e5d7d32f964ca8fb7f16c39e69823e5e" parent="aspace_5e025e3d45aba96e27ffc8d9be1e2236" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Showcase Code and 99-Seat Waiver Plan</unittitle>
+            <unitdate normal="1976/1980" type="inclusive">1976-1980</unitdate>
+            <container id="aspace_e3f5f0f35cbf0dd890e54519c81670b2" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_25320847d97e2b40685a95024b0b37e5" parent="aspace_e3f5f0f35cbf0dd890e54519c81670b2" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Showcase Code Challenge</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_26df1e14bce6079e4f1447953005b5fc" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_afa6d9e1319cf8ce9689bbbd7ea69253" parent="aspace_26df1e14bce6079e4f1447953005b5fc" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Speeches</unittitle>
+            <unitdate normal="1951/2001" type="inclusive">undated</unitdate>
+            <container id="aspace_6255b9bfcfa78b64afbae1a18aec9569" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_7d3908a447bd783e1356bb401bb3914b" parent="aspace_6255b9bfcfa78b64afbae1a18aec9569" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Theatre lists by contract and related materials</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
+            <container id="aspace_bafebf32de374dbdc550a9c78b0c7001" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_c6f86135b459362b76f918ed099bffff" parent="aspace_bafebf32de374dbdc550a9c78b0c7001" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Understudies: rules in Production Contract</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container id="aspace_5ba1f7bf336fae9c9441e2d0940acaa0" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_96e108220ff6fbe64616f20fe3258355" parent="aspace_5ba1f7bf336fae9c9441e2d0940acaa0" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>U.S. Government Legislation: notes, articles, Equity resolutions, and related materials</unittitle>
+            <unitdate normal="1977/1981" type="inclusive">1977-1981 , undated</unitdate>
+            <container id="aspace_310622cab2c89879b5ef9b1f857c65d7" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_04fdb571d28c804ac7b2f8bee5df8895" parent="aspace_310622cab2c89879b5ef9b1f857c65d7" type="folder">7</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref94" level="series">
+        <did>
+          <unittitle>Series II: Subject Files, 1951-1981.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>American Committee for Protection of the Foreign Born: speech, script, and thank you letter</unittitle>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_c9db21c1f30d6f2c1360d03f490c6bd1" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_84d1646ecd585660a306f7227b1cf91a" parent="aspace_c9db21c1f30d6f2c1360d03f490c6bd1" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>American Federation of Television and Radio Artists (AFTRA): AWARE, Inc. and other materials on the blacklist</unittitle>
+            <unitdate normal="1955/1981" type="inclusive">1955-1981</unitdate>
+            <container id="aspace_1b971f26803bc53ecffef6ad85987d17" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_276a45b1ae517f4c49855d3dab13576c" parent="aspace_1b971f26803bc53ecffef6ad85987d17" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>AFTRA: clippings</unittitle>
+            <unitdate normal="1950/1959" type="inclusive">1950s , 1970s , undated</unitdate>
+            <container id="aspace_b7bce96afe790c143b62f859b40cdcf1" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_ce341b0bcbe15232e346d3eefadfd540" parent="aspace_b7bce96afe790c143b62f859b40cdcf1" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>AFTRA: general (includes materials on TvA/AFRA merger and national and NY local constitutions)</unittitle>
+            <unitdate normal="1951/1955" type="inclusive">1951-1955</unitdate>
+            <container id="aspace_55ed343c1e52a17309f18f0a8ce6b1c5" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_edb0b0008232b9f82e442c6477d4c572" parent="aspace_55ed343c1e52a17309f18f0a8ce6b1c5" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>AFTRA: general (includes election materials for the "Middle-of-the-Road Group" and a resolution re: Blacklisting)</unittitle>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_915c636dd6856098cd67aa32f40813a5" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_9c45ad58bfc0bc9c6752fc2b90294318" parent="aspace_915c636dd6856098cd67aa32f40813a5" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>AFTRA: general</unittitle>
+            <unitdate normal="1957/1959" type="inclusive">1957-1959</unitdate>
+            <container id="aspace_d704d490f66767c692fc00cb2f92cd02" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_ef2869fae71631b482c0f8b4b481a8ea" parent="aspace_d704d490f66767c692fc00cb2f92cd02" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>AFTRA: general (includes charges of un-fair labor practices by Channel 13 and a 1960 anti-communist resolution)</unittitle>
+            <unitdate normal="1960/1962" type="inclusive">1960-1962</unitdate>
+            <container id="aspace_616b1ed72d600e41b772ba9cef5192c2" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_e3a73c82861a2987dae445ebab20f387" parent="aspace_616b1ed72d600e41b772ba9cef5192c2" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>AFTRA: general (Includes contract for <title render="italic">The Adams Chronicles</title>)</unittitle>
+            <unitdate normal="1972/1977" type="inclusive">1972-1977 , undated</unitdate>
+            <container id="aspace_b4b89fd1b832d421a6e58395ca83777a" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_add47a67df78a2f7d8fda9aebfd9ac68" parent="aspace_b4b89fd1b832d421a6e58395ca83777a" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>AFTRA: speeches</unittitle>
+            <unitdate normal="1950/1959" type="inclusive">1950s , undated</unitdate>
+            <container id="aspace_bd94be3ba6dde94950608a2c7799fb7d" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_403478818ed11107e4df0d47ad64ecb9" parent="aspace_bd94be3ba6dde94950608a2c7799fb7d" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>American Theatre Wing Professional Training Program for veterans</unittitle>
+            <unitdate normal="1951/1953" type="inclusive">1951-1953</unitdate>
+            <container id="aspace_29d98afe9696607228a6de2f2e13031e" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_b3bd79750ae7f4035ca8933539a3e112" parent="aspace_29d98afe9696607228a6de2f2e13031e" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Committee for the Employment of the Negro Performer (CENP): employment and casting issues</unittitle>
+            <unitdate normal="1962/1962" type="inclusive">1962 , undated</unitdate>
+            <container id="aspace_10c34259776d35f6a0f2740a880417fc" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_2c58640012af0e80356392732797addb" parent="aspace_10c34259776d35f6a0f2740a880417fc" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>CENP: Equity Rule 23/Discrimination and related issues</unittitle>
+            <unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate>
+            <container id="aspace_51e385307a6de3e631482c3e54fceba0" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_07389105235a082c626cc27b248b5165" parent="aspace_51e385307a6de3e631482c3e54fceba0" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>CENP: handwritten notes and notebooks</unittitle>
+            <unitdate normal="1951/2001" type="inclusive">undated</unitdate>
+            <container id="aspace_99ec94483d6270ca1db2031fe1f2f1a4" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_40c95a5296728db5cd9ee2a7258ec629" parent="aspace_99ec94483d6270ca1db2031fe1f2f1a4" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>CENP: meetings, committee work, and related materials</unittitle>
+            <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+            <container id="aspace_b6f1a90fc1a4967252eef1867057a8f8" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_f71c9a7a926a81fae3a3a8276860106d" parent="aspace_b6f1a90fc1a4967252eef1867057a8f8" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>CENP: Newsletters</unittitle>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_48a13267370d75cc43e08b12c6d351f8" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_6221fd4dba8d0865efb43c12a655935c" parent="aspace_48a13267370d75cc43e08b12c6d351f8" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>CENP: resolution presented by Charles Gordone (Chair) at Equity Membership Meeting</unittitle>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_a779eee14734348c06e4adf0cff99694" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_e31270632f893e11c0efa7480ddc405e" parent="aspace_a779eee14734348c06e4adf0cff99694" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Negro American Labor Council (NALC): materials, notes, clippings</unittitle>
+            <unitdate normal="1961/1963" type="inclusive">1961-1963</unitdate>
+            <container id="aspace_bd9dae839004eb997563e2204fdd07c5" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_ee17e1685651599f46d40c5b6b7dd085" parent="aspace_bd9dae839004eb997563e2204fdd07c5" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Notes, letters, and manuscript re: <title render="italic">Report on Blacklisting</title>by John Cogley [1956]</unittitle>
+            <unitdate normal="1951/2001" type="inclusive">undated</unitdate>
+            <container id="aspace_6571b2d64e05cb6bb95e8f2abefad584" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_70a8bba6116994eed6e147bfd6ba32d4" parent="aspace_6571b2d64e05cb6bb95e8f2abefad584" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle><title render="italic">Poem for Adults</title>by Adam Wazyk</unittitle>
+            <unitdate normal="1951/2001" type="inclusive">undated</unitdate>
+            <container id="aspace_959bfd9b55c4255aebf4a189de17a9da" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_c096c06d0a2632016c657bbf64565afe" parent="aspace_959bfd9b55c4255aebf4a189de17a9da" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Resume</unittitle>
+            <unitdate normal="1951/2001" type="inclusive">undated</unitdate>
+            <container id="aspace_c532409bb13a43ee321b0f4d219aba18" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_07b651cbc3633c876d0740e1941f2802" parent="aspace_c532409bb13a43ee321b0f4d219aba18" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Screen Actors Guild (SAG)</unittitle>
+            <unitdate normal="1950/1959" type="inclusive">1950s</unitdate>
+            <container id="aspace_f8194c589c48f18fb8df0fbb39272b18" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_3c851b404416bb985a382f39dfb29300" parent="aspace_f8194c589c48f18fb8df0fbb39272b18" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Screen Actors Guild (SAG)</unittitle>
+            <unitdate normal="1960/1979" type="inclusive">1960s-1970s</unitdate>
+            <container id="aspace_c5b55d8cc38005c6b0b86c63ac13db86" label="Mixed Materials [31142045505537]" type="box">3</container>
+            <container id="aspace_514b2cddae7bfdf3c713be48e7685d4a" parent="aspace_c5b55d8cc38005c6b0b86c63ac13db86" type="folder">29</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

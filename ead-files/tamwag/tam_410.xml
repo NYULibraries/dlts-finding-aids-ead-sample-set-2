@@ -1,61 +1,311 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>tam_410</eadid><filedesc><titlestmt><titleproper>Audley Moore: FOIA File (United States Federal Bureau of Investigation) <num>TAM.410</num></titleproper><author>Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>11/22/2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:52:25 -0500</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Audley Moore: FOIA File (United States Federal Bureau of Investigation)</unittitle>
-    <origination label="Creator">
-      <corpname rules="aacr" source="naf">United States. Federal Bureau of Investigation</corpname>
-    </origination>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid>tam_410</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Audley Moore: FOIA File (United States Federal Bureau of Investigation) <num>TAM.410</num></titleproper>
+        <author>Tamiment staff</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>11/22/2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:52:25 -0500</date>.</creation>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Audley Moore: FOIA File (United States Federal Bureau of Investigation)</unittitle>
+      <origination label="Creator">
+        <corpname rules="aacr" source="naf">United States. Federal Bureau of Investigation</corpname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Pinto, Earl</persname>
+      </origination>
+      <unitid>TAM.410</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+        <extent altrender="carrier">(1 box)</extent>
+      </physdesc>
+      <unitdate normal="1940/1969" type="inclusive">1940s-1960s, undated</unitdate>
+      <abstract id="aspace_c7207388bdaa04cf595b2127973c6935">Audley (Queen Mother) Moore was an African American black nationalist and communist. In the 1920s she was active in Marcus Garvey's Universal Negro Improvement Association in New York City. In 1936 she joined the Communist Party, becoming secretary of its Harlem section in 1941, and in 1942, secretary of the New York State Party organization. She left the Party in 1950, and subsequently founded the Universal Association of Ethiopian Women, In 1959 tutored the young Malcolm X, in 1963 she established a Reparations Committee to advocate compensatory payment to descendants of slaves, and in 1968 participated in the declaration of the Republic of New Africa and initiated its statement of independence. The collection contains FBI files, and documents Audley Moore's political activity and views from the 1940s through the 1960s.</abstract>
+      <langmaterial id="aspace_86e908708ff1a9adbfbc8443e682a4b1">Materials are in English</langmaterial>
+      <container altrender="Manuscript box - Legal" id="aspace_6d4bba15f85f62adc880eebdfe9d8433" label="Mixed Materials [31142062771145]" type="box">1</container>
+    </did>
+    <accessrestrict id="aspace_9582f2ef1d305fb12af8a0948fa73a0a">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_1d258976c3a232b4af3d6f3882f1fd8c">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Earl Pinto in 2007. The accession number associated with this gift is 2007.013.</p>
+    </acqinfo>
+    <arrangement id="aspace_b919453e94e20d69ce429d288c2e1728">
+      <head>Arrangement</head>
+      <p>Organized into one series: FOIA FBI Files, which are arranged by file number.</p>
+    </arrangement>
+    <bioghist id="aspace_fea30794459a60aacc4c861520a5e1e5">
+      <head>Historical/Biographical Note</head>
+      <p>Audley (Queen Mother) Moore, an African American black nationalist and communist, was borh in 1898 in New Iberia, Louisiana, in 1891. In 1919 she joined Marcus Garvey's black nationalist movement, and in the 1920s, moved to New York City to work in Garvey's Universal Negro Improvement Association. In 1936 she joined the Communist Party, was active in its Harlem section, becoming its secretary in 1941, and in 1942, secretary of the New York State Party organization. In the late 1940s she began to assert the African American national question within the Party, and left the Party in 1950. In the 1950s she founded the Universal Association of Ethiopian Women, in 1959 tutored the young Malcolm X, in 1963 she established a Reparations Committee to advocate compensatory payment to descendants of slaves, and in 1968 participated in the declaration of the Republic of New Africa and initiated its statement of independence.</p>
+    </bioghist>
+    <relatedmaterial id="aspace_bdb0a0010420de88b331eae661d21bde">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>There are two interviews with Moore in the Tamiment Library's Oral History of the American Left collection (Oral Histories 2)</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_6a138be8f785c56e8f9ce355904b5bdd">
+      <head>Scope and Content Note</head>
+      <p>The collection contains FBI files, and documents Audley Moore's political activity and views from the 1940s through the 1960s.</p>
+    </scopecontent>
+    <userestrict id="aspace_f03061f25f72ae27e60281b9aae56cfd">
+      <head>Conditions Governing Use</head>
+      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. The Tamiment Library and Robert F. Wagner Labor Archive is not authorized to grant permission to publish or reproduce materials from this collection.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Women communists -- United States.</subject>
+      <subject source="lcsh">Communism -- New York (State).</subject>
+      <geogname source="lcsh">Harlem (New York, N.Y.)</geogname>
+      <subject source="lcsh">Reparations for historical injustices |z United States.</subject>
+      <subject source="lcsh">African American communists.</subject>
+      <subject source="lcsh">Black nationalism |z United States.</subject>
+      <persname rules="dacs" source="naf">X, Malcolm, 1925-1965</persname>
+      <persname source="naf">Moore, Audley, 1898-1997</persname>
+      <corpname source="naf">Communist Party of the United States of America (New York)</corpname>
+      <corpname source="naf">Republic of New Africa (Organization)</corpname>
+      <corpname source="local">Universal Association of Ethiopian Women</corpname>
       <persname role="dnr" rules="dacs" source="local">Pinto, Earl</persname>
-    </origination>
-    <unitid>TAM.410</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-      <extent altrender="carrier">(1 box)</extent>
-    </physdesc>
-    <unitdate normal="1940/1969" type="inclusive">1940s-1960s, undated</unitdate>
-    <abstract id="aspace_c7207388bdaa04cf595b2127973c6935">Audley (Queen Mother) Moore was an African American black nationalist and communist. In the 1920s she was active in Marcus Garvey's Universal Negro Improvement Association in New York City. In 1936 she joined the Communist Party, becoming secretary of its Harlem section in 1941, and in 1942, secretary of the New York State Party organization. She left the Party in 1950, and subsequently founded the Universal Association of Ethiopian Women, In 1959 tutored the young Malcolm X, in 1963 she established a Reparations Committee to advocate compensatory payment to descendants of slaves, and in 1968 participated in the declaration of the Republic of New Africa and initiated its statement of independence. The collection contains FBI files, and documents Audley Moore's political activity and views from the 1940s through the 1960s.</abstract>
-    <langmaterial id="aspace_86e908708ff1a9adbfbc8443e682a4b1">Materials are in English</langmaterial>
-    <container altrender="Manuscript box - Legal" id="aspace_6d4bba15f85f62adc880eebdfe9d8433" label="Mixed Materials [31142062771145]" type="box">1</container>
-  </did>
-  <accessrestrict id="aspace_9582f2ef1d305fb12af8a0948fa73a0a">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_1d258976c3a232b4af3d6f3882f1fd8c">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Earl Pinto in 2007. The accession number associated with this gift is 2007.013.</p>  </acqinfo>
-  <arrangement id="aspace_b919453e94e20d69ce429d288c2e1728">
-    <head>Arrangement</head>
-<p>Organized into one series: FOIA FBI Files, which are arranged by file number.</p>  </arrangement>
-  <bioghist id="aspace_fea30794459a60aacc4c861520a5e1e5">
-    <head>Historical/Biographical Note</head>
-<p>Audley (Queen Mother) Moore, an African American black nationalist and communist, was borh in 1898 in New Iberia, Louisiana, in 1891. In 1919 she joined Marcus Garvey's black nationalist movement, and in the 1920s, moved to New York City to work in Garvey's Universal Negro Improvement Association. In 1936 she joined the Communist Party, was active in its Harlem section, becoming its secretary in 1941, and in 1942, secretary of the New York State Party organization. In the late 1940s she began to assert the African American national question within the Party, and left the Party in 1950. In the 1950s she founded the Universal Association of Ethiopian Women, in 1959 tutored the young Malcolm X, in 1963 she established a Reparations Committee to advocate compensatory payment to descendants of slaves, and in 1968 participated in the declaration of the Republic of New Africa and initiated its statement of independence.</p>  </bioghist>
-  <relatedmaterial id="aspace_bdb0a0010420de88b331eae661d21bde">
-    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-<p>There are two interviews with Moore in the Tamiment Library's Oral History of the American Left collection (Oral Histories 2)</p>  </relatedmaterial>
-  <scopecontent id="aspace_6a138be8f785c56e8f9ce355904b5bdd">
-    <head>Scope and Content Note</head>
-<p>The collection contains FBI files, and documents Audley Moore's political activity and views from the 1940s through the 1960s.</p>  </scopecontent>
-  <userestrict id="aspace_f03061f25f72ae27e60281b9aae56cfd">
-    <head>Conditions Governing Use</head>
-<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. The Tamiment Library and Robert F. Wagner Labor Archive is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
-  <controlaccess>
-    <subject source="lcsh">Women communists -- United States.</subject>
-    <subject source="lcsh">Communism -- New York (State).</subject>
-    <geogname source="lcsh">Harlem (New York, N.Y.)</geogname>
-    <subject source="lcsh">Reparations for historical injustices |z United States.</subject>
-    <subject source="lcsh">African American communists.</subject>
-    <subject source="lcsh">Black nationalism |z United States.</subject>
-    <persname rules="dacs" source="naf">X, Malcolm, 1925-1965</persname>
-    <persname source="naf">Moore, Audley, 1898-1997</persname>
-    <corpname source="naf">Communist Party of the United States of America (New York)</corpname>
-    <corpname source="naf">Republic of New Africa (Organization)</corpname>
-    <corpname source="local">Universal Association of Ethiopian Women</corpname>
-    <persname role="dnr" rules="dacs" source="local">Pinto, Earl</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref12" level="series"><did><unittitle>FOIA FBI Files</unittitle><container altrender="Manuscript box - Legal" id="aspace_0a9fc44ccba298c84c23d515fecf150b" label="Mixed Materials [31142062771145]" type="box">1</container></did><c id="aspace_ref13" level="file"><did><unittitle>File 100-13205 A.S.</unittitle><unitdate normal="1941/1945" type="inclusive">1941-1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_2274f466b7de4bc49874f6d5cc59d98a" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_5af1bc36c9279118f7454ae8f21a2ee6" parent="aspace_2274f466b7de4bc49874f6d5cc59d98a" type="folder">1</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>File 100-13205 VCD</unittitle><unitdate normal="1944/1945" type="inclusive">1944-1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_147bdce9273ba142f69bfd46e7e54ad6" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_a1ca7caced1ffef3cd79bf2163dba6d2" parent="aspace_147bdce9273ba142f69bfd46e7e54ad6" type="folder">2</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>File 100-11631/1</unittitle><unitdate normal="1945/1945" type="inclusive">1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_75b2602386e58717f483b8827fda1226" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_439961c20cfd93182de1c5c2dba35b87" parent="aspace_75b2602386e58717f483b8827fda1226" type="folder">3</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>File 100-11631/2</unittitle><unitdate normal="1944/1945" type="inclusive">1944-1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_4cad17d251baf6d27143477046642891" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_b954d9950d164668e2fc5cfb1636596b" parent="aspace_4cad17d251baf6d27143477046642891" type="folder">4</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>File 100-17241/1</unittitle><unitdate normal="1945/1945" type="inclusive">May, 1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_5980c9e3bd318b8e214ff6811c7d4714" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_1e175418809310ccb2c68b2d2d9836ae" parent="aspace_5980c9e3bd318b8e214ff6811c7d4714" type="folder">5</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>File 100-17241/2</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_f05b15e70092ea27a66ca12683d4a75c" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_b0b974ac158cf0c7d69b2485efc15435" parent="aspace_f05b15e70092ea27a66ca12683d4a75c" type="folder">6</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>File 100-12344</unittitle><unitdate normal="1944/1944" type="inclusive">1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_47e9a6bf64ec5f2f8ed0bdc8170e4f19" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_8fb3183aa80375e23eb0a82dc48807b6" parent="aspace_47e9a6bf64ec5f2f8ed0bdc8170e4f19" type="folder">7</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>File 12344</unittitle><unitdate normal="1945/1945" type="inclusive">1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_75463b4bb7690ed794d63b20554d6923" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_7f938ca53cf5e39f9fd759444df274d9" parent="aspace_75463b4bb7690ed794d63b20554d6923" type="folder">8</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>File 100-HQ-61122: List of Files for Destruction</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_ea178294d80d8742c41651934bd5b23d" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_0b442240791ea82bb3c962449c4f990b" parent="aspace_ea178294d80d8742c41651934bd5b23d" type="folder">9</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>File 100-13205 BHB</unittitle><unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate><container altrender="Manuscript box - Legal" id="aspace_7a2a0982cefcb540cc1ede92fe70d9a5" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_7cb290c36697854322a0b2d25deff558" parent="aspace_7a2a0982cefcb540cc1ede92fe70d9a5" type="folder">10</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>File 100-13205 KOB</unittitle><unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_32c16d95d005223437c2557a873db512" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_fe96a9607b9356f9943c053214a041c2" parent="aspace_32c16d95d005223437c2557a873db512" type="folder">11</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>File 100-13205 PMC</unittitle><unitdate normal="1945/1945" type="inclusive">1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_d0fe9ab6c51919500e781d3d53ca62a1" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_ca2a25712fc9549ef1db92a3129251d4" parent="aspace_d0fe9ab6c51919500e781d3d53ca62a1" type="folder">12</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>File 100-13205 DJ</unittitle><unitdate normal="1947/1949" type="inclusive">1947-1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_e0e80b4f91e5a515943909fe8a405cc3" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_31fbbe79cedb707ff87ed9525fe5fd7a" parent="aspace_e0e80b4f91e5a515943909fe8a405cc3" type="folder">13</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>File 100-13205 MLV</unittitle><unitdate normal="1947/1949" type="inclusive">1947-1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_bf74db32a305d2e46d93f145dfccf841" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_1bb4038f9e92acacbb1a0ded7aceed10" parent="aspace_bf74db32a305d2e46d93f145dfccf841" type="folder">14</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>File 100-13205 NHK/1-2</unittitle><unitdate normal="1950/1950" type="inclusive">1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_0eb84365a7ac29439d2d8bfce6d5df96" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_9f5902e635576fedacfb62dab1f1d721" parent="aspace_0eb84365a7ac29439d2d8bfce6d5df96" type="folder">15</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>File 100-12069/1</unittitle><unitdate normal="1950/1950" type="inclusive">1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_60c9713d3244930f1329a5ee79a4a8e2" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_6b12a5771cf1c1a9dc805b4db5c50e28" parent="aspace_60c9713d3244930f1329a5ee79a4a8e2" type="folder">16</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>File 100-12069/2</unittitle><unitdate normal="1955/1955" type="inclusive">1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_0e84446b062dff7878c063d70e10660f" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_c9aaf968ed021e6082ac061281c2b86d" parent="aspace_0e84446b062dff7878c063d70e10660f" type="folder">17</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>File 100-13205 LEJ</unittitle><unitdate normal="1951/1953" type="inclusive">1951-1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_1e101cc09e01b14e9dab5e6e9c1df846" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_4d905107745bb65e675e2990e7479e12" parent="aspace_1e101cc09e01b14e9dab5e6e9c1df846" type="folder">18</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>File 100-13205 AJW</unittitle><unitdate normal="1953/1955" type="inclusive">1953-1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_2255820b1469bfc52bf93b32890965e4" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_123cc831f820bde76b97093447ab9e35" parent="aspace_2255820b1469bfc52bf93b32890965e4" type="folder">19</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>File 100-3751/1-2-3</unittitle><unitdate normal="1956/1958" type="inclusive">1958, 1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_e698a76eb11c556fbb236b397f8f4f49" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_45bf884fb600ddd014196dd5216569bc" parent="aspace_e698a76eb11c556fbb236b397f8f4f49" type="folder">20</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>File 100-3751/4</unittitle><unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_35d0974e1f9ebabe5c7acec6287891ca" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_219624b2d7051894fe14494acd1e358c" parent="aspace_35d0974e1f9ebabe5c7acec6287891ca" type="folder">21</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>File 100-46185</unittitle><unitdate normal="1962/1965" type="inclusive">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_b50fa1a2767a90e02597f02063c5a325" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_b5e5544ddb29d99f810c5a35b24c1ef7" parent="aspace_b50fa1a2767a90e02597f02063c5a325" type="folder">22</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>File: Unnumbered A</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e984a7bae6c4647948048d893adbe3f6" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_4b77bc1c65b0cf2d069a737f35f0283e" parent="aspace_e984a7bae6c4647948048d893adbe3f6" type="folder">23</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>File: Unnumbered B</unittitle><unitdate normal="1958/1960" type="inclusive">1958-1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_5dd57b46a74dd026e548f530c9716da1" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_44f28e0f7f80c9d60434a2bcfef2fb16" parent="aspace_5dd57b46a74dd026e548f530c9716da1" type="folder">24</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>File: Unnumbered C</unittitle><unitdate normal="1967/1968" type="inclusive">1967-1968</unitdate><container altrender="Manuscript box - Legal" id="aspace_5744a3949fcce575bd25af630d080b1e" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_b7e321e43468e1541a31de127d1aeba0" parent="aspace_5744a3949fcce575bd25af630d080b1e" type="folder">25</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>File: Unnumbered D</unittitle><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_e660f73ca62c58020faf0e0367119e37" label="Mixed Materials [31142062771145]" type="box">1</container><container id="aspace_e272a1aee4b44890efa9a76a32f07bec" parent="aspace_e660f73ca62c58020faf0e0367119e37" type="folder">26</container></did></c></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref12" level="series">
+        <did>
+          <unittitle>FOIA FBI Files</unittitle>
+          <container altrender="Manuscript box - Legal" id="aspace_0a9fc44ccba298c84c23d515fecf150b" label="Mixed Materials [31142062771145]" type="box">1</container>
+        </did>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>File 100-13205 A.S.</unittitle>
+            <unitdate normal="1941/1945" type="inclusive">1941-1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2274f466b7de4bc49874f6d5cc59d98a" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_5af1bc36c9279118f7454ae8f21a2ee6" parent="aspace_2274f466b7de4bc49874f6d5cc59d98a" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>File 100-13205 VCD</unittitle>
+            <unitdate normal="1944/1945" type="inclusive">1944-1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_147bdce9273ba142f69bfd46e7e54ad6" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_a1ca7caced1ffef3cd79bf2163dba6d2" parent="aspace_147bdce9273ba142f69bfd46e7e54ad6" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>File 100-11631/1</unittitle>
+            <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_75b2602386e58717f483b8827fda1226" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_439961c20cfd93182de1c5c2dba35b87" parent="aspace_75b2602386e58717f483b8827fda1226" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>File 100-11631/2</unittitle>
+            <unitdate normal="1944/1945" type="inclusive">1944-1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4cad17d251baf6d27143477046642891" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_b954d9950d164668e2fc5cfb1636596b" parent="aspace_4cad17d251baf6d27143477046642891" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>File 100-17241/1</unittitle>
+            <unitdate normal="1945/1945" type="inclusive">May, 1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5980c9e3bd318b8e214ff6811c7d4714" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_1e175418809310ccb2c68b2d2d9836ae" parent="aspace_5980c9e3bd318b8e214ff6811c7d4714" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>File 100-17241/2</unittitle>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f05b15e70092ea27a66ca12683d4a75c" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_b0b974ac158cf0c7d69b2485efc15435" parent="aspace_f05b15e70092ea27a66ca12683d4a75c" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>File 100-12344</unittitle>
+            <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_47e9a6bf64ec5f2f8ed0bdc8170e4f19" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_8fb3183aa80375e23eb0a82dc48807b6" parent="aspace_47e9a6bf64ec5f2f8ed0bdc8170e4f19" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>File 12344</unittitle>
+            <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_75463b4bb7690ed794d63b20554d6923" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_7f938ca53cf5e39f9fd759444df274d9" parent="aspace_75463b4bb7690ed794d63b20554d6923" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>File 100-HQ-61122: List of Files for Destruction</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ea178294d80d8742c41651934bd5b23d" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_0b442240791ea82bb3c962449c4f990b" parent="aspace_ea178294d80d8742c41651934bd5b23d" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>File 100-13205 BHB</unittitle>
+            <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7a2a0982cefcb540cc1ede92fe70d9a5" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_7cb290c36697854322a0b2d25deff558" parent="aspace_7a2a0982cefcb540cc1ede92fe70d9a5" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>File 100-13205 KOB</unittitle>
+            <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_32c16d95d005223437c2557a873db512" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_fe96a9607b9356f9943c053214a041c2" parent="aspace_32c16d95d005223437c2557a873db512" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>File 100-13205 PMC</unittitle>
+            <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d0fe9ab6c51919500e781d3d53ca62a1" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_ca2a25712fc9549ef1db92a3129251d4" parent="aspace_d0fe9ab6c51919500e781d3d53ca62a1" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>File 100-13205 DJ</unittitle>
+            <unitdate normal="1947/1949" type="inclusive">1947-1949</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e0e80b4f91e5a515943909fe8a405cc3" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_31fbbe79cedb707ff87ed9525fe5fd7a" parent="aspace_e0e80b4f91e5a515943909fe8a405cc3" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>File 100-13205 MLV</unittitle>
+            <unitdate normal="1947/1949" type="inclusive">1947-1949</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bf74db32a305d2e46d93f145dfccf841" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_1bb4038f9e92acacbb1a0ded7aceed10" parent="aspace_bf74db32a305d2e46d93f145dfccf841" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>File 100-13205 NHK/1-2</unittitle>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0eb84365a7ac29439d2d8bfce6d5df96" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_9f5902e635576fedacfb62dab1f1d721" parent="aspace_0eb84365a7ac29439d2d8bfce6d5df96" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>File 100-12069/1</unittitle>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_60c9713d3244930f1329a5ee79a4a8e2" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_6b12a5771cf1c1a9dc805b4db5c50e28" parent="aspace_60c9713d3244930f1329a5ee79a4a8e2" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>File 100-12069/2</unittitle>
+            <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0e84446b062dff7878c063d70e10660f" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_c9aaf968ed021e6082ac061281c2b86d" parent="aspace_0e84446b062dff7878c063d70e10660f" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>File 100-13205 LEJ</unittitle>
+            <unitdate normal="1951/1953" type="inclusive">1951-1953</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1e101cc09e01b14e9dab5e6e9c1df846" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_4d905107745bb65e675e2990e7479e12" parent="aspace_1e101cc09e01b14e9dab5e6e9c1df846" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>File 100-13205 AJW</unittitle>
+            <unitdate normal="1953/1955" type="inclusive">1953-1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2255820b1469bfc52bf93b32890965e4" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_123cc831f820bde76b97093447ab9e35" parent="aspace_2255820b1469bfc52bf93b32890965e4" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>File 100-3751/1-2-3</unittitle>
+            <unitdate normal="1956/1958" type="inclusive">1958, 1958</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e698a76eb11c556fbb236b397f8f4f49" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_45bf884fb600ddd014196dd5216569bc" parent="aspace_e698a76eb11c556fbb236b397f8f4f49" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>File 100-3751/4</unittitle>
+            <unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_35d0974e1f9ebabe5c7acec6287891ca" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_219624b2d7051894fe14494acd1e358c" parent="aspace_35d0974e1f9ebabe5c7acec6287891ca" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>File 100-46185</unittitle>
+            <unitdate normal="1962/1965" type="inclusive">1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b50fa1a2767a90e02597f02063c5a325" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_b5e5544ddb29d99f810c5a35b24c1ef7" parent="aspace_b50fa1a2767a90e02597f02063c5a325" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>File: Unnumbered A</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e984a7bae6c4647948048d893adbe3f6" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_4b77bc1c65b0cf2d069a737f35f0283e" parent="aspace_e984a7bae6c4647948048d893adbe3f6" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>File: Unnumbered B</unittitle>
+            <unitdate normal="1958/1960" type="inclusive">1958-1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5dd57b46a74dd026e548f530c9716da1" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_44f28e0f7f80c9d60434a2bcfef2fb16" parent="aspace_5dd57b46a74dd026e548f530c9716da1" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>File: Unnumbered C</unittitle>
+            <unitdate normal="1967/1968" type="inclusive">1967-1968</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5744a3949fcce575bd25af630d080b1e" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_b7e321e43468e1541a31de127d1aeba0" parent="aspace_5744a3949fcce575bd25af630d080b1e" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>File: Unnumbered D</unittitle>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e660f73ca62c58020faf0e0367119e37" label="Mixed Materials [31142062771145]" type="box">1</container>
+            <container id="aspace_e272a1aee4b44890efa9a76a32f07bec" parent="aspace_e660f73ca62c58020faf0e0367119e37" type="folder">26</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

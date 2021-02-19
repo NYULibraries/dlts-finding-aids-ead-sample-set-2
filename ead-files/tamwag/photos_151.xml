@@ -1,64 +1,398 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/photos_151/">photos_151</eadid><filedesc><titlestmt><titleproper>Guide to the United Food and Commercial Workers International Union Photographs and Other Material <num>PHOTOS.151</num></titleproper><author>Hanan Ohayon</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>August 23, 2013</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:42:33 -0500</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>United Food and Commercial Workers International Union Photographs and Other Material</unittitle>
-    <origination label="Creator">
-      <corpname source="naf">United Food and Commercial Workers International Union</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">Retail Clerks International Association. Local 1111</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">United Food and Commercial Workers International Union. Local 1245</corpname>
-    </origination>
-    <unitid>PHOTOS.151</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
-      <extent altrender="carrier">in 1 oversize flat box, 1 manuscript box and 1 folder.</extent>
-    </physdesc>
-    <unitdate normal="1938/1986" type="inclusive">circa 1938-1986</unitdate>
-    <abstract id="aspace_f792c61b36236bb47cdda16fdfd3845e">The United Food and Commercial Workers International Union (UFCW) was created through the merger of the Amalgamated Meat Cutters Union and the Retail Clerks International Union following its founding convention in June 1979. The collection consists of photographs and other material documenting the activities of two locals, the Retail Clerks International Association, Local 1111 and the United Food and Commercial Workers International Union, Local 1245, that belong to the United Food and Commercial Workers International Union (UFCW) and/or its predecessors, including the Retail Clerks International Association (RCIA).</abstract>
-    <langmaterial id="aspace_1679c291a28b0dff8352383a84fef629">Materials are in English</langmaterial>
-  </did>
-  <prefercite id="aspace_93b1a66491bade00537a75e7d9891261">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; United Food and Commercial Workers International Union Photographs and Other Material; PHOTOS 151; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <userestrict id="aspace_9cd809223431aaf8d908ffeefd1b86db">
-    <head>Conditions Governing Use</head>
-<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Tamiment Library and Robert F. Wagner Archives is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
-  <accessrestrict id="aspace_ba8a5f77db1eed0f014c667702ec8750">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <scopecontent id="aspace_5ea18b532f049c19fe6ba980eb07f8ac">
-    <head>Scope and Content Note</head>
-<p>The collection consists of photographs and other material documenting the activities of two locals, the Retail Clerks International Association, Local 1111 and the United Food and Commercial Workers International Union, Local 1245, that belong to the United Food and Commercial Workers International Union (UFCW) and/or its predecessors, including the Retail Clerks International Association (RCIA).</p>  </scopecontent>
-  <separatedmaterial id="aspace_827f1826bfcaae36b3bda52e1e35bbb1">
-    <head>Separated Materials</head>
-<p>One AFL-CIO-CLC-UFCW button from October 1984 (probably from the United Federation of Food and Commercial Workers Annual Convention), has been removed and placed with the Tamiment/Wagner Button Collection (BUTTONS 001).</p>  </separatedmaterial>
-  <acqinfo id="aspace_be182c761be598623e5b2a3aa6310a9d">
-    <head>Immediate Source of Acquisition</head>
-<p>Provenance unknown but we have reason to believe that materials in Series I: United Food and Commercial Workers International Union, Local 1245 were donated by the United Federation of Food and Commercial Workers International Union, Local 1245. The accession numbers associated with the collection are 1986.004, NPA.2000.282, NPA.2005.057, and NPA.2007.024.</p>  </acqinfo>
-  <arrangement id="aspace_fa6c2674729218692ea3299d65e6aef2">
-    <head>Arrangement</head>
-<p>The records are arranged in three series, as follows:<lb/>  
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/photos_151/">photos_151</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the United Food and Commercial Workers International Union Photographs and Other Material <num>PHOTOS.151</num></titleproper>
+        <author>Hanan Ohayon</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>August 23, 2013</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:42:33 -0500</date>.</creation>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>United Food and Commercial Workers International Union Photographs and Other Material</unittitle>
+      <origination label="Creator">
+        <corpname source="naf">United Food and Commercial Workers International Union</corpname>
+      </origination>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">Retail Clerks International Association. Local 1111</corpname>
+      </origination>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">United Food and Commercial Workers International Union. Local 1245</corpname>
+      </origination>
+      <unitid>PHOTOS.151</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+        <extent altrender="carrier">in 1 oversize flat box, 1 manuscript box and 1 folder.</extent>
+      </physdesc>
+      <unitdate normal="1938/1986" type="inclusive">circa 1938-1986</unitdate>
+      <abstract id="aspace_f792c61b36236bb47cdda16fdfd3845e">The United Food and Commercial Workers International Union (UFCW) was created through the merger of the Amalgamated Meat Cutters Union and the Retail Clerks International Union following its founding convention in June 1979. The collection consists of photographs and other material documenting the activities of two locals, the Retail Clerks International Association, Local 1111 and the United Food and Commercial Workers International Union, Local 1245, that belong to the United Food and Commercial Workers International Union (UFCW) and/or its predecessors, including the Retail Clerks International Association (RCIA).</abstract>
+      <langmaterial id="aspace_1679c291a28b0dff8352383a84fef629">Materials are in English</langmaterial>
+    </did>
+    <prefercite id="aspace_93b1a66491bade00537a75e7d9891261">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; United Food and Commercial Workers International Union Photographs and Other Material; PHOTOS 151; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <userestrict id="aspace_9cd809223431aaf8d908ffeefd1b86db">
+      <head>Conditions Governing Use</head>
+      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Tamiment Library and Robert F. Wagner Archives is not authorized to grant permission to publish or reproduce materials from this collection.</p>
+    </userestrict>
+    <accessrestrict id="aspace_ba8a5f77db1eed0f014c667702ec8750">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <scopecontent id="aspace_5ea18b532f049c19fe6ba980eb07f8ac">
+      <head>Scope and Content Note</head>
+      <p>The collection consists of photographs and other material documenting the activities of two locals, the Retail Clerks International Association, Local 1111 and the United Food and Commercial Workers International Union, Local 1245, that belong to the United Food and Commercial Workers International Union (UFCW) and/or its predecessors, including the Retail Clerks International Association (RCIA).</p>
+    </scopecontent>
+    <separatedmaterial id="aspace_827f1826bfcaae36b3bda52e1e35bbb1">
+      <head>Separated Materials</head>
+      <p>One AFL-CIO-CLC-UFCW button from October 1984 (probably from the United Federation of Food and Commercial Workers Annual Convention), has been removed and placed with the Tamiment/Wagner Button Collection (BUTTONS 001).</p>
+    </separatedmaterial>
+    <acqinfo id="aspace_be182c761be598623e5b2a3aa6310a9d">
+      <head>Immediate Source of Acquisition</head>
+      <p>Provenance unknown but we have reason to believe that materials in Series I: United Food and Commercial Workers International Union, Local 1245 were donated by the United Federation of Food and Commercial Workers International Union, Local 1245. The accession numbers associated with the collection are 1986.004, NPA.2000.282, NPA.2005.057, and NPA.2007.024.</p>
+    </acqinfo>
+    <arrangement id="aspace_fa6c2674729218692ea3299d65e6aef2">
+      <head>Arrangement</head>
+      <p>The records are arranged in three series, as follows:<lb/>  
 <lb/> 
 Series I: United Food and Commercial Workers International Union, Local 1245<lb/> 
 Series II: Retail Clerks International Association, Local 1111<lb/> 
-Series III: Oversize Convention Photographs</p>  </arrangement>
-  <bioghist id="aspace_5c86749ca187cd16029bb3d074875252">
-    <head>Historical/Biographical Note</head>
-<p>The United Food and Commercial Workers International Union (UFCW) was created through the merger of the Amalgamated Meat Cutters Union and the Retail Clerks International Union following its founding convention in June 1979. William H. Wynn, president of the Retail Clerks International Union and one of the designers of the merger, became president of UFCW at the time of its founding. The merger created the largest union affiliated with the AFL-CIO. In 1983, the UFCW held its first regular convention in Montreal, Quebec, Canada. In 1984 and 1985 the UFCW pursued aggressive campaigns and organized 136,000 workers. In 1994 longtime UFCW staff member and organizer Douglas H. Dority was elected the second International Union President following the retirement of Wynn.</p>  </bioghist>
-  <controlaccess>
-    <subject source="lcsh">Clerks (Retail trade) |x Labor unions.</subject>
-    <subject source="lcsh">Food industry and trade |x Employees.</subject>
-    <subject source="lcsh">Food Industry and Trade |x Employees |x Labor Unions</subject>
-    <corpname source="naf">United Food and Commercial Workers International Union</corpname>
-    <corpname rules="dacs" source="local">Retail Clerks International Association. Local 1111</corpname>
-    <corpname rules="dacs" source="local">United Food and Commercial Workers International Union. Local 1245</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref44" level="series"><did><unittitle>United Food and Commercial Workers International Union, Local 1245</unittitle></did><scopecontent id="aspace_2766ed7f921647676b7000ca46aa76b9"><head>Scope and Content Note</head><p>Series consists of over 120 black-and-white photographs, 6 color photographs, 14 contact sheets, and 5 strips of 35mm negatives that document the history of the United Food and Commercial Workers International Union, Local 1245 between circa 1964 to 1986. The photographs include individual and group portraits of union leadership and staff, including Local 1245 president Frank DeVito, UFCW president William H. Wynn, and future UFCW president Doug Dority; event photographs; and documentary-style photographs taken for Local 1245's newsletter, <emph render="italic">1245 News</emph>. Also includes a small amount of printed materials, including press releases, legal documents, clippings and ephemera.</p></scopecontent><bioghist id="aspace_7f4589e903bebf7d80f436ed9e773e4d"><head>Historical/Biographical Note</head><p>The United Food and Commercial Workers International Union, Local 1245 is based in Northern New Jersey and represents workers in the supermarket industry and other smaller industries. During the 1960s and 1970s the union, formerly the Retail Clerks International Association Local 1245 (AFL-CIO), was led by president Frank DeVito and membership included supermarket workers in North Jersey, Hockland County, Staten Island, New York City and Long Island.</p></bioghist><c id="aspace_ref1" level="file"><did><unittitle>"1245 News Year 1972"</unittitle><unitdate>1972</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_8712893d25a8da536bddc3ad8242e5d9" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_87c9efe0c524b1a828a5504d0cc878d2" parent="aspace_8712893d25a8da536bddc3ad8242e5d9" type="folder">1</container></did></c><c id="aspace_ref2" level="file"><did><unittitle>Acme Markets Pamphlet</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_24b28d63d777d41c74402533a8ebc274" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_b66f510ab5b97e9adb3ae11a08f2b0e9" parent="aspace_24b28d63d777d41c74402533a8ebc274" type="folder">2</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>Business Representative, James McMullen Stops at Stop &amp; Shop #381 in Paramus, N.J.</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_babb67dec443ff8578fcbff0f10d0378" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_f9812dd1f5d210872c39f3f80098ccf2" parent="aspace_babb67dec443ff8578fcbff0f10d0378" type="folder">3</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Charge Against Local 1245 Retail Clerks Union</unittitle><unitdate>Feb 1979</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_bdb0fb889947d53a78056f5cff73e425" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_e467c5d35bed915ee07800d93c9bfdcf" parent="aspace_bdb0fb889947d53a78056f5cff73e425" type="folder">4</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Clippings</unittitle><unitdate>Feb 1964-Apr 1964</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_94a358611506dfd0265ba6a425f61baf" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_ce006471c13380232b3fa252c8ac7e3a" parent="aspace_94a358611506dfd0265ba6a425f61baf" type="folder">5</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Constitution Committee </unittitle><unitdate>Aug 1972</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_e03adf7072fbf5904e436c6678b5d8aa" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_56c89debf659cbb00fcc75b7fddcc233" parent="aspace_e03adf7072fbf5904e436c6678b5d8aa" type="folder">6</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Contact Sheets</unittitle><unitdate>1980, undated</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_e6e66b90d37c8c159961f7e48ddc18a5" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_b1377350f1bd68e57366c6ddbddf667d" parent="aspace_e6e66b90d37c8c159961f7e48ddc18a5" type="folder">7</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>DeVito, Frank</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_7d00094b40b1a6396f1e03e6c7a7265f" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_1845193aae5d10cf2c234f1cb8837754" parent="aspace_7d00094b40b1a6396f1e03e6c7a7265f" type="folder">8</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Frank Devito: Portrait</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_0ce9491ad543ba5e4f074f0f7c603c71" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_6da10c9d3e17e74680618d246fae7845" parent="aspace_0ce9491ad543ba5e4f074f0f7c603c71" type="folder">9</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Devito, Frank: Speaking</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_4c3d58662c553a4e3e0bcf4a44f41919" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_51e0b8a18aa195d5957bdac7eaf6351f" parent="aspace_4c3d58662c553a4e3e0bcf4a44f41919" type="folder">10</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Dority, Doug: Speaking</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_d47fcabff9dabbff18f15d6b998d1907" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_f065c1dcf707c7bb0659ebb170454dd9" parent="aspace_d47fcabff9dabbff18f15d6b998d1907" type="folder">11</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Negatives</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_5509b0d14585c4680db29c26580c4911" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_1dce59f8a3f1c2f47af2db21a282ce9f" parent="aspace_5509b0d14585c4680db29c26580c4911" type="folder">12</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>"Old Pictures for May 1986 Issue of 1245 News"</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_64dc120887254ec0e436c5ccb5b49c01" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_273cb2e5346b3aff8285a003065d3b79" parent="aspace_64dc120887254ec0e436c5ccb5b49c01" type="folder">13</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Portraits: Group</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_1aee233dff9ca507d715cd28c10adef8" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_b3480d9feea96b268c49272f9d310304" parent="aspace_1aee233dff9ca507d715cd28c10adef8" type="folder">14</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Portraits: Individual</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_4580a4937b0890642fc1ebd892f6384e" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_058677bc742e66fe831681ee0a96a9b7" parent="aspace_4580a4937b0890642fc1ebd892f6384e" type="folder">15</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Press Releases</unittitle><unitdate>1965-1966</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_f378ae60c4d26eec5584d8ecaf1da364" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_efcede2a3e79132ddd522130c333b726" parent="aspace_f378ae60c4d26eec5584d8ecaf1da364" type="folder">16</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Speakers</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_92c367a0f640474417b94255599f6a41" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_6f29b722ba3634bfec156cfbf4f4e498" parent="aspace_92c367a0f640474417b94255599f6a41" type="folder">17</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>UFCW1245: ACME Markets Affidavit</unittitle><unitdate>circa 1970s</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_908fc87744e2cb00bdd62fe989d8fae1" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_109f8fc8f986396caead30a00eeff116" parent="aspace_908fc87744e2cb00bdd62fe989d8fae1" type="folder">18</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>UFCW Annual Convention</unittitle><unitdate>1984</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_abf21c170b9b7c26437b27fb3c55e133" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_a9774004031714b8829bf1eef7730285" parent="aspace_abf21c170b9b7c26437b27fb3c55e133" type="folder">19</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Wagner Archive Exhibit: UFCW 1245 (September 1989)</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_5d6f8498ccda64531a72e2477c34e0b7" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_250d94883af5680795fe66d45767d30e" parent="aspace_5d6f8498ccda64531a72e2477c34e0b7" type="folder">20</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Miscellaneous Photos</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_c436437fc2eed03c547e3132f882efe1" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_1aee68d5d93a4c2fc886ec58edba25ba" parent="aspace_c436437fc2eed03c547e3132f882efe1" type="folder">21</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Unspecified Events</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_232ecf62f8618da4fdf60587f154d51e" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_55bbc5f93470c255c44659bad083f05c" parent="aspace_232ecf62f8618da4fdf60587f154d51e" type="folder">22</container></did></c></c><c id="aspace_ref45" level="series"><did><unittitle>Retail Clerks International Association, Local 1111</unittitle></did><scopecontent id="aspace_90544bda34c651a6938d51e4e015d581"><head>Scope and Content Note</head><p>The series consists of approximately 150 black-and-white photographs, and related ephemera, that document the history of Retail Clerks International Association, Local 1111 including conferences, receptions, meetings, rallies, portraits, and the opening of a Pilot Medical Center in June 1958. A small amount of ephemera includes a 1939 souvenir program from the Retail Bakery Clerks Union Local 1111, and certificates. Materials date from the late-1930s to the late-1970s.</p></scopecontent><bioghist id="aspace_fcb4ed86e077a9e8753f96664ef5a421"><head>Historical/Biographical Note</head><p>The Retail Clerks International Association, Local 1111, formerly the Retail Bakery Clerks union, Local 1111, began in 1935 and was led in its early years by Abe Moglin, president Al Kugler, and Secretary Treasurer Lillian Hecht.</p></bioghist><c id="aspace_ref39" level="file"><did><unittitle>[Retail Clerks International Association Local 1111] [Includes Souvenir Program]</unittitle><unitdate>circa 1939, 1963-1972</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_40764bc9ac9c76c3810e62aa5b312a7e" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_a390501c381cbcf3dfec3a6ba89a582a" parent="aspace_40764bc9ac9c76c3810e62aa5b312a7e" type="folder">23</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Retail Clerks International Association</unittitle><unitdate>Apr 1950, 1965, undated</unitdate><container altrender="Flat OS Box 17" id="aspace_0152b0655ac43849f0d97eb73aeaac46" label="Mixed Materials [31142062759793]" type="box">OS002</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Retail Clerks International Association Local 1111 [1 of 4]</unittitle><unitdate>1958, undated</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_aec59fcdcdff2c04b1d798bc8a1a16c8" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_caa49a29841224c4087a18be33c2eebe" parent="aspace_aec59fcdcdff2c04b1d798bc8a1a16c8" type="folder">24</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Retail Clerks International Association Local 1111 [2 of 4]</unittitle><unitdate>circa 1950-1979</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_d471631fe2dd2e5efc53ceb76d684ddc" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_d6aa3b8ab73446ec613abebce6caf676" parent="aspace_d471631fe2dd2e5efc53ceb76d684ddc" type="folder">25</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Retail Clerks International Association Local 1111 [Includes Letter from White House] [3 of 4]</unittitle><unitdate>circa 1960-1969</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_c8aa29a43aeab4058ea05c1518d2a222" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_ca6710ebd95b4b6bfa827b76c37d119c" parent="aspace_c8aa29a43aeab4058ea05c1518d2a222" type="folder">26</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Retail Clerks International Association Local 1111 [Includes 3 Certificates] [4 of 4]</unittitle><unitdate>circa 1950-1969</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_202fe5e1fbccf624144060c73f479dfb" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_6c697bcd2740f518ad58c8d754d3e6f9" parent="aspace_202fe5e1fbccf624144060c73f479dfb" type="folder">27</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>RCIA 1111 </unittitle><unitdate>circa 1939, 1960-1969</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_18b3b1ec71175b5bd667ff08f9fa2569" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_df3955154e8ee23d904502fb83b3fd10" parent="aspace_18b3b1ec71175b5bd667ff08f9fa2569" type="folder">28</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>RCIA 1111 - Abe Moglin</unittitle><unitdate>Mar 5, 1938</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_4c58e2573688768ec17b2b4471693bdb" label="Mixed Materials [31142062764256]" type="box">1</container><container id="aspace_4e84351d131d14f517a2b6f107831afc" parent="aspace_4c58e2573688768ec17b2b4471693bdb" type="folder">29</container></did></c></c><c id="aspace_ref51" level="series"><did><unittitle>Oversize Convention Photographs</unittitle><unitdate>1968, undated</unitdate></did><scopecontent id="aspace_44eaa0b35f079f8d8b13c8a22a403311"><head>Scope and Content Note</head><p>This series consists of two panoramic group photographs, from the RCIA Inaugural, dated September 28, 1968, and from a UFCW convention, possibly in the late-1980s or 1990s.</p></scopecontent><c id="aspace_ref53" level="file"><did><unittitle>RCIA and UFCW Convention Photographs</unittitle><unitdate>1968, undated</unitdate><container id="aspace_68fcc92c883817c02cdcac3f6896937f" label="photographs" type="flat-file">7</container><container id="aspace_2549aed53a18a7790d05444eeac3940f" parent="aspace_68fcc92c883817c02cdcac3f6896937f" type="drawer">15</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Convention Photograph Mounted on Wood</unittitle><unitdate>undated</unitdate><container altrender="Hollinger Flat OS 13.5" id="aspace_187a76cdad0b5dee09997fd801dfd467" label="Mixed Materials [31142062759389]" type="box">2</container></did></c><c id="aspace_8cdb794f7f0726a94aba8eb53ae8a0c9" level="file"><did><unittitle>Convention photos</unittitle><unitdate normal="1960/1983" type="inclusive">1960-1983</unitdate><container altrender="Flat OS Box 17" id="aspace_b07cf44ec3972d84b529f6e0a7e77177" label="Mixed Materials [31142062715415]" type="box">Shared Tamiment 032</container></did></c></c></dsc>
-</archdesc>
+Series III: Oversize Convention Photographs</p>
+    </arrangement>
+    <bioghist id="aspace_5c86749ca187cd16029bb3d074875252">
+      <head>Historical/Biographical Note</head>
+      <p>The United Food and Commercial Workers International Union (UFCW) was created through the merger of the Amalgamated Meat Cutters Union and the Retail Clerks International Union following its founding convention in June 1979. William H. Wynn, president of the Retail Clerks International Union and one of the designers of the merger, became president of UFCW at the time of its founding. The merger created the largest union affiliated with the AFL-CIO. In 1983, the UFCW held its first regular convention in Montreal, Quebec, Canada. In 1984 and 1985 the UFCW pursued aggressive campaigns and organized 136,000 workers. In 1994 longtime UFCW staff member and organizer Douglas H. Dority was elected the second International Union President following the retirement of Wynn.</p>
+    </bioghist>
+    <controlaccess>
+      <subject source="lcsh">Clerks (Retail trade) |x Labor unions.</subject>
+      <subject source="lcsh">Food industry and trade |x Employees.</subject>
+      <subject source="lcsh">Food Industry and Trade |x Employees |x Labor Unions</subject>
+      <corpname source="naf">United Food and Commercial Workers International Union</corpname>
+      <corpname rules="dacs" source="local">Retail Clerks International Association. Local 1111</corpname>
+      <corpname rules="dacs" source="local">United Food and Commercial Workers International Union. Local 1245</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref44" level="series">
+        <did>
+          <unittitle>United Food and Commercial Workers International Union, Local 1245</unittitle>
+        </did>
+        <scopecontent id="aspace_2766ed7f921647676b7000ca46aa76b9">
+          <head>Scope and Content Note</head>
+          <p>Series consists of over 120 black-and-white photographs, 6 color photographs, 14 contact sheets, and 5 strips of 35mm negatives that document the history of the United Food and Commercial Workers International Union, Local 1245 between circa 1964 to 1986. The photographs include individual and group portraits of union leadership and staff, including Local 1245 president Frank DeVito, UFCW president William H. Wynn, and future UFCW president Doug Dority; event photographs; and documentary-style photographs taken for Local 1245's newsletter, <emph render="italic">1245 News</emph>. Also includes a small amount of printed materials, including press releases, legal documents, clippings and ephemera.</p>
+        </scopecontent>
+        <bioghist id="aspace_7f4589e903bebf7d80f436ed9e773e4d">
+          <head>Historical/Biographical Note</head>
+          <p>The United Food and Commercial Workers International Union, Local 1245 is based in Northern New Jersey and represents workers in the supermarket industry and other smaller industries. During the 1960s and 1970s the union, formerly the Retail Clerks International Association Local 1245 (AFL-CIO), was led by president Frank DeVito and membership included supermarket workers in North Jersey, Hockland County, Staten Island, New York City and Long Island.</p>
+        </bioghist>
+        <c id="aspace_ref1" level="file">
+          <did>
+            <unittitle>"1245 News Year 1972"</unittitle>
+            <unitdate>1972</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_8712893d25a8da536bddc3ad8242e5d9" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_87c9efe0c524b1a828a5504d0cc878d2" parent="aspace_8712893d25a8da536bddc3ad8242e5d9" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref2" level="file">
+          <did>
+            <unittitle>Acme Markets Pamphlet</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_24b28d63d777d41c74402533a8ebc274" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_b66f510ab5b97e9adb3ae11a08f2b0e9" parent="aspace_24b28d63d777d41c74402533a8ebc274" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref3" level="file">
+          <did>
+            <unittitle>Business Representative, James McMullen Stops at Stop &amp; Shop #381 in Paramus, N.J.</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_babb67dec443ff8578fcbff0f10d0378" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_f9812dd1f5d210872c39f3f80098ccf2" parent="aspace_babb67dec443ff8578fcbff0f10d0378" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref4" level="file">
+          <did>
+            <unittitle>Charge Against Local 1245 Retail Clerks Union</unittitle>
+            <unitdate>Feb 1979</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_bdb0fb889947d53a78056f5cff73e425" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_e467c5d35bed915ee07800d93c9bfdcf" parent="aspace_bdb0fb889947d53a78056f5cff73e425" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate>Feb 1964-Apr 1964</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_94a358611506dfd0265ba6a425f61baf" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_ce006471c13380232b3fa252c8ac7e3a" parent="aspace_94a358611506dfd0265ba6a425f61baf" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Constitution Committee </unittitle>
+            <unitdate>Aug 1972</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_e03adf7072fbf5904e436c6678b5d8aa" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_56c89debf659cbb00fcc75b7fddcc233" parent="aspace_e03adf7072fbf5904e436c6678b5d8aa" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Contact Sheets</unittitle>
+            <unitdate>1980, undated</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_e6e66b90d37c8c159961f7e48ddc18a5" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_b1377350f1bd68e57366c6ddbddf667d" parent="aspace_e6e66b90d37c8c159961f7e48ddc18a5" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>DeVito, Frank</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_7d00094b40b1a6396f1e03e6c7a7265f" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_1845193aae5d10cf2c234f1cb8837754" parent="aspace_7d00094b40b1a6396f1e03e6c7a7265f" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Frank Devito: Portrait</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_0ce9491ad543ba5e4f074f0f7c603c71" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_6da10c9d3e17e74680618d246fae7845" parent="aspace_0ce9491ad543ba5e4f074f0f7c603c71" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Devito, Frank: Speaking</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_4c3d58662c553a4e3e0bcf4a44f41919" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_51e0b8a18aa195d5957bdac7eaf6351f" parent="aspace_4c3d58662c553a4e3e0bcf4a44f41919" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Dority, Doug: Speaking</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_d47fcabff9dabbff18f15d6b998d1907" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_f065c1dcf707c7bb0659ebb170454dd9" parent="aspace_d47fcabff9dabbff18f15d6b998d1907" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Negatives</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_5509b0d14585c4680db29c26580c4911" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_1dce59f8a3f1c2f47af2db21a282ce9f" parent="aspace_5509b0d14585c4680db29c26580c4911" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>"Old Pictures for May 1986 Issue of 1245 News"</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_64dc120887254ec0e436c5ccb5b49c01" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_273cb2e5346b3aff8285a003065d3b79" parent="aspace_64dc120887254ec0e436c5ccb5b49c01" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Portraits: Group</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_1aee233dff9ca507d715cd28c10adef8" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_b3480d9feea96b268c49272f9d310304" parent="aspace_1aee233dff9ca507d715cd28c10adef8" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Portraits: Individual</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_4580a4937b0890642fc1ebd892f6384e" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_058677bc742e66fe831681ee0a96a9b7" parent="aspace_4580a4937b0890642fc1ebd892f6384e" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Press Releases</unittitle>
+            <unitdate>1965-1966</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_f378ae60c4d26eec5584d8ecaf1da364" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_efcede2a3e79132ddd522130c333b726" parent="aspace_f378ae60c4d26eec5584d8ecaf1da364" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Speakers</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_92c367a0f640474417b94255599f6a41" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_6f29b722ba3634bfec156cfbf4f4e498" parent="aspace_92c367a0f640474417b94255599f6a41" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>UFCW1245: ACME Markets Affidavit</unittitle>
+            <unitdate>circa 1970s</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_908fc87744e2cb00bdd62fe989d8fae1" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_109f8fc8f986396caead30a00eeff116" parent="aspace_908fc87744e2cb00bdd62fe989d8fae1" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>UFCW Annual Convention</unittitle>
+            <unitdate>1984</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_abf21c170b9b7c26437b27fb3c55e133" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_a9774004031714b8829bf1eef7730285" parent="aspace_abf21c170b9b7c26437b27fb3c55e133" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Wagner Archive Exhibit: UFCW 1245 (September 1989)</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_5d6f8498ccda64531a72e2477c34e0b7" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_250d94883af5680795fe66d45767d30e" parent="aspace_5d6f8498ccda64531a72e2477c34e0b7" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Miscellaneous Photos</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_c436437fc2eed03c547e3132f882efe1" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_1aee68d5d93a4c2fc886ec58edba25ba" parent="aspace_c436437fc2eed03c547e3132f882efe1" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Unspecified Events</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_232ecf62f8618da4fdf60587f154d51e" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_55bbc5f93470c255c44659bad083f05c" parent="aspace_232ecf62f8618da4fdf60587f154d51e" type="folder">22</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref45" level="series">
+        <did>
+          <unittitle>Retail Clerks International Association, Local 1111</unittitle>
+        </did>
+        <scopecontent id="aspace_90544bda34c651a6938d51e4e015d581">
+          <head>Scope and Content Note</head>
+          <p>The series consists of approximately 150 black-and-white photographs, and related ephemera, that document the history of Retail Clerks International Association, Local 1111 including conferences, receptions, meetings, rallies, portraits, and the opening of a Pilot Medical Center in June 1958. A small amount of ephemera includes a 1939 souvenir program from the Retail Bakery Clerks Union Local 1111, and certificates. Materials date from the late-1930s to the late-1970s.</p>
+        </scopecontent>
+        <bioghist id="aspace_fcb4ed86e077a9e8753f96664ef5a421">
+          <head>Historical/Biographical Note</head>
+          <p>The Retail Clerks International Association, Local 1111, formerly the Retail Bakery Clerks union, Local 1111, began in 1935 and was led in its early years by Abe Moglin, president Al Kugler, and Secretary Treasurer Lillian Hecht.</p>
+        </bioghist>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>[Retail Clerks International Association Local 1111] [Includes Souvenir Program]</unittitle>
+            <unitdate>circa 1939, 1963-1972</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_40764bc9ac9c76c3810e62aa5b312a7e" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_a390501c381cbcf3dfec3a6ba89a582a" parent="aspace_40764bc9ac9c76c3810e62aa5b312a7e" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Retail Clerks International Association</unittitle>
+            <unitdate>Apr 1950, 1965, undated</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_0152b0655ac43849f0d97eb73aeaac46" label="Mixed Materials [31142062759793]" type="box">OS002</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Retail Clerks International Association Local 1111 [1 of 4]</unittitle>
+            <unitdate>1958, undated</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_aec59fcdcdff2c04b1d798bc8a1a16c8" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_caa49a29841224c4087a18be33c2eebe" parent="aspace_aec59fcdcdff2c04b1d798bc8a1a16c8" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Retail Clerks International Association Local 1111 [2 of 4]</unittitle>
+            <unitdate>circa 1950-1979</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_d471631fe2dd2e5efc53ceb76d684ddc" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_d6aa3b8ab73446ec613abebce6caf676" parent="aspace_d471631fe2dd2e5efc53ceb76d684ddc" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Retail Clerks International Association Local 1111 [Includes Letter from White House] [3 of 4]</unittitle>
+            <unitdate>circa 1960-1969</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_c8aa29a43aeab4058ea05c1518d2a222" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_ca6710ebd95b4b6bfa827b76c37d119c" parent="aspace_c8aa29a43aeab4058ea05c1518d2a222" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Retail Clerks International Association Local 1111 [Includes 3 Certificates] [4 of 4]</unittitle>
+            <unitdate>circa 1950-1969</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_202fe5e1fbccf624144060c73f479dfb" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_6c697bcd2740f518ad58c8d754d3e6f9" parent="aspace_202fe5e1fbccf624144060c73f479dfb" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>RCIA 1111 </unittitle>
+            <unitdate>circa 1939, 1960-1969</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_18b3b1ec71175b5bd667ff08f9fa2569" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_df3955154e8ee23d904502fb83b3fd10" parent="aspace_18b3b1ec71175b5bd667ff08f9fa2569" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>RCIA 1111 - Abe Moglin</unittitle>
+            <unitdate>Mar 5, 1938</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_4c58e2573688768ec17b2b4471693bdb" label="Mixed Materials [31142062764256]" type="box">1</container>
+            <container id="aspace_4e84351d131d14f517a2b6f107831afc" parent="aspace_4c58e2573688768ec17b2b4471693bdb" type="folder">29</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref51" level="series">
+        <did>
+          <unittitle>Oversize Convention Photographs</unittitle>
+          <unitdate>1968, undated</unitdate>
+        </did>
+        <scopecontent id="aspace_44eaa0b35f079f8d8b13c8a22a403311">
+          <head>Scope and Content Note</head>
+          <p>This series consists of two panoramic group photographs, from the RCIA Inaugural, dated September 28, 1968, and from a UFCW convention, possibly in the late-1980s or 1990s.</p>
+        </scopecontent>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>RCIA and UFCW Convention Photographs</unittitle>
+            <unitdate>1968, undated</unitdate>
+            <container id="aspace_68fcc92c883817c02cdcac3f6896937f" label="photographs" type="flat-file">7</container>
+            <container id="aspace_2549aed53a18a7790d05444eeac3940f" parent="aspace_68fcc92c883817c02cdcac3f6896937f" type="drawer">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Convention Photograph Mounted on Wood</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Hollinger Flat OS 13.5" id="aspace_187a76cdad0b5dee09997fd801dfd467" label="Mixed Materials [31142062759389]" type="box">2</container>
+          </did>
+        </c>
+        <c id="aspace_8cdb794f7f0726a94aba8eb53ae8a0c9" level="file">
+          <did>
+            <unittitle>Convention photos</unittitle>
+            <unitdate normal="1960/1983" type="inclusive">1960-1983</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_b07cf44ec3972d84b529f6e0a7e77177" label="Mixed Materials [31142062715415]" type="box">Shared Tamiment 032</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

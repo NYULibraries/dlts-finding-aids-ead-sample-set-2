@@ -1,73 +1,431 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>alba_089</eadid><filedesc><titlestmt><titleproper>Guide to the Stanley Postek Spanish Civil War Papers <num>ALBA.089</num></titleproper><author>Wendy Scheir</author></titlestmt><editionstmt><p>This version was derived from postek.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:34:50 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Stanley Postek Spanish Civil War Papers</unittitle>
-    <origination label="Creator">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid>alba_089</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Stanley Postek Spanish Civil War Papers <num>ALBA.089</num></titleproper>
+        <author>Wendy Scheir</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from postek.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:34:50 -0500</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Stanley Postek Spanish Civil War Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Postek, Stanley, 1912-1991</persname>
+      </origination>
+      <unitid>ALBA.089</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+        <extent altrender="carrier">(1 box)</extent>
+      </physdesc>
+      <unitdate normal="1934/1989" type="inclusive">1934-1989</unitdate>
+      <unitdate normal="1937/1939" type="bulk">1937-1939</unitdate>
+      <abstract id="aspace_10d20bab70eb2c452bdba5e9145e2c83">Stanley Postek (1912-1991) was a sailor, prizefighter and union organizer who went to Spain in 1938 to fight in the Spanish Civil War. After being seriously injured, Postek was detained in a concentration camp in France before returning to New York. Postek later served in World War II as a merchant seaman. The collection consists of materials, including personal journals, from Postek's time in Spain and afterward and from his period of service as a merchant marine in World War II. Later papers include newspaper articles and other writings about aspects of the Spanish Civil War, memorial items about veterans, and material documenting Veterans of the Abraham Lincoln Brigade (VALB) activities.</abstract>
+      <langmaterial id="aspace_79cdbd4710f54d8ca73e981cceec84b1">Materials are in English.</langmaterial>
+    </did>
+    <custodhist id="aspace_1c61dee74facd0316a0ac82a498dbcab">
+      <head>Provenance</head>
+      <p>The Stanley Postek Collection was donated to Abraham Lincoln Brigade Archives in the early 1990s by Postek's daughter, Judi Darnell. This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>
+    </custodhist>
+    <accessrestrict id="aspace_b0dfb00d8e6d71ae648b0b88b2d0b4e6">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </accessrestrict>
+    <bioghist id="aspace_b02dae557430f4e53690bf6546446790">
+      <head>Historical/Biographical Note</head>
+      <p>Born Ladislaus Ferdinand Szeliga in 1912 in Lowell, Massachusetts, Stanley Postek adopted his cousin's name when he ran away from home as a teenager. He left school in the mid-thirties to become a sailor and union organizer for the International Seamen's Union of America, and a founding member of the breakaway National Maritime Union. In 1937 Postek became a light heavyweight boxing champion. In May 1938, he sailed to Europe to join the International Brigades in the Spanish Civil War.</p>
+      <p>In Spain Postek was initially assigned to the Canadian Mackenzie-Papineau Battalion, and subsequently transferred to a machine-gun company of the Abraham Lincoln Battalion. He was seriously injured in August 1938. When the International Brigades were evacuated that November, Postek, who was in a hospital, was left behind. In January 1939, he walked over the border into France and was immediately detained in the Argeles-sur-Mer concentration camp, where he almost died of septicemia. A week later, Postek managed to escape from the camp with the help of a journalist from the Paris Herald Tribune. Without a passport or any identification, Postek spent a period of rehabilitation in a Paris hospital, and finally returned to New York as a stowaway in May 1939.</p>
+      <p>Postek served in World War II as a merchant seaman, most notably on the Murmansk Run. After the war, he joined the International Longshoremen's and Warehousemen's Union. He was one of 2,000 seamen barred from employment by the Coast Guard during the Korean War for his association with the Communist Party. Postek later worked as an extra in the entertainment business, notably as a longshoreman in the Elia Kazan film, "On the Waterfront." After he retired, Postek worked with the Marine Worker's Historical Association, as well as teaching several college courses. In the 1960s he ran a successful macramé shop in Greenwich Village, the Rope Gallery, adapting his sailor's knot-tying expertise to a new craft.</p>
+      <p>Postek died in 1991 at his home in San Diego, California.</p>
+    </bioghist>
+    <scopecontent id="aspace_15d83b952327f011f3055220d25ae0d4">
+      <head>Scope and Content Note</head>
+      <p><emph render="bold">Series I: Spanish Civil War Era and World War II, 1934-1946</emph>contains materials from Postek's time in Spain and afterward, as well as from his period of service as a merchant marine in World War II. Includes military and political identification cards and books, stamps and other memorabilia from Spain, and a letter of permission to leave the Argeles-sur-mer concentration camp.</p>
+      <p><emph render="bold">Series II: Journals, 1939-1988</emph>, consists of Postek's handwritten "Memoirs of Spain" begun in March 1939 while recuperating in a hospital in Paris. The journal, which includes a sketch Postek made of himself in a torso cast, begins as an attempt to give a detailed account of his experiences in Spain, and evolves into a journal of his encounters with women and life aboard various ships on which he was working. Also noteworthy in this series is a journal Postek kept during his service on the Murmansk Run during World War II.</p>
+      <p><emph render="bold">Series III: Subject Files, 1952-1989</emph>, consists of newspaper articles about Spain and Spanish Civil War veterans, and scholarly and other writings about aspects of the Spanish Civil War; poetry and memorial items about veterans; lists of maritime members of the Veterans of the Abraham Lincoln Brigade (VALB), as well as other VALB documents, ephemera and correspondence.</p>
+    </scopecontent>
+    <arrangement id="aspace_72f3dfe2e6a0a260c2489a6d2f830864">
+      <head>Arrangement</head>
+      <p>Series I and III are arranged alphabetically. Series II is arranged chronologically.</p>
+      <p>The files are grouped into three series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I, Spanish Civil War Era and World War II, 1934-1946</item>
+        <item>II, Journals, 1939-1988</item>
+        <item>III, Subject Files, 1952-1989</item>
+      </list>
+    </arrangement>
+    <relatedmaterial id="aspace_3f53d06a8d37c5962317350c21305f43">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>Stanley Postek interview, in the Manny Harriman Video Oral History Collection (ALBA VIDEO 48)</p>
+      <p>Marine Workers Historical Collection (TAM 125)</p>
+      <p>Stanley Postek Papers (WAG 080)</p>
+      <p>Stanley Postek Photographs (ALBA PHOTO 089)</p>
+      <p>ALBA collections at the Tamiment Library.</p>
+    </relatedmaterial>
+    <separatedmaterial id="aspace_36a9cbfdb131eedba3e6ad192ff1f665">
+      <head>Separated Material</head>
+      <p>Photographs from the Spanish Civil War and later, as well as videotapes of a memorial service for Spanish Civil War veteran Eliseo Del Rio from the Stanley Postek Collection have been transferred to the non-print section of the ALBA collection at the Tamiment Library.</p>
+    </separatedmaterial>
+    <userestrict id="aspace_589cb85ca3f7037eedbe2b88fa772102">
+      <head>Use Restrictions</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </userestrict>
+    <prefercite id="aspace_6b9e53f2815966f9627ae8f6a5817d78">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <processinfo id="aspace_1051c1cd3200170fe7fdce6ce70b7439">
+      <head>Processing Information</head>
+      <p>In 2013, the name of the collection was changed from Stanley Postek Papers to differentiate it from another collection called the Stanley Poster Papers (WAG.080).</p>
+    </processinfo>
+    <controlaccess>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Personal narratives.</geogname>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
+      <genreform source="aat">Personal papers.</genreform>
+      <genreform source="aat">Memorabilia.</genreform>
+      <genreform source="aat">Diaries</genreform>
+      <genreform source="aat">Articles.</genreform>
+      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
       <persname rules="dacs" source="local">Postek, Stanley, 1912-1991</persname>
-    </origination>
-    <unitid>ALBA.089</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-      <extent altrender="carrier">(1 box)</extent>
-    </physdesc>
-    <unitdate normal="1934/1989" type="inclusive">1934-1989</unitdate>
-    <unitdate normal="1937/1939" type="bulk">1937-1939</unitdate>
-    <abstract id="aspace_10d20bab70eb2c452bdba5e9145e2c83">Stanley Postek (1912-1991) was a sailor, prizefighter and union organizer who went to Spain in 1938 to fight in the Spanish Civil War. After being seriously injured, Postek was detained in a concentration camp in France before returning to New York. Postek later served in World War II as a merchant seaman. The collection consists of materials, including personal journals, from Postek's time in Spain and afterward and from his period of service as a merchant marine in World War II. Later papers include newspaper articles and other writings about aspects of the Spanish Civil War, memorial items about veterans, and material documenting Veterans of the Abraham Lincoln Brigade (VALB) activities.</abstract>
-    <langmaterial id="aspace_79cdbd4710f54d8ca73e981cceec84b1">Materials are in English.</langmaterial>
-  </did>
-  <custodhist id="aspace_1c61dee74facd0316a0ac82a498dbcab">
-    <head>Provenance</head>
-<p>The Stanley Postek Collection was donated to Abraham Lincoln Brigade Archives in the early 1990s by Postek's daughter, Judi Darnell. This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>  </custodhist>
-  <accessrestrict id="aspace_b0dfb00d8e6d71ae648b0b88b2d0b4e6">
-    <head>Access Restrictions</head>
-<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
-  <bioghist id="aspace_b02dae557430f4e53690bf6546446790">
-    <head>Historical/Biographical Note</head>
-<p>Born Ladislaus Ferdinand Szeliga in 1912 in Lowell, Massachusetts, Stanley Postek adopted his cousin's name when he ran away from home as a teenager. He left school in the mid-thirties to become a sailor and union organizer for the International Seamen's Union of America, and a founding member of the breakaway National Maritime Union. In 1937 Postek became a light heavyweight boxing champion. In May 1938, he sailed to Europe to join the International Brigades in the Spanish Civil War.</p><p>In Spain Postek was initially assigned to the Canadian Mackenzie-Papineau Battalion, and subsequently transferred to a machine-gun company of the Abraham Lincoln Battalion. He was seriously injured in August 1938. When the International Brigades were evacuated that November, Postek, who was in a hospital, was left behind. In January 1939, he walked over the border into France and was immediately detained in the Argeles-sur-Mer concentration camp, where he almost died of septicemia. A week later, Postek managed to escape from the camp with the help of a journalist from the Paris Herald Tribune. Without a passport or any identification, Postek spent a period of rehabilitation in a Paris hospital, and finally returned to New York as a stowaway in May 1939.</p><p>Postek served in World War II as a merchant seaman, most notably on the Murmansk Run. After the war, he joined the International Longshoremen's and Warehousemen's Union. He was one of 2,000 seamen barred from employment by the Coast Guard during the Korean War for his association with the Communist Party. Postek later worked as an extra in the entertainment business, notably as a longshoreman in the Elia Kazan film, "On the Waterfront." After he retired, Postek worked with the Marine Worker's Historical Association, as well as teaching several college courses. In the 1960s he ran a successful macramé shop in Greenwich Village, the Rope Gallery, adapting his sailor's knot-tying expertise to a new craft.</p><p>Postek died in 1991 at his home in San Diego, California.</p>  </bioghist>
-  <scopecontent id="aspace_15d83b952327f011f3055220d25ae0d4">
-    <head>Scope and Content Note</head>
-<p><emph render="bold">Series I: Spanish Civil War Era and World War II, 1934-1946</emph>contains materials from Postek's time in Spain and afterward, as well as from his period of service as a merchant marine in World War II. Includes military and political identification cards and books, stamps and other memorabilia from Spain, and a letter of permission to leave the Argeles-sur-mer concentration camp.</p><p><emph render="bold">Series II: Journals, 1939-1988</emph>, consists of Postek's handwritten "Memoirs of Spain" begun in March 1939 while recuperating in a hospital in Paris. The journal, which includes a sketch Postek made of himself in a torso cast, begins as an attempt to give a detailed account of his experiences in Spain, and evolves into a journal of his encounters with women and life aboard various ships on which he was working. Also noteworthy in this series is a journal Postek kept during his service on the Murmansk Run during World War II.</p><p><emph render="bold">Series III: Subject Files, 1952-1989</emph>, consists of newspaper articles about Spain and Spanish Civil War veterans, and scholarly and other writings about aspects of the Spanish Civil War; poetry and memorial items about veterans; lists of maritime members of the Veterans of the Abraham Lincoln Brigade (VALB), as well as other VALB documents, ephemera and correspondence.</p>  </scopecontent>
-  <arrangement id="aspace_72f3dfe2e6a0a260c2489a6d2f830864">
-    <head>Arrangement</head>
-<p>Series I and III are arranged alphabetically. Series II is arranged chronologically.</p><p>The files are grouped into three series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>I, Spanish Civil War Era and World War II, 1934-1946</item>
-      <item>II, Journals, 1939-1988</item>
-      <item>III, Subject Files, 1952-1989</item>
-    </list>
-  </arrangement>
-  <relatedmaterial id="aspace_3f53d06a8d37c5962317350c21305f43">
-    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-<p>Stanley Postek interview, in the Manny Harriman Video Oral History Collection (ALBA VIDEO 48)</p><p>Marine Workers Historical Collection (TAM 125)</p><p>Stanley Postek Papers (WAG 080)</p><p>Stanley Postek Photographs (ALBA PHOTO 089)</p><p>ALBA collections at the Tamiment Library.</p>  </relatedmaterial>
-  <separatedmaterial id="aspace_36a9cbfdb131eedba3e6ad192ff1f665">
-    <head>Separated Material</head>
-<p>Photographs from the Spanish Civil War and later, as well as videotapes of a memorial service for Spanish Civil War veteran Eliseo Del Rio from the Stanley Postek Collection have been transferred to the non-print section of the ALBA collection at the Tamiment Library.</p>  </separatedmaterial>
-  <userestrict id="aspace_589cb85ca3f7037eedbe2b88fa772102">
-    <head>Use Restrictions</head>
-<p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
-  <prefercite id="aspace_6b9e53f2815966f9627ae8f6a5817d78">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <processinfo id="aspace_1051c1cd3200170fe7fdce6ce70b7439">
-    <head>Processing Information</head>
-<p>In 2013, the name of the collection was changed from Stanley Postek Papers to differentiate it from another collection called the Stanley Poster Papers (WAG.080).</p>  </processinfo>
-  <controlaccess>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Personal narratives.</geogname>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
-    <genreform source="aat">Personal papers.</genreform>
-    <genreform source="aat">Memorabilia.</genreform>
-    <genreform source="aat">Diaries</genreform>
-    <genreform source="aat">Articles.</genreform>
-    <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
-    <persname rules="dacs" source="local">Postek, Stanley, 1912-1991</persname>
-    <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
-    <corpname source="naf">Spain. Ejército Popular de la República. Brigada Internacional, XV -- biography.</corpname>
-    <corpname source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
-    <corpname source="naf">Spain. Ejercito Popular de la Republica. MacKenzie-Papineau Battalion</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref15" level="series"><did><unittitle>Series I: Spanish Civil War Era and World War II, 1934-1946</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref16" level="file"><did><unittitle>Bailey, William: article by, letter from</unittitle><unitdate normal="1928/1949" type="inclusive">ca.1938-1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_7859a51427579ecd58a06c3ac1b227ba" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_d81be61c81fa93f1e7c2fc118c671ca8" parent="aspace_7859a51427579ecd58a06c3ac1b227ba" type="folder">1</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1934/1989" type="inclusive">undated , 1934-1943</unitdate><container altrender="Manuscript box - Legal" id="aspace_22c41bd0fee95c9ba932e9967126a231" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_a07e27c433ed59f8355a658969c45b2b" parent="aspace_22c41bd0fee95c9ba932e9967126a231" type="folder">2</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Letter of permission to leave concentration camp</unittitle><unitdate>Feb 1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_0e30509435802241d3441f9d4ff5e921" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_cf23c80573c17aabc8fd8d6c356c18b9" parent="aspace_0e30509435802241d3441f9d4ff5e921" type="folder">3</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Memorabilia: Stamps, metro tickets, boarding pass, uniform patches, flyer</unittitle><unitdate normal="1937/1989" type="inclusive">undated , 1937-1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_11779fbc20ad8de83ea0f61fb931cb4e" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_b2410361b9cfdcfe2e215ceeb36eb824" parent="aspace_11779fbc20ad8de83ea0f61fb931cb4e" type="folder">4</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Military, political and hospital identifications, passbooks, merit award</unittitle><unitdate normal="1937/1939" type="inclusive">1937-1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_6130d56a7e7728a5e2b87211287caaba" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_759e16180c7382262ae0139cc35a4f79" parent="aspace_6130d56a7e7728a5e2b87211287caaba" type="folder">5</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Poems and lyrics</unittitle><unitdate normal="1937/1989" type="inclusive">undated , Jan 1943</unitdate><container altrender="Manuscript box - Legal" id="aspace_0e55e6f0dada2def767e63f25207c59b" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_518e91695195502b2d339b2ef236f023" parent="aspace_0e55e6f0dada2def767e63f25207c59b" type="folder">6</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Postek, Stanley: Articles and poem about</unittitle><unitdate normal="1937/1989" type="inclusive">undated , 1937 , 1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_02bf21d0d7920c86681cb4a01ca72e4e" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_5678aa7d096eebf6a3762aaebc6aabac" parent="aspace_02bf21d0d7920c86681cb4a01ca72e4e" type="folder">7</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Postek, Stanley: Voucher letters for</unittitle><unitdate>Apr 1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_d4172a66833c050e8c0a7cde99d878b7" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_b2ab69302bc5282cac4c2f86bb5f1e85" parent="aspace_d4172a66833c050e8c0a7cde99d878b7" type="folder">8</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Veterans of the Abraham Lincoln Brigade (VALB): Membership cards and convention pass</unittitle><unitdate normal="1939/1946" type="inclusive">1939 , 1942 , 1946</unitdate><container altrender="Manuscript box - Legal" id="aspace_7d5f658cc3bc913dfd706c59533bde35" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_2a7b6afb0797d2054717232622d31a50" parent="aspace_7d5f658cc3bc913dfd706c59533bde35" type="folder">9</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Volunteer for Liberty (British)</unittitle><unitdate normal="1944/1944" type="inclusive">1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_12f7eafcf67f77700b29fa9a6024e23e" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_301075f44ea5b5ec2e2c794be747f145" parent="aspace_12f7eafcf67f77700b29fa9a6024e23e" type="folder">10</container></did></c></c><c id="aspace_ref26" level="series"><did><unittitle>Series II. Journals, 1939-1988</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref27" level="file"><did><unittitle>Postek, Stanley: Journal, "Memoirs of Spain"</unittitle><unitdate normal="1964/1988" type="inclusive">Mar 1939-Feb 1942 , 1964 , 1982-1988</unitdate><container altrender="Manuscript box - Legal" id="aspace_ea9e29cfa42d8d716bc9ce143867c119" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_45129049fd6f2bba96d3284362ac004a" parent="aspace_ea9e29cfa42d8d716bc9ce143867c119" type="folder">11</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Postek, Stanley: Journal</unittitle><unitdate>Jul 1942-Dec 1942</unitdate><container altrender="Manuscript box - Legal" id="aspace_9634438b1badaa6d7566b101eb914a12" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_8f1e530ff82707ae6355394de0c31a86" parent="aspace_9634438b1badaa6d7566b101eb914a12" type="folder">12</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Postek, Stanley: Journal</unittitle><unitdate normal="1937/1989" type="inclusive">undated , Mar 1943-Apr 1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_de31a4918ce10ebe96bbb9aaac1ff4cf" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_a879e68935b03e168f0943f09d9f5157" parent="aspace_de31a4918ce10ebe96bbb9aaac1ff4cf" type="folder">13</container></did></c></c><c id="aspace_ref30" level="series"><did><unittitle>Series III: Subject Files, 1952-1989</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref31" level="file"><did><unittitle>Abraham Lincoln Brigade: Certificate of Honor</unittitle><unitdate>Jan 1984</unitdate><container altrender="Manuscript box - Legal" id="aspace_b29c6e1d075984c5ee828143ccd4219d" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_74a804e023e9d388579c586d5c0931c1" parent="aspace_b29c6e1d075984c5ee828143ccd4219d" type="folder">14</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Clippings: Spain politics</unittitle><unitdate>Apr 1983-Jan 1984</unitdate><container altrender="Manuscript box - Legal" id="aspace_0f1fe78f11505a49fdbf65cc543d9258" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_7a4862a41732e56e6e2b1beaf6a27335" parent="aspace_0f1fe78f11505a49fdbf65cc543d9258" type="folder">15</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>For Valor in Battle (pamphlet by Joseph North)</unittitle><unitdate>Apr 1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_9b940b47ff32861f927071cafa724f91" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_46846a95edb471a5859c0822c42004c7" parent="aspace_9b940b47ff32861f927071cafa724f91" type="folder">16</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Good Fight: Film reviews, promotional material</unittitle><unitdate normal="1984/1984" type="inclusive">1984</unitdate><container altrender="Manuscript box - Legal" id="aspace_dfb79669a17179f089f9917e4c0421e2" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_ed58e0c9ad5304860520d98164b761fd" parent="aspace_dfb79669a17179f089f9917e4c0421e2" type="folder">17</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Heroines of the Good Fight: North American Women Volunteers in the Spanish Civil War (article by Frances Patai)</unittitle><unitdate normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_483491d27a0460a65e04a29ca94c13c8" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_a2574bae3cb452a48283d52ed6a246a8" parent="aspace_483491d27a0460a65e04a29ca94c13c8" type="folder">18</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Oral History of the American Left (newsletter)</unittitle><unitdate>Apr 1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_5db201f71d17c6181bda75f6a632e066" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_3d907364d9eb5228810349fb1c80250e" parent="aspace_5db201f71d17c6181bda75f6a632e066" type="folder">19</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>O'Toole, Lawrence: Notes from audiotape interview with; obituaries and tributes</unittitle><unitdate normal="1937/1989" type="inclusive">undated , 1984</unitdate><container altrender="Manuscript box - Legal" id="aspace_623c25073a3b2299f492235452342da8" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_ab15ac87de066cffc5a7ca9e034b3232" parent="aspace_623c25073a3b2299f492235452342da8" type="folder">20</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Point of Clarification: Postek's response to Joe Doyle's "Seamen in the Lincoln Battalion"</unittitle><unitdate normal="1972/1992" type="inclusive">ca.1982</unitdate><container altrender="Manuscript box - Legal" id="aspace_81ddb80e03a0a55f9a123a976fe2e0f0" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_61ad08099cca970300e32a5b5693b791" parent="aspace_81ddb80e03a0a55f9a123a976fe2e0f0" type="folder">21</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Postcard, flyer, calling card, Mexican tourist visa</unittitle><unitdate normal="1937/1989" type="inclusive">undated , 1963 , 1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_ebf31a90b901b769baa982d2a6efcbd0" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_1d0c14ce7161ab4058848745f81adc2c" parent="aspace_ebf31a90b901b769baa982d2a6efcbd0" type="folder">22</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Postek, Stanley: Film headshot/resumé</unittitle><unitdate normal="1950/1970" type="inclusive">ca.1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_bd339224b9856c031ca0921f1262a8d9" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_9f8f78e3c85da703f24cf81abe5f26b3" parent="aspace_bd339224b9856c031ca0921f1262a8d9" type="folder">23</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Postek, Stanley: Narrative of Spanish Civil War injury</unittitle><unitdate normal="1937/1989" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_178e310daddde9350659e6d4a4bb34df" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_b878ad29d794e71e32f001db5aeba67f" parent="aspace_178e310daddde9350659e6d4a4bb34df" type="folder">24</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Seamen in the Lincoln Battalion (article by Joe Doyle)</unittitle><unitdate>Feb 1983</unitdate><container altrender="Manuscript box - Legal" id="aspace_653b7d2b26acba1e4134a06a74e85573" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_0275135f96990c1413e0af5db4139365" parent="aspace_653b7d2b26acba1e4134a06a74e85573" type="folder">25</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Spanish Civil War Historical Society</unittitle><unitdate normal="1937/1989" type="inclusive">undated , Mar 1982</unitdate><container altrender="Manuscript box - Legal" id="aspace_36dc733b23bbc4e91f93a5ccd8e79065" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_2efb2b449a03b65e95d9d0d5225225de" parent="aspace_36dc733b23bbc4e91f93a5ccd8e79065" type="folder">26</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Tom Paine Brigade: Anti-Stalinist flyer</unittitle><unitdate normal="1976/1996" type="inclusive">ca.1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_a66844a2ab43b319d1e60df987d3babf" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_130ba7808bec057fc1aca336430f39da" parent="aspace_a66844a2ab43b319d1e60df987d3babf" type="folder">27</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>True Americans (article by Roy Hudson)</unittitle><unitdate>Aug 1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_0b5adf30910b906616166fbe58a06261" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_4c30b64575db94f3cbd983f4248edb77" parent="aspace_0b5adf30910b906616166fbe58a06261" type="folder">28</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>U.S. Political Culture of the 1930s and the American Response to the Spanish Civil War (article by Robert Colodny)</unittitle><unitdate normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_789e76ef3ada5486a2248f3cb597b2ea" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_a74e809b5c3f16dc8e67410c08f418e6" parent="aspace_789e76ef3ada5486a2248f3cb597b2ea" type="folder">29</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Veterans: Articles, obituaries, poems, testimonials by and about</unittitle><unitdate normal="1937/1989" type="inclusive">undated , 1975-1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_168992fa68ba49ce3f1cb6209ff26e4f" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_e3b450181986566d8060a35ab8e96371" parent="aspace_168992fa68ba49ce3f1cb6209ff26e4f" type="folder">30</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Veterans: Return visits to Spain</unittitle><unitdate normal="1937/1989" type="inclusive">undated , 1977-1983</unitdate><container altrender="Manuscript box - Legal" id="aspace_dcfcadd8bc7ff286e1f5dd17b8c0a8ea" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_9e6160d043831d512c3d8f8696a1e2cc" parent="aspace_dcfcadd8bc7ff286e1f5dd17b8c0a8ea" type="folder">31</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Veterans of the Abraham Lincoln Brigade (VALB): Anniversary reservation, Congressional citation</unittitle><unitdate normal="1978/1980" type="inclusive">1978 , 1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_7b0392025270ab40b1b549e81cee9d14" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_41343a3308e3a876fe289c1698315ac2" parent="aspace_7b0392025270ab40b1b549e81cee9d14" type="folder">32</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Veterans of the Abraham Lincoln Brigade (VALB): Bibliography, newsletter, Congressional amendment proposal</unittitle><unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_e23237bf43651cca79ab9ef7aa762f92" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_72b95bc52599f4376ddb0e8da49dadc0" parent="aspace_e23237bf43651cca79ab9ef7aa762f92" type="folder">33</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Veterans of the Abraham Lincoln Brigade (VALB): Correspondence</unittitle><unitdate>Dec 1977 , Sep 1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_6a76a475daf1cb51ee146d96967187c7" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_0d11516cd5dadaa794dd3508cc0bb456" parent="aspace_6a76a475daf1cb51ee146d96967187c7" type="folder">34</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Veterans of the Abraham Lincoln Brigade (VALB): Maritime veterans</unittitle><unitdate normal="1937/1989" type="inclusive">undated , Jun 1979-Apr 1984</unitdate><container altrender="Manuscript box - Legal" id="aspace_d9d63dcdb8e8e8d0553fa7686b68daff" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_28585214eb7d88f48dd3ab195ed820bf" parent="aspace_d9d63dcdb8e8e8d0553fa7686b68daff" type="folder">35</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Veterans of the Abraham Lincoln Brigade (VALB): Veterans lists</unittitle><unitdate normal="1937/1989" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d3a8bd077eede40f211d127f3db03e12" label="Mixed Materials [31142062756054]" type="box">1</container><container id="aspace_418369314331a3ebccd0a47f57a5a777" parent="aspace_d3a8bd077eede40f211d127f3db03e12" type="folder">36</container></did></c></c></dsc>
-</archdesc>
+      <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
+      <corpname source="naf">Spain. Ejército Popular de la República. Brigada Internacional, XV -- biography.</corpname>
+      <corpname source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
+      <corpname source="naf">Spain. Ejercito Popular de la Republica. MacKenzie-Papineau Battalion</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref15" level="series">
+        <did>
+          <unittitle>Series I: Spanish Civil War Era and World War II, 1934-1946</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Bailey, William: article by, letter from</unittitle>
+            <unitdate normal="1928/1949" type="inclusive">ca.1938-1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7859a51427579ecd58a06c3ac1b227ba" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_d81be61c81fa93f1e7c2fc118c671ca8" parent="aspace_7859a51427579ecd58a06c3ac1b227ba" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate normal="1934/1989" type="inclusive">undated , 1934-1943</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_22c41bd0fee95c9ba932e9967126a231" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_a07e27c433ed59f8355a658969c45b2b" parent="aspace_22c41bd0fee95c9ba932e9967126a231" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Letter of permission to leave concentration camp</unittitle>
+            <unitdate>Feb 1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0e30509435802241d3441f9d4ff5e921" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_cf23c80573c17aabc8fd8d6c356c18b9" parent="aspace_0e30509435802241d3441f9d4ff5e921" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Memorabilia: Stamps, metro tickets, boarding pass, uniform patches, flyer</unittitle>
+            <unitdate normal="1937/1989" type="inclusive">undated , 1937-1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_11779fbc20ad8de83ea0f61fb931cb4e" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_b2410361b9cfdcfe2e215ceeb36eb824" parent="aspace_11779fbc20ad8de83ea0f61fb931cb4e" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Military, political and hospital identifications, passbooks, merit award</unittitle>
+            <unitdate normal="1937/1939" type="inclusive">1937-1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6130d56a7e7728a5e2b87211287caaba" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_759e16180c7382262ae0139cc35a4f79" parent="aspace_6130d56a7e7728a5e2b87211287caaba" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Poems and lyrics</unittitle>
+            <unitdate normal="1937/1989" type="inclusive">undated , Jan 1943</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0e55e6f0dada2def767e63f25207c59b" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_518e91695195502b2d339b2ef236f023" parent="aspace_0e55e6f0dada2def767e63f25207c59b" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Postek, Stanley: Articles and poem about</unittitle>
+            <unitdate normal="1937/1989" type="inclusive">undated , 1937 , 1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_02bf21d0d7920c86681cb4a01ca72e4e" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_5678aa7d096eebf6a3762aaebc6aabac" parent="aspace_02bf21d0d7920c86681cb4a01ca72e4e" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Postek, Stanley: Voucher letters for</unittitle>
+            <unitdate>Apr 1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d4172a66833c050e8c0a7cde99d878b7" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_b2ab69302bc5282cac4c2f86bb5f1e85" parent="aspace_d4172a66833c050e8c0a7cde99d878b7" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Veterans of the Abraham Lincoln Brigade (VALB): Membership cards and convention pass</unittitle>
+            <unitdate normal="1939/1946" type="inclusive">1939 , 1942 , 1946</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7d5f658cc3bc913dfd706c59533bde35" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_2a7b6afb0797d2054717232622d31a50" parent="aspace_7d5f658cc3bc913dfd706c59533bde35" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Volunteer for Liberty (British)</unittitle>
+            <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_12f7eafcf67f77700b29fa9a6024e23e" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_301075f44ea5b5ec2e2c794be747f145" parent="aspace_12f7eafcf67f77700b29fa9a6024e23e" type="folder">10</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref26" level="series">
+        <did>
+          <unittitle>Series II. Journals, 1939-1988</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Postek, Stanley: Journal, "Memoirs of Spain"</unittitle>
+            <unitdate normal="1964/1988" type="inclusive">Mar 1939-Feb 1942 , 1964 , 1982-1988</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ea9e29cfa42d8d716bc9ce143867c119" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_45129049fd6f2bba96d3284362ac004a" parent="aspace_ea9e29cfa42d8d716bc9ce143867c119" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Postek, Stanley: Journal</unittitle>
+            <unitdate>Jul 1942-Dec 1942</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9634438b1badaa6d7566b101eb914a12" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_8f1e530ff82707ae6355394de0c31a86" parent="aspace_9634438b1badaa6d7566b101eb914a12" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Postek, Stanley: Journal</unittitle>
+            <unitdate normal="1937/1989" type="inclusive">undated , Mar 1943-Apr 1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_de31a4918ce10ebe96bbb9aaac1ff4cf" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_a879e68935b03e168f0943f09d9f5157" parent="aspace_de31a4918ce10ebe96bbb9aaac1ff4cf" type="folder">13</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref30" level="series">
+        <did>
+          <unittitle>Series III: Subject Files, 1952-1989</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Abraham Lincoln Brigade: Certificate of Honor</unittitle>
+            <unitdate>Jan 1984</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b29c6e1d075984c5ee828143ccd4219d" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_74a804e023e9d388579c586d5c0931c1" parent="aspace_b29c6e1d075984c5ee828143ccd4219d" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Clippings: Spain politics</unittitle>
+            <unitdate>Apr 1983-Jan 1984</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0f1fe78f11505a49fdbf65cc543d9258" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_7a4862a41732e56e6e2b1beaf6a27335" parent="aspace_0f1fe78f11505a49fdbf65cc543d9258" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>For Valor in Battle (pamphlet by Joseph North)</unittitle>
+            <unitdate>Apr 1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9b940b47ff32861f927071cafa724f91" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_46846a95edb471a5859c0822c42004c7" parent="aspace_9b940b47ff32861f927071cafa724f91" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Good Fight: Film reviews, promotional material</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dfb79669a17179f089f9917e4c0421e2" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_ed58e0c9ad5304860520d98164b761fd" parent="aspace_dfb79669a17179f089f9917e4c0421e2" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Heroines of the Good Fight: North American Women Volunteers in the Spanish Civil War (article by Frances Patai)</unittitle>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_483491d27a0460a65e04a29ca94c13c8" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_a2574bae3cb452a48283d52ed6a246a8" parent="aspace_483491d27a0460a65e04a29ca94c13c8" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Oral History of the American Left (newsletter)</unittitle>
+            <unitdate>Apr 1980</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5db201f71d17c6181bda75f6a632e066" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_3d907364d9eb5228810349fb1c80250e" parent="aspace_5db201f71d17c6181bda75f6a632e066" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>O'Toole, Lawrence: Notes from audiotape interview with; obituaries and tributes</unittitle>
+            <unitdate normal="1937/1989" type="inclusive">undated , 1984</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_623c25073a3b2299f492235452342da8" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_ab15ac87de066cffc5a7ca9e034b3232" parent="aspace_623c25073a3b2299f492235452342da8" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Point of Clarification: Postek's response to Joe Doyle's "Seamen in the Lincoln Battalion"</unittitle>
+            <unitdate normal="1972/1992" type="inclusive">ca.1982</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_81ddb80e03a0a55f9a123a976fe2e0f0" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_61ad08099cca970300e32a5b5693b791" parent="aspace_81ddb80e03a0a55f9a123a976fe2e0f0" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Postcard, flyer, calling card, Mexican tourist visa</unittitle>
+            <unitdate normal="1937/1989" type="inclusive">undated , 1963 , 1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ebf31a90b901b769baa982d2a6efcbd0" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_1d0c14ce7161ab4058848745f81adc2c" parent="aspace_ebf31a90b901b769baa982d2a6efcbd0" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Postek, Stanley: Film headshot/resumé</unittitle>
+            <unitdate normal="1950/1970" type="inclusive">ca.1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bd339224b9856c031ca0921f1262a8d9" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_9f8f78e3c85da703f24cf81abe5f26b3" parent="aspace_bd339224b9856c031ca0921f1262a8d9" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Postek, Stanley: Narrative of Spanish Civil War injury</unittitle>
+            <unitdate normal="1937/1989" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_178e310daddde9350659e6d4a4bb34df" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_b878ad29d794e71e32f001db5aeba67f" parent="aspace_178e310daddde9350659e6d4a4bb34df" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Seamen in the Lincoln Battalion (article by Joe Doyle)</unittitle>
+            <unitdate>Feb 1983</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_653b7d2b26acba1e4134a06a74e85573" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_0275135f96990c1413e0af5db4139365" parent="aspace_653b7d2b26acba1e4134a06a74e85573" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Spanish Civil War Historical Society</unittitle>
+            <unitdate normal="1937/1989" type="inclusive">undated , Mar 1982</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_36dc733b23bbc4e91f93a5ccd8e79065" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_2efb2b449a03b65e95d9d0d5225225de" parent="aspace_36dc733b23bbc4e91f93a5ccd8e79065" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Tom Paine Brigade: Anti-Stalinist flyer</unittitle>
+            <unitdate normal="1976/1996" type="inclusive">ca.1986</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a66844a2ab43b319d1e60df987d3babf" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_130ba7808bec057fc1aca336430f39da" parent="aspace_a66844a2ab43b319d1e60df987d3babf" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>True Americans (article by Roy Hudson)</unittitle>
+            <unitdate>Aug 1979</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0b5adf30910b906616166fbe58a06261" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_4c30b64575db94f3cbd983f4248edb77" parent="aspace_0b5adf30910b906616166fbe58a06261" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>U.S. Political Culture of the 1930s and the American Response to the Spanish Civil War (article by Robert Colodny)</unittitle>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_789e76ef3ada5486a2248f3cb597b2ea" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_a74e809b5c3f16dc8e67410c08f418e6" parent="aspace_789e76ef3ada5486a2248f3cb597b2ea" type="folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Veterans: Articles, obituaries, poems, testimonials by and about</unittitle>
+            <unitdate normal="1937/1989" type="inclusive">undated , 1975-1989</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_168992fa68ba49ce3f1cb6209ff26e4f" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_e3b450181986566d8060a35ab8e96371" parent="aspace_168992fa68ba49ce3f1cb6209ff26e4f" type="folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Veterans: Return visits to Spain</unittitle>
+            <unitdate normal="1937/1989" type="inclusive">undated , 1977-1983</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dcfcadd8bc7ff286e1f5dd17b8c0a8ea" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_9e6160d043831d512c3d8f8696a1e2cc" parent="aspace_dcfcadd8bc7ff286e1f5dd17b8c0a8ea" type="folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Veterans of the Abraham Lincoln Brigade (VALB): Anniversary reservation, Congressional citation</unittitle>
+            <unitdate normal="1978/1980" type="inclusive">1978 , 1980</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7b0392025270ab40b1b549e81cee9d14" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_41343a3308e3a876fe289c1698315ac2" parent="aspace_7b0392025270ab40b1b549e81cee9d14" type="folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Veterans of the Abraham Lincoln Brigade (VALB): Bibliography, newsletter, Congressional amendment proposal</unittitle>
+            <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e23237bf43651cca79ab9ef7aa762f92" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_72b95bc52599f4376ddb0e8da49dadc0" parent="aspace_e23237bf43651cca79ab9ef7aa762f92" type="folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Veterans of the Abraham Lincoln Brigade (VALB): Correspondence</unittitle>
+            <unitdate>Dec 1977 , Sep 1989</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6a76a475daf1cb51ee146d96967187c7" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_0d11516cd5dadaa794dd3508cc0bb456" parent="aspace_6a76a475daf1cb51ee146d96967187c7" type="folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Veterans of the Abraham Lincoln Brigade (VALB): Maritime veterans</unittitle>
+            <unitdate normal="1937/1989" type="inclusive">undated , Jun 1979-Apr 1984</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d9d63dcdb8e8e8d0553fa7686b68daff" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_28585214eb7d88f48dd3ab195ed820bf" parent="aspace_d9d63dcdb8e8e8d0553fa7686b68daff" type="folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Veterans of the Abraham Lincoln Brigade (VALB): Veterans lists</unittitle>
+            <unitdate normal="1937/1989" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d3a8bd077eede40f211d127f3db03e12" label="Mixed Materials [31142062756054]" type="box">1</container>
+            <container id="aspace_418369314331a3ebccd0a47f57a5a777" parent="aspace_d3a8bd077eede40f211d127f3db03e12" type="folder">36</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

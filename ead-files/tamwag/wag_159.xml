@@ -1,68 +1,433 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_159">wag_159</eadid><filedesc><titlestmt><titleproper>Guide to the Jewish Labor Committee Northeast Region Records <num>WAG.159</num></titleproper><author>Megan O'Shea</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>January 2018</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 16:01:17 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Jewish Labor Committee Northeast Region Records</unittitle>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">Jewish Labor Committee (U.S.). Northeast Region</corpname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">Brown, Herman</persname>
-    </origination>
-    <unitid>WAG.159</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">8 Linear Feet</extent>
-      <extent altrender="carrier">in 19 manuscript boxes</extent>
-    </physdesc>
-    <unitdate normal="1963/2002" type="inclusive">1963-2002</unitdate>
-    <unitdate normal="1986/1998" type="bulk">1986-1998</unitdate>
-    <abstract id="aspace_f2b1e009ee5efdaa1cbd891f4dc801d4">The Jewish Labor Committee (JLC) was founded in 1934 by Jewish labor union leaders along with Jewish cultural associations to act in response to the rise of the Nazi Party in Europe.  Before and during World War II, the JLC raised funds and organized people to fight the spread of the Nazi Party.  Since the 1950s the JLC has worked to facilitate cooperation and communication between the Jewish community and labor, focusing on fighting prejudice and discrimination in the workforce.  The Jewish Labor Committee Northeast Region Records document the work of the JLC office based in Boston, Massachusetts.  The collection consists of subject files compiled by Herman Brown, the regional director of the JLC's Northeast Region, and dates between 1963 and 2002, with the bulk of the material dating between 1986 and 1998.  These files contain correspondence, clippings, reports, and publications regarding the work of the JLC in New England.</abstract>
-    <physloc id="aspace_fce9c78c65204ffbf387b4b6c899d394">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
-    <langmaterial id="aspace_fe2737691575ce4bb9583ddf142c6668">The bulk of the material is in English, with some materials in Hebrew and Russian.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_c4ef41390559cdc552d367c24a4ecb1a">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_e36608299692a99b26fbe2df82517bf1">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Herman Brown, 1996. The accession number associated with this gift is 1984.017.</p>  </acqinfo>
-  <arrangement id="aspace_0e3e09a4cf1da45f280ef953f2a482b6">
-    <head>Arrangement</head>
-<p>The collection is arranged in alphabetical order by folder title.  The inventory lists box and folder numbers for an alphabetical range of titles.  Folder titles that consist of a large amount of material are listed individually.</p>  </arrangement>
-  <bioghist id="aspace_f8f5298e0fb5e0a41b8e71dde5f00e54">
-    <head>Historical Note</head>
-<p>The Jewish Labor Committee (JLC) was founded in 1934 by Jewish labor union leaders with Jewish cultural associations to act in response to the rise of the Nazi Party in Europe.  Before and during World War II, the JLC raised funds and organized people to fight the spread of the Nazi Party.  Since the 1950s the JLC has worked to facilitate cooperation and communication between the Jewish community and labor, focusing on fighting prejudice and discrimination in the workforce.  The Jewish Labor Committee Northeast Region is headquartered in Boston, Massachusetts and works with labor unions and organizations, religious organizations, and cultural organizations throughout New England.</p>  </bioghist>
-  <prefercite id="aspace_4a2ef55c06a45b07854d4f87dd2aa609">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Jewish Labor Committee Northeast Region Records; WAG 159; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <processinfo id="aspace_cd582cc596410fb8c576f770d572260b">
-    <head>Processing Information</head>
-<p>The original order of the collection consisted of three alphabetical runs of subject files, separated loosely by date.  These runs contained the same folder titles and types of material in each, and were combined into one alphabetical run.  </p><p>Materials were rehoused in acid-free folders.</p>  </processinfo>
-  <relatedmaterial id="aspace_5cad5f020352574d6f0d7d855c258439">
-    <head>Related Materials</head>
-<p>
-The following Jewish Labor Committee materials are located at this repository: </p><p>Jewish Labor Committee (U.S.) Records, Parts I (WAG 025.001), II (WAG 025.002), and III (WAG 025.003)
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_159">wag_159</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Jewish Labor Committee Northeast Region Records <num>WAG.159</num></titleproper>
+        <author>Megan O'Shea</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>January 2018</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 16:01:17 -0500</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Jewish Labor Committee Northeast Region Records</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">Jewish Labor Committee (U.S.). Northeast Region</corpname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Brown, Herman</persname>
+      </origination>
+      <unitid>WAG.159</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">8 Linear Feet</extent>
+        <extent altrender="carrier">in 19 manuscript boxes</extent>
+      </physdesc>
+      <unitdate normal="1963/2002" type="inclusive">1963-2002</unitdate>
+      <unitdate normal="1986/1998" type="bulk">1986-1998</unitdate>
+      <abstract id="aspace_f2b1e009ee5efdaa1cbd891f4dc801d4">The Jewish Labor Committee (JLC) was founded in 1934 by Jewish labor union leaders along with Jewish cultural associations to act in response to the rise of the Nazi Party in Europe.  Before and during World War II, the JLC raised funds and organized people to fight the spread of the Nazi Party.  Since the 1950s the JLC has worked to facilitate cooperation and communication between the Jewish community and labor, focusing on fighting prejudice and discrimination in the workforce.  The Jewish Labor Committee Northeast Region Records document the work of the JLC office based in Boston, Massachusetts.  The collection consists of subject files compiled by Herman Brown, the regional director of the JLC's Northeast Region, and dates between 1963 and 2002, with the bulk of the material dating between 1986 and 1998.  These files contain correspondence, clippings, reports, and publications regarding the work of the JLC in New England.</abstract>
+      <physloc id="aspace_fce9c78c65204ffbf387b4b6c899d394">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_fe2737691575ce4bb9583ddf142c6668">The bulk of the material is in English, with some materials in Hebrew and Russian.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_c4ef41390559cdc552d367c24a4ecb1a">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_e36608299692a99b26fbe2df82517bf1">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Herman Brown, 1996. The accession number associated with this gift is 1984.017.</p>
+    </acqinfo>
+    <arrangement id="aspace_0e3e09a4cf1da45f280ef953f2a482b6">
+      <head>Arrangement</head>
+      <p>The collection is arranged in alphabetical order by folder title.  The inventory lists box and folder numbers for an alphabetical range of titles.  Folder titles that consist of a large amount of material are listed individually.</p>
+    </arrangement>
+    <bioghist id="aspace_f8f5298e0fb5e0a41b8e71dde5f00e54">
+      <head>Historical Note</head>
+      <p>The Jewish Labor Committee (JLC) was founded in 1934 by Jewish labor union leaders with Jewish cultural associations to act in response to the rise of the Nazi Party in Europe.  Before and during World War II, the JLC raised funds and organized people to fight the spread of the Nazi Party.  Since the 1950s the JLC has worked to facilitate cooperation and communication between the Jewish community and labor, focusing on fighting prejudice and discrimination in the workforce.  The Jewish Labor Committee Northeast Region is headquartered in Boston, Massachusetts and works with labor unions and organizations, religious organizations, and cultural organizations throughout New England.</p>
+    </bioghist>
+    <prefercite id="aspace_4a2ef55c06a45b07854d4f87dd2aa609">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Jewish Labor Committee Northeast Region Records; WAG 159; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_cd582cc596410fb8c576f770d572260b">
+      <head>Processing Information</head>
+      <p>The original order of the collection consisted of three alphabetical runs of subject files, separated loosely by date.  These runs contained the same folder titles and types of material in each, and were combined into one alphabetical run.  </p>
+      <p>Materials were rehoused in acid-free folders.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_5cad5f020352574d6f0d7d855c258439">
+      <head>Related Materials</head>
+      <p>
+The following Jewish Labor Committee materials are located at this repository: </p>
+      <p>Jewish Labor Committee (U.S.) Records, Parts I (WAG 025.001), II (WAG 025.002), and III (WAG 025.003)
  
-Jewish Labor Committee, Chicago Records and Photographs (WAG 160)</p><p>Jewish Labor Committee (U.S.) Oral History Collection (OH 027)</p><p>Jewish Labor Committee (U.S.) Photograph Collection (PHOTOS 048)</p><p>Jewish Labor Committee Ephemera (EPHEMERA ARTIFACTS 003)</p><p>Issues of <emph render="italic">JLC Review</emph> (HD8055.J4 A1), <emph render="italic">JLC Outlook</emph> (HD8055.J4 A17), and <emph render="italic">JLC Civil Rights Newsletter</emph> (JC585 .J533).</p>  </relatedmaterial>
-  <scopecontent id="aspace_ba339547e526d400ac34ed68f7de802e">
-    <head>Scope and Contents</head>
-<p>The Jewish Labor Committee Northeast Region Records document the work of the Jewish Labor Committee in New England, and dates between 1963 and 2002, with the bulk of the material dating between 1986 and 1998.  The collection consists of subject files compiled by Herman Brown, the regional director of the Jewish Labor Committee's (JLC) Northeast Region.  The files document the work of the JLC in New England, mainly in Massachusetts, through correspondence, clippings, reports, and publications.  The correspondence documents the JLC's work with labor organizations, religious groups, cultural organizations, and government agencies to provide training, lobby for and against legislation, and organize events amongst these groups.  The clippings and publications reflect the interests and work of the JLC and its partners.  The reports document JLC meetings and programs, as well as conferences, trainings, and events sponsored by other groups.</p>  </scopecontent>
-  <userestrict id="aspace_23cde9e4283c0266d0a9f445091e876d">
-    <head>Conditions Governing Use</head>
-<p>Any rights (including copyright and related rights to publicity and privacy) held by the Jewish Labor Committee Northeast Region were transferred to New York University in February 1996 by Herman Brown. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Archives. Please contact tamiment.wagner@nyu.edu.</p>  </userestrict>
-  <controlaccess>
-    <subject source="lcsh">Labor movement -- Religious aspects.</subject>
-    <subject source="lcsh">Labor unions and education -- United States.</subject>
-    <subject source="lcsh">Labor movement -- United States -- 20th century.</subject>
-    <subject source="lcsh">Interdenominational cooperation.</subject>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <genreform source="aat">Newsletters.</genreform>
-    <corpname source="naf">Jewish Labor Committee (U.S.)</corpname>
-    <persname role="dnr" rules="dacs" source="local">Brown, Herman</persname>
-  </controlaccess>
-  <dsc><c id="aspace_5af6e7adb46fd053d533e9fc22346633" level="file"><did><unittitle>Alman - Conference on Judaism in Rural New England and Southern Quebec</unittitle><unitdate normal="1982/1998" type="inclusive">1982-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_1f67dc8765d2b1dcf08315703096561f" label="Mixed Materials [31142063135001]" type="box">1</container><container id="aspace_5ebfda99d92f47a24237327b0da5a78b" parent="aspace_1f67dc8765d2b1dcf08315703096561f" type="folder">1-18</container></did></c><c id="aspace_7555c68117202ec45dad3fbdffda16dd" level="file"><did><unittitle>Conference on Stress and Heart Attacks in the Workplace - Contributions and coalitions</unittitle><unitdate normal="1986/1998" type="inclusive">1986-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_4cc8c54803d3cd71d6bc9b59baa067c9" label="Mixed Materials [31142063135019]" type="box">2</container><container id="aspace_b0902480ced589d586e68519c2f9df41" parent="aspace_4cc8c54803d3cd71d6bc9b59baa067c9" type="folder">1-9</container></did></c><c id="aspace_62ed1564f914786d1ed0f456f9a1ddb5" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1986/1998" type="inclusive">1986-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_7c995945d31b68990dfb919faa223e33" label="Mixed Materials [31142063135019]" type="box">2</container><container id="aspace_da4d69b0c16059c8fc2367dd4b6d2398" parent="aspace_7c995945d31b68990dfb919faa223e33" type="folder">10-13</container><container altrender="Manuscript box - Legal" id="aspace_0baba904a2a8f726e7593673dedccd3f" label="Mixed Materials [31142063135027]" type="box">3</container><container id="aspace_8c7691e85134e9f2c66164d2f6de07ba" parent="aspace_0baba904a2a8f726e7593673dedccd3f" type="folder">1-2</container></did></c><c id="aspace_138bf10eb91e5cbd5303b586af814600" level="file"><did><unittitle>Diamond Walnut strike - Federations and community relations councils</unittitle><unitdate normal="1985/1997" type="inclusive">1985-1997</unitdate><container altrender="Manuscript box - Legal" id="aspace_a8f3b24d4394e48a0e79262e4ecc9dc1" label="Mixed Materials [31142063135027]" type="box">3</container><container id="aspace_192abfde759ae0666a4b492f753bf877" parent="aspace_a8f3b24d4394e48a0e79262e4ecc9dc1" type="folder">3-16</container></did></c><c id="aspace_b25bfcd9b5ed00b1a1df5bf2d28d373f" level="file"><did><unittitle>Foreign labor rights - Forum on neo-Nazism in Germany</unittitle><unitdate normal="1992/1997" type="inclusive">1992-1997</unitdate><container altrender="Manuscript box - Legal" id="aspace_8f548586f4731585fc35ad59d3454d3e" label="Mixed Materials [31142063135035]" type="box">4</container><container id="aspace_62d89a042e5b9feb261cf51b4dec2c96" parent="aspace_8f548586f4731585fc35ad59d3454d3e" type="folder">1-2</container></did></c><c id="aspace_62c7da4f0c19b67a92f3675eea72e351" level="file"><did><unittitle>Fundraising</unittitle><unitdate normal="1976/1998" type="inclusive">1976-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_b8783eac721c39cd15d49b4483072253" label="Mixed Materials [31142063135035]" type="box">4</container><container id="aspace_27eb5a7650e699c3cff7f097bdbb2023" parent="aspace_b8783eac721c39cd15d49b4483072253" type="folder">3-9</container></did></c><c id="aspace_8e5d97a39ad29ade3fe33118eba0f85c" level="file"><did><unittitle>German educators - Harvard Union of Clerical and Technical Workers</unittitle><unitdate normal="1987/1998" type="inclusive">1987-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_a327b27256732d49916934be0ee8cf79" label="Mixed Materials [31142063135035]" type="box">4</container><container id="aspace_9dbb85c8beef76241f354a3d079ca198" parent="aspace_a327b27256732d49916934be0ee8cf79" type="folder">10-14</container></did></c><c id="aspace_e5e34e48e6a64bf059f6b7b05300442a" level="file"><did><unittitle>Health and safety</unittitle><unitdate normal="1985/1998" type="inclusive">1985-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_5ea3d6812c9ea3035600c5a9d2e801ad" label="Mixed Materials [31142063135035]" type="box">4</container><container id="aspace_f64c021e99351489f75dc95da3c9779f" parent="aspace_5ea3d6812c9ea3035600c5a9d2e801ad" type="folder">15</container><container altrender="Manuscript box - Legal" id="aspace_9fef3ae7ae12da193697dafa1f1a2dc3" label="Mixed Materials [31142063135043]" type="box">5</container><container id="aspace_7ea78fa05e578427c6afe53bd79b9032" parent="aspace_9fef3ae7ae12da193697dafa1f1a2dc3" type="folder">1-5</container></did></c><c id="aspace_02c91b228498cdd069d58ea187ab860d" level="file"><did><unittitle>Health and Safety Committee - Healthcare</unittitle><unitdate normal="1985/1992" type="inclusive">1985-1992</unitdate><container altrender="Manuscript box - Legal" id="aspace_fb22920e1f8ab41ac355b37074e6e2c4" label="Mixed Materials [31142063135043]" type="box">5</container><container id="aspace_0cbd7b71e7c19858d343478fa9e1b17f" parent="aspace_fb22920e1f8ab41ac355b37074e6e2c4" type="folder">6-12</container></did></c><c id="aspace_ab70fb31f25532dcbadbe01353d177bf" level="file"><did><unittitle>Holocaust education</unittitle><unitdate normal="1985/1998" type="inclusive">1985-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_2f49ade0394da1f9870d2e525cb79e94" label="Mixed Materials [31142063135043]" type="box">5</container><container id="aspace_e168c80a5ef53dee700686ab55d4fba9" parent="aspace_2f49ade0394da1f9870d2e525cb79e94" type="folder">13</container><container altrender="Manuscript box - Legal" id="aspace_e95fdb2f94aa554f649e4aafae4ac118" label="Mixed Materials [31142063135050]" type="box">6</container><container id="aspace_3c2716e9800973c7d09021f9f02441d3" parent="aspace_e95fdb2f94aa554f649e4aafae4ac118" type="folder">1-4</container></did></c><c id="aspace_230074323bdad9f5192c5be5180c7b23" level="file"><did><unittitle>Housing - Industrial homework</unittitle><unitdate normal="1986/1996" type="inclusive">1986-1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_bd2b52a7bf5a92e19b60bcac8b03670b" label="Mixed Materials [31142063135050]" type="box">6</container><container id="aspace_e416de1016331bec11801ea5885c249d" parent="aspace_bd2b52a7bf5a92e19b60bcac8b03670b" type="folder">5-12</container></did></c><c id="aspace_e4e0b0d70b9363bdedfb516beaba27f2" level="file"><did><unittitle>Israel</unittitle><unitdate normal="1984/1998" type="inclusive">1984-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_bf7a1ef232ca0b427e05667b2d9be03d" label="Mixed Materials [31142063135050]" type="box">6</container><container id="aspace_fb18d5dd7d3c46c1edf80c0ce8978adc" parent="aspace_bf7a1ef232ca0b427e05667b2d9be03d" type="folder">13-14</container><container altrender="Manuscript box - Legal" id="aspace_e237f01a6c477a1429d122f17289ced6" label="Mixed Materials [31142063135068]" type="box">7</container><container id="aspace_34b2a5eb50b4c8435b017d712643ad8e" parent="aspace_e237f01a6c477a1429d122f17289ced6" type="folder">1-14</container><container altrender="Manuscript box - Legal" id="aspace_92f81a96f5695e2b4707171a542381d5" label="Mixed Materials [31142063135076]" type="box">8</container><container id="aspace_b49a5f3c39ed715b3d1147bb5b01e795" parent="aspace_92f81a96f5695e2b4707171a542381d5" type="folder">1-7</container></did></c><c id="aspace_eeb0c4030828271197eba733cfdf0b36" level="file"><did><unittitle>Issues - Jerusalem 3000</unittitle><unitdate normal="1986/1998" type="inclusive">1986-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_03d8680783c9e483428ed75fd3d31a53" label="Mixed Materials [31142063135076]" type="box">8</container><container id="aspace_4a03db029d7d1aeee738374bb68bfdac" parent="aspace_03d8680783c9e483428ed75fd3d31a53" type="folder">8-11</container></did></c><c id="aspace_78064ebe5f46bb952221409bbdb69733" level="file"><did><unittitle>Jewish Community Relations Council of Greater Boston</unittitle><unitdate normal="1988/1998" type="inclusive">1988-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_86f95730caa43a3cd5cd9ef82af7f397" label="Mixed Materials [31142063135076]" type="box">8</container><container id="aspace_68f36b52341bd521e154824872f3ac74" parent="aspace_86f95730caa43a3cd5cd9ef82af7f397" type="folder">12-14</container><container altrender="Manuscript box - Legal" id="aspace_35160e52274fc5b3ac0aa5020013296a" label="Mixed Materials [31142063135084]" type="box">9</container><container id="aspace_51183636b70be98893b34e1d916b3b47" parent="aspace_35160e52274fc5b3ac0aa5020013296a" type="folder">1-4</container></did></c><c id="aspace_f58afb161a63e1e29840f56f7a375fb9" level="file"><did><unittitle>Jewish Labor Committee</unittitle><unitdate normal="1963/2002" type="inclusive">1963-2002</unitdate><container altrender="Manuscript box - Legal" id="aspace_ac259dd8c02211f265a7109659bb8696" label="Mixed Materials [31142063135084]" type="box">9</container><container id="aspace_4b72937d35f734c42143833d0cb0eae3" parent="aspace_ac259dd8c02211f265a7109659bb8696" type="folder">5-13</container><container altrender="Manuscript box - Legal" id="aspace_3d60e2d65fb052201f1b0579df760421" label="Mixed Materials [31142063135092]" type="box">10</container><container id="aspace_96183fabbfdecf200fc1b3ec4ca649cb" parent="aspace_3d60e2d65fb052201f1b0579df760421" type="folder">1-3</container></did></c><c id="aspace_d7d27a1e331a985b03362423a7fae4f6" level="file"><did><unittitle>Jewish Vocational Service - Labor Guild</unittitle><unitdate normal="1986/1997" type="inclusive">1986-1997</unitdate><container altrender="Manuscript box - Legal" id="aspace_a3177511ccbab26c3d90be2be8fea067" label="Mixed Materials [31142063135092]" type="box">10</container><container id="aspace_fdce397f5ee9ffdc3bd02b3f4f5bad40" parent="aspace_a3177511ccbab26c3d90be2be8fea067" type="folder">4-14</container></did></c><c id="aspace_3703b1adca52800bd6bf24c320f246e6" level="file"><did><unittitle>Labor history</unittitle><unitdate normal="1986/1986">1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_90c66b499f547c64fafd87782e15ccbe" label="Mixed Materials [31142063135100]" type="box">11</container><container id="aspace_56ac4bc3762cf932e4eddc4c5bb2e3c1" parent="aspace_90c66b499f547c64fafd87782e15ccbe" type="folder">1</container></did></c><c id="aspace_70667992cb15745c1af01fd1c62a45a0" level="file"><did><unittitle>Labor solidarity</unittitle><unitdate normal="1988/1994" type="inclusive">1988-1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_71058aebc94752b7bf221e559cbf1d44" label="Mixed Materials [31142063135100]" type="box">11</container><container id="aspace_e7ee45bd78f5d5502ebb8802f6c5ab98" parent="aspace_71058aebc94752b7bf221e559cbf1d44" type="folder">2-9</container></did></c><c id="aspace_8b6a0bc00c350031894f5abfeadd81ab" level="file"><did><unittitle>Labor support</unittitle><unitdate normal="1995/1998" type="inclusive">1995-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_3282ce8ddf30dd1effd9fc19f873b774" label="Mixed Materials [31142063135100]" type="box">11</container><container id="aspace_a769912437fdca3ac756f342ac743ec4" parent="aspace_3282ce8ddf30dd1effd9fc19f873b774" type="folder">10-12</container><container altrender="Manuscript box - Legal" id="aspace_aabced0f5af99da7b4d9fba3b90fb89f" label="Mixed Materials [31142063135118]" type="box">12</container><container id="aspace_7ebd02a9db0b85aa7ce2cf477301c645" parent="aspace_aabced0f5af99da7b4d9fba3b90fb89f" type="folder">1</container></did></c><c id="aspace_9b4f03ff4abb91b6a66c53f02a6a2e5b" level="file"><did><unittitle>Leadership Network - Legal</unittitle><unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate><container altrender="Manuscript box - Legal" id="aspace_16d8b76b2a6473b5883cb7cddc46241d" label="Mixed Materials [31142063135118]" type="box">12</container><container id="aspace_caa077f3939f6a6798befe2d23e35f5e" parent="aspace_16d8b76b2a6473b5883cb7cddc46241d" type="folder">2-5</container></did></c><c id="aspace_94f16e8be7951c11059f75ab66baf211" level="file"><did><unittitle>Legislation</unittitle><unitdate normal="1985/1998" type="inclusive">1985-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_f3d6172d4540d2af563dc74b522f7d34" label="Mixed Materials [31142063135118]" type="box">12</container><container id="aspace_0c480569b2997c4ce94a86bc71433a07" parent="aspace_f3d6172d4540d2af563dc74b522f7d34" type="folder">6-13</container></did></c><c id="aspace_67f10da321a072aa3bc8d56013251e6a" level="file"><did><unittitle>Libraries - Maine</unittitle><unitdate normal="1986/1995" type="inclusive">1986-1995</unitdate><container altrender="Manuscript box - Legal" id="aspace_ac0a26d9a68218f71a6254eaa13c71d5" label="Mixed Materials [31142063135118]" type="box">12</container><container id="aspace_c9bc96db66744a42e32bb8f6d9ecd2e2" parent="aspace_ac0a26d9a68218f71a6254eaa13c71d5" type="folder">14</container><container altrender="Manuscript box - Legal" id="aspace_6d1316918f1c1f353698b6a231581be4" label="Mixed Materials [31142063135126]" type="box">13</container><container id="aspace_2c59d4090a7330c77aa003c0220c752e" parent="aspace_6d1316918f1c1f353698b6a231581be4" type="folder">1</container></did></c><c id="aspace_c79f69c0e8ba0201b98b22fdd89b9499" level="file"><did><unittitle>Massachusetts AFL-CIO</unittitle><unitdate normal="1985/1998" type="inclusive">1985-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_e830a5fb1f44285d864acf768f26b334" label="Mixed Materials [31142063135126]" type="box">13</container><container id="aspace_3bfeb3743b30b785b73be6f46ce2463c" parent="aspace_e830a5fb1f44285d864acf768f26b334" type="folder">2-8</container></did></c><c id="aspace_3495a5e9b040f6cb0f7be05fa11ce879" level="file"><did><unittitle>Massachusetts Coalition for Adult Literacy - Massachusetts Health Action Alliance</unittitle><unitdate normal="1983/1989" type="inclusive">1983-1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_820845b30c9fb0eadbb1577d35adaa23" label="Mixed Materials [31142063135126]" type="box">13</container><container id="aspace_9d9264e6b273af03b54c1fd8e2c15efc" parent="aspace_820845b30c9fb0eadbb1577d35adaa23" type="folder">9-12</container></did></c><c id="aspace_56d7edddb3e14161e9d7bef4689bc081" level="file"><did><unittitle>Massachusetts Interfaith Committee for Worker Justice</unittitle><unitdate normal="1996/1998" type="inclusive">1996-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_b57b26e268d4c6c49d6086bdc6fd70bc" label="Mixed Materials [31142063135126]" type="box">13</container><container id="aspace_466d6b7b288029a62a7b885876efbd30" parent="aspace_b57b26e268d4c6c49d6086bdc6fd70bc" type="folder">13-16</container></did></c><c id="aspace_f1d22a57ba32d133adbafe2d278992e1" level="file"><did><unittitle>Massachusetts Labor Committee on the Middle East - Miscellaneous</unittitle><unitdate normal="1984/1998" type="inclusive">1984-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_2a16f673ce5e201e46f11ad6e00b5297" label="Mixed Materials [31142063135134]" type="box">14</container><container id="aspace_570cb3a69fae152f48b71443e7d88247" parent="aspace_2a16f673ce5e201e46f11ad6e00b5297" type="folder">1-12</container></did></c><c id="aspace_2f76830f4f4b9a7f0c093cd400aa1daf" level="file"><did><unittitle>National Health Insurance</unittitle><unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate><container altrender="Manuscript box - Legal" id="aspace_a9c88e57a5a99179795c677d77290024" label="Mixed Materials [31142063135134]" type="box">14</container><container id="aspace_4f12b4e638fc7a851f38e2231b32fa24" parent="aspace_a9c88e57a5a99179795c677d77290024" type="folder">13-14</container><container altrender="Manuscript box - Legal" id="aspace_78fb096120e2e65a3bc662293d9f33c3" label="Mixed Materials [31142063135142]" type="box">15</container><container id="aspace_89c9dd8f5bd8b1bc3d7e37c46da65b6d" parent="aspace_78fb096120e2e65a3bc662293d9f33c3" type="folder">1-2</container></did></c><c id="aspace_49c88c776331be5f3c4a79712a0dc970" level="file"><did><unittitle>National Yiddish Book Center - Prevailing wage</unittitle><unitdate normal="1985/1998" type="inclusive">1985-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_76efeab05123b2d4e6687e841193f59d" label="Mixed Materials [31142063135142]" type="box">15</container><container id="aspace_888c9a62c9d950f12a088530b24a4b91" parent="aspace_76efeab05123b2d4e6687e841193f59d" type="folder">3-12</container></did></c><c id="aspace_2009ef58e2aff07099104d396d266f3a" level="file"><did><unittitle>Programs</unittitle><unitdate normal="1986/1995" type="inclusive">1986-1995</unitdate><container altrender="Manuscript box - Legal" id="aspace_12e7145f5a0bd7bd6129fd94acdc3a7b" label="Mixed Materials [31142063135159]" type="box">16</container><container id="aspace_730ec59c878ebc8de91cfe0bd4c5faa5" parent="aspace_12e7145f5a0bd7bd6129fd94acdc3a7b" type="folder">1-5</container></did></c><c id="aspace_eb88e67118386393c1c82e4e069f181b" level="file"><did><unittitle>Public Affairs Committee - Publicity</unittitle><unitdate normal="1979/1995" type="inclusive">1979-1995</unitdate><container altrender="Manuscript box - Legal" id="aspace_5079e0b184f737e5f7844c49f4700c05" label="Mixed Materials [31142063135159]" type="box">16</container><container id="aspace_a3e255ff16e2d0229e162bdca66a29da" parent="aspace_5079e0b184f737e5f7844c49f4700c05" type="folder">6-10</container></did></c><c id="aspace_58df822b8ad87a0acce41921c1bcd6df" level="file"><did><unittitle>Religion and labor</unittitle><unitdate normal="1991/1997" type="inclusive">1991-1997</unitdate><container altrender="Manuscript box - Legal" id="aspace_256806b9ba67d9c690828c74e541b2c4" label="Mixed Materials [31142063135159]" type="box">16</container><container id="aspace_e8a1b02f8c3051393c24a0d3b6f4d263" parent="aspace_256806b9ba67d9c690828c74e541b2c4" type="folder">11-14</container><container altrender="Manuscript box - Legal" id="aspace_e247b637632c9ca948ff5d27e51d3310" label="Mixed Materials [31142063135167]" type="box">17</container><container id="aspace_b55aa66aa7f1908dc0daffabcc181b94" parent="aspace_e247b637632c9ca948ff5d27e51d3310" type="folder">1-2</container></did></c><c id="aspace_92d2c34122e1434b316bffba6671dfc9" level="file"><did><unittitle>Reports</unittitle><unitdate normal="1986/1998" type="inclusive">1986-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_24e441acf9c6f88ae99524bfae54d223" label="Mixed Materials [31142063135167]" type="box">17</container><container id="aspace_071a7978e30571adee929b9665d97962" parent="aspace_24e441acf9c6f88ae99524bfae54d223" type="folder">3-7</container></did></c><c id="aspace_e28f79c870cba4a0108f5c7d7171a224" level="file"><did><unittitle>Rhode Island - Southeastern Massachusetts</unittitle><unitdate normal="1986/1998" type="inclusive">1986-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_b623ba3dcd3c5707a710218d491e22b4" label="Mixed Materials [31142063135167]" type="box">17</container><container id="aspace_0ca7efa0c641de59f68cfb63ef869724" parent="aspace_b623ba3dcd3c5707a710218d491e22b4" type="folder">8-14</container></did></c><c id="aspace_ddebef5799d4a9d299a98fc15e1e4874" level="file"><did><unittitle>Soviet Jewry</unittitle><unitdate normal="1985/1990" type="inclusive">1985-1990</unitdate><container altrender="Manuscript box - Legal" id="aspace_42b04c80a197543d18080070acbad98d" label="Mixed Materials [31142063135167]" type="box">17</container><container id="aspace_4955fc6c370600781e714671f3b1202c" parent="aspace_42b04c80a197543d18080070acbad98d" type="folder">15</container><container altrender="Manuscript box - Legal" id="aspace_0b7dc048202ac4632109d4bd84b5930f" label="Mixed Materials [31142063135175]" type="box">18</container><container id="aspace_ec715b094c6c483db711d6ff08557e79" parent="aspace_0b7dc048202ac4632109d4bd84b5930f" type="folder">1-2</container></did></c><c id="aspace_7f2143a6307ec41380f2c1ad798d0b18" level="file"><did><unittitle>The Tax Equity Alliance for Massachusetts - Women's issues</unittitle><unitdate normal="1985/1998" type="inclusive">1985-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_6dce62c574269f8a5c03124d9b299b24" label="Mixed Materials [31142063135175]" type="box">18</container><container id="aspace_489b1f7d17d5e277b33f2e0a41f17e4a" parent="aspace_6dce62c574269f8a5c03124d9b299b24" type="folder">3-16</container></did></c><c id="aspace_6e2f93faa5fc38d76bb85153a5353692" level="file"><did><unittitle>Work Environment Justice Fund</unittitle><unitdate normal="1994/1996" type="inclusive">1994-1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_df6201f36c44c6b10f7c6b0367413a39" label="Mixed Materials [31142063135183]" type="box">19</container><container id="aspace_8f9701facece207e8502a1b802bcf95c" parent="aspace_df6201f36c44c6b10f7c6b0367413a39" type="folder">1-6</container></did></c><c id="aspace_c8bd3a193d62d526a6c2448f62477adb" level="file"><did><unittitle>Workers' compensation - The Workmen's Circle</unittitle><unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate><container altrender="Manuscript box - Legal" id="aspace_0c02f6e37a105d7783d95a80315048b8" label="Mixed Materials [31142063135183]" type="box">19</container><container id="aspace_ed707066c05984755643f97d4f751b57" parent="aspace_0c02f6e37a105d7783d95a80315048b8" type="folder">7-8</container></did></c></dsc>
-</archdesc>
+Jewish Labor Committee, Chicago Records and Photographs (WAG 160)</p>
+      <p>Jewish Labor Committee (U.S.) Oral History Collection (OH 027)</p>
+      <p>Jewish Labor Committee (U.S.) Photograph Collection (PHOTOS 048)</p>
+      <p>Jewish Labor Committee Ephemera (EPHEMERA ARTIFACTS 003)</p>
+      <p>Issues of <emph render="italic">JLC Review</emph> (HD8055.J4 A1), <emph render="italic">JLC Outlook</emph> (HD8055.J4 A17), and <emph render="italic">JLC Civil Rights Newsletter</emph> (JC585 .J533).</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_ba339547e526d400ac34ed68f7de802e">
+      <head>Scope and Contents</head>
+      <p>The Jewish Labor Committee Northeast Region Records document the work of the Jewish Labor Committee in New England, and dates between 1963 and 2002, with the bulk of the material dating between 1986 and 1998.  The collection consists of subject files compiled by Herman Brown, the regional director of the Jewish Labor Committee's (JLC) Northeast Region.  The files document the work of the JLC in New England, mainly in Massachusetts, through correspondence, clippings, reports, and publications.  The correspondence documents the JLC's work with labor organizations, religious groups, cultural organizations, and government agencies to provide training, lobby for and against legislation, and organize events amongst these groups.  The clippings and publications reflect the interests and work of the JLC and its partners.  The reports document JLC meetings and programs, as well as conferences, trainings, and events sponsored by other groups.</p>
+    </scopecontent>
+    <userestrict id="aspace_23cde9e4283c0266d0a9f445091e876d">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the Jewish Labor Committee Northeast Region were transferred to New York University in February 1996 by Herman Brown. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Archives. Please contact tamiment.wagner@nyu.edu.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Labor movement -- Religious aspects.</subject>
+      <subject source="lcsh">Labor unions and education -- United States.</subject>
+      <subject source="lcsh">Labor movement -- United States -- 20th century.</subject>
+      <subject source="lcsh">Interdenominational cooperation.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Newsletters.</genreform>
+      <corpname source="naf">Jewish Labor Committee (U.S.)</corpname>
+      <persname role="dnr" rules="dacs" source="local">Brown, Herman</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_5af6e7adb46fd053d533e9fc22346633" level="file">
+        <did>
+          <unittitle>Alman - Conference on Judaism in Rural New England and Southern Quebec</unittitle>
+          <unitdate normal="1982/1998" type="inclusive">1982-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1f67dc8765d2b1dcf08315703096561f" label="Mixed Materials [31142063135001]" type="box">1</container>
+          <container id="aspace_5ebfda99d92f47a24237327b0da5a78b" parent="aspace_1f67dc8765d2b1dcf08315703096561f" type="folder">1-18</container>
+        </did>
+      </c>
+      <c id="aspace_7555c68117202ec45dad3fbdffda16dd" level="file">
+        <did>
+          <unittitle>Conference on Stress and Heart Attacks in the Workplace - Contributions and coalitions</unittitle>
+          <unitdate normal="1986/1998" type="inclusive">1986-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4cc8c54803d3cd71d6bc9b59baa067c9" label="Mixed Materials [31142063135019]" type="box">2</container>
+          <container id="aspace_b0902480ced589d586e68519c2f9df41" parent="aspace_4cc8c54803d3cd71d6bc9b59baa067c9" type="folder">1-9</container>
+        </did>
+      </c>
+      <c id="aspace_62ed1564f914786d1ed0f456f9a1ddb5" level="file">
+        <did>
+          <unittitle>Correspondence</unittitle>
+          <unitdate normal="1986/1998" type="inclusive">1986-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7c995945d31b68990dfb919faa223e33" label="Mixed Materials [31142063135019]" type="box">2</container>
+          <container id="aspace_da4d69b0c16059c8fc2367dd4b6d2398" parent="aspace_7c995945d31b68990dfb919faa223e33" type="folder">10-13</container>
+          <container altrender="Manuscript box - Legal" id="aspace_0baba904a2a8f726e7593673dedccd3f" label="Mixed Materials [31142063135027]" type="box">3</container>
+          <container id="aspace_8c7691e85134e9f2c66164d2f6de07ba" parent="aspace_0baba904a2a8f726e7593673dedccd3f" type="folder">1-2</container>
+        </did>
+      </c>
+      <c id="aspace_138bf10eb91e5cbd5303b586af814600" level="file">
+        <did>
+          <unittitle>Diamond Walnut strike - Federations and community relations councils</unittitle>
+          <unitdate normal="1985/1997" type="inclusive">1985-1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a8f3b24d4394e48a0e79262e4ecc9dc1" label="Mixed Materials [31142063135027]" type="box">3</container>
+          <container id="aspace_192abfde759ae0666a4b492f753bf877" parent="aspace_a8f3b24d4394e48a0e79262e4ecc9dc1" type="folder">3-16</container>
+        </did>
+      </c>
+      <c id="aspace_b25bfcd9b5ed00b1a1df5bf2d28d373f" level="file">
+        <did>
+          <unittitle>Foreign labor rights - Forum on neo-Nazism in Germany</unittitle>
+          <unitdate normal="1992/1997" type="inclusive">1992-1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8f548586f4731585fc35ad59d3454d3e" label="Mixed Materials [31142063135035]" type="box">4</container>
+          <container id="aspace_62d89a042e5b9feb261cf51b4dec2c96" parent="aspace_8f548586f4731585fc35ad59d3454d3e" type="folder">1-2</container>
+        </did>
+      </c>
+      <c id="aspace_62c7da4f0c19b67a92f3675eea72e351" level="file">
+        <did>
+          <unittitle>Fundraising</unittitle>
+          <unitdate normal="1976/1998" type="inclusive">1976-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b8783eac721c39cd15d49b4483072253" label="Mixed Materials [31142063135035]" type="box">4</container>
+          <container id="aspace_27eb5a7650e699c3cff7f097bdbb2023" parent="aspace_b8783eac721c39cd15d49b4483072253" type="folder">3-9</container>
+        </did>
+      </c>
+      <c id="aspace_8e5d97a39ad29ade3fe33118eba0f85c" level="file">
+        <did>
+          <unittitle>German educators - Harvard Union of Clerical and Technical Workers</unittitle>
+          <unitdate normal="1987/1998" type="inclusive">1987-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a327b27256732d49916934be0ee8cf79" label="Mixed Materials [31142063135035]" type="box">4</container>
+          <container id="aspace_9dbb85c8beef76241f354a3d079ca198" parent="aspace_a327b27256732d49916934be0ee8cf79" type="folder">10-14</container>
+        </did>
+      </c>
+      <c id="aspace_e5e34e48e6a64bf059f6b7b05300442a" level="file">
+        <did>
+          <unittitle>Health and safety</unittitle>
+          <unitdate normal="1985/1998" type="inclusive">1985-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5ea3d6812c9ea3035600c5a9d2e801ad" label="Mixed Materials [31142063135035]" type="box">4</container>
+          <container id="aspace_f64c021e99351489f75dc95da3c9779f" parent="aspace_5ea3d6812c9ea3035600c5a9d2e801ad" type="folder">15</container>
+          <container altrender="Manuscript box - Legal" id="aspace_9fef3ae7ae12da193697dafa1f1a2dc3" label="Mixed Materials [31142063135043]" type="box">5</container>
+          <container id="aspace_7ea78fa05e578427c6afe53bd79b9032" parent="aspace_9fef3ae7ae12da193697dafa1f1a2dc3" type="folder">1-5</container>
+        </did>
+      </c>
+      <c id="aspace_02c91b228498cdd069d58ea187ab860d" level="file">
+        <did>
+          <unittitle>Health and Safety Committee - Healthcare</unittitle>
+          <unitdate normal="1985/1992" type="inclusive">1985-1992</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fb22920e1f8ab41ac355b37074e6e2c4" label="Mixed Materials [31142063135043]" type="box">5</container>
+          <container id="aspace_0cbd7b71e7c19858d343478fa9e1b17f" parent="aspace_fb22920e1f8ab41ac355b37074e6e2c4" type="folder">6-12</container>
+        </did>
+      </c>
+      <c id="aspace_ab70fb31f25532dcbadbe01353d177bf" level="file">
+        <did>
+          <unittitle>Holocaust education</unittitle>
+          <unitdate normal="1985/1998" type="inclusive">1985-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2f49ade0394da1f9870d2e525cb79e94" label="Mixed Materials [31142063135043]" type="box">5</container>
+          <container id="aspace_e168c80a5ef53dee700686ab55d4fba9" parent="aspace_2f49ade0394da1f9870d2e525cb79e94" type="folder">13</container>
+          <container altrender="Manuscript box - Legal" id="aspace_e95fdb2f94aa554f649e4aafae4ac118" label="Mixed Materials [31142063135050]" type="box">6</container>
+          <container id="aspace_3c2716e9800973c7d09021f9f02441d3" parent="aspace_e95fdb2f94aa554f649e4aafae4ac118" type="folder">1-4</container>
+        </did>
+      </c>
+      <c id="aspace_230074323bdad9f5192c5be5180c7b23" level="file">
+        <did>
+          <unittitle>Housing - Industrial homework</unittitle>
+          <unitdate normal="1986/1996" type="inclusive">1986-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bd2b52a7bf5a92e19b60bcac8b03670b" label="Mixed Materials [31142063135050]" type="box">6</container>
+          <container id="aspace_e416de1016331bec11801ea5885c249d" parent="aspace_bd2b52a7bf5a92e19b60bcac8b03670b" type="folder">5-12</container>
+        </did>
+      </c>
+      <c id="aspace_e4e0b0d70b9363bdedfb516beaba27f2" level="file">
+        <did>
+          <unittitle>Israel</unittitle>
+          <unitdate normal="1984/1998" type="inclusive">1984-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bf7a1ef232ca0b427e05667b2d9be03d" label="Mixed Materials [31142063135050]" type="box">6</container>
+          <container id="aspace_fb18d5dd7d3c46c1edf80c0ce8978adc" parent="aspace_bf7a1ef232ca0b427e05667b2d9be03d" type="folder">13-14</container>
+          <container altrender="Manuscript box - Legal" id="aspace_e237f01a6c477a1429d122f17289ced6" label="Mixed Materials [31142063135068]" type="box">7</container>
+          <container id="aspace_34b2a5eb50b4c8435b017d712643ad8e" parent="aspace_e237f01a6c477a1429d122f17289ced6" type="folder">1-14</container>
+          <container altrender="Manuscript box - Legal" id="aspace_92f81a96f5695e2b4707171a542381d5" label="Mixed Materials [31142063135076]" type="box">8</container>
+          <container id="aspace_b49a5f3c39ed715b3d1147bb5b01e795" parent="aspace_92f81a96f5695e2b4707171a542381d5" type="folder">1-7</container>
+        </did>
+      </c>
+      <c id="aspace_eeb0c4030828271197eba733cfdf0b36" level="file">
+        <did>
+          <unittitle>Issues - Jerusalem 3000</unittitle>
+          <unitdate normal="1986/1998" type="inclusive">1986-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_03d8680783c9e483428ed75fd3d31a53" label="Mixed Materials [31142063135076]" type="box">8</container>
+          <container id="aspace_4a03db029d7d1aeee738374bb68bfdac" parent="aspace_03d8680783c9e483428ed75fd3d31a53" type="folder">8-11</container>
+        </did>
+      </c>
+      <c id="aspace_78064ebe5f46bb952221409bbdb69733" level="file">
+        <did>
+          <unittitle>Jewish Community Relations Council of Greater Boston</unittitle>
+          <unitdate normal="1988/1998" type="inclusive">1988-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_86f95730caa43a3cd5cd9ef82af7f397" label="Mixed Materials [31142063135076]" type="box">8</container>
+          <container id="aspace_68f36b52341bd521e154824872f3ac74" parent="aspace_86f95730caa43a3cd5cd9ef82af7f397" type="folder">12-14</container>
+          <container altrender="Manuscript box - Legal" id="aspace_35160e52274fc5b3ac0aa5020013296a" label="Mixed Materials [31142063135084]" type="box">9</container>
+          <container id="aspace_51183636b70be98893b34e1d916b3b47" parent="aspace_35160e52274fc5b3ac0aa5020013296a" type="folder">1-4</container>
+        </did>
+      </c>
+      <c id="aspace_f58afb161a63e1e29840f56f7a375fb9" level="file">
+        <did>
+          <unittitle>Jewish Labor Committee</unittitle>
+          <unitdate normal="1963/2002" type="inclusive">1963-2002</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ac259dd8c02211f265a7109659bb8696" label="Mixed Materials [31142063135084]" type="box">9</container>
+          <container id="aspace_4b72937d35f734c42143833d0cb0eae3" parent="aspace_ac259dd8c02211f265a7109659bb8696" type="folder">5-13</container>
+          <container altrender="Manuscript box - Legal" id="aspace_3d60e2d65fb052201f1b0579df760421" label="Mixed Materials [31142063135092]" type="box">10</container>
+          <container id="aspace_96183fabbfdecf200fc1b3ec4ca649cb" parent="aspace_3d60e2d65fb052201f1b0579df760421" type="folder">1-3</container>
+        </did>
+      </c>
+      <c id="aspace_d7d27a1e331a985b03362423a7fae4f6" level="file">
+        <did>
+          <unittitle>Jewish Vocational Service - Labor Guild</unittitle>
+          <unitdate normal="1986/1997" type="inclusive">1986-1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a3177511ccbab26c3d90be2be8fea067" label="Mixed Materials [31142063135092]" type="box">10</container>
+          <container id="aspace_fdce397f5ee9ffdc3bd02b3f4f5bad40" parent="aspace_a3177511ccbab26c3d90be2be8fea067" type="folder">4-14</container>
+        </did>
+      </c>
+      <c id="aspace_3703b1adca52800bd6bf24c320f246e6" level="file">
+        <did>
+          <unittitle>Labor history</unittitle>
+          <unitdate normal="1986/1986">1986</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_90c66b499f547c64fafd87782e15ccbe" label="Mixed Materials [31142063135100]" type="box">11</container>
+          <container id="aspace_56ac4bc3762cf932e4eddc4c5bb2e3c1" parent="aspace_90c66b499f547c64fafd87782e15ccbe" type="folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_70667992cb15745c1af01fd1c62a45a0" level="file">
+        <did>
+          <unittitle>Labor solidarity</unittitle>
+          <unitdate normal="1988/1994" type="inclusive">1988-1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_71058aebc94752b7bf221e559cbf1d44" label="Mixed Materials [31142063135100]" type="box">11</container>
+          <container id="aspace_e7ee45bd78f5d5502ebb8802f6c5ab98" parent="aspace_71058aebc94752b7bf221e559cbf1d44" type="folder">2-9</container>
+        </did>
+      </c>
+      <c id="aspace_8b6a0bc00c350031894f5abfeadd81ab" level="file">
+        <did>
+          <unittitle>Labor support</unittitle>
+          <unitdate normal="1995/1998" type="inclusive">1995-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3282ce8ddf30dd1effd9fc19f873b774" label="Mixed Materials [31142063135100]" type="box">11</container>
+          <container id="aspace_a769912437fdca3ac756f342ac743ec4" parent="aspace_3282ce8ddf30dd1effd9fc19f873b774" type="folder">10-12</container>
+          <container altrender="Manuscript box - Legal" id="aspace_aabced0f5af99da7b4d9fba3b90fb89f" label="Mixed Materials [31142063135118]" type="box">12</container>
+          <container id="aspace_7ebd02a9db0b85aa7ce2cf477301c645" parent="aspace_aabced0f5af99da7b4d9fba3b90fb89f" type="folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_9b4f03ff4abb91b6a66c53f02a6a2e5b" level="file">
+        <did>
+          <unittitle>Leadership Network - Legal</unittitle>
+          <unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_16d8b76b2a6473b5883cb7cddc46241d" label="Mixed Materials [31142063135118]" type="box">12</container>
+          <container id="aspace_caa077f3939f6a6798befe2d23e35f5e" parent="aspace_16d8b76b2a6473b5883cb7cddc46241d" type="folder">2-5</container>
+        </did>
+      </c>
+      <c id="aspace_94f16e8be7951c11059f75ab66baf211" level="file">
+        <did>
+          <unittitle>Legislation</unittitle>
+          <unitdate normal="1985/1998" type="inclusive">1985-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f3d6172d4540d2af563dc74b522f7d34" label="Mixed Materials [31142063135118]" type="box">12</container>
+          <container id="aspace_0c480569b2997c4ce94a86bc71433a07" parent="aspace_f3d6172d4540d2af563dc74b522f7d34" type="folder">6-13</container>
+        </did>
+      </c>
+      <c id="aspace_67f10da321a072aa3bc8d56013251e6a" level="file">
+        <did>
+          <unittitle>Libraries - Maine</unittitle>
+          <unitdate normal="1986/1995" type="inclusive">1986-1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ac0a26d9a68218f71a6254eaa13c71d5" label="Mixed Materials [31142063135118]" type="box">12</container>
+          <container id="aspace_c9bc96db66744a42e32bb8f6d9ecd2e2" parent="aspace_ac0a26d9a68218f71a6254eaa13c71d5" type="folder">14</container>
+          <container altrender="Manuscript box - Legal" id="aspace_6d1316918f1c1f353698b6a231581be4" label="Mixed Materials [31142063135126]" type="box">13</container>
+          <container id="aspace_2c59d4090a7330c77aa003c0220c752e" parent="aspace_6d1316918f1c1f353698b6a231581be4" type="folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_c79f69c0e8ba0201b98b22fdd89b9499" level="file">
+        <did>
+          <unittitle>Massachusetts AFL-CIO</unittitle>
+          <unitdate normal="1985/1998" type="inclusive">1985-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e830a5fb1f44285d864acf768f26b334" label="Mixed Materials [31142063135126]" type="box">13</container>
+          <container id="aspace_3bfeb3743b30b785b73be6f46ce2463c" parent="aspace_e830a5fb1f44285d864acf768f26b334" type="folder">2-8</container>
+        </did>
+      </c>
+      <c id="aspace_3495a5e9b040f6cb0f7be05fa11ce879" level="file">
+        <did>
+          <unittitle>Massachusetts Coalition for Adult Literacy - Massachusetts Health Action Alliance</unittitle>
+          <unitdate normal="1983/1989" type="inclusive">1983-1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_820845b30c9fb0eadbb1577d35adaa23" label="Mixed Materials [31142063135126]" type="box">13</container>
+          <container id="aspace_9d9264e6b273af03b54c1fd8e2c15efc" parent="aspace_820845b30c9fb0eadbb1577d35adaa23" type="folder">9-12</container>
+        </did>
+      </c>
+      <c id="aspace_56d7edddb3e14161e9d7bef4689bc081" level="file">
+        <did>
+          <unittitle>Massachusetts Interfaith Committee for Worker Justice</unittitle>
+          <unitdate normal="1996/1998" type="inclusive">1996-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b57b26e268d4c6c49d6086bdc6fd70bc" label="Mixed Materials [31142063135126]" type="box">13</container>
+          <container id="aspace_466d6b7b288029a62a7b885876efbd30" parent="aspace_b57b26e268d4c6c49d6086bdc6fd70bc" type="folder">13-16</container>
+        </did>
+      </c>
+      <c id="aspace_f1d22a57ba32d133adbafe2d278992e1" level="file">
+        <did>
+          <unittitle>Massachusetts Labor Committee on the Middle East - Miscellaneous</unittitle>
+          <unitdate normal="1984/1998" type="inclusive">1984-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2a16f673ce5e201e46f11ad6e00b5297" label="Mixed Materials [31142063135134]" type="box">14</container>
+          <container id="aspace_570cb3a69fae152f48b71443e7d88247" parent="aspace_2a16f673ce5e201e46f11ad6e00b5297" type="folder">1-12</container>
+        </did>
+      </c>
+      <c id="aspace_2f76830f4f4b9a7f0c093cd400aa1daf" level="file">
+        <did>
+          <unittitle>National Health Insurance</unittitle>
+          <unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a9c88e57a5a99179795c677d77290024" label="Mixed Materials [31142063135134]" type="box">14</container>
+          <container id="aspace_4f12b4e638fc7a851f38e2231b32fa24" parent="aspace_a9c88e57a5a99179795c677d77290024" type="folder">13-14</container>
+          <container altrender="Manuscript box - Legal" id="aspace_78fb096120e2e65a3bc662293d9f33c3" label="Mixed Materials [31142063135142]" type="box">15</container>
+          <container id="aspace_89c9dd8f5bd8b1bc3d7e37c46da65b6d" parent="aspace_78fb096120e2e65a3bc662293d9f33c3" type="folder">1-2</container>
+        </did>
+      </c>
+      <c id="aspace_49c88c776331be5f3c4a79712a0dc970" level="file">
+        <did>
+          <unittitle>National Yiddish Book Center - Prevailing wage</unittitle>
+          <unitdate normal="1985/1998" type="inclusive">1985-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_76efeab05123b2d4e6687e841193f59d" label="Mixed Materials [31142063135142]" type="box">15</container>
+          <container id="aspace_888c9a62c9d950f12a088530b24a4b91" parent="aspace_76efeab05123b2d4e6687e841193f59d" type="folder">3-12</container>
+        </did>
+      </c>
+      <c id="aspace_2009ef58e2aff07099104d396d266f3a" level="file">
+        <did>
+          <unittitle>Programs</unittitle>
+          <unitdate normal="1986/1995" type="inclusive">1986-1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_12e7145f5a0bd7bd6129fd94acdc3a7b" label="Mixed Materials [31142063135159]" type="box">16</container>
+          <container id="aspace_730ec59c878ebc8de91cfe0bd4c5faa5" parent="aspace_12e7145f5a0bd7bd6129fd94acdc3a7b" type="folder">1-5</container>
+        </did>
+      </c>
+      <c id="aspace_eb88e67118386393c1c82e4e069f181b" level="file">
+        <did>
+          <unittitle>Public Affairs Committee - Publicity</unittitle>
+          <unitdate normal="1979/1995" type="inclusive">1979-1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5079e0b184f737e5f7844c49f4700c05" label="Mixed Materials [31142063135159]" type="box">16</container>
+          <container id="aspace_a3e255ff16e2d0229e162bdca66a29da" parent="aspace_5079e0b184f737e5f7844c49f4700c05" type="folder">6-10</container>
+        </did>
+      </c>
+      <c id="aspace_58df822b8ad87a0acce41921c1bcd6df" level="file">
+        <did>
+          <unittitle>Religion and labor</unittitle>
+          <unitdate normal="1991/1997" type="inclusive">1991-1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_256806b9ba67d9c690828c74e541b2c4" label="Mixed Materials [31142063135159]" type="box">16</container>
+          <container id="aspace_e8a1b02f8c3051393c24a0d3b6f4d263" parent="aspace_256806b9ba67d9c690828c74e541b2c4" type="folder">11-14</container>
+          <container altrender="Manuscript box - Legal" id="aspace_e247b637632c9ca948ff5d27e51d3310" label="Mixed Materials [31142063135167]" type="box">17</container>
+          <container id="aspace_b55aa66aa7f1908dc0daffabcc181b94" parent="aspace_e247b637632c9ca948ff5d27e51d3310" type="folder">1-2</container>
+        </did>
+      </c>
+      <c id="aspace_92d2c34122e1434b316bffba6671dfc9" level="file">
+        <did>
+          <unittitle>Reports</unittitle>
+          <unitdate normal="1986/1998" type="inclusive">1986-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_24e441acf9c6f88ae99524bfae54d223" label="Mixed Materials [31142063135167]" type="box">17</container>
+          <container id="aspace_071a7978e30571adee929b9665d97962" parent="aspace_24e441acf9c6f88ae99524bfae54d223" type="folder">3-7</container>
+        </did>
+      </c>
+      <c id="aspace_e28f79c870cba4a0108f5c7d7171a224" level="file">
+        <did>
+          <unittitle>Rhode Island - Southeastern Massachusetts</unittitle>
+          <unitdate normal="1986/1998" type="inclusive">1986-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b623ba3dcd3c5707a710218d491e22b4" label="Mixed Materials [31142063135167]" type="box">17</container>
+          <container id="aspace_0ca7efa0c641de59f68cfb63ef869724" parent="aspace_b623ba3dcd3c5707a710218d491e22b4" type="folder">8-14</container>
+        </did>
+      </c>
+      <c id="aspace_ddebef5799d4a9d299a98fc15e1e4874" level="file">
+        <did>
+          <unittitle>Soviet Jewry</unittitle>
+          <unitdate normal="1985/1990" type="inclusive">1985-1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_42b04c80a197543d18080070acbad98d" label="Mixed Materials [31142063135167]" type="box">17</container>
+          <container id="aspace_4955fc6c370600781e714671f3b1202c" parent="aspace_42b04c80a197543d18080070acbad98d" type="folder">15</container>
+          <container altrender="Manuscript box - Legal" id="aspace_0b7dc048202ac4632109d4bd84b5930f" label="Mixed Materials [31142063135175]" type="box">18</container>
+          <container id="aspace_ec715b094c6c483db711d6ff08557e79" parent="aspace_0b7dc048202ac4632109d4bd84b5930f" type="folder">1-2</container>
+        </did>
+      </c>
+      <c id="aspace_7f2143a6307ec41380f2c1ad798d0b18" level="file">
+        <did>
+          <unittitle>The Tax Equity Alliance for Massachusetts - Women's issues</unittitle>
+          <unitdate normal="1985/1998" type="inclusive">1985-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6dce62c574269f8a5c03124d9b299b24" label="Mixed Materials [31142063135175]" type="box">18</container>
+          <container id="aspace_489b1f7d17d5e277b33f2e0a41f17e4a" parent="aspace_6dce62c574269f8a5c03124d9b299b24" type="folder">3-16</container>
+        </did>
+      </c>
+      <c id="aspace_6e2f93faa5fc38d76bb85153a5353692" level="file">
+        <did>
+          <unittitle>Work Environment Justice Fund</unittitle>
+          <unitdate normal="1994/1996" type="inclusive">1994-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_df6201f36c44c6b10f7c6b0367413a39" label="Mixed Materials [31142063135183]" type="box">19</container>
+          <container id="aspace_8f9701facece207e8502a1b802bcf95c" parent="aspace_df6201f36c44c6b10f7c6b0367413a39" type="folder">1-6</container>
+        </did>
+      </c>
+      <c id="aspace_c8bd3a193d62d526a6c2448f62477adb" level="file">
+        <did>
+          <unittitle>Workers' compensation - The Workmen's Circle</unittitle>
+          <unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0c02f6e37a105d7783d95a80315048b8" label="Mixed Materials [31142063135183]" type="box">19</container>
+          <container id="aspace_ed707066c05984755643f97d4f751b57" parent="aspace_0c02f6e37a105d7783d95a80315048b8" type="folder">7-8</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

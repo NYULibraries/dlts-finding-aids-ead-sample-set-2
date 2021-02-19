@@ -1,91 +1,311 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>wag_105</eadid><filedesc><titlestmt><titleproper>Guide to the Gerald O'Reilly Papers <num>WAG.105</num></titleproper><author>Brenda Parnes, 1988 and Wendy Scheir, 2005</author></titlestmt><editionstmt><p>This version was derived from o'reilly.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>Finding Aid</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:59:32 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Gerald O'Reilly Papers</unittitle>
-    <origination label="Creator">
-      <persname rules="dacs" source="local">O'Reilly, Gerald, 1903-1990</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">O'Reilly, Gerald, 1903-1990</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">Kirwan, Christopher</persname>
-    </origination>
-    <unitid>WAG.105</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-      <extent altrender="carrier">(1 box)</extent>
-    </physdesc>
-    <unitdate normal="1934/1988" type="inclusive">1934-1988</unitdate>
-    <unitdate normal="1944/1947" type="bulk">1944-1947</unitdate>
-    <abstract id="aspace_98f7605a39a18a17b37ae84f924101bb">Born in Ireland, Gerald O'Reilly (1903-1990) joined the Irish Republican Army (IRA), and served time in jail in Dublin. O'Reilly immigrated to the United States in 1926, and in 1928 became a conductor on the Interborough Rapid Transit (IRT) subway line in New York City. In 1934, he helped found the Transit Workers Union (TWU). In the late 1940s, when TWU president Michael Quill wanted to sever TWU ties to the Communist Party, O'Reilly was fired from his union position. A few years later, he was reinstated to his former position. The Gerald O'Reilly Papers reflect O'Reilly's Irish nationalist activities and his union involvement, including correspondence, news clippings, programs, publicity materials, and writings by O'Reilly.</abstract>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid>wag_105</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Gerald O'Reilly Papers <num>WAG.105</num></titleproper>
+        <author>Brenda Parnes, 1988 and Wendy Scheir, 2005</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from o'reilly.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Finding Aid</p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:59:32 -0500</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Gerald O'Reilly Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">O'Reilly, Gerald, 1903-1990</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">O'Reilly, Gerald, 1903-1990</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Kirwan, Christopher</persname>
+      </origination>
+      <unitid>WAG.105</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+        <extent altrender="carrier">(1 box)</extent>
+      </physdesc>
+      <unitdate normal="1934/1988" type="inclusive">1934-1988</unitdate>
+      <unitdate normal="1944/1947" type="bulk">1944-1947</unitdate>
+      <abstract id="aspace_98f7605a39a18a17b37ae84f924101bb">Born in Ireland, Gerald O'Reilly (1903-1990) joined the Irish Republican Army (IRA), and served time in jail in Dublin. O'Reilly immigrated to the United States in 1926, and in 1928 became a conductor on the Interborough Rapid Transit (IRT) subway line in New York City. In 1934, he helped found the Transit Workers Union (TWU). In the late 1940s, when TWU president Michael Quill wanted to sever TWU ties to the Communist Party, O'Reilly was fired from his union position. A few years later, he was reinstated to his former position. The Gerald O'Reilly Papers reflect O'Reilly's Irish nationalist activities and his union involvement, including correspondence, news clippings, programs, publicity materials, and writings by O'Reilly.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-  </did>
-  <acqinfo id="aspace_821374a1560ca0bc7cfc643196acc793">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Gerald O'Reilly, 1987 and 1988. The accession number associated with this gift is 1987.001. Additional materials were donated in 1992 by Christopher Kirwan.</p><p>Materials found in the repository were added to the collection in 2014. The accession number associated with this material is 2014.102.</p>  </acqinfo>
-  <accessrestrict id="aspace_2d5ab7bdde20200e232201ca14f84682">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <bioghist id="aspace_4ffeddde17ee935c3008cdcca05d051f">
-    <head>Historical/Biographical Note</head>
-<p>Gerald O'Reilly was born in 1903 in Navan, County Meath, Republic of Ireland. He served in the Irish Republican Army (IRA), and after the treaty with Britain and partition of Ireland in 1922, continued to fight with the 4th Northern Division, IRA. After being jailed in Mountjoy Prison in Dublin, O'Reilly immigrated to the United States in 1926. He spent his first two years in the U.S. working in a Yonkers carpet factory until he was hired as a conductor on the Interborough Rapid Transit (IRT) subway line in New York City.</p><p>Still active in the Irish nationalist organization Clan na Gael, O'Reilly and fellow Irish transit workers--many ex-IRA members like himself--began to train their political acumen and energy upon immediate concerns: the harsh conditions which they were experiencing at work. Soon they were discussing ways to effect change for all transit workers, an estimated fifty percent of whom were Irish emigrants. Inspired by Irish nationalist, labor activist, and martyr, James Connolly, O'Reilly, Michael Quill, Austin Hogan, and others gradually built enough support among workers to found a labor union. The Transport Workers Union (TWU) was established in 1934, with Quill as the union's long-reigning president.</p><p>O'Reilly served on the TWU's Executive Board in the early years, and was made a full-time paid organizer for IRT conductors during World War II. During this period, he played a key role in challenging racial discrimination in the transit system. He also continued his Irish nationalist activity as a member of the Republican Congress, and as head of the U.S. committee to free Irish Republican Frank Ryan, who had been imprisoned by Franco at the end of the Spanish Civil War. In 1946, O'Reilly, who was also chairman of the Fordham American Labor Party Club, ran as the American Labor Party candidate for Congress in his Bronx district. In the late 1940s, when Quill was endeavoring to sever TWU ties to the Communist Party, O'Reilly was fired from his union position. A few years later, he was reinstated to his former post.</p><p>O'Reilly died in Long Beach, New York on August 11, 1990.</p>  </bioghist>
-  <scopecontent id="aspace_d8bc8a364a19aaf625fda11b8dd073dd">
-    <head>Scope and Content Note</head>
-<p><emph render="bold">Series I, General Files</emph>. The general correspondence in the Gerald O'Reilly Papers mainly reflects O'Reilly's Irish nationalist activities. Other Ireland-related materials include a file on commemorations for James Connolly; Irish nationalist poems and leaflets; and copies of the Irish Review, the Irish Democrat, and The Torch. A file of Fordham American Labor Party materials includes newsletters with editorials by O'Reilly, as well as publicity material and membership lists. TWU files include news clippings about the union; a souvenir program from its tenth anniversary celebration in 1944; and correspondence and publicity about the union's support of the Irish nationalist cause. Also in the collection are O'Reilly's membership books and identification cards for the TWU and other groups, and photocopies of excerpts from a redacted FBI surveillance file on O'Reilly. O'Reilly's writings include a typescript critique of Shirley Garry Quill's book, <emph render="italic">Mike Quill-Himself</emph> and a pamphlet entitled, "The Birth and Growth of the Transport Workers Union."</p>  </scopecontent>
-  <arrangement id="aspace_1e26b6adae9f92f5d05761f211c6225c">
-    <head>Arrangement</head>
-<p>Series I is arranged alphabetically.</p><p>The files are grouped into one series:</p>    <list type="ordered">
-      <item>I, General Files</item>
-    </list>
-  </arrangement>
-  <relatedmaterial id="aspace_bd7c7281d2cb6670be7af351ccdfdd10">
-    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-<p>Transport Workers Union of America Records (WAG 34).</p><p>Sean Cronin Papers (Tam 460).</p><p>Maurice Forge Papers(WAG 106).</p><p>Transport Workers Union of America Records (WAG 235). (Box 71 includes an O'Reilly memoir and oral history notes.)</p><p>Transport Workers Union Oral History Collection (OH 11). (includes interview with Gerald O'Reilly)</p><p>Transport Workers Union of America, Records of Locals (WAG 234). </p>  </relatedmaterial>
-  <separatedmaterial id="aspace_2ac0a7025e9e916915337dfd1c24aee2">
-    <head>Separated Material</head>
-<p>Several photographs were transferred to the Tamiment Library Non-print Collections.</p>  </separatedmaterial>
-  <userestrict id="aspace_0cfb5d8819d4bab0cc0f2299f617a2ab">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Gerald O'Reilly was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <prefercite id="aspace_3eed56a86b4e55e4937c634cbe1ab2b5">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Gerald O'Reilly Papers; WAG 105; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <controlaccess>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <subject source="lcsh">Irish Americans -- New York (N.Y.)</subject>
-    <subject source="lcsh">Political prisoners -- Ireland.</subject>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Articles.</genreform>
-    <subject source="lcsh">Communists |z New York (State)</subject>
-    <genreform source="aat">Leaflets (printed works)</genreform>
-    <genreform source="aat">Hearings (event)</genreform>
-    <genreform source="aat">Printed ephemera.</genreform>
-    <geogname source="lcsh">New York (N.Y.).</geogname>
-    <subject source="lcsh">Collective bargaining -- United States.</subject>
-    <subject source="lcsh">Collective bargaining -- Transport workers -- United States.</subject>
-    <subject source="lcsh">Irish Americans |z New York (State)</subject>
-    <genreform source="aat">Typescripts</genreform>
-    <subject source="lcsh">Labor leaders -- New York (State)</subject>
-    <subject source="lcsh">Transport workers -- Labor unions -- New York (State)</subject>
-    <subject source="lcsh">Collective labor agreements -- Transport workers -- United States.</subject>
-    <corpname source="naf">Transport Workers Union of America</corpname>
-    <corpname source="naf">Interborough Rapid Transit Company</corpname>
-    <persname source="naf">Quill, Mike, 1905-1966</persname>
-    <corpname source="naf">Irish Republican Army</corpname>
-    <persname source="naf">Larkin, James, 1876-1947</persname>
-    <corpname source="local">James Connolly Society (New York, N.Y.)</corpname>
-    <persname source="naf">Connolly, James, 1868-1916</persname>
-    <persname rules="dacs" source="local">O'Reilly, Gerald, 1903-1990</persname>
-    <persname rules="dacs" source="local">Quill, Shirley, 1915-1991</persname>
-    <persname role="dnr" rules="dacs" source="local">O'Reilly, Gerald, 1903-1990</persname>
-    <persname role="dnr" rules="dacs" source="local">Kirwan, Christopher</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref15" level="series"><did><unittitle>Series I: General Files</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref16" level="file"><did><unittitle>Connolly, James: Memorial and writings on</unittitle><unitdate normal="1934/1988" type="inclusive">undated , 1941-1947 , 1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_13f13c2fb48a6c721e322abb4df4978e" label="Mixed Materials [31142062730026]" type="box">1</container><container id="aspace_c51a95c96a6e3d558d64f376e272744a" parent="aspace_13f13c2fb48a6c721e322abb4df4978e" type="folder">1</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Connolly, James: O'Reilly writings on</unittitle><unitdate normal="1934/1988" type="inclusive">undated , 1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_f057f56631f2178bc39887807ec38ffd" label="Mixed Materials [31142062730026]" type="box">1</container><container id="aspace_13fbe74b60b4ab9c0a56c40d7d5be707" parent="aspace_f057f56631f2178bc39887807ec38ffd" type="folder">2</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Correspondence: General</unittitle><unitdate normal="1944/1947" type="inclusive">1944-1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_5be1f06497bb1db11558b68ef61bb26c" label="Mixed Materials [31142062730026]" type="box">1</container><container id="aspace_d5c444ec348fc6b6f8190cfe28122e3f" parent="aspace_5be1f06497bb1db11558b68ef61bb26c" type="folder">3</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Fordham American Labor Party Club</unittitle><unitdate normal="1934/1988" type="inclusive">undated , 1944-1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_db9ec076e8fa1c3f9e063b8a04c504bd" label="Mixed Materials [31142062730026]" type="box">1</container><container id="aspace_dc5089c2f5d3a66ccc81814a30fc5089" parent="aspace_db9ec076e8fa1c3f9e063b8a04c504bd" type="folder">4</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Ireland: Political information and event publicity</unittitle><unitdate normal="1934/1988" type="inclusive">undated , 1944-1947 , 1988</unitdate><container altrender="Manuscript box - Legal" id="aspace_ba74c2f5469cc8d84f665c2560cc39ae" label="Mixed Materials [31142062730026]" type="box">1</container><container id="aspace_bf7a714624e8f3db1ccf36840f0d6ecd" parent="aspace_ba74c2f5469cc8d84f665c2560cc39ae" type="folder">5</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Irish socialist newspapers</unittitle><unitdate normal="1942/1947" type="inclusive">1942-1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_3a7550c3aa385e2dd1a1e590950559ce" label="Mixed Materials [31142062730026]" type="box">1</container><container id="aspace_b7d20af355f561ade5e8f39b75443184" parent="aspace_3a7550c3aa385e2dd1a1e590950559ce" type="folder">6</container></did></c><c id="aspace_ref36" level="file"><did><unittitle><title render="italic">1913 - Jim Larkin and the Dublin Lockout</title></unittitle><unitid>2014.102</unitid><unitdate normal="1964/1964" type="inclusive">1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_dbe413292b63a50b52d0f248fb079c30" label="Books [31142062730026]" type="box">1</container><container id="aspace_d943ddf725584f04c83648baf8178c04" parent="aspace_dbe413292b63a50b52d0f248fb079c30" type="folder">19</container></did><scopecontent id="aspace_1f9f8fbacb9ae655a32da13e0770cb25"><head>Scope and Content Note</head><p>Flyleaf is of this book is autographed by James Larkin to Gerald O'Reilly.</p></scopecontent></c><c id="aspace_ref22" level="file"><did><unittitle>O'Reilly, Gerald: Biographical</unittitle><unitdate normal="1940/1946" type="inclusive">1940 , 1946</unitdate><container altrender="Manuscript box - Legal" id="aspace_31abe9cbdd16ca59a9a99c72f906c3b4" label="Mixed Materials [31142062730026]" type="box">1</container><container id="aspace_7c3ee746107fdc623970e5997fdbe624" parent="aspace_31abe9cbdd16ca59a9a99c72f906c3b4" type="folder">7</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>O'Reilly, Gerald: Campaign for Congress</unittitle><unitdate normal="1946/1946" type="inclusive">1946</unitdate><container altrender="Manuscript box - Legal" id="aspace_10b45f5986f01b52bd18e763d064a826" label="Mixed Materials [31142062730026]" type="box">1</container><container id="aspace_81f2765412dd25899e3de174edbcdd6b" parent="aspace_10b45f5986f01b52bd18e763d064a826" type="folder">8</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>O'Reilly, Gerald: Credentials, identification cards, membership books</unittitle><unitdate normal="1934/1949" type="inclusive">1934-1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_d43eefb099e0263f73711274e4d8788c" label="Mixed Materials [31142062730026]" type="box">1</container><container id="aspace_5387d4947fafc20b9b2cd9bf2faead02" parent="aspace_d43eefb099e0263f73711274e4d8788c" type="folder">9</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>O'Reilly, Gerald: FBI file on (photocopies/excerpts)</unittitle><unitdate normal="1934/1988" type="inclusive">undated , 1942-1945 , 1950-1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_cc550b605895f3fd70ac70690b771747" label="Mixed Materials [31142062730026]" type="box">1</container><container id="aspace_579902460c8c98049cf47811c6157ac5" parent="aspace_cc550b605895f3fd70ac70690b771747" type="folder">10</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Quill, Shirley: O'Reilly's response to memoir by</unittitle><unitdate normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_45938437995061f548934a81e812d3e5" label="Mixed Materials [31142062730026]" type="box">1</container><container id="aspace_9311c35ddf9e5676947b1b95a70d396a" parent="aspace_45938437995061f548934a81e812d3e5" type="folder">11</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Santo, John: Deportation hearing of</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_4354b1db5646c04722ad61f85dc2ea3f" label="Mixed Materials [31142062730026]" type="box">1</container><container id="aspace_874a24b66578b098ff2cbd77f9688992" parent="aspace_4354b1db5646c04722ad61f85dc2ea3f" type="folder">12</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>TWU: Articles on</unittitle><unitdate normal="1934/1988" type="inclusive">undated , 1941 , 1984</unitdate><container altrender="Manuscript box - Legal" id="aspace_68d1313025669cb7a800d112eb7b226a" label="Mixed Materials [31142062730026]" type="box">1</container><container id="aspace_f70f1543fed7bd95675f43bc6c450703" parent="aspace_68d1313025669cb7a800d112eb7b226a" type="folder">13</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>TWU: Correspondence</unittitle><unitdate normal="1944/1947" type="inclusive">1944-1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_2f00e111c1f15ff6a7ebdfc01c980d7e" label="Mixed Materials [31142062730026]" type="box">1</container><container id="aspace_9bd3efc39e4bf15735236efdb3a43fb5" parent="aspace_2f00e111c1f15ff6a7ebdfc01c980d7e" type="folder">14</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>TWU: Irish politics</unittitle><unitdate normal="1934/1988" type="inclusive">undated , 1943-1944 , 1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_9dbe241b949475937e829aed3fada280" label="Mixed Materials [31142062730026]" type="box">1</container><container id="aspace_c27e0d3b5a9398e88229a87ce42eb409" parent="aspace_9dbe241b949475937e829aed3fada280" type="folder">15</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>TWU: O'Reilly writings on</unittitle><unitdate normal="1934/1988" type="inclusive">undated , 1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_e08525a3ef617251486a21390016b59e" label="Mixed Materials [31142062730026]" type="box">1</container><container id="aspace_03de11ebb2177a1b30cd8e869ee966da" parent="aspace_e08525a3ef617251486a21390016b59e" type="folder">16</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>TWU: Second Biennial Convention, Testimonial Banquet - program</unittitle><unitdate normal="1939/1939" type="inclusive">1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_7b784e3e239ce3a63906d27dfbcfec12" label="Mixed Materials [31142062730026]" type="box">1</container><container id="aspace_f50bf1794cfceae82f21692c701ea385" parent="aspace_7b784e3e239ce3a63906d27dfbcfec12" type="folder">17</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>TWU: Tenth anniversary - souvenir program</unittitle><unitdate normal="1944/1944" type="inclusive">1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_21027ff040c94b4b71cb543243dbac79" label="Mixed Materials [31142062730026]" type="box">1</container><container id="aspace_25f3f7aff3f44501803012b982771850" parent="aspace_21027ff040c94b4b71cb543243dbac79" type="folder">18</container></did></c></c></dsc>
-</archdesc>
+    </did>
+    <acqinfo id="aspace_821374a1560ca0bc7cfc643196acc793">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Gerald O'Reilly, 1987 and 1988. The accession number associated with this gift is 1987.001. Additional materials were donated in 1992 by Christopher Kirwan.</p>
+      <p>Materials found in the repository were added to the collection in 2014. The accession number associated with this material is 2014.102.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_2d5ab7bdde20200e232201ca14f84682">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_4ffeddde17ee935c3008cdcca05d051f">
+      <head>Historical/Biographical Note</head>
+      <p>Gerald O'Reilly was born in 1903 in Navan, County Meath, Republic of Ireland. He served in the Irish Republican Army (IRA), and after the treaty with Britain and partition of Ireland in 1922, continued to fight with the 4th Northern Division, IRA. After being jailed in Mountjoy Prison in Dublin, O'Reilly immigrated to the United States in 1926. He spent his first two years in the U.S. working in a Yonkers carpet factory until he was hired as a conductor on the Interborough Rapid Transit (IRT) subway line in New York City.</p>
+      <p>Still active in the Irish nationalist organization Clan na Gael, O'Reilly and fellow Irish transit workers--many ex-IRA members like himself--began to train their political acumen and energy upon immediate concerns: the harsh conditions which they were experiencing at work. Soon they were discussing ways to effect change for all transit workers, an estimated fifty percent of whom were Irish emigrants. Inspired by Irish nationalist, labor activist, and martyr, James Connolly, O'Reilly, Michael Quill, Austin Hogan, and others gradually built enough support among workers to found a labor union. The Transport Workers Union (TWU) was established in 1934, with Quill as the union's long-reigning president.</p>
+      <p>O'Reilly served on the TWU's Executive Board in the early years, and was made a full-time paid organizer for IRT conductors during World War II. During this period, he played a key role in challenging racial discrimination in the transit system. He also continued his Irish nationalist activity as a member of the Republican Congress, and as head of the U.S. committee to free Irish Republican Frank Ryan, who had been imprisoned by Franco at the end of the Spanish Civil War. In 1946, O'Reilly, who was also chairman of the Fordham American Labor Party Club, ran as the American Labor Party candidate for Congress in his Bronx district. In the late 1940s, when Quill was endeavoring to sever TWU ties to the Communist Party, O'Reilly was fired from his union position. A few years later, he was reinstated to his former post.</p>
+      <p>O'Reilly died in Long Beach, New York on August 11, 1990.</p>
+    </bioghist>
+    <scopecontent id="aspace_d8bc8a364a19aaf625fda11b8dd073dd">
+      <head>Scope and Content Note</head>
+      <p><emph render="bold">Series I, General Files</emph>. The general correspondence in the Gerald O'Reilly Papers mainly reflects O'Reilly's Irish nationalist activities. Other Ireland-related materials include a file on commemorations for James Connolly; Irish nationalist poems and leaflets; and copies of the Irish Review, the Irish Democrat, and The Torch. A file of Fordham American Labor Party materials includes newsletters with editorials by O'Reilly, as well as publicity material and membership lists. TWU files include news clippings about the union; a souvenir program from its tenth anniversary celebration in 1944; and correspondence and publicity about the union's support of the Irish nationalist cause. Also in the collection are O'Reilly's membership books and identification cards for the TWU and other groups, and photocopies of excerpts from a redacted FBI surveillance file on O'Reilly. O'Reilly's writings include a typescript critique of Shirley Garry Quill's book, <emph render="italic">Mike Quill-Himself</emph> and a pamphlet entitled, "The Birth and Growth of the Transport Workers Union."</p>
+    </scopecontent>
+    <arrangement id="aspace_1e26b6adae9f92f5d05761f211c6225c">
+      <head>Arrangement</head>
+      <p>Series I is arranged alphabetically.</p>
+      <p>The files are grouped into one series:</p>
+      <list type="ordered">
+        <item>I, General Files</item>
+      </list>
+    </arrangement>
+    <relatedmaterial id="aspace_bd7c7281d2cb6670be7af351ccdfdd10">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>Transport Workers Union of America Records (WAG 34).</p>
+      <p>Sean Cronin Papers (Tam 460).</p>
+      <p>Maurice Forge Papers(WAG 106).</p>
+      <p>Transport Workers Union of America Records (WAG 235). (Box 71 includes an O'Reilly memoir and oral history notes.)</p>
+      <p>Transport Workers Union Oral History Collection (OH 11). (includes interview with Gerald O'Reilly)</p>
+      <p>Transport Workers Union of America, Records of Locals (WAG 234). </p>
+    </relatedmaterial>
+    <separatedmaterial id="aspace_2ac0a7025e9e916915337dfd1c24aee2">
+      <head>Separated Material</head>
+      <p>Several photographs were transferred to the Tamiment Library Non-print Collections.</p>
+    </separatedmaterial>
+    <userestrict id="aspace_0cfb5d8819d4bab0cc0f2299f617a2ab">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Gerald O'Reilly was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <prefercite id="aspace_3eed56a86b4e55e4937c634cbe1ab2b5">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Gerald O'Reilly Papers; WAG 105; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <controlaccess>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <subject source="lcsh">Irish Americans -- New York (N.Y.)</subject>
+      <subject source="lcsh">Political prisoners -- Ireland.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Articles.</genreform>
+      <subject source="lcsh">Communists |z New York (State)</subject>
+      <genreform source="aat">Leaflets (printed works)</genreform>
+      <genreform source="aat">Hearings (event)</genreform>
+      <genreform source="aat">Printed ephemera.</genreform>
+      <geogname source="lcsh">New York (N.Y.).</geogname>
+      <subject source="lcsh">Collective bargaining -- United States.</subject>
+      <subject source="lcsh">Collective bargaining -- Transport workers -- United States.</subject>
+      <subject source="lcsh">Irish Americans |z New York (State)</subject>
+      <genreform source="aat">Typescripts</genreform>
+      <subject source="lcsh">Labor leaders -- New York (State)</subject>
+      <subject source="lcsh">Transport workers -- Labor unions -- New York (State)</subject>
+      <subject source="lcsh">Collective labor agreements -- Transport workers -- United States.</subject>
+      <corpname source="naf">Transport Workers Union of America</corpname>
+      <corpname source="naf">Interborough Rapid Transit Company</corpname>
+      <persname source="naf">Quill, Mike, 1905-1966</persname>
+      <corpname source="naf">Irish Republican Army</corpname>
+      <persname source="naf">Larkin, James, 1876-1947</persname>
+      <corpname source="local">James Connolly Society (New York, N.Y.)</corpname>
+      <persname source="naf">Connolly, James, 1868-1916</persname>
+      <persname rules="dacs" source="local">O'Reilly, Gerald, 1903-1990</persname>
+      <persname rules="dacs" source="local">Quill, Shirley, 1915-1991</persname>
+      <persname role="dnr" rules="dacs" source="local">O'Reilly, Gerald, 1903-1990</persname>
+      <persname role="dnr" rules="dacs" source="local">Kirwan, Christopher</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref15" level="series">
+        <did>
+          <unittitle>Series I: General Files</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Connolly, James: Memorial and writings on</unittitle>
+            <unitdate normal="1934/1988" type="inclusive">undated , 1941-1947 , 1979</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_13f13c2fb48a6c721e322abb4df4978e" label="Mixed Materials [31142062730026]" type="box">1</container>
+            <container id="aspace_c51a95c96a6e3d558d64f376e272744a" parent="aspace_13f13c2fb48a6c721e322abb4df4978e" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Connolly, James: O'Reilly writings on</unittitle>
+            <unitdate normal="1934/1988" type="inclusive">undated , 1986</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f057f56631f2178bc39887807ec38ffd" label="Mixed Materials [31142062730026]" type="box">1</container>
+            <container id="aspace_13fbe74b60b4ab9c0a56c40d7d5be707" parent="aspace_f057f56631f2178bc39887807ec38ffd" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Correspondence: General</unittitle>
+            <unitdate normal="1944/1947" type="inclusive">1944-1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5be1f06497bb1db11558b68ef61bb26c" label="Mixed Materials [31142062730026]" type="box">1</container>
+            <container id="aspace_d5c444ec348fc6b6f8190cfe28122e3f" parent="aspace_5be1f06497bb1db11558b68ef61bb26c" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Fordham American Labor Party Club</unittitle>
+            <unitdate normal="1934/1988" type="inclusive">undated , 1944-1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_db9ec076e8fa1c3f9e063b8a04c504bd" label="Mixed Materials [31142062730026]" type="box">1</container>
+            <container id="aspace_dc5089c2f5d3a66ccc81814a30fc5089" parent="aspace_db9ec076e8fa1c3f9e063b8a04c504bd" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Ireland: Political information and event publicity</unittitle>
+            <unitdate normal="1934/1988" type="inclusive">undated , 1944-1947 , 1988</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ba74c2f5469cc8d84f665c2560cc39ae" label="Mixed Materials [31142062730026]" type="box">1</container>
+            <container id="aspace_bf7a714624e8f3db1ccf36840f0d6ecd" parent="aspace_ba74c2f5469cc8d84f665c2560cc39ae" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Irish socialist newspapers</unittitle>
+            <unitdate normal="1942/1947" type="inclusive">1942-1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3a7550c3aa385e2dd1a1e590950559ce" label="Mixed Materials [31142062730026]" type="box">1</container>
+            <container id="aspace_b7d20af355f561ade5e8f39b75443184" parent="aspace_3a7550c3aa385e2dd1a1e590950559ce" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>
+              <title render="italic">1913 - Jim Larkin and the Dublin Lockout</title>
+            </unittitle>
+            <unitid>2014.102</unitid>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dbe413292b63a50b52d0f248fb079c30" label="Books [31142062730026]" type="box">1</container>
+            <container id="aspace_d943ddf725584f04c83648baf8178c04" parent="aspace_dbe413292b63a50b52d0f248fb079c30" type="folder">19</container>
+          </did>
+          <scopecontent id="aspace_1f9f8fbacb9ae655a32da13e0770cb25">
+            <head>Scope and Content Note</head>
+            <p>Flyleaf is of this book is autographed by James Larkin to Gerald O'Reilly.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>O'Reilly, Gerald: Biographical</unittitle>
+            <unitdate normal="1940/1946" type="inclusive">1940 , 1946</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_31abe9cbdd16ca59a9a99c72f906c3b4" label="Mixed Materials [31142062730026]" type="box">1</container>
+            <container id="aspace_7c3ee746107fdc623970e5997fdbe624" parent="aspace_31abe9cbdd16ca59a9a99c72f906c3b4" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>O'Reilly, Gerald: Campaign for Congress</unittitle>
+            <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_10b45f5986f01b52bd18e763d064a826" label="Mixed Materials [31142062730026]" type="box">1</container>
+            <container id="aspace_81f2765412dd25899e3de174edbcdd6b" parent="aspace_10b45f5986f01b52bd18e763d064a826" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>O'Reilly, Gerald: Credentials, identification cards, membership books</unittitle>
+            <unitdate normal="1934/1949" type="inclusive">1934-1949</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d43eefb099e0263f73711274e4d8788c" label="Mixed Materials [31142062730026]" type="box">1</container>
+            <container id="aspace_5387d4947fafc20b9b2cd9bf2faead02" parent="aspace_d43eefb099e0263f73711274e4d8788c" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>O'Reilly, Gerald: FBI file on (photocopies/excerpts)</unittitle>
+            <unitdate normal="1934/1988" type="inclusive">undated , 1942-1945 , 1950-1959</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cc550b605895f3fd70ac70690b771747" label="Mixed Materials [31142062730026]" type="box">1</container>
+            <container id="aspace_579902460c8c98049cf47811c6157ac5" parent="aspace_cc550b605895f3fd70ac70690b771747" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Quill, Shirley: O'Reilly's response to memoir by</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_45938437995061f548934a81e812d3e5" label="Mixed Materials [31142062730026]" type="box">1</container>
+            <container id="aspace_9311c35ddf9e5676947b1b95a70d396a" parent="aspace_45938437995061f548934a81e812d3e5" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Santo, John: Deportation hearing of</unittitle>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4354b1db5646c04722ad61f85dc2ea3f" label="Mixed Materials [31142062730026]" type="box">1</container>
+            <container id="aspace_874a24b66578b098ff2cbd77f9688992" parent="aspace_4354b1db5646c04722ad61f85dc2ea3f" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>TWU: Articles on</unittitle>
+            <unitdate normal="1934/1988" type="inclusive">undated , 1941 , 1984</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_68d1313025669cb7a800d112eb7b226a" label="Mixed Materials [31142062730026]" type="box">1</container>
+            <container id="aspace_f70f1543fed7bd95675f43bc6c450703" parent="aspace_68d1313025669cb7a800d112eb7b226a" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>TWU: Correspondence</unittitle>
+            <unitdate normal="1944/1947" type="inclusive">1944-1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2f00e111c1f15ff6a7ebdfc01c980d7e" label="Mixed Materials [31142062730026]" type="box">1</container>
+            <container id="aspace_9bd3efc39e4bf15735236efdb3a43fb5" parent="aspace_2f00e111c1f15ff6a7ebdfc01c980d7e" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>TWU: Irish politics</unittitle>
+            <unitdate normal="1934/1988" type="inclusive">undated , 1943-1944 , 1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9dbe241b949475937e829aed3fada280" label="Mixed Materials [31142062730026]" type="box">1</container>
+            <container id="aspace_c27e0d3b5a9398e88229a87ce42eb409" parent="aspace_9dbe241b949475937e829aed3fada280" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>TWU: O'Reilly writings on</unittitle>
+            <unitdate normal="1934/1988" type="inclusive">undated , 1986</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e08525a3ef617251486a21390016b59e" label="Mixed Materials [31142062730026]" type="box">1</container>
+            <container id="aspace_03de11ebb2177a1b30cd8e869ee966da" parent="aspace_e08525a3ef617251486a21390016b59e" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>TWU: Second Biennial Convention, Testimonial Banquet - program</unittitle>
+            <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7b784e3e239ce3a63906d27dfbcfec12" label="Mixed Materials [31142062730026]" type="box">1</container>
+            <container id="aspace_f50bf1794cfceae82f21692c701ea385" parent="aspace_7b784e3e239ce3a63906d27dfbcfec12" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>TWU: Tenth anniversary - souvenir program</unittitle>
+            <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_21027ff040c94b4b71cb543243dbac79" label="Mixed Materials [31142062730026]" type="box">1</container>
+            <container id="aspace_25f3f7aff3f44501803012b982771850" parent="aspace_21027ff040c94b4b71cb543243dbac79" type="folder">18</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

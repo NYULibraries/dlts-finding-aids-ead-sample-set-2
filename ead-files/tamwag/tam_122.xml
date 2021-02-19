@@ -1,78 +1,713 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_122/">tam_122</eadid><filedesc><titlestmt><titleproper>Guide to Heinz Norden Papers <num>TAM.122</num></titleproper><author>Francine Tyler, 1984</author></titlestmt><editionstmt><p>This version was derived from Norden Guide.wpd</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:47:11 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Heinz Norden Papers</unittitle>
-    <origination label="Creator">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_122/">tam_122</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to Heinz Norden Papers <num>TAM.122</num></titleproper>
+        <author>Francine Tyler, 1984</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Norden Guide.wpd</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:47:11 -0500</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Heinz Norden Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Norden, Heinz, 1905-1978</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Norden, Claire</persname>
+      </origination>
+      <origination label="source">
+        <persname rules="dacs" source="local">Frankel, Gloria</persname>
+      </origination>
+      <origination label="source">
+        <persname rules="dacs" source="local">Slienger, Carl</persname>
+      </origination>
+      <unitid>TAM.122</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+        <extent altrender="carrier">(3 boxes)</extent>
+      </physdesc>
+      <unitdate normal="1934/1978" type="inclusive">1934-1978</unitdate>
+      <abstract id="aspace_2b3f3f24f279cbf7ba88803b0f3cf06b">Heinz Norden, born in London and educated in Germany, immigrated to the United States in 1924. He was an editor, author, administrator for the New York City Housing Authority. In 1936 Norden became one of the founders and leaders of the City Wide Tenants Council, New York's first permanent coalition of tenant groups, and was a member of the Citizens' Housing Council. In 1961 he settled in London where he became involved in anti-Vietnam war activities, helping to organize Group 68 which changed its name to Concerned Americans Abroad. He was killed in a traffic accident in 1978 in London.</abstract>
+      <langmaterial id="aspace_7751fc1c4f5068f12494ab578601afa0">Materials are in English</langmaterial>
+    </did>
+    <accessrestrict id="aspace_8cf2fbc622611651d63e085584bc5c41">
+      <head>Conditions Governing Access</head>
+      <p>Materials open without restrictions.</p>
+    </accessrestrict>
+    <arrangement id="aspace_f5d94b546a654753d78c438589e0c06b">
+      <head>Arrangement</head>
+      <p>Folders are arranged alphabetically by subject/author heading.</p>
+      <p>The papers are organized into two series: I. Tenants Organization, 1934-1941; II. Anti-Vietnam War, 1968-1978, and include correspondence, literary productions, minutes, printed materials, legal documents and financial documents.</p>
+    </arrangement>
+    <bioghist id="aspace_788aa3d445832b915cd7a6aec0b90a52">
+      <head>Historical/Biographical Note:</head>
+      <p>Heinz Norden was born in London, England on December 18, 1905, the son of German parents, Julius and Hermine. The family returned to Germany where Norden received a classical education at a gymnasium. Norden emigrated to the United States in 1924 during the economic depression in Germany. He attended the University of Chicago in 1926 and the New School for Social Research, 1949-50. Norden was married three times: to Helen Ovenden, divorcing in 1926; to Helen Strough Brown, later better known as Helen Lawrenson, social critic and magazine writer, divorcing in 193l. (In 1939 she married Jack Lawrenson, co-founder of the National Maritime Union.) His marriage to violinist Clair Harper in 1944 produced a child, Barbara (b. 1947) who lives in London.</p>
+      <p>Norden had several careers; he was an editor, a translator from the German, a writer, an administrator for the New York City Housing Authority, and an advertising executive. He was an author for the "Little Blue Books" a series dedicated to workers education on a mass scale, published by Haldeman-Julius in the late 1920s. Between 1935 and 1975 he translated over fifty volumes from the German including important works on current history, politics, and art history. Often his sister Ruth Norden (1906-77) was a co-translator. For his translation of Max Friedlander's fourteen volume work, Early Netherlandish Painting, Norden received the insignia of Chevalier de l'Ordre de Leopold ll, conferred by Badouin King of the Belgians on December 1977. A full list of his writings and translations are published in Contemporary Authors, Volume 53-56.</p>
+      <p>His work organizing grass-roots movements in which, with others, he tried to educate, agitate, and mobilize a community to understand its problems and power was entirely voluntary. Norden described himself as an "unlabeled radical." Claire Norden characterized him as a "Jeffersonian Democrat." Others who knew him or his work describe him as quick, dynamic, a good and efficient organizer involved in a number of liberal and left causes, a man with political savvy, somewhat of a raconteur.</p>
+      <p>Norden first became active for tenant's rights when he moved into the newly completed middle-income apartment complex Knickerbocker Village in 1934. Because of poor management from the start, the Knickerbocker tenants were motivated to call a rent strike. It was successful and a settlement was reached in favor of the tenants. They formed the Knickerbocker Village Tenant's Association (KVTA) with Norden as President. The KVTA, one of the first tenant's unions, published a newsletter which lasted into the early 1940s and organized discussion groups and various clubs for the tenants. Of this experience Norden wrote: "Residents who had never had opportunity for self-expression through community activity felt their lives infinitely enriched."</p>
+      <p>At this time only a handful of isolated tenants groups existed in New York and there was clearly a need to unite all tenants to fight against discrimination in housing, unfair eviction, lack of repairs and direct maintenance, poor heat and water supply, fire-trap housing, and for rent control, government sponsored slum clearance and low-cost housing. Later they had to include a fight against paternalistic management in government housing projects.</p>
+      <p>With his KVTA experience Norden became one of the founders and leaders in 1936 of the Citywide Tenants Council (CWTC), New York's first permanent coalition of neighborhood tenant's groups (1936-1943). Norden was the executive secretary and later chairperson of the CWTC. He also wrote the column "On the Housing Front" which appeared in tenant and trade union publications. Joseph Spencer wrote of CWTC: "With limited resources and personnel, they succeeded in establishing a stable movement capable of assisting individual families at the grass-roots level and presenting a tenant perspective on long-standing problems and remedies such as public housing and urban redevelopment." Mayor Fiorello LaGuardia and Mrs. Eleanor Roosevelt lent their names as honorary sponsors.</p>
+      <p>Norden was involved with other organizations too which promoted the cause of tenants. He was vice-president of the Committee to Aid Tenants' Organizations. Its motto was "Help the Slum Dwellers to Help Themselves," and was formed to find funding for CWTC and its affiliates. It also organized a study group for applicants taking the Civil Service examinations for the recently formed Housing Authority.</p>
+      <p>Norden also belonged to the Citizen's Housing Council, where he presented tenants views to housing experts, architects, social workers, and real-estate people. The CWTC was the forerunner of the present day Metropolitan Council on Housing with many of the same activists from the earlier group working in it. Between the two groups there was almost a decade without tenant organizing because of McCarthyite attacks on the tenant's movement. Norden left the CWTC in 194l when he received the highest grade on the Civil Service housing examination and was appointed second-in-charge of the Application Office of the New York Housing Authority. The post precluded work in grass-roots tenants groups.</p>
+      <p>Norden served in the United States Army for seven years, 194l-47 and rose from the ranks to the rank of major. He was in G2 Army Intelligence in Germany after World War II, editing the official U.S. German language magazine Heute in Munich. At this time his previous work with tenant organizing resulted in his being persecuted as a `red' and he was dismissed from Heute. He successfully contested his treatment in the federal courts. After this experience he wrote the unpublished manuscript, "How I Overthrew the Government of the United States, or The F.B. &amp; I" in 1950.</p>
+      <p>Norden entered into advertising and editorial work which took him to Europe. He settled in London in 196l. There, in 1968 he helped found "Group 68, Americans in Britain for United States Withdrawal from Southeast Asia,"(1968-74). It was the off-shoot of a committee formed to support the election of Senator Eugene McCarthy for President. Norden was chairperson from 1968-73. "Group 68" staged many demonstrations, distributed leaflets, held film showings, organized meetings with distinguished speakers, and disseminated information against U.S. involvement in Vietnam. "Group 68" supported draft and war resisters, including two American servicemen; one was courtmarshalled for participating in an Anti-War protest (197l) and the other for refusing to obey a direct order to fly a B-52 bombing mission over Hanoi (1973). It also had a liason relationship with other peace organizations, draft-resister organizations and civil-liberties groups. In 1972-73 they sponsored, along with l50 other groups, the "Vietnam Vigil to End the War," a year-long, daily, noon hour protest in front of the U.S. Embassy in London.</p>
+      <p>"Group 68" changed its name to "Concerned Americans Abroad," (1974-78) after the Vietnam War to work on other issues of concern. It campaigned for the complete withdrawal of U.S. arms and personnel supporting the regimes of Thieu and Lon Nol, for release of 200,000 political prisoners in Saigon jails, universal, unconditional amnesty for American war resisters, for abolition of the CIA and the impeachment of Richard Nixon. It placed an ad in the International New York Herald Tribune in 1974, asking Americans to write to the House Judiciary Committee in favor of impeachment. It was against the Criminal Justice Reform Bill S.l, and the deportation of Philip Agee, former officer of the C.I.A., and Marc Hosenball, American investigative reporter. "Group 68" and "Concerned Americans Abroad" (CAA) cooperated with other committees: "Democrats Abroad (UK) provided information to Americans abroad who were disfranchised because of absentee ballot red tape. A CAA member and draft resister ran for election as a delegate to the 1976 Democratic Convention.</p>
+      <p>In later life, Heinz and Claire ran a small business dealing in pharmaceutical antiques. Heinz Norden was killed in a traffic accident while crossing a London street in 1978.</p>
+      <p>Sources:</p>
+      <p>
+        <list>
+          <item>Heinz Norden. "KTVA Background Story," 194l. Box I, Folder l9.</item>
+          <item>Joseph A. Spencer, "Tenant Organization and Housing Reform in New York City: The Citywide Tenant's Council, 1936-1943." In Community Organization for Urban Social Change. A Historical Perspective. Ed. Robert Fisher and Peter Romanofsky. (Westport, Conn.: Greenwood Press, l981) p. 128.</item>
+          <item/>
+          <item/>
+          <item/>
+          <item/>
+          <item/>
+          <item/>
+        </list>
+      </p>
+    </bioghist>
+    <custodhist id="aspace_b65185e15f7c1a64878fa6edc6410493">
+      <head>Custodial History</head>
+      <p>The Heinz Norden collection was donated to the Tamiment Library by his widow, Claire Norden, 1982-1983. It was acquired in two accessions. In the 1970s the National Institute of Mental Health through the Center of Policy Research funded a study of tenant's movements. Joseph A. Spencer, a researcher on the project, obtained a group of papers from Heinz Norden and conducted an oral history interview with him. He turned the papers over to the Tamiment Library in 1982. Learning of a second group of papers in London, the Tamiment Library contacted Gloria Frankel, a fellow activist of Norden, who shipped them to Tamiment in 1983.</p>
+    </custodhist>
+    <prefercite id="aspace_96b5fac77b49fd77824a10c7d5cbb595">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Heinz Norden Papers; TAM 122; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <scopecontent id="aspace_f5bb72f4ccd552162a3788754ba8dd62">
+      <head>Scope and Content Note</head>
+      <p>The papers are organized into two series: I. Tenants Organization, 1934-41; II. Anti-Vietnam War, 1968-78, and include correspondence, literary productions, minutes, printed materials, legal documents and financial documents.</p>
+      <p>The researcher will find this collection useful for the following organizations and topics: the Citywide Tenant's Council (CWTC); the Minkoff Rent Law, which prevented owners of old-law tenements, in violation of housing laws, from increasing rents; the WPA Living Newspaper play "...one-third of the nation;" the Wagner-Steagall Housing Law, which established the U.S Housing Authority; New Deal slum clearance, low-rent housing and tenant selection, and low-rent housing during World War II. For the Anti-Vietnam War movement, the researcher will find materials on the many protest and draft resistance movements based in London.</p>
+      <p>The papers,fall into two series. Series I contains the materials of the New York tenant's movement. Its arrangement is based on hierarchy of organization; the CWTC is placed first and its affiliates (local tenant's groups) follow alphabetically. Series II contains the papers of the Anti-War movement and related issues. Its arrangement is chronological by earliest organization, with activities arranged alphabetically. Papers within folders are arranged chronologically. Published materials such as paperback books, pamphlets and newsletters have been removed from the collection and filed in the Tamiment Library. Series descriptions follow.</p>
+      <p>Series I, Tenant Organizations, 1934-41, 6 linear inches. The bulk of the material documents the Citywide Tenant's Council (CWTC) and its affiliates, especially the Knickerbocker Village Tenant's Association (KVTA). The affiliates of CWTC were the Chelsea Tenant's League, Hillside Tenant's Association, the KVTA, Queensbridge Tenant's League, Williamsburg Community Association, and the Lincoln Square Tenant's League. Some of their newsletters are included. Leaflets, bulletins, announcements, and press releases (1938-41) reveal day to day organizing activities, such as mass demonstrations and lobbying trips to Albany to effect housing legislation, and successes such as the building and completion of low-rent housing projects. Scattered throughout are Norden's manuscripts: a 76 page "Brief History of the Tenant's Movement in New York City, 1936-1938," which provides an in-depth study of CWTC and its affiliates; the changes in housing policy due to World War II; and three "On the Housing Front" columns. Five folders document the KTVA; a l05 page manuscript written in 1937 by Aubrey Mallach, activist and research assistant for the housing committee of the Charity Organization Society ( a private social service agency of New York City which created a nationally recognized successful housing reform movement in New York) records the history of KTVA). The Series contains the correspondence concerning Norden's unsuccessful struggle to prevent eviction at KTVA due, he believed, to his organizing role.</p>
+      <p>Series II, Anti-Vietnam War Activity, 1968-78, 18 linear inches. The bulk of the material concerns Group 68 which continued after the War in 1974 as Concerned Americans Abroad (CAA). Group 68 worked with other Anti-War groups including the National Council for Universal and Unconditional Amnesty, the Indo-China Solidarity Conference, British Campaign for Peace in Vietnam, Union of American Exiles in Britain, and Vietnam Veterans Against the War/ Winter Soldier Organization for which some documentation can be found in the collection. The actions of Group 68 and CAA are documented in their public statements, press releases, petitions, newspaper advertisements calling for supporters, "letters to the editor," and letters to government officials and other correspondence, and two newsletters OUT! Particularly valuable are the statements which describe the purposes and actions of Group 68 and CAA. A striking poster is included of "The Vietnam Vigil to End the War." Group 68 arranged deputations to officials inside the U.S. Embassy (Correspondence 1972). Through its minutes, agendas, and correspondence, its development as well as the occasional strains and tensions between members are apparent (1970). CAA opposed the Criminal Justice Reform Act of 1975 (Senate Bill S.l) as being "repressive." Correspondence, clippings, and newsletters document the case of Philip Agee and Marc Hosenball and the support CAA gave them in their fight against deportation from Britain (1977-78) and work to alert Americans of the covert operations of the CIA. Norden's role as a policy maker is reflected in his "Group 68: Appraisal and Outlook;" letter of April 27, 1976 to CAA; and his letter of May l0, 1977. Materials are included on Mr. and Mrs. Norden as members of the Council for Corporate Review, (1970-72) a research-action organization of stockholders challenging corporate involvement in the Vietnam War. The financial records and mailing lists for both groups are included.</p>
+    </scopecontent>
+    <separatedmaterial id="aspace_599fcf254ae2c87969e715f615965953">
+      <head>Separated Materials</head>
+      <p>Photographs were separated from this collection in 2007 and incorporated into the Heinz Norden Photographs (PHOTOS 273).</p>
+    </separatedmaterial>
+    <userestrict id="aspace_858f094347e8e57e28c7632b9e72f7af">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Heinz Norden, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <acqinfo id="aspace_88c4fff130f0d82eaa27166ffad77995">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Claire Norden in 1982 and 1983. The accession number associated with this gift is 1985.005.</p>
+    </acqinfo>
+    <controlaccess>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <subject source="lcsh">Vietnam War, 1961-1975 -- Protest movements.</subject>
+      <geogname source="lcsh">New York (N.Y.) -- Politics and government -- 20th century.</geogname>
+      <genreform source="aat">Pamphlets.</genreform>
+      <subject source="lcsh">Landlord and tenant -- New York (State) -- New York</subject>
+      <genreform source="aat">Press releases.</genreform>
+      <geogname source="lcsh">New York (N.Y.).</geogname>
+      <persname source="naf">Hosenball, Mark</persname>
       <persname source="naf">Norden, Heinz, 1905-1978</persname>
-    </origination>
-    <origination label="source">
+      <persname source="naf">Agee, Philip.</persname>
+      <corpname source="naf">City-Wide Tenants Council (New York, N.Y.)</corpname>
+      <corpname source="local">Knickerbocker Village Tenants' Association</corpname>
+      <corpname source="local">Concerned Americans Abroad</corpname>
+      <corpname source="local">Group 68</corpname>
       <persname role="dnr" rules="dacs" source="local">Norden, Claire</persname>
-    </origination>
-    <origination label="source">
-      <persname rules="dacs" source="local">Frankel, Gloria</persname>
-    </origination>
-    <origination label="source">
-      <persname rules="dacs" source="local">Slienger, Carl</persname>
-    </origination>
-    <unitid>TAM.122</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
-      <extent altrender="carrier">(3 boxes)</extent>
-    </physdesc>
-    <unitdate normal="1934/1978" type="inclusive">1934-1978</unitdate>
-    <abstract id="aspace_2b3f3f24f279cbf7ba88803b0f3cf06b">Heinz Norden, born in London and educated in Germany, immigrated to the United States in 1924. He was an editor, author, administrator for the New York City Housing Authority. In 1936 Norden became one of the founders and leaders of the City Wide Tenants Council, New York's first permanent coalition of tenant groups, and was a member of the Citizens' Housing Council. In 1961 he settled in London where he became involved in anti-Vietnam war activities, helping to organize Group 68 which changed its name to Concerned Americans Abroad. He was killed in a traffic accident in 1978 in London.</abstract>
-    <langmaterial id="aspace_7751fc1c4f5068f12494ab578601afa0">Materials are in English</langmaterial>
-  </did>
-  <accessrestrict id="aspace_8cf2fbc622611651d63e085584bc5c41">
-    <head>Conditions Governing Access</head>
-<p>Materials open without restrictions.</p>  </accessrestrict>
-  <arrangement id="aspace_f5d94b546a654753d78c438589e0c06b">
-    <head>Arrangement</head>
-<p>Folders are arranged alphabetically by subject/author heading.</p><p>The papers are organized into two series: I. Tenants Organization, 1934-1941; II. Anti-Vietnam War, 1968-1978, and include correspondence, literary productions, minutes, printed materials, legal documents and financial documents.</p>  </arrangement>
-  <bioghist id="aspace_788aa3d445832b915cd7a6aec0b90a52">
-    <head>Historical/Biographical Note:</head>
-<p>Heinz Norden was born in London, England on December 18, 1905, the son of German parents, Julius and Hermine. The family returned to Germany where Norden received a classical education at a gymnasium. Norden emigrated to the United States in 1924 during the economic depression in Germany. He attended the University of Chicago in 1926 and the New School for Social Research, 1949-50. Norden was married three times: to Helen Ovenden, divorcing in 1926; to Helen Strough Brown, later better known as Helen Lawrenson, social critic and magazine writer, divorcing in 193l. (In 1939 she married Jack Lawrenson, co-founder of the National Maritime Union.) His marriage to violinist Clair Harper in 1944 produced a child, Barbara (b. 1947) who lives in London.</p><p>Norden had several careers; he was an editor, a translator from the German, a writer, an administrator for the New York City Housing Authority, and an advertising executive. He was an author for the "Little Blue Books" a series dedicated to workers education on a mass scale, published by Haldeman-Julius in the late 1920s. Between 1935 and 1975 he translated over fifty volumes from the German including important works on current history, politics, and art history. Often his sister Ruth Norden (1906-77) was a co-translator. For his translation of Max Friedlander's fourteen volume work, Early Netherlandish Painting, Norden received the insignia of Chevalier de l'Ordre de Leopold ll, conferred by Badouin King of the Belgians on December 1977. A full list of his writings and translations are published in Contemporary Authors, Volume 53-56.</p><p>His work organizing grass-roots movements in which, with others, he tried to educate, agitate, and mobilize a community to understand its problems and power was entirely voluntary. Norden described himself as an "unlabeled radical." Claire Norden characterized him as a "Jeffersonian Democrat." Others who knew him or his work describe him as quick, dynamic, a good and efficient organizer involved in a number of liberal and left causes, a man with political savvy, somewhat of a raconteur.</p><p>Norden first became active for tenant's rights when he moved into the newly completed middle-income apartment complex Knickerbocker Village in 1934. Because of poor management from the start, the Knickerbocker tenants were motivated to call a rent strike. It was successful and a settlement was reached in favor of the tenants. They formed the Knickerbocker Village Tenant's Association (KVTA) with Norden as President. The KVTA, one of the first tenant's unions, published a newsletter which lasted into the early 1940s and organized discussion groups and various clubs for the tenants. Of this experience Norden wrote: "Residents who had never had opportunity for self-expression through community activity felt their lives infinitely enriched."</p><p>At this time only a handful of isolated tenants groups existed in New York and there was clearly a need to unite all tenants to fight against discrimination in housing, unfair eviction, lack of repairs and direct maintenance, poor heat and water supply, fire-trap housing, and for rent control, government sponsored slum clearance and low-cost housing. Later they had to include a fight against paternalistic management in government housing projects.</p><p>With his KVTA experience Norden became one of the founders and leaders in 1936 of the Citywide Tenants Council (CWTC), New York's first permanent coalition of neighborhood tenant's groups (1936-1943). Norden was the executive secretary and later chairperson of the CWTC. He also wrote the column "On the Housing Front" which appeared in tenant and trade union publications. Joseph Spencer wrote of CWTC: "With limited resources and personnel, they succeeded in establishing a stable movement capable of assisting individual families at the grass-roots level and presenting a tenant perspective on long-standing problems and remedies such as public housing and urban redevelopment." Mayor Fiorello LaGuardia and Mrs. Eleanor Roosevelt lent their names as honorary sponsors.</p><p>Norden was involved with other organizations too which promoted the cause of tenants. He was vice-president of the Committee to Aid Tenants' Organizations. Its motto was "Help the Slum Dwellers to Help Themselves," and was formed to find funding for CWTC and its affiliates. It also organized a study group for applicants taking the Civil Service examinations for the recently formed Housing Authority.</p><p>Norden also belonged to the Citizen's Housing Council, where he presented tenants views to housing experts, architects, social workers, and real-estate people. The CWTC was the forerunner of the present day Metropolitan Council on Housing with many of the same activists from the earlier group working in it. Between the two groups there was almost a decade without tenant organizing because of McCarthyite attacks on the tenant's movement. Norden left the CWTC in 194l when he received the highest grade on the Civil Service housing examination and was appointed second-in-charge of the Application Office of the New York Housing Authority. The post precluded work in grass-roots tenants groups.</p><p>Norden served in the United States Army for seven years, 194l-47 and rose from the ranks to the rank of major. He was in G2 Army Intelligence in Germany after World War II, editing the official U.S. German language magazine Heute in Munich. At this time his previous work with tenant organizing resulted in his being persecuted as a `red' and he was dismissed from Heute. He successfully contested his treatment in the federal courts. After this experience he wrote the unpublished manuscript, "How I Overthrew the Government of the United States, or The F.B. &amp; I" in 1950.</p><p>Norden entered into advertising and editorial work which took him to Europe. He settled in London in 196l. There, in 1968 he helped found "Group 68, Americans in Britain for United States Withdrawal from Southeast Asia,"(1968-74). It was the off-shoot of a committee formed to support the election of Senator Eugene McCarthy for President. Norden was chairperson from 1968-73. "Group 68" staged many demonstrations, distributed leaflets, held film showings, organized meetings with distinguished speakers, and disseminated information against U.S. involvement in Vietnam. "Group 68" supported draft and war resisters, including two American servicemen; one was courtmarshalled for participating in an Anti-War protest (197l) and the other for refusing to obey a direct order to fly a B-52 bombing mission over Hanoi (1973). It also had a liason relationship with other peace organizations, draft-resister organizations and civil-liberties groups. In 1972-73 they sponsored, along with l50 other groups, the "Vietnam Vigil to End the War," a year-long, daily, noon hour protest in front of the U.S. Embassy in London.</p><p>"Group 68" changed its name to "Concerned Americans Abroad," (1974-78) after the Vietnam War to work on other issues of concern. It campaigned for the complete withdrawal of U.S. arms and personnel supporting the regimes of Thieu and Lon Nol, for release of 200,000 political prisoners in Saigon jails, universal, unconditional amnesty for American war resisters, for abolition of the CIA and the impeachment of Richard Nixon. It placed an ad in the International New York Herald Tribune in 1974, asking Americans to write to the House Judiciary Committee in favor of impeachment. It was against the Criminal Justice Reform Bill S.l, and the deportation of Philip Agee, former officer of the C.I.A., and Marc Hosenball, American investigative reporter. "Group 68" and "Concerned Americans Abroad" (CAA) cooperated with other committees: "Democrats Abroad (UK) provided information to Americans abroad who were disfranchised because of absentee ballot red tape. A CAA member and draft resister ran for election as a delegate to the 1976 Democratic Convention.</p><p>In later life, Heinz and Claire ran a small business dealing in pharmaceutical antiques. Heinz Norden was killed in a traffic accident while crossing a London street in 1978.</p><p>Sources:</p><p><list><item>Heinz Norden. "KTVA Background Story," 194l. Box I, Folder l9.</item><item>Joseph A. Spencer, "Tenant Organization and Housing Reform in New York City: The Citywide Tenant's Council, 1936-1943." In Community Organization for Urban Social Change. A Historical Perspective. Ed. Robert Fisher and Peter Romanofsky. (Westport, Conn.: Greenwood Press, l981) p. 128.</item><item></item><item></item><item></item><item></item><item></item><item></item></list> </p>  </bioghist>
-  <custodhist id="aspace_b65185e15f7c1a64878fa6edc6410493">
-    <head>Custodial History</head>
-<p>The Heinz Norden collection was donated to the Tamiment Library by his widow, Claire Norden, 1982-1983. It was acquired in two accessions. In the 1970s the National Institute of Mental Health through the Center of Policy Research funded a study of tenant's movements. Joseph A. Spencer, a researcher on the project, obtained a group of papers from Heinz Norden and conducted an oral history interview with him. He turned the papers over to the Tamiment Library in 1982. Learning of a second group of papers in London, the Tamiment Library contacted Gloria Frankel, a fellow activist of Norden, who shipped them to Tamiment in 1983.</p>  </custodhist>
-  <prefercite id="aspace_96b5fac77b49fd77824a10c7d5cbb595">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Heinz Norden Papers; TAM 122; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <scopecontent id="aspace_f5bb72f4ccd552162a3788754ba8dd62">
-    <head>Scope and Content Note</head>
-<p>The papers are organized into two series: I. Tenants Organization, 1934-41; II. Anti-Vietnam War, 1968-78, and include correspondence, literary productions, minutes, printed materials, legal documents and financial documents.</p><p>The researcher will find this collection useful for the following organizations and topics: the Citywide Tenant's Council (CWTC); the Minkoff Rent Law, which prevented owners of old-law tenements, in violation of housing laws, from increasing rents; the WPA Living Newspaper play "...one-third of the nation;" the Wagner-Steagall Housing Law, which established the U.S Housing Authority; New Deal slum clearance, low-rent housing and tenant selection, and low-rent housing during World War II. For the Anti-Vietnam War movement, the researcher will find materials on the many protest and draft resistance movements based in London.</p><p>The papers,fall into two series. Series I contains the materials of the New York tenant's movement. Its arrangement is based on hierarchy of organization; the CWTC is placed first and its affiliates (local tenant's groups) follow alphabetically. Series II contains the papers of the Anti-War movement and related issues. Its arrangement is chronological by earliest organization, with activities arranged alphabetically. Papers within folders are arranged chronologically. Published materials such as paperback books, pamphlets and newsletters have been removed from the collection and filed in the Tamiment Library. Series descriptions follow.</p><p>Series I, Tenant Organizations, 1934-41, 6 linear inches. The bulk of the material documents the Citywide Tenant's Council (CWTC) and its affiliates, especially the Knickerbocker Village Tenant's Association (KVTA). The affiliates of CWTC were the Chelsea Tenant's League, Hillside Tenant's Association, the KVTA, Queensbridge Tenant's League, Williamsburg Community Association, and the Lincoln Square Tenant's League. Some of their newsletters are included. Leaflets, bulletins, announcements, and press releases (1938-41) reveal day to day organizing activities, such as mass demonstrations and lobbying trips to Albany to effect housing legislation, and successes such as the building and completion of low-rent housing projects. Scattered throughout are Norden's manuscripts: a 76 page "Brief History of the Tenant's Movement in New York City, 1936-1938," which provides an in-depth study of CWTC and its affiliates; the changes in housing policy due to World War II; and three "On the Housing Front" columns. Five folders document the KTVA; a l05 page manuscript written in 1937 by Aubrey Mallach, activist and research assistant for the housing committee of the Charity Organization Society ( a private social service agency of New York City which created a nationally recognized successful housing reform movement in New York) records the history of KTVA). The Series contains the correspondence concerning Norden's unsuccessful struggle to prevent eviction at KTVA due, he believed, to his organizing role.</p><p>Series II, Anti-Vietnam War Activity, 1968-78, 18 linear inches. The bulk of the material concerns Group 68 which continued after the War in 1974 as Concerned Americans Abroad (CAA). Group 68 worked with other Anti-War groups including the National Council for Universal and Unconditional Amnesty, the Indo-China Solidarity Conference, British Campaign for Peace in Vietnam, Union of American Exiles in Britain, and Vietnam Veterans Against the War/ Winter Soldier Organization for which some documentation can be found in the collection. The actions of Group 68 and CAA are documented in their public statements, press releases, petitions, newspaper advertisements calling for supporters, "letters to the editor," and letters to government officials and other correspondence, and two newsletters OUT! Particularly valuable are the statements which describe the purposes and actions of Group 68 and CAA. A striking poster is included of "The Vietnam Vigil to End the War." Group 68 arranged deputations to officials inside the U.S. Embassy (Correspondence 1972). Through its minutes, agendas, and correspondence, its development as well as the occasional strains and tensions between members are apparent (1970). CAA opposed the Criminal Justice Reform Act of 1975 (Senate Bill S.l) as being "repressive." Correspondence, clippings, and newsletters document the case of Philip Agee and Marc Hosenball and the support CAA gave them in their fight against deportation from Britain (1977-78) and work to alert Americans of the covert operations of the CIA. Norden's role as a policy maker is reflected in his "Group 68: Appraisal and Outlook;" letter of April 27, 1976 to CAA; and his letter of May l0, 1977. Materials are included on Mr. and Mrs. Norden as members of the Council for Corporate Review, (1970-72) a research-action organization of stockholders challenging corporate involvement in the Vietnam War. The financial records and mailing lists for both groups are included.</p>  </scopecontent>
-  <separatedmaterial id="aspace_599fcf254ae2c87969e715f615965953">
-    <head>Separated Materials</head>
-<p>Photographs were separated from this collection in 2007 and incorporated into the Heinz Norden Photographs (PHOTOS 273).</p>  </separatedmaterial>
-  <userestrict id="aspace_858f094347e8e57e28c7632b9e72f7af">
-    <head>Conditions Governing Use</head>
-<p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Heinz Norden, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <acqinfo id="aspace_88c4fff130f0d82eaa27166ffad77995">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Claire Norden in 1982 and 1983. The accession number associated with this gift is 1985.005.</p>  </acqinfo>
-  <controlaccess>
-    <genreform source="aat">Minutes (administrative records)</genreform>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <subject source="lcsh">Vietnam War, 1961-1975 -- Protest movements.</subject>
-    <geogname source="lcsh">New York (N.Y.) -- Politics and government -- 20th century.</geogname>
-    <genreform source="aat">Pamphlets.</genreform>
-    <subject source="lcsh">Landlord and tenant -- New York (State) -- New York</subject>
-    <genreform source="aat">Press releases.</genreform>
-    <geogname source="lcsh">New York (N.Y.).</geogname>
-    <persname source="naf">Hosenball, Mark</persname>
-    <persname source="naf">Norden, Heinz, 1905-1978</persname>
-    <persname source="naf">Agee, Philip.</persname>
-    <corpname source="naf">City-Wide Tenants Council (New York, N.Y.)</corpname>
-    <corpname source="local">Knickerbocker Village Tenants' Association</corpname>
-    <corpname source="local">Concerned Americans Abroad</corpname>
-    <corpname source="local">Group 68</corpname>
-    <persname role="dnr" rules="dacs" source="local">Norden, Claire</persname>
-    <persname role="fmo" rules="dacs" source="local">Frankel, Gloria</persname>
-    <persname role="fmo" rules="dacs" source="local">Slienger, Carl</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref11" level="series"><did><unittitle>Series I: Tenant's Organization</unittitle><unitdate normal="1934/1941" type="inclusive">1934-1941</unitdate></did><c id="aspace_ref12" level="otherlevel" otherlevel="unspecified"><did><unittitle>City Wide Tenant's Council- Announcements, Leaflets, Bulletins</unittitle><unitdate>1938-1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_fd8fe16dcbda9c80588ff1b5bf1be531" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_5f5db870240f958c233581bf30f2b74f" parent="aspace_fd8fe16dcbda9c80588ff1b5bf1be531" type="folder">1</container></did></c><c id="aspace_ref13" level="otherlevel" otherlevel="unspecified"><did><unittitle>City Wide Tenant's Council- Awards for Meritious Service</unittitle><unitdate>1940, 1941</unitdate><container altrender="Manuscript box - Legal" id="aspace_c3b3ae1ebd633a5a7c790c03df8fcaf5" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_bb095fe09a4f1fb15880599aaeb96ce9" parent="aspace_c3b3ae1ebd633a5a7c790c03df8fcaf5" type="folder">2</container></did></c><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>City Wide Tenant's Council- Conferences and Promotional Material</unittitle><unitdate>1937-1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_88f571ce852699ef677c96a1ba6d9d31" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_b3edfbed0359069bf1f3fec0acf21b09" parent="aspace_88f571ce852699ef677c96a1ba6d9d31" type="folder">3</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle>City Wide Tenant's Council- Constitution and Budget.</unittitle><unitdate>1937-1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_92701c447e63ec743f6d986dffe7e0ea" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_b637ec1f41e3d7cabde5c6ff65e0c6bd" parent="aspace_92701c447e63ec743f6d986dffe7e0ea" type="folder">4</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle>City Wide Tenant's Council- Correspondence</unittitle><unitdate>1938-1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_9abf45e09753c6c4eafd67fbf6f57235" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_fd299e99fc1b73faabf5b0b73aca4d88" parent="aspace_9abf45e09753c6c4eafd67fbf6f57235" type="folder">5</container></did></c><c id="aspace_ref17" level="otherlevel" otherlevel="unspecified"><did><unittitle>City Wide Tenant's Council- "A Brief History of the Tenant's Movement in New York City" and "The Tenant's of Madrid"</unittitle><unitdate>1936-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_d7d3cfe086230e2425e6836d5cc7e555" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_838a6e5418e37c780dbc0f67fb95dfaa" parent="aspace_d7d3cfe086230e2425e6836d5cc7e555" type="folder">6</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle>City Wide Tenant's Council- Housing and World War 11</unittitle><unitdate>1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_e88ca8f125dd3bc1d90dce220b55a264" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_83abc0b352cf90bc0f38d889c833ba8e" parent="aspace_e88ca8f125dd3bc1d90dce220b55a264" type="folder">7</container></did></c><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle>City Wide Tenant's Council- Invitations to Fundraising Parties</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_230932fc36d8941090896287efd1980d" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_5f742379f74d47999bee5a1d88116b2d" parent="aspace_230932fc36d8941090896287efd1980d" type="folder">8</container></did></c><c id="aspace_ref20" level="otherlevel" otherlevel="unspecified"><did><unittitle>City Wide Tenant's Council- Legislation</unittitle><unitdate>1938-1941</unitdate><container altrender="Manuscript box - Legal" id="aspace_e4d4ec9cbb6db6b957133abb3b24f545" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_02e403069237c097319fe1ae6f9c5ae5" parent="aspace_e4d4ec9cbb6db6b957133abb3b24f545" type="folder">9</container></did></c><c id="aspace_ref21" level="otherlevel" otherlevel="unspecified"><did><unittitle>City Wide Tenant's Council- Manuscripts and Radio Scripts- Public Housing</unittitle><unitdate>1938-1941</unitdate><container altrender="Manuscript box - Legal" id="aspace_68ced91910518f1315b1fc67c2041b25" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_331d6f50cd14c8f96e31ddab609df309" parent="aspace_68ced91910518f1315b1fc67c2041b25" type="folder">10</container></did></c><c id="aspace_ref22" level="otherlevel" otherlevel="unspecified"><did><unittitle>City Wide Tenant's Council- Minutes</unittitle><unitdate>1937, 1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_a083be96f68dd94dc7258f8e5538b005" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_3f6d247906cba6c3b96abaaadc4675a9" parent="aspace_a083be96f68dd94dc7258f8e5538b005" type="folder">11</container></did></c><c id="aspace_ref23" level="otherlevel" otherlevel="unspecified"><did><unittitle>City Wide Tenant's Council- Newsletter/Housing, January-May 1940.</unittitle><unitdate>1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_180dd2e7d56d6e126ea3276d046d721f" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_0c157caac1b7cdaea12fe272a17beb7a" parent="aspace_180dd2e7d56d6e126ea3276d046d721f" type="folder">12</container></did></c><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle>City Wide Tenant's Council- Newsletter/The Tenant, September 1938-May 1940.</unittitle><unitdate>1938-1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_307e302d83f90329d69aefd7dbba00f8" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_7465482c2d13942f7c50957c998fcb27" parent="aspace_307e302d83f90329d69aefd7dbba00f8" type="folder">13</container></did></c><c id="aspace_ref25" level="otherlevel" otherlevel="unspecified"><did><unittitle>City Wide Tenant's Council- New York City Housing Authority- Memorandum</unittitle><unitdate>1941</unitdate><container altrender="Manuscript box - Legal" id="aspace_0378880c26bc6d3ab9e22006953e53c0" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_5eccb0085a20ea37fe56f08deccb61be" parent="aspace_0378880c26bc6d3ab9e22006953e53c0" type="folder">14</container></did></c><c id="aspace_ref26" level="otherlevel" otherlevel="unspecified"><did><unittitle>City Wide Tenant's Council- Press Releases</unittitle><unitdate>1939-1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_5f77c2c4f9cf11f7206c1436183540de" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_3d58a72e8925a7d4068b249745f86dd5" parent="aspace_5f77c2c4f9cf11f7206c1436183540de" type="folder">15</container></did></c><c id="aspace_ref27" level="otherlevel" otherlevel="unspecified"><did><unittitle>Chelsea Tenant's League- Newsletters, Proposed Constitution</unittitle><unitdate>1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_949653696901ceee4b7c41380d8236b9" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_1eb0b231e076ad742a0a16426d9a9e75" parent="aspace_949653696901ceee4b7c41380d8236b9" type="folder">16</container></did></c><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle>Hillside Tenant's Association (Bronx, N.Y.)</unittitle><unitdate>1939-1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_97569bfde61f17bb0235ef4aaa41d44e" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_d00b4b26a4d70d5e5c6d1bc5d2345d40" parent="aspace_97569bfde61f17bb0235ef4aaa41d44e" type="folder">17</container></did></c><c id="aspace_ref29" level="otherlevel" otherlevel="unspecified"><did><unittitle>Knickerbocker Village Tenant's Association- Correspondence- Norden/Personal</unittitle><unitdate>1935-1941</unitdate><container altrender="Manuscript box - Legal" id="aspace_6ec4d9e5b8c12f0de022a378220b22d1" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_f65a6d86ec972f3c8148669a09786222" parent="aspace_6ec4d9e5b8c12f0de022a378220b22d1" type="folder">18</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle>Knickerbocker Village Tenant's Association- Aug 6,1940 Court Case- Rosenthal</unittitle><unitdate>1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_9f28db786f2b7778455c79ef2f8689f1" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_cf66a200547f33f1e5d5dbfce4819948" parent="aspace_9f28db786f2b7778455c79ef2f8689f1" type="folder">19</container></did></c><c id="aspace_ref31" level="otherlevel" otherlevel="unspecified"><did><unittitle>Knickerbocker Village Tenant's Association- Grievances Against Management</unittitle><unitdate>1938-1941</unitdate><container altrender="Manuscript box - Legal" id="aspace_1c7903e2c226706658752aedd461856a" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_41b04630e0888668f3038e3a69457f6e" parent="aspace_1c7903e2c226706658752aedd461856a" type="folder">20</container></did></c><c id="aspace_ref32" level="otherlevel" otherlevel="unspecified"><did><unittitle>Knickerbocker Village Tenant's Association- Manuscript/History by Audrey Mallach</unittitle><unitdate>1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_47be271e9229bffb6cf2264d39cfd9ce" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_f31c51f3bfcc0329472cc1e4a136714a" parent="aspace_47be271e9229bffb6cf2264d39cfd9ce" type="folder">21</container></did></c><c id="aspace_ref33" level="otherlevel" otherlevel="unspecified"><did><unittitle>Knickerbocker Village Tenant's Association- Statement- Illegal Activity of Management</unittitle><unitdate>1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_cf215a4561989e8d98fcfd373839b307" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_8d79c817f7ad7e663a9d1b1f32ed7f7d" parent="aspace_cf215a4561989e8d98fcfd373839b307" type="folder">22</container></did></c><c id="aspace_ref34" level="otherlevel" otherlevel="unspecified"><did><unittitle>Queensbridge Tenant's League- 2 Newsletters Williamsburg Community Association and Lincoln Square Tenant's League</unittitle><unitdate>1941</unitdate><container altrender="Manuscript box - Legal" id="aspace_1d9ec5ced659cd68b2396a6c53328b76" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_4846e5215a08c6a6a3a2fbf5167abee6" parent="aspace_1d9ec5ced659cd68b2396a6c53328b76" type="folder">23</container></did></c><c id="aspace_ref35" level="otherlevel" otherlevel="unspecified"><did><unittitle>Williamsburg Community Association and Lincoln Square Tenant's League</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_cce1f50cee8ff6d1fe1d38a34d6a3583" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_07d5ad95245e9ab50460a58bf6062b5a" parent="aspace_cce1f50cee8ff6d1fe1d38a34d6a3583" type="folder">24</container></did></c><c id="aspace_ref36" level="otherlevel" otherlevel="unspecified"><did><unittitle>Citizen's Housing Council of New York</unittitle><unitdate>1938-1941</unitdate><container altrender="Manuscript box - Legal" id="aspace_09200976f82c25e926933566bdef5146" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_580b09ffca2ee7b0b37b28febc17aa78" parent="aspace_09200976f82c25e926933566bdef5146" type="folder">25</container></did></c><c id="aspace_ref37" level="otherlevel" otherlevel="unspecified"><did><unittitle>Committee to Aid Tenant Organization</unittitle><unitdate>1939-1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_797cecf4714bef7b9b4845c19e692b14" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_071472ccf257ef7f6585baab14415b88" parent="aspace_797cecf4714bef7b9b4845c19e692b14" type="folder">26</container></did></c><c id="aspace_ref38" level="otherlevel" otherlevel="unspecified"><did><unittitle>Shelter Research, Inc- Editorials</unittitle><unitdate>1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_d6a97729ff702eff4faa81d839e60a52" label="Mixed Materials [31142062765535]" type="box">1</container><container id="aspace_89919c56ceb3ca2d32b0724a6b371904" parent="aspace_d6a97729ff702eff4faa81d839e60a52" type="folder">27</container></did></c></c><c id="aspace_ref39" level="series"><did><unittitle>Series II: Anti-Vietnam War Movement in London</unittitle><unitdate normal="1968/1978" type="inclusive">1968-1978</unitdate></did><c id="aspace_ref40" level="otherlevel" otherlevel="unspecified"><did><unittitle>The Stop-It Committee (Americans in Britain for U.S. Withdrawal from Vietnam)</unittitle><unitdate>1968</unitdate><container altrender="Manuscript box - Legal" id="aspace_b11842b0863f3d35c532453fd95488d5" label="Mixed Materials [31142062765543]" type="box">2</container><container id="aspace_0c21fef57bb7d05c74739c373b05b494" parent="aspace_b11842b0863f3d35c532453fd95488d5" type="folder">1</container></did></c><c id="aspace_ref41" level="otherlevel" otherlevel="unspecified"><did><unittitle>Americans Abroad for McCarthy</unittitle><unitdate>1968</unitdate><container altrender="Manuscript box - Legal" id="aspace_6a39c51edac96836abed3036251936bf" label="Mixed Materials [31142062765543]" type="box">2</container><container id="aspace_72a9012f27828fd3908cba54a2c317bf" parent="aspace_6a39c51edac96836abed3036251936bf" type="folder">2</container></did></c><c id="aspace_ref42" level="otherlevel" otherlevel="unspecified"><did><unittitle>Americans in Britain Against the War in Vietnam; Executives Move for Peace in Vietnam.</unittitle><unitdate>1968</unitdate><container altrender="Manuscript box - Legal" id="aspace_f32d7a0b70691a25c3dcc6c9bdcda5dd" label="Mixed Materials [31142062765543]" type="box">2</container><container id="aspace_0c37452d93e9cf3f1ef20449eca59377" parent="aspace_f32d7a0b70691a25c3dcc6c9bdcda5dd" type="folder">3</container></did></c><c id="aspace_ref43" level="otherlevel" otherlevel="unspecified"><did><unittitle>Group 68- Bulletins ,Public Statements,Press Releases, Petitions</unittitle><unitdate>1968-1973</unitdate><container altrender="Manuscript box - Legal" id="aspace_a514718576a58e41970c2765de93ef2b" label="Mixed Materials [31142062765543]" type="box">2</container><container id="aspace_d7982feb40b463014ba92d5478ced71c" parent="aspace_a514718576a58e41970c2765de93ef2b" type="folder">4</container></did></c><c id="aspace_ref44" level="otherlevel" otherlevel="unspecified"><did><unittitle>Group 68- Correspondence</unittitle><unitdate>1968-1973</unitdate><container altrender="Manuscript box - Legal" id="aspace_0dff492c7e74473b0feea989c2c79a11" label="Mixed Materials [31142062765543]" type="box">2</container><container id="aspace_b12a8bea9769e69016f0940996dd2544" parent="aspace_0dff492c7e74473b0feea989c2c79a11" type="folder">5-10</container></did></c><c id="aspace_ref45" level="otherlevel" otherlevel="unspecified"><did><unittitle>Group 68- Captain Culver Case</unittitle><unitdate>1971</unitdate><container altrender="Manuscript box - Legal" id="aspace_66a260d4bfd4b9c2c4bbb40108f4b51d" label="Mixed Materials [31142062765543]" type="box">2</container><container id="aspace_f358574b6150554ddb1c436bc93a212b" parent="aspace_66a260d4bfd4b9c2c4bbb40108f4b51d" type="folder">11</container></did></c><c id="aspace_ref46" level="otherlevel" otherlevel="unspecified"><did><unittitle>Group 68- Captain J. Heck Case</unittitle><unitdate>1973</unitdate><container altrender="Manuscript box - Legal" id="aspace_484d5cca355e4b06778478b9db8c888b" label="Mixed Materials [31142062765543]" type="box">2</container><container id="aspace_43cfee2b38f76f0bac1a6b5557b0760c" parent="aspace_484d5cca355e4b06778478b9db8c888b" type="folder">12</container></did></c><c id="aspace_ref47" level="otherlevel" otherlevel="unspecified"><did><unittitle>Group 68- Minutes,Agendas</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_dc687cf64cec90720d4f5af43f273b79" label="Mixed Materials [31142062765543]" type="box">2</container><container id="aspace_77a9e166909efb3ab4fba2a040a85290" parent="aspace_dc687cf64cec90720d4f5af43f273b79" type="folder">13</container></did></c><c id="aspace_ref48" level="otherlevel" otherlevel="unspecified"><did><unittitle>Group 68- Newsletter/OUT</unittitle><unitdate>1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_fc19abb86dd2003cf4dcbdb1a1a2d022" label="Mixed Materials [31142062765543]" type="box">2</container><container id="aspace_c2473cd6454d1bb58e9cf1cd5b9bdea9" parent="aspace_fc19abb86dd2003cf4dcbdb1a1a2d022" type="folder">14</container></did></c><c id="aspace_ref49" level="otherlevel" otherlevel="unspecified"><did><unittitle>Group 68- Newspaper Clippings</unittitle><unitdate>1968-1973</unitdate><container altrender="Manuscript box - Legal" id="aspace_fdf76119ec658f14f07cbab0b458eb7a" label="Mixed Materials [31142062765543]" type="box">2</container><container id="aspace_89458ff6d5b5aceebe47aa637d320481" parent="aspace_fdf76119ec658f14f07cbab0b458eb7a" type="folder">15</container></did></c><c id="aspace_ref50" level="otherlevel" otherlevel="unspecified"><did><unittitle>Group 68- Vietnam Vigil</unittitle><unitdate>1972-1973</unitdate><container altrender="Manuscript box - Legal" id="aspace_6e415c21565ba447f7f0d8826dc2faad" label="Mixed Materials [31142062765543]" type="box">2</container><container id="aspace_e401a960be1d61cb190fc6cb77636883" parent="aspace_6e415c21565ba447f7f0d8826dc2faad" type="folder">16</container></did></c><c id="aspace_ref51" level="otherlevel" otherlevel="unspecified"><did><unittitle>Group 68- World Assembly for Peace and Independence of IndoChina/Paris, February 11-13, 1972</unittitle><unitdate>37663-13/72</unitdate><container altrender="Manuscript box - Legal" id="aspace_ccee1c39e5730ed71e234282fbb87639" label="Mixed Materials [31142062765543]" type="box">2</container><container id="aspace_07d970bf6c8d8058dcf93321e11516b6" parent="aspace_ccee1c39e5730ed71e234282fbb87639" type="folder">17</container></did></c><c id="aspace_ref52" level="otherlevel" otherlevel="unspecified"><did><unittitle>Concerned Americans Abroad-Bulletins,Public Statements, Press Releases</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_c59f7b06df5e037ea93bdbbf345b26f2" label="Mixed Materials [31142062765543]" type="box">2</container><container id="aspace_734c01c22b5624eab161f218393b9304" parent="aspace_c59f7b06df5e037ea93bdbbf345b26f2" type="folder">18</container></did></c><c id="aspace_ref53" level="otherlevel" otherlevel="unspecified"><did><unittitle>Concerned Americans Abroad- Correspondence</unittitle><unitdate>1974-1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_95dd75c289c490b58797bff3fc962fa3" label="Mixed Materials [31142062765543]" type="box">2</container><container id="aspace_bc3ad20e7c68748e47df1d149911fad4" parent="aspace_95dd75c289c490b58797bff3fc962fa3" type="folder">19-22</container></did></c><c id="aspace_ref54" level="otherlevel" otherlevel="unspecified"><did><unittitle>Concerned Americans Abroad- Minutes, Agendas</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_903260f02f2df74125a5495a5c73ca1b" label="Mixed Materials [31142062765550]" type="box">3</container><container id="aspace_35919a0eaef714802a57d42a39f800dc" parent="aspace_903260f02f2df74125a5495a5c73ca1b" type="folder">1</container></did></c><c id="aspace_ref55" level="otherlevel" otherlevel="unspecified"><did><unittitle>Concerned Americans Abroad- Philip Agee and Marc Hosenball- Agendas</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_0b6c4e08b6511a3a993a6975d16229e5" label="Mixed Materials [31142062765550]" type="box">3</container><container id="aspace_371fddb22e74d6c4f060b64b78f04fdc" parent="aspace_0b6c4e08b6511a3a993a6975d16229e5" type="folder">2</container></did></c><c id="aspace_ref56" level="otherlevel" otherlevel="unspecified"><did><unittitle>Concerned Americans Abroad- Philip Agee and Marc Hosenball-Correspondence</unittitle><unitdate>1975-1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_49694f918f52dc81a43efc77b30a49be" label="Mixed Materials [31142062765550]" type="box">3</container><container id="aspace_3dba0ba2472b90fb83f151bc2bd4830d" parent="aspace_49694f918f52dc81a43efc77b30a49be" type="folder">3</container></did></c><c id="aspace_ref57" level="otherlevel" otherlevel="unspecified"><did><unittitle>Concerned Americans Abroad- Philip Agee and Marc Hosenball-Press Releases, Leaflets</unittitle><unitdate>1975-1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_fea73ac85cac9dd8c6e0571baea79bb1" label="Mixed Materials [31142062765550]" type="box">3</container><container id="aspace_760698019c329f79fece8ce1a170c3ad" parent="aspace_fea73ac85cac9dd8c6e0571baea79bb1" type="folder">4</container></did></c><c id="aspace_ref58" level="otherlevel" otherlevel="unspecified"><did><unittitle>Concerned Americans Abroad- Philip Agee and Marc Hosenball- Newspaper Clippings</unittitle><unitdate>1976-1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_b4d61384a4dd21ebf5e971a2ef700b7e" label="Mixed Materials [31142062765550]" type="box">3</container><container id="aspace_51624ab0bdd7e8e21663d88c11c8b90c" parent="aspace_b4d61384a4dd21ebf5e971a2ef700b7e" type="folder">5</container></did></c><c id="aspace_ref59" level="otherlevel" otherlevel="unspecified"><did><unittitle>Concerned Americans Abroad- Philip Agee and Marc Hosenball- Pamphlets and Newsletters</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d1cdfc2a59e1b1406ea00bdb31261b09" label="Mixed Materials [31142062765550]" type="box">3</container><container id="aspace_250a37e9643800a94160bb04964128b7" parent="aspace_d1cdfc2a59e1b1406ea00bdb31261b09" type="folder">6</container></did></c><c id="aspace_ref60" level="otherlevel" otherlevel="unspecified"><did><unittitle>Concerned Americans Abroad- C.I.A. Activities</unittitle><unitdate>1975-1976</unitdate><container altrender="Manuscript box - Legal" id="aspace_2e59a46a9d5bc410e3416e519b92b81e" label="Mixed Materials [31142062765550]" type="box">3</container><container id="aspace_c3609580738c9886459b9e0459eef10b" parent="aspace_2e59a46a9d5bc410e3416e519b92b81e" type="folder">7</container></did></c><c id="aspace_ref61" level="otherlevel" otherlevel="unspecified"><did><unittitle>Concerned Americans Abroad- Impeach Nixon- Correspondence</unittitle><unitdate>1974</unitdate><container altrender="Manuscript box - Legal" id="aspace_a01b06a7f42ac3f05ca4d26c78346799" label="Mixed Materials [31142062765550]" type="box">3</container><container id="aspace_7ad7751915105bc8d60865fe29d5fd38" parent="aspace_a01b06a7f42ac3f05ca4d26c78346799" type="folder">8</container></did></c><c id="aspace_ref62" level="otherlevel" otherlevel="unspecified"><did><unittitle>Concerned Americans Abroad- Impeach Nixon- Press Releases</unittitle><unitdate>1974</unitdate><container altrender="Manuscript box - Legal" id="aspace_a6eb19fcb3208a7d47f1c92825d7b1fe" label="Mixed Materials [31142062765550]" type="box">3</container><container id="aspace_e9d8fdd4eb90679ca0fc695c22100871" parent="aspace_a6eb19fcb3208a7d47f1c92825d7b1fe" type="folder">9</container></did></c><c id="aspace_ref63" level="otherlevel" otherlevel="unspecified"><did><unittitle>Concerned Americans Abroad- Impeach Nixon- Newspaper Clippings</unittitle><unitdate>1974</unitdate><container altrender="Manuscript box - Legal" id="aspace_6c07c035a1cef075d6f8c62ec5defa1c" label="Mixed Materials [31142062765550]" type="box">3</container><container id="aspace_b5e254b6ce042712a09fcf387ec9451b" parent="aspace_6c07c035a1cef075d6f8c62ec5defa1c" type="folder">10</container></did></c><c id="aspace_ref64" level="otherlevel" otherlevel="unspecified"><did><unittitle>Concerned Americans Abroad- S-1 Bill</unittitle><unitdate>1975-1976</unitdate><container altrender="Manuscript box - Legal" id="aspace_c4ab97cb270640db43f5aa84cd154488" label="Mixed Materials [31142062765550]" type="box">3</container><container id="aspace_752253342bd328693a011b7d9b088bf4" parent="aspace_c4ab97cb270640db43f5aa84cd154488" type="folder">11</container></did></c><c id="aspace_ref65" level="otherlevel" otherlevel="unspecified"><did><unittitle>Mr/Mrs Norden- Council for Corporate Review</unittitle><unitdate>1970-1972</unitdate><container altrender="Manuscript box - Legal" id="aspace_754e9077b9de68c2ab6406a1e9c5f603" label="Mixed Materials [31142062765550]" type="box">3</container><container id="aspace_56a55f891c4072e3101fb596f66ff274" parent="aspace_754e9077b9de68c2ab6406a1e9c5f603" type="folder">12</container></did></c><c id="aspace_ref66" level="otherlevel" otherlevel="unspecified"><did><unittitle>Other Organizations- About IndoChina- Fact Sheets, Songs, Poems</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_3886910671d84357ca6014cec8b1ff32" label="Mixed Materials [31142062765568]" type="box">4</container><container id="aspace_ab9f5521ba6901bd2752376b0fd7f8d9" parent="aspace_3886910671d84357ca6014cec8b1ff32" type="folder">1</container></did></c><c id="aspace_ref67" level="otherlevel" otherlevel="unspecified"><did><unittitle>Other Organizations- Amnesty International</unittitle><unitdate>1974</unitdate><container altrender="Manuscript box - Legal" id="aspace_f688d69e36c1cd3e9e791d0ad0c811d2" label="Mixed Materials [31142062765568]" type="box">4</container><container id="aspace_b04a59948753c550b356e5492f64cbc8" parent="aspace_f688d69e36c1cd3e9e791d0ad0c811d2" type="folder">2</container></did></c><c id="aspace_ref68" level="otherlevel" otherlevel="unspecified"><did><unittitle>Other Organizations- Aubrey Berry Campbell- Defense Committee</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2a3e903ae9faaa4e2857e331fbc63ae4" label="Mixed Materials [31142062765568]" type="box">4</container><container id="aspace_568789baceedba966cfc0a92272a025f" parent="aspace_2a3e903ae9faaa4e2857e331fbc63ae4" type="folder">3</container></did></c><c id="aspace_ref69" level="otherlevel" otherlevel="unspecified"><did><unittitle>Other Organizations- The British Vietnam Association- Correspondence, Agendas, Statements, Clippings</unittitle><unitdate>1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_72bfb051303b6d67a5a889889348f8ee" label="Mixed Materials [31142062765568]" type="box">4</container><container id="aspace_35dc44947769762201d35eb28da2936b" parent="aspace_72bfb051303b6d67a5a889889348f8ee" type="folder">4</container></did></c><c id="aspace_ref70" level="otherlevel" otherlevel="unspecified"><did><unittitle>Other Organizations- Civil Liberties Committees</unittitle><unitdate>1976-1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_aeb6678ffd44e64a037843565d3b1328" label="Mixed Materials [31142062765568]" type="box">4</container><container id="aspace_1d28bee8208eadb41a1dc12a9954b99d" parent="aspace_aeb6678ffd44e64a037843565d3b1328" type="folder">5</container></did></c><c id="aspace_ref71" level="otherlevel" otherlevel="unspecified"><did><unittitle>Other Organizations- Democrats Abroad</unittitle><unitdate>1976-1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_cf9e44cb8a0910cfa08075fd771afa64" label="Mixed Materials [31142062765568]" type="box">4</container><container id="aspace_0f1e821f06673e0a86c4e729eff588c6" parent="aspace_cf9e44cb8a0910cfa08075fd771afa64" type="folder">6</container></did></c><c id="aspace_ref72" level="otherlevel" otherlevel="unspecified"><did><unittitle>Other Organizations IndoChina Solidarity Conference</unittitle><unitdate>1972-1973</unitdate><container altrender="Manuscript box - Legal" id="aspace_d9956b26d325fa7c9b0f905dd4aa07dc" label="Mixed Materials [31142062765568]" type="box">4</container><container id="aspace_c40e8059db263c342a76070c1d77ef99" parent="aspace_d9956b26d325fa7c9b0f905dd4aa07dc" type="folder">7</container></did></c><c id="aspace_ref73" level="otherlevel" otherlevel="unspecified"><did><unittitle>Other Organizations- Miscellaneous</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_5afe22978d66bd0f551139598261e8a9" label="Mixed Materials [31142062765568]" type="box">4</container><container id="aspace_e4b029158894d5833ded16fdd9807f0a" parent="aspace_5afe22978d66bd0f551139598261e8a9" type="folder">8</container></did></c><c id="aspace_ref74" level="otherlevel" otherlevel="unspecified"><did><unittitle>Other Organizations- National Council for Universal and Unconditional Amnesty- Newsletters, Press Releases</unittitle><unitdate>1975-1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_51b55a0ed1a5a2f804d434a53799f589" label="Mixed Materials [31142062765568]" type="box">4</container><container id="aspace_b9b7a88788db1db1f1ff6b6e7c501cb1" parent="aspace_51b55a0ed1a5a2f804d434a53799f589" type="folder">9</container></did></c><c id="aspace_ref75" level="otherlevel" otherlevel="unspecified"><did><unittitle>Other Organizations- Support</unittitle><unitdate>1972</unitdate><container altrender="Manuscript box - Legal" id="aspace_2d07646eac96facc7d13b400e609530e" label="Mixed Materials [31142062765568]" type="box">4</container><container id="aspace_c0a0e60c211dbcb2ee2cbeaec2e33d7c" parent="aspace_2d07646eac96facc7d13b400e609530e" type="folder">10</container></did></c><c id="aspace_ref76" level="otherlevel" otherlevel="unspecified"><did><unittitle>Other Organizations- Tax Equity for Americans Abroad</unittitle><unitdate>1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_ca5b81bf797c68b9b837d03567976908" label="Mixed Materials [31142062765568]" type="box">4</container><container id="aspace_de81d38ae054f15f170bd8e3ea43f718" parent="aspace_ca5b81bf797c68b9b837d03567976908" type="folder">11</container></did></c><c id="aspace_ref77" level="otherlevel" otherlevel="unspecified"><did><unittitle>Other Organizations- Union of American Exiles in Britain</unittitle><unitdate>1972</unitdate><container altrender="Manuscript box - Legal" id="aspace_cadbf2ce62a619b6856b727d644fe90e" label="Mixed Materials [31142062765568]" type="box">4</container><container id="aspace_53643bbfe7440d6962dc869ee689af81" parent="aspace_cadbf2ce62a619b6856b727d644fe90e" type="folder">12</container></did></c><c id="aspace_ref78" level="otherlevel" otherlevel="unspecified"><did><unittitle>Other Organizations- Vietnam Veterans Against the War/Winter Soldier Organization</unittitle><unitdate>1973-1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_69445747c6b0d8544b1ba9de8b2ce4cc" label="Mixed Materials [31142062765568]" type="box">4</container><container id="aspace_0536f4866d3fb79d817cfe8411bc8c73" parent="aspace_69445747c6b0d8544b1ba9de8b2ce4cc" type="folder">13</container></did></c><c id="aspace_ref79" level="otherlevel" otherlevel="unspecified"><did><unittitle>Group 68 and Concerned Americans Abroad- Financial Records</unittitle><unitdate>1968-1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_d6ad0c018354c0d54b503717b33d2927" label="Mixed Materials [31142062765568]" type="box">4</container><container id="aspace_eb033f584ba581d5dedd153e3a8ec71a" parent="aspace_d6ad0c018354c0d54b503717b33d2927" type="folder">14-15</container></did></c><c id="aspace_ref80" level="otherlevel" otherlevel="unspecified"><did><unittitle>Group 68 and Concerned Americans Abroad- Mailing Lists</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_15b7a2b6956e821f3014d88025fa33d2" label="Mixed Materials [31142062765568]" type="box">4</container><container id="aspace_35e040a7b99c289eae8814f48296be59" parent="aspace_15b7a2b6956e821f3014d88025fa33d2" type="folder">16</container></did></c><c id="aspace_ref81" level="otherlevel" otherlevel="unspecified"><did><unittitle>Group 68 and Concerned Americans Abroad- Posters</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2b196f3acf5ba6fe13033f2c92f77d27" label="Mixed Materials [31142062765568]" type="box">4</container><container id="aspace_84213f9bab48b90ddfe8454a3cf63dfc" parent="aspace_2b196f3acf5ba6fe13033f2c92f77d27" type="folder">17</container></did></c></c></dsc>
-</archdesc>
+      <persname role="fmo" rules="dacs" source="local">Frankel, Gloria</persname>
+      <persname role="fmo" rules="dacs" source="local">Slienger, Carl</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref11" level="series">
+        <did>
+          <unittitle>Series I: Tenant's Organization</unittitle>
+          <unitdate normal="1934/1941" type="inclusive">1934-1941</unitdate>
+        </did>
+        <c id="aspace_ref12" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>City Wide Tenant's Council- Announcements, Leaflets, Bulletins</unittitle>
+            <unitdate>1938-1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fd8fe16dcbda9c80588ff1b5bf1be531" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_5f5db870240f958c233581bf30f2b74f" parent="aspace_fd8fe16dcbda9c80588ff1b5bf1be531" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>City Wide Tenant's Council- Awards for Meritious Service</unittitle>
+            <unitdate>1940, 1941</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c3b3ae1ebd633a5a7c790c03df8fcaf5" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_bb095fe09a4f1fb15880599aaeb96ce9" parent="aspace_c3b3ae1ebd633a5a7c790c03df8fcaf5" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>City Wide Tenant's Council- Conferences and Promotional Material</unittitle>
+            <unitdate>1937-1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_88f571ce852699ef677c96a1ba6d9d31" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_b3edfbed0359069bf1f3fec0acf21b09" parent="aspace_88f571ce852699ef677c96a1ba6d9d31" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>City Wide Tenant's Council- Constitution and Budget.</unittitle>
+            <unitdate>1937-1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_92701c447e63ec743f6d986dffe7e0ea" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_b637ec1f41e3d7cabde5c6ff65e0c6bd" parent="aspace_92701c447e63ec743f6d986dffe7e0ea" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>City Wide Tenant's Council- Correspondence</unittitle>
+            <unitdate>1938-1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9abf45e09753c6c4eafd67fbf6f57235" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_fd299e99fc1b73faabf5b0b73aca4d88" parent="aspace_9abf45e09753c6c4eafd67fbf6f57235" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>City Wide Tenant's Council- "A Brief History of the Tenant's Movement in New York City" and "The Tenant's of Madrid"</unittitle>
+            <unitdate>1936-1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d7d3cfe086230e2425e6836d5cc7e555" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_838a6e5418e37c780dbc0f67fb95dfaa" parent="aspace_d7d3cfe086230e2425e6836d5cc7e555" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>City Wide Tenant's Council- Housing and World War 11</unittitle>
+            <unitdate>1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e88ca8f125dd3bc1d90dce220b55a264" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_83abc0b352cf90bc0f38d889c833ba8e" parent="aspace_e88ca8f125dd3bc1d90dce220b55a264" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>City Wide Tenant's Council- Invitations to Fundraising Parties</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_230932fc36d8941090896287efd1980d" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_5f742379f74d47999bee5a1d88116b2d" parent="aspace_230932fc36d8941090896287efd1980d" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>City Wide Tenant's Council- Legislation</unittitle>
+            <unitdate>1938-1941</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e4d4ec9cbb6db6b957133abb3b24f545" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_02e403069237c097319fe1ae6f9c5ae5" parent="aspace_e4d4ec9cbb6db6b957133abb3b24f545" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>City Wide Tenant's Council- Manuscripts and Radio Scripts- Public Housing</unittitle>
+            <unitdate>1938-1941</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_68ced91910518f1315b1fc67c2041b25" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_331d6f50cd14c8f96e31ddab609df309" parent="aspace_68ced91910518f1315b1fc67c2041b25" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>City Wide Tenant's Council- Minutes</unittitle>
+            <unitdate>1937, 1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a083be96f68dd94dc7258f8e5538b005" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_3f6d247906cba6c3b96abaaadc4675a9" parent="aspace_a083be96f68dd94dc7258f8e5538b005" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>City Wide Tenant's Council- Newsletter/Housing, January-May 1940.</unittitle>
+            <unitdate>1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_180dd2e7d56d6e126ea3276d046d721f" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_0c157caac1b7cdaea12fe272a17beb7a" parent="aspace_180dd2e7d56d6e126ea3276d046d721f" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>City Wide Tenant's Council- Newsletter/The Tenant, September 1938-May 1940.</unittitle>
+            <unitdate>1938-1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_307e302d83f90329d69aefd7dbba00f8" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_7465482c2d13942f7c50957c998fcb27" parent="aspace_307e302d83f90329d69aefd7dbba00f8" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>City Wide Tenant's Council- New York City Housing Authority- Memorandum</unittitle>
+            <unitdate>1941</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0378880c26bc6d3ab9e22006953e53c0" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_5eccb0085a20ea37fe56f08deccb61be" parent="aspace_0378880c26bc6d3ab9e22006953e53c0" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>City Wide Tenant's Council- Press Releases</unittitle>
+            <unitdate>1939-1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5f77c2c4f9cf11f7206c1436183540de" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_3d58a72e8925a7d4068b249745f86dd5" parent="aspace_5f77c2c4f9cf11f7206c1436183540de" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Chelsea Tenant's League- Newsletters, Proposed Constitution</unittitle>
+            <unitdate>1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_949653696901ceee4b7c41380d8236b9" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_1eb0b231e076ad742a0a16426d9a9e75" parent="aspace_949653696901ceee4b7c41380d8236b9" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Hillside Tenant's Association (Bronx, N.Y.)</unittitle>
+            <unitdate>1939-1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_97569bfde61f17bb0235ef4aaa41d44e" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_d00b4b26a4d70d5e5c6d1bc5d2345d40" parent="aspace_97569bfde61f17bb0235ef4aaa41d44e" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Knickerbocker Village Tenant's Association- Correspondence- Norden/Personal</unittitle>
+            <unitdate>1935-1941</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6ec4d9e5b8c12f0de022a378220b22d1" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_f65a6d86ec972f3c8148669a09786222" parent="aspace_6ec4d9e5b8c12f0de022a378220b22d1" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Knickerbocker Village Tenant's Association- Aug 6,1940 Court Case- Rosenthal</unittitle>
+            <unitdate>1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9f28db786f2b7778455c79ef2f8689f1" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_cf66a200547f33f1e5d5dbfce4819948" parent="aspace_9f28db786f2b7778455c79ef2f8689f1" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Knickerbocker Village Tenant's Association- Grievances Against Management</unittitle>
+            <unitdate>1938-1941</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1c7903e2c226706658752aedd461856a" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_41b04630e0888668f3038e3a69457f6e" parent="aspace_1c7903e2c226706658752aedd461856a" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Knickerbocker Village Tenant's Association- Manuscript/History by Audrey Mallach</unittitle>
+            <unitdate>1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_47be271e9229bffb6cf2264d39cfd9ce" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_f31c51f3bfcc0329472cc1e4a136714a" parent="aspace_47be271e9229bffb6cf2264d39cfd9ce" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Knickerbocker Village Tenant's Association- Statement- Illegal Activity of Management</unittitle>
+            <unitdate>1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cf215a4561989e8d98fcfd373839b307" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_8d79c817f7ad7e663a9d1b1f32ed7f7d" parent="aspace_cf215a4561989e8d98fcfd373839b307" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Queensbridge Tenant's League- 2 Newsletters Williamsburg Community Association and Lincoln Square Tenant's League</unittitle>
+            <unitdate>1941</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1d9ec5ced659cd68b2396a6c53328b76" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_4846e5215a08c6a6a3a2fbf5167abee6" parent="aspace_1d9ec5ced659cd68b2396a6c53328b76" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Williamsburg Community Association and Lincoln Square Tenant's League</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cce1f50cee8ff6d1fe1d38a34d6a3583" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_07d5ad95245e9ab50460a58bf6062b5a" parent="aspace_cce1f50cee8ff6d1fe1d38a34d6a3583" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Citizen's Housing Council of New York</unittitle>
+            <unitdate>1938-1941</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_09200976f82c25e926933566bdef5146" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_580b09ffca2ee7b0b37b28febc17aa78" parent="aspace_09200976f82c25e926933566bdef5146" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Committee to Aid Tenant Organization</unittitle>
+            <unitdate>1939-1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_797cecf4714bef7b9b4845c19e692b14" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_071472ccf257ef7f6585baab14415b88" parent="aspace_797cecf4714bef7b9b4845c19e692b14" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Shelter Research, Inc- Editorials</unittitle>
+            <unitdate>1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d6a97729ff702eff4faa81d839e60a52" label="Mixed Materials [31142062765535]" type="box">1</container>
+            <container id="aspace_89919c56ceb3ca2d32b0724a6b371904" parent="aspace_d6a97729ff702eff4faa81d839e60a52" type="folder">27</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref39" level="series">
+        <did>
+          <unittitle>Series II: Anti-Vietnam War Movement in London</unittitle>
+          <unitdate normal="1968/1978" type="inclusive">1968-1978</unitdate>
+        </did>
+        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>The Stop-It Committee (Americans in Britain for U.S. Withdrawal from Vietnam)</unittitle>
+            <unitdate>1968</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b11842b0863f3d35c532453fd95488d5" label="Mixed Materials [31142062765543]" type="box">2</container>
+            <container id="aspace_0c21fef57bb7d05c74739c373b05b494" parent="aspace_b11842b0863f3d35c532453fd95488d5" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Americans Abroad for McCarthy</unittitle>
+            <unitdate>1968</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6a39c51edac96836abed3036251936bf" label="Mixed Materials [31142062765543]" type="box">2</container>
+            <container id="aspace_72a9012f27828fd3908cba54a2c317bf" parent="aspace_6a39c51edac96836abed3036251936bf" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Americans in Britain Against the War in Vietnam; Executives Move for Peace in Vietnam.</unittitle>
+            <unitdate>1968</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f32d7a0b70691a25c3dcc6c9bdcda5dd" label="Mixed Materials [31142062765543]" type="box">2</container>
+            <container id="aspace_0c37452d93e9cf3f1ef20449eca59377" parent="aspace_f32d7a0b70691a25c3dcc6c9bdcda5dd" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Group 68- Bulletins ,Public Statements,Press Releases, Petitions</unittitle>
+            <unitdate>1968-1973</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a514718576a58e41970c2765de93ef2b" label="Mixed Materials [31142062765543]" type="box">2</container>
+            <container id="aspace_d7982feb40b463014ba92d5478ced71c" parent="aspace_a514718576a58e41970c2765de93ef2b" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Group 68- Correspondence</unittitle>
+            <unitdate>1968-1973</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0dff492c7e74473b0feea989c2c79a11" label="Mixed Materials [31142062765543]" type="box">2</container>
+            <container id="aspace_b12a8bea9769e69016f0940996dd2544" parent="aspace_0dff492c7e74473b0feea989c2c79a11" type="folder">5-10</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Group 68- Captain Culver Case</unittitle>
+            <unitdate>1971</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_66a260d4bfd4b9c2c4bbb40108f4b51d" label="Mixed Materials [31142062765543]" type="box">2</container>
+            <container id="aspace_f358574b6150554ddb1c436bc93a212b" parent="aspace_66a260d4bfd4b9c2c4bbb40108f4b51d" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Group 68- Captain J. Heck Case</unittitle>
+            <unitdate>1973</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_484d5cca355e4b06778478b9db8c888b" label="Mixed Materials [31142062765543]" type="box">2</container>
+            <container id="aspace_43cfee2b38f76f0bac1a6b5557b0760c" parent="aspace_484d5cca355e4b06778478b9db8c888b" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Group 68- Minutes,Agendas</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dc687cf64cec90720d4f5af43f273b79" label="Mixed Materials [31142062765543]" type="box">2</container>
+            <container id="aspace_77a9e166909efb3ab4fba2a040a85290" parent="aspace_dc687cf64cec90720d4f5af43f273b79" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Group 68- Newsletter/OUT</unittitle>
+            <unitdate>1970</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fc19abb86dd2003cf4dcbdb1a1a2d022" label="Mixed Materials [31142062765543]" type="box">2</container>
+            <container id="aspace_c2473cd6454d1bb58e9cf1cd5b9bdea9" parent="aspace_fc19abb86dd2003cf4dcbdb1a1a2d022" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Group 68- Newspaper Clippings</unittitle>
+            <unitdate>1968-1973</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fdf76119ec658f14f07cbab0b458eb7a" label="Mixed Materials [31142062765543]" type="box">2</container>
+            <container id="aspace_89458ff6d5b5aceebe47aa637d320481" parent="aspace_fdf76119ec658f14f07cbab0b458eb7a" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Group 68- Vietnam Vigil</unittitle>
+            <unitdate>1972-1973</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6e415c21565ba447f7f0d8826dc2faad" label="Mixed Materials [31142062765543]" type="box">2</container>
+            <container id="aspace_e401a960be1d61cb190fc6cb77636883" parent="aspace_6e415c21565ba447f7f0d8826dc2faad" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Group 68- World Assembly for Peace and Independence of IndoChina/Paris, February 11-13, 1972</unittitle>
+            <unitdate>37663-13/72</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ccee1c39e5730ed71e234282fbb87639" label="Mixed Materials [31142062765543]" type="box">2</container>
+            <container id="aspace_07d970bf6c8d8058dcf93321e11516b6" parent="aspace_ccee1c39e5730ed71e234282fbb87639" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Concerned Americans Abroad-Bulletins,Public Statements, Press Releases</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c59f7b06df5e037ea93bdbbf345b26f2" label="Mixed Materials [31142062765543]" type="box">2</container>
+            <container id="aspace_734c01c22b5624eab161f218393b9304" parent="aspace_c59f7b06df5e037ea93bdbbf345b26f2" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Concerned Americans Abroad- Correspondence</unittitle>
+            <unitdate>1974-1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_95dd75c289c490b58797bff3fc962fa3" label="Mixed Materials [31142062765543]" type="box">2</container>
+            <container id="aspace_bc3ad20e7c68748e47df1d149911fad4" parent="aspace_95dd75c289c490b58797bff3fc962fa3" type="folder">19-22</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Concerned Americans Abroad- Minutes, Agendas</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_903260f02f2df74125a5495a5c73ca1b" label="Mixed Materials [31142062765550]" type="box">3</container>
+            <container id="aspace_35919a0eaef714802a57d42a39f800dc" parent="aspace_903260f02f2df74125a5495a5c73ca1b" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Concerned Americans Abroad- Philip Agee and Marc Hosenball- Agendas</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0b6c4e08b6511a3a993a6975d16229e5" label="Mixed Materials [31142062765550]" type="box">3</container>
+            <container id="aspace_371fddb22e74d6c4f060b64b78f04fdc" parent="aspace_0b6c4e08b6511a3a993a6975d16229e5" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Concerned Americans Abroad- Philip Agee and Marc Hosenball-Correspondence</unittitle>
+            <unitdate>1975-1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_49694f918f52dc81a43efc77b30a49be" label="Mixed Materials [31142062765550]" type="box">3</container>
+            <container id="aspace_3dba0ba2472b90fb83f151bc2bd4830d" parent="aspace_49694f918f52dc81a43efc77b30a49be" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Concerned Americans Abroad- Philip Agee and Marc Hosenball-Press Releases, Leaflets</unittitle>
+            <unitdate>1975-1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fea73ac85cac9dd8c6e0571baea79bb1" label="Mixed Materials [31142062765550]" type="box">3</container>
+            <container id="aspace_760698019c329f79fece8ce1a170c3ad" parent="aspace_fea73ac85cac9dd8c6e0571baea79bb1" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Concerned Americans Abroad- Philip Agee and Marc Hosenball- Newspaper Clippings</unittitle>
+            <unitdate>1976-1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b4d61384a4dd21ebf5e971a2ef700b7e" label="Mixed Materials [31142062765550]" type="box">3</container>
+            <container id="aspace_51624ab0bdd7e8e21663d88c11c8b90c" parent="aspace_b4d61384a4dd21ebf5e971a2ef700b7e" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Concerned Americans Abroad- Philip Agee and Marc Hosenball- Pamphlets and Newsletters</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d1cdfc2a59e1b1406ea00bdb31261b09" label="Mixed Materials [31142062765550]" type="box">3</container>
+            <container id="aspace_250a37e9643800a94160bb04964128b7" parent="aspace_d1cdfc2a59e1b1406ea00bdb31261b09" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Concerned Americans Abroad- C.I.A. Activities</unittitle>
+            <unitdate>1975-1976</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2e59a46a9d5bc410e3416e519b92b81e" label="Mixed Materials [31142062765550]" type="box">3</container>
+            <container id="aspace_c3609580738c9886459b9e0459eef10b" parent="aspace_2e59a46a9d5bc410e3416e519b92b81e" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Concerned Americans Abroad- Impeach Nixon- Correspondence</unittitle>
+            <unitdate>1974</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a01b06a7f42ac3f05ca4d26c78346799" label="Mixed Materials [31142062765550]" type="box">3</container>
+            <container id="aspace_7ad7751915105bc8d60865fe29d5fd38" parent="aspace_a01b06a7f42ac3f05ca4d26c78346799" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Concerned Americans Abroad- Impeach Nixon- Press Releases</unittitle>
+            <unitdate>1974</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a6eb19fcb3208a7d47f1c92825d7b1fe" label="Mixed Materials [31142062765550]" type="box">3</container>
+            <container id="aspace_e9d8fdd4eb90679ca0fc695c22100871" parent="aspace_a6eb19fcb3208a7d47f1c92825d7b1fe" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Concerned Americans Abroad- Impeach Nixon- Newspaper Clippings</unittitle>
+            <unitdate>1974</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6c07c035a1cef075d6f8c62ec5defa1c" label="Mixed Materials [31142062765550]" type="box">3</container>
+            <container id="aspace_b5e254b6ce042712a09fcf387ec9451b" parent="aspace_6c07c035a1cef075d6f8c62ec5defa1c" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Concerned Americans Abroad- S-1 Bill</unittitle>
+            <unitdate>1975-1976</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c4ab97cb270640db43f5aa84cd154488" label="Mixed Materials [31142062765550]" type="box">3</container>
+            <container id="aspace_752253342bd328693a011b7d9b088bf4" parent="aspace_c4ab97cb270640db43f5aa84cd154488" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Mr/Mrs Norden- Council for Corporate Review</unittitle>
+            <unitdate>1970-1972</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_754e9077b9de68c2ab6406a1e9c5f603" label="Mixed Materials [31142062765550]" type="box">3</container>
+            <container id="aspace_56a55f891c4072e3101fb596f66ff274" parent="aspace_754e9077b9de68c2ab6406a1e9c5f603" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Organizations- About IndoChina- Fact Sheets, Songs, Poems</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3886910671d84357ca6014cec8b1ff32" label="Mixed Materials [31142062765568]" type="box">4</container>
+            <container id="aspace_ab9f5521ba6901bd2752376b0fd7f8d9" parent="aspace_3886910671d84357ca6014cec8b1ff32" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Organizations- Amnesty International</unittitle>
+            <unitdate>1974</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f688d69e36c1cd3e9e791d0ad0c811d2" label="Mixed Materials [31142062765568]" type="box">4</container>
+            <container id="aspace_b04a59948753c550b356e5492f64cbc8" parent="aspace_f688d69e36c1cd3e9e791d0ad0c811d2" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Organizations- Aubrey Berry Campbell- Defense Committee</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2a3e903ae9faaa4e2857e331fbc63ae4" label="Mixed Materials [31142062765568]" type="box">4</container>
+            <container id="aspace_568789baceedba966cfc0a92272a025f" parent="aspace_2a3e903ae9faaa4e2857e331fbc63ae4" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Organizations- The British Vietnam Association- Correspondence, Agendas, Statements, Clippings</unittitle>
+            <unitdate>1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_72bfb051303b6d67a5a889889348f8ee" label="Mixed Materials [31142062765568]" type="box">4</container>
+            <container id="aspace_35dc44947769762201d35eb28da2936b" parent="aspace_72bfb051303b6d67a5a889889348f8ee" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Organizations- Civil Liberties Committees</unittitle>
+            <unitdate>1976-1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_aeb6678ffd44e64a037843565d3b1328" label="Mixed Materials [31142062765568]" type="box">4</container>
+            <container id="aspace_1d28bee8208eadb41a1dc12a9954b99d" parent="aspace_aeb6678ffd44e64a037843565d3b1328" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Organizations- Democrats Abroad</unittitle>
+            <unitdate>1976-1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cf9e44cb8a0910cfa08075fd771afa64" label="Mixed Materials [31142062765568]" type="box">4</container>
+            <container id="aspace_0f1e821f06673e0a86c4e729eff588c6" parent="aspace_cf9e44cb8a0910cfa08075fd771afa64" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Organizations IndoChina Solidarity Conference</unittitle>
+            <unitdate>1972-1973</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d9956b26d325fa7c9b0f905dd4aa07dc" label="Mixed Materials [31142062765568]" type="box">4</container>
+            <container id="aspace_c40e8059db263c342a76070c1d77ef99" parent="aspace_d9956b26d325fa7c9b0f905dd4aa07dc" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Organizations- Miscellaneous</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5afe22978d66bd0f551139598261e8a9" label="Mixed Materials [31142062765568]" type="box">4</container>
+            <container id="aspace_e4b029158894d5833ded16fdd9807f0a" parent="aspace_5afe22978d66bd0f551139598261e8a9" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Organizations- National Council for Universal and Unconditional Amnesty- Newsletters, Press Releases</unittitle>
+            <unitdate>1975-1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_51b55a0ed1a5a2f804d434a53799f589" label="Mixed Materials [31142062765568]" type="box">4</container>
+            <container id="aspace_b9b7a88788db1db1f1ff6b6e7c501cb1" parent="aspace_51b55a0ed1a5a2f804d434a53799f589" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Organizations- Support</unittitle>
+            <unitdate>1972</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2d07646eac96facc7d13b400e609530e" label="Mixed Materials [31142062765568]" type="box">4</container>
+            <container id="aspace_c0a0e60c211dbcb2ee2cbeaec2e33d7c" parent="aspace_2d07646eac96facc7d13b400e609530e" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Organizations- Tax Equity for Americans Abroad</unittitle>
+            <unitdate>1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ca5b81bf797c68b9b837d03567976908" label="Mixed Materials [31142062765568]" type="box">4</container>
+            <container id="aspace_de81d38ae054f15f170bd8e3ea43f718" parent="aspace_ca5b81bf797c68b9b837d03567976908" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Organizations- Union of American Exiles in Britain</unittitle>
+            <unitdate>1972</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cadbf2ce62a619b6856b727d644fe90e" label="Mixed Materials [31142062765568]" type="box">4</container>
+            <container id="aspace_53643bbfe7440d6962dc869ee689af81" parent="aspace_cadbf2ce62a619b6856b727d644fe90e" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Organizations- Vietnam Veterans Against the War/Winter Soldier Organization</unittitle>
+            <unitdate>1973-1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_69445747c6b0d8544b1ba9de8b2ce4cc" label="Mixed Materials [31142062765568]" type="box">4</container>
+            <container id="aspace_0536f4866d3fb79d817cfe8411bc8c73" parent="aspace_69445747c6b0d8544b1ba9de8b2ce4cc" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Group 68 and Concerned Americans Abroad- Financial Records</unittitle>
+            <unitdate>1968-1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d6ad0c018354c0d54b503717b33d2927" label="Mixed Materials [31142062765568]" type="box">4</container>
+            <container id="aspace_eb033f584ba581d5dedd153e3a8ec71a" parent="aspace_d6ad0c018354c0d54b503717b33d2927" type="folder">14-15</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Group 68 and Concerned Americans Abroad- Mailing Lists</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_15b7a2b6956e821f3014d88025fa33d2" label="Mixed Materials [31142062765568]" type="box">4</container>
+            <container id="aspace_35e040a7b99c289eae8814f48296be59" parent="aspace_15b7a2b6956e821f3014d88025fa33d2" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Group 68 and Concerned Americans Abroad- Posters</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2b196f3acf5ba6fe13033f2c92f77d27" label="Mixed Materials [31142062765568]" type="box">4</container>
+            <container id="aspace_84213f9bab48b90ddfe8454a3cf63dfc" parent="aspace_2b196f3acf5ba6fe13033f2c92f77d27" type="folder">17</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

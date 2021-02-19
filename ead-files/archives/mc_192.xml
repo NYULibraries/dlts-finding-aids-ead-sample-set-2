@@ -1,58 +1,1575 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/freidsoneliot">mc_192</eadid><filedesc><titlestmt><titleproper>Guide to the Papers of Eliot Freidson<lb/><date>1941-2006 </date><lb/>(Bulk <date normal="1965/1995" type="bulk">1965-1995) </date><lb/><num>MC 192 </num> <num>MC.192</num></titleproper><author>Annie Grunow.  Accretion processed by John Bence.</author></titlestmt><editionstmt><p>This version was derived from a MS Excel inventory made in 2006.</p></editionstmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 14:30:58 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc><revisiondesc><change><date>June 2019</date><item>Record updated by Rachel Searcy to reflect 2017 accretion</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>New York University Archives</corpname>
-    </repository>
-    <unittitle>Eliot Freidson Papers</unittitle>
-    <origination label="Creator">
-      <persname source="naf">Freidson, Eliot, 1923-2005</persname>
-    </origination>
-    <unitid>MC.192</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">6 Linear Feet</extent>
-      <extent altrender="carrier">in 18 boxes</extent>
-    </physdesc>
-    <unitdate normal="1941/2006" type="inclusive">1941-2006</unitdate>
-    <unitdate normal="1965/1995" type="bulk">1965-1995</unitdate>
-    <physloc id="aspace_44aa8590587b8f6cf237c89bebd414d5">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-    <abstract id="aspace_4f3b13387eed31136db397748cf44026">This collection consists of the papers of Eliot Freidson, a professor of sociology at New York University from 1961 to 1993. The material consists of files relating to the books he wrote and the courses he taught.</abstract>
-    <langmaterial>
-      <language langcode="eng">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/freidsoneliot">mc_192</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Papers of Eliot Freidson<lb/><date>1941-2006 </date><lb/>(Bulk <date normal="1965/1995" type="bulk">1965-1995) </date><lb/><num>MC 192 </num> <num>MC.192</num></titleproper>
+        <author>Annie Grunow.  Accretion processed by John Bence.</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from a MS Excel inventory made in 2006.</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 14:30:58 -0500</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>June 2019</date>
+        <item>Record updated by Rachel Searcy to reflect 2017 accretion</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Eliot Freidson Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Freidson, Eliot, 1923-2005</persname>
+      </origination>
+      <unitid>MC.192</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">6 Linear Feet</extent>
+        <extent altrender="carrier">in 18 boxes</extent>
+      </physdesc>
+      <unitdate normal="1941/2006" type="inclusive">1941-2006</unitdate>
+      <unitdate normal="1965/1995" type="bulk">1965-1995</unitdate>
+      <physloc id="aspace_44aa8590587b8f6cf237c89bebd414d5">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <abstract id="aspace_4f3b13387eed31136db397748cf44026">This collection consists of the papers of Eliot Freidson, a professor of sociology at New York University from 1961 to 1993. The material consists of files relating to the books he wrote and the courses he taught.</abstract>
+      <langmaterial><language langcode="eng">English</language>
 .    </langmaterial>
-  </did>
-  <arrangement id="aspace_5e69d0cf419fd76283aab2830eb37400">
-    <head>Arrangement</head>
-<p>The files are grouped into five series:</p>    <list type="ordered">
-      <item>I. Correspondence</item>
-      <item>II. Books (book titles as subseries)</item>
-      <item>III. Course Materials</item>
-      <item>IV. Subject Files</item>
-      <item>V. Articles</item>
-    </list>
-  </arrangement>
-  <scopecontent id="aspace_547162d9dc1f248b4ad8400bec3c6aee">
-    <head>Scope and Content Note</head>
-<p>This collection consists of Eliot Freidson's files relating to the books he wrote and published and the courses he taught.  Approximately two linear feet of the collection consist of copies of journal articles on topics relating to his research.  The "Books" series consists mostly of correspondence with publishers and colleagues who read chapter drafts and offered critiques. The "Course Materials" series consists of syllabi, lecture notes and outlines.  Subject files contain speeches, obituaries, and conference materials.</p>  </scopecontent>
-  <bioghist id="aspace_642febeaddf1eb6f4feac900d4769aff">
-    <head>Historical/Biographical Note</head>
-<p>Eliot Freidson (pronounced "fried-son") was born in Boston on February 20, 1923, to Joseph and Grace Backer Freidson, both of whom emigrated from Russia as children.  He attended the University of Maine for one year in 1941, transferring to the University of Chicago in 1942.  He served in the U.S. Army from April 1943 to July 1946 in Europe as a translator of German and intelligence analyst.  Freidson earned his Ph.D. in sociology from the University of Chicago in 1952.  He taught first at the City College of New York before becoming an associate professor at NYU in 1961 and achieving full professorship in 1964.  Freidson served as chair of the Department of Sociology from 1975 to 1978.  He retired in 1993 and was a professor emeritus at NYU until his death.  He served as president of the Eastern Sociological Society from 1985 to 1986.  He died on December 14, 2005 of non-Hodgkins lymphoma in San Francisco. </p><p>Freidson studied the sociology of professions and was most widely recognized for his studies of the medical field.  He wrote 12 books and over 100 scholarly articles. </p>  </bioghist>
-  <prefercite id="aspace_fbff13b178926d9db371bb347626bce2">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: Identification of item, date (if known); Eliot Freidson Papers; MC 192; box number; folder number; New York University Archives, New York University Libraries.</p>  </prefercite>
-  <userestrict id="aspace_b183d25a114b80aaf25643f30fdf629b">
-    <head>Use Restrictions</head>
-<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
-  <acqinfo id="aspace_a2bff87a86a3b8a164e82a43b6f46539">
-    <head>Immediate Source of Acquisition</head>
-<p>The collection was donated by Freidson's wife, Helen Giambruni, in 2006 and 2017.</p>  </acqinfo>
-  <accessrestrict id="aspace_f1fc8a9a6ee143e0b01594834934e4e0">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <controlaccess>
-    <corpname source="naf">Eastern Sociological Society (U.S.)</corpname>
-    <persname source="naf">Giddens, Anthony</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref18" level="series"><did><unittitle>Series I: Correspondence</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref19" level="file"><did><unittitle>Correspondence, 1 of 5</unittitle><unitdate normal="1951/1969" type="inclusive">1951-1969</unitdate><physloc id="aspace_e0bece3cc924922191191b90ff55b0fc">offsite barcode no. 31142042279284</physloc><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_5f55a6914b5e290b6860bb55742e83d7" label="Mixed Materials [31142042279284]" type="box">1</container><container id="aspace_ae1cabe85e3575957633b8efe4f8176a" parent="aspace_5f55a6914b5e290b6860bb55742e83d7" type="folder">1</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Correspondence, 2 of 5</unittitle><unitdate normal="1970/1976" type="inclusive">1970-1976</unitdate><physloc id="aspace_9083637baef241f1e1e13f93aa20c6a6">offsite barcode no. 31142042279284</physloc><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_259b7dddb394eafe8a69758bc3684050" label="Mixed Materials [31142042279284]" type="box">1</container><container id="aspace_a99a35bd701c9e1100d4192ab665e194" parent="aspace_259b7dddb394eafe8a69758bc3684050" type="folder">2</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Correspondence, 3 of 5</unittitle><unitdate normal="1977/1982" type="inclusive">1977-1982</unitdate><physloc id="aspace_ce9688fe282fd535d09ef6e18f4c426f">offsite barcode no. 31142042279284</physloc><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_1bad3876357c6959da3a1053fc3fac0c" label="Mixed Materials [31142042279284]" type="box">1</container><container id="aspace_97a02914724c5cc752eb193f1e11a015" parent="aspace_1bad3876357c6959da3a1053fc3fac0c" type="folder">3</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Correspondence, 4 of 5</unittitle><unitdate normal="1982/1987" type="inclusive">1982-1987</unitdate><physloc id="aspace_addb2ed063a91dc3ba7abdbcdd544de6">offsite barcode no. 31142042279284</physloc><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_d86cb6cc4948593f5a534ff10c81aad0" label="Mixed Materials [31142042279284]" type="box">1</container><container id="aspace_fb56a81b6f8c93be795b56addac54721" parent="aspace_d86cb6cc4948593f5a534ff10c81aad0" type="folder">4</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Correspondence, 5 of 5</unittitle><unitdate normal="1987/2004" type="inclusive">1987-2004</unitdate><physloc id="aspace_e7c0dfe6483fd27b9752680b48c63a68">offsite barcode no. 31142042279284</physloc><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_4ce8f55f2c3f9b0ac0bf0c3b54eba92d" label="Mixed Materials [31142042279284]" type="box">1</container><container id="aspace_6d93eb2321b543a585015f6a76150b4a" parent="aspace_4ce8f55f2c3f9b0ac0bf0c3b54eba92d" type="folder">5</container></did></c></c><c id="aspace_ref23" level="otherlevel" otherlevel="unspecified"><did><unittitle>Series II: Books</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref24" level="subseries"><did><unittitle>Subseries I: Doctoring Together</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref26" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate><physloc id="aspace_e5de01c9b2673d1ed9a06d869e4a8c15">offsite barcode no. 31142042279284</physloc><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_2aad197ffba3d057c063a8e01f9493ac" label="Mixed Materials [31142042279284]" type="box">1</container><container id="aspace_69bff5dac0f414b89c67988faa24c61e" parent="aspace_2aad197ffba3d057c063a8e01f9493ac" type="folder">6</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate><physloc id="aspace_b7ccc155901bdd5ab9a70c1ac49f3e17">offsite barcode no. 31142042279284</physloc><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_653d4510209da2ce6381b44c552df925" label="Mixed Materials [31142042279284]" type="box">1</container><container id="aspace_02b0d7a15e6edfb9344ae071294d64a3" parent="aspace_653d4510209da2ce6381b44c552df925" type="folder">7</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1978/1981" type="inclusive">1978-1981</unitdate><physloc id="aspace_fa087c325f01a62abc1aed70ee43870e">offsite barcode no. 31142042279284</physloc><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_34b08ad09e6ea705db2420b051586472" label="Mixed Materials [31142042279284]" type="box">1</container><container id="aspace_11fc6cb41255d6cb21753f34959753ad" parent="aspace_34b08ad09e6ea705db2420b051586472" type="folder">8</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1985/1990" type="inclusive">1985-1990</unitdate><physloc id="aspace_3179d58eb294ef43ee87a1110eab07a8">offsite barcode no. offsite barcode no. 31142042279284</physloc><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_e622f65e6c0122c065dc08bbdc4bb7f3" label="Mixed Materials [31142042279284]" type="box">1</container><container id="aspace_e64839a92865c4dd52d5801f347b7d93" parent="aspace_e622f65e6c0122c065dc08bbdc4bb7f3" type="folder">9</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Reviews and Promotional Material</unittitle><unitdate normal="1976/1981" type="inclusive">1976-1981</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_262ab35838121a1902eff882fafbd4b3" label="Mixed Materials [31142042279284]" type="box">1</container><container id="aspace_c45c36d22d4e54a9834a5e8fe29693ef" parent="aspace_262ab35838121a1902eff882fafbd4b3" type="folder">10</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Memos, Royalty Statement, List</unittitle><unitdate normal="1975/1978" type="inclusive">1975-1978</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_a649eae2da3470ea6489ae0c36c9787d" label="Mixed Materials [31142042279284]" type="box">1</container><container id="aspace_b67825eb18a334c54a2cb32de55c293b" parent="aspace_a649eae2da3470ea6489ae0c36c9787d" type="folder">11</container></did></c></c><c id="aspace_ref32" level="otherlevel" otherlevel="unspecified"><did><unittitle>Subseries II: The Fate of Knowledge</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref33" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_d6fbce110cf5faa473bed9531bf0f162" label="Mixed Materials [31142042279284]" type="box">1</container><container id="aspace_268d27152eb89454b43674d583f60152" parent="aspace_d6fbce110cf5faa473bed9531bf0f162" type="folder">12</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1986/1986" type="inclusive">1986</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_91912f4576e781928bb9ece794c08f3b" label="Mixed Materials [31142042279284]" type="box">1</container><container id="aspace_af2fc4253c8730ed639d8fb84739081b" parent="aspace_91912f4576e781928bb9ece794c08f3b" type="folder">13</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_b6524ccb71e7ae005517891e838ec8a9" label="Mixed Materials [31142042279284]" type="box">1</container><container id="aspace_354de09e9a5f1e2dd3f2aaed7046c877" parent="aspace_b6524ccb71e7ae005517891e838ec8a9" type="folder">14</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1989/1991" type="inclusive">1989-1991</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_58320effe6b63a3e4ecd6deb067740c4" label="Mixed Materials [31142042279284]" type="box">1</container><container id="aspace_bf515548493c3f0a8bec10e2faecff6f" parent="aspace_58320effe6b63a3e4ecd6deb067740c4" type="folder">15</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1992/1992" type="inclusive">1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_5acee3ee31cd77382af65eff1038b748" label="Mixed Materials [31142042279284]" type="box">1</container><container id="aspace_a30f77cbbd6c859e44563243cf697143" parent="aspace_5acee3ee31cd77382af65eff1038b748" type="folder">16</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_1b81a457d9288e690204edf8455bf5d8" label="Mixed Materials [31142042279292]" type="box">2</container><container id="aspace_e96755bfb1615ab875709f47ee2327e4" parent="aspace_1b81a457d9288e690204edf8455bf5d8" type="folder">1</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Review and Promotional Material</unittitle><unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_edec40485cc26263b187483a56412d90" label="Mixed Materials [31142042279292]" type="box">2</container><container id="aspace_bc712a5bd834cc1ebe102283d368fe50" parent="aspace_edec40485cc26263b187483a56412d90" type="folder">2</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Notes</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_0a55c0790cc6f2bc0440bbc2569d03e0" label="Mixed Materials [31142042279292]" type="box">2</container><container id="aspace_6e689e24be7462bd72b460a8ec7c6352" parent="aspace_0a55c0790cc6f2bc0440bbc2569d03e0" type="folder">3</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Notes, Drafts, etc</unittitle><unitdate normal="1986/1992" type="inclusive">1986-1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_0429acf67db9e6332d34dfe030e0dc0d" label="Mixed Materials [31142042279292]" type="box">2</container><container id="aspace_99253dc2d8ec4badeb40756c4e8e8381" parent="aspace_0429acf67db9e6332d34dfe030e0dc0d" type="folder">4</container></did></c></c><c id="aspace_ref42" level="otherlevel" otherlevel="unspecified"><did><unittitle>Subseries III: Medical Men and Their Work</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref43" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1967/1977" type="inclusive">1967-1977</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_a81b1fd9e930af332fa27c281f848d95" label="Mixed Materials [31142042279292]" type="box">2</container><container id="aspace_1468578cc7463fb5eb7991b726084e87" parent="aspace_a81b1fd9e930af332fa27c281f848d95" type="folder">5</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1968/1971" type="inclusive">1968-1971</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_a4f2fe7715357b4d8ca88f4a40f70314" label="Mixed Materials [31142042279292]" type="box">2</container><container id="aspace_73a8c623de877ac3d2d71024bee65b50" parent="aspace_a4f2fe7715357b4d8ca88f4a40f70314" type="folder">6</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Notes and Promotional Material</unittitle><unitdate normal="1970/1974" type="inclusive">1970-1974</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_22375bda3d2016a4142a3d9f45690245" label="Mixed Materials [31142042279292]" type="box">2</container><container id="aspace_e0faf332e89cfdaf2d9b46e492a5a5c0" parent="aspace_22375bda3d2016a4142a3d9f45690245" type="folder">7</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Royalties</unittitle><unitdate normal="1970/1980" type="inclusive">1970-1980</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_d1d8391f126ffdf7f54ba2c8c4d0820b" label="Mixed Materials [31142042279292]" type="box">2</container><container id="aspace_db31f2a0c02089f882f19fd71066112c" parent="aspace_d1d8391f126ffdf7f54ba2c8c4d0820b" type="folder">8</container></did></c></c><c id="aspace_ref47" level="otherlevel" otherlevel="unspecified"><did><unittitle>Subseries IV: Medical Work in America</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref48" level="file"><did><unittitle>Reviews and Promotional Material</unittitle><unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_d888bc057026ed36056ccbaef97b99b9" label="Mixed Materials [31142042279292]" type="box">2</container><container id="aspace_788ff3a566e4cbd5b3df21be0e6d437f" parent="aspace_d888bc057026ed36056ccbaef97b99b9" type="folder">9</container></did></c></c><c id="aspace_ref49" level="otherlevel" otherlevel="unspecified"><did><unittitle>Subseries V: Profession of Medicine</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref50" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1961/1968" type="inclusive">1961-1968</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_4964f6b6a7d552d9cb2f291309bd2bdb" label="Mixed Materials [31142042279292]" type="box">2</container><container id="aspace_1b70dadd05dab8133552dcc8e6564286" parent="aspace_4964f6b6a7d552d9cb2f291309bd2bdb" type="folder">10</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1963/1969" type="inclusive">1963-1969</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_95f3e9170ac16680cf4b3b176f14910b" label="Mixed Materials [31142042279292]" type="box">2</container><container id="aspace_dc858442c60680b57ff7846257970674" parent="aspace_95f3e9170ac16680cf4b3b176f14910b" type="folder">11</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1969/1977" type="inclusive">1969-1977</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_f8b1c5ad03ce663489f33fa2ddde0272" label="Mixed Materials [31142042279292]" type="box">2</container><container id="aspace_0197fb780856750b6258104ee52f98eb" parent="aspace_f8b1c5ad03ce663489f33fa2ddde0272" type="folder">12</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1978/1988" type="inclusive">1978-1988</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_f199da2bc92a96dc9d3b6694d2bd4f21" label="Mixed Materials [31142042279300]" type="box">3</container><container id="aspace_ce5dc8388e4bfd447bb928a224f38bea" parent="aspace_f199da2bc92a96dc9d3b6694d2bd4f21" type="folder">1</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Reviews and Promotional Materials</unittitle><unitdate normal="1968/1989" type="inclusive">1968-1989</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_dc29f8364ed5e523b7d1b85aae34ec54" label="Mixed Materials [31142042279300]" type="box">3</container><container id="aspace_db914162d993041c5480feaaa460ad41" parent="aspace_dc29f8364ed5e523b7d1b85aae34ec54" type="folder">2</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Documents</unittitle><unitdate normal="1962/1988" type="inclusive">1962-1988</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_14dc6cb69c7c3dd0d12979295459d2fd" label="Mixed Materials [31142042279300]" type="box">3</container><container id="aspace_ae07d77341f11c6f8d1e151cf301b1d6" parent="aspace_14dc6cb69c7c3dd0d12979295459d2fd" type="folder">3</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Notes and Comments</unittitle><unitdate normal="1961/1981" type="inclusive">1961-1981</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_73993c19099011ba232f616fe0d346dd" label="Mixed Materials [31142042279300]" type="box">3</container><container id="aspace_152b18ed12c9410d44326d14fcc4a18b" parent="aspace_73993c19099011ba232f616fe0d346dd" type="folder">4</container></did></c></c><c id="aspace_ref57" level="otherlevel" otherlevel="unspecified"><did><unittitle>Subseries VI: Professions and Their Prospects</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref58" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1970/1970" type="inclusive">1970</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_55e47668130f2850c08054cf9b67cf22" label="Mixed Materials [31142042279300]" type="box">3</container><container id="aspace_b10dbca9b0d3fb8afc57addb06443033" parent="aspace_55e47668130f2850c08054cf9b67cf22" type="folder">5</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_321dade6806b07ea4d56ec46a922273a" label="Mixed Materials [31142042279300]" type="box">3</container><container id="aspace_7b9995b85c97ef3bcb0fce8817d378a9" parent="aspace_321dade6806b07ea4d56ec46a922273a" type="folder">6</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1972/1979" type="inclusive">1972-1979</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_95a611bc48db615bc1e840ad4622321e" label="Mixed Materials [31142042279300]" type="box">3</container><container id="aspace_78117841c6269dd393114738df7e40a1" parent="aspace_95a611bc48db615bc1e840ad4622321e" type="folder">7</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Publication Material</unittitle><unitdate normal="1971/1979" type="inclusive">1971-1979</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_3a204e48f09e7abad3f6ba87ee7b4f6b" label="Mixed Materials [31142042279300]" type="box">3</container><container id="aspace_fb39d073d0dfd1782371d1e31f42ad87" parent="aspace_3a204e48f09e7abad3f6ba87ee7b4f6b" type="folder">8</container></did></c></c><c id="aspace_ref62" level="otherlevel" otherlevel="unspecified"><did><unittitle>Subseries VII: Professional Dominance</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref63" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1969/1990" type="inclusive">1969-1990</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_1779ac56ef599a8d98dc3f2643bb9825" label="Mixed Materials [31142042279300]" type="box">3</container><container id="aspace_f3629ca09bd608635fc700a37bdc08e8" parent="aspace_1779ac56ef599a8d98dc3f2643bb9825" type="folder">9</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Reviews and Promotional Material</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_3e909a59e4ff5907a979a4f5ec7df7e7" label="Mixed Materials [31142042279300]" type="box">3</container><container id="aspace_5d5edbc72bacc6339cd84cf3e472484d" parent="aspace_3e909a59e4ff5907a979a4f5ec7df7e7" type="folder">10</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Royalties</unittitle><unitdate normal="1974/1986" type="inclusive">1974-1986</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_5ca1d1bcf5eccc2a93f09159fa02e63b" label="Mixed Materials [31142042279300]" type="box">3</container><container id="aspace_f9b5639605ef801d41c66c44fc276ed7" parent="aspace_5ca1d1bcf5eccc2a93f09159fa02e63b" type="folder">11</container></did></c></c><c id="aspace_ref66" level="otherlevel" otherlevel="unspecified"><did><unittitle>Subseries VIII: Professional Ethics</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref67" level="file"><did><unittitle>Notes</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_e3240689112212d1a52acfa32b3b488e" label="Mixed Materials [31142042279300]" type="box">3</container><container id="aspace_dd218bcf447b7b506f8392d02e584eb5" parent="aspace_e3240689112212d1a52acfa32b3b488e" type="folder">12</container></did></c></c><c id="aspace_ref68" level="otherlevel" otherlevel="unspecified"><did><unittitle>Subseries IX: Professional Powers</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref69" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_faa8f6c2c4d0f2b24bdab34aace51e69" label="Mixed Materials [31142042279300]" type="box">3</container><container id="aspace_3570c2c200ef3157a589f2b4573bd9e9" parent="aspace_faa8f6c2c4d0f2b24bdab34aace51e69" type="folder">13</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_dd8f0943f52121bcb422de5792625030" label="Mixed Materials [31142042279318]" type="box">4</container><container id="aspace_4b7c25ce8b8a7b18767544bc82192b3e" parent="aspace_dd8f0943f52121bcb422de5792625030" type="folder">1</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1986/1988" type="inclusive">1986-1988</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_7cfc884c44acbe8bdbfd73355ed8ef1a" label="Mixed Materials [31142042279318]" type="box">4</container><container id="aspace_d629686e7d216677132f67e2bf713194" parent="aspace_7cfc884c44acbe8bdbfd73355ed8ef1a" type="folder">2</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Reviews and Promotional Materials</unittitle><unitdate normal="1986/1989" type="inclusive">1986-1989</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_c75885dc7dba6cf336d4a8601af71b70" label="Mixed Materials [31142042279318]" type="box">4</container><container id="aspace_3b29f5516c8315bc55d4996b4baebf06" parent="aspace_c75885dc7dba6cf336d4a8601af71b70" type="folder">3</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Notes, Drafts, Etc</unittitle><unitdate normal="1981/1989" type="inclusive">1981-1989</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_b826d90c63ceb7aeb6ce1415602ad652" label="Mixed Materials [31142042279318]" type="box">4</container><container id="aspace_65559f5262297395fdbf782f82204ebb" parent="aspace_b826d90c63ceb7aeb6ce1415602ad652" type="folder">4</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Lecture Notes</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_dce000ac92d1b121209888f52ae090af" label="Mixed Materials [31142042279318]" type="box">4</container><container id="aspace_de585509170d333cae306951d7932655" parent="aspace_dce000ac92d1b121209888f52ae090af" type="folder">5</container></did></c></c><c id="aspace_ref75" level="otherlevel" otherlevel="unspecified"><did><unittitle>Subseries X: Professsionalism: The Third Logic</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref76" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1995/1999" type="inclusive">1995-1999</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_132f4cb80f6d0f98be37b8bc6df1ace7" label="Mixed Materials [31142042279318]" type="box">4</container><container id="aspace_b1ba144b0aa6f67dfe56baf96943633e" parent="aspace_132f4cb80f6d0f98be37b8bc6df1ace7" type="folder">6</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Notes</unittitle><unitdate>ca. 1995-1999</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_4b4f5c31f43a3e83ca6eba2ec6c5ca5f" label="Mixed Materials [31142042279318]" type="box">4</container><container id="aspace_5cec99f97d82bbde0011b9dd64b07d9b" parent="aspace_4b4f5c31f43a3e83ca6eba2ec6c5ca5f" type="folder">7</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Drafts</unittitle><unitdate>ca. 1995-1999</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_a63be2c92c73b424cdacd33ed8e37082" label="Mixed Materials [31142042279318]" type="box">4</container><container id="aspace_31148438f72f41a879bbe0704005db73" parent="aspace_a63be2c92c73b424cdacd33ed8e37082" type="folder">8</container></did></c></c><c id="aspace_ref79" level="otherlevel" otherlevel="unspecified"><did><unittitle>Subseries XI: Professionalism Reborn</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref80" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1987/1992" type="inclusive">1987-1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_4efeffe61bb48f6ebe2f2503883d273b" label="Mixed Materials [31142042279318]" type="box">4</container><container id="aspace_d4afd2341c1c1aaedf59c227e22fcea7" parent="aspace_4efeffe61bb48f6ebe2f2503883d273b" type="folder">9</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_8c74bc92b8f57a5ec2663095c07e0021" label="Mixed Materials [31142042279318]" type="box">4</container><container id="aspace_98413fbc09483e1b7e6bc20c01bd537a" parent="aspace_8c74bc92b8f57a5ec2663095c07e0021" type="folder">10</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1993/1993" type="inclusive">Aug-93 , Dec-93</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_48d12e540c837d14ecd6a4fc08d0cc51" label="Mixed Materials [31142042279318]" type="box">4</container><container id="aspace_cefeb200198c2efc8094f3a13cfdb749" parent="aspace_48d12e540c837d14ecd6a4fc08d0cc51" type="folder">11</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1994/1996" type="inclusive">1994-1996</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_1d0d2e7bbd022f4cd3f71d006e43f477" label="Mixed Materials [31142042279326]" type="box">5</container><container id="aspace_4c2b35480334f417bc3d635c82c395ed" parent="aspace_1d0d2e7bbd022f4cd3f71d006e43f477" type="folder">1</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Reviews and Promotional Materials</unittitle><unitdate normal="1994/1995" type="inclusive">1994-1995</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_25eb6ba1f299397f12ce3880cf4ecd4d" label="Mixed Materials [31142042279326]" type="box">5</container><container id="aspace_7217f12f956333cd350f7ea9b6dd9976" parent="aspace_25eb6ba1f299397f12ce3880cf4ecd4d" type="folder">2</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Drafts</unittitle><unitdate normal="1987/1992" type="inclusive">1987-1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_dfbcd7690f456529e20d03fa042eae9c" label="Mixed Materials [31142042279326]" type="box">5</container><container id="aspace_226f2e16e2bbb2d096b141da536780b5" parent="aspace_dfbcd7690f456529e20d03fa042eae9c" type="folder">3</container></did></c></c></c><c id="aspace_ref86" level="series"><did><unittitle>Series III: Course Materials</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref87" level="file"><did><unittitle>Deviance</unittitle><unitdate normal="1966/1970" type="inclusive">1966-1970</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_805a8a567395f7d72987496ca4c06d10" label="Mixed Materials [31142042279326]" type="box">5</container><container id="aspace_c22016cac34e1fa70d3c08d2431117fc" parent="aspace_805a8a567395f7d72987496ca4c06d10" type="folder">4</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Field Methods, 1 of 4</unittitle><unitdate normal="1982/1992" type="inclusive">1982-1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_4ef59f7b628b0dee9a10df0acf3c1a41" label="Mixed Materials [31142042279326]" type="box">5</container><container id="aspace_def78f5cde3d4f0003ee5feb09f4c763" parent="aspace_4ef59f7b628b0dee9a10df0acf3c1a41" type="folder">5</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Field Methods, 2 of 4</unittitle><unitdate normal="1980/1992" type="inclusive">1980-1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_72c1144b7a68268712c10388c9601c56" label="Mixed Materials [31142042279326]" type="box">5</container><container id="aspace_84c468a6908f8370f90bbef4e3c14adb" parent="aspace_72c1144b7a68268712c10388c9601c56" type="folder">6</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Field Methods, 3 of 4</unittitle><unitdate normal="1961/1982" type="inclusive">1961-1982</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_7514903ff09938170cdf6481a45e3f65" label="Mixed Materials [31142042279326]" type="box">5</container><container id="aspace_d657bd77d8a1df851ebc03d284cf917e" parent="aspace_7514903ff09938170cdf6481a45e3f65" type="folder">7</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Field Methods, 4 of 4</unittitle><unitdate normal="1970/1988" type="inclusive">1970-1988</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_65e8da68333ca490ffeeb39809df0dbc" label="Mixed Materials [31142042279326]" type="box">5</container><container id="aspace_0f80fdb778547c0b59f540e88732a9f1" parent="aspace_65e8da68333ca490ffeeb39809df0dbc" type="folder">8</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Industrial Sociology</unittitle><unitdate normal="1967/1974" type="inclusive">1967-1974</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_24f34c9de0ce91261707b5fc885a9d71" label="Mixed Materials [31142042279326]" type="box">5</container><container id="aspace_4702fcc2471c559ac8bf5900f07a93c3" parent="aspace_24f34c9de0ce91261707b5fc885a9d71" type="folder">9</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>Occupations and Professions, 1 of 4</unittitle><unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_759ec1d092e0c356a31de97e1a0d0ec0" label="Mixed Materials [31142042279326]" type="box">5</container><container id="aspace_4a8edacc40402d9e887fb1ed642a6dcb" parent="aspace_759ec1d092e0c356a31de97e1a0d0ec0" type="folder">10</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>Occupations and Professions, 2 of 4</unittitle><unitdate normal="1992/1992" type="inclusive">1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_2194cb8effac6aa2acd8d7824879e597" label="Mixed Materials [31142042279276]" type="box">6</container><container id="aspace_e28665ed08e639e341e8357f7fc10858" parent="aspace_2194cb8effac6aa2acd8d7824879e597" type="folder">1</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>Occupations and Professions, 3 of 4</unittitle><unitdate normal="1962/1987" type="inclusive">1962-1987</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_f6189d025e81174d23eeb17c0d7f1974" label="Mixed Materials [31142042279276]" type="box">6</container><container id="aspace_5a4f528b99a30649ef0cad1b604f05f7" parent="aspace_f6189d025e81174d23eeb17c0d7f1974" type="folder">2</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>Occupations and Professions, 4 of 4</unittitle><unitdate normal="1972/1992" type="inclusive">1972-1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_e4956576a144ce2a496a348cc538e738" label="Mixed Materials [31142042279276]" type="box">6</container><container id="aspace_66c6a4a9a41c7282ce76a15ea3e2bb06" parent="aspace_e4956576a144ce2a496a348cc538e738" type="folder">3</container></did></c><c id="aspace_ref97" level="file"><did><unittitle>Occupations and Professions [Graduate], 1 of 2</unittitle><unitdate normal="1958/1988" type="inclusive">1958-1988</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_de899516153282480dca1a0e1f610aea" label="Mixed Materials [31142042279276]" type="box">6</container><container id="aspace_25f6a43387a4e8593ad1a602aedf7682" parent="aspace_de899516153282480dca1a0e1f610aea" type="folder">4</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>Occupations and Professions [Graduate], 2 of 2</unittitle><unitdate normal="1981/1992" type="inclusive">1981-1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_574ab4de3763168594f1977dfad453e3" label="Mixed Materials [31142042279276]" type="box">6</container><container id="aspace_f12a7099d1f41c084b1e2a5fcdf0b9a4" parent="aspace_574ab4de3763168594f1977dfad453e3" type="folder">5</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Organizations</unittitle><unitdate normal="1965/1972" type="inclusive">1965-1972</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_52f8807403b66dafe4e1e742ca37d2e7" label="Mixed Materials [31142042279276]" type="box">6</container><container id="aspace_65e09302865080d5166c950f157a5533" parent="aspace_52f8807403b66dafe4e1e742ca37d2e7" type="folder">6</container></did></c><c id="aspace_ref100" level="file"><did><unittitle>Social Communication</unittitle><unitdate normal="1953/1963" type="inclusive">1953-1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_1c2fe8ed0d8dc2080e951b3dd9be8509" label="Mixed Materials [31142042279276]" type="box">6</container><container id="aspace_b14479fe5fd9beb58530182e12c65523" parent="aspace_1c2fe8ed0d8dc2080e951b3dd9be8509" type="folder">7</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>Sociology of Knowledge, 1 of 2</unittitle><unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_10da9910c7d259e5e78710a8d6d35066" label="Mixed Materials [31142042279276]" type="box">6</container><container id="aspace_50a7432971f4ac95c76be07a0ba948d0" parent="aspace_10da9910c7d259e5e78710a8d6d35066" type="folder">8</container></did></c><c id="aspace_ref102" level="file"><did><unittitle>Sociology of Knowledge, 2 of 2</unittitle><unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_71c21a0a91c79798ea5486f8455ed951" label="Mixed Materials [31142042279276]" type="box">6</container><container id="aspace_cc247c339e6b7a803a625c51846514d6" parent="aspace_71c21a0a91c79798ea5486f8455ed951" type="folder">9</container></did></c><c id="aspace_ref103" level="file"><did><unittitle>Sociology of the Legal Profession</unittitle><unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_c43a9b41b976664dc0c676e9f81cc102" label="Mixed Materials [31142042279268]" type="box">7</container><container id="aspace_4ca8246bea3b69baae3572eb78fea84b" parent="aspace_c43a9b41b976664dc0c676e9f81cc102" type="folder">1</container></did></c><c id="aspace_ref104" level="file"><did><unittitle>Sociology of the Medicine, 1 of 3</unittitle><unitdate normal="1959/1975" type="inclusive">1959-1975</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_461b60e3663f2ef8c3174c2c1fdf1bf8" label="Mixed Materials [31142042279268]" type="box">7</container><container id="aspace_2a9feced0f2330afca75201ec9772a4e" parent="aspace_461b60e3663f2ef8c3174c2c1fdf1bf8" type="folder">2</container></did></c><c id="aspace_ref105" level="file"><did><unittitle>Sociology of the Medicine, 2 of 3</unittitle><unitdate normal="1969/1974" type="inclusive">1969-1974</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_2493ef1490cbfce97756568a12669f4a" label="Mixed Materials [31142042279268]" type="box">7</container><container id="aspace_d7f4783473c82aa25eb8be76fca94e27" parent="aspace_2493ef1490cbfce97756568a12669f4a" type="folder">3</container></did></c><c id="aspace_ref106" level="file"><did><unittitle>Sociology of the Medicine, 3 of 3</unittitle><unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_8b7f2eeefef5dad296b4cc09928a1413" label="Mixed Materials [31142042279268]" type="box">7</container><container id="aspace_cfddc3893333995bed500eb3fccb3f39" parent="aspace_8b7f2eeefef5dad296b4cc09928a1413" type="folder">4</container></did></c><c id="aspace_ref107" level="file"><did><unittitle>Sociology of New York Performance</unittitle><unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_66b932cdfaa86186220c28d63e6552c3" label="Mixed Materials [31142042279268]" type="box">7</container><container id="aspace_40cfa27fcfdd0f32cd39fb184dd7fabb" parent="aspace_66b932cdfaa86186220c28d63e6552c3" type="folder">5</container></did></c></c><c id="aspace_ref108" level="otherlevel" otherlevel="unspecified"><did><unittitle>Series IV: Subject Files</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref109" level="file"><did><unittitle>Department of Sociology Business</unittitle><unitdate normal="1976/1988" type="inclusive">1976-1988</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_8f5cefabaa58aba70ae3f31aa596a62e" label="Mixed Materials [31142042279268]" type="box">7</container><container id="aspace_399b91bc2eaa883fe06e4c7d17f611b5" parent="aspace_8f5cefabaa58aba70ae3f31aa596a62e" type="folder">6</container></did></c><c id="aspace_ref110" level="file"><did><unittitle>Eastern Sociological Society</unittitle><unitdate normal="1986/1986" type="inclusive">1986</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_1313432234e6f91f7a9fefc1b21a9aa5" label="Mixed Materials [31142042279268]" type="box">7</container><container id="aspace_9686e521dcebf8e5901fb7c40237e214" parent="aspace_1313432234e6f91f7a9fefc1b21a9aa5" type="folder">7</container></did></c><c id="aspace_ref111" level="file"><did><unittitle>Manuscripts, 1 of 3</unittitle><unitdate normal="1955/1959" type="inclusive">1955-1959</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_1506baed8e47a6b0daf934d71fbeae68" label="Mixed Materials [31142042279268]" type="box">7</container><container id="aspace_e2dcef398ef34bc0e917fb4aeea941bd" parent="aspace_1506baed8e47a6b0daf934d71fbeae68" type="folder">8</container></did></c><c id="aspace_ref112" level="file"><did><unittitle>Manuscripts, 2 of 3</unittitle><unitdate normal="1957/1962" type="inclusive">1957-1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_053c2c0c337f17c66cf7ed4048394d20" label="Mixed Materials [31142042279268]" type="box">7</container><container id="aspace_d6acf21e42186a583cdc0866108ae007" parent="aspace_053c2c0c337f17c66cf7ed4048394d20" type="folder">9</container></did></c><c id="aspace_ref113" level="file"><did><unittitle>Manuscripts, 3 of 3</unittitle><unitdate normal="1947/1977" type="inclusive">1947-1977</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_261993c24e96cf7d3671e7530aa3678d" label="Mixed Materials [31142042279268]" type="box">7</container><container id="aspace_9afa54db85b4a03e6cb19fcbcbc7113f" parent="aspace_261993c24e96cf7d3671e7530aa3678d" type="folder">10</container></did></c><c id="aspace_ref114" level="file"><did><unittitle>Obituaries and Memorial Articles</unittitle><unitdate normal="2006/2006" type="inclusive">2006</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_01c696bd590784e6de314d36bfc7ee64" label="Mixed Materials [31142042279268]" type="box">7</container><container id="aspace_5f1974af6d967e7243ba864328ac4a40" parent="aspace_01c696bd590784e6de314d36bfc7ee64" type="folder">11</container></did></c><c id="aspace_ref115" level="file"><did><unittitle>Personal [Army Records]</unittitle><unitdate normal="1941/1953" type="inclusive">1941-1953</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_15b4c8b54e7b5cd15356f1dbf3d67fe8" label="Mixed Materials [31142042279268]" type="box">7</container><container id="aspace_2641b580162cac519a63772a714ff49a" parent="aspace_15b4c8b54e7b5cd15356f1dbf3d67fe8" type="folder">12</container></did></c><c id="aspace_ref116" level="file"><did><unittitle>Retirement, etc</unittitle><unitdate normal="1993/1998" type="inclusive">1993-1998</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_edc711a40c0f05f30499f7bc58a3a32e" label="Mixed Materials [31142042279250]" type="box">8</container><container id="aspace_f5d1a8dd2e72731072d29b78f6174b1d" parent="aspace_edc711a40c0f05f30499f7bc58a3a32e" type="folder">1</container></did></c><c id="aspace_ref117" level="file"><did><unittitle>Speeches, Misc., 1 of 5</unittitle><unitdate normal="1967/1999" type="inclusive">1967-1999</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_b0709df433b15875cae13c881d329de8" label="Mixed Materials [31142042279250]" type="box">8</container><container id="aspace_f7e3276bdbd45ebba2087c351b5b0f80" parent="aspace_b0709df433b15875cae13c881d329de8" type="folder">2</container></did></c><c id="aspace_ref118" level="file"><did><unittitle>Speeches, Misc., 2 of 5</unittitle><unitdate normal="1969/1991" type="inclusive">1969-1991</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_d270abeedf3192cb48ca6f68530fd182" label="Mixed Materials [31142042279250]" type="box">8</container><container id="aspace_c8d7df115631872164ec32879894b593" parent="aspace_d270abeedf3192cb48ca6f68530fd182" type="folder">3</container></did></c><c id="aspace_ref119" level="file"><did><unittitle>Speeches, Misc., 3 of 5</unittitle><unitdate normal="1972/1980" type="inclusive">1972-1980</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_0ca2a567cc165e2deb08cfb17009c72a" label="Mixed Materials [31142042279250]" type="box">8</container><container id="aspace_176adfe05f80db2961043e6ac1890504" parent="aspace_0ca2a567cc165e2deb08cfb17009c72a" type="folder">4</container></did></c><c id="aspace_ref120" level="file"><did><unittitle>Speeches, Misc., 4 of 5</unittitle><unitdate normal="1975/1986" type="inclusive">1975-1986</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_ea4b2e61dc540a005fae42975d8c0757" label="Mixed Materials [31142042279250]" type="box">8</container><container id="aspace_468f0a0a64804636cf18d1ee86c146e2" parent="aspace_ea4b2e61dc540a005fae42975d8c0757" type="folder">5</container></did></c><c id="aspace_ref121" level="file"><did><unittitle>Speeches, Misc., 5 of 5</unittitle><unitdate normal="1978/1982" type="inclusive">1978-1982</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_5b2fb45938ce15b9958ef0dfa799b01b" label="Mixed Materials [31142042279250]" type="box">8</container><container id="aspace_176af33d9c47ef911ac107321207e6fd" parent="aspace_5b2fb45938ce15b9958ef0dfa799b01b" type="folder">6</container></did></c><c id="aspace_ref122" level="file"><did><unittitle>Talks and Lectures, 1 of 2</unittitle><unitdate normal="1980/1987" type="inclusive">1980-1987</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_e4e64ea94bd6241a100c40a847ac4863" label="Mixed Materials [31142042279250]" type="box">8</container><container id="aspace_89d404def4ef36780251eb6cfd86143b" parent="aspace_e4e64ea94bd6241a100c40a847ac4863" type="folder">7</container></did></c><c id="aspace_ref123" level="file"><did><unittitle>Talks and Lectures, 2 of 2</unittitle><unitdate normal="1988/1992" type="inclusive">1988-1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_04357f08565fce356c2f192c1d64a154" label="Mixed Materials [31142042279250]" type="box">8</container><container id="aspace_ee4ccec2074a79cfdc25887978898ce3" parent="aspace_04357f08565fce356c2f192c1d64a154" type="folder">8</container></did></c><c id="aspace_ref124" level="file"><did><unittitle>Translations of Poetry</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_01d881f30b832c6cbd6a135156334ef3" label="Mixed Materials [31142042279250]" type="box">8</container><container id="aspace_1217de313daa3de66de826f0e40ec0b7" parent="aspace_01d881f30b832c6cbd6a135156334ef3" type="folder">9</container></did></c><c id="aspace_ref125" level="file"><did><unittitle>University of Chicago Papers</unittitle><unitdate normal="1948/1949" type="inclusive">1948-1949</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_a5489ac2e5a494ad0f62cb00bf6f3ee1" label="Mixed Materials [31142042279250]" type="box">8</container><container id="aspace_ae44b6e56f5523cc6aaf6df289a7302a" parent="aspace_a5489ac2e5a494ad0f62cb00bf6f3ee1" type="folder">10</container></did></c><c id="aspace_ref196" level="file"><did><unittitle>3.5 inch floppy discs, entitled "Theory of Professionalism, 5/95" and "Fate of Knowledge, 5/95 + endnotes"</unittitle><unitdate>1995</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_ef69a50c7817fe36e8c3e2a966434d67" label="Mixed Materials [31142042279250]" type="box">8</container><container id="aspace_77a1c31ede4d11b670c4855e85102270" parent="aspace_ef69a50c7817fe36e8c3e2a966434d67" type="folder">11</container></did></c></c><c id="aspace_ref126" level="otherlevel" otherlevel="unspecified"><did><unittitle>Series V: Articles</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref127" level="file"><did><unittitle>A</unittitle><unitdate normal="1981/1991" type="inclusive">1981-1991</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_5d456b0e8774298519ab0785df8da25c" label="Mixed Materials [31142042271778]" type="box">9</container><container id="aspace_a4ac1e760158c250431e9ae3bd9dfdf1" parent="aspace_5d456b0e8774298519ab0785df8da25c" type="folder">1</container></did></c><c id="aspace_ref128" level="file"><did><unittitle>B</unittitle><unitdate normal="1983/1996" type="inclusive">1983-1996</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_30b0700b62f0ec3c0be2febe53d59934" label="Mixed Materials [31142042271778]" type="box">9</container><container id="aspace_96562afd383b83082f318dcd9d9c14c7" parent="aspace_30b0700b62f0ec3c0be2febe53d59934" type="folder">2</container></did></c><c id="aspace_ref129" level="file"><did><unittitle>C</unittitle><unitdate normal="1983/1986" type="inclusive">1983-1986</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_c440ec32c33b6442b77f7f4e912ed419" label="Mixed Materials [31142042271778]" type="box">9</container><container id="aspace_f4620b98695f9d9d1fe9d05bad22139d" parent="aspace_c440ec32c33b6442b77f7f4e912ed419" type="folder">3</container></did></c><c id="aspace_ref130" level="file"><did><unittitle>D</unittitle><unitdate normal="1982/1982" type="inclusive">1982</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_a5defd0279262e2a3ca9391041d2a21b" label="Mixed Materials [31142042271778]" type="box">9</container><container id="aspace_85695c2a238b3446536b994b6fd95d8c" parent="aspace_a5defd0279262e2a3ca9391041d2a21b" type="folder">4</container></did></c><c id="aspace_ref131" level="file"><did><unittitle>E</unittitle><unitdate normal="1982/2000" type="inclusive">1982-2000</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_5b5462ab73ded24ffb75f67af6f6ff7c" label="Mixed Materials [31142042271778]" type="box">9</container><container id="aspace_fa9e280587e8172bfe282f679a089f22" parent="aspace_5b5462ab73ded24ffb75f67af6f6ff7c" type="folder">5</container></did></c><c id="aspace_ref132" level="file"><did><unittitle>F</unittitle><unitdate normal="1980/1993" type="inclusive">1980-1993</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_10e0416e292fa38ae5e448a04ecd42ce" label="Mixed Materials [31142042271778]" type="box">9</container><container id="aspace_d95da5da8c2bbf5478fe23616d6104be" parent="aspace_10e0416e292fa38ae5e448a04ecd42ce" type="folder">6</container></did></c><c id="aspace_ref133" level="file"><did><unittitle>G</unittitle><unitdate normal="1979/1988" type="inclusive">1979-1988</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_0eaccd419d307b701da74bf851fc3cb1" label="Mixed Materials [31142042271778]" type="box">9</container><container id="aspace_bbcc6b2c2cc538754f89ae350819c753" parent="aspace_0eaccd419d307b701da74bf851fc3cb1" type="folder">7</container></did></c><c id="aspace_ref134" level="file"><did><unittitle>H</unittitle><unitdate normal="1999/2000" type="inclusive">1999-2000</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_9aaf1ccf61d6e26277928d5648bfa755" label="Mixed Materials [31142042271778]" type="box">9</container><container id="aspace_499492caf0baa34fec15952ca4f1d744" parent="aspace_9aaf1ccf61d6e26277928d5648bfa755" type="folder">8</container></did></c><c id="aspace_ref135" level="file"><did><unittitle>J</unittitle><unitdate normal="1984/1984" type="inclusive">1984</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_7e6cce452f077a8e7d2bbc2551f8196d" label="Mixed Materials [31142042271778]" type="box">9</container><container id="aspace_f4ef7d95d42d9a554996286d2f3bfe3f" parent="aspace_7e6cce452f077a8e7d2bbc2551f8196d" type="folder">9</container></did></c><c id="aspace_ref136" level="file"><did><unittitle>K</unittitle><unitdate normal="1985/1999" type="inclusive">1985-1999</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_d519c29d4071a3e9af70cef745005e62" label="Mixed Materials [31142042271778]" type="box">9</container><container id="aspace_9b59ee9c1f6df6d5342add8784f7b2fa" parent="aspace_d519c29d4071a3e9af70cef745005e62" type="folder">10</container></did></c><c id="aspace_ref137" level="file"><did><unittitle>L</unittitle><unitdate normal="1972/1992" type="inclusive">1972-1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_7f1f32462278fcf23ba544b81fc94ce7" label="Mixed Materials [31142042271778]" type="box">9</container><container id="aspace_45249a9fa536450bebae402b24edb40e" parent="aspace_7f1f32462278fcf23ba544b81fc94ce7" type="folder">11</container></did></c><c id="aspace_ref138" level="file"><did><unittitle>M</unittitle><unitdate normal="1987/1999" type="inclusive">1987-1999</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_55eedb4c2e4803faa66b526af27245fb" label="Mixed Materials [31142042271778]" type="box">9</container><container id="aspace_1cb62ade7135380cdc080cb74a642ea4" parent="aspace_55eedb4c2e4803faa66b526af27245fb" type="folder">12</container></did></c><c id="aspace_ref139" level="file"><did><unittitle>N</unittitle><unitdate normal="2000/2000" type="inclusive">2000</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_1319c3eb8d4a8e45622da46d24cd48ad" label="Mixed Materials [31142042271778]" type="box">9</container><container id="aspace_f858c3f5cd5a489086db57368e52bb43" parent="aspace_1319c3eb8d4a8e45622da46d24cd48ad" type="folder">13</container></did></c><c id="aspace_ref140" level="file"><did><unittitle>O</unittitle><unitdate normal="1978/1992" type="inclusive">1978-1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_e46f7e22e447b34d090744f7935e2da3" label="Mixed Materials [31142042271778]" type="box">9</container><container id="aspace_51f9680963221c2587e3835ad2e2f915" parent="aspace_e46f7e22e447b34d090744f7935e2da3" type="folder">14</container></did></c><c id="aspace_ref141" level="file"><did><unittitle>P</unittitle><unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_7db255112df1f988ae66b58e113a3c60" label="Mixed Materials [31142042271760]" type="box">10</container><container id="aspace_439cbdafafb4d34acd77b71ad8be687e" parent="aspace_7db255112df1f988ae66b58e113a3c60" type="folder">1</container></did></c><c id="aspace_ref142" level="file"><did><unittitle>R</unittitle><unitdate normal="1988/1988" type="inclusive">1988</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_620b316eab5a25d0faa0412880e46190" label="Mixed Materials [31142042271760]" type="box">10</container><container id="aspace_eed99064eca1d033ec76ed12f7df3fd0" parent="aspace_620b316eab5a25d0faa0412880e46190" type="folder">2</container></did></c><c id="aspace_ref143" level="file"><did><unittitle>S</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_5cea7990ab22df7bcc335e69c8fd187b" label="Mixed Materials [31142042271760]" type="box">10</container><container id="aspace_19b2b080ad7039c8c16acb1db610fd40" parent="aspace_5cea7990ab22df7bcc335e69c8fd187b" type="folder">3</container></did></c><c id="aspace_ref144" level="file"><did><unittitle>T</unittitle><unitdate normal="1987/1995" type="inclusive">1987-1995</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_55291415310822f72b7a84870ca7de41" label="Mixed Materials [31142042271760]" type="box">10</container><container id="aspace_cf538e7e15048cd48af3f42b242c1a4f" parent="aspace_55291415310822f72b7a84870ca7de41" type="folder">4</container></did></c><c id="aspace_ref145" level="file"><did><unittitle>V</unittitle><unitdate normal="1984/1984" type="inclusive">1984</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_2c0b4c049d1a0c5e51f5c27225923a12" label="Mixed Materials [31142042271760]" type="box">10</container><container id="aspace_3195ad9a5a9cef8dcb40a81e39b67281" parent="aspace_2c0b4c049d1a0c5e51f5c27225923a12" type="folder">5</container></did></c><c id="aspace_ref146" level="file"><did><unittitle>W</unittitle><unitdate normal="1917/1995" type="inclusive">1917-1995</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_b7678357bfe5f57cb25b455fd2d36c77" label="Mixed Materials [31142042271760]" type="box">10</container><container id="aspace_9a6682a7eff40ef29ef2c3418a2b41e2" parent="aspace_b7678357bfe5f57cb25b455fd2d36c77" type="folder">6</container></did></c><c id="aspace_ref147" level="file"><did><unittitle>XYZ</unittitle><unitdate normal="1980/1993" type="inclusive">1980-1993</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_3e132e0810c4fba3da5f635e56902eed" label="Mixed Materials [31142042271760]" type="box">10</container><container id="aspace_7c50be2d139cd8493ce89c9acaa79b89" parent="aspace_3e132e0810c4fba3da5f635e56902eed" type="folder">7</container></did></c><c id="aspace_ref148" level="file"><did><unittitle>Articles and Books of Interest</unittitle><unitdate normal="1979/1982" type="inclusive">1979-1982</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_f0e2250ad1bcec51101072f596b0c026" label="Mixed Materials [31142042271760]" type="box">10</container><container id="aspace_fa49c1edd3848a494555af4caac2a976" parent="aspace_f0e2250ad1bcec51101072f596b0c026" type="folder">8</container></did></c><c id="aspace_ref149" level="file"><did><unittitle>Articles and Books of Interest</unittitle><unitdate normal="1986/1990" type="inclusive">1986-1990</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_aa58bd455056980e770dc555e2ca134d" label="Mixed Materials [31142042271760]" type="box">10</container><container id="aspace_0ae353d17f59ba4e0618ad85fff1d577" parent="aspace_aa58bd455056980e770dc555e2ca134d" type="folder">9</container></did></c><c id="aspace_ref150" level="file"><did><unittitle>Articles and Books of Interest</unittitle><unitdate normal="1986/1995" type="inclusive">1986-1995</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_4212e49c01df55eb0831f6d75978c29f" label="Mixed Materials [31142042271760]" type="box">10</container><container id="aspace_efd6b5b3c60c63799d691f80f0640194" parent="aspace_4212e49c01df55eb0831f6d75978c29f" type="folder">10</container></did></c><c id="aspace_ref151" level="file"><did><unittitle>Articles and Books of Interest</unittitle><unitdate normal="1993/2001" type="inclusive">1993-2001</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_85bb547461d8ef7d02d0c667132cf0a1" label="Mixed Materials [31142042271760]" type="box">10</container><container id="aspace_c5dc6477d338bab34f2c3aba6cb99287" parent="aspace_85bb547461d8ef7d02d0c667132cf0a1" type="folder">11</container></did></c><c id="aspace_ref152" level="file"><did><unittitle>Ethical Codes</unittitle><unitdate normal="1988/1995" type="inclusive">1988-1995</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_79196935019c8e0e65c5bdd4029ea911" label="Mixed Materials [31142042271737]" type="box">11</container><container id="aspace_35c4f197d489b5fbf41f48050dae2725" parent="aspace_79196935019c8e0e65c5bdd4029ea911" type="folder">1</container></did></c><c id="aspace_ref153" level="file"><did><unittitle>The Fate of Knowledge, Source Material, France</unittitle><unitdate normal="1972/1991" type="inclusive">1972-1991</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_72f74a192b0a37aec01c2d7f1533c670" label="Mixed Materials [31142042271737]" type="box">11</container><container id="aspace_0e784b5298f9f4686286888eda89c91b" parent="aspace_72f74a192b0a37aec01c2d7f1533c670" type="folder">2</container></did></c><c id="aspace_ref154" level="file"><did><unittitle>The Fate of Knowledge, Source Material, France</unittitle><unitdate normal="1983/1983">1983</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_e8e485c255b4048599a0c4447308be21" label="Mixed Materials [31142042271737]" type="box">11</container><container id="aspace_0a8b6a36821bfc6da5cb27379e964185" parent="aspace_e8e485c255b4048599a0c4447308be21" type="folder">3</container></did></c><c id="aspace_ref155" level="file"><did><unittitle>The Fate of Knowledge, Source Material, Germany</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_4f3de60e7e9b92af3d3a786bf50c18ce" label="Mixed Materials [31142042271737]" type="box">11</container><container id="aspace_a4d92a6606c9d94ac7797ef095a791aa" parent="aspace_4f3de60e7e9b92af3d3a786bf50c18ce" type="folder">4</container></did></c><c id="aspace_ref156" level="file"><did><unittitle>The Fate of Knowledge, Source Material, Russia</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_e7920c1f3414aa5f431e2f853d3a4088" label="Mixed Materials [31142042271737]" type="box">11</container><container id="aspace_09496ba6ca537b9f1bb709b0c4b66f17" parent="aspace_e7920c1f3414aa5f431e2f853d3a4088" type="folder">5</container></did></c><c id="aspace_ref157" level="file"><did><unittitle>The Fate of Knowledge, Source Material, United Kingdom</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_1de3be8741eca68b6409894731b86497" label="Mixed Materials [31142042271737]" type="box">11</container><container id="aspace_0473e9c6bab54a03975ea88bc964d88c" parent="aspace_1de3be8741eca68b6409894731b86497" type="folder">6</container></did></c><c id="aspace_ref158" level="file"><did><unittitle>The Fate of Knowledge, Source Material, United Kingdom</unittitle><unitdate normal="1980/1993" type="inclusive">1980-1993</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_0f03e7a7b3579ddcefd8ae92bfe684c0" label="Mixed Materials [31142042271737]" type="box">11</container><container id="aspace_6e2025ca2c60290eef97c38a3b3a49a4" parent="aspace_0f03e7a7b3579ddcefd8ae92bfe684c0" type="folder">7</container></did></c><c id="aspace_ref159" level="file"><did><unittitle>The Fate of Knowledge, Source Material, United States</unittitle><unitdate normal="1982/1986" type="inclusive">1982-1986</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_77df0ee5eea17db78c9b886b534ec8ee" label="Mixed Materials [31142042271737]" type="box">11</container><container id="aspace_378f5b63a042f70321e06b063e63d001" parent="aspace_77df0ee5eea17db78c9b886b534ec8ee" type="folder">8</container></did></c><c id="aspace_ref160" level="file"><did><unittitle>The Fate of Knowledge, Source Material, Comparative</unittitle><unitdate normal="1985/1992" type="inclusive">1985-1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_b2fb33b3449b66d33c34fb84698ab22b" label="Mixed Materials [31142042271737]" type="box">11</container><container id="aspace_277c609a5e773c73bea4e9c7d98cf251" parent="aspace_b2fb33b3449b66d33c34fb84698ab22b" type="folder">9</container></did></c><c id="aspace_ref161" level="file"><did><unittitle>Intellectual Property, 1 of 3</unittitle><unitdate normal="1972/2002" type="inclusive">1972-2002</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_00c0ff1aef230dbc628a79adfb42c0af" label="Mixed Materials [31142042271752]" type="box">12</container><container id="aspace_8eb94136e6758fbf8877ed38eb278e46" parent="aspace_00c0ff1aef230dbc628a79adfb42c0af" type="folder">1</container></did></c><c id="aspace_ref162" level="file"><did><unittitle>Intellectual Property, 2 of 3</unittitle><unitdate normal="1984/1993" type="inclusive">1984-1993</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_388516a69f8d5f8324831710bcce13d2" label="Mixed Materials [31142042271752]" type="box">12</container><container id="aspace_2985df2b7efec87c8b99a5e142d4be38" parent="aspace_388516a69f8d5f8324831710bcce13d2" type="folder">2</container></did></c><c id="aspace_ref163" level="file"><did><unittitle>Intellectual Property, 3 of 3</unittitle><unitdate normal="1982/1990" type="inclusive">1982-1990</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_94ad46f64effff09853a81431b90a2ce" label="Mixed Materials [31142042271752]" type="box">12</container><container id="aspace_da9c4f528ac8b0e9cf088746d0acc45d" parent="aspace_94ad46f64effff09853a81431b90a2ce" type="folder">3</container></did></c><c id="aspace_ref164" level="file"><did><unittitle>Professional Ethics</unittitle><unitdate normal="1888/1995" type="inclusive">1888-1995</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_d573e6e49058d1b0853b2f2362d58012" label="Mixed Materials [31142042271752]" type="box">12</container><container id="aspace_542283f06eeaa03ef604b6e224aca3a4" parent="aspace_d573e6e49058d1b0853b2f2362d58012" type="folder">4</container></did></c><c id="aspace_ref165" level="file"><did><unittitle>Professional Ethics</unittitle><unitdate normal="1957/1997" type="inclusive">1957-1997</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_4b3c8d8c298d0ec3333fdfab4dc5ee1b" label="Mixed Materials [31142042271752]" type="box">12</container><container id="aspace_268279d8ec606578eb068ac980dae824" parent="aspace_4b3c8d8c298d0ec3333fdfab4dc5ee1b" type="folder">5</container></did></c><c id="aspace_ref166" level="file"><did><unittitle>Professionalism: The Third Logic</unittitle><unitdate normal="1964/1991" type="inclusive">1964-1991</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_73cef243349ffab1f9d5fd93db4ca168" label="Mixed Materials [31142042271752]" type="box">12</container><container id="aspace_cd452a5d1cf1161cce2173bd617c3d7c" parent="aspace_73cef243349ffab1f9d5fd93db4ca168" type="folder">6</container></did></c><c id="aspace_ref167" level="file"><did><unittitle>Professionalism: The Third Logic</unittitle><unitdate normal="1971/1986" type="inclusive">1971-1986</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_2c17eec26fdf086bce5e72cd57d45706" label="Mixed Materials [31142042271752]" type="box">12</container><container id="aspace_a77e24871ef2b998878953d009057ea6" parent="aspace_2c17eec26fdf086bce5e72cd57d45706" type="folder">7</container></did></c><c id="aspace_ref168" level="file"><did><unittitle>Professionalism: The Third Logic</unittitle><unitdate normal="1974/1990" type="inclusive">1974-1990</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_dab58f71ace718892cc432b9ca8b8b6f" label="Mixed Materials [31142042271752]" type="box">12</container><container id="aspace_3e0c9ccfc7124df1383210eb0160d69e" parent="aspace_dab58f71ace718892cc432b9ca8b8b6f" type="folder">8</container></did></c><c id="aspace_ref169" level="file"><did><unittitle>Professionalism: The Third Logic</unittitle><unitdate normal="1972/1992" type="inclusive">1972-1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_f0f57b920e26e65a00658612ff0b35c2" label="Mixed Materials [31142042271745]" type="box">13</container><container id="aspace_93380e07508fd9c44db40ed229ab45eb" parent="aspace_f0f57b920e26e65a00658612ff0b35c2" type="folder">1</container></did></c><c id="aspace_ref170" level="file"><did><unittitle>Reprint Journals</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_dcd6ee46e0cc7a7f65e2821ee5f3028f" label="Mixed Materials [31142042271745]" type="box">13</container><container id="aspace_22bcb670f06a2d4c3343c1f15af7c7ba" parent="aspace_dcd6ee46e0cc7a7f65e2821ee5f3028f" type="folder">2</container></did></c><c id="aspace_ref171" level="file"><did><unittitle>Reprint Journals</unittitle><unitdate normal="1953/1958" type="inclusive">1953-1958</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_bd4d85b7e780e45b251fd5041d664c18" label="Mixed Materials [31142042271745]" type="box">13</container><container id="aspace_a33a9ad62cbfdf63909b846ee45c8410" parent="aspace_bd4d85b7e780e45b251fd5041d664c18" type="folder">3</container></did></c><c id="aspace_ref172" level="file"><did><unittitle>Reprint Journals</unittitle><unitdate normal="1960/1968" type="inclusive">1960-1968</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_a62012acb7ee80d9b3473e9e25ca4e2f" label="Mixed Materials [31142042271745]" type="box">13</container><container id="aspace_f1198d5213218b02a0404d8f34f53c9f" parent="aspace_a62012acb7ee80d9b3473e9e25ca4e2f" type="folder">4</container></did></c><c id="aspace_ref173" level="file"><did><unittitle>Reprint Journals</unittitle><unitdate normal="1970/1979" type="inclusive">1970-1979</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_119631071d777351084ae029a47af16e" label="Mixed Materials [31142042271745]" type="box">13</container><container id="aspace_dee32f14313b52900ff2adf7ecc4dd18" parent="aspace_119631071d777351084ae029a47af16e" type="folder">5</container></did></c><c id="aspace_ref174" level="file"><did><unittitle>Reprint Journals</unittitle><unitdate normal="1981/1985" type="inclusive">1981-1985</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_9b62e73d8e53b2e44d17074931fb50fd" label="Mixed Materials [31142042271745]" type="box">13</container><container id="aspace_c3b45c76c20e60632e765933f39177f1" parent="aspace_9b62e73d8e53b2e44d17074931fb50fd" type="folder">6</container></did></c><c id="aspace_ref175" level="file"><did><unittitle>Reprint Journals</unittitle><unitdate normal="1986/1989" type="inclusive">1986-1989</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_faea8a1206514ace8c34d55cef19e68c" label="Mixed Materials [31142042271745]" type="box">13</container><container id="aspace_746c83fcb9783c9358c08ebd07c523ee" parent="aspace_faea8a1206514ace8c34d55cef19e68c" type="folder">7</container></did></c><c id="aspace_ref176" level="file"><did><unittitle>Reprint Journals</unittitle><unitdate normal="1992/2002" type="inclusive">1992-2002</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_f34ed029c8d28d016fc9ae58af8ddf97" label="Mixed Materials [31142042271745]" type="box">13</container><container id="aspace_f34d41ea6fe7bfc881740e38feda5394" parent="aspace_f34ed029c8d28d016fc9ae58af8ddf97" type="folder">8</container></did></c></c><c id="aspace_ref187" level="series"><did><unittitle>Series VI: Published Materials</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref188" level="file"><did><unittitle>"Physicians in Large Medical Groups: A Preliminary Report", with Buford Rhea, in "Medical Care Research", ed. K.L. White</unittitle><unitdate normal="1965/1965" type="inclusive">1965</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_dae2705300760c74126d8990fb6f1b90" label="Mixed Materials [31142046885870]" type="box">14</container><container id="aspace_1a93257cfbfa97bcd30a183b82639517" parent="aspace_dae2705300760c74126d8990fb6f1b90" type="folder">1</container></did></c><c id="aspace_ref189" level="file"><did><unittitle>Notes by Freidson in "Essays on the New Working Class" by Serge Mallet, trans. Dick Howard and Dean Savage</unittitle><unitdate normal="1975/1975" type="inclusive">1975</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_2d36da891163af23740cdbf00dee1b70" label="Mixed Materials [31142046885870]" type="box">14</container><container id="aspace_9188d885a4a4646d4d34e0f6c56734e5" parent="aspace_2d36da891163af23740cdbf00dee1b70" type="folder">2</container></did></c><c id="aspace_ref190" level="file"><did><unittitle>"Response: Societal Commitment to Equity: Role of the Medical Care Provider", in "Implications of Guaranteeing Medical Care: Papers and Commentary from Annual Meeting", National Academy of Sciences, ed. Joseph G. Peprich (includes note)</unittitle><unitdate normal="1975/1975" type="inclusive">1975</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_616925280c78fd2c4eed52a9d7efba7c" label="Mixed Materials [31142046885870]" type="box">14</container><container id="aspace_18938b8b2930f82a563a98ea5cb9e19b" parent="aspace_616925280c78fd2c4eed52a9d7efba7c" type="folder">3</container></did></c><c id="aspace_ref191" level="file"><did><unittitle>"Rechtsschutz fur Sozialforschung - Kriterien zum Definition", in "Forschung in Konflikt mit Recht und Ethik", eds. Albin Eser and Karl F. Schumann</unittitle><unitdate normal="1976/1976" type="inclusive">1976</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_825e94bed0b907492fa79ffbce8ae694" label="Mixed Materials [31142046885870]" type="box">14</container><container id="aspace_26f39fd72d484743b3f2276c7af1332e" parent="aspace_825e94bed0b907492fa79ffbce8ae694" type="folder">4</container></did></c><c id="aspace_ref192" level="file"><did><unittitle>"Relations between Physicians in an Organized Form of Practice", in "Sante, Medecine et Sociologie", Colloque International de Sociologie Medical (portions drawn from book "Doctoring Together", 1976)</unittitle><unitdate normal="1978/1978" type="inclusive">1978</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_a63da05ad8561853f41bae33099aee6e" label="Mixed Materials [31142046885870]" type="box">14</container><container id="aspace_1d01f94f1aa09b0292ff7a3598debf5d" parent="aspace_a63da05ad8561853f41bae33099aee6e" type="folder">5</container></did></c><c id="aspace_ref193" level="file"><did><unittitle>"Nourishing Professionalism", in "Ethics, Trust, and the Professions: Philosophical and Cultural Aspects", eds. E. Pellegrino, R. Veatch, and J. Langan</unittitle><unitdate normal="1991/1991" type="inclusive">1991</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_4eab590e5f90d559c50dc339cebc7fca" label="Mixed Materials [31142046885870]" type="box">14</container><container id="aspace_fcc1b2ab719bd56f128ff6ca0be2d0df" parent="aspace_4eab590e5f90d559c50dc339cebc7fca" type="folder">6</container></did></c><c id="aspace_ref194" level="file"><did><unittitle>"Professionalism: The Third Logic", by Eliot Freidson, Korean translation</unittitle><unitdate>2007</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_b02d7a5ff60fc0da1085dc22025fcedb" label="Mixed Materials [31142046885870]" type="box">14</container><container id="aspace_070c1ed92ecabc5a0b10b64a963c28d9" parent="aspace_b02d7a5ff60fc0da1085dc22025fcedb" type="folder">7</container></did></c><c id="aspace_ref195" level="file"><did><unittitle>Journal of Health Politics, Policy, and Law, Volume 28, Number 1, February 2003 (Special Book Review Symposium: Eliot Freidson's "Professionalism: The Third Logic")</unittitle><unitdate normal="2003/2003" type="inclusive">2003</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_9fd9879a56284bbbd8f6e4e71a47917a" label="Mixed Materials [31142046885870]" type="box">14</container><container id="aspace_de02f972bfb3acc46791f53929b6f827" parent="aspace_9fd9879a56284bbbd8f6e4e71a47917a" type="folder">8</container></did></c><c id="aspace_569e4c705b0a1f7892285a5dccb1152a" level="file"><did><unittitle><emph render="italic">Medical Professionals and the Organization of Knowledge</emph> (English and Translations)</unittitle><unitdate normal="2009/2009">2009</unitdate><container altrender="Manuscript box - Letter" id="aspace_cf546b4a78130ffacc891ed42a127ce2" label="Mixed Materials [31142063351228]" type="box">19</container><container id="aspace_de034c7b1987a216509b545d6ffb86a7" parent="aspace_cf546b4a78130ffacc891ed42a127ce2" type="folder">1-3</container></did></c></c></dsc>
-</archdesc>
+    </did>
+    <arrangement id="aspace_5e69d0cf419fd76283aab2830eb37400">
+      <head>Arrangement</head>
+      <p>The files are grouped into five series:</p>
+      <list type="ordered">
+        <item>I. Correspondence</item>
+        <item>II. Books (book titles as subseries)</item>
+        <item>III. Course Materials</item>
+        <item>IV. Subject Files</item>
+        <item>V. Articles</item>
+      </list>
+    </arrangement>
+    <scopecontent id="aspace_547162d9dc1f248b4ad8400bec3c6aee">
+      <head>Scope and Content Note</head>
+      <p>This collection consists of Eliot Freidson's files relating to the books he wrote and published and the courses he taught.  Approximately two linear feet of the collection consist of copies of journal articles on topics relating to his research.  The "Books" series consists mostly of correspondence with publishers and colleagues who read chapter drafts and offered critiques. The "Course Materials" series consists of syllabi, lecture notes and outlines.  Subject files contain speeches, obituaries, and conference materials.</p>
+    </scopecontent>
+    <bioghist id="aspace_642febeaddf1eb6f4feac900d4769aff">
+      <head>Historical/Biographical Note</head>
+      <p>Eliot Freidson (pronounced "fried-son") was born in Boston on February 20, 1923, to Joseph and Grace Backer Freidson, both of whom emigrated from Russia as children.  He attended the University of Maine for one year in 1941, transferring to the University of Chicago in 1942.  He served in the U.S. Army from April 1943 to July 1946 in Europe as a translator of German and intelligence analyst.  Freidson earned his Ph.D. in sociology from the University of Chicago in 1952.  He taught first at the City College of New York before becoming an associate professor at NYU in 1961 and achieving full professorship in 1964.  Freidson served as chair of the Department of Sociology from 1975 to 1978.  He retired in 1993 and was a professor emeritus at NYU until his death.  He served as president of the Eastern Sociological Society from 1985 to 1986.  He died on December 14, 2005 of non-Hodgkins lymphoma in San Francisco. </p>
+      <p>Freidson studied the sociology of professions and was most widely recognized for his studies of the medical field.  He wrote 12 books and over 100 scholarly articles. </p>
+    </bioghist>
+    <prefercite id="aspace_fbff13b178926d9db371bb347626bce2">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: Identification of item, date (if known); Eliot Freidson Papers; MC 192; box number; folder number; New York University Archives, New York University Libraries.</p>
+    </prefercite>
+    <userestrict id="aspace_b183d25a114b80aaf25643f30fdf629b">
+      <head>Use Restrictions</head>
+      <p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>
+    </userestrict>
+    <acqinfo id="aspace_a2bff87a86a3b8a164e82a43b6f46539">
+      <head>Immediate Source of Acquisition</head>
+      <p>The collection was donated by Freidson's wife, Helen Giambruni, in 2006 and 2017.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_f1fc8a9a6ee143e0b01594834934e4e0">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <controlaccess>
+      <corpname source="naf">Eastern Sociological Society (U.S.)</corpname>
+      <persname source="naf">Giddens, Anthony</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref18" level="series">
+        <did>
+          <unittitle>Series I: Correspondence</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Correspondence, 1 of 5</unittitle>
+            <unitdate normal="1951/1969" type="inclusive">1951-1969</unitdate>
+            <physloc id="aspace_e0bece3cc924922191191b90ff55b0fc">offsite barcode no. 31142042279284</physloc>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_5f55a6914b5e290b6860bb55742e83d7" label="Mixed Materials [31142042279284]" type="box">1</container>
+            <container id="aspace_ae1cabe85e3575957633b8efe4f8176a" parent="aspace_5f55a6914b5e290b6860bb55742e83d7" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Correspondence, 2 of 5</unittitle>
+            <unitdate normal="1970/1976" type="inclusive">1970-1976</unitdate>
+            <physloc id="aspace_9083637baef241f1e1e13f93aa20c6a6">offsite barcode no. 31142042279284</physloc>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_259b7dddb394eafe8a69758bc3684050" label="Mixed Materials [31142042279284]" type="box">1</container>
+            <container id="aspace_a99a35bd701c9e1100d4192ab665e194" parent="aspace_259b7dddb394eafe8a69758bc3684050" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Correspondence, 3 of 5</unittitle>
+            <unitdate normal="1977/1982" type="inclusive">1977-1982</unitdate>
+            <physloc id="aspace_ce9688fe282fd535d09ef6e18f4c426f">offsite barcode no. 31142042279284</physloc>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_1bad3876357c6959da3a1053fc3fac0c" label="Mixed Materials [31142042279284]" type="box">1</container>
+            <container id="aspace_97a02914724c5cc752eb193f1e11a015" parent="aspace_1bad3876357c6959da3a1053fc3fac0c" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Correspondence, 4 of 5</unittitle>
+            <unitdate normal="1982/1987" type="inclusive">1982-1987</unitdate>
+            <physloc id="aspace_addb2ed063a91dc3ba7abdbcdd544de6">offsite barcode no. 31142042279284</physloc>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_d86cb6cc4948593f5a534ff10c81aad0" label="Mixed Materials [31142042279284]" type="box">1</container>
+            <container id="aspace_fb56a81b6f8c93be795b56addac54721" parent="aspace_d86cb6cc4948593f5a534ff10c81aad0" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Correspondence, 5 of 5</unittitle>
+            <unitdate normal="1987/2004" type="inclusive">1987-2004</unitdate>
+            <physloc id="aspace_e7c0dfe6483fd27b9752680b48c63a68">offsite barcode no. 31142042279284</physloc>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_4ce8f55f2c3f9b0ac0bf0c3b54eba92d" label="Mixed Materials [31142042279284]" type="box">1</container>
+            <container id="aspace_6d93eb2321b543a585015f6a76150b4a" parent="aspace_4ce8f55f2c3f9b0ac0bf0c3b54eba92d" type="folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Series II: Books</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref24" level="subseries">
+          <did>
+            <unittitle>Subseries I: Doctoring Together</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref26" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
+              <physloc id="aspace_e5de01c9b2673d1ed9a06d869e4a8c15">offsite barcode no. 31142042279284</physloc>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_2aad197ffba3d057c063a8e01f9493ac" label="Mixed Materials [31142042279284]" type="box">1</container>
+              <container id="aspace_69bff5dac0f414b89c67988faa24c61e" parent="aspace_2aad197ffba3d057c063a8e01f9493ac" type="folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref27" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
+              <physloc id="aspace_b7ccc155901bdd5ab9a70c1ac49f3e17">offsite barcode no. 31142042279284</physloc>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_653d4510209da2ce6381b44c552df925" label="Mixed Materials [31142042279284]" type="box">1</container>
+              <container id="aspace_02b0d7a15e6edfb9344ae071294d64a3" parent="aspace_653d4510209da2ce6381b44c552df925" type="folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref28" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1978/1981" type="inclusive">1978-1981</unitdate>
+              <physloc id="aspace_fa087c325f01a62abc1aed70ee43870e">offsite barcode no. 31142042279284</physloc>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_34b08ad09e6ea705db2420b051586472" label="Mixed Materials [31142042279284]" type="box">1</container>
+              <container id="aspace_11fc6cb41255d6cb21753f34959753ad" parent="aspace_34b08ad09e6ea705db2420b051586472" type="folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref29" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1985/1990" type="inclusive">1985-1990</unitdate>
+              <physloc id="aspace_3179d58eb294ef43ee87a1110eab07a8">offsite barcode no. offsite barcode no. 31142042279284</physloc>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_e622f65e6c0122c065dc08bbdc4bb7f3" label="Mixed Materials [31142042279284]" type="box">1</container>
+              <container id="aspace_e64839a92865c4dd52d5801f347b7d93" parent="aspace_e622f65e6c0122c065dc08bbdc4bb7f3" type="folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref30" level="file">
+            <did>
+              <unittitle>Reviews and Promotional Material</unittitle>
+              <unitdate normal="1976/1981" type="inclusive">1976-1981</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_262ab35838121a1902eff882fafbd4b3" label="Mixed Materials [31142042279284]" type="box">1</container>
+              <container id="aspace_c45c36d22d4e54a9834a5e8fe29693ef" parent="aspace_262ab35838121a1902eff882fafbd4b3" type="folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref31" level="file">
+            <did>
+              <unittitle>Memos, Royalty Statement, List</unittitle>
+              <unitdate normal="1975/1978" type="inclusive">1975-1978</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_a649eae2da3470ea6489ae0c36c9787d" label="Mixed Materials [31142042279284]" type="box">1</container>
+              <container id="aspace_b67825eb18a334c54a2cb32de55c293b" parent="aspace_a649eae2da3470ea6489ae0c36c9787d" type="folder">11</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Subseries II: The Fate of Knowledge</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref33" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_d6fbce110cf5faa473bed9531bf0f162" label="Mixed Materials [31142042279284]" type="box">1</container>
+              <container id="aspace_268d27152eb89454b43674d583f60152" parent="aspace_d6fbce110cf5faa473bed9531bf0f162" type="folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref34" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_91912f4576e781928bb9ece794c08f3b" label="Mixed Materials [31142042279284]" type="box">1</container>
+              <container id="aspace_af2fc4253c8730ed639d8fb84739081b" parent="aspace_91912f4576e781928bb9ece794c08f3b" type="folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref35" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_b6524ccb71e7ae005517891e838ec8a9" label="Mixed Materials [31142042279284]" type="box">1</container>
+              <container id="aspace_354de09e9a5f1e2dd3f2aaed7046c877" parent="aspace_b6524ccb71e7ae005517891e838ec8a9" type="folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref36" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1989/1991" type="inclusive">1989-1991</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_58320effe6b63a3e4ecd6deb067740c4" label="Mixed Materials [31142042279284]" type="box">1</container>
+              <container id="aspace_bf515548493c3f0a8bec10e2faecff6f" parent="aspace_58320effe6b63a3e4ecd6deb067740c4" type="folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref37" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_5acee3ee31cd77382af65eff1038b748" label="Mixed Materials [31142042279284]" type="box">1</container>
+              <container id="aspace_a30f77cbbd6c859e44563243cf697143" parent="aspace_5acee3ee31cd77382af65eff1038b748" type="folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref38" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_1b81a457d9288e690204edf8455bf5d8" label="Mixed Materials [31142042279292]" type="box">2</container>
+              <container id="aspace_e96755bfb1615ab875709f47ee2327e4" parent="aspace_1b81a457d9288e690204edf8455bf5d8" type="folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref39" level="file">
+            <did>
+              <unittitle>Review and Promotional Material</unittitle>
+              <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_edec40485cc26263b187483a56412d90" label="Mixed Materials [31142042279292]" type="box">2</container>
+              <container id="aspace_bc712a5bd834cc1ebe102283d368fe50" parent="aspace_edec40485cc26263b187483a56412d90" type="folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref40" level="file">
+            <did>
+              <unittitle>Notes</unittitle>
+              <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_0a55c0790cc6f2bc0440bbc2569d03e0" label="Mixed Materials [31142042279292]" type="box">2</container>
+              <container id="aspace_6e689e24be7462bd72b460a8ec7c6352" parent="aspace_0a55c0790cc6f2bc0440bbc2569d03e0" type="folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref41" level="file">
+            <did>
+              <unittitle>Notes, Drafts, etc</unittitle>
+              <unitdate normal="1986/1992" type="inclusive">1986-1992</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_0429acf67db9e6332d34dfe030e0dc0d" label="Mixed Materials [31142042279292]" type="box">2</container>
+              <container id="aspace_99253dc2d8ec4badeb40756c4e8e8381" parent="aspace_0429acf67db9e6332d34dfe030e0dc0d" type="folder">4</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Subseries III: Medical Men and Their Work</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref43" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1967/1977" type="inclusive">1967-1977</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_a81b1fd9e930af332fa27c281f848d95" label="Mixed Materials [31142042279292]" type="box">2</container>
+              <container id="aspace_1468578cc7463fb5eb7991b726084e87" parent="aspace_a81b1fd9e930af332fa27c281f848d95" type="folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref44" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1968/1971" type="inclusive">1968-1971</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_a4f2fe7715357b4d8ca88f4a40f70314" label="Mixed Materials [31142042279292]" type="box">2</container>
+              <container id="aspace_73a8c623de877ac3d2d71024bee65b50" parent="aspace_a4f2fe7715357b4d8ca88f4a40f70314" type="folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref45" level="file">
+            <did>
+              <unittitle>Notes and Promotional Material</unittitle>
+              <unitdate normal="1970/1974" type="inclusive">1970-1974</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_22375bda3d2016a4142a3d9f45690245" label="Mixed Materials [31142042279292]" type="box">2</container>
+              <container id="aspace_e0faf332e89cfdaf2d9b46e492a5a5c0" parent="aspace_22375bda3d2016a4142a3d9f45690245" type="folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref46" level="file">
+            <did>
+              <unittitle>Royalties</unittitle>
+              <unitdate normal="1970/1980" type="inclusive">1970-1980</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_d1d8391f126ffdf7f54ba2c8c4d0820b" label="Mixed Materials [31142042279292]" type="box">2</container>
+              <container id="aspace_db31f2a0c02089f882f19fd71066112c" parent="aspace_d1d8391f126ffdf7f54ba2c8c4d0820b" type="folder">8</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Subseries IV: Medical Work in America</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref48" level="file">
+            <did>
+              <unittitle>Reviews and Promotional Material</unittitle>
+              <unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_d888bc057026ed36056ccbaef97b99b9" label="Mixed Materials [31142042279292]" type="box">2</container>
+              <container id="aspace_788ff3a566e4cbd5b3df21be0e6d437f" parent="aspace_d888bc057026ed36056ccbaef97b99b9" type="folder">9</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Subseries V: Profession of Medicine</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref50" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1961/1968" type="inclusive">1961-1968</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_4964f6b6a7d552d9cb2f291309bd2bdb" label="Mixed Materials [31142042279292]" type="box">2</container>
+              <container id="aspace_1b70dadd05dab8133552dcc8e6564286" parent="aspace_4964f6b6a7d552d9cb2f291309bd2bdb" type="folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref51" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1963/1969" type="inclusive">1963-1969</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_95f3e9170ac16680cf4b3b176f14910b" label="Mixed Materials [31142042279292]" type="box">2</container>
+              <container id="aspace_dc858442c60680b57ff7846257970674" parent="aspace_95f3e9170ac16680cf4b3b176f14910b" type="folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref52" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1969/1977" type="inclusive">1969-1977</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_f8b1c5ad03ce663489f33fa2ddde0272" label="Mixed Materials [31142042279292]" type="box">2</container>
+              <container id="aspace_0197fb780856750b6258104ee52f98eb" parent="aspace_f8b1c5ad03ce663489f33fa2ddde0272" type="folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref53" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1978/1988" type="inclusive">1978-1988</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_f199da2bc92a96dc9d3b6694d2bd4f21" label="Mixed Materials [31142042279300]" type="box">3</container>
+              <container id="aspace_ce5dc8388e4bfd447bb928a224f38bea" parent="aspace_f199da2bc92a96dc9d3b6694d2bd4f21" type="folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref54" level="file">
+            <did>
+              <unittitle>Reviews and Promotional Materials</unittitle>
+              <unitdate normal="1968/1989" type="inclusive">1968-1989</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_dc29f8364ed5e523b7d1b85aae34ec54" label="Mixed Materials [31142042279300]" type="box">3</container>
+              <container id="aspace_db914162d993041c5480feaaa460ad41" parent="aspace_dc29f8364ed5e523b7d1b85aae34ec54" type="folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref55" level="file">
+            <did>
+              <unittitle>Documents</unittitle>
+              <unitdate normal="1962/1988" type="inclusive">1962-1988</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_14dc6cb69c7c3dd0d12979295459d2fd" label="Mixed Materials [31142042279300]" type="box">3</container>
+              <container id="aspace_ae07d77341f11c6f8d1e151cf301b1d6" parent="aspace_14dc6cb69c7c3dd0d12979295459d2fd" type="folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref56" level="file">
+            <did>
+              <unittitle>Notes and Comments</unittitle>
+              <unitdate normal="1961/1981" type="inclusive">1961-1981</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_73993c19099011ba232f616fe0d346dd" label="Mixed Materials [31142042279300]" type="box">3</container>
+              <container id="aspace_152b18ed12c9410d44326d14fcc4a18b" parent="aspace_73993c19099011ba232f616fe0d346dd" type="folder">4</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref57" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Subseries VI: Professions and Their Prospects</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref58" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_55e47668130f2850c08054cf9b67cf22" label="Mixed Materials [31142042279300]" type="box">3</container>
+              <container id="aspace_b10dbca9b0d3fb8afc57addb06443033" parent="aspace_55e47668130f2850c08054cf9b67cf22" type="folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref59" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_321dade6806b07ea4d56ec46a922273a" label="Mixed Materials [31142042279300]" type="box">3</container>
+              <container id="aspace_7b9995b85c97ef3bcb0fce8817d378a9" parent="aspace_321dade6806b07ea4d56ec46a922273a" type="folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref60" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1972/1979" type="inclusive">1972-1979</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_95a611bc48db615bc1e840ad4622321e" label="Mixed Materials [31142042279300]" type="box">3</container>
+              <container id="aspace_78117841c6269dd393114738df7e40a1" parent="aspace_95a611bc48db615bc1e840ad4622321e" type="folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref61" level="file">
+            <did>
+              <unittitle>Publication Material</unittitle>
+              <unitdate normal="1971/1979" type="inclusive">1971-1979</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_3a204e48f09e7abad3f6ba87ee7b4f6b" label="Mixed Materials [31142042279300]" type="box">3</container>
+              <container id="aspace_fb39d073d0dfd1782371d1e31f42ad87" parent="aspace_3a204e48f09e7abad3f6ba87ee7b4f6b" type="folder">8</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Subseries VII: Professional Dominance</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref63" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1969/1990" type="inclusive">1969-1990</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_1779ac56ef599a8d98dc3f2643bb9825" label="Mixed Materials [31142042279300]" type="box">3</container>
+              <container id="aspace_f3629ca09bd608635fc700a37bdc08e8" parent="aspace_1779ac56ef599a8d98dc3f2643bb9825" type="folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref64" level="file">
+            <did>
+              <unittitle>Reviews and Promotional Material</unittitle>
+              <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_3e909a59e4ff5907a979a4f5ec7df7e7" label="Mixed Materials [31142042279300]" type="box">3</container>
+              <container id="aspace_5d5edbc72bacc6339cd84cf3e472484d" parent="aspace_3e909a59e4ff5907a979a4f5ec7df7e7" type="folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref65" level="file">
+            <did>
+              <unittitle>Royalties</unittitle>
+              <unitdate normal="1974/1986" type="inclusive">1974-1986</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_5ca1d1bcf5eccc2a93f09159fa02e63b" label="Mixed Materials [31142042279300]" type="box">3</container>
+              <container id="aspace_f9b5639605ef801d41c66c44fc276ed7" parent="aspace_5ca1d1bcf5eccc2a93f09159fa02e63b" type="folder">11</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref66" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Subseries VIII: Professional Ethics</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref67" level="file">
+            <did>
+              <unittitle>Notes</unittitle>
+              <unitdate>undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_e3240689112212d1a52acfa32b3b488e" label="Mixed Materials [31142042279300]" type="box">3</container>
+              <container id="aspace_dd218bcf447b7b506f8392d02e584eb5" parent="aspace_e3240689112212d1a52acfa32b3b488e" type="folder">12</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref68" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Subseries IX: Professional Powers</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref69" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_faa8f6c2c4d0f2b24bdab34aace51e69" label="Mixed Materials [31142042279300]" type="box">3</container>
+              <container id="aspace_3570c2c200ef3157a589f2b4573bd9e9" parent="aspace_faa8f6c2c4d0f2b24bdab34aace51e69" type="folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref70" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_dd8f0943f52121bcb422de5792625030" label="Mixed Materials [31142042279318]" type="box">4</container>
+              <container id="aspace_4b7c25ce8b8a7b18767544bc82192b3e" parent="aspace_dd8f0943f52121bcb422de5792625030" type="folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref71" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1986/1988" type="inclusive">1986-1988</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_7cfc884c44acbe8bdbfd73355ed8ef1a" label="Mixed Materials [31142042279318]" type="box">4</container>
+              <container id="aspace_d629686e7d216677132f67e2bf713194" parent="aspace_7cfc884c44acbe8bdbfd73355ed8ef1a" type="folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref72" level="file">
+            <did>
+              <unittitle>Reviews and Promotional Materials</unittitle>
+              <unitdate normal="1986/1989" type="inclusive">1986-1989</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_c75885dc7dba6cf336d4a8601af71b70" label="Mixed Materials [31142042279318]" type="box">4</container>
+              <container id="aspace_3b29f5516c8315bc55d4996b4baebf06" parent="aspace_c75885dc7dba6cf336d4a8601af71b70" type="folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref73" level="file">
+            <did>
+              <unittitle>Notes, Drafts, Etc</unittitle>
+              <unitdate normal="1981/1989" type="inclusive">1981-1989</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_b826d90c63ceb7aeb6ce1415602ad652" label="Mixed Materials [31142042279318]" type="box">4</container>
+              <container id="aspace_65559f5262297395fdbf782f82204ebb" parent="aspace_b826d90c63ceb7aeb6ce1415602ad652" type="folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref74" level="file">
+            <did>
+              <unittitle>Lecture Notes</unittitle>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_dce000ac92d1b121209888f52ae090af" label="Mixed Materials [31142042279318]" type="box">4</container>
+              <container id="aspace_de585509170d333cae306951d7932655" parent="aspace_dce000ac92d1b121209888f52ae090af" type="folder">5</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref75" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Subseries X: Professsionalism: The Third Logic</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref76" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1995/1999" type="inclusive">1995-1999</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_132f4cb80f6d0f98be37b8bc6df1ace7" label="Mixed Materials [31142042279318]" type="box">4</container>
+              <container id="aspace_b1ba144b0aa6f67dfe56baf96943633e" parent="aspace_132f4cb80f6d0f98be37b8bc6df1ace7" type="folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref77" level="file">
+            <did>
+              <unittitle>Notes</unittitle>
+              <unitdate>ca. 1995-1999</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_4b4f5c31f43a3e83ca6eba2ec6c5ca5f" label="Mixed Materials [31142042279318]" type="box">4</container>
+              <container id="aspace_5cec99f97d82bbde0011b9dd64b07d9b" parent="aspace_4b4f5c31f43a3e83ca6eba2ec6c5ca5f" type="folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref78" level="file">
+            <did>
+              <unittitle>Drafts</unittitle>
+              <unitdate>ca. 1995-1999</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_a63be2c92c73b424cdacd33ed8e37082" label="Mixed Materials [31142042279318]" type="box">4</container>
+              <container id="aspace_31148438f72f41a879bbe0704005db73" parent="aspace_a63be2c92c73b424cdacd33ed8e37082" type="folder">8</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref79" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Subseries XI: Professionalism Reborn</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref80" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1987/1992" type="inclusive">1987-1992</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_4efeffe61bb48f6ebe2f2503883d273b" label="Mixed Materials [31142042279318]" type="box">4</container>
+              <container id="aspace_d4afd2341c1c1aaedf59c227e22fcea7" parent="aspace_4efeffe61bb48f6ebe2f2503883d273b" type="folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref81" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_8c74bc92b8f57a5ec2663095c07e0021" label="Mixed Materials [31142042279318]" type="box">4</container>
+              <container id="aspace_98413fbc09483e1b7e6bc20c01bd537a" parent="aspace_8c74bc92b8f57a5ec2663095c07e0021" type="folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref82" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1993/1993" type="inclusive">Aug-93 , Dec-93</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_48d12e540c837d14ecd6a4fc08d0cc51" label="Mixed Materials [31142042279318]" type="box">4</container>
+              <container id="aspace_cefeb200198c2efc8094f3a13cfdb749" parent="aspace_48d12e540c837d14ecd6a4fc08d0cc51" type="folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref83" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate normal="1994/1996" type="inclusive">1994-1996</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_1d0d2e7bbd022f4cd3f71d006e43f477" label="Mixed Materials [31142042279326]" type="box">5</container>
+              <container id="aspace_4c2b35480334f417bc3d635c82c395ed" parent="aspace_1d0d2e7bbd022f4cd3f71d006e43f477" type="folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref84" level="file">
+            <did>
+              <unittitle>Reviews and Promotional Materials</unittitle>
+              <unitdate normal="1994/1995" type="inclusive">1994-1995</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_25eb6ba1f299397f12ce3880cf4ecd4d" label="Mixed Materials [31142042279326]" type="box">5</container>
+              <container id="aspace_7217f12f956333cd350f7ea9b6dd9976" parent="aspace_25eb6ba1f299397f12ce3880cf4ecd4d" type="folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref85" level="file">
+            <did>
+              <unittitle>Drafts</unittitle>
+              <unitdate normal="1987/1992" type="inclusive">1987-1992</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_dfbcd7690f456529e20d03fa042eae9c" label="Mixed Materials [31142042279326]" type="box">5</container>
+              <container id="aspace_226f2e16e2bbb2d096b141da536780b5" parent="aspace_dfbcd7690f456529e20d03fa042eae9c" type="folder">3</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref86" level="series">
+        <did>
+          <unittitle>Series III: Course Materials</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Deviance</unittitle>
+            <unitdate normal="1966/1970" type="inclusive">1966-1970</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_805a8a567395f7d72987496ca4c06d10" label="Mixed Materials [31142042279326]" type="box">5</container>
+            <container id="aspace_c22016cac34e1fa70d3c08d2431117fc" parent="aspace_805a8a567395f7d72987496ca4c06d10" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Field Methods, 1 of 4</unittitle>
+            <unitdate normal="1982/1992" type="inclusive">1982-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_4ef59f7b628b0dee9a10df0acf3c1a41" label="Mixed Materials [31142042279326]" type="box">5</container>
+            <container id="aspace_def78f5cde3d4f0003ee5feb09f4c763" parent="aspace_4ef59f7b628b0dee9a10df0acf3c1a41" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Field Methods, 2 of 4</unittitle>
+            <unitdate normal="1980/1992" type="inclusive">1980-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_72c1144b7a68268712c10388c9601c56" label="Mixed Materials [31142042279326]" type="box">5</container>
+            <container id="aspace_84c468a6908f8370f90bbef4e3c14adb" parent="aspace_72c1144b7a68268712c10388c9601c56" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Field Methods, 3 of 4</unittitle>
+            <unitdate normal="1961/1982" type="inclusive">1961-1982</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_7514903ff09938170cdf6481a45e3f65" label="Mixed Materials [31142042279326]" type="box">5</container>
+            <container id="aspace_d657bd77d8a1df851ebc03d284cf917e" parent="aspace_7514903ff09938170cdf6481a45e3f65" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Field Methods, 4 of 4</unittitle>
+            <unitdate normal="1970/1988" type="inclusive">1970-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_65e8da68333ca490ffeeb39809df0dbc" label="Mixed Materials [31142042279326]" type="box">5</container>
+            <container id="aspace_0f80fdb778547c0b59f540e88732a9f1" parent="aspace_65e8da68333ca490ffeeb39809df0dbc" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Industrial Sociology</unittitle>
+            <unitdate normal="1967/1974" type="inclusive">1967-1974</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_24f34c9de0ce91261707b5fc885a9d71" label="Mixed Materials [31142042279326]" type="box">5</container>
+            <container id="aspace_4702fcc2471c559ac8bf5900f07a93c3" parent="aspace_24f34c9de0ce91261707b5fc885a9d71" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Occupations and Professions, 1 of 4</unittitle>
+            <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_759ec1d092e0c356a31de97e1a0d0ec0" label="Mixed Materials [31142042279326]" type="box">5</container>
+            <container id="aspace_4a8edacc40402d9e887fb1ed642a6dcb" parent="aspace_759ec1d092e0c356a31de97e1a0d0ec0" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Occupations and Professions, 2 of 4</unittitle>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_2194cb8effac6aa2acd8d7824879e597" label="Mixed Materials [31142042279276]" type="box">6</container>
+            <container id="aspace_e28665ed08e639e341e8357f7fc10858" parent="aspace_2194cb8effac6aa2acd8d7824879e597" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Occupations and Professions, 3 of 4</unittitle>
+            <unitdate normal="1962/1987" type="inclusive">1962-1987</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_f6189d025e81174d23eeb17c0d7f1974" label="Mixed Materials [31142042279276]" type="box">6</container>
+            <container id="aspace_5a4f528b99a30649ef0cad1b604f05f7" parent="aspace_f6189d025e81174d23eeb17c0d7f1974" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Occupations and Professions, 4 of 4</unittitle>
+            <unitdate normal="1972/1992" type="inclusive">1972-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_e4956576a144ce2a496a348cc538e738" label="Mixed Materials [31142042279276]" type="box">6</container>
+            <container id="aspace_66c6a4a9a41c7282ce76a15ea3e2bb06" parent="aspace_e4956576a144ce2a496a348cc538e738" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Occupations and Professions [Graduate], 1 of 2</unittitle>
+            <unitdate normal="1958/1988" type="inclusive">1958-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_de899516153282480dca1a0e1f610aea" label="Mixed Materials [31142042279276]" type="box">6</container>
+            <container id="aspace_25f6a43387a4e8593ad1a602aedf7682" parent="aspace_de899516153282480dca1a0e1f610aea" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Occupations and Professions [Graduate], 2 of 2</unittitle>
+            <unitdate normal="1981/1992" type="inclusive">1981-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_574ab4de3763168594f1977dfad453e3" label="Mixed Materials [31142042279276]" type="box">6</container>
+            <container id="aspace_f12a7099d1f41c084b1e2a5fcdf0b9a4" parent="aspace_574ab4de3763168594f1977dfad453e3" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Organizations</unittitle>
+            <unitdate normal="1965/1972" type="inclusive">1965-1972</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_52f8807403b66dafe4e1e742ca37d2e7" label="Mixed Materials [31142042279276]" type="box">6</container>
+            <container id="aspace_65e09302865080d5166c950f157a5533" parent="aspace_52f8807403b66dafe4e1e742ca37d2e7" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Social Communication</unittitle>
+            <unitdate normal="1953/1963" type="inclusive">1953-1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_1c2fe8ed0d8dc2080e951b3dd9be8509" label="Mixed Materials [31142042279276]" type="box">6</container>
+            <container id="aspace_b14479fe5fd9beb58530182e12c65523" parent="aspace_1c2fe8ed0d8dc2080e951b3dd9be8509" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Sociology of Knowledge, 1 of 2</unittitle>
+            <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_10da9910c7d259e5e78710a8d6d35066" label="Mixed Materials [31142042279276]" type="box">6</container>
+            <container id="aspace_50a7432971f4ac95c76be07a0ba948d0" parent="aspace_10da9910c7d259e5e78710a8d6d35066" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Sociology of Knowledge, 2 of 2</unittitle>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_71c21a0a91c79798ea5486f8455ed951" label="Mixed Materials [31142042279276]" type="box">6</container>
+            <container id="aspace_cc247c339e6b7a803a625c51846514d6" parent="aspace_71c21a0a91c79798ea5486f8455ed951" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>Sociology of the Legal Profession</unittitle>
+            <unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_c43a9b41b976664dc0c676e9f81cc102" label="Mixed Materials [31142042279268]" type="box">7</container>
+            <container id="aspace_4ca8246bea3b69baae3572eb78fea84b" parent="aspace_c43a9b41b976664dc0c676e9f81cc102" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>Sociology of the Medicine, 1 of 3</unittitle>
+            <unitdate normal="1959/1975" type="inclusive">1959-1975</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_461b60e3663f2ef8c3174c2c1fdf1bf8" label="Mixed Materials [31142042279268]" type="box">7</container>
+            <container id="aspace_2a9feced0f2330afca75201ec9772a4e" parent="aspace_461b60e3663f2ef8c3174c2c1fdf1bf8" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Sociology of the Medicine, 2 of 3</unittitle>
+            <unitdate normal="1969/1974" type="inclusive">1969-1974</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_2493ef1490cbfce97756568a12669f4a" label="Mixed Materials [31142042279268]" type="box">7</container>
+            <container id="aspace_d7f4783473c82aa25eb8be76fca94e27" parent="aspace_2493ef1490cbfce97756568a12669f4a" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Sociology of the Medicine, 3 of 3</unittitle>
+            <unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_8b7f2eeefef5dad296b4cc09928a1413" label="Mixed Materials [31142042279268]" type="box">7</container>
+            <container id="aspace_cfddc3893333995bed500eb3fccb3f39" parent="aspace_8b7f2eeefef5dad296b4cc09928a1413" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Sociology of New York Performance</unittitle>
+            <unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_66b932cdfaa86186220c28d63e6552c3" label="Mixed Materials [31142042279268]" type="box">7</container>
+            <container id="aspace_40cfa27fcfdd0f32cd39fb184dd7fabb" parent="aspace_66b932cdfaa86186220c28d63e6552c3" type="folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref108" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Series IV: Subject Files</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Department of Sociology Business</unittitle>
+            <unitdate normal="1976/1988" type="inclusive">1976-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_8f5cefabaa58aba70ae3f31aa596a62e" label="Mixed Materials [31142042279268]" type="box">7</container>
+            <container id="aspace_399b91bc2eaa883fe06e4c7d17f611b5" parent="aspace_8f5cefabaa58aba70ae3f31aa596a62e" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Eastern Sociological Society</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_1313432234e6f91f7a9fefc1b21a9aa5" label="Mixed Materials [31142042279268]" type="box">7</container>
+            <container id="aspace_9686e521dcebf8e5901fb7c40237e214" parent="aspace_1313432234e6f91f7a9fefc1b21a9aa5" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Manuscripts, 1 of 3</unittitle>
+            <unitdate normal="1955/1959" type="inclusive">1955-1959</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_1506baed8e47a6b0daf934d71fbeae68" label="Mixed Materials [31142042279268]" type="box">7</container>
+            <container id="aspace_e2dcef398ef34bc0e917fb4aeea941bd" parent="aspace_1506baed8e47a6b0daf934d71fbeae68" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Manuscripts, 2 of 3</unittitle>
+            <unitdate normal="1957/1962" type="inclusive">1957-1962</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_053c2c0c337f17c66cf7ed4048394d20" label="Mixed Materials [31142042279268]" type="box">7</container>
+            <container id="aspace_d6acf21e42186a583cdc0866108ae007" parent="aspace_053c2c0c337f17c66cf7ed4048394d20" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>Manuscripts, 3 of 3</unittitle>
+            <unitdate normal="1947/1977" type="inclusive">1947-1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_261993c24e96cf7d3671e7530aa3678d" label="Mixed Materials [31142042279268]" type="box">7</container>
+            <container id="aspace_9afa54db85b4a03e6cb19fcbcbc7113f" parent="aspace_261993c24e96cf7d3671e7530aa3678d" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Obituaries and Memorial Articles</unittitle>
+            <unitdate normal="2006/2006" type="inclusive">2006</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_01c696bd590784e6de314d36bfc7ee64" label="Mixed Materials [31142042279268]" type="box">7</container>
+            <container id="aspace_5f1974af6d967e7243ba864328ac4a40" parent="aspace_01c696bd590784e6de314d36bfc7ee64" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Personal [Army Records]</unittitle>
+            <unitdate normal="1941/1953" type="inclusive">1941-1953</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_15b4c8b54e7b5cd15356f1dbf3d67fe8" label="Mixed Materials [31142042279268]" type="box">7</container>
+            <container id="aspace_2641b580162cac519a63772a714ff49a" parent="aspace_15b4c8b54e7b5cd15356f1dbf3d67fe8" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Retirement, etc</unittitle>
+            <unitdate normal="1993/1998" type="inclusive">1993-1998</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_edc711a40c0f05f30499f7bc58a3a32e" label="Mixed Materials [31142042279250]" type="box">8</container>
+            <container id="aspace_f5d1a8dd2e72731072d29b78f6174b1d" parent="aspace_edc711a40c0f05f30499f7bc58a3a32e" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Speeches, Misc., 1 of 5</unittitle>
+            <unitdate normal="1967/1999" type="inclusive">1967-1999</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_b0709df433b15875cae13c881d329de8" label="Mixed Materials [31142042279250]" type="box">8</container>
+            <container id="aspace_f7e3276bdbd45ebba2087c351b5b0f80" parent="aspace_b0709df433b15875cae13c881d329de8" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Speeches, Misc., 2 of 5</unittitle>
+            <unitdate normal="1969/1991" type="inclusive">1969-1991</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_d270abeedf3192cb48ca6f68530fd182" label="Mixed Materials [31142042279250]" type="box">8</container>
+            <container id="aspace_c8d7df115631872164ec32879894b593" parent="aspace_d270abeedf3192cb48ca6f68530fd182" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Speeches, Misc., 3 of 5</unittitle>
+            <unitdate normal="1972/1980" type="inclusive">1972-1980</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_0ca2a567cc165e2deb08cfb17009c72a" label="Mixed Materials [31142042279250]" type="box">8</container>
+            <container id="aspace_176adfe05f80db2961043e6ac1890504" parent="aspace_0ca2a567cc165e2deb08cfb17009c72a" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Speeches, Misc., 4 of 5</unittitle>
+            <unitdate normal="1975/1986" type="inclusive">1975-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_ea4b2e61dc540a005fae42975d8c0757" label="Mixed Materials [31142042279250]" type="box">8</container>
+            <container id="aspace_468f0a0a64804636cf18d1ee86c146e2" parent="aspace_ea4b2e61dc540a005fae42975d8c0757" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>Speeches, Misc., 5 of 5</unittitle>
+            <unitdate normal="1978/1982" type="inclusive">1978-1982</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_5b2fb45938ce15b9958ef0dfa799b01b" label="Mixed Materials [31142042279250]" type="box">8</container>
+            <container id="aspace_176af33d9c47ef911ac107321207e6fd" parent="aspace_5b2fb45938ce15b9958ef0dfa799b01b" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>Talks and Lectures, 1 of 2</unittitle>
+            <unitdate normal="1980/1987" type="inclusive">1980-1987</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_e4e64ea94bd6241a100c40a847ac4863" label="Mixed Materials [31142042279250]" type="box">8</container>
+            <container id="aspace_89d404def4ef36780251eb6cfd86143b" parent="aspace_e4e64ea94bd6241a100c40a847ac4863" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>Talks and Lectures, 2 of 2</unittitle>
+            <unitdate normal="1988/1992" type="inclusive">1988-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_04357f08565fce356c2f192c1d64a154" label="Mixed Materials [31142042279250]" type="box">8</container>
+            <container id="aspace_ee4ccec2074a79cfdc25887978898ce3" parent="aspace_04357f08565fce356c2f192c1d64a154" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>Translations of Poetry</unittitle>
+            <unitdate>undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_01d881f30b832c6cbd6a135156334ef3" label="Mixed Materials [31142042279250]" type="box">8</container>
+            <container id="aspace_1217de313daa3de66de826f0e40ec0b7" parent="aspace_01d881f30b832c6cbd6a135156334ef3" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>University of Chicago Papers</unittitle>
+            <unitdate normal="1948/1949" type="inclusive">1948-1949</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_a5489ac2e5a494ad0f62cb00bf6f3ee1" label="Mixed Materials [31142042279250]" type="box">8</container>
+            <container id="aspace_ae44b6e56f5523cc6aaf6df289a7302a" parent="aspace_a5489ac2e5a494ad0f62cb00bf6f3ee1" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref196" level="file">
+          <did>
+            <unittitle>3.5 inch floppy discs, entitled "Theory of Professionalism, 5/95" and "Fate of Knowledge, 5/95 + endnotes"</unittitle>
+            <unitdate>1995</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_ef69a50c7817fe36e8c3e2a966434d67" label="Mixed Materials [31142042279250]" type="box">8</container>
+            <container id="aspace_77a1c31ede4d11b670c4855e85102270" parent="aspace_ef69a50c7817fe36e8c3e2a966434d67" type="folder">11</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref126" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Series V: Articles</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>A</unittitle>
+            <unitdate normal="1981/1991" type="inclusive">1981-1991</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_5d456b0e8774298519ab0785df8da25c" label="Mixed Materials [31142042271778]" type="box">9</container>
+            <container id="aspace_a4ac1e760158c250431e9ae3bd9dfdf1" parent="aspace_5d456b0e8774298519ab0785df8da25c" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>B</unittitle>
+            <unitdate normal="1983/1996" type="inclusive">1983-1996</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_30b0700b62f0ec3c0be2febe53d59934" label="Mixed Materials [31142042271778]" type="box">9</container>
+            <container id="aspace_96562afd383b83082f318dcd9d9c14c7" parent="aspace_30b0700b62f0ec3c0be2febe53d59934" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>C</unittitle>
+            <unitdate normal="1983/1986" type="inclusive">1983-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_c440ec32c33b6442b77f7f4e912ed419" label="Mixed Materials [31142042271778]" type="box">9</container>
+            <container id="aspace_f4620b98695f9d9d1fe9d05bad22139d" parent="aspace_c440ec32c33b6442b77f7f4e912ed419" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="file">
+          <did>
+            <unittitle>D</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_a5defd0279262e2a3ca9391041d2a21b" label="Mixed Materials [31142042271778]" type="box">9</container>
+            <container id="aspace_85695c2a238b3446536b994b6fd95d8c" parent="aspace_a5defd0279262e2a3ca9391041d2a21b" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="file">
+          <did>
+            <unittitle>E</unittitle>
+            <unitdate normal="1982/2000" type="inclusive">1982-2000</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_5b5462ab73ded24ffb75f67af6f6ff7c" label="Mixed Materials [31142042271778]" type="box">9</container>
+            <container id="aspace_fa9e280587e8172bfe282f679a089f22" parent="aspace_5b5462ab73ded24ffb75f67af6f6ff7c" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle>F</unittitle>
+            <unitdate normal="1980/1993" type="inclusive">1980-1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_10e0416e292fa38ae5e448a04ecd42ce" label="Mixed Materials [31142042271778]" type="box">9</container>
+            <container id="aspace_d95da5da8c2bbf5478fe23616d6104be" parent="aspace_10e0416e292fa38ae5e448a04ecd42ce" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle>G</unittitle>
+            <unitdate normal="1979/1988" type="inclusive">1979-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_0eaccd419d307b701da74bf851fc3cb1" label="Mixed Materials [31142042271778]" type="box">9</container>
+            <container id="aspace_bbcc6b2c2cc538754f89ae350819c753" parent="aspace_0eaccd419d307b701da74bf851fc3cb1" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="file">
+          <did>
+            <unittitle>H</unittitle>
+            <unitdate normal="1999/2000" type="inclusive">1999-2000</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_9aaf1ccf61d6e26277928d5648bfa755" label="Mixed Materials [31142042271778]" type="box">9</container>
+            <container id="aspace_499492caf0baa34fec15952ca4f1d744" parent="aspace_9aaf1ccf61d6e26277928d5648bfa755" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="file">
+          <did>
+            <unittitle>J</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_7e6cce452f077a8e7d2bbc2551f8196d" label="Mixed Materials [31142042271778]" type="box">9</container>
+            <container id="aspace_f4ef7d95d42d9a554996286d2f3bfe3f" parent="aspace_7e6cce452f077a8e7d2bbc2551f8196d" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref136" level="file">
+          <did>
+            <unittitle>K</unittitle>
+            <unitdate normal="1985/1999" type="inclusive">1985-1999</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_d519c29d4071a3e9af70cef745005e62" label="Mixed Materials [31142042271778]" type="box">9</container>
+            <container id="aspace_9b59ee9c1f6df6d5342add8784f7b2fa" parent="aspace_d519c29d4071a3e9af70cef745005e62" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref137" level="file">
+          <did>
+            <unittitle>L</unittitle>
+            <unitdate normal="1972/1992" type="inclusive">1972-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_7f1f32462278fcf23ba544b81fc94ce7" label="Mixed Materials [31142042271778]" type="box">9</container>
+            <container id="aspace_45249a9fa536450bebae402b24edb40e" parent="aspace_7f1f32462278fcf23ba544b81fc94ce7" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="file">
+          <did>
+            <unittitle>M</unittitle>
+            <unitdate normal="1987/1999" type="inclusive">1987-1999</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_55eedb4c2e4803faa66b526af27245fb" label="Mixed Materials [31142042271778]" type="box">9</container>
+            <container id="aspace_1cb62ade7135380cdc080cb74a642ea4" parent="aspace_55eedb4c2e4803faa66b526af27245fb" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref139" level="file">
+          <did>
+            <unittitle>N</unittitle>
+            <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_1319c3eb8d4a8e45622da46d24cd48ad" label="Mixed Materials [31142042271778]" type="box">9</container>
+            <container id="aspace_f858c3f5cd5a489086db57368e52bb43" parent="aspace_1319c3eb8d4a8e45622da46d24cd48ad" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="file">
+          <did>
+            <unittitle>O</unittitle>
+            <unitdate normal="1978/1992" type="inclusive">1978-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_e46f7e22e447b34d090744f7935e2da3" label="Mixed Materials [31142042271778]" type="box">9</container>
+            <container id="aspace_51f9680963221c2587e3835ad2e2f915" parent="aspace_e46f7e22e447b34d090744f7935e2da3" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="file">
+          <did>
+            <unittitle>P</unittitle>
+            <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_7db255112df1f988ae66b58e113a3c60" label="Mixed Materials [31142042271760]" type="box">10</container>
+            <container id="aspace_439cbdafafb4d34acd77b71ad8be687e" parent="aspace_7db255112df1f988ae66b58e113a3c60" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref142" level="file">
+          <did>
+            <unittitle>R</unittitle>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_620b316eab5a25d0faa0412880e46190" label="Mixed Materials [31142042271760]" type="box">10</container>
+            <container id="aspace_eed99064eca1d033ec76ed12f7df3fd0" parent="aspace_620b316eab5a25d0faa0412880e46190" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref143" level="file">
+          <did>
+            <unittitle>S</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_5cea7990ab22df7bcc335e69c8fd187b" label="Mixed Materials [31142042271760]" type="box">10</container>
+            <container id="aspace_19b2b080ad7039c8c16acb1db610fd40" parent="aspace_5cea7990ab22df7bcc335e69c8fd187b" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref144" level="file">
+          <did>
+            <unittitle>T</unittitle>
+            <unitdate normal="1987/1995" type="inclusive">1987-1995</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_55291415310822f72b7a84870ca7de41" label="Mixed Materials [31142042271760]" type="box">10</container>
+            <container id="aspace_cf538e7e15048cd48af3f42b242c1a4f" parent="aspace_55291415310822f72b7a84870ca7de41" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref145" level="file">
+          <did>
+            <unittitle>V</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_2c0b4c049d1a0c5e51f5c27225923a12" label="Mixed Materials [31142042271760]" type="box">10</container>
+            <container id="aspace_3195ad9a5a9cef8dcb40a81e39b67281" parent="aspace_2c0b4c049d1a0c5e51f5c27225923a12" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref146" level="file">
+          <did>
+            <unittitle>W</unittitle>
+            <unitdate normal="1917/1995" type="inclusive">1917-1995</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_b7678357bfe5f57cb25b455fd2d36c77" label="Mixed Materials [31142042271760]" type="box">10</container>
+            <container id="aspace_9a6682a7eff40ef29ef2c3418a2b41e2" parent="aspace_b7678357bfe5f57cb25b455fd2d36c77" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref147" level="file">
+          <did>
+            <unittitle>XYZ</unittitle>
+            <unitdate normal="1980/1993" type="inclusive">1980-1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_3e132e0810c4fba3da5f635e56902eed" label="Mixed Materials [31142042271760]" type="box">10</container>
+            <container id="aspace_7c50be2d139cd8493ce89c9acaa79b89" parent="aspace_3e132e0810c4fba3da5f635e56902eed" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref148" level="file">
+          <did>
+            <unittitle>Articles and Books of Interest</unittitle>
+            <unitdate normal="1979/1982" type="inclusive">1979-1982</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_f0e2250ad1bcec51101072f596b0c026" label="Mixed Materials [31142042271760]" type="box">10</container>
+            <container id="aspace_fa49c1edd3848a494555af4caac2a976" parent="aspace_f0e2250ad1bcec51101072f596b0c026" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref149" level="file">
+          <did>
+            <unittitle>Articles and Books of Interest</unittitle>
+            <unitdate normal="1986/1990" type="inclusive">1986-1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_aa58bd455056980e770dc555e2ca134d" label="Mixed Materials [31142042271760]" type="box">10</container>
+            <container id="aspace_0ae353d17f59ba4e0618ad85fff1d577" parent="aspace_aa58bd455056980e770dc555e2ca134d" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref150" level="file">
+          <did>
+            <unittitle>Articles and Books of Interest</unittitle>
+            <unitdate normal="1986/1995" type="inclusive">1986-1995</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_4212e49c01df55eb0831f6d75978c29f" label="Mixed Materials [31142042271760]" type="box">10</container>
+            <container id="aspace_efd6b5b3c60c63799d691f80f0640194" parent="aspace_4212e49c01df55eb0831f6d75978c29f" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref151" level="file">
+          <did>
+            <unittitle>Articles and Books of Interest</unittitle>
+            <unitdate normal="1993/2001" type="inclusive">1993-2001</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_85bb547461d8ef7d02d0c667132cf0a1" label="Mixed Materials [31142042271760]" type="box">10</container>
+            <container id="aspace_c5dc6477d338bab34f2c3aba6cb99287" parent="aspace_85bb547461d8ef7d02d0c667132cf0a1" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref152" level="file">
+          <did>
+            <unittitle>Ethical Codes</unittitle>
+            <unitdate normal="1988/1995" type="inclusive">1988-1995</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_79196935019c8e0e65c5bdd4029ea911" label="Mixed Materials [31142042271737]" type="box">11</container>
+            <container id="aspace_35c4f197d489b5fbf41f48050dae2725" parent="aspace_79196935019c8e0e65c5bdd4029ea911" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref153" level="file">
+          <did>
+            <unittitle>The Fate of Knowledge, Source Material, France</unittitle>
+            <unitdate normal="1972/1991" type="inclusive">1972-1991</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_72f74a192b0a37aec01c2d7f1533c670" label="Mixed Materials [31142042271737]" type="box">11</container>
+            <container id="aspace_0e784b5298f9f4686286888eda89c91b" parent="aspace_72f74a192b0a37aec01c2d7f1533c670" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref154" level="file">
+          <did>
+            <unittitle>The Fate of Knowledge, Source Material, France</unittitle>
+            <unitdate normal="1983/1983">1983</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_e8e485c255b4048599a0c4447308be21" label="Mixed Materials [31142042271737]" type="box">11</container>
+            <container id="aspace_0a8b6a36821bfc6da5cb27379e964185" parent="aspace_e8e485c255b4048599a0c4447308be21" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref155" level="file">
+          <did>
+            <unittitle>The Fate of Knowledge, Source Material, Germany</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_4f3de60e7e9b92af3d3a786bf50c18ce" label="Mixed Materials [31142042271737]" type="box">11</container>
+            <container id="aspace_a4d92a6606c9d94ac7797ef095a791aa" parent="aspace_4f3de60e7e9b92af3d3a786bf50c18ce" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref156" level="file">
+          <did>
+            <unittitle>The Fate of Knowledge, Source Material, Russia</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_e7920c1f3414aa5f431e2f853d3a4088" label="Mixed Materials [31142042271737]" type="box">11</container>
+            <container id="aspace_09496ba6ca537b9f1bb709b0c4b66f17" parent="aspace_e7920c1f3414aa5f431e2f853d3a4088" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref157" level="file">
+          <did>
+            <unittitle>The Fate of Knowledge, Source Material, United Kingdom</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_1de3be8741eca68b6409894731b86497" label="Mixed Materials [31142042271737]" type="box">11</container>
+            <container id="aspace_0473e9c6bab54a03975ea88bc964d88c" parent="aspace_1de3be8741eca68b6409894731b86497" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref158" level="file">
+          <did>
+            <unittitle>The Fate of Knowledge, Source Material, United Kingdom</unittitle>
+            <unitdate normal="1980/1993" type="inclusive">1980-1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_0f03e7a7b3579ddcefd8ae92bfe684c0" label="Mixed Materials [31142042271737]" type="box">11</container>
+            <container id="aspace_6e2025ca2c60290eef97c38a3b3a49a4" parent="aspace_0f03e7a7b3579ddcefd8ae92bfe684c0" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref159" level="file">
+          <did>
+            <unittitle>The Fate of Knowledge, Source Material, United States</unittitle>
+            <unitdate normal="1982/1986" type="inclusive">1982-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_77df0ee5eea17db78c9b886b534ec8ee" label="Mixed Materials [31142042271737]" type="box">11</container>
+            <container id="aspace_378f5b63a042f70321e06b063e63d001" parent="aspace_77df0ee5eea17db78c9b886b534ec8ee" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref160" level="file">
+          <did>
+            <unittitle>The Fate of Knowledge, Source Material, Comparative</unittitle>
+            <unitdate normal="1985/1992" type="inclusive">1985-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_b2fb33b3449b66d33c34fb84698ab22b" label="Mixed Materials [31142042271737]" type="box">11</container>
+            <container id="aspace_277c609a5e773c73bea4e9c7d98cf251" parent="aspace_b2fb33b3449b66d33c34fb84698ab22b" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref161" level="file">
+          <did>
+            <unittitle>Intellectual Property, 1 of 3</unittitle>
+            <unitdate normal="1972/2002" type="inclusive">1972-2002</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_00c0ff1aef230dbc628a79adfb42c0af" label="Mixed Materials [31142042271752]" type="box">12</container>
+            <container id="aspace_8eb94136e6758fbf8877ed38eb278e46" parent="aspace_00c0ff1aef230dbc628a79adfb42c0af" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref162" level="file">
+          <did>
+            <unittitle>Intellectual Property, 2 of 3</unittitle>
+            <unitdate normal="1984/1993" type="inclusive">1984-1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_388516a69f8d5f8324831710bcce13d2" label="Mixed Materials [31142042271752]" type="box">12</container>
+            <container id="aspace_2985df2b7efec87c8b99a5e142d4be38" parent="aspace_388516a69f8d5f8324831710bcce13d2" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref163" level="file">
+          <did>
+            <unittitle>Intellectual Property, 3 of 3</unittitle>
+            <unitdate normal="1982/1990" type="inclusive">1982-1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_94ad46f64effff09853a81431b90a2ce" label="Mixed Materials [31142042271752]" type="box">12</container>
+            <container id="aspace_da9c4f528ac8b0e9cf088746d0acc45d" parent="aspace_94ad46f64effff09853a81431b90a2ce" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref164" level="file">
+          <did>
+            <unittitle>Professional Ethics</unittitle>
+            <unitdate normal="1888/1995" type="inclusive">1888-1995</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_d573e6e49058d1b0853b2f2362d58012" label="Mixed Materials [31142042271752]" type="box">12</container>
+            <container id="aspace_542283f06eeaa03ef604b6e224aca3a4" parent="aspace_d573e6e49058d1b0853b2f2362d58012" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref165" level="file">
+          <did>
+            <unittitle>Professional Ethics</unittitle>
+            <unitdate normal="1957/1997" type="inclusive">1957-1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_4b3c8d8c298d0ec3333fdfab4dc5ee1b" label="Mixed Materials [31142042271752]" type="box">12</container>
+            <container id="aspace_268279d8ec606578eb068ac980dae824" parent="aspace_4b3c8d8c298d0ec3333fdfab4dc5ee1b" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref166" level="file">
+          <did>
+            <unittitle>Professionalism: The Third Logic</unittitle>
+            <unitdate normal="1964/1991" type="inclusive">1964-1991</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_73cef243349ffab1f9d5fd93db4ca168" label="Mixed Materials [31142042271752]" type="box">12</container>
+            <container id="aspace_cd452a5d1cf1161cce2173bd617c3d7c" parent="aspace_73cef243349ffab1f9d5fd93db4ca168" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref167" level="file">
+          <did>
+            <unittitle>Professionalism: The Third Logic</unittitle>
+            <unitdate normal="1971/1986" type="inclusive">1971-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_2c17eec26fdf086bce5e72cd57d45706" label="Mixed Materials [31142042271752]" type="box">12</container>
+            <container id="aspace_a77e24871ef2b998878953d009057ea6" parent="aspace_2c17eec26fdf086bce5e72cd57d45706" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref168" level="file">
+          <did>
+            <unittitle>Professionalism: The Third Logic</unittitle>
+            <unitdate normal="1974/1990" type="inclusive">1974-1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_dab58f71ace718892cc432b9ca8b8b6f" label="Mixed Materials [31142042271752]" type="box">12</container>
+            <container id="aspace_3e0c9ccfc7124df1383210eb0160d69e" parent="aspace_dab58f71ace718892cc432b9ca8b8b6f" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref169" level="file">
+          <did>
+            <unittitle>Professionalism: The Third Logic</unittitle>
+            <unitdate normal="1972/1992" type="inclusive">1972-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_f0f57b920e26e65a00658612ff0b35c2" label="Mixed Materials [31142042271745]" type="box">13</container>
+            <container id="aspace_93380e07508fd9c44db40ed229ab45eb" parent="aspace_f0f57b920e26e65a00658612ff0b35c2" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref170" level="file">
+          <did>
+            <unittitle>Reprint Journals</unittitle>
+            <unitdate>undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_dcd6ee46e0cc7a7f65e2821ee5f3028f" label="Mixed Materials [31142042271745]" type="box">13</container>
+            <container id="aspace_22bcb670f06a2d4c3343c1f15af7c7ba" parent="aspace_dcd6ee46e0cc7a7f65e2821ee5f3028f" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref171" level="file">
+          <did>
+            <unittitle>Reprint Journals</unittitle>
+            <unitdate normal="1953/1958" type="inclusive">1953-1958</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_bd4d85b7e780e45b251fd5041d664c18" label="Mixed Materials [31142042271745]" type="box">13</container>
+            <container id="aspace_a33a9ad62cbfdf63909b846ee45c8410" parent="aspace_bd4d85b7e780e45b251fd5041d664c18" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref172" level="file">
+          <did>
+            <unittitle>Reprint Journals</unittitle>
+            <unitdate normal="1960/1968" type="inclusive">1960-1968</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_a62012acb7ee80d9b3473e9e25ca4e2f" label="Mixed Materials [31142042271745]" type="box">13</container>
+            <container id="aspace_f1198d5213218b02a0404d8f34f53c9f" parent="aspace_a62012acb7ee80d9b3473e9e25ca4e2f" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref173" level="file">
+          <did>
+            <unittitle>Reprint Journals</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970-1979</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_119631071d777351084ae029a47af16e" label="Mixed Materials [31142042271745]" type="box">13</container>
+            <container id="aspace_dee32f14313b52900ff2adf7ecc4dd18" parent="aspace_119631071d777351084ae029a47af16e" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref174" level="file">
+          <did>
+            <unittitle>Reprint Journals</unittitle>
+            <unitdate normal="1981/1985" type="inclusive">1981-1985</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_9b62e73d8e53b2e44d17074931fb50fd" label="Mixed Materials [31142042271745]" type="box">13</container>
+            <container id="aspace_c3b45c76c20e60632e765933f39177f1" parent="aspace_9b62e73d8e53b2e44d17074931fb50fd" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref175" level="file">
+          <did>
+            <unittitle>Reprint Journals</unittitle>
+            <unitdate normal="1986/1989" type="inclusive">1986-1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_faea8a1206514ace8c34d55cef19e68c" label="Mixed Materials [31142042271745]" type="box">13</container>
+            <container id="aspace_746c83fcb9783c9358c08ebd07c523ee" parent="aspace_faea8a1206514ace8c34d55cef19e68c" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref176" level="file">
+          <did>
+            <unittitle>Reprint Journals</unittitle>
+            <unitdate normal="1992/2002" type="inclusive">1992-2002</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_f34ed029c8d28d016fc9ae58af8ddf97" label="Mixed Materials [31142042271745]" type="box">13</container>
+            <container id="aspace_f34d41ea6fe7bfc881740e38feda5394" parent="aspace_f34ed029c8d28d016fc9ae58af8ddf97" type="folder">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref187" level="series">
+        <did>
+          <unittitle>Series VI: Published Materials</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref188" level="file">
+          <did>
+            <unittitle>"Physicians in Large Medical Groups: A Preliminary Report", with Buford Rhea, in "Medical Care Research", ed. K.L. White</unittitle>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_dae2705300760c74126d8990fb6f1b90" label="Mixed Materials [31142046885870]" type="box">14</container>
+            <container id="aspace_1a93257cfbfa97bcd30a183b82639517" parent="aspace_dae2705300760c74126d8990fb6f1b90" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref189" level="file">
+          <did>
+            <unittitle>Notes by Freidson in "Essays on the New Working Class" by Serge Mallet, trans. Dick Howard and Dean Savage</unittitle>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_2d36da891163af23740cdbf00dee1b70" label="Mixed Materials [31142046885870]" type="box">14</container>
+            <container id="aspace_9188d885a4a4646d4d34e0f6c56734e5" parent="aspace_2d36da891163af23740cdbf00dee1b70" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref190" level="file">
+          <did>
+            <unittitle>"Response: Societal Commitment to Equity: Role of the Medical Care Provider", in "Implications of Guaranteeing Medical Care: Papers and Commentary from Annual Meeting", National Academy of Sciences, ed. Joseph G. Peprich (includes note)</unittitle>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_616925280c78fd2c4eed52a9d7efba7c" label="Mixed Materials [31142046885870]" type="box">14</container>
+            <container id="aspace_18938b8b2930f82a563a98ea5cb9e19b" parent="aspace_616925280c78fd2c4eed52a9d7efba7c" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref191" level="file">
+          <did>
+            <unittitle>"Rechtsschutz fur Sozialforschung - Kriterien zum Definition", in "Forschung in Konflikt mit Recht und Ethik", eds. Albin Eser and Karl F. Schumann</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_825e94bed0b907492fa79ffbce8ae694" label="Mixed Materials [31142046885870]" type="box">14</container>
+            <container id="aspace_26f39fd72d484743b3f2276c7af1332e" parent="aspace_825e94bed0b907492fa79ffbce8ae694" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref192" level="file">
+          <did>
+            <unittitle>"Relations between Physicians in an Organized Form of Practice", in "Sante, Medecine et Sociologie", Colloque International de Sociologie Medical (portions drawn from book "Doctoring Together", 1976)</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_a63da05ad8561853f41bae33099aee6e" label="Mixed Materials [31142046885870]" type="box">14</container>
+            <container id="aspace_1d01f94f1aa09b0292ff7a3598debf5d" parent="aspace_a63da05ad8561853f41bae33099aee6e" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref193" level="file">
+          <did>
+            <unittitle>"Nourishing Professionalism", in "Ethics, Trust, and the Professions: Philosophical and Cultural Aspects", eds. E. Pellegrino, R. Veatch, and J. Langan</unittitle>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_4eab590e5f90d559c50dc339cebc7fca" label="Mixed Materials [31142046885870]" type="box">14</container>
+            <container id="aspace_fcc1b2ab719bd56f128ff6ca0be2d0df" parent="aspace_4eab590e5f90d559c50dc339cebc7fca" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref194" level="file">
+          <did>
+            <unittitle>"Professionalism: The Third Logic", by Eliot Freidson, Korean translation</unittitle>
+            <unitdate>2007</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_b02d7a5ff60fc0da1085dc22025fcedb" label="Mixed Materials [31142046885870]" type="box">14</container>
+            <container id="aspace_070c1ed92ecabc5a0b10b64a963c28d9" parent="aspace_b02d7a5ff60fc0da1085dc22025fcedb" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref195" level="file">
+          <did>
+            <unittitle>Journal of Health Politics, Policy, and Law, Volume 28, Number 1, February 2003 (Special Book Review Symposium: Eliot Freidson's "Professionalism: The Third Logic")</unittitle>
+            <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_9fd9879a56284bbbd8f6e4e71a47917a" label="Mixed Materials [31142046885870]" type="box">14</container>
+            <container id="aspace_de02f972bfb3acc46791f53929b6f827" parent="aspace_9fd9879a56284bbbd8f6e4e71a47917a" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_569e4c705b0a1f7892285a5dccb1152a" level="file">
+          <did>
+            <unittitle><emph render="italic">Medical Professionals and the Organization of Knowledge</emph> (English and Translations)</unittitle>
+            <unitdate normal="2009/2009">2009</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_cf546b4a78130ffacc891ed42a127ce2" label="Mixed Materials [31142063351228]" type="box">19</container>
+            <container id="aspace_de034c7b1987a216509b545d6ffb86a7" parent="aspace_cf546b4a78130ffacc891ed42a127ce2" type="folder">1-3</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,71 +1,381 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_080">wag_080</eadid><filedesc><titlestmt><titleproper>Guide to the Stanley Postek Papers <num>WAG.080</num></titleproper><author>Michael D. Jew</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>1992</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:59:12 -0500</date>.</creation><langusage>Finding aid is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Stanley Postek Papers</unittitle>
-    <origination label="Creator">
-      <persname rules="dacs" source="local">Postek, Stanley, 1912-1991</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">Postek, Stanley, 1912-1991</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">Darnell, Judi</persname>
-    </origination>
-    <unitid>WAG.080</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.67 Linear Feet</extent>
-      <extent altrender="carrier">in 2 manuscript boxes and 1 record carton.</extent>
-    </physdesc>
-    <unitdate normal="1933/1986" type="inclusive">1933-1986</unitdate>
-    <abstract id="aspace_e782f48a1be43ec801cca9ab4a57130f">Ladislaus F. Szeliga (1912-1991), better known as Stanley Postek, was a seaman, union organizer, volunteer in the Spanish Civil War, and prizefighter from Lowell, Massachusetts. Postek went to sea in the mid-1930s, and became an organizer for the International Seamen's Union of America. Along with other members of the union's rank and file, Postek broke to the National Maritime Union in 1937.
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_080">wag_080</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Stanley Postek Papers <num>WAG.080</num></titleproper>
+        <author>Michael D. Jew</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>1992</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:59:12 -0500</date>.</creation>
+      <langusage>Finding aid is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Stanley Postek Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Postek, Stanley, 1912-1991</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Postek, Stanley, 1912-1991</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Darnell, Judi</persname>
+      </origination>
+      <unitid>WAG.080</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.67 Linear Feet</extent>
+        <extent altrender="carrier">in 2 manuscript boxes and 1 record carton.</extent>
+      </physdesc>
+      <unitdate normal="1933/1986" type="inclusive">1933-1986</unitdate>
+      <abstract id="aspace_e782f48a1be43ec801cca9ab4a57130f">Ladislaus F. Szeliga (1912-1991), better known as Stanley Postek, was a seaman, union organizer, volunteer in the Spanish Civil War, and prizefighter from Lowell, Massachusetts. Postek went to sea in the mid-1930s, and became an organizer for the International Seamen's Union of America. Along with other members of the union's rank and file, Postek broke to the National Maritime Union in 1937.
 
 Postek fought with the Abraham Lincoln Brigade in the Spanish Civil War and served as a merchant seaman during World War II. During the Korean War, he was barred from maritime employment, because of his associations with the Communist Party. Once he regained his papers he sailed until retirement in 1966. Postek was also involved in the Marine Workers Historical Association. He died in San Diego in 1991.
 
 The collection includes diaries, photographs, clippings documenting labor activities, sailing paperwork, and union documents. The collection documents the wide range of activities Postek participated in throughout his life, with particular emphasis on his sailing and union activities and his continued interest in these areas after he retired. Information regarding Postek's activities in Spain are represented in the collections Stanley Postek Spanish Civil War Papers (ALBA.089) and Stanley Postek Photographs (ALBA.PHOTO.089), also available at the Tamiment Library and Robert F. Wagner Labor Archives.</abstract>
-    <langmaterial id="aspace_8f33d99183f534222b5e3ce9fa79ce9a">Materials are in English</langmaterial>
-  </did>
-  <acqinfo id="aspace_a22fe8825f223b94251288d19f2875b9">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Stanley Postek in 1987; an additional accession was donated in 1991 by his daughter, Judith Darnell. The accession numbers associated with these gifts are 1950.008 and 1950.214.</p>  </acqinfo>
-  <bioghist id="aspace_39bd0e3ff85cf200d3bff7b10983a46b">
-    <head>Historical/Biographical Note</head>
-<p>Ladislaus F. Szeliga, better known as Stanley Postek, was born on February 5, 1912, in Lowell, Massachusetts. He left school in the mid-1930s and went to sea. At the age of twenty-five, he was a union organizer for the International Seamen's Union of America. When the rank and file broke away to form the National Maritime Union, so did he. Shortly thereafter, he joined the Abraham Lincoln Brigade as a volunteer, fighting on the Republican side in the Spanish Civil War. </p><p>In World War II, he served as a merchant seaman, most notably on the Murmansk run. After the war, he joined the International Longshoremen's and Warehousemen's Union. Because of his association with the Communist Party, he was one of 2,000 men "screened" off waterfront employment by the United States Coast Guard during the Korean War. Once he regained his papers, he continued sailing until 1966. </p><p>Postek was also a Golden Gloves light-heavyweight boxing champion, and he won brief notoriety after he knocked out the favored champion in the 1937 P.A.U. Tournament. Postek also served as an extra in the film <title render="italic">On the Waterfront.</title></p><p>After retirement, Postek was involved with the Marine Workers Historical Association, an organization which sought to bring together those who had been engaged in the organizing efforts on the waterfront and on shipboard in the 1930s, and preserve their history through documents and written and oral accounts. He also taught college courses, and ran a macrame and yarn shop in Greenwich Village, New York City. Postek died at the age of seventy-eight in his San Diego home. His ashes were scattered at sea.</p>  </bioghist>
-  <phystech id="aspace_02b27309f6f510c15b5242cb8d4f885e">
-    <head>Audiovisual Access Policies and Procedures</head>
-<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu, (212) 998-2630 with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
-  <userestrict id="aspace_cc49d9db5d47e0b75bd3614ed0dd7242">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Stanley Postek was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <relatedmaterial id="aspace_77508b523a1a93d909299087a55bfb57">
-    <head>Related Archival Materials</head>
-<p>The Tamiment Library and Robert F. Wagner Labor Archives holds two additional collections of Stanley Postek materials, which came to the repository from Brandeis University with the other materials of the Abraham Lincoln Brigade Archives. These materials, the Stanley Postek Spanish Civil War Papers (ALBA.089) and Stanley Postek Photographs (ALBA.PHOTO.89), document Postek's service in the Spanish Civil War.</p>  </relatedmaterial>
-  <arrangement id="aspace_04ee70877a1da2fc9c7da5f3e6524a8f">
-    <head>Arrangement</head>
-<p>Materials are arranged grouping documents by type. The materials received after initial processing have not been arranged by an archivist. These materials are arranged in the order that they were received by the donor.</p>  </arrangement>
-  <scopecontent id="aspace_ab8ddb76a68e6b238966023568a728b2">
-    <head>Scope and Content Note</head>
-<p>The collection documents the professional and personal activities of Stanley Postek, a seaman, union activist, and Spanish Civil War veteran, among other things.</p><p>Included in the collection are Postek's personal memoirs, various identification cards, and letters of introduction from his union days. There are also a number of newspaper clippings documenting World War II and the 1946 strike. Also included are certificates of discharge from various employers and some records from the Marine Workers Historical Association.</p><p>The photographs document Postek's voyages, crewmates on the Harry Lukenbach and other vessels, union activities, and other events. Also included are portraits of Postek and various acquaintances. There is one folder of negatives.</p><p>The unprocessed part of the collection includes personal journals, additional photographs, including some documenting strikes, negatives, correspondence, 7 cassette tapes, 1 VHS tape, and 1 reel to reel tape. </p>  </scopecontent>
-  <processinfo id="aspace_d9b4ad1076a1603d9aed12a1aa0b6251">
-    <head>Processing Information</head>
-<p>Materials received from the Darnell donation were processed in 1992. At this time, photographs and other nonprint material were separated from this collection and were established as a separate collection, the Stanley Postek Photographs (PHOTOS 101). An additional record carton of Stanley Postek materials was later received by the repository and remains unprocessed. In 2013, the photograph collection was reincorporated into the collection. The name of the collection was also changed at this time from Stanley Postek: National Maritime Union Files to Stanley Postek Papers.</p>  </processinfo>
-  <prefercite id="aspace_4044edc90de83911a2f64560b42e6863">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Stanley Postek Papers; WAG.080; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <accessrestrict id="aspace_17122fb1a8b4d57425d942ef07604f90">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <controlaccess>
-    <genreform source="aat">Photographs.</genreform>
-    <corpname source="naf">International Longshoremen's and Warehousemen's Union</corpname>
-    <corpname source="naf">International Seamen's Union of America</corpname>
-    <corpname source="naf">National Maritime Union of America</corpname>
-    <corpname source="naf">Marine Workers Historical Association (U.S.)</corpname>
-    <persname role="dnr" rules="dacs" source="local">Postek, Stanley, 1912-1991</persname>
-    <persname role="dnr" rules="dacs" source="local">Darnell, Judi</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref7" level="file"><did><unittitle>Personal Writings</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_4c6f92ee0be3829afa932138b2f0e9cf" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_da2a1baa5098b3898dbd6b46eaeb25e6" parent="aspace_4c6f92ee0be3829afa932138b2f0e9cf" type="folder">1</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Personal Writings</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_8124b3ab8dd4af93b21c49021ab32214" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_fd9c180df96b39e2787db2df6170da89" parent="aspace_8124b3ab8dd4af93b21c49021ab32214" type="folder">2</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>1938 Election, NMU</unittitle><unitdate normal="1938/1938" type="inclusive">1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_5e010bd65f2a0a34087064a8855ac8ea" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_0e21b5b5c1dce2232e8a3ce62ba0732a" parent="aspace_5e010bd65f2a0a34087064a8855ac8ea" type="folder">3</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>ILA</unittitle><unitdate normal="1938/1945" type="inclusive">1938-1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_d6271fff5e22d6ecfb2edb0b8ce0e624" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_757092cfa53a4bc64240e2b87ec7c1dc" parent="aspace_d6271fff5e22d6ecfb2edb0b8ce0e624" type="folder">4</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Strike and Picket Cards</unittitle><unitdate normal="1936/1946" type="inclusive">1936-1946</unitdate><container altrender="Manuscript box - Legal" id="aspace_7c345090f7acae4beae0cfe0f36d95d2" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_89280152707f1af0ab5281ec518a8264" parent="aspace_7c345090f7acae4beae0cfe0f36d95d2" type="folder">5</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Certificates of Discharge</unittitle><unitdate normal="1934/1966" type="inclusive">Nov 1934-Oct 1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_dbb481c6cd92dc704068f271587fc227" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_9f638df3091c6f90047c7dafb8741a2c" parent="aspace_dbb481c6cd92dc704068f271587fc227" type="folder">6</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Medical Records</unittitle><unitdate normal="1933/1963" type="inclusive">1933-1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_1e0a830c3112e76271cd5d11ee239466" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_4f0f9c0b24799830143c5d362fdc8289" parent="aspace_1e0a830c3112e76271cd5d11ee239466" type="folder">7</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Identification Cards</unittitle><unitdate normal="1933/1949" type="inclusive">1933-1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_3fd6ed0a54b57a28f56699faecf92af7" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_319af36e0ea58f4b75a2fe732f75e3fd" parent="aspace_3fd6ed0a54b57a28f56699faecf92af7" type="folder">8</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Photo Identification Cards and Membership Books</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_a6216f273fb95d8a0261882af11f94ee" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_8ba4363eca564c1214f8131f940164ee" parent="aspace_a6216f273fb95d8a0261882af11f94ee" type="folder">9</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Dues Receipts</unittitle><unitdate normal="1936/1958" type="inclusive">1936-1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_e7c837d27b0a939bff3d6c7733797590" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_b52ce2292d503cb65cc656fbb56b5028" parent="aspace_e7c837d27b0a939bff3d6c7733797590" type="folder">10</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Official Entry Log</unittitle><unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_b9565a9ddd98e1eec18b358ef3478e66" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_de43f918e7a49670288fb85a5d522ef4" parent="aspace_b9565a9ddd98e1eec18b358ef3478e66" type="folder">11</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Certificates of Discharge (Photocopies)</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_a2a3393cb971c8964689e88732ea53fa" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_b6482fa46da5a17a885c65f8c4506993" parent="aspace_a2a3393cb971c8964689e88732ea53fa" type="folder">12</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Marine Workers Historical Association</unittitle><unitdate normal="1980/1989" type="inclusive">1980-1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_44eef431601d6334808a5978b607f06b" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_faa101df640f9db40c3cd3cfd8249b17" parent="aspace_44eef431601d6334808a5978b607f06b" type="folder">13</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Marine Workers Historical Association</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_0dc0d7056ca9453d032cb37c2403cd15" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_26176acffc79ec985ef8414f6a57a9cd" parent="aspace_0dc0d7056ca9453d032cb37c2403cd15" type="folder">14</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Special Edition of the <title render="italic">Pilot</title></unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_9ab1cfd5f6be1e6b915258cea57ad195" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_0b6ab178abdbfdeb83f0f4b80196b945" parent="aspace_9ab1cfd5f6be1e6b915258cea57ad195" type="folder">15</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_8358fa5058d439ab2a2d68474530ad3a" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_a90aef21664467ffd341b22270cf6ad1" parent="aspace_8358fa5058d439ab2a2d68474530ad3a" type="folder">16</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>News Clippings</unittitle><unitdate normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Manuscript box - Legal" id="aspace_6c5066f3a4e1344917e15d5213f99c30" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_51c49e7d6614ad61c87e3e153f764ce3" parent="aspace_6c5066f3a4e1344917e15d5213f99c30" type="folder">17</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>News Clippings</unittitle><unitdate normal="1942/1942" type="inclusive">1942</unitdate><container altrender="Manuscript box - Legal" id="aspace_8679f46e1ec7089d656dab699389cf73" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_fc973a1a53a4d67adfa1d7437adbc7fa" parent="aspace_8679f46e1ec7089d656dab699389cf73" type="folder">18</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>News Clippings</unittitle><unitdate normal="1943/1943" type="inclusive">1943</unitdate><container altrender="Manuscript box - Legal" id="aspace_c8fc2b5807a3013ed287512db5acb64b" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_99ff375c6c4f122ca84887800eea869b" parent="aspace_c8fc2b5807a3013ed287512db5acb64b" type="folder">19</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>News Clippings</unittitle><unitdate normal="1944/1944" type="inclusive">1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_f9d39935f4daceebb26abf1bc94f71ff" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_ff7b668335ff2617e923206a844c1101" parent="aspace_f9d39935f4daceebb26abf1bc94f71ff" type="folder">20</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>News Clippings</unittitle><unitdate normal="1945/1945" type="inclusive">1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_e3c6c22fc44c0ef8f7b82dddcc4ee974" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_a93f1ee059c4bc833d64e6730023bd2b" parent="aspace_e3c6c22fc44c0ef8f7b82dddcc4ee974" type="folder">21</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>News Clippings</unittitle><unitdate normal="1945/1945" type="inclusive">1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_90a85acb94002e2fd2197ba2e19a0faf" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_51d47c3152581f24c2996f2a307fd005" parent="aspace_90a85acb94002e2fd2197ba2e19a0faf" type="folder">22</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>News Clippings</unittitle><unitdate normal="1945/1945" type="inclusive">1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_4a66e496d03703d658f10fca0d624d49" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_775ac8f07f125ff5a480740765b2d3aa" parent="aspace_4a66e496d03703d658f10fca0d624d49" type="folder">23</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>News Clippings</unittitle><unitdate normal="1946/1946" type="inclusive">1946</unitdate><container altrender="Manuscript box - Legal" id="aspace_021b80d31789bceda3918c13d563d1af" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_d4710610f0153b34c659ddbc06cd3096" parent="aspace_021b80d31789bceda3918c13d563d1af" type="folder">24</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>News Clippings</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_711f9ed3ceebc6bc725f8e30434085ba" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_c1ca46620e8aca43be7738306b63bb2f" parent="aspace_711f9ed3ceebc6bc725f8e30434085ba" type="folder">25</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>News Clippings</unittitle><unitdate normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_4714f3e59fe5691d2e10d345845ebb42" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_8e1dc6fe52bef28fd8fb1a2a4187ad8c" parent="aspace_4714f3e59fe5691d2e10d345845ebb42" type="folder">26</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>News Clippings</unittitle><unitdate normal="1962/1962" type="inclusive">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_101aa150be0f66dfddb15ae1d24cefdd" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_fe2513855ed8565d29e419fd613113b4" parent="aspace_101aa150be0f66dfddb15ae1d24cefdd" type="folder">27</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>News Clippings</unittitle><unitdate normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_46e1225f6bea86a45cb67e0d8bdfaca0" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_003568e704bac9ba37e520dea1b0c287" parent="aspace_46e1225f6bea86a45cb67e0d8bdfaca0" type="folder">28</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>News Clippings</unittitle><unitdate normal="1981/1981" type="inclusive">1981</unitdate><container altrender="Manuscript box - Legal" id="aspace_1fee71708fe5c9f73fd7ba7546e0e4bf" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_c07f82032c807590443c1997425ddd9a" parent="aspace_1fee71708fe5c9f73fd7ba7546e0e4bf" type="folder">29</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>News Clippings</unittitle><unitdate normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_78af08a9ee6739dfbc881af79e0b4dcf" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_4bd9a226f76909ff459eebd683c95ce6" parent="aspace_78af08a9ee6739dfbc881af79e0b4dcf" type="folder">30</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>News Clippings</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_3d34878dc8de29f89df16c4a787c407f" label="Mixed Materials [31142062734259]" type="box">1</container><container id="aspace_320ae0c1e10779a2299ba1c0b3f03722" parent="aspace_3d34878dc8de29f89df16c4a787c407f" type="folder">31</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Negatives</unittitle><unitdate normal="1982/1982" type="inclusive">1982</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_852729d900042bc4680fbff4c6f1d2d7" label="Mixed Materials [31142062734267]" type="box">2</container><container id="aspace_f236bb69169fcccebda7cf006a4a2b84" parent="aspace_852729d900042bc4680fbff4c6f1d2d7" type="folder">1</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Photographs and Nonprint Materials</unittitle><unitdate normal="1930/1980" type="inclusive">circa 1930-1980</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5b1308989fc756c3f5bdb5f6d18f1806" label="Mixed Materials [31142062734267]" type="box">2</container><container id="aspace_7ddec8d8f16d75714e6731ba1ef2213b" parent="aspace_5b1308989fc756c3f5bdb5f6d18f1806" type="folder">2-4</container></did></c></dsc>
-</archdesc>
+      <langmaterial id="aspace_8f33d99183f534222b5e3ce9fa79ce9a">Materials are in English</langmaterial>
+    </did>
+    <acqinfo id="aspace_a22fe8825f223b94251288d19f2875b9">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Stanley Postek in 1987; an additional accession was donated in 1991 by his daughter, Judith Darnell. The accession numbers associated with these gifts are 1950.008 and 1950.214.</p>
+    </acqinfo>
+    <bioghist id="aspace_39bd0e3ff85cf200d3bff7b10983a46b">
+      <head>Historical/Biographical Note</head>
+      <p>Ladislaus F. Szeliga, better known as Stanley Postek, was born on February 5, 1912, in Lowell, Massachusetts. He left school in the mid-1930s and went to sea. At the age of twenty-five, he was a union organizer for the International Seamen's Union of America. When the rank and file broke away to form the National Maritime Union, so did he. Shortly thereafter, he joined the Abraham Lincoln Brigade as a volunteer, fighting on the Republican side in the Spanish Civil War. </p>
+      <p>In World War II, he served as a merchant seaman, most notably on the Murmansk run. After the war, he joined the International Longshoremen's and Warehousemen's Union. Because of his association with the Communist Party, he was one of 2,000 men "screened" off waterfront employment by the United States Coast Guard during the Korean War. Once he regained his papers, he continued sailing until 1966. </p>
+      <p>Postek was also a Golden Gloves light-heavyweight boxing champion, and he won brief notoriety after he knocked out the favored champion in the 1937 P.A.U. Tournament. Postek also served as an extra in the film <title render="italic">On the Waterfront.</title></p>
+      <p>After retirement, Postek was involved with the Marine Workers Historical Association, an organization which sought to bring together those who had been engaged in the organizing efforts on the waterfront and on shipboard in the 1930s, and preserve their history through documents and written and oral accounts. He also taught college courses, and ran a macrame and yarn shop in Greenwich Village, New York City. Postek died at the age of seventy-eight in his San Diego home. His ashes were scattered at sea.</p>
+    </bioghist>
+    <phystech id="aspace_02b27309f6f510c15b5242cb8d4f885e">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu, (212) 998-2630 with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <userestrict id="aspace_cc49d9db5d47e0b75bd3614ed0dd7242">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Stanley Postek was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <relatedmaterial id="aspace_77508b523a1a93d909299087a55bfb57">
+      <head>Related Archival Materials</head>
+      <p>The Tamiment Library and Robert F. Wagner Labor Archives holds two additional collections of Stanley Postek materials, which came to the repository from Brandeis University with the other materials of the Abraham Lincoln Brigade Archives. These materials, the Stanley Postek Spanish Civil War Papers (ALBA.089) and Stanley Postek Photographs (ALBA.PHOTO.89), document Postek's service in the Spanish Civil War.</p>
+    </relatedmaterial>
+    <arrangement id="aspace_04ee70877a1da2fc9c7da5f3e6524a8f">
+      <head>Arrangement</head>
+      <p>Materials are arranged grouping documents by type. The materials received after initial processing have not been arranged by an archivist. These materials are arranged in the order that they were received by the donor.</p>
+    </arrangement>
+    <scopecontent id="aspace_ab8ddb76a68e6b238966023568a728b2">
+      <head>Scope and Content Note</head>
+      <p>The collection documents the professional and personal activities of Stanley Postek, a seaman, union activist, and Spanish Civil War veteran, among other things.</p>
+      <p>Included in the collection are Postek's personal memoirs, various identification cards, and letters of introduction from his union days. There are also a number of newspaper clippings documenting World War II and the 1946 strike. Also included are certificates of discharge from various employers and some records from the Marine Workers Historical Association.</p>
+      <p>The photographs document Postek's voyages, crewmates on the Harry Lukenbach and other vessels, union activities, and other events. Also included are portraits of Postek and various acquaintances. There is one folder of negatives.</p>
+      <p>The unprocessed part of the collection includes personal journals, additional photographs, including some documenting strikes, negatives, correspondence, 7 cassette tapes, 1 VHS tape, and 1 reel to reel tape. </p>
+    </scopecontent>
+    <processinfo id="aspace_d9b4ad1076a1603d9aed12a1aa0b6251">
+      <head>Processing Information</head>
+      <p>Materials received from the Darnell donation were processed in 1992. At this time, photographs and other nonprint material were separated from this collection and were established as a separate collection, the Stanley Postek Photographs (PHOTOS 101). An additional record carton of Stanley Postek materials was later received by the repository and remains unprocessed. In 2013, the photograph collection was reincorporated into the collection. The name of the collection was also changed at this time from Stanley Postek: National Maritime Union Files to Stanley Postek Papers.</p>
+    </processinfo>
+    <prefercite id="aspace_4044edc90de83911a2f64560b42e6863">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Stanley Postek Papers; WAG.080; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <accessrestrict id="aspace_17122fb1a8b4d57425d942ef07604f90">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <controlaccess>
+      <genreform source="aat">Photographs.</genreform>
+      <corpname source="naf">International Longshoremen's and Warehousemen's Union</corpname>
+      <corpname source="naf">International Seamen's Union of America</corpname>
+      <corpname source="naf">National Maritime Union of America</corpname>
+      <corpname source="naf">Marine Workers Historical Association (U.S.)</corpname>
+      <persname role="dnr" rules="dacs" source="local">Postek, Stanley, 1912-1991</persname>
+      <persname role="dnr" rules="dacs" source="local">Darnell, Judi</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref7" level="file">
+        <did>
+          <unittitle>Personal Writings</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4c6f92ee0be3829afa932138b2f0e9cf" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_da2a1baa5098b3898dbd6b46eaeb25e6" parent="aspace_4c6f92ee0be3829afa932138b2f0e9cf" type="folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref8" level="file">
+        <did>
+          <unittitle>Personal Writings</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8124b3ab8dd4af93b21c49021ab32214" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_fd9c180df96b39e2787db2df6170da89" parent="aspace_8124b3ab8dd4af93b21c49021ab32214" type="folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref9" level="file">
+        <did>
+          <unittitle>1938 Election, NMU</unittitle>
+          <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5e010bd65f2a0a34087064a8855ac8ea" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_0e21b5b5c1dce2232e8a3ce62ba0732a" parent="aspace_5e010bd65f2a0a34087064a8855ac8ea" type="folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref10" level="file">
+        <did>
+          <unittitle>ILA</unittitle>
+          <unitdate normal="1938/1945" type="inclusive">1938-1945</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d6271fff5e22d6ecfb2edb0b8ce0e624" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_757092cfa53a4bc64240e2b87ec7c1dc" parent="aspace_d6271fff5e22d6ecfb2edb0b8ce0e624" type="folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref11" level="file">
+        <did>
+          <unittitle>Strike and Picket Cards</unittitle>
+          <unitdate normal="1936/1946" type="inclusive">1936-1946</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7c345090f7acae4beae0cfe0f36d95d2" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_89280152707f1af0ab5281ec518a8264" parent="aspace_7c345090f7acae4beae0cfe0f36d95d2" type="folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>Certificates of Discharge</unittitle>
+          <unitdate normal="1934/1966" type="inclusive">Nov 1934-Oct 1966</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_dbb481c6cd92dc704068f271587fc227" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_9f638df3091c6f90047c7dafb8741a2c" parent="aspace_dbb481c6cd92dc704068f271587fc227" type="folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Medical Records</unittitle>
+          <unitdate normal="1933/1963" type="inclusive">1933-1963</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1e0a830c3112e76271cd5d11ee239466" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_4f0f9c0b24799830143c5d362fdc8289" parent="aspace_1e0a830c3112e76271cd5d11ee239466" type="folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>Identification Cards</unittitle>
+          <unitdate normal="1933/1949" type="inclusive">1933-1949</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3fd6ed0a54b57a28f56699faecf92af7" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_319af36e0ea58f4b75a2fe732f75e3fd" parent="aspace_3fd6ed0a54b57a28f56699faecf92af7" type="folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>Photo Identification Cards and Membership Books</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a6216f273fb95d8a0261882af11f94ee" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_8ba4363eca564c1214f8131f940164ee" parent="aspace_a6216f273fb95d8a0261882af11f94ee" type="folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Dues Receipts</unittitle>
+          <unitdate normal="1936/1958" type="inclusive">1936-1958</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e7c837d27b0a939bff3d6c7733797590" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_b52ce2292d503cb65cc656fbb56b5028" parent="aspace_e7c837d27b0a939bff3d6c7733797590" type="folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Official Entry Log</unittitle>
+          <unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b9565a9ddd98e1eec18b358ef3478e66" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_de43f918e7a49670288fb85a5d522ef4" parent="aspace_b9565a9ddd98e1eec18b358ef3478e66" type="folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>Certificates of Discharge (Photocopies)</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a2a3393cb971c8964689e88732ea53fa" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_b6482fa46da5a17a885c65f8c4506993" parent="aspace_a2a3393cb971c8964689e88732ea53fa" type="folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>Marine Workers Historical Association</unittitle>
+          <unitdate normal="1980/1989" type="inclusive">1980-1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_44eef431601d6334808a5978b607f06b" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_faa101df640f9db40c3cd3cfd8249b17" parent="aspace_44eef431601d6334808a5978b607f06b" type="folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>Marine Workers Historical Association</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0dc0d7056ca9453d032cb37c2403cd15" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_26176acffc79ec985ef8414f6a57a9cd" parent="aspace_0dc0d7056ca9453d032cb37c2403cd15" type="folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Special Edition of the <title render="italic">Pilot</title></unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9ab1cfd5f6be1e6b915258cea57ad195" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_0b6ab178abdbfdeb83f0f4b80196b945" parent="aspace_9ab1cfd5f6be1e6b915258cea57ad195" type="folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>Miscellaneous</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8358fa5058d439ab2a2d68474530ad3a" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_a90aef21664467ffd341b22270cf6ad1" parent="aspace_8358fa5058d439ab2a2d68474530ad3a" type="folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>News Clippings</unittitle>
+          <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6c5066f3a4e1344917e15d5213f99c30" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_51c49e7d6614ad61c87e3e153f764ce3" parent="aspace_6c5066f3a4e1344917e15d5213f99c30" type="folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>News Clippings</unittitle>
+          <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8679f46e1ec7089d656dab699389cf73" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_fc973a1a53a4d67adfa1d7437adbc7fa" parent="aspace_8679f46e1ec7089d656dab699389cf73" type="folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>News Clippings</unittitle>
+          <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c8fc2b5807a3013ed287512db5acb64b" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_99ff375c6c4f122ca84887800eea869b" parent="aspace_c8fc2b5807a3013ed287512db5acb64b" type="folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>News Clippings</unittitle>
+          <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f9d39935f4daceebb26abf1bc94f71ff" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_ff7b668335ff2617e923206a844c1101" parent="aspace_f9d39935f4daceebb26abf1bc94f71ff" type="folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>News Clippings</unittitle>
+          <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e3c6c22fc44c0ef8f7b82dddcc4ee974" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_a93f1ee059c4bc833d64e6730023bd2b" parent="aspace_e3c6c22fc44c0ef8f7b82dddcc4ee974" type="folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>News Clippings</unittitle>
+          <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_90a85acb94002e2fd2197ba2e19a0faf" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_51d47c3152581f24c2996f2a307fd005" parent="aspace_90a85acb94002e2fd2197ba2e19a0faf" type="folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>News Clippings</unittitle>
+          <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4a66e496d03703d658f10fca0d624d49" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_775ac8f07f125ff5a480740765b2d3aa" parent="aspace_4a66e496d03703d658f10fca0d624d49" type="folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>News Clippings</unittitle>
+          <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_021b80d31789bceda3918c13d563d1af" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_d4710610f0153b34c659ddbc06cd3096" parent="aspace_021b80d31789bceda3918c13d563d1af" type="folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>News Clippings</unittitle>
+          <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_711f9ed3ceebc6bc725f8e30434085ba" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_c1ca46620e8aca43be7738306b63bb2f" parent="aspace_711f9ed3ceebc6bc725f8e30434085ba" type="folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>News Clippings</unittitle>
+          <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4714f3e59fe5691d2e10d345845ebb42" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_8e1dc6fe52bef28fd8fb1a2a4187ad8c" parent="aspace_4714f3e59fe5691d2e10d345845ebb42" type="folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>News Clippings</unittitle>
+          <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_101aa150be0f66dfddb15ae1d24cefdd" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_fe2513855ed8565d29e419fd613113b4" parent="aspace_101aa150be0f66dfddb15ae1d24cefdd" type="folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>News Clippings</unittitle>
+          <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_46e1225f6bea86a45cb67e0d8bdfaca0" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_003568e704bac9ba37e520dea1b0c287" parent="aspace_46e1225f6bea86a45cb67e0d8bdfaca0" type="folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="file">
+        <did>
+          <unittitle>News Clippings</unittitle>
+          <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1fee71708fe5c9f73fd7ba7546e0e4bf" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_c07f82032c807590443c1997425ddd9a" parent="aspace_1fee71708fe5c9f73fd7ba7546e0e4bf" type="folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="file">
+        <did>
+          <unittitle>News Clippings</unittitle>
+          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_78af08a9ee6739dfbc881af79e0b4dcf" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_4bd9a226f76909ff459eebd683c95ce6" parent="aspace_78af08a9ee6739dfbc881af79e0b4dcf" type="folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>News Clippings</unittitle>
+          <unitdate>undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3d34878dc8de29f89df16c4a787c407f" label="Mixed Materials [31142062734259]" type="box">1</container>
+          <container id="aspace_320ae0c1e10779a2299ba1c0b3f03722" parent="aspace_3d34878dc8de29f89df16c4a787c407f" type="folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="file">
+        <did>
+          <unittitle>Negatives</unittitle>
+          <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_852729d900042bc4680fbff4c6f1d2d7" label="Mixed Materials [31142062734267]" type="box">2</container>
+          <container id="aspace_f236bb69169fcccebda7cf006a4a2b84" parent="aspace_852729d900042bc4680fbff4c6f1d2d7" type="folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref39" level="file">
+        <did>
+          <unittitle>Photographs and Nonprint Materials</unittitle>
+          <unitdate normal="1930/1980" type="inclusive">circa 1930-1980</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_5b1308989fc756c3f5bdb5f6d18f1806" label="Mixed Materials [31142062734267]" type="box">2</container>
+          <container id="aspace_7ddec8d8f16d75714e6731ba1ef2213b" parent="aspace_5b1308989fc756c3f5bdb5f6d18f1806" type="folder">2-4</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

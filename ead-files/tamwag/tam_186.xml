@@ -1,95 +1,964 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="inventory_boxfolderlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_186/">tam_186</eadid><filedesc><titlestmt><titleproper>Preliminary Inventory to the Kenneth Neill Cameron Papers <num>TAM.186</num></titleproper><author>Molly Kovel, 1999; Peter Filardo, 2009</author></titlestmt><editionstmt><p>Cameron Inventory Tam #186.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:49:21 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Kenneth Neill Cameron Papers</unittitle>
-    <origination label="Creator">
-      <persname role="dnr" source="naf">Cameron, Kenneth Neill</persname>
-    </origination>
-    <unitid>TAM.186</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">9 Linear Feet</extent>
-      <extent altrender="carrier">(12 boxes)</extent>
-    </physdesc>
-    <unitdate normal="1910/1992" type="inclusive">1910-1992</unitdate>
-    <abstract id="aspace_a2a1f3c346b6818c0dcae49a376f9a57">Kenneth Neill Cameron (1908-1994), a Shelley scholar, best known for his four-volume <emph render="italic">Shelley and His Circle</emph>, was also the author of a biography of Joseph Stalin, and works on Marxist philosophy, world history, and ecology, and a volume of poetry. Cameron was a professor of English at Indiana University and later at New York University. The collection consists mainly of published and unpublished typescripts, including an incomplete autobiographical typescript, and correspondence, both editorial and personal. The unpublished typescripts include an incomplete autobiography, a biography of Enver Hoxha, Communist leader of Albania, several plays, and writings about several Communist leaders and heads of state. There are also articles, reviews, notes, reports, newspaper clippings, and various biographical materials, and materials related to his own political activities as a Communist, including his U.S. Federal Bureau of Investigation Freedom of Information Act (FOIA) file.</abstract>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="inventory_boxfolderlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_186/">tam_186</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Preliminary Inventory to the Kenneth Neill Cameron Papers <num>TAM.186</num></titleproper>
+        <author>Molly Kovel, 1999; Peter Filardo, 2009</author>
+      </titlestmt>
+      <editionstmt>
+        <p>Cameron Inventory Tam #186.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:49:21 -0500</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Kenneth Neill Cameron Papers</unittitle>
+      <origination label="Creator">
+        <persname role="dnr" source="naf">Cameron, Kenneth Neill</persname>
+      </origination>
+      <unitid>TAM.186</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">9 Linear Feet</extent>
+        <extent altrender="carrier">(12 boxes)</extent>
+      </physdesc>
+      <unitdate normal="1910/1992" type="inclusive">1910-1992</unitdate>
+      <abstract id="aspace_a2a1f3c346b6818c0dcae49a376f9a57">Kenneth Neill Cameron (1908-1994), a Shelley scholar, best known for his four-volume <emph render="italic">Shelley and His Circle</emph>, was also the author of a biography of Joseph Stalin, and works on Marxist philosophy, world history, and ecology, and a volume of poetry. Cameron was a professor of English at Indiana University and later at New York University. The collection consists mainly of published and unpublished typescripts, including an incomplete autobiographical typescript, and correspondence, both editorial and personal. The unpublished typescripts include an incomplete autobiography, a biography of Enver Hoxha, Communist leader of Albania, several plays, and writings about several Communist leaders and heads of state. There are also articles, reviews, notes, reports, newspaper clippings, and various biographical materials, and materials related to his own political activities as a Communist, including his U.S. Federal Bureau of Investigation Freedom of Information Act (FOIA) file.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-  </did>
-  <accessrestrict id="aspace_00f793c7b710302fbfcdaba8411d50b8">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_f30b38f68d4dddbed7ed29f05f4eeccf">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Kenneth Neill Cameron in 1994 according to the terms of his last will and testament (1993). The accession number associated with this gift is 1993.010.</p>  </acqinfo>
-  <arrangement id="aspace_e36726a2185ba55655cc4a109eef2a73">
-    <head>Arrangement</head>
-<p>Material is unprocessed.</p><p>The files are organized into four series: </p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>I, Biographical</item>
-      <item>II, Percy Bysshe Shelley</item>
-      <item>III, Writings, Other</item>
-      <item>IV, Miscellaneous Unprocessed Materials (box level descriptions available)</item>
-    </list>
-  </arrangement>
-  <bioghist id="aspace_be9cf168ed8af92f6b2c84450bd2656e">
-    <head>Historical/Biographical Note</head>
-<p>Kenneth Neill Cameron (1908-1994), was a scholar of Percy Byshhe Shelley's writings and social and political milieu, best known for his four-volume Shelley and His Circle (1961-1970), and a Communist activist and author. Cameron was born in 1908 in Barrow-in-Furness, Lancashire, England. He moved with his parents to Montreal in 1914, where he lived until he received his B.A. from McGill in 1931. As a Rhodes Scholar, he attended Oxford University and received a second B.A. in 1933, a D. Litt. in 1934, and an M.A. in 1936. He also received a Ph.D. in 1939 from the University of Wisconsin, Madison, and, much later, an honorary Ph.D. from McGill University in 1970.</p><p>Cameron first encountered radical politics in England, partly through his uncle Jack Cameron, who was a radical shipyard worker in Liverpool, and partly through campus activism at Oxford. In 1934 he visited the U.S.S.R. and was deeply moved by what he saw. Cameron joined the Canadian Communist Party around 1935. In 1936 he was the Toronto Executive Secretary of the League against War and Fascism.</p><p>At the University of Wisconsin, Madison, Cameron studied under the scholar William Emery Leonard, and continued his activism in the Communist Party of the United States. In the fall of 1939, Cameron began what was to be a thirteen-year career at Indiana University, Bloomington, where he was especially active in the American Federation of Teachers and was also involved with the National Association for the Advancement of Colored People. At Indiana University, Cameron lived for a short while with Salvadore Luria, later a Nobel Laureate in Physics. Around the same time (1946), he married Mary Bess Owen, a professor of sociology.</p><p>In 1951, as the political climate became more hostile to Communists, partly as a result of the success of his first book, <emph render="italic">The Young Shelley: Genesis of a Radical </emph>(1950), Cameron left Indiana University and was given a job at the private Carl H. Pforzheimer Library, now part of the New York Public Library, in New York City. He edited <emph render="italic">Shelley and His Circle</emph>, overseeing the first four volumes produced by that library. During the 1950s, he was active in the disarmament movement in New York. In the 1960s he began teaching at New York University, first as an adjunct, and then as a full-time professor in 1963. He was awarded a Guggenheim Fellowship in 1967 for ongoing research on Shelley, which culminated in the publication of <emph render="italic">Shelley: The Golden Years</emph>, in 1974</p><p>In his later years, Cameron was involved in the movements against the Vietnam War, the far right, and nuclear testing. He was Professor Emeritus of English at NYU from 1974-75, and then retired. While his Shelley scholarship did not end here, he chiefly wrote on a number of other topics in the 1970s and 1980s, producing a book of poems in 1977, as well as several books on Marxism, a biography of Joseph Stalin, ecology, and a world history. He also wrote several unpublished manuscripts on Shelley, various Communist leaders and statesmen, including an unpublished book on Enver Hoxha, Communist leader of Albania, four unpublished plays, and his unfinished autobiography. He died in March, 1994.</p><p> Books by Cameron in chronological order:</p><p><list><item><emph render="italic">The Young Shelley: Genesis of a Radical</emph>, Macmillan, 1950</item><item>Editor, <emph render="italic">Percy Bysshe Shelley: Selected Poetry and Prose</emph>, Holt, Rinehart and Winston, 1951</item><item><emph render="italic">The Enormous Turtle</emph> (comic novel under the pseudonym Warren Madden), Bobbs-Merrill, 1954</item><item><emph render="italic">The Esdaile Notebook: A volume of Early Prose and Poetry by Shelley</emph> (1964)</item><item><emph render="italic">Shelley and His Circle</emph> (1961-1970)</item><item><emph render="italic">Romantic Rebels; Essays on Shelley and his Circle</emph> (1973)</item><item><emph render="italic">Humanity and Society: A World History</emph> (1973)</item><item><emph render="italic">Shelley: The Golden Years</emph> (1974)</item><item><emph render="italic">Marx and Engels Today: A Modern Dialogue on Philosophy and History</emph> (1976)</item><item><emph render="italic">Poems for Lovers and Rebels</emph> (Privately printed, 1977)</item><item><emph render="italic">Marxism: The Science of Society—An Introduction</emph> (1985) </item><item><emph render="italic">Stalin, Man of Contradiction</emph> (1987)</item><item><emph render="italic">Atmospheric Destruction and Human Survival</emph> (1992)</item><item><emph render="italic">Marxism: A Living Science</emph> (1993)</item><item><emph render="italic">Dialectical Materialism and Modern Science</emph> (1995)</item></list> </p><p> Sources: </p><p><list><item>See also, "Town and Gown: Excerpt from the Bloomington, Indiana Memoir of Kenneth Neill Cameron, Communist Academic in the Working Class Movement." (Peter Meyer Filardo, ed.) <emph render="italic">Labor History</emph>, 36, no. 4 (1995): 612-24.</item></list> </p>  </bioghist>
-  <prefercite id="aspace_8ee2a47336423d0b5f76ebe647ac2bcf">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Kenneth Neill Cameron Papers; TAM 185; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <scopecontent id="aspace_c7e5af73dc9d6ebfea1a579b0f873163">
-    <head>Scope and Content Note</head>
-<p><emph render="bold">Series I, Biographical</emph>, is divided into four subseries: <emph render="bold">A: Autobiography:</emph> Cameron began a full-length autobiography, but left it unfinished. The first seven chapters provide a detailed account of his life from 1908-1952, while the rest of the chapters are in rough draft format. Also included in this section are Cameron's notes and research for the autobiography, as well as several profiles of him written by colleagues in his literary field, including one Donald Reiman; <emph render="bold">B: Political Papers, Reviews, Clippings, and Notes</emph>: This section contains Cameron's FBI file, as well as documents and clippings from his political activities. It also contains book reviews and a "Personal Political Statement." <emph render="bold">C: Miscellaneous Biographical Material</emph>: contains various diplomas and grant applications which list Cameron's academic activities; <emph render="bold">D: Correspondence</emph>: Cameron kept a very active correspondence with his political uncle Jack in Liverpool. Also included in this section are business-related letters from academic institutions, as well as various personal letters, from Howard Fast, Salvadore Luria, Mrs. David Erdman, and other friends and family. <emph render="bold">NOTE: This collection is housed offsite and advance notice is required for use.</emph></p><p><emph render="bold">Series II, Shelley</emph>, is divided into four subseries; <emph render="bold">A: Shelley Correspondence</emph>: This section contains letters to and from colleagues in the literary field. William Emery Leonard and Carl H. Pforzheimer are just two of the numerous scholars who consulted Cameron on the subject of Shelley; <emph render="bold">B: Notes, Reports, and Memos</emph>: As editor of the Pforzheimer Library's Shelley collection, Cameron wrote up numerous reports and memos on the cataloging process and various acquisitions. Also documented is an exhibit of Lord Abinger's Shelley materials, and a research trip taken by Cameron in 1961; <emph render="bold">C: Articles</emph>: A number of articles on Shelley and Shelley scholarship. This section includes an early article by Elizabeth Cameron (Cameron's first wife) on Mary Wollstonecraft and an article by Cameron on Shelley and Marx from 1979; <emph render="bold">D: Reviews</emph>: This section contains reviews of Cameron's works, his replies to those reviews, and some correspondence with publishers of his Shelley scholarship.</p><p><emph render="bold">Series III, Other Writings</emph>, is divided into three subseries: <emph render="bold">A: Novel and Plays</emph>: Cameron's comic novel The Enormous Turtle was published in 1954; this is an earlier draft, titled The Avenging Turtle, from around 1950. There are also four unpublished plays, two of which are also unfinished. One is about Shelley and the other three seem to be about political matters. <emph render="bold">B: Poetry</emph>: Cameron wrote poetry over the entire course of his life but the majority of his efforts were contained in the years 1950-1967. In this section are several drafts of some poems, but mostly one of each. The poems are both personal (some are quite graphic) and political. <emph render="bold">C: Marx Dialogues</emph>: Cameron wrote this rather long manuscript around 1971 and spent the next five years searching for a publisher. He eventually had them published, but in a much shorter form, as Marx and Engels Today: A Modern Dialogue on Philosophy and History (1976). This manuscript is his original version. The section also contains the publisher's rejection letters, as well as correspondence with figures such as Howard Zinn, Amiri Baraka, E. P. Thompson, Al Pinkney, Corliss Lamont, Herbert Aptheker, Andrew Rothstein, and Irwin Silber, from whom Cameron was trying to get pre-publication comments.</p><p><emph render="bold">Series IV, Miscellaneous Unprocessed</emph>: This series contains published and unpublished writings and correspondence related thereto, some personal correspondence, including correspondence with Communist historian Herbert Aptheker, a folder relating to the W. Alphaeus Hunton College Teachers' Club of the CPUSA, and one relating to efforts to defend former East German Communists from prosecution. The manuscripts include an unpublished biography of Enver Hoxha, Communist leader of Albania, whole or partial drafts of several of his published works, chapter length published and unpublished writings on Nikolai Bukharin, Vladimir Lenin, Mao Zedung, sociobiology, and various Marxist-oriented historical and philosophical topics.</p>  </scopecontent>
-  <userestrict id="aspace_f9173a8db8a2f943d1c38295d29b0750">
-    <head>Conditions Governing Use</head>
-<p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Kenneth Neill Cameron was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <controlaccess>
-    <subject source="lcsh">College teachers' unions |z Indiana |z Bloomington.</subject>
-    <subject source="lcsh">Communism -- Soviet Union.</subject>
-    <subject source="lcsh">Greenhouse effect, Atmospheric.</subject>
-    <subject source="lcsh">Dialectical materialism.</subject>
-    <subject source="lcsh">Philosophy, Marxist</subject>
-    <subject source="lcsh">Labor unions |z Indiana |z Bloomington.</subject>
-    <geogname source="lcsh">Albania.</geogname>
-    <subject source="lcsh">World history.</subject>
-    <geogname source="lcsh">China</geogname>
-    <genreform source="aat">Autobiographies.</genreform>
-    <subject source="lcsh">Communism.</subject>
-    <geogname source="lcsh">Bloomington (Ind.)</geogname>
-    <subject source="lcsh">Communism |z Albania.</subject>
-    <subject source="lcsh">Communism -- China.</subject>
-    <subject source="lcsh">Communism |z Indiana.</subject>
-    <genreform source="aat">Manuscripts</genreform>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Plays (performed works)</genreform>
-    <genreform source="aat">Poems.</genreform>
-    <subject source="lcsh">Communists -- United States.</subject>
-    <genreform source="aat">Manuscripts for publication.</genreform>
-    <persname rules="aacr" source="naf">Aptheker, Herbert, 1915-2003.</persname>
-    <persname source="naf">Baraka, Amiri, 1934-2014</persname>
-    <persname source="naf">Bukharin, Nikolai Ivanovich, 1888-1938.</persname>
-    <corpname source="naf">W. Alphaeus Hunton College Teachers' Club (Communist Party of the United States of America)</corpname>
-    <persname rules="dacs" source="naf">Mao, Zedong, 1893-1976</persname>
-    <persname source="naf">Luria, S. E. (Salvador Edward), 1912-1991</persname>
-    <persname source="naf">Lenin, Vladimir Il'ich, 1870-1924</persname>
-    <persname source="naf">Lamont, Corliss, 1902-1995.</persname>
-    <persname source="naf">Thompson, E. P. (Edward Palmer), 1924-1993</persname>
-    <persname source="naf">Stalin, Joseph, 1878-1953</persname>
-    <persname source="naf">Shelley, Percy Bysshe, 1792-1822</persname>
-    <persname source="naf">Pforzheimer, Carl H. (Carl Howard), 1879-1957.</persname>
-    <corpname source="naf">Communist Party of the United States of America (Ind.)</corpname>
-    <corpname source="naf">Carl H. Pforzheimer Library</corpname>
-    <persname source="naf">Cameron, Mary Owen</persname>
-    <persname source="naf">Cameron, Kenneth Neill</persname>
-    <corpname source="naf">Indiana University, Bloomington</corpname>
-    <persname source="naf">Hoxha, Enver, 1908-1985</persname>
-    <persname source="naf">Fast, Howard, 1914-2003</persname>
-    <corpname source="naf">Communist Party of the United States of America</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series I, Biographical.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref14" level="subseries"><did><unittitle>Subseries A: Autobiography.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref15" level="file"><did><unittitle><emph render="italic">The Many and the Few</emph> - Chapter One: "The McGill Group"</unittitle><unitdate normal="1986/1986" type="inclusive">Jun 1986</unitdate><container id="aspace_b22c6455da0ee3fe00097d0b9cf37bfc" label="Mixed Materials [31142046739218]" type="box">1</container><container id="aspace_f599866494bdfef774597e02c465184c" parent="aspace_b22c6455da0ee3fe00097d0b9cf37bfc" type="folder">1</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Chapter Two: "The Oxford Years"</unittitle><unitdate normal="1986/1986" type="inclusive">Jun 1986</unitdate><container id="aspace_e369a54b57fa0d8965d8579517dab96b" label="Mixed Materials [31142046739218]" type="box">1</container><container id="aspace_eadd6d326e1218656fffdc57fbfd2543" parent="aspace_e369a54b57fa0d8965d8579517dab96b" type="folder">2</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Chapter Three: "Growing Up"</unittitle><unitdate normal="1986/1986" type="inclusive">Jun 1986</unitdate><container id="aspace_4db61a6c7cb2398ec2055a020b4541e2" label="Mixed Materials [31142046739218]" type="box">1</container><container id="aspace_55d9f12d132f0fb1e59add04be72c615" parent="aspace_4db61a6c7cb2398ec2055a020b4541e2" type="folder">3</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Chapter Four: "Toronto: War, Fascism, and Communism"</unittitle><unitdate normal="1986/1986" type="inclusive">Jun 1986</unitdate><container id="aspace_829f20656c71b35eb7010ed8d8d0d228" label="Mixed Materials [31142046739218]" type="box">1</container><container id="aspace_2dc90c3da5ee34db3307845721f5c76b" parent="aspace_829f20656c71b35eb7010ed8d8d0d228" type="folder">4</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Chapter Five: "Madison, Wisconsin"</unittitle><unitdate normal="1986/1986" type="inclusive">Jun 1986</unitdate><container id="aspace_3604eeb0267f14a64d7d754dd98f36b6" label="Mixed Materials [31142046739218]" type="box">1</container><container id="aspace_aded32851892c1c1868b642b16bd5747" parent="aspace_3604eeb0267f14a64d7d754dd98f36b6" type="folder">5</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Chapter Six: "Bloomington, Indiana"</unittitle><unitdate normal="1986/1986" type="inclusive">Aug 1986</unitdate><container id="aspace_ab1c338b4db9995d8a1e503dec7ece20" label="Mixed Materials [31142046739218]" type="box">1</container><container id="aspace_c68a2ec1d9e4b93718003cb1359c40d8" parent="aspace_ab1c338b4db9995d8a1e503dec7ece20" type="folder">6</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Chapter Seven: "Journeys," Rough Draft</unittitle><unitdate normal="1910/1992" type="inclusive">undated</unitdate><container id="aspace_2ac67dfd89cb6efeb7f593868aad3d04" label="Mixed Materials [31142046739218]" type="box">1</container><container id="aspace_f32e3623b642e71deb128d5baec7f83a" parent="aspace_2ac67dfd89cb6efeb7f593868aad3d04" type="folder">7</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Chapter Eight: "New York— 1950s," Rough Draft</unittitle><unitdate normal="1910/1992" type="inclusive">undated</unitdate><container id="aspace_f83fb360cce117f5f8988663888c74c4" label="Mixed Materials [31142046739218]" type="box">1</container><container id="aspace_0a4cb31f5bd3a6a6924e1dec704a7047" parent="aspace_f83fb360cce117f5f8988663888c74c4" type="folder">8</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Chapter Nine: "Travels, 1961: Moscow to Stornoway" Rough Draft</unittitle><unitdate normal="1910/1992" type="inclusive">undated</unitdate><container id="aspace_7faebcc9c7ea7a3475dd5bb01f5203c7" label="Mixed Materials [31142046739218]" type="box">1</container><container id="aspace_f0c33414dd24e5162f29b28642d91ab4" parent="aspace_7faebcc9c7ea7a3475dd5bb01f5203c7" type="folder">9</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Chapter Ten: "New York: The 1960s," Rough Draft</unittitle><unitdate normal="1910/1992" type="inclusive">undated</unitdate><container id="aspace_9a504373fe9f0c6ffe42b0a146e81f29" label="Mixed Materials [31142046739218]" type="box">1</container><container id="aspace_64c5957393e752214d29f4a47b89ab36" parent="aspace_9a504373fe9f0c6ffe42b0a146e81f29" type="folder">10</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Chapter Eleven: "New York, the 1970s," Incomplete. (Includes notes and Correspondence intended for the Chapter)</unittitle><unitdate normal="1910/1992" type="inclusive">undated</unitdate><container id="aspace_6c417cdbde472e042f7816fecf83c2ad" label="Mixed Materials [31142046739218]" type="box">1</container><container id="aspace_67b18773886a17c76d6aded2cb06f70b" parent="aspace_6c417cdbde472e042f7816fecf83c2ad" type="folder">11</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Collections for End of Autobiography</unittitle><unitdate normal="1990/1999" type="inclusive">1990s</unitdate><container id="aspace_b1a95901d33fff1097c69c6e980806a9" label="Mixed Materials [31142046739218]" type="box">1</container><container id="aspace_c07863bac9cd8476723c5996a1d0a098" parent="aspace_b1a95901d33fff1097c69c6e980806a9" type="folder">12</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Autobiography Notes and Outlines</unittitle><unitdate normal="1978/1986" type="inclusive">circa 1983-1986</unitdate><container id="aspace_2b9ec16a2b04b6113fc1e5e98297e2a1" label="Mixed Materials [31142046739218]" type="box">1</container><container id="aspace_fd7db7b281d7e0af0ec8cd32ca747f2b" parent="aspace_2b9ec16a2b04b6113fc1e5e98297e2a1" type="folder">13</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Misc. Correspondence, Grouped (by Cameron) by Autobiography Chapter. (Includes note from Leonard Cohen)</unittitle><unitdate normal="1910/1992" type="inclusive">undated</unitdate><container id="aspace_ed1a7a19f1f39f3ae61ac8097d02025c" label="Mixed Materials [31142046739218]" type="box">1</container><container id="aspace_6240f0e8aaba38949fb91b3f3ebbd63f" parent="aspace_ed1a7a19f1f39f3ae61ac8097d02025c" type="folder">14</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Profile of Kenneth Cameron, by Donald Reiman.</unittitle><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container id="aspace_175cc6f617b1f6102220642a18bbf667" label="Mixed Materials [31142046739218]" type="box">1</container><container id="aspace_adf886536891f0626a2ab5dae01de102" parent="aspace_175cc6f617b1f6102220642a18bbf667" type="folder">15</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Miscellaneous Biographical Material</unittitle><unitdate normal="1970/1985" type="inclusive">1970-1985</unitdate><container id="aspace_89cbfc433dbd7507039c998c62a31746" label="Mixed Materials [31142046739218]" type="box">1</container><container id="aspace_6861c61fd2e680d683b1f725986d32f5" parent="aspace_89cbfc433dbd7507039c998c62a31746" type="folder">16</container></did></c></c><c id="aspace_ref31" level="subseries"><did><unittitle>Subseries B: Political Papers, Reviews, Clippings, and Notes.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref32" level="file"><did><unittitle>"The Alarm Clock," a McGill Labor Club Pamphlet, with poem (p. 6) by Cameron</unittitle><unitdate normal="1933/1933" type="inclusive">Dec 1933</unitdate><container id="aspace_6f64bc8195ac92c79482434277c7c7e1" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_df59074067720f5fc2d182dc88afdf14" parent="aspace_6f64bc8195ac92c79482434277c7c7e1" type="folder">1</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>"War, Fascism, and the United Front," by Cameron</unittitle><unitdate normal="1934/1934" type="inclusive">1934</unitdate><container id="aspace_974d4b219b907e5c0be8c0fc8753fb00" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_3edd8173bd29b4ef4134519f6452d3b7" parent="aspace_974d4b219b907e5c0be8c0fc8753fb00" type="folder">2</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Clippings and letters on Indiana University campus politics— includes Indiana University Teachers' Union Material</unittitle><unitdate normal="1945/1949" type="inclusive">1945-1949</unitdate><container id="aspace_5c09e12dbde326de9798fb4d3f02da4d" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_00d139920b508d04887d9fe3e53e81ba" parent="aspace_5c09e12dbde326de9798fb4d3f02da4d" type="folder">3</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Clippings and notes on Bloomington, Indiana Murder Case</unittitle><unitdate normal="1946/1946" type="inclusive">Mar 1946</unitdate><container id="aspace_97a7b3c9316c8052c7cb47c19997d106" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_f867c4625d81d2f3f5e62a7f84a713b8" parent="aspace_97a7b3c9316c8052c7cb47c19997d106" type="folder">4</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Cameron's FBI File, with notes for Autobiography and Letters to/from FBI</unittitle><unitdate normal="1956/1956" type="inclusive">1956</unitdate><container id="aspace_0f2dd80449612632aed7427aee816731" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_d57df2b819d56469525debb386bc32f6" parent="aspace_0f2dd80449612632aed7427aee816731" type="folder">5</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Correspondence relating to House Un-American Activities Subpoena, Hearings, etc.</unittitle><unitdate normal="1958/1958" type="inclusive">Apr 1958-May 1958</unitdate><container id="aspace_c5fab84a300340c908f6c71d1be29583" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_9c0b09c1d13d505d1288401a9839e14c" parent="aspace_c5fab84a300340c908f6c71d1be29583" type="folder">6</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Bess Cameron's Diary of England/Russia Trip</unittitle><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container id="aspace_b7b60c203f6728e071dd184560c12b20" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_54fa9a2afb80ebd7ab3b8f973e1f768b" parent="aspace_b7b60c203f6728e071dd184560c12b20" type="folder">7</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Anti-Vietnam Correspondence, etc, at NYU.</unittitle><unitdate normal="1966/1971" type="inclusive">1966-1971</unitdate><container id="aspace_4b86f3346a5b67d29521650d4b130f2c" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_97fd3e0cf1d41d9ea0c6435e889af9a3" parent="aspace_4b86f3346a5b67d29521650d4b130f2c" type="folder">8</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>"Facing the Universe," Table of Contents and Introduction; Personal Political Statement</unittitle><unitdate normal="1980/1980" type="inclusive">circa 1980</unitdate><container id="aspace_6adc497988a27b2a7dd31f8ccae16dc1" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_4919b5e50ac99a27e97941dd2580399b" parent="aspace_6adc497988a27b2a7dd31f8ccae16dc1" type="folder">9</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Anti-Nuclear Material, NYU</unittitle><unitdate normal="1981/1983" type="inclusive">1981-1983</unitdate><container id="aspace_cb7fdee8d6332d64474cae24c2e50788" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_9c21a4e38d8c8f3aa97283ca311c6746" parent="aspace_cb7fdee8d6332d64474cae24c2e50788" type="folder">10</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Reviews and Replies to Marxism, the Science of Society</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container id="aspace_dfe18ededa6d03a2713296c98997b4e0" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_fb7a7114a8ee456b8fd5b028ff3e2f8c" parent="aspace_dfe18ededa6d03a2713296c98997b4e0" type="folder">11</container></did></c></c><c id="aspace_ref43" level="subseries"><did><unittitle>Subseries C: Miscellaneous Biographical Material.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref44" level="file"><did><unittitle>Diploma (PhD, 1939); Recommendations</unittitle><unitdate normal="1931/1934" type="inclusive">1931-1934</unitdate><container id="aspace_b5969e391d2db6f0a8563e8213cb89bb" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_a5d941a919f2c0179475364c65b5437a" parent="aspace_b5969e391d2db6f0a8563e8213cb89bb" type="folder">12</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Biographical Information, from Grant Proposals, etc.</unittitle><unitdate normal="1941/1951" type="inclusive">1941-1951</unitdate><container id="aspace_e355e5c8af655610b24db32b4613d8cb" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_111d768d9de88b3fcf6e5d9ca6a3a238" parent="aspace_e355e5c8af655610b24db32b4613d8cb" type="folder">13</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Grant Applications (and correspondence), including Annual Academic Reports from Indiana University</unittitle><unitdate normal="1942/1952" type="inclusive">1942-1952</unitdate><container id="aspace_e7e92ed81254c2b0c7961680bd14b94b" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_c0b3465a84f5f19bf43b47c3e92f0bb0" parent="aspace_e7e92ed81254c2b0c7961680bd14b94b" type="folder">14</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Guggenheim Proposal (and acceptance)</unittitle><unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate><container id="aspace_b822fe3c69fb8c3b78a22075a81dee85" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_4f31afae2ee642b8880c6e85dc912ae5" parent="aspace_b822fe3c69fb8c3b78a22075a81dee85" type="folder">15</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>McGill Honorary Degree</unittitle><unitdate normal="1970/1970" type="inclusive">Oct 1970</unitdate><container id="aspace_19e1e8222457c9f4078551bf4076dad4" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_912da65c101fe15ba156d9abec7d67b3" parent="aspace_19e1e8222457c9f4078551bf4076dad4" type="folder">16</container></did></c></c><c id="aspace_ref49" level="subseries"><did><unittitle>Subseries D: Correspondence.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref50" level="file"><did><unittitle>Letter from Cameron's father to mother; Lusitania Program</unittitle><unitdate normal="1910/1914" type="inclusive">1910; 1914</unitdate><container id="aspace_9ac0481262aea10bfefd819fd2de6237" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_7102f401067bbcb114b7cb8d5d64d86e" parent="aspace_9ac0481262aea10bfefd819fd2de6237" type="folder">17</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Correspondence with Uncle Jack Cameron, and Aunt Isa</unittitle><unitdate normal="1936/1946" type="inclusive">1936-1946</unitdate><container id="aspace_5cfb7aa10f361022a0a72dd62fbe6e04" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_7658d2106b69fa623be8514ef012f1b6" parent="aspace_5cfb7aa10f361022a0a72dd62fbe6e04" type="folder">18</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Miscellaneous Correspondence (both personal and business)</unittitle><unitdate normal="1939/1988" type="inclusive">1939-1988</unitdate><container id="aspace_cbe12d6818cbb68d1c26873bfd0c8778" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_f9db275104ebe1b4f1930c1b434aabbf" parent="aspace_cbe12d6818cbb68d1c26873bfd0c8778" type="folder">19</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Personal Correspondence with Harold Files, Frank Scott, Howard Fast, Virginia Erdman, Liam Dunne, Cousin Helen, etc.</unittitle><unitdate normal="1947/1980" type="inclusive">1947-1980</unitdate><container id="aspace_0719038f599045969283060970b069c1" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_59b7b2edfbc6d276998b08bb567b2299" parent="aspace_0719038f599045969283060970b069c1" type="folder">20</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Correspondence, etc., with Indiana University</unittitle><unitdate normal="1951/1974" type="inclusive">1951-1974</unitdate><container id="aspace_0dee4f9dfb3c4b7927f02346f1ea050c" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_6978140c6b5b37f1a1d30574632641e6" parent="aspace_0dee4f9dfb3c4b7927f02346f1ea050c" type="folder">21</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>The Move from the Charles H. Pforzheimer Library to NYU – Correspondence; NYU retirement correspondence</unittitle><unitdate normal="1962/1973" type="inclusive">1962-1965; 1970-1973</unitdate><container id="aspace_981ae1f758186390648369bef542679c" label="Mixed Materials [31142046739226]" type="box">2</container><container id="aspace_1c68107540b18c65031ff97af4ba6729" parent="aspace_981ae1f758186390648369bef542679c" type="folder">22</container></did></c></c></c><c id="aspace_ref56" level="series"><did><unittitle>Series II, Shelley.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref57" level="subseries"><did><unittitle>Subseries A: Shelley Correspondence.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref58" level="file"><did><unittitle>Letters Thanking Cameron for Articles (selected)</unittitle><unitdate normal="1940/1946" type="inclusive">1940-1946</unitdate><container id="aspace_18e259ab37fa43fd700985ad33212195" label="Mixed Materials [31142046739234]" type="box">3</container><container id="aspace_906d739ffcede0446c38ba747e1313f2" parent="aspace_18e259ab37fa43fd700985ad33212195" type="folder">1</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Correspondence with Pforzheimer family</unittitle><unitdate normal="1949/1958" type="inclusive">1949-1958</unitdate><container id="aspace_31c5ac92cccaef503ee1b1a963893f0c" label="Mixed Materials [31142046739234]" type="box">3</container><container id="aspace_fcf6f9f1892a88ad68c3a3317db2ef97" parent="aspace_31c5ac92cccaef503ee1b1a963893f0c" type="folder">2</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Correspondence with other scholars re Charles H. Pforzheimer Library catalogue</unittitle><unitdate normal="1952/1958" type="inclusive">1952-1958</unitdate><container id="aspace_6c6f7fc12245a5a48e452018413b5f7b" label="Mixed Materials [31142046739234]" type="box">3</container><container id="aspace_423df3acb1d6f2027659d7a787dd9f4c" parent="aspace_6c6f7fc12245a5a48e452018413b5f7b" type="folder">3</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Correspondence with Charles H. Pforzheimer Library</unittitle><unitdate normal="1960/1977" type="inclusive">1960-1977</unitdate><container id="aspace_817bfa9e82f5f9309abe6ce9d574b370" label="Mixed Materials [31142046739234]" type="box">3</container><container id="aspace_689c394cbf270ec0881924137155bb12" parent="aspace_817bfa9e82f5f9309abe6ce9d574b370" type="folder">4</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Correspondence with Charles H. Pforzheimer Library regarding Galleys</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container id="aspace_ec4b4d97a5c2683f972e34dde7bb4975" label="Mixed Materials [31142046739234]" type="box">3</container><container id="aspace_9928bf8482831934db6c6e6208f88895" parent="aspace_ec4b4d97a5c2683f972e34dde7bb4975" type="folder">5</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Correspondence with Keats-Shelley Association</unittitle><unitdate normal="1951/1992" type="inclusive">1951-1953; 1992</unitdate><container id="aspace_2eddd02da31cacd56f0bdd4f742f8653" label="Mixed Materials [31142046739234]" type="box">3</container><container id="aspace_db1d07cac090ca2bedf4fbfeca5436c1" parent="aspace_2eddd02da31cacd56f0bdd4f742f8653" type="folder">6</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Correspondence with Shelley Society of New York</unittitle><unitdate normal="1973/1985" type="inclusive">1973-1985</unitdate><container id="aspace_a91b5216b3794298942e676795e320e8" label="Mixed Materials [31142046739234]" type="box">3</container><container id="aspace_49e401a6477433348ee6932534c93726" parent="aspace_a91b5216b3794298942e676795e320e8" type="folder">7</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Misc. Shelley Correspondence</unittitle><unitdate normal="1947/1957" type="inclusive">1947-1957</unitdate><container id="aspace_9d8f0bb413be03beb47210fd81067412" label="Mixed Materials [31142046739234]" type="box">3</container><container id="aspace_247b2b98441b50dfc9c2fe2ad3ff87b5" parent="aspace_9d8f0bb413be03beb47210fd81067412" type="folder">8</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Misc. Shelley Correspondence</unittitle><unitdate normal="1960/1989" type="inclusive">1960-1989</unitdate><container id="aspace_1aea72db734c7577e439e4c9758c516c" label="Mixed Materials [31142046739234]" type="box">3</container><container id="aspace_dbbddd53c4e9896511d4d40b1028e84c" parent="aspace_1aea72db734c7577e439e4c9758c516c" type="folder">9</container></did></c></c><c id="aspace_ref67" level="subseries"><did><unittitle>Subseries B: Notes, Reports, and Memos.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref68" level="file"><did><unittitle>Charles H. Pforzheimer Library: <emph render="italic">Shelley and His Circle</emph> Collection: Quarterly Reports, Meeting Notes, and Explanatory Memos</unittitle><unitdate normal="1952/1959" type="inclusive">1952-1959</unitdate><container id="aspace_8ad85b4a52477d8a7ca8c48dae8dab54" label="Mixed Materials [31142046739234]" type="box">3</container><container id="aspace_c7b076c93886e91fd32cd08d34c2ba7f" parent="aspace_8ad85b4a52477d8a7ca8c48dae8dab54" type="folder">10</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Charles H. Pforzheimer Library: <emph render="italic">Shelley and His Circle</emph> Collection: Notes on individual Shelley/Godwin etc. Acquisitions</unittitle><unitdate normal="1948/1957" type="inclusive">circa 1953-1957</unitdate><container id="aspace_a2816413af3398d78911ab3589230c72" label="Mixed Materials [31142046739234]" type="box">3</container><container id="aspace_b411b084a7a95c2789717ad377cc68d5" parent="aspace_a2816413af3398d78911ab3589230c72" type="folder">11</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Charles H. Pforzheimer Library: Documents from 'Lord Abinger' Shelley Exhibit</unittitle><unitdate normal="1954/1954" type="inclusive">1954</unitdate><container id="aspace_16f5b26998bebd43ccc378718b7f4559" label="Mixed Materials [31142046739234]" type="box">3</container><container id="aspace_7835d97aea04e33dac0e9d44ec30a1e0" parent="aspace_16f5b26998bebd43ccc378718b7f4559" type="folder">12</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Research Trip in Europe: Notes etc.</unittitle><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container id="aspace_aef98bb99013cd9837aad8a694e95abe" label="Mixed Materials [31142046739234]" type="box">3</container><container id="aspace_d3f6dbe39f4c85ebf024b183995c24ca" parent="aspace_aef98bb99013cd9837aad8a694e95abe" type="folder">13</container></did></c></c><c id="aspace_ref72" level="subseries"><did><unittitle>Subseries C: Articles on Shelley.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref73" level="file"><did><unittitle>Essay and notes on Mary Wollstonecraft, by Elizabeth Cameron (Cameron's first wife)</unittitle><unitdate normal="1932/1942" type="inclusive">circa 1937</unitdate><container id="aspace_b41621b8fc078d352bd5cd63de220274" label="Mixed Materials [31142046739242]" type="box">4</container><container id="aspace_9ace8dbeeb19720ae7d6111cb3e17128" parent="aspace_b41621b8fc078d352bd5cd63de220274" type="folder">1</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Articles on Shelley</unittitle><unitdate normal="1940/1949" type="inclusive">1940s</unitdate><container id="aspace_18273000f955c14b1fa3d5b4c97b0391" label="Mixed Materials [31142046739242]" type="box">4</container><container id="aspace_93c2bc6c40ebf8230db57e67651dc9e6" parent="aspace_18273000f955c14b1fa3d5b4c97b0391" type="folder">2</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Article on Shelley's "Epipsychidion," Published by the <emph render="italic">M.L.A. Quarterly</emph></unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container id="aspace_0ec85a76078ba8984087f9a1c8e17d4c" label="Mixed Materials [31142046739242]" type="box">4</container><container id="aspace_7a1ebe9eb3d8dae8e98ed897cf4cdb52" parent="aspace_0ec85a76078ba8984087f9a1c8e17d4c" type="folder">3</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Introduction to <emph render="italic">Shelley: Poetry and Prose</emph> (published by Rinehart)</unittitle><unitdate normal="1943/1953" type="inclusive">circa 1948</unitdate><container id="aspace_36b48b4717126177d9ff64e36eef6df3" label="Mixed Materials [31142046739242]" type="box">4</container><container id="aspace_8dbb94e479de7c4c2644030e84e3a2ef" parent="aspace_36b48b4717126177d9ff64e36eef6df3" type="folder">4</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Survey of Shelley Scholarship, 1940-1953</unittitle><unitdate normal="1949/1959" type="inclusive">circa 1954</unitdate><container id="aspace_3edf797048dd5320481099b9ff6cd0d7" label="Mixed Materials [31142046739242]" type="box">4</container><container id="aspace_fdc46c030c114d690e0126325cbe21bc" parent="aspace_3edf797048dd5320481099b9ff6cd0d7" type="folder">5</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Articles and Notes on Shelley Scholarship</unittitle><unitdate normal="1955/1960" type="inclusive">1955-1960</unitdate><container id="aspace_1a9ab100ffb5d3d005a12c2ecc96345a" label="Mixed Materials [31142046739242]" type="box">4</container><container id="aspace_697fbc5a66d8a25f4874aeeeb09fb16b" parent="aspace_1a9ab100ffb5d3d005a12c2ecc96345a" type="folder">6</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Cameron's Published Reviews of Shelley Scholarship</unittitle><unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate><container id="aspace_22fcbccc1e512e22e3825738a722f454" label="Mixed Materials [31142046739242]" type="box">4</container><container id="aspace_6b0856b29aacff26f868c1e14238bd73" parent="aspace_22fcbccc1e512e22e3825738a722f454" type="folder">7</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Article on Shelley and Marx</unittitle><unitdate normal="1979/1979" type="inclusive">1979</unitdate><container id="aspace_77c7df57d1bb7781a4485282b60de954" label="Mixed Materials [31142046739242]" type="box">4</container><container id="aspace_81d06ba60726ca1d68a09c6dd86ebf47" parent="aspace_77c7df57d1bb7781a4485282b60de954" type="folder">8</container></did></c></c><c id="aspace_ref81" level="subseries"><did><unittitle>Subseries D: Reviews, etc.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref82" level="file"><did><unittitle>Articles, Reviews, and Correspondence over a few minor Shelley controversies</unittitle><unitdate normal="1944/1953" type="inclusive">1944-1953</unitdate><container id="aspace_ab8e04eb74beb1bf854aac7a210b6a08" label="Mixed Materials [31142046739242]" type="box">4</container><container id="aspace_133ed6443c21687e4c5fdfe11504a923" parent="aspace_ab8e04eb74beb1bf854aac7a210b6a08" type="folder">9</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Reviews, etc for <emph render="italic">The Young Shelley: Genesis of a Radical; Romantic Rebels</emph></unittitle><unitdate normal="1949/1974" type="inclusive">1949-1951; 1974</unitdate><container id="aspace_90ec0cac613c785ad1adccbe8c4b20b8" label="Mixed Materials [31142046739242]" type="box">4</container><container id="aspace_8c5a303f5a808ef9eb801dadebc7fd7d" parent="aspace_90ec0cac613c785ad1adccbe8c4b20b8" type="folder">10</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Reviews for Shelley's <emph render="italic">Esdaile Notebook</emph>, edited by Cameron (including P.E.N. invititation with James Baldwin)</unittitle><unitdate normal="1964/1964" type="inclusive">1964</unitdate><container id="aspace_354612030ac7a093041ea41c252d3bf2" label="Mixed Materials [31142046739242]" type="box">4</container><container id="aspace_5527f8934f91b7b8fe3c358c099d1c99" parent="aspace_354612030ac7a093041ea41c252d3bf2" type="folder">11</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Reviews and Publishing Notes for <emph render="italic">Shelley and his Circle</emph>, volumes III and IV</unittitle><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container id="aspace_febd0908aa44671f07d162c70b85a343" label="Mixed Materials [31142046739242]" type="box">4</container><container id="aspace_b702b64c7c62b34c23f8341b4bf345c2" parent="aspace_febd0908aa44671f07d162c70b85a343" type="folder">12</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Reviews of Cameron's <emph render="italic">Shelley: The Golden Years</emph> (also letters with Harvard University Press)</unittitle><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container id="aspace_cd46bdcda7206016e25096db70f445dd" label="Mixed Materials [31142046739242]" type="box">4</container><container id="aspace_ecbf55635ea5e1a0d84a3c5c13810b23" parent="aspace_cd46bdcda7206016e25096db70f445dd" type="folder">13</container></did></c></c></c><c id="aspace_ref87" level="series"><did><unittitle>Series III, Other Writings.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref88" level="subseries"><did><unittitle>Subseries A: Novels and Plays.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref89" level="file"><did><unittitle><emph render="italic">The Avenging Turtle</emph>, a Novel, chapters 1-4 (a draft of <emph render="italic">The Enormous Turtle</emph>, published 1954)</unittitle><unitdate normal="1945/1955" type="inclusive">circa 1950</unitdate><container id="aspace_969decd220f5058e7b1d5f826f1a3ffc" label="Mixed Materials [31142046739242]" type="box">4</container><container id="aspace_78c3209ce5e80849a4443c8cbeb4eeb2" parent="aspace_969decd220f5058e7b1d5f826f1a3ffc" type="folder">14</container></did></c><c id="aspace_ref90" level="file"><did><unittitle><emph render="italic">Avenging Turtle</emph>, chapters 5-7</unittitle><unitdate normal="1945/1955" type="inclusive">circa 1950</unitdate><container id="aspace_d8491648aac2afc9497ab6c2040c1926" label="Mixed Materials [31142046739242]" type="box">4</container><container id="aspace_6ec12dd99978551e283ea4c3debb7964" parent="aspace_d8491648aac2afc9497ab6c2040c1926" type="folder">15</container></did></c><c id="aspace_ref91" level="file"><did><unittitle><emph render="italic">Avenging Turtle</emph>, chapters 8-10 (end)</unittitle><unitdate normal="1945/1955" type="inclusive">circa 1950</unitdate><container id="aspace_2588b4e80a591763e3f40b46fb14e2c3" label="Mixed Materials [31142046739242]" type="box">4</container><container id="aspace_a7c7ce8cd7ccc78fa2953c322484d14c" parent="aspace_2588b4e80a591763e3f40b46fb14e2c3" type="folder">16</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>"Stars in the Morning," a play about Shelley</unittitle><unitdate normal="1961/1961" type="inclusive">Nov 1961</unitdate><container id="aspace_cd974d431f8a3d569408d070c8fe57eb" label="Mixed Materials [31142046739259]" type="box">5</container><container id="aspace_24c14916d45ac84da35abbecc62c8aaa" parent="aspace_cd974d431f8a3d569408d070c8fe57eb" type="folder">1</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>Untitled, unfinished play</unittitle><unitdate normal="1957/1967" type="inclusive">circa 1962</unitdate><container id="aspace_6db8e45ffeb62a0f51bfd252a31fc1d2" label="Mixed Materials [31142046739259]" type="box">5</container><container id="aspace_a3d908d7f3d378c8113d11673d9050f9" parent="aspace_6db8e45ffeb62a0f51bfd252a31fc1d2" type="folder">2</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>"The Flames Will Curl," unfinished play</unittitle><unitdate normal="1961/1961" type="inclusive">Jul 1963</unitdate><container id="aspace_f91b99ea4e6513c53fc472fc8f54f8a0" label="Mixed Materials [31142046739259]" type="box">5</container><container id="aspace_7f3508d17d29d6786cc844a1c02eaa81" parent="aspace_f91b99ea4e6513c53fc472fc8f54f8a0" type="folder">3</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>"The Third Wave," political play about South America</unittitle><unitdate normal="1977/1987" type="inclusive">circa 1982</unitdate><container id="aspace_199f869d3daabada40d0235d95cd09fe" label="Mixed Materials [31142046739259]" type="box">5</container><container id="aspace_4c90673ee48c5169b96a1b64f9687692" parent="aspace_199f869d3daabada40d0235d95cd09fe" type="folder">4</container></did></c></c><c id="aspace_ref96" level="subseries"><did><unittitle>Subseries B: Poetry.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref97" level="file"><did><unittitle>Miscellaneous Poems (mostly unpublished)</unittitle><unitdate normal="1930/1970" type="inclusive">circa 1930-1970</unitdate><container id="aspace_681e11ffa396d1cb98bc339abab67fbe" label="Mixed Materials [31142046739259]" type="box">5</container><container id="aspace_bac6c69322beb7cd251a4c0d162eca80" parent="aspace_681e11ffa396d1cb98bc339abab67fbe" type="folder">5</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>Poems: <emph render="italic">Personal and Revolutionary</emph></unittitle><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container id="aspace_c9e73fd5bd88965c83d291d2cbb43c84" label="Mixed Materials [31142046739259]" type="box">5</container><container id="aspace_b61d9bc46a7fcc004000fcd219d9a1c0" parent="aspace_c9e73fd5bd88965c83d291d2cbb43c84" type="folder">6</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Poems from <emph render="italic">Old and New</emph> — two versions</unittitle><unitdate normal="1963/1967" type="inclusive">1963- 1967</unitdate><container id="aspace_ff0bb9e6ada6b6d13af3a2769f449dc5" label="Mixed Materials [31142046739259]" type="box">5</container><container id="aspace_858acf126714f4d989c404cbcc22ca2c" parent="aspace_ff0bb9e6ada6b6d13af3a2769f449dc5" type="folder">7</container></did></c><c id="aspace_ref100" level="file"><did><unittitle>"Love's Progress" (a poetry cycle)</unittitle><unitdate normal="1910/1992" type="inclusive">undated</unitdate><container id="aspace_48fec54d0492c8ff33f6cf4a27882365" label="Mixed Materials [31142046739259]" type="box">5</container><container id="aspace_90c610d7f3c3f4df1a397cd274a8b487" parent="aspace_48fec54d0492c8ff33f6cf4a27882365" type="folder">8</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>Later Poems (In <emph render="italic">Poetry for Lovers and Rebels?</emph>)</unittitle><unitdate normal="1970/1992" type="inclusive">circa 1970-1992</unitdate><container id="aspace_899bdced19f1b2c2f692ea2defe5937f" label="Mixed Materials [31142046739259]" type="box">5</container><container id="aspace_9c89961b4ee8de55c57ed691d924d300" parent="aspace_899bdced19f1b2c2f692ea2defe5937f" type="folder">9</container></did></c><c id="aspace_ref102" level="file"><did><unittitle>Poetry Correspondence (with friends and publishers)</unittitle><unitdate normal="1961/1977" type="inclusive">1961-1963, 1977</unitdate><container id="aspace_988c600213923d3620c76bdcc64b1ffc" label="Mixed Materials [31142046739259]" type="box">5</container><container id="aspace_9d833b16041be13d35ea63e04f8f3b5e" parent="aspace_988c600213923d3620c76bdcc64b1ffc" type="folder">10</container></did></c></c><c id="aspace_ref103" level="subseries"><did><unittitle>Subseries C: Marx Dialogues.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref104" level="file"><did><unittitle>Dialogues on Marx and Engels: Preface (2 versions) and Sessions 1-3</unittitle><unitdate normal="1966/1976" type="inclusive">circa 1971</unitdate><container id="aspace_576e5e6c979069e539c3d9df9406595c" label="Mixed Materials [31142046739267]" type="box">6</container><container id="aspace_e3b565581f02d9c4263113ecf78ab2e8" parent="aspace_576e5e6c979069e539c3d9df9406595c" type="folder">1</container></did></c><c id="aspace_ref105" level="file"><did><unittitle>Dialogues, Sessions 4-5</unittitle><unitdate normal="1966/1976" type="inclusive">circa 1971</unitdate><container id="aspace_2df02466fa73ad54a615ccfe0cf4b5f3" label="Mixed Materials [31142046739267]" type="box">6</container><container id="aspace_146c775d04f4fffa413fdef64be4eaaf" parent="aspace_2df02466fa73ad54a615ccfe0cf4b5f3" type="folder">2</container></did></c><c id="aspace_ref106" level="file"><did><unittitle>Dialogues, Sessions 6-7 (6 has no end notes)</unittitle><unitdate normal="1966/1976" type="inclusive">circa 1971</unitdate><container id="aspace_d7fea0d8b10ff4703ff9270b33db449b" label="Mixed Materials [31142046739267]" type="box">6</container><container id="aspace_c9139fa6bd15ca90b00927a38e3acf8e" parent="aspace_d7fea0d8b10ff4703ff9270b33db449b" type="folder">3</container></did></c><c id="aspace_ref107" level="file"><did><unittitle>Dialogues, Sessions 8-9</unittitle><unitdate normal="1966/1976" type="inclusive">circa 1971</unitdate><container id="aspace_b3237dd8a67339354c8f14a56ec299a9" label="Mixed Materials [31142046739267]" type="box">6</container><container id="aspace_0c4f28a551366fed72cbeb2ea3a4a25a" parent="aspace_b3237dd8a67339354c8f14a56ec299a9" type="folder">4</container></did></c><c id="aspace_ref108" level="file"><did><unittitle>Dialogues, Session 11 (Session 10 missing)</unittitle><unitdate normal="1966/1976" type="inclusive">circa 1971</unitdate><container id="aspace_ce041ed24a32c1df81b0a90f14669a77" label="Mixed Materials [31142046739267]" type="box">6</container><container id="aspace_c27dd27b1fe84fb01f9e8d70b85ce475" parent="aspace_ce041ed24a32c1df81b0a90f14669a77" type="folder">5</container></did></c><c id="aspace_ref109" level="file"><did><unittitle>Correspondence re Dialogues: Publisher's rejections etc, and Pre-publication Comments (including A. Baraka, H. Zinn, E.P. Thompson, etc.)</unittitle><unitdate normal="1971/1976" type="inclusive">1971-1976</unitdate><container id="aspace_1b0ca7d42cac3bf9e56d5fe14676fcbc" label="Mixed Materials [31142046739267]" type="box">6</container><container id="aspace_88a31803f01a7244295035338106b68c" parent="aspace_1b0ca7d42cac3bf9e56d5fe14676fcbc" type="folder">6</container></did></c></c></c><c id="aspace_ref110" level="series"><did><unittitle>Series IV, Miscellaneous Unprocessed Materials.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref111" level="file"><did><unittitle>Writings, published and unpublished, and related correspondence; topics are capitalism, socialism, China and the Soviet Union, literary criticism.</unittitle><unitdate normal="1960/1999" type="inclusive">1960s-1990s</unitdate><container id="aspace_e87fc887bdd1a2879572b0c9e5cdbdae" label="Mixed Materials [31142046739275]" type="box">7</container></did></c><c id="aspace_ref112" level="file"><did><unittitle>Writings, published and unpublished, and related correspondence. Topics include Marxism and literature; Marxist philosophy; an article on Nikolai Bukharin, articles critiquing "revisionism" and Gorbachev; correspondence with several friends and colleagues, including Herbert Aptheker; and a file on efforts to defend Erich Honecker and other former East German Communists from prosecution.</unittitle><unitdate normal="1980/1999" type="inclusive">1980s-1990s</unitdate><container id="aspace_f6e6f44a8654087b8d949d22332058c0" label="Mixed Materials [31142046739283]" type="box">8</container></did></c><c id="aspace_ref113" level="file"><did><unittitle>Writings, published and unpublished. Topics include Stalin, Mao Zedong, Enver Hoxha (Communist leader of Albania), Marxist philosophy, world history, ecology and Marxism.</unittitle><unitdate normal="1970/1989" type="inclusive">undated, 1970s-1980s</unitdate><container id="aspace_2fa87916d3ada96bc7e3605d9b98b3d1" label="Mixed Materials [31142046739291]" type="box">9</container></did></c><c id="aspace_ref114" level="file"><did><unittitle>Writings, published and unpublished, and related correspondence. Most appear to be drafts, whole or partial, of his published books <emph render="italic">Atmospheric Destruction and Human Survival</emph> (1992), <emph render="italic">Marxism: A Living Science</emph> (1993), and <emph render="italic">Dialectical Materialism and Modern Science</emph> (1995). There is also a partial typescript for an unpublished book about Enver Hoxha; a folder titled "Factions" relating to the 1989-1991 internal struggle within the Communist Party USA; a folder containing several issues [1987-9] of, and correspondence relating to <emph render="italic">Red Academy</emph>, a publication of the W. Alphaeus Hunton College Teachers Club of the CPUSA. [The original issues have been separated for cataloging, with copies retained in the folder.]</unittitle><unitdate normal="1980/1999" type="inclusive">undated, 1980s-1990s</unitdate><container id="aspace_a715b6ebc2e9ac3e12d7f655012c7ec5" label="Mixed Materials [31142046739309]" type="box">10</container></did></c><c id="aspace_ref115" level="file"><did><unittitle>There is one large folder of correspondence, late 1940s-1980s; the rest of the box contains writings, published and unpublished, and related correspondence. Topics include Marxist theory and tactics, Lenin, Mao Zedong, Enver Hoxha, and sociobiology.</unittitle><unitdate normal="1940/1999" type="inclusive">1940s-1990s</unitdate><container id="aspace_6bcbe0c37ab7b68ad312496e7230a880" label="Mixed Materials [31142046739317]" type="box">11</container></did></c><c id="aspace_ref116" level="file"><did><unittitle>Writings, published and unpublished, and related correspondence. Topics include Enver Hohxa, Mao Zedong. There are also several folders of personal correspondence, typically with friends and fellow academics, and some correspondence relating to an unfavorable review of his Shelley scholarship.</unittitle><unitdate normal="1970/1999" type="inclusive">1970s-1990s</unitdate><container id="aspace_263c8ffc4ae68c13712b06f0fc0d7855" label="Mixed Materials [31142046739325]" type="box">12</container></did></c></c></dsc>
-</archdesc>
+    </did>
+    <accessrestrict id="aspace_00f793c7b710302fbfcdaba8411d50b8">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_f30b38f68d4dddbed7ed29f05f4eeccf">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Kenneth Neill Cameron in 1994 according to the terms of his last will and testament (1993). The accession number associated with this gift is 1993.010.</p>
+    </acqinfo>
+    <arrangement id="aspace_e36726a2185ba55655cc4a109eef2a73">
+      <head>Arrangement</head>
+      <p>Material is unprocessed.</p>
+      <p>The files are organized into four series: </p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I, Biographical</item>
+        <item>II, Percy Bysshe Shelley</item>
+        <item>III, Writings, Other</item>
+        <item>IV, Miscellaneous Unprocessed Materials (box level descriptions available)</item>
+      </list>
+    </arrangement>
+    <bioghist id="aspace_be9cf168ed8af92f6b2c84450bd2656e">
+      <head>Historical/Biographical Note</head>
+      <p>Kenneth Neill Cameron (1908-1994), was a scholar of Percy Byshhe Shelley's writings and social and political milieu, best known for his four-volume Shelley and His Circle (1961-1970), and a Communist activist and author. Cameron was born in 1908 in Barrow-in-Furness, Lancashire, England. He moved with his parents to Montreal in 1914, where he lived until he received his B.A. from McGill in 1931. As a Rhodes Scholar, he attended Oxford University and received a second B.A. in 1933, a D. Litt. in 1934, and an M.A. in 1936. He also received a Ph.D. in 1939 from the University of Wisconsin, Madison, and, much later, an honorary Ph.D. from McGill University in 1970.</p>
+      <p>Cameron first encountered radical politics in England, partly through his uncle Jack Cameron, who was a radical shipyard worker in Liverpool, and partly through campus activism at Oxford. In 1934 he visited the U.S.S.R. and was deeply moved by what he saw. Cameron joined the Canadian Communist Party around 1935. In 1936 he was the Toronto Executive Secretary of the League against War and Fascism.</p>
+      <p>At the University of Wisconsin, Madison, Cameron studied under the scholar William Emery Leonard, and continued his activism in the Communist Party of the United States. In the fall of 1939, Cameron began what was to be a thirteen-year career at Indiana University, Bloomington, where he was especially active in the American Federation of Teachers and was also involved with the National Association for the Advancement of Colored People. At Indiana University, Cameron lived for a short while with Salvadore Luria, later a Nobel Laureate in Physics. Around the same time (1946), he married Mary Bess Owen, a professor of sociology.</p>
+      <p>In 1951, as the political climate became more hostile to Communists, partly as a result of the success of his first book, <emph render="italic">The Young Shelley: Genesis of a Radical </emph>(1950), Cameron left Indiana University and was given a job at the private Carl H. Pforzheimer Library, now part of the New York Public Library, in New York City. He edited <emph render="italic">Shelley and His Circle</emph>, overseeing the first four volumes produced by that library. During the 1950s, he was active in the disarmament movement in New York. In the 1960s he began teaching at New York University, first as an adjunct, and then as a full-time professor in 1963. He was awarded a Guggenheim Fellowship in 1967 for ongoing research on Shelley, which culminated in the publication of <emph render="italic">Shelley: The Golden Years</emph>, in 1974</p>
+      <p>In his later years, Cameron was involved in the movements against the Vietnam War, the far right, and nuclear testing. He was Professor Emeritus of English at NYU from 1974-75, and then retired. While his Shelley scholarship did not end here, he chiefly wrote on a number of other topics in the 1970s and 1980s, producing a book of poems in 1977, as well as several books on Marxism, a biography of Joseph Stalin, ecology, and a world history. He also wrote several unpublished manuscripts on Shelley, various Communist leaders and statesmen, including an unpublished book on Enver Hoxha, Communist leader of Albania, four unpublished plays, and his unfinished autobiography. He died in March, 1994.</p>
+      <p> Books by Cameron in chronological order:</p>
+      <p>
+        <list>
+          <item><emph render="italic">The Young Shelley: Genesis of a Radical</emph>, Macmillan, 1950</item>
+          <item>Editor, <emph render="italic">Percy Bysshe Shelley: Selected Poetry and Prose</emph>, Holt, Rinehart and Winston, 1951</item>
+          <item><emph render="italic">The Enormous Turtle</emph> (comic novel under the pseudonym Warren Madden), Bobbs-Merrill, 1954</item>
+          <item><emph render="italic">The Esdaile Notebook: A volume of Early Prose and Poetry by Shelley</emph> (1964)</item>
+          <item><emph render="italic">Shelley and His Circle</emph> (1961-1970)</item>
+          <item><emph render="italic">Romantic Rebels; Essays on Shelley and his Circle</emph> (1973)</item>
+          <item><emph render="italic">Humanity and Society: A World History</emph> (1973)</item>
+          <item><emph render="italic">Shelley: The Golden Years</emph> (1974)</item>
+          <item><emph render="italic">Marx and Engels Today: A Modern Dialogue on Philosophy and History</emph> (1976)</item>
+          <item><emph render="italic">Poems for Lovers and Rebels</emph> (Privately printed, 1977)</item>
+          <item><emph render="italic">Marxism: The Science of Society—An Introduction</emph> (1985) </item>
+          <item><emph render="italic">Stalin, Man of Contradiction</emph> (1987)</item>
+          <item><emph render="italic">Atmospheric Destruction and Human Survival</emph> (1992)</item>
+          <item><emph render="italic">Marxism: A Living Science</emph> (1993)</item>
+          <item><emph render="italic">Dialectical Materialism and Modern Science</emph> (1995)</item>
+        </list>
+      </p>
+      <p> Sources: </p>
+      <p>
+        <list>
+          <item>See also, "Town and Gown: Excerpt from the Bloomington, Indiana Memoir of Kenneth Neill Cameron, Communist Academic in the Working Class Movement." (Peter Meyer Filardo, ed.) <emph render="italic">Labor History</emph>, 36, no. 4 (1995): 612-24.</item>
+        </list>
+      </p>
+    </bioghist>
+    <prefercite id="aspace_8ee2a47336423d0b5f76ebe647ac2bcf">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Kenneth Neill Cameron Papers; TAM 185; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <scopecontent id="aspace_c7e5af73dc9d6ebfea1a579b0f873163">
+      <head>Scope and Content Note</head>
+      <p><emph render="bold">Series I, Biographical</emph>, is divided into four subseries: <emph render="bold">A: Autobiography:</emph> Cameron began a full-length autobiography, but left it unfinished. The first seven chapters provide a detailed account of his life from 1908-1952, while the rest of the chapters are in rough draft format. Also included in this section are Cameron's notes and research for the autobiography, as well as several profiles of him written by colleagues in his literary field, including one Donald Reiman; <emph render="bold">B: Political Papers, Reviews, Clippings, and Notes</emph>: This section contains Cameron's FBI file, as well as documents and clippings from his political activities. It also contains book reviews and a "Personal Political Statement." <emph render="bold">C: Miscellaneous Biographical Material</emph>: contains various diplomas and grant applications which list Cameron's academic activities; <emph render="bold">D: Correspondence</emph>: Cameron kept a very active correspondence with his political uncle Jack in Liverpool. Also included in this section are business-related letters from academic institutions, as well as various personal letters, from Howard Fast, Salvadore Luria, Mrs. David Erdman, and other friends and family. <emph render="bold">NOTE: This collection is housed offsite and advance notice is required for use.</emph></p>
+      <p><emph render="bold">Series II, Shelley</emph>, is divided into four subseries; <emph render="bold">A: Shelley Correspondence</emph>: This section contains letters to and from colleagues in the literary field. William Emery Leonard and Carl H. Pforzheimer are just two of the numerous scholars who consulted Cameron on the subject of Shelley; <emph render="bold">B: Notes, Reports, and Memos</emph>: As editor of the Pforzheimer Library's Shelley collection, Cameron wrote up numerous reports and memos on the cataloging process and various acquisitions. Also documented is an exhibit of Lord Abinger's Shelley materials, and a research trip taken by Cameron in 1961; <emph render="bold">C: Articles</emph>: A number of articles on Shelley and Shelley scholarship. This section includes an early article by Elizabeth Cameron (Cameron's first wife) on Mary Wollstonecraft and an article by Cameron on Shelley and Marx from 1979; <emph render="bold">D: Reviews</emph>: This section contains reviews of Cameron's works, his replies to those reviews, and some correspondence with publishers of his Shelley scholarship.</p>
+      <p><emph render="bold">Series III, Other Writings</emph>, is divided into three subseries: <emph render="bold">A: Novel and Plays</emph>: Cameron's comic novel The Enormous Turtle was published in 1954; this is an earlier draft, titled The Avenging Turtle, from around 1950. There are also four unpublished plays, two of which are also unfinished. One is about Shelley and the other three seem to be about political matters. <emph render="bold">B: Poetry</emph>: Cameron wrote poetry over the entire course of his life but the majority of his efforts were contained in the years 1950-1967. In this section are several drafts of some poems, but mostly one of each. The poems are both personal (some are quite graphic) and political. <emph render="bold">C: Marx Dialogues</emph>: Cameron wrote this rather long manuscript around 1971 and spent the next five years searching for a publisher. He eventually had them published, but in a much shorter form, as Marx and Engels Today: A Modern Dialogue on Philosophy and History (1976). This manuscript is his original version. The section also contains the publisher's rejection letters, as well as correspondence with figures such as Howard Zinn, Amiri Baraka, E. P. Thompson, Al Pinkney, Corliss Lamont, Herbert Aptheker, Andrew Rothstein, and Irwin Silber, from whom Cameron was trying to get pre-publication comments.</p>
+      <p><emph render="bold">Series IV, Miscellaneous Unprocessed</emph>: This series contains published and unpublished writings and correspondence related thereto, some personal correspondence, including correspondence with Communist historian Herbert Aptheker, a folder relating to the W. Alphaeus Hunton College Teachers' Club of the CPUSA, and one relating to efforts to defend former East German Communists from prosecution. The manuscripts include an unpublished biography of Enver Hoxha, Communist leader of Albania, whole or partial drafts of several of his published works, chapter length published and unpublished writings on Nikolai Bukharin, Vladimir Lenin, Mao Zedung, sociobiology, and various Marxist-oriented historical and philosophical topics.</p>
+    </scopecontent>
+    <userestrict id="aspace_f9173a8db8a2f943d1c38295d29b0750">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Kenneth Neill Cameron was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">College teachers' unions |z Indiana |z Bloomington.</subject>
+      <subject source="lcsh">Communism -- Soviet Union.</subject>
+      <subject source="lcsh">Greenhouse effect, Atmospheric.</subject>
+      <subject source="lcsh">Dialectical materialism.</subject>
+      <subject source="lcsh">Philosophy, Marxist</subject>
+      <subject source="lcsh">Labor unions |z Indiana |z Bloomington.</subject>
+      <geogname source="lcsh">Albania.</geogname>
+      <subject source="lcsh">World history.</subject>
+      <geogname source="lcsh">China</geogname>
+      <genreform source="aat">Autobiographies.</genreform>
+      <subject source="lcsh">Communism.</subject>
+      <geogname source="lcsh">Bloomington (Ind.)</geogname>
+      <subject source="lcsh">Communism |z Albania.</subject>
+      <subject source="lcsh">Communism -- China.</subject>
+      <subject source="lcsh">Communism |z Indiana.</subject>
+      <genreform source="aat">Manuscripts</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Plays (performed works)</genreform>
+      <genreform source="aat">Poems.</genreform>
+      <subject source="lcsh">Communists -- United States.</subject>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <persname rules="aacr" source="naf">Aptheker, Herbert, 1915-2003.</persname>
+      <persname source="naf">Baraka, Amiri, 1934-2014</persname>
+      <persname source="naf">Bukharin, Nikolai Ivanovich, 1888-1938.</persname>
+      <corpname source="naf">W. Alphaeus Hunton College Teachers' Club (Communist Party of the United States of America)</corpname>
+      <persname rules="dacs" source="naf">Mao, Zedong, 1893-1976</persname>
+      <persname source="naf">Luria, S. E. (Salvador Edward), 1912-1991</persname>
+      <persname source="naf">Lenin, Vladimir Il'ich, 1870-1924</persname>
+      <persname source="naf">Lamont, Corliss, 1902-1995.</persname>
+      <persname source="naf">Thompson, E. P. (Edward Palmer), 1924-1993</persname>
+      <persname source="naf">Stalin, Joseph, 1878-1953</persname>
+      <persname source="naf">Shelley, Percy Bysshe, 1792-1822</persname>
+      <persname source="naf">Pforzheimer, Carl H. (Carl Howard), 1879-1957.</persname>
+      <corpname source="naf">Communist Party of the United States of America (Ind.)</corpname>
+      <corpname source="naf">Carl H. Pforzheimer Library</corpname>
+      <persname source="naf">Cameron, Mary Owen</persname>
+      <persname source="naf">Cameron, Kenneth Neill</persname>
+      <corpname source="naf">Indiana University, Bloomington</corpname>
+      <persname source="naf">Hoxha, Enver, 1908-1985</persname>
+      <persname source="naf">Fast, Howard, 1914-2003</persname>
+      <corpname source="naf">Communist Party of the United States of America</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13" level="series">
+        <did>
+          <unittitle>Series I, Biographical.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref14" level="subseries">
+          <did>
+            <unittitle>Subseries A: Autobiography.</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref15" level="file">
+            <did>
+              <unittitle><emph render="italic">The Many and the Few</emph> - Chapter One: "The McGill Group"</unittitle>
+              <unitdate normal="1986/1986" type="inclusive">Jun 1986</unitdate>
+              <container id="aspace_b22c6455da0ee3fe00097d0b9cf37bfc" label="Mixed Materials [31142046739218]" type="box">1</container>
+              <container id="aspace_f599866494bdfef774597e02c465184c" parent="aspace_b22c6455da0ee3fe00097d0b9cf37bfc" type="folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref16" level="file">
+            <did>
+              <unittitle>Chapter Two: "The Oxford Years"</unittitle>
+              <unitdate normal="1986/1986" type="inclusive">Jun 1986</unitdate>
+              <container id="aspace_e369a54b57fa0d8965d8579517dab96b" label="Mixed Materials [31142046739218]" type="box">1</container>
+              <container id="aspace_eadd6d326e1218656fffdc57fbfd2543" parent="aspace_e369a54b57fa0d8965d8579517dab96b" type="folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref17" level="file">
+            <did>
+              <unittitle>Chapter Three: "Growing Up"</unittitle>
+              <unitdate normal="1986/1986" type="inclusive">Jun 1986</unitdate>
+              <container id="aspace_4db61a6c7cb2398ec2055a020b4541e2" label="Mixed Materials [31142046739218]" type="box">1</container>
+              <container id="aspace_55d9f12d132f0fb1e59add04be72c615" parent="aspace_4db61a6c7cb2398ec2055a020b4541e2" type="folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref18" level="file">
+            <did>
+              <unittitle>Chapter Four: "Toronto: War, Fascism, and Communism"</unittitle>
+              <unitdate normal="1986/1986" type="inclusive">Jun 1986</unitdate>
+              <container id="aspace_829f20656c71b35eb7010ed8d8d0d228" label="Mixed Materials [31142046739218]" type="box">1</container>
+              <container id="aspace_2dc90c3da5ee34db3307845721f5c76b" parent="aspace_829f20656c71b35eb7010ed8d8d0d228" type="folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref19" level="file">
+            <did>
+              <unittitle>Chapter Five: "Madison, Wisconsin"</unittitle>
+              <unitdate normal="1986/1986" type="inclusive">Jun 1986</unitdate>
+              <container id="aspace_3604eeb0267f14a64d7d754dd98f36b6" label="Mixed Materials [31142046739218]" type="box">1</container>
+              <container id="aspace_aded32851892c1c1868b642b16bd5747" parent="aspace_3604eeb0267f14a64d7d754dd98f36b6" type="folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref20" level="file">
+            <did>
+              <unittitle>Chapter Six: "Bloomington, Indiana"</unittitle>
+              <unitdate normal="1986/1986" type="inclusive">Aug 1986</unitdate>
+              <container id="aspace_ab1c338b4db9995d8a1e503dec7ece20" label="Mixed Materials [31142046739218]" type="box">1</container>
+              <container id="aspace_c68a2ec1d9e4b93718003cb1359c40d8" parent="aspace_ab1c338b4db9995d8a1e503dec7ece20" type="folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref21" level="file">
+            <did>
+              <unittitle>Chapter Seven: "Journeys," Rough Draft</unittitle>
+              <unitdate normal="1910/1992" type="inclusive">undated</unitdate>
+              <container id="aspace_2ac67dfd89cb6efeb7f593868aad3d04" label="Mixed Materials [31142046739218]" type="box">1</container>
+              <container id="aspace_f32e3623b642e71deb128d5baec7f83a" parent="aspace_2ac67dfd89cb6efeb7f593868aad3d04" type="folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref22" level="file">
+            <did>
+              <unittitle>Chapter Eight: "New York— 1950s," Rough Draft</unittitle>
+              <unitdate normal="1910/1992" type="inclusive">undated</unitdate>
+              <container id="aspace_f83fb360cce117f5f8988663888c74c4" label="Mixed Materials [31142046739218]" type="box">1</container>
+              <container id="aspace_0a4cb31f5bd3a6a6924e1dec704a7047" parent="aspace_f83fb360cce117f5f8988663888c74c4" type="folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref23" level="file">
+            <did>
+              <unittitle>Chapter Nine: "Travels, 1961: Moscow to Stornoway" Rough Draft</unittitle>
+              <unitdate normal="1910/1992" type="inclusive">undated</unitdate>
+              <container id="aspace_7faebcc9c7ea7a3475dd5bb01f5203c7" label="Mixed Materials [31142046739218]" type="box">1</container>
+              <container id="aspace_f0c33414dd24e5162f29b28642d91ab4" parent="aspace_7faebcc9c7ea7a3475dd5bb01f5203c7" type="folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref24" level="file">
+            <did>
+              <unittitle>Chapter Ten: "New York: The 1960s," Rough Draft</unittitle>
+              <unitdate normal="1910/1992" type="inclusive">undated</unitdate>
+              <container id="aspace_9a504373fe9f0c6ffe42b0a146e81f29" label="Mixed Materials [31142046739218]" type="box">1</container>
+              <container id="aspace_64c5957393e752214d29f4a47b89ab36" parent="aspace_9a504373fe9f0c6ffe42b0a146e81f29" type="folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref25" level="file">
+            <did>
+              <unittitle>Chapter Eleven: "New York, the 1970s," Incomplete. (Includes notes and Correspondence intended for the Chapter)</unittitle>
+              <unitdate normal="1910/1992" type="inclusive">undated</unitdate>
+              <container id="aspace_6c417cdbde472e042f7816fecf83c2ad" label="Mixed Materials [31142046739218]" type="box">1</container>
+              <container id="aspace_67b18773886a17c76d6aded2cb06f70b" parent="aspace_6c417cdbde472e042f7816fecf83c2ad" type="folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref26" level="file">
+            <did>
+              <unittitle>Collections for End of Autobiography</unittitle>
+              <unitdate normal="1990/1999" type="inclusive">1990s</unitdate>
+              <container id="aspace_b1a95901d33fff1097c69c6e980806a9" label="Mixed Materials [31142046739218]" type="box">1</container>
+              <container id="aspace_c07863bac9cd8476723c5996a1d0a098" parent="aspace_b1a95901d33fff1097c69c6e980806a9" type="folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref27" level="file">
+            <did>
+              <unittitle>Autobiography Notes and Outlines</unittitle>
+              <unitdate normal="1978/1986" type="inclusive">circa 1983-1986</unitdate>
+              <container id="aspace_2b9ec16a2b04b6113fc1e5e98297e2a1" label="Mixed Materials [31142046739218]" type="box">1</container>
+              <container id="aspace_fd7db7b281d7e0af0ec8cd32ca747f2b" parent="aspace_2b9ec16a2b04b6113fc1e5e98297e2a1" type="folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref28" level="file">
+            <did>
+              <unittitle>Misc. Correspondence, Grouped (by Cameron) by Autobiography Chapter. (Includes note from Leonard Cohen)</unittitle>
+              <unitdate normal="1910/1992" type="inclusive">undated</unitdate>
+              <container id="aspace_ed1a7a19f1f39f3ae61ac8097d02025c" label="Mixed Materials [31142046739218]" type="box">1</container>
+              <container id="aspace_6240f0e8aaba38949fb91b3f3ebbd63f" parent="aspace_ed1a7a19f1f39f3ae61ac8097d02025c" type="folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref29" level="file">
+            <did>
+              <unittitle>Profile of Kenneth Cameron, by Donald Reiman.</unittitle>
+              <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+              <container id="aspace_175cc6f617b1f6102220642a18bbf667" label="Mixed Materials [31142046739218]" type="box">1</container>
+              <container id="aspace_adf886536891f0626a2ab5dae01de102" parent="aspace_175cc6f617b1f6102220642a18bbf667" type="folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref30" level="file">
+            <did>
+              <unittitle>Miscellaneous Biographical Material</unittitle>
+              <unitdate normal="1970/1985" type="inclusive">1970-1985</unitdate>
+              <container id="aspace_89cbfc433dbd7507039c998c62a31746" label="Mixed Materials [31142046739218]" type="box">1</container>
+              <container id="aspace_6861c61fd2e680d683b1f725986d32f5" parent="aspace_89cbfc433dbd7507039c998c62a31746" type="folder">16</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref31" level="subseries">
+          <did>
+            <unittitle>Subseries B: Political Papers, Reviews, Clippings, and Notes.</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref32" level="file">
+            <did>
+              <unittitle>"The Alarm Clock," a McGill Labor Club Pamphlet, with poem (p. 6) by Cameron</unittitle>
+              <unitdate normal="1933/1933" type="inclusive">Dec 1933</unitdate>
+              <container id="aspace_6f64bc8195ac92c79482434277c7c7e1" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_df59074067720f5fc2d182dc88afdf14" parent="aspace_6f64bc8195ac92c79482434277c7c7e1" type="folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref33" level="file">
+            <did>
+              <unittitle>"War, Fascism, and the United Front," by Cameron</unittitle>
+              <unitdate normal="1934/1934" type="inclusive">1934</unitdate>
+              <container id="aspace_974d4b219b907e5c0be8c0fc8753fb00" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_3edd8173bd29b4ef4134519f6452d3b7" parent="aspace_974d4b219b907e5c0be8c0fc8753fb00" type="folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref34" level="file">
+            <did>
+              <unittitle>Clippings and letters on Indiana University campus politics— includes Indiana University Teachers' Union Material</unittitle>
+              <unitdate normal="1945/1949" type="inclusive">1945-1949</unitdate>
+              <container id="aspace_5c09e12dbde326de9798fb4d3f02da4d" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_00d139920b508d04887d9fe3e53e81ba" parent="aspace_5c09e12dbde326de9798fb4d3f02da4d" type="folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref35" level="file">
+            <did>
+              <unittitle>Clippings and notes on Bloomington, Indiana Murder Case</unittitle>
+              <unitdate normal="1946/1946" type="inclusive">Mar 1946</unitdate>
+              <container id="aspace_97a7b3c9316c8052c7cb47c19997d106" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_f867c4625d81d2f3f5e62a7f84a713b8" parent="aspace_97a7b3c9316c8052c7cb47c19997d106" type="folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref36" level="file">
+            <did>
+              <unittitle>Cameron's FBI File, with notes for Autobiography and Letters to/from FBI</unittitle>
+              <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+              <container id="aspace_0f2dd80449612632aed7427aee816731" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_d57df2b819d56469525debb386bc32f6" parent="aspace_0f2dd80449612632aed7427aee816731" type="folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref37" level="file">
+            <did>
+              <unittitle>Correspondence relating to House Un-American Activities Subpoena, Hearings, etc.</unittitle>
+              <unitdate normal="1958/1958" type="inclusive">Apr 1958-May 1958</unitdate>
+              <container id="aspace_c5fab84a300340c908f6c71d1be29583" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_9c0b09c1d13d505d1288401a9839e14c" parent="aspace_c5fab84a300340c908f6c71d1be29583" type="folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref38" level="file">
+            <did>
+              <unittitle>Bess Cameron's Diary of England/Russia Trip</unittitle>
+              <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+              <container id="aspace_b7b60c203f6728e071dd184560c12b20" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_54fa9a2afb80ebd7ab3b8f973e1f768b" parent="aspace_b7b60c203f6728e071dd184560c12b20" type="folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref39" level="file">
+            <did>
+              <unittitle>Anti-Vietnam Correspondence, etc, at NYU.</unittitle>
+              <unitdate normal="1966/1971" type="inclusive">1966-1971</unitdate>
+              <container id="aspace_4b86f3346a5b67d29521650d4b130f2c" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_97fd3e0cf1d41d9ea0c6435e889af9a3" parent="aspace_4b86f3346a5b67d29521650d4b130f2c" type="folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref40" level="file">
+            <did>
+              <unittitle>"Facing the Universe," Table of Contents and Introduction; Personal Political Statement</unittitle>
+              <unitdate normal="1980/1980" type="inclusive">circa 1980</unitdate>
+              <container id="aspace_6adc497988a27b2a7dd31f8ccae16dc1" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_4919b5e50ac99a27e97941dd2580399b" parent="aspace_6adc497988a27b2a7dd31f8ccae16dc1" type="folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref41" level="file">
+            <did>
+              <unittitle>Anti-Nuclear Material, NYU</unittitle>
+              <unitdate normal="1981/1983" type="inclusive">1981-1983</unitdate>
+              <container id="aspace_cb7fdee8d6332d64474cae24c2e50788" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_9c21a4e38d8c8f3aa97283ca311c6746" parent="aspace_cb7fdee8d6332d64474cae24c2e50788" type="folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref42" level="file">
+            <did>
+              <unittitle>Reviews and Replies to Marxism, the Science of Society</unittitle>
+              <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+              <container id="aspace_dfe18ededa6d03a2713296c98997b4e0" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_fb7a7114a8ee456b8fd5b028ff3e2f8c" parent="aspace_dfe18ededa6d03a2713296c98997b4e0" type="folder">11</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref43" level="subseries">
+          <did>
+            <unittitle>Subseries C: Miscellaneous Biographical Material.</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref44" level="file">
+            <did>
+              <unittitle>Diploma (PhD, 1939); Recommendations</unittitle>
+              <unitdate normal="1931/1934" type="inclusive">1931-1934</unitdate>
+              <container id="aspace_b5969e391d2db6f0a8563e8213cb89bb" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_a5d941a919f2c0179475364c65b5437a" parent="aspace_b5969e391d2db6f0a8563e8213cb89bb" type="folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref45" level="file">
+            <did>
+              <unittitle>Biographical Information, from Grant Proposals, etc.</unittitle>
+              <unitdate normal="1941/1951" type="inclusive">1941-1951</unitdate>
+              <container id="aspace_e355e5c8af655610b24db32b4613d8cb" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_111d768d9de88b3fcf6e5d9ca6a3a238" parent="aspace_e355e5c8af655610b24db32b4613d8cb" type="folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref46" level="file">
+            <did>
+              <unittitle>Grant Applications (and correspondence), including Annual Academic Reports from Indiana University</unittitle>
+              <unitdate normal="1942/1952" type="inclusive">1942-1952</unitdate>
+              <container id="aspace_e7e92ed81254c2b0c7961680bd14b94b" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_c0b3465a84f5f19bf43b47c3e92f0bb0" parent="aspace_e7e92ed81254c2b0c7961680bd14b94b" type="folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref47" level="file">
+            <did>
+              <unittitle>Guggenheim Proposal (and acceptance)</unittitle>
+              <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
+              <container id="aspace_b822fe3c69fb8c3b78a22075a81dee85" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_4f31afae2ee642b8880c6e85dc912ae5" parent="aspace_b822fe3c69fb8c3b78a22075a81dee85" type="folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref48" level="file">
+            <did>
+              <unittitle>McGill Honorary Degree</unittitle>
+              <unitdate normal="1970/1970" type="inclusive">Oct 1970</unitdate>
+              <container id="aspace_19e1e8222457c9f4078551bf4076dad4" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_912da65c101fe15ba156d9abec7d67b3" parent="aspace_19e1e8222457c9f4078551bf4076dad4" type="folder">16</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref49" level="subseries">
+          <did>
+            <unittitle>Subseries D: Correspondence.</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref50" level="file">
+            <did>
+              <unittitle>Letter from Cameron's father to mother; Lusitania Program</unittitle>
+              <unitdate normal="1910/1914" type="inclusive">1910; 1914</unitdate>
+              <container id="aspace_9ac0481262aea10bfefd819fd2de6237" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_7102f401067bbcb114b7cb8d5d64d86e" parent="aspace_9ac0481262aea10bfefd819fd2de6237" type="folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref51" level="file">
+            <did>
+              <unittitle>Correspondence with Uncle Jack Cameron, and Aunt Isa</unittitle>
+              <unitdate normal="1936/1946" type="inclusive">1936-1946</unitdate>
+              <container id="aspace_5cfb7aa10f361022a0a72dd62fbe6e04" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_7658d2106b69fa623be8514ef012f1b6" parent="aspace_5cfb7aa10f361022a0a72dd62fbe6e04" type="folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref52" level="file">
+            <did>
+              <unittitle>Miscellaneous Correspondence (both personal and business)</unittitle>
+              <unitdate normal="1939/1988" type="inclusive">1939-1988</unitdate>
+              <container id="aspace_cbe12d6818cbb68d1c26873bfd0c8778" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_f9db275104ebe1b4f1930c1b434aabbf" parent="aspace_cbe12d6818cbb68d1c26873bfd0c8778" type="folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref53" level="file">
+            <did>
+              <unittitle>Personal Correspondence with Harold Files, Frank Scott, Howard Fast, Virginia Erdman, Liam Dunne, Cousin Helen, etc.</unittitle>
+              <unitdate normal="1947/1980" type="inclusive">1947-1980</unitdate>
+              <container id="aspace_0719038f599045969283060970b069c1" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_59b7b2edfbc6d276998b08bb567b2299" parent="aspace_0719038f599045969283060970b069c1" type="folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref54" level="file">
+            <did>
+              <unittitle>Correspondence, etc., with Indiana University</unittitle>
+              <unitdate normal="1951/1974" type="inclusive">1951-1974</unitdate>
+              <container id="aspace_0dee4f9dfb3c4b7927f02346f1ea050c" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_6978140c6b5b37f1a1d30574632641e6" parent="aspace_0dee4f9dfb3c4b7927f02346f1ea050c" type="folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref55" level="file">
+            <did>
+              <unittitle>The Move from the Charles H. Pforzheimer Library to NYU – Correspondence; NYU retirement correspondence</unittitle>
+              <unitdate normal="1962/1973" type="inclusive">1962-1965; 1970-1973</unitdate>
+              <container id="aspace_981ae1f758186390648369bef542679c" label="Mixed Materials [31142046739226]" type="box">2</container>
+              <container id="aspace_1c68107540b18c65031ff97af4ba6729" parent="aspace_981ae1f758186390648369bef542679c" type="folder">22</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref56" level="series">
+        <did>
+          <unittitle>Series II, Shelley.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref57" level="subseries">
+          <did>
+            <unittitle>Subseries A: Shelley Correspondence.</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref58" level="file">
+            <did>
+              <unittitle>Letters Thanking Cameron for Articles (selected)</unittitle>
+              <unitdate normal="1940/1946" type="inclusive">1940-1946</unitdate>
+              <container id="aspace_18e259ab37fa43fd700985ad33212195" label="Mixed Materials [31142046739234]" type="box">3</container>
+              <container id="aspace_906d739ffcede0446c38ba747e1313f2" parent="aspace_18e259ab37fa43fd700985ad33212195" type="folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref59" level="file">
+            <did>
+              <unittitle>Correspondence with Pforzheimer family</unittitle>
+              <unitdate normal="1949/1958" type="inclusive">1949-1958</unitdate>
+              <container id="aspace_31c5ac92cccaef503ee1b1a963893f0c" label="Mixed Materials [31142046739234]" type="box">3</container>
+              <container id="aspace_fcf6f9f1892a88ad68c3a3317db2ef97" parent="aspace_31c5ac92cccaef503ee1b1a963893f0c" type="folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref60" level="file">
+            <did>
+              <unittitle>Correspondence with other scholars re Charles H. Pforzheimer Library catalogue</unittitle>
+              <unitdate normal="1952/1958" type="inclusive">1952-1958</unitdate>
+              <container id="aspace_6c6f7fc12245a5a48e452018413b5f7b" label="Mixed Materials [31142046739234]" type="box">3</container>
+              <container id="aspace_423df3acb1d6f2027659d7a787dd9f4c" parent="aspace_6c6f7fc12245a5a48e452018413b5f7b" type="folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref61" level="file">
+            <did>
+              <unittitle>Correspondence with Charles H. Pforzheimer Library</unittitle>
+              <unitdate normal="1960/1977" type="inclusive">1960-1977</unitdate>
+              <container id="aspace_817bfa9e82f5f9309abe6ce9d574b370" label="Mixed Materials [31142046739234]" type="box">3</container>
+              <container id="aspace_689c394cbf270ec0881924137155bb12" parent="aspace_817bfa9e82f5f9309abe6ce9d574b370" type="folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref62" level="file">
+            <did>
+              <unittitle>Correspondence with Charles H. Pforzheimer Library regarding Galleys</unittitle>
+              <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+              <container id="aspace_ec4b4d97a5c2683f972e34dde7bb4975" label="Mixed Materials [31142046739234]" type="box">3</container>
+              <container id="aspace_9928bf8482831934db6c6e6208f88895" parent="aspace_ec4b4d97a5c2683f972e34dde7bb4975" type="folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref63" level="file">
+            <did>
+              <unittitle>Correspondence with Keats-Shelley Association</unittitle>
+              <unitdate normal="1951/1992" type="inclusive">1951-1953; 1992</unitdate>
+              <container id="aspace_2eddd02da31cacd56f0bdd4f742f8653" label="Mixed Materials [31142046739234]" type="box">3</container>
+              <container id="aspace_db1d07cac090ca2bedf4fbfeca5436c1" parent="aspace_2eddd02da31cacd56f0bdd4f742f8653" type="folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref64" level="file">
+            <did>
+              <unittitle>Correspondence with Shelley Society of New York</unittitle>
+              <unitdate normal="1973/1985" type="inclusive">1973-1985</unitdate>
+              <container id="aspace_a91b5216b3794298942e676795e320e8" label="Mixed Materials [31142046739234]" type="box">3</container>
+              <container id="aspace_49e401a6477433348ee6932534c93726" parent="aspace_a91b5216b3794298942e676795e320e8" type="folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref65" level="file">
+            <did>
+              <unittitle>Misc. Shelley Correspondence</unittitle>
+              <unitdate normal="1947/1957" type="inclusive">1947-1957</unitdate>
+              <container id="aspace_9d8f0bb413be03beb47210fd81067412" label="Mixed Materials [31142046739234]" type="box">3</container>
+              <container id="aspace_247b2b98441b50dfc9c2fe2ad3ff87b5" parent="aspace_9d8f0bb413be03beb47210fd81067412" type="folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref66" level="file">
+            <did>
+              <unittitle>Misc. Shelley Correspondence</unittitle>
+              <unitdate normal="1960/1989" type="inclusive">1960-1989</unitdate>
+              <container id="aspace_1aea72db734c7577e439e4c9758c516c" label="Mixed Materials [31142046739234]" type="box">3</container>
+              <container id="aspace_dbbddd53c4e9896511d4d40b1028e84c" parent="aspace_1aea72db734c7577e439e4c9758c516c" type="folder">9</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref67" level="subseries">
+          <did>
+            <unittitle>Subseries B: Notes, Reports, and Memos.</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref68" level="file">
+            <did>
+              <unittitle>Charles H. Pforzheimer Library: <emph render="italic">Shelley and His Circle</emph> Collection: Quarterly Reports, Meeting Notes, and Explanatory Memos</unittitle>
+              <unitdate normal="1952/1959" type="inclusive">1952-1959</unitdate>
+              <container id="aspace_8ad85b4a52477d8a7ca8c48dae8dab54" label="Mixed Materials [31142046739234]" type="box">3</container>
+              <container id="aspace_c7b076c93886e91fd32cd08d34c2ba7f" parent="aspace_8ad85b4a52477d8a7ca8c48dae8dab54" type="folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref69" level="file">
+            <did>
+              <unittitle>Charles H. Pforzheimer Library: <emph render="italic">Shelley and His Circle</emph> Collection: Notes on individual Shelley/Godwin etc. Acquisitions</unittitle>
+              <unitdate normal="1948/1957" type="inclusive">circa 1953-1957</unitdate>
+              <container id="aspace_a2816413af3398d78911ab3589230c72" label="Mixed Materials [31142046739234]" type="box">3</container>
+              <container id="aspace_b411b084a7a95c2789717ad377cc68d5" parent="aspace_a2816413af3398d78911ab3589230c72" type="folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref70" level="file">
+            <did>
+              <unittitle>Charles H. Pforzheimer Library: Documents from 'Lord Abinger' Shelley Exhibit</unittitle>
+              <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+              <container id="aspace_16f5b26998bebd43ccc378718b7f4559" label="Mixed Materials [31142046739234]" type="box">3</container>
+              <container id="aspace_7835d97aea04e33dac0e9d44ec30a1e0" parent="aspace_16f5b26998bebd43ccc378718b7f4559" type="folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref71" level="file">
+            <did>
+              <unittitle>Research Trip in Europe: Notes etc.</unittitle>
+              <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+              <container id="aspace_aef98bb99013cd9837aad8a694e95abe" label="Mixed Materials [31142046739234]" type="box">3</container>
+              <container id="aspace_d3f6dbe39f4c85ebf024b183995c24ca" parent="aspace_aef98bb99013cd9837aad8a694e95abe" type="folder">13</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref72" level="subseries">
+          <did>
+            <unittitle>Subseries C: Articles on Shelley.</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref73" level="file">
+            <did>
+              <unittitle>Essay and notes on Mary Wollstonecraft, by Elizabeth Cameron (Cameron's first wife)</unittitle>
+              <unitdate normal="1932/1942" type="inclusive">circa 1937</unitdate>
+              <container id="aspace_b41621b8fc078d352bd5cd63de220274" label="Mixed Materials [31142046739242]" type="box">4</container>
+              <container id="aspace_9ace8dbeeb19720ae7d6111cb3e17128" parent="aspace_b41621b8fc078d352bd5cd63de220274" type="folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref74" level="file">
+            <did>
+              <unittitle>Articles on Shelley</unittitle>
+              <unitdate normal="1940/1949" type="inclusive">1940s</unitdate>
+              <container id="aspace_18273000f955c14b1fa3d5b4c97b0391" label="Mixed Materials [31142046739242]" type="box">4</container>
+              <container id="aspace_93c2bc6c40ebf8230db57e67651dc9e6" parent="aspace_18273000f955c14b1fa3d5b4c97b0391" type="folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref75" level="file">
+            <did>
+              <unittitle>Article on Shelley's "Epipsychidion," Published by the <emph render="italic">M.L.A. Quarterly</emph></unittitle>
+              <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+              <container id="aspace_0ec85a76078ba8984087f9a1c8e17d4c" label="Mixed Materials [31142046739242]" type="box">4</container>
+              <container id="aspace_7a1ebe9eb3d8dae8e98ed897cf4cdb52" parent="aspace_0ec85a76078ba8984087f9a1c8e17d4c" type="folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref76" level="file">
+            <did>
+              <unittitle>Introduction to <emph render="italic">Shelley: Poetry and Prose</emph> (published by Rinehart)</unittitle>
+              <unitdate normal="1943/1953" type="inclusive">circa 1948</unitdate>
+              <container id="aspace_36b48b4717126177d9ff64e36eef6df3" label="Mixed Materials [31142046739242]" type="box">4</container>
+              <container id="aspace_8dbb94e479de7c4c2644030e84e3a2ef" parent="aspace_36b48b4717126177d9ff64e36eef6df3" type="folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref77" level="file">
+            <did>
+              <unittitle>Survey of Shelley Scholarship, 1940-1953</unittitle>
+              <unitdate normal="1949/1959" type="inclusive">circa 1954</unitdate>
+              <container id="aspace_3edf797048dd5320481099b9ff6cd0d7" label="Mixed Materials [31142046739242]" type="box">4</container>
+              <container id="aspace_fdc46c030c114d690e0126325cbe21bc" parent="aspace_3edf797048dd5320481099b9ff6cd0d7" type="folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref78" level="file">
+            <did>
+              <unittitle>Articles and Notes on Shelley Scholarship</unittitle>
+              <unitdate normal="1955/1960" type="inclusive">1955-1960</unitdate>
+              <container id="aspace_1a9ab100ffb5d3d005a12c2ecc96345a" label="Mixed Materials [31142046739242]" type="box">4</container>
+              <container id="aspace_697fbc5a66d8a25f4874aeeeb09fb16b" parent="aspace_1a9ab100ffb5d3d005a12c2ecc96345a" type="folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref79" level="file">
+            <did>
+              <unittitle>Cameron's Published Reviews of Shelley Scholarship</unittitle>
+              <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+              <container id="aspace_22fcbccc1e512e22e3825738a722f454" label="Mixed Materials [31142046739242]" type="box">4</container>
+              <container id="aspace_6b0856b29aacff26f868c1e14238bd73" parent="aspace_22fcbccc1e512e22e3825738a722f454" type="folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref80" level="file">
+            <did>
+              <unittitle>Article on Shelley and Marx</unittitle>
+              <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+              <container id="aspace_77c7df57d1bb7781a4485282b60de954" label="Mixed Materials [31142046739242]" type="box">4</container>
+              <container id="aspace_81d06ba60726ca1d68a09c6dd86ebf47" parent="aspace_77c7df57d1bb7781a4485282b60de954" type="folder">8</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref81" level="subseries">
+          <did>
+            <unittitle>Subseries D: Reviews, etc.</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref82" level="file">
+            <did>
+              <unittitle>Articles, Reviews, and Correspondence over a few minor Shelley controversies</unittitle>
+              <unitdate normal="1944/1953" type="inclusive">1944-1953</unitdate>
+              <container id="aspace_ab8e04eb74beb1bf854aac7a210b6a08" label="Mixed Materials [31142046739242]" type="box">4</container>
+              <container id="aspace_133ed6443c21687e4c5fdfe11504a923" parent="aspace_ab8e04eb74beb1bf854aac7a210b6a08" type="folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref83" level="file">
+            <did>
+              <unittitle>Reviews, etc for <emph render="italic">The Young Shelley: Genesis of a Radical; Romantic Rebels</emph></unittitle>
+              <unitdate normal="1949/1974" type="inclusive">1949-1951; 1974</unitdate>
+              <container id="aspace_90ec0cac613c785ad1adccbe8c4b20b8" label="Mixed Materials [31142046739242]" type="box">4</container>
+              <container id="aspace_8c5a303f5a808ef9eb801dadebc7fd7d" parent="aspace_90ec0cac613c785ad1adccbe8c4b20b8" type="folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref84" level="file">
+            <did>
+              <unittitle>Reviews for Shelley's <emph render="italic">Esdaile Notebook</emph>, edited by Cameron (including P.E.N. invititation with James Baldwin)</unittitle>
+              <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+              <container id="aspace_354612030ac7a093041ea41c252d3bf2" label="Mixed Materials [31142046739242]" type="box">4</container>
+              <container id="aspace_5527f8934f91b7b8fe3c358c099d1c99" parent="aspace_354612030ac7a093041ea41c252d3bf2" type="folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref85" level="file">
+            <did>
+              <unittitle>Reviews and Publishing Notes for <emph render="italic">Shelley and his Circle</emph>, volumes III and IV</unittitle>
+              <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+              <container id="aspace_febd0908aa44671f07d162c70b85a343" label="Mixed Materials [31142046739242]" type="box">4</container>
+              <container id="aspace_b702b64c7c62b34c23f8341b4bf345c2" parent="aspace_febd0908aa44671f07d162c70b85a343" type="folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref86" level="file">
+            <did>
+              <unittitle>Reviews of Cameron's <emph render="italic">Shelley: The Golden Years</emph> (also letters with Harvard University Press)</unittitle>
+              <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+              <container id="aspace_cd46bdcda7206016e25096db70f445dd" label="Mixed Materials [31142046739242]" type="box">4</container>
+              <container id="aspace_ecbf55635ea5e1a0d84a3c5c13810b23" parent="aspace_cd46bdcda7206016e25096db70f445dd" type="folder">13</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref87" level="series">
+        <did>
+          <unittitle>Series III, Other Writings.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref88" level="subseries">
+          <did>
+            <unittitle>Subseries A: Novels and Plays.</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref89" level="file">
+            <did>
+              <unittitle><emph render="italic">The Avenging Turtle</emph>, a Novel, chapters 1-4 (a draft of <emph render="italic">The Enormous Turtle</emph>, published 1954)</unittitle>
+              <unitdate normal="1945/1955" type="inclusive">circa 1950</unitdate>
+              <container id="aspace_969decd220f5058e7b1d5f826f1a3ffc" label="Mixed Materials [31142046739242]" type="box">4</container>
+              <container id="aspace_78c3209ce5e80849a4443c8cbeb4eeb2" parent="aspace_969decd220f5058e7b1d5f826f1a3ffc" type="folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref90" level="file">
+            <did>
+              <unittitle><emph render="italic">Avenging Turtle</emph>, chapters 5-7</unittitle>
+              <unitdate normal="1945/1955" type="inclusive">circa 1950</unitdate>
+              <container id="aspace_d8491648aac2afc9497ab6c2040c1926" label="Mixed Materials [31142046739242]" type="box">4</container>
+              <container id="aspace_6ec12dd99978551e283ea4c3debb7964" parent="aspace_d8491648aac2afc9497ab6c2040c1926" type="folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref91" level="file">
+            <did>
+              <unittitle><emph render="italic">Avenging Turtle</emph>, chapters 8-10 (end)</unittitle>
+              <unitdate normal="1945/1955" type="inclusive">circa 1950</unitdate>
+              <container id="aspace_2588b4e80a591763e3f40b46fb14e2c3" label="Mixed Materials [31142046739242]" type="box">4</container>
+              <container id="aspace_a7c7ce8cd7ccc78fa2953c322484d14c" parent="aspace_2588b4e80a591763e3f40b46fb14e2c3" type="folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref92" level="file">
+            <did>
+              <unittitle>"Stars in the Morning," a play about Shelley</unittitle>
+              <unitdate normal="1961/1961" type="inclusive">Nov 1961</unitdate>
+              <container id="aspace_cd974d431f8a3d569408d070c8fe57eb" label="Mixed Materials [31142046739259]" type="box">5</container>
+              <container id="aspace_24c14916d45ac84da35abbecc62c8aaa" parent="aspace_cd974d431f8a3d569408d070c8fe57eb" type="folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref93" level="file">
+            <did>
+              <unittitle>Untitled, unfinished play</unittitle>
+              <unitdate normal="1957/1967" type="inclusive">circa 1962</unitdate>
+              <container id="aspace_6db8e45ffeb62a0f51bfd252a31fc1d2" label="Mixed Materials [31142046739259]" type="box">5</container>
+              <container id="aspace_a3d908d7f3d378c8113d11673d9050f9" parent="aspace_6db8e45ffeb62a0f51bfd252a31fc1d2" type="folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref94" level="file">
+            <did>
+              <unittitle>"The Flames Will Curl," unfinished play</unittitle>
+              <unitdate normal="1961/1961" type="inclusive">Jul 1963</unitdate>
+              <container id="aspace_f91b99ea4e6513c53fc472fc8f54f8a0" label="Mixed Materials [31142046739259]" type="box">5</container>
+              <container id="aspace_7f3508d17d29d6786cc844a1c02eaa81" parent="aspace_f91b99ea4e6513c53fc472fc8f54f8a0" type="folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref95" level="file">
+            <did>
+              <unittitle>"The Third Wave," political play about South America</unittitle>
+              <unitdate normal="1977/1987" type="inclusive">circa 1982</unitdate>
+              <container id="aspace_199f869d3daabada40d0235d95cd09fe" label="Mixed Materials [31142046739259]" type="box">5</container>
+              <container id="aspace_4c90673ee48c5169b96a1b64f9687692" parent="aspace_199f869d3daabada40d0235d95cd09fe" type="folder">4</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref96" level="subseries">
+          <did>
+            <unittitle>Subseries B: Poetry.</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref97" level="file">
+            <did>
+              <unittitle>Miscellaneous Poems (mostly unpublished)</unittitle>
+              <unitdate normal="1930/1970" type="inclusive">circa 1930-1970</unitdate>
+              <container id="aspace_681e11ffa396d1cb98bc339abab67fbe" label="Mixed Materials [31142046739259]" type="box">5</container>
+              <container id="aspace_bac6c69322beb7cd251a4c0d162eca80" parent="aspace_681e11ffa396d1cb98bc339abab67fbe" type="folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref98" level="file">
+            <did>
+              <unittitle>Poems: <emph render="italic">Personal and Revolutionary</emph></unittitle>
+              <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+              <container id="aspace_c9e73fd5bd88965c83d291d2cbb43c84" label="Mixed Materials [31142046739259]" type="box">5</container>
+              <container id="aspace_b61d9bc46a7fcc004000fcd219d9a1c0" parent="aspace_c9e73fd5bd88965c83d291d2cbb43c84" type="folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref99" level="file">
+            <did>
+              <unittitle>Poems from <emph render="italic">Old and New</emph> — two versions</unittitle>
+              <unitdate normal="1963/1967" type="inclusive">1963- 1967</unitdate>
+              <container id="aspace_ff0bb9e6ada6b6d13af3a2769f449dc5" label="Mixed Materials [31142046739259]" type="box">5</container>
+              <container id="aspace_858acf126714f4d989c404cbcc22ca2c" parent="aspace_ff0bb9e6ada6b6d13af3a2769f449dc5" type="folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref100" level="file">
+            <did>
+              <unittitle>"Love's Progress" (a poetry cycle)</unittitle>
+              <unitdate normal="1910/1992" type="inclusive">undated</unitdate>
+              <container id="aspace_48fec54d0492c8ff33f6cf4a27882365" label="Mixed Materials [31142046739259]" type="box">5</container>
+              <container id="aspace_90c610d7f3c3f4df1a397cd274a8b487" parent="aspace_48fec54d0492c8ff33f6cf4a27882365" type="folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref101" level="file">
+            <did>
+              <unittitle>Later Poems (In <emph render="italic">Poetry for Lovers and Rebels?</emph>)</unittitle>
+              <unitdate normal="1970/1992" type="inclusive">circa 1970-1992</unitdate>
+              <container id="aspace_899bdced19f1b2c2f692ea2defe5937f" label="Mixed Materials [31142046739259]" type="box">5</container>
+              <container id="aspace_9c89961b4ee8de55c57ed691d924d300" parent="aspace_899bdced19f1b2c2f692ea2defe5937f" type="folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref102" level="file">
+            <did>
+              <unittitle>Poetry Correspondence (with friends and publishers)</unittitle>
+              <unitdate normal="1961/1977" type="inclusive">1961-1963, 1977</unitdate>
+              <container id="aspace_988c600213923d3620c76bdcc64b1ffc" label="Mixed Materials [31142046739259]" type="box">5</container>
+              <container id="aspace_9d833b16041be13d35ea63e04f8f3b5e" parent="aspace_988c600213923d3620c76bdcc64b1ffc" type="folder">10</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref103" level="subseries">
+          <did>
+            <unittitle>Subseries C: Marx Dialogues.</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref104" level="file">
+            <did>
+              <unittitle>Dialogues on Marx and Engels: Preface (2 versions) and Sessions 1-3</unittitle>
+              <unitdate normal="1966/1976" type="inclusive">circa 1971</unitdate>
+              <container id="aspace_576e5e6c979069e539c3d9df9406595c" label="Mixed Materials [31142046739267]" type="box">6</container>
+              <container id="aspace_e3b565581f02d9c4263113ecf78ab2e8" parent="aspace_576e5e6c979069e539c3d9df9406595c" type="folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref105" level="file">
+            <did>
+              <unittitle>Dialogues, Sessions 4-5</unittitle>
+              <unitdate normal="1966/1976" type="inclusive">circa 1971</unitdate>
+              <container id="aspace_2df02466fa73ad54a615ccfe0cf4b5f3" label="Mixed Materials [31142046739267]" type="box">6</container>
+              <container id="aspace_146c775d04f4fffa413fdef64be4eaaf" parent="aspace_2df02466fa73ad54a615ccfe0cf4b5f3" type="folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref106" level="file">
+            <did>
+              <unittitle>Dialogues, Sessions 6-7 (6 has no end notes)</unittitle>
+              <unitdate normal="1966/1976" type="inclusive">circa 1971</unitdate>
+              <container id="aspace_d7fea0d8b10ff4703ff9270b33db449b" label="Mixed Materials [31142046739267]" type="box">6</container>
+              <container id="aspace_c9139fa6bd15ca90b00927a38e3acf8e" parent="aspace_d7fea0d8b10ff4703ff9270b33db449b" type="folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref107" level="file">
+            <did>
+              <unittitle>Dialogues, Sessions 8-9</unittitle>
+              <unitdate normal="1966/1976" type="inclusive">circa 1971</unitdate>
+              <container id="aspace_b3237dd8a67339354c8f14a56ec299a9" label="Mixed Materials [31142046739267]" type="box">6</container>
+              <container id="aspace_0c4f28a551366fed72cbeb2ea3a4a25a" parent="aspace_b3237dd8a67339354c8f14a56ec299a9" type="folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref108" level="file">
+            <did>
+              <unittitle>Dialogues, Session 11 (Session 10 missing)</unittitle>
+              <unitdate normal="1966/1976" type="inclusive">circa 1971</unitdate>
+              <container id="aspace_ce041ed24a32c1df81b0a90f14669a77" label="Mixed Materials [31142046739267]" type="box">6</container>
+              <container id="aspace_c27dd27b1fe84fb01f9e8d70b85ce475" parent="aspace_ce041ed24a32c1df81b0a90f14669a77" type="folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref109" level="file">
+            <did>
+              <unittitle>Correspondence re Dialogues: Publisher's rejections etc, and Pre-publication Comments (including A. Baraka, H. Zinn, E.P. Thompson, etc.)</unittitle>
+              <unitdate normal="1971/1976" type="inclusive">1971-1976</unitdate>
+              <container id="aspace_1b0ca7d42cac3bf9e56d5fe14676fcbc" label="Mixed Materials [31142046739267]" type="box">6</container>
+              <container id="aspace_88a31803f01a7244295035338106b68c" parent="aspace_1b0ca7d42cac3bf9e56d5fe14676fcbc" type="folder">6</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref110" level="series">
+        <did>
+          <unittitle>Series IV, Miscellaneous Unprocessed Materials.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Writings, published and unpublished, and related correspondence; topics are capitalism, socialism, China and the Soviet Union, literary criticism.</unittitle>
+            <unitdate normal="1960/1999" type="inclusive">1960s-1990s</unitdate>
+            <container id="aspace_e87fc887bdd1a2879572b0c9e5cdbdae" label="Mixed Materials [31142046739275]" type="box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Writings, published and unpublished, and related correspondence. Topics include Marxism and literature; Marxist philosophy; an article on Nikolai Bukharin, articles critiquing "revisionism" and Gorbachev; correspondence with several friends and colleagues, including Herbert Aptheker; and a file on efforts to defend Erich Honecker and other former East German Communists from prosecution.</unittitle>
+            <unitdate normal="1980/1999" type="inclusive">1980s-1990s</unitdate>
+            <container id="aspace_f6e6f44a8654087b8d949d22332058c0" label="Mixed Materials [31142046739283]" type="box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>Writings, published and unpublished. Topics include Stalin, Mao Zedong, Enver Hoxha (Communist leader of Albania), Marxist philosophy, world history, ecology and Marxism.</unittitle>
+            <unitdate normal="1970/1989" type="inclusive">undated, 1970s-1980s</unitdate>
+            <container id="aspace_2fa87916d3ada96bc7e3605d9b98b3d1" label="Mixed Materials [31142046739291]" type="box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Writings, published and unpublished, and related correspondence. Most appear to be drafts, whole or partial, of his published books <emph render="italic">Atmospheric Destruction and Human Survival</emph> (1992), <emph render="italic">Marxism: A Living Science</emph> (1993), and <emph render="italic">Dialectical Materialism and Modern Science</emph> (1995). There is also a partial typescript for an unpublished book about Enver Hoxha; a folder titled "Factions" relating to the 1989-1991 internal struggle within the Communist Party USA; a folder containing several issues [1987-9] of, and correspondence relating to <emph render="italic">Red Academy</emph>, a publication of the W. Alphaeus Hunton College Teachers Club of the CPUSA. [The original issues have been separated for cataloging, with copies retained in the folder.]</unittitle>
+            <unitdate normal="1980/1999" type="inclusive">undated, 1980s-1990s</unitdate>
+            <container id="aspace_a715b6ebc2e9ac3e12d7f655012c7ec5" label="Mixed Materials [31142046739309]" type="box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>There is one large folder of correspondence, late 1940s-1980s; the rest of the box contains writings, published and unpublished, and related correspondence. Topics include Marxist theory and tactics, Lenin, Mao Zedong, Enver Hoxha, and sociobiology.</unittitle>
+            <unitdate normal="1940/1999" type="inclusive">1940s-1990s</unitdate>
+            <container id="aspace_6bcbe0c37ab7b68ad312496e7230a880" label="Mixed Materials [31142046739317]" type="box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Writings, published and unpublished, and related correspondence. Topics include Enver Hohxa, Mao Zedong. There are also several folders of personal correspondence, typically with friends and fellow academics, and some correspondence relating to an unfavorable review of his Shelley scholarship.</unittitle>
+            <unitdate normal="1970/1999" type="inclusive">1970s-1990s</unitdate>
+            <container id="aspace_263c8ffc4ae68c13712b06f0fc0d7855" label="Mixed Materials [31142046739325]" type="box">12</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

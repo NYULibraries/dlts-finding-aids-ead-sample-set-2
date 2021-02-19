@@ -1,122 +1,1466 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/photos_221/">photos_221</eadid><filedesc><titlestmt><titleproper>Guide to the James E. Jackson and Esther Cooper Jackson Photographs Collection <num>PHOTOS.221</num></titleproper><author>Aniko Szucs and Erika Gottfried, 2006-2007</author></titlestmt><editionstmt><p>This version was derived from Jackson Photos (Photos 221)</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:42:48 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>James E. Jackson and Esther Cooper Jackson Photographs</unittitle>
-    <origination label="Creator">
-      <persname source="naf">Jackson, Esther Cooper</persname>
-    </origination>
-    <origination label="Creator">
-      <persname source="naf">Jackson, James E., 1914-2007</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" source="naf">Jackson, James E., 1914-2007</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" source="naf">Jackson, Esther Cooper</persname>
-    </origination>
-    <unitid>PHOTOS.221</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">4 boxes</extent>
-    </physdesc>
-    <unitdate normal="1910/1995" type="inclusive">1910-1995</unitdate>
-    <unitdate normal="1960/1979" type="bulk">1960-1979</unitdate>
-    <abstract id="aspace_6dd8bd7a384a91ad056bfcc0b0776f35">James E. Jackson (1914-2007) and Esther Cooper Jackson (1917- ) are African-American communists and civil rights activists, best known for their role in founding and leading the Southern Negro Youth Congress (1937-1948). James Jackson was head of the Communist Party of the United States of America (CPUSA) Louisiana state organization in 1946, and was a Party organizer in the automobile industry in Detroit from 1947 to 1950. He then moved to New York, becoming the Southern Director for the Communist Party. In 1951 he was indicted under the Smith Act (charged with advocating the overthrow of the U.S. government), and became a fugitive until 1955. He later served as the CPUSA's Educational Director and International Affairs Secretary, retiring in 1991. Esther Cooper Jackson served as the Executive Secretary of the Southern Negro Youth Congress from 1942-1946 and co-founded and served as the managing editor from 1961-86 of <emph render="italic">Freedomways</emph>, the influential African-American political and cultural quarterly. The collection consists of ca. 1,350 items (mainly black and white photographs), the largest part of which documents or derives from the international travels of the Jacksons—primarily James Jackson's travels as a representative of the CPUSA from the1950s through the 1980s; also included are a small number of family photographs and images documenting political and organizational activities of the Jacksons from 1930s through the 1950s and some images from <emph render="italic">Freedomways</emph>, mostly documenting cultural events sponsored by the magazine. Individuals represented include CPUSA leaders and activists, as well as leaders of Communist nations.</abstract>
-    <physdesc id="aspace_55791decb432a9149dc786666d7e1985" label="General Physical Description note">(circa 1,350 items: 1,000 black and white prints and 250 color prints, from 1 x 1.75 to 11 x 15; 50 black and white negatives; 35 color negatives; 20 slides)</physdesc>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/photos_221/">photos_221</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the James E. Jackson and Esther Cooper Jackson Photographs Collection <num>PHOTOS.221</num></titleproper>
+        <author>Aniko Szucs and Erika Gottfried, 2006-2007</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Jackson Photos (Photos 221)</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:42:48 -0500</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>James E. Jackson and Esther Cooper Jackson Photographs</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Jackson, Esther Cooper</persname>
+      </origination>
+      <origination label="Creator">
+        <persname source="naf">Jackson, James E., 1914-2007</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" source="naf">Jackson, James E., 1914-2007</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" source="naf">Jackson, Esther Cooper</persname>
+      </origination>
+      <unitid>PHOTOS.221</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4 boxes</extent>
+      </physdesc>
+      <unitdate normal="1910/1995" type="inclusive">1910-1995</unitdate>
+      <unitdate normal="1960/1979" type="bulk">1960-1979</unitdate>
+      <abstract id="aspace_6dd8bd7a384a91ad056bfcc0b0776f35">James E. Jackson (1914-2007) and Esther Cooper Jackson (1917- ) are African-American communists and civil rights activists, best known for their role in founding and leading the Southern Negro Youth Congress (1937-1948). James Jackson was head of the Communist Party of the United States of America (CPUSA) Louisiana state organization in 1946, and was a Party organizer in the automobile industry in Detroit from 1947 to 1950. He then moved to New York, becoming the Southern Director for the Communist Party. In 1951 he was indicted under the Smith Act (charged with advocating the overthrow of the U.S. government), and became a fugitive until 1955. He later served as the CPUSA's Educational Director and International Affairs Secretary, retiring in 1991. Esther Cooper Jackson served as the Executive Secretary of the Southern Negro Youth Congress from 1942-1946 and co-founded and served as the managing editor from 1961-86 of <emph render="italic">Freedomways</emph>, the influential African-American political and cultural quarterly. The collection consists of ca. 1,350 items (mainly black and white photographs), the largest part of which documents or derives from the international travels of the Jacksons—primarily James Jackson's travels as a representative of the CPUSA from the1950s through the 1980s; also included are a small number of family photographs and images documenting political and organizational activities of the Jacksons from 1930s through the 1950s and some images from <emph render="italic">Freedomways</emph>, mostly documenting cultural events sponsored by the magazine. Individuals represented include CPUSA leaders and activists, as well as leaders of Communist nations.</abstract>
+      <physdesc id="aspace_55791decb432a9149dc786666d7e1985" label="General Physical Description note">(circa 1,350 items: 1,000 black and white prints and 250 color prints, from 1 x 1.75 to 11 x 15; 50 black and white negatives; 35 color negatives; 20 slides)</physdesc>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-  </did>
-  <acqinfo id="aspace_4a5bca335c8f5647a1492abb1f4b2926">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by James and Esther Jackson, 2005-2006. The accession numbers associated with this gift are 2006.002, NPA.2006.042, and NPA.2006.077</p>  </acqinfo>
-  <accessrestrict id="aspace_2dac07df262f2dc5716afa4637a3dac0">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <bioghist id="aspace_ae2fb3d2309160fd30fc4444a896263f">
-    <head>Historical/Biographical Note</head>
-<p>James E. Jackson (1914-2007) and Esther Cooper Jackson (1917- ), African-American communists and civil rights activists, are best known for their role in founding and leading the Southern Negro Youth Congress (1937-1948). Both were raised in middle-class families with histories of civil rights activism. James Jackson graduated from Virginia Union University in 1934, and at Howard University (the alma mater of his parents) graduated from the College of Pharmacy in 1937. After attending Dunbar High School in Washington D.C., Esther Cooper graduated from Oberlin College in 1938, and completed her master's degree at Fisk University in 1940, writing as her thesis "Negro Women Domestic Workers in Relation to Trade Unionism." James Jackson joined the Communist Party in 1931, and Esther Cooper joined in 1939. The couple met in 1939 (they married in 1941) when James Jackson was staying at Fisk while working for Ralph Bunche as an investigator for what would become Gunnar Myrdal's <emph render="italic">An American Dilemma: The Negro Problem and Modern Democracy</emph>(1944).</p><p>The Southern Negro Youth Congress (SNYC), a Communist-led popular front organization, held its first annual conference, organized by James Jackson and Ed Strong, in Richmond, in February 1937. Under its slogan "Freedom, Equality, Opportunity," the SNYC campaigned for the full range civil, economic, political, and social rights for African Americans. Activities and issues included, supporting labor organizing (including domestic workers), campaigns against lynching, police brutality, and the poll tax, for the right to vote and an end to segregation, for an end to employment discrimination (sometimes via consumer boycotts), and during World War II, for enforcement of regulations barring discrimination in war industries. The Jacksons played leading roles throughout the SNYC's first decade, Esther Jackson as Executive Secretary, and James Jackson as Special Projects Director, respectively. In 1939 the SNYC moved its headquarters to Birmingham, Alabama.</p><p>James Jackson entered the army in 1943 and served in the Burma theatre. In autumn 1945, Esther Jackson attended the World Youth Congress in London, where she met W. E. B. Du Bois, which marked the start of a close association the Jacksons and Du Bois. In 1946 James Jackson became State Chairman of the Communist Party of Louisiana. In 1947 the Jacksons moved to Detroit, where James Jackson began work as a Party organizer among the automobile workers, while Esther Jackson was active in the local branches of the Progressive Party and of the Civil Rights Congress, another popular front organization. In 1951 the Jacksons moved to New York and James Jackson was named Southern Director of the Communist Party. In June 1951, he was indicted under the Smith Act (charged with advocating the overthrow of the U.S. government) and went underground to avoid arrest. Emerging almost five years later, Jackson was sentenced to prison, but he did not serve time, as the Smith Act was declared unconstitutional by the Supreme Court shortly after.</p><p>Thereafter, James Jackson served as a full-time Party official, including as a member of its leading Political Bureau, and as Education Director and as International Affairs Secretary, in which capacity he traveled throughout the Communist countries and elsewhere. Meanwhile, in 1961 Esther Jackson helped found the influential African American political and cultural quarterly, <emph render="italic">Freedomways</emph>, and served as its editor throughout its years of publication, from 1961 to 1986. James Jackson retired in 1991, in the aftermath of the 1991 split in the CPUSA.</p>  </bioghist>
-  <scopecontent id="aspace_eb64cd530b82db46269d5b9e16804a4a">
-    <head>Scope and Content Note</head>
-<p>The collection consists of ca. 1,350 images, mainly black and white photographs. The largest group of images documents the Jacksons' (in particular James Jackson's) extensive international travels in an official capacity for the CPUSA. These include trips as part of CPUSA delegations to international communist meetings convened in the Soviet Union. These consist almost entirely of official press photographs, including a leather-bound official presentation-type photograph album holding images from the 26th World Congress of the Communist Party of the Soviet Union, in Moscow, 1959. Originally holding thirty (mainly 8 ½ x 6 inch) black and white prints (six became loose and are stored in a folder adjacent to the album; seven images are missing), most of these consist of iconic images of Moscow cityscapes and buildings, wide shots of the Congress and Nikita Khrushchev (then First Secretary of the Communist Party of the Soviet Union) addressing it, but a few are two-shots or group shots that include James Jackson. Also documented are journeys to state-sponsored gatherings in eastern European Soviet bloc countries including Bulgaria, Czechoslovakia, East Germany, Hungary, and Poland, as well as trips to Canada, western Europe (England and France), Latin America (Argentina, Cuba, and Venezuela), Africa (Ethiopia), and Asian countries. The latter include Cambodia, China, India, Mongolia, and North Korea, but most notably Vietnam (from 1963 to 1980). The photographs from the trips to Vietnam include a small group of images of Jackson interviewing American prisoners of war (including U.S. Navy Lieutenant-Commander Richard Allen Stratton) in 1968 at the North Vietnamese detention camp known as the "Hanoi Hilton." Also notable is a 1980 color snapshot of James Jackson with Madame Binh, former leader of the National Liberation Front's delegation to the 1970s U.S.–Vietnamese peace negotiations in Paris, although most of the photographs from Vietnam appear to be official Vietnamese press photographs documenting the destruction wreaked by the war rather than private photographs.</p><p>The collection also includes images of CPUSA leaders and luminaries (portraits or shown with James or Esther Jackson or the Jacksons together), such as Eugene Dennis, Gus Hall, Elizabeth Gurley Flynn, and prominent African-American communists Louis Burnham, Hosea Hudson, Henry Winston, Bessie Mitchell, and Angela Davis, as well as photographs of W. E. B. Du Bois. Also pictured with James Jackson are international communist leaders such as Ho Chi Minh, Nikita Khruschev, Leonid Brezhnev, and Mikhail Gorbachev; Henry Winston is shown posed with Fidel Castro. In addition, images from the files of <emph render="italic">Freedomways</emph>are included in the collection. These mainly document cultural events sponsored by the magazine, which include performers such as Harry Belafonte, Ossie Davis, Pete Seeger, Miriam Makeba and Carmen De Lavallade. Also notable in this series are a small number of searing images of police pursuing and beating residents of Harlem and bleeding residents during a conflict that broke out in July 1964 following protests over the killing of an African-American man by a white police officer.</p><p>More sparsely represented in the collection are biographical and family photographs, images that relate to the SNYC, pictures of demonstrations (ranging from May Day rallies of the 1940s and 1980s to 1940s civil rights marches, protests against the war in Vietnam and an early protest against United States' intervention in Arab countries) and of delegations of African-Americans visiting government officials, including President Lyndon Johnson and Democratic Senator (and Progressive Party vice-presidential candidate) Glen Taylor of Idaho.</p>  </scopecontent>
-  <arrangement id="aspace_15add888f280654e0c25a024d693c2e4">
-    <head>Arrangement</head>
-<p>Folders are arranged chronologically within series, with the exception of series V and XIV, which are arranged alphabetically.</p><p>The files are grouped into sixteen series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>I. James E. Jackson.</item>
-      <item>II. Esther Cooper Jackson.</item>
-      <item>III. Esther and James Jackson.</item>
-      <item>IV. Group Pictures.</item>
-      <item>V. Photographs of Others.</item>
-      <item>VI. Communist Party of the United States (CPUSA).</item>
-      <item>VII. Communist Party of the Soviet Union (CPSU).</item>
-      <item>VIII. International Communist Parties.</item>
-      <item>IX. Conferences.</item>
-      <item>X. Miscellaneous Events.</item>
-      <item>XI. Demonstrations and Rallies.</item>
-      <item>XII. Southern Negro Youth Congress.</item>
-      <item>XIII. Freedomways.</item>
-      <item>XIV. Travel.</item>
-      <item>XV. Negatives.</item>
-      <item>XVI. Photo Album.</item>
-    </list>
-  </arrangement>
-  <relatedmaterial id="aspace_a8a986f69fae96302dace055b344b66b">
-    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-<p>Communist Party of the USA Photographs (Photos #223)</p><p>James E. and Esther Cooper Jackson Oral History Collection (Oral History #57)</p><p>James E. and Esther Cooper Jackson Graphics Collection (Graphics #26).</p><p>James E. and Esther Cooper Jackson Papers (Tamiment #347)</p>  </relatedmaterial>
-  <userestrict id="aspace_c0ffe5d367cd6bfce3c1e4f6500bb439">
-    <head>Conditions Governing Use</head>
-<p>Any rights (including copyright and related rights to publicity and privacy) held by James Jackson and Esther Cooper Jackson were transferred to New York University in 2005 by James and Esther Jackson. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library and Robert F. Wagner Archives. Please contact tamiment.wagner@nyu.edu, (212) 998-2630.</p>  </userestrict>
-  <prefercite id="aspace_5145ca66738d5598cfd2a75b934d6632">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <controlaccess>
-    <subject source="lcsh">African American communists.</subject>
-    <genreform source="aat">Black-and-white photographs.</genreform>
-    <subject source="lcsh">Communism -- United States.</subject>
-    <geogname source="lcsh">Moscow (Russia)</geogname>
-    <genreform source="aat">Color negatives.</genreform>
-    <genreform source="aat">Color slides.</genreform>
-    <genreform source="aat">Color photographs.</genreform>
-    <genreform source="aat">Black-and-white negatives.</genreform>
-    <geogname source="lcsh">Vietnam.</geogname>
-    <geogname source="lcsh">New York (N.Y.).</geogname>
-    <corpname source="naf">Freedomways Associates</corpname>
-    <persname source="naf">Jackson, James E., 1914-2007</persname>
-    <persname source="naf">Flynn, Elizabeth Gurley</persname>
-    <persname source="naf">Hudson, Hosea</persname>
-    <persname rules="dacs" source="local">Stevens, Hope</persname>
-    <persname source="naf">Jackson, Esther Cooper</persname>
-    <persname source="naf">Khrushchev, Nikita Sergeevich, 1894-1971</persname>
-    <persname source="naf">Johnson, Lyndon B. (Lyndon Baines), 1908-1973</persname>
-    <persname rules="dacs" source="local">Mitchell, Bessie</persname>
-    <persname source="naf">Makeba, Miriam</persname>
-    <corpname source="naf">Southern Negro Youth Congress</corpname>
-    <persname source="naf">Nguyễn, Thị Bình, 1927-</persname>
-    <corpname source="naf">Communist Party of the United States of America</corpname>
-    <persname source="naf">Baez, Joan</persname>
-    <persname source="naf">Taylor, Glen H. (Glen Hearst), 1904-1984</persname>
-    <persname source="ingest">Stratton, Richard Allen</persname>
-    <persname source="naf">Seeger, Pete, 1919-2014</persname>
-    <persname source="naf">Gorbachev, Mikhail Sergeevich, 1931-</persname>
-    <persname source="naf">Hall, Gus</persname>
-    <persname source="naf">Fedossejew, P. N.(Petr Nikolaevich)</persname>
-    <persname rules="dacs" source="naf">Ho, Chí Minh, 1890-1969</persname>
-    <persname source="naf">Du Bois, W. E. B. (William Edward Burghardt), 1868-1963</persname>
-    <persname source="naf">Dennis, Eugene, 1905-1961</persname>
-    <persname source="naf">De Lavallade, Carmen, 1931-</persname>
-    <persname source="naf">Davis, Ossie</persname>
-    <persname source="naf">Castro, Fidel, 1926-2016</persname>
-    <persname source="naf">Burnham, Louis E.</persname>
-    <persname source="naf">Brezhnev, Leonid Il'ich, 1906-1982</persname>
-    <persname source="naf">Davis, Angela Y. (Angela Yvonne), 1944-</persname>
-    <persname rules="dacs" source="local">Mitchell, Charlene, 1930-</persname>
-    <persname source="naf">Belafonte, Harry, 1927-</persname>
-    <persname role="dnr" source="naf">Jackson, James E., 1914-2007</persname>
-    <persname role="dnr" source="naf">Jackson, Esther Cooper</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref14" level="series"><did><unittitle>Series I: James E. Jackson.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref15" level="file"><did><unittitle>Childhood</unittitle><unitdate normal="1910/1931" type="inclusive">1910s , 1931</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_680327128e421b1f9c5dc0db52588bef" label="Mixed Materials [31142062667731]" type="box">1A</container><container id="aspace_c4cf5225037d28b72fd10fe9c8883c9e" parent="aspace_680327128e421b1f9c5dc0db52588bef" type="folder">1</container></did></c><c id="aspace_ref178" level="file"><did><unittitle>Drawings by</unittitle><unitdate>1968</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_6f53666415a52514ee4f231907cc6a81" label="Mixed Materials [31142062667731]" type="box">1A</container><container id="aspace_fb24056138388dc4d732d22502720cb8" parent="aspace_6f53666415a52514ee4f231907cc6a81" type="folder">1a</container></did></c><c id="aspace_ref179" level="file"><did><unittitle>Drawings of</unittitle><unitdate normal="1975/1978" type="inclusive">1975-1978, undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_bbc3caaa0c79bbfc660198d61df327dd" label="Mixed Materials [31142062667731]" type="box">1A</container><container id="aspace_5b08740263c3d6e7926723da91d416fb" parent="aspace_bbc3caaa0c79bbfc660198d61df327dd" type="folder">1b</container></did></c><c id="aspace_ref180" level="file"><did><unittitle>Drawings unidentified</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_155b630b17887984d11e25db4a8f13de" label="Mixed Materials [31142062667731]" type="box">1A</container><container id="aspace_4756378a2143a79f872ed35456fb56c7" parent="aspace_155b630b17887984d11e25db4a8f13de" type="folder">1c</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Family Pictures</unittitle><unitdate normal="1920/1949" type="inclusive">1920-1949</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c74beab6ed66365f7799b93d13cbfe74" label="Mixed Materials [31142062667731]" type="box">1A</container><container id="aspace_1dd224d084864e10301fced9a9b48416" parent="aspace_c74beab6ed66365f7799b93d13cbfe74" type="folder">2</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>In the Army</unittitle><unitdate normal="1943/1945" type="inclusive">1943-1945</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_6355d9b8abf6e75cef5e54a95c6a8f66" label="Mixed Materials [31142062667731]" type="box">1A</container><container id="aspace_4b50f5376c3ff3b98e6dee7d7ca15834" parent="aspace_6355d9b8abf6e75cef5e54a95c6a8f66" type="folder">3</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Portraits-Dated</unittitle><unitdate normal="1946/1991" type="inclusive">1946-1991</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_80cee832eeee04539a4c0b7f725f5abe" label="Mixed Materials [31142062667731]" type="box">1A</container><container id="aspace_59a80642b3fc3409e49930101849e69a" parent="aspace_80cee832eeee04539a4c0b7f725f5abe" type="folder">4</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Portraits-Undated</unittitle><unitdate normal="1940/1959" type="inclusive">1940s , 1950s</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0d75980eaa936a980afdfd3d81936836" label="Mixed Materials [31142062667731]" type="box">1A</container><container id="aspace_d2bd33e308c3157f4c1337b24edafd6b" parent="aspace_0d75980eaa936a980afdfd3d81936836" type="folder">5</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Portraits-Undated</unittitle><unitdate normal="1960/1989" type="inclusive">1960s-1980s</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e41f9a83091136d861c8117709e8f2f8" label="Mixed Materials [31142062667731]" type="box">1A</container><container id="aspace_5b792049197bbd0904aa057b50341615" parent="aspace_e41f9a83091136d861c8117709e8f2f8" type="folder">6</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Portraits from 22nd Communist Party of the Soviet Union World Congress, Moscow</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c796dcf77bb8b43a6b5af7cb4f5728b2" label="Mixed Materials [31142062667731]" type="box">1A</container><container id="aspace_af919b3772b299acfb99067fe6032ce2" parent="aspace_c796dcf77bb8b43a6b5af7cb4f5728b2" type="folder">7</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Portraits from 24th Communist Party of the Soviet Union World Congress, Moscow</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Record carton" id="aspace_fe10ff47dd6a594f4f9875ba37351195" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_acbd90732b3017055aad7c91130e5b86" parent="aspace_fe10ff47dd6a594f4f9875ba37351195" type="folder">8</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Portraits from Marx Conference, Berlin</unittitle><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Record carton" id="aspace_c8aedb9445c8ea29951ab1de64086fc2" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_29d76f98b7909de9aa71cf4f2f887a22" parent="aspace_c8aedb9445c8ea29951ab1de64086fc2" type="folder">9</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Portraits from a Trip to Vietnam and Cambodia</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record carton" id="aspace_37cd2a0e28699e91bf9767cb85ade976" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_02cc51f51dd68eef168149e00b12ccc9" parent="aspace_37cd2a0e28699e91bf9767cb85ade976" type="folder">10</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Teaching at Pratt Institute, Brooklyn, NY</unittitle><unitdate normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Record carton" id="aspace_1289ee51d9a939b77f3dcd0993474301" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_bf9cba7f50657ca17fe0e437f207e300" parent="aspace_1289ee51d9a939b77f3dcd0993474301" type="folder">11</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>60th Birthday Celebration</unittitle><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Record carton" id="aspace_0ef4df6f3278e8845b8e8fc22de5e09e" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_ffa0afcf00d6022f0cabed3ced5711b2" parent="aspace_0ef4df6f3278e8845b8e8fc22de5e09e" type="folder">12</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>At Demonstrations against the Police Murder of Leon Mosley, and for Carl Winter's Release from Prison</unittitle><unitdate normal="1948/1949" type="inclusive">1948-1949</unitdate><container altrender="Record carton" id="aspace_6d94551113cbad51e72ac4e3251d3909" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_417744f2d422326f9619723d71f965fe" parent="aspace_6d94551113cbad51e72ac4e3251d3909" type="folder">13</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>The Joliot Curie Gold Medal for Peace Award Ceremony</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_cac4cf7f0a3fdc0e6c1081fd819680da" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_2b96cf44c8f2d67e2acc7ef0f7b0f53b" parent="aspace_cac4cf7f0a3fdc0e6c1081fd819680da" type="folder">14</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>With Students at an Unidentified Conference</unittitle><unitdate normal="1960/1969" type="inclusive">1960s</unitdate><container altrender="Record carton" id="aspace_99619972cf9e7b8f3e8a284f47fa6327" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_e5743ad8fe1ffbc97d35f21710563802" parent="aspace_99619972cf9e7b8f3e8a284f47fa6327" type="folder">15</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>With Louis Burnham</unittitle><unitdate normal="1930/1939" type="inclusive">1930s</unitdate><container altrender="Record carton" id="aspace_b7784e773d7eb2ae606a055656d2afc9" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_c55da7d981ce4b1c2b3237e403624e6f" parent="aspace_b7784e773d7eb2ae606a055656d2afc9" type="folder">16</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>With Khrushchev, Brezhnev, and Gorbachev</unittitle><unitdate normal="1960/1989" type="inclusive">1960s , 1980s</unitdate><container altrender="Record carton" id="aspace_7b9902dc6552e94fcacb0b138b66eb45" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_7030f04e0b0715232752d6033eaeacc5" parent="aspace_7b9902dc6552e94fcacb0b138b66eb45" type="folder">17</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>With Elizabeth Gurley Flynn</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_e2935b0bc6302680489d2b6669b3300f" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_41e722952011debe4d808e221578ac2b" parent="aspace_e2935b0bc6302680489d2b6669b3300f" type="folder">18</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>With Gus Hall</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_857236bc2505cda5bfe4bbb16e8375bd" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_47ab7e36936607910d8d53000fb0fe6f" parent="aspace_857236bc2505cda5bfe4bbb16e8375bd" type="folder">19</container></did></c></c><c id="aspace_ref34" level="series"><did><unittitle>Series II: Esther Cooper Jackson.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref35" level="file"><did><unittitle>Esther Cooper Jackson</unittitle><unitdate normal="1970/1989" type="inclusive">1970-1989, undated</unitdate><container altrender="Record carton" id="aspace_3469645844b4f2f48942615ebfa66e61" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_d75469029c88cea780629c4deef96d15" parent="aspace_3469645844b4f2f48942615ebfa66e61" type="folder">20</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Esther Cooper Jackson with W.E.B. Du Bois</unittitle><unitdate normal="1960/1969" type="inclusive">1960s</unitdate><container altrender="Record carton" id="aspace_b6acd56516281442861abc617fe59295" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_1a0166d8e9a12fbe1d42d4ed3947e001" parent="aspace_b6acd56516281442861abc617fe59295" type="folder">21</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Esther Cooper Jackson with Others</unittitle><unitdate normal="1940/1989" type="inclusive">1940s , 1970-1989</unitdate><container altrender="Record carton" id="aspace_7c9ef5e97f41211de1d29f112cfd16b7" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_3cff86966ee255135b3070aca5f2059e" parent="aspace_7c9ef5e97f41211de1d29f112cfd16b7" type="folder">22</container></did></c></c><c id="aspace_ref38" level="series"><did><unittitle>Series III: Esther and James Jackson.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref39" level="file"><did><unittitle>Esther and James Jackson</unittitle><unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate><container altrender="Record carton" id="aspace_1b12ad711ce313a48034230799de6eee" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_a119a64f08a7c38b57a7ad6146fabe52" parent="aspace_1b12ad711ce313a48034230799de6eee" type="folder">23</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Esther and James Jackson with W.E.B. Du Bois</unittitle><unitdate normal="1960/1969" type="inclusive">1960s</unitdate><container altrender="Record carton" id="aspace_92501a01c65c9e7de0e0397612e5b739" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_8d927d8215ffe9664c799f236ab8d732" parent="aspace_92501a01c65c9e7de0e0397612e5b739" type="folder">24</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Esther and James Jackson-Visit to Moscow</unittitle><unitdate normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Record carton" id="aspace_f1ee29c3903631e191b7f5c069cc034d" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_2cbf69ccb0a909eb18b79086a974da44" parent="aspace_f1ee29c3903631e191b7f5c069cc034d" type="folder">25</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Esther and James Jackson with Others</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_c2865765adbb6722d5f9ec2c94b5c51d" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_23582d7c408bc7e06e86e095b63abfa0" parent="aspace_c2865765adbb6722d5f9ec2c94b5c51d" type="folder">26</container></did></c></c><c id="aspace_ref43" level="series"><did><unittitle>Series IV: Group Photographs.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref44" level="file"><did><unittitle>Group Photographs with James E. Jackson</unittitle><unitdate normal="1942/1977" type="inclusive">1942-1977</unitdate><container altrender="Record carton" id="aspace_c10cb6302218c46ec24ede06417348e3" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_de13b0e005698bd69229617b98308395" parent="aspace_c10cb6302218c46ec24ede06417348e3" type="folder">27</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Group Photographs with James E. Jackson</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_e8026fc290d733e637427ee272d590c1" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_17d8f7f2808674092d1c6044da2b4f41" parent="aspace_e8026fc290d733e637427ee272d590c1" type="folder">28</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Group Portraits with James E. Jackson and other CPUSA members</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_80a3e9947b8cdb2f858f17ee8b8b5028" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_5cd7b567496ae61d6e04ab35f1cf2947" parent="aspace_80a3e9947b8cdb2f858f17ee8b8b5028" type="folder">29</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Group Photographs of Unidentified Individuals</unittitle><unitdate normal="1972/1995" type="inclusive">1972 , 1985 , 1995, undated</unitdate><container altrender="Record carton" id="aspace_2e8e445bf2e334f7406583a66a51339a" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_fb23480cfc2c7928051b54cbb87ac431" parent="aspace_2e8e445bf2e334f7406583a66a51339a" type="folder">30</container></did></c></c><c id="aspace_ref48" level="series"><did><unittitle>Series V: Photographs of Others.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref49" level="file"><did><unittitle>Burnham, Louis</unittitle><unitdate normal="1940/1949" type="inclusive">1940s</unitdate><container altrender="Record carton" id="aspace_b676da88952b0f5ef8b8e59b65014382" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_8ecb3b321b16cb79955af936070fb781" parent="aspace_b676da88952b0f5ef8b8e59b65014382" type="folder">31</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Davis, Angela</unittitle><unitdate normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Record carton" id="aspace_1bd7cd093f9ffe1b9ae976f17f3bca08" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_95ce210550029fd7a59b694e6289293c" parent="aspace_1bd7cd093f9ffe1b9ae976f17f3bca08" type="folder">32</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Du Bois, W. E. B.</unittitle><unitdate normal="1960/1969" type="inclusive">1960s, undated</unitdate><container altrender="Record carton" id="aspace_3ed32748abbe6ec9611efc81a3ceecc1" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_fd2980e711616ee1bb7e96b9baec3893" parent="aspace_3ed32748abbe6ec9611efc81a3ceecc1" type="folder">33</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Fedossejew, P. N.</unittitle><unitdate normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Record carton" id="aspace_7852b153ca60a95615a57f6a269f5e7a" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_032d1f7e027c27876a09be59ecd6e7bc" parent="aspace_7852b153ca60a95615a57f6a269f5e7a" type="folder">34</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Flynn, Elisabeth Gurley</unittitle><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container altrender="Record carton" id="aspace_ec243f1adcc62dec1514868cb36b37f0" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_5699d95edeb27bc5835848b03e7d8769" parent="aspace_ec243f1adcc62dec1514868cb36b37f0" type="folder">35</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Hall, Gus</unittitle><unitdate normal="1970/1989" type="inclusive">1970-1989</unitdate><container altrender="Record carton" id="aspace_8e2a1066afe22428ecec6284ecab16fb" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_95aceb4dfede1745779123bc02d64469" parent="aspace_8e2a1066afe22428ecec6284ecab16fb" type="folder">36</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Hudson, Hosea</unittitle><unitdate normal="1950/1959" type="inclusive">1950s, 1978</unitdate><container altrender="Record carton" id="aspace_e73c9c6424c15cffce808e55b9ce42d6" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_a115ef14c6b4ee375e5ba62c6a60ae60" parent="aspace_e73c9c6424c15cffce808e55b9ce42d6" type="folder">37</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Johnson, Lyndon B., President, with Unidentified African-American Delegation in the White House</unittitle><unitdate normal="1960/1969" type="inclusive">1960s</unitdate><container altrender="Record carton" id="aspace_a83031e597d39c61f6d4785cbd17e092" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_a2295efae9c38879a052f7a1478c1151" parent="aspace_a83031e597d39c61f6d4785cbd17e092" type="folder">38</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Tereskova, Valentyina</unittitle><unitdate normal="1960/1969" type="inclusive">1960s</unitdate><container altrender="Record carton" id="aspace_6d1f17d890ad0743a67311b808a9671d" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_e10c31a82b2aed294372ea4b17426d56" parent="aspace_6d1f17d890ad0743a67311b808a9671d" type="folder">39</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>White, Charles</unittitle><unitdate normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Record carton" id="aspace_2016d7d496aff81ce12ab6573288b56a" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_f2b970fb1348c409d9c24de10d319e56" parent="aspace_2016d7d496aff81ce12ab6573288b56a" type="folder">40</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Winston, Henry</unittitle><unitdate normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Record carton" id="aspace_938c4720198dec8e43c2a72c139fd658" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_643d88adb38495f3a923129dd122dbe9" parent="aspace_938c4720198dec8e43c2a72c139fd658" type="folder">41</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Winston, Henry with Fidel Castro in Moscow</unittitle><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Record carton" id="aspace_19e606ce7265d23e8576144328ebd077" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_3f73537c51b9101b69386912ae4ba341" parent="aspace_19e606ce7265d23e8576144328ebd077" type="folder">42</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Portraits of Others (Identified)</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_4e0874fd47127e392523c9be2ffa2acc" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_75665950e9be51b93572489c79e4d0b3" parent="aspace_4e0874fd47127e392523c9be2ffa2acc" type="folder">43</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Portraits of Others (Unidentified)</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_e4a66c27e4dd2191ac7db1c39b5d7653" label="Mixed Materials [31142062671345]" type="box">1</container><container id="aspace_40dfda092d727611748ccaf3759d1d31" parent="aspace_e4a66c27e4dd2191ac7db1c39b5d7653" type="folder">44</container></did></c></c><c id="aspace_ref63" level="series"><did><unittitle>Series VI: Communist Party United States of America (CPUSA).</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref64" level="file"><did><unittitle>May Day, Union Square, New York City</unittitle><unitdate normal="1960/1969" type="inclusive">1960s</unitdate><container altrender="Record carton" id="aspace_81eb664a55e4c711a8b179ca362c57f3" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_05644aa949647297644ff9c63b8c760e" parent="aspace_81eb664a55e4c711a8b179ca362c57f3" type="folder">1</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Delegation to Budapest</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record carton" id="aspace_659517a00a2ce37b6897582059753c23" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_401a1b21e4f9668f12883b434f1dc6db" parent="aspace_659517a00a2ce37b6897582059753c23" type="folder">2</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>50th Anniversary of CPUSA</unittitle><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Record carton" id="aspace_b3ba9199bd39a494b519ee58a16144c2" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_f17ade3e89af0dbc9de03b30a38d9b15" parent="aspace_b3ba9199bd39a494b519ee58a16144c2" type="folder">3</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>CPUSA / Communist Party of the Soviet Union Delegation Meeting, Moscow</unittitle><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Record carton" id="aspace_818a6ef1b034b1eaf1879bb032a63be0" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_3e63cb5dc395694a23ab11204c186679" parent="aspace_818a6ef1b034b1eaf1879bb032a63be0" type="folder">4</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Delegation to the 60th Anniversary of the Great October Revolution, Moscow and possibly other locations in the Soviet Union</unittitle><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Record carton" id="aspace_f54a88e130ff18ba27741b1fe02e27a1" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_834414bcebaaf7b939c8c93ecf8ad8ba" parent="aspace_f54a88e130ff18ba27741b1fe02e27a1" type="folder">5</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Du Bois Foster School of Marxism-Leninism, Mesaba Park, Minnesota</unittitle><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Record carton" id="aspace_a8a115020c02033a366dfb264c7b1b8a" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_d491de49949c28ea9f078c9fb3caeaf8" parent="aspace_a8a115020c02033a366dfb264c7b1b8a" type="folder">6</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>22nd National Convention</unittitle><unitdate normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Record carton" id="aspace_54262d74fedc8c78586e5ccaa5ad3440" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_54e12202f9187f9e88ce4667c3239f06" parent="aspace_54262d74fedc8c78586e5ccaa5ad3440" type="folder">7</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>May Day, New York City</unittitle><unitdate normal="1988/1988" type="inclusive">1988</unitdate><container altrender="Record carton" id="aspace_4e85d06d26d1bc5ac2b17777e00bf3fd" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_fdaefa5ee3f2efe6395fa4b4b388fba9" parent="aspace_4e85d06d26d1bc5ac2b17777e00bf3fd" type="folder">8</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Committee Meetings</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_1df36135cc0c156c4a9671bc2b195295" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_8336b4d72bdd6bd5cb37d9f65a8eeab1" parent="aspace_1df36135cc0c156c4a9671bc2b195295" type="folder">9</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Delegation to an Unidentified Event</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_8556c44d71a5146b2376270b2b540211" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_22911e0498ce5f1567b5feb518ac0408" parent="aspace_8556c44d71a5146b2376270b2b540211" type="folder">10</container></did></c></c><c id="aspace_ref74" level="series"><did><unittitle>Series VII: Communist Party of the Soviet Union (CPSU).</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref75" level="file"><did><unittitle>CPSU, 50th Anniversary of the Great October Revolution, Moscow</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record carton" id="aspace_d9736c4b369e46903d451d5cbf02a0a8" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_b994128ab3f1614cfc2debdae7cce178" parent="aspace_d9736c4b369e46903d451d5cbf02a0a8" type="folder">11</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>CPSU, 24th World Congress, Moscow</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Record carton" id="aspace_433f893e6221b1d366a714d65a629a05" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_9e1d85aa5542c125c968cd4d49c5a870" parent="aspace_433f893e6221b1d366a714d65a629a05" type="folder">12</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>CPSU, 25th World Congress, Moscow</unittitle><unitdate normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Record carton" id="aspace_75887c5d96a91552ee5a5be82aa83d37" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_017e225fb4e9aac8603cc6be18159113" parent="aspace_75887c5d96a91552ee5a5be82aa83d37" type="folder">13</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>CPSU, 60th Anniversary of the Great October Revolution, Moscow</unittitle><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Record carton" id="aspace_7c638c0ce68d06363229af2154f34937" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_57a4642ad1c41b71cabac7c78189f0da" parent="aspace_7c638c0ce68d06363229af2154f34937" type="folder">14</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>CPSU, 60th Anniversary of the Great October Revolution, Baku</unittitle><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Record carton" id="aspace_78f395983e5b5324acedfd21ad20f964" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_ccb1bbbb3499ab12cfb4d24152194022" parent="aspace_78f395983e5b5324acedfd21ad20f964" type="folder">15</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>CPSU, 26th World Congress, Moscow</unittitle><unitdate normal="1981/1981" type="inclusive">1981</unitdate><container altrender="Record carton" id="aspace_ef003eb1eef28b0f6467258309a9ff5a" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_8a169c6e488d52e7d2adfceeaecceee7" parent="aspace_ef003eb1eef28b0f6467258309a9ff5a" type="folder">16</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>CPSU, Unidentified Events</unittitle><unitdate normal="1910/1995" type="inclusive">1973 , undated</unitdate><container altrender="Record carton" id="aspace_c0616becb85c505d87055dddd6dcc2b5" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_530d63e75099bef85a6f21617006e80f" parent="aspace_c0616becb85c505d87055dddd6dcc2b5" type="folder">17</container></did></c></c><c id="aspace_ref82" level="series"><did><unittitle>Series VIII: International Communist Parties.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref83" level="file"><did><unittitle>Argentina: Unidentified Communist Party event</unittitle><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Record carton" id="aspace_0e952f01fbb51acdb8ddbdb79d4caa92" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_686a62f2358df318cda41b1459fa88e5" parent="aspace_0e952f01fbb51acdb8ddbdb79d4caa92" type="folder">18</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Canada: James E. Jackson's Address at the 30th Anniversary of Pacific Tribune (the official newspaper of Canada's Communist Party), Vancouver</unittitle><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container altrender="Record carton" id="aspace_bb09f826e36ad9ecb0b048241bfd2eae" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_2fc59dee7ac08a33aa669d162e204443" parent="aspace_bb09f826e36ad9ecb0b048241bfd2eae" type="folder">19</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>China: Unidentified Event</unittitle><unitdate normal="1980/1989" type="inclusive">1980s</unitdate><container altrender="Record carton" id="aspace_38f471bae1068a22a10135666a1670f9" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_b8fb43406fdb0701e1a4334d9b51cd60" parent="aspace_38f471bae1068a22a10135666a1670f9" type="folder">20</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Czechoslovakia: World Assembly</unittitle><unitdate normal="1983/1983" type="inclusive">1983</unitdate><container altrender="Record carton" id="aspace_e06c873a02ec2d0f5e251edb1ff1bae8" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_5841db76707a9fe53674715a2dc9ca4a" parent="aspace_e06c873a02ec2d0f5e251edb1ff1bae8" type="folder">21</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>East Germany: S.E.D., The Socialist Unity Party's 9th Congress, Berlin</unittitle><unitdate normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Record carton" id="aspace_ad3838eea53abee4f9bd45d951cb0b79" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_c8b82b6d82265cc2dcf55a17c9d41a91" parent="aspace_ad3838eea53abee4f9bd45d951cb0b79" type="folder">22</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>France: The French Communist Party Congress-with CPUSA Delegation</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record carton" id="aspace_2794bf90d1ee41551da390a37deb15d2" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_ee8799ac0eee34055a5ae65a8e20edc6" parent="aspace_2794bf90d1ee41551da390a37deb15d2" type="folder">23</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Mongolia: Mongolian People's Revolutionary Party (meeting)</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Record carton" id="aspace_f1b53a3ea0a64ad1557afa657877e64d" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_9edb4f08b293c6c5101489dde5392d0d" parent="aspace_f1b53a3ea0a64ad1557afa657877e64d" type="folder">24</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Poland: Polish Workers' Party Congress</unittitle><unitdate normal="1957/1957" type="inclusive">1957</unitdate><container altrender="Record carton" id="aspace_47fb4e1ecf081c2780a0d9c246504eeb" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_55b6acc512509f229781263fd4980715" parent="aspace_47fb4e1ecf081c2780a0d9c246504eeb" type="folder">25</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>International Communist Parties Events (Miscellaneous)</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_59d3e30b4aee8c71d4159f2f5b09e18c" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_a19d7555cfffdfad57be25f70e025d18" parent="aspace_59d3e30b4aee8c71d4159f2f5b09e18c" type="folder">26</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>International Communist Parties Events (Contact Sheets)</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_dd1f35d4920dd2a91c4c4f22d24d4277" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_df6456b189611c3338de2c3704730cc5" parent="aspace_dd1f35d4920dd2a91c4c4f22d24d4277" type="folder">27</container></did></c></c><c id="aspace_ref93" level="series"><did><unittitle>Series IX: Conferences.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref94" level="file"><did><unittitle>International Planning Conference, Mexico City</unittitle><unitdate normal="1930/1939" type="inclusive">1930s</unitdate><container altrender="Record carton" id="aspace_3333bd96242c224d02e5981bb010e811" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_d97acf7321e332bafb459753c3513f1c" parent="aspace_3333bd96242c224d02e5981bb010e811" type="folder">28</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>"Marxism-Leninism 1820-1970," Berlin, East Germany</unittitle><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Record carton" id="aspace_b1cd1ff266a7aedb2632e83fa84e09d4" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_ada4cff19be8d5833e303a08e8120d1e" parent="aspace_b1cd1ff266a7aedb2632e83fa84e09d4" type="folder">29</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>"Karl Marx and His Time," Berlin, East Germany</unittitle><unitdate normal="1983/1983" type="inclusive">1983</unitdate><container altrender="Record carton" id="aspace_68699ef3bd9f6afeb398ae21e3c0c57e" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_c06b88c698cd1be4d46dc59b6fa46bba" parent="aspace_68699ef3bd9f6afeb398ae21e3c0c57e" type="folder">30</container></did></c><c id="aspace_ref97" level="file"><did><unittitle>Unidentified, Berlin, East Germany</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_89c06585efefdfcefda001063a0bf16e" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_31fa05d1185f3dc771f512b6d8853d63" parent="aspace_89c06585efefdfcefda001063a0bf16e" type="folder">31</container></did></c></c><c id="aspace_ref98" level="series"><did><unittitle>Series X: Miscellaneous Events.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref99" level="file"><did><unittitle>Memorial Meeting in Tribute to Reverend Martin Luther King</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record carton" id="aspace_41af197856951fad3b8860a38ab59cde" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_2826d1962a756a2fdc0dadd91822b766" parent="aspace_41af197856951fad3b8860a38ab59cde" type="folder">32</container></did></c><c id="aspace_ref100" level="file"><did><unittitle>United Nations Events</unittitle><unitdate normal="1968/1978" type="inclusive">1968-1978</unitdate><container altrender="Record carton" id="aspace_197039f13b0f721f9f2182fb20e19a3e" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_2a02d26c11a1ac3c93661991acaae06b" parent="aspace_197039f13b0f721f9f2182fb20e19a3e" type="folder">33</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>ZIL Auto Plant</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_a407661df0c208ed0faec25091094bb4" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_9736f944a03684d8239e008de2f41693" parent="aspace_a407661df0c208ed0faec25091094bb4" type="folder">34</container></did></c><c id="aspace_ref102" level="file"><did><unittitle>Unidentified Event at Madison Square Garden, New York City</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_b435c3e517544e887176c06fc5bc8330" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_c3e09da5be26b79ff9e23fd010179e32" parent="aspace_b435c3e517544e887176c06fc5bc8330" type="folder">35</container></did></c><c id="aspace_ref103" level="file"><did><unittitle>Events with James E. Jackson's Participation</unittitle><unitdate normal="1910/1995" type="inclusive">1937 , 1943 , undated</unitdate><container altrender="Record carton" id="aspace_1428e436682506198f08b493c5a64b00" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_95349a5ada91afdba676a2a4b9a55c45" parent="aspace_1428e436682506198f08b493c5a64b00" type="folder">36</container></did></c><c id="aspace_ref181" level="file"><did><unittitle>Oversize</unittitle><unitdate>undated</unitdate><container altrender="Flat OS Box 17" id="aspace_07a3df776726e34f504b258746f27d40" label="Mixed Materials [31142062759819]" type="box">OS003</container><container id="aspace_3f3c3dded055800ab653cf4e1fa487dd" parent="aspace_07a3df776726e34f504b258746f27d40" type="folder">1</container></did></c></c><c id="aspace_ref104" level="series"><did><unittitle>Series XI: Demonstrations and Rallies.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref105" level="file"><did><unittitle>Right to Vote Rally, New Orleans, LA; Right toVote March, Birmingham, AL</unittitle><unitdate normal="1943/1946" type="inclusive">1943 , 1946</unitdate><container altrender="Record carton" id="aspace_63b500b68727b155dc973843dbde4be7" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_415de29b620a376bd10580f77bc2a2e4" parent="aspace_63b500b68727b155dc973843dbde4be7" type="folder">37</container></did></c><c id="aspace_ref106" level="file"><did><unittitle>Protest Against U.S. Intervention in Arab countries (Pictures of James E. Jackson)</unittitle><unitdate normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Record carton" id="aspace_8702d9e6f3dab8ce5ac4141e5da480b2" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_8f275443b4135d2f25335efb6cfa35f4" parent="aspace_8702d9e6f3dab8ce5ac4141e5da480b2" type="folder">38</container></did></c><c id="aspace_ref107" level="file"><did><unittitle>March on Washington (Joan Baez pictured)</unittitle><unitdate normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Record carton" id="aspace_39bcc201a6cbec9326ca464d82b8e9e0" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_c7f3524cdd22065c53010aa6a64cfdc8" parent="aspace_39bcc201a6cbec9326ca464d82b8e9e0" type="folder">39</container></did></c><c id="aspace_ref108" level="file"><did><unittitle>Anti-War Demonstration: Vietnam, Dominican Republic (Organized by the Communist Party?), Union Square, New York City</unittitle><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container altrender="Record carton" id="aspace_af9545aa81c5b8ee6f0e071331e505e4" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_316c75418d6264061687dd3fd65e4113" parent="aspace_af9545aa81c5b8ee6f0e071331e505e4" type="folder">40</container></did></c><c id="aspace_ref109" level="file"><did><unittitle>Veterans for Peace in Vietnam, Washington D.C.</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record carton" id="aspace_f49a96359b9d5533a4320ef8a05347b7" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_5c12f8c3bf29862cff970ca2c63a92cf" parent="aspace_f49a96359b9d5533a4320ef8a05347b7" type="folder">41</container></did></c><c id="aspace_ref110" level="file"><did><unittitle>Solidarity With the Communist Party of Chile (organized by CPUSA)</unittitle><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Record carton" id="aspace_25a4ed4392ef632869a81c5afa4b7f7c" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_006887adbf87bee85e4d3bb51958734c" parent="aspace_25a4ed4392ef632869a81c5afa4b7f7c" type="folder">42</container></did></c><c id="aspace_ref111" level="file"><did><unittitle>United Farm Workers, Brooklyn, NY</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Record carton" id="aspace_cbfcfac98106f5cef72e0f8e2d93ad4a" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_4c1c5502fa41e05fd57f1c3459bfebc6" parent="aspace_cbfcfac98106f5cef72e0f8e2d93ad4a" type="folder">43</container></did></c><c id="aspace_ref112" level="file"><did><unittitle>Vietnam War Protest (Organized by Freedomways?)</unittitle><unitdate normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Record carton" id="aspace_f193bd58efe919e0ec0c1965b858906c" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_151bfe4ad711d031e0615bdd2c4ab8b8" parent="aspace_f193bd58efe919e0ec0c1965b858906c" type="folder">44</container></did></c><c id="aspace_ref113" level="file"><did><unittitle>Peace Demonstration, New York City (Organized by the Communist Party)</unittitle><unitdate normal="1980/1989" type="inclusive">1980s</unitdate><container altrender="Record carton" id="aspace_52a0edf4751be485bd809917af1f8021" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_606298b1f7de5b20e79783349c48272a" parent="aspace_52a0edf4751be485bd809917af1f8021" type="folder">45</container></did></c><c id="aspace_ref114" level="file"><did><unittitle>Peace Demonstration, Washington DC (Organized by the Communist Party)</unittitle><unitdate normal="1980/1989" type="inclusive">1980s</unitdate><container altrender="Record carton" id="aspace_da0967020ed93bb1b9e66290271f6eca" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_d7a1ae399673a5234ce716421bcb5bba" parent="aspace_da0967020ed93bb1b9e66290271f6eca" type="folder">46</container></did></c></c><c id="aspace_ref115" level="series"><did><unittitle>Series XII: Southern Negro Youth Congress.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref116" level="file"><did><unittitle>Southern Negro Youth Congress</unittitle><unitdate normal="1941/1946" type="inclusive">1941-1946</unitdate><container altrender="Record carton" id="aspace_a23365044b7329cbf2ee369105f072be" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_528d44cb6c72b0bb1e5d98ef9f1ec7a8" parent="aspace_a23365044b7329cbf2ee369105f072be" type="folder">47</container></did></c></c><c id="aspace_ref117" level="series"><did><unittitle>Series XIII: Freedomways.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref118" level="file"><did><unittitle>Cultural Events: Art Exhibitions</unittitle><unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate><container altrender="Record carton" id="aspace_ff0cbdda92e6dc6cdfb42c1fd0a3fb93" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_f180c06983b6fcb83f47c303d52cbfbc" parent="aspace_ff0cbdda92e6dc6cdfb42c1fd0a3fb93" type="folder">48</container></did></c><c id="aspace_ref119" level="file"><did><unittitle>Cultural Events: Concerts</unittitle><unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate><container altrender="Record carton" id="aspace_cb04ac1c7274fee3c3c653612e33a1cb" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_1270bb3cf2620e0423c564955105e28f" parent="aspace_cb04ac1c7274fee3c3c653612e33a1cb" type="folder">49</container></did></c><c id="aspace_ref120" level="file"><did><unittitle>Cultural Events: Dance, Carmen de Lavallade and Others</unittitle><unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate><container altrender="Record carton" id="aspace_44d7a97a54a852e9b19d24c80c1d88f4" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_e57af0139c508b5611255e1e9b8458af" parent="aspace_44d7a97a54a852e9b19d24c80c1d88f4" type="folder">50</container></did></c><c id="aspace_ref121" level="file"><did><unittitle>Cultural Events: Performers' Headshots</unittitle><unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate><container altrender="Record carton" id="aspace_94a3552336f2421c895b4f2a5a9534d5" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_be5b4a25a71816da37fcb2c38a9a53ff" parent="aspace_94a3552336f2421c895b4f2a5a9534d5" type="folder">51</container></did></c><c id="aspace_ref122" level="file"><did><unittitle>Cultural Events: Theater</unittitle><unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate><container altrender="Record carton" id="aspace_b7461dde53898b9eb8eeb8904970564b" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_4e600dce9d0e9d3ca1cef67c502a1667" parent="aspace_b7461dde53898b9eb8eeb8904970564b" type="folder">52</container></did></c><c id="aspace_ref123" level="file"><did><unittitle>Friends and Associates</unittitle><unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate><container altrender="Record carton" id="aspace_a526e0a18558d8894a4470c4c72b880d" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_daf8fee596cfa5c2c7fd7076c5558f28" parent="aspace_a526e0a18558d8894a4470c4c72b880d" type="folder">53</container></did></c><c id="aspace_ref124" level="file"><did><unittitle>Front/Back and Inner Covers; Portraits</unittitle><unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate><container altrender="Record carton" id="aspace_0635c3b0294786c2b52280460854d0bc" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_764ea456719025e60060a23b5bc2fd0d" parent="aspace_0635c3b0294786c2b52280460854d0bc" type="folder">54</container></did></c><c id="aspace_ref125" level="file"><did><unittitle>Pictures of Books and Phonograph Records related to Freedomways</unittitle><unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate><container altrender="Record carton" id="aspace_83b58b5eb635ef17cc2f47bf52a0b274" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_9d679f3b734f58d008d53626841a5f30" parent="aspace_83b58b5eb635ef17cc2f47bf52a0b274" type="folder">55</container></did></c><c id="aspace_ref126" level="file"><did><unittitle>Conflict between police and African American Community in Harlem, New York, during Riot of 1964</unittitle><unitdate normal="1964/1964" type="inclusive">1964</unitdate><container altrender="Record carton" id="aspace_f2af8694d0a0113d3e0bf289d6933a01" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_30ed65fa06cc8a249aeb0f81ee68ea3d" parent="aspace_f2af8694d0a0113d3e0bf289d6933a01" type="folder">56</container></did></c><c id="aspace_ref127" level="file"><did><unittitle>Political Events</unittitle><unitdate normal="1910/1995" type="inclusive">Undated</unitdate><container altrender="Record carton" id="aspace_16084c2ee0f39864470432265f249bbf" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_f5e63f3728a0cd5aa2da78e595b179ff" parent="aspace_16084c2ee0f39864470432265f249bbf" type="folder">57</container></did></c><c id="aspace_ref128" level="file"><did><unittitle>South Africa</unittitle><unitdate normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Record carton" id="aspace_fdb42d52c6bd4b87314d9c67a7382bb0" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_8fce36298b3d977a8f48892e5033de44" parent="aspace_fdb42d52c6bd4b87314d9c67a7382bb0" type="folder">58</container></did></c><c id="aspace_ref129" level="file"><did><unittitle>Contact Sheets: Miscellaneous</unittitle><unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate><container altrender="Record carton" id="aspace_7c94edcdfba633cd7c02b4d61a65428d" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_a32d9770d4898987bb01eb050710834c" parent="aspace_7c94edcdfba633cd7c02b4d61a65428d" type="folder">59</container></did></c><c id="aspace_ref130" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate><container altrender="Record carton" id="aspace_d2a80c93718886b1a8ece1cbab2f69a5" label="Mixed Materials [31142062671352]" type="box">2</container><container id="aspace_add2f8033745563b75b235c65c9aa2ea" parent="aspace_d2a80c93718886b1a8ece1cbab2f69a5" type="folder">60</container></did></c></c><c id="aspace_ref131" level="series"><did><unittitle>Series XIV: Travel.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref132" level="file"><did><unittitle>Bulgaria</unittitle><unitdate normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Record carton" id="aspace_0020935fdfed1c47a16bd08f5372a9f6" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_9eb29dc9b6f490c5da5c30a7e4bd5cee" parent="aspace_0020935fdfed1c47a16bd08f5372a9f6" type="folder">1</container></did></c><c id="aspace_ref133" level="file"><did><unittitle>Bulgaria: At Hy Lumer's Gravestone</unittitle><unitdate normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Record carton" id="aspace_d3812868b6cc2012bc17cab748d68e16" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_bc19742cf231080e1474e5e09777023b" parent="aspace_d3812868b6cc2012bc17cab748d68e16" type="folder">2</container></did></c><c id="aspace_ref134" level="file"><did><unittitle>Cambodia</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record carton" id="aspace_f60065985a90f197eef006e55a71dcf3" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_90da89a594831c07127f8ab9d6cf8927" parent="aspace_f60065985a90f197eef006e55a71dcf3" type="folder">3</container></did></c><c id="aspace_ref135" level="file"><did><unittitle>Cambodia: Contact Sheets</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record carton" id="aspace_7238d671de901701179932838e9ef022" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_ae3370e00e3c1969791bd7c655311363" parent="aspace_7238d671de901701179932838e9ef022" type="folder">4</container></did></c><c id="aspace_ref136" level="file"><did><unittitle>China</unittitle><unitdate normal="1910/1995" type="inclusive">1988 , undated</unitdate><container altrender="Record carton" id="aspace_98d9a19b94fde79b44ec07863de2ccc2" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_c5ab9edb6881d36f30195218ddf7e2eb" parent="aspace_98d9a19b94fde79b44ec07863de2ccc2" type="folder">5</container></did></c><c id="aspace_ref137" level="file"><did><unittitle>Cuba (photos, postcards, memorabilia)</unittitle><unitdate normal="1910/1995" type="inclusive">1960 , 1967 , undated</unitdate><container altrender="Record carton" id="aspace_6d36fc6af13d5701bf9a5b239e203eef" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_e648a1da26ba454e478263be762beb1f" parent="aspace_6d36fc6af13d5701bf9a5b239e203eef" type="folder">6</container></did></c><c id="aspace_ref138" level="file"><did><unittitle>Czechoslovakia: Prague</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_6f7d43c50a871a44b7924ee357b6da8e" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_f73d2ba80756be91be918b88895e42bb" parent="aspace_6f7d43c50a871a44b7924ee357b6da8e" type="folder">7</container></did></c><c id="aspace_ref139" level="file"><did><unittitle>East Germany: Berlin</unittitle><unitdate normal="1970/1989" type="inclusive">1970-1989</unitdate><container altrender="Record carton" id="aspace_716db07fe81f704bb2324ee725405542" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_801857967527b70ff7ce90f07ff458dc" parent="aspace_716db07fe81f704bb2324ee725405542" type="folder">8</container></did></c><c id="aspace_ref140" level="file"><did><unittitle>Ethiopia: Addis Ababa (with Stevens Hope and Charlene Mitchell)</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_8a24f85fc4d244ec14dcf74a74f66b88" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_88823312b6eefafb46cc170f6bbdb639" parent="aspace_8a24f85fc4d244ec14dcf74a74f66b88" type="folder">9</container></did></c><c id="aspace_ref141" level="file"><did><unittitle>France: Paris</unittitle><unitdate normal="1975/1980" type="inclusive">1975-1980</unitdate><container altrender="Record carton" id="aspace_9f4c36a2757c07bf0644712a57f52aa5" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_e260bfbb282defb26e8c0dae1ff11e1a" parent="aspace_9f4c36a2757c07bf0644712a57f52aa5" type="folder">10</container></did></c><c id="aspace_ref142" level="file"><did><unittitle>India</unittitle><unitdate normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Record carton" id="aspace_692729e7faeb1f7b03105860f2ca4e44" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_25425143bacee9fa467fa46dc01f8412" parent="aspace_692729e7faeb1f7b03105860f2ca4e44" type="folder">11</container></did></c><c id="aspace_ref143" level="file"><did><unittitle>North Korea</unittitle><unitdate normal="1980/1985" type="inclusive">1980-1985</unitdate><container altrender="Record carton" id="aspace_a6b9cab6d2f6c9b4e39a50d35addbf81" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_222f073a0f0a5a5b987303725f2aa5b0" parent="aspace_a6b9cab6d2f6c9b4e39a50d35addbf81" type="folder">12</container></did></c><c id="aspace_ref144" level="file"><did><unittitle>Poland (?)</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Record carton" id="aspace_86ecb99ddff32686b8be028b829b7e5e" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_86286f2faa6c15d10e08d599ed13991b" parent="aspace_86ecb99ddff32686b8be028b829b7e5e" type="folder">13</container></did></c><c id="aspace_ref145" level="file"><did><unittitle>Soviet Union</unittitle><unitdate normal="1950/1959" type="inclusive">1950s</unitdate><container altrender="Record carton" id="aspace_7c08ab6f2c61aebeabb70871604f47fe" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_14d76706cb3bcb3c7981479f9d42ab50" parent="aspace_7c08ab6f2c61aebeabb70871604f47fe" type="folder">14</container></did></c><c id="aspace_ref146" level="file"><did><unittitle>Soviet Union: Leningrad</unittitle><unitdate normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Record carton" id="aspace_6353310c7626cb7e6ee31af7b6b2cc9b" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_dcdb7ccdc55f28f7e977566a2b387b28" parent="aspace_6353310c7626cb7e6ee31af7b6b2cc9b" type="folder">15</container></did></c><c id="aspace_ref147" level="file"><did><unittitle>Soviet Union: Moscow</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Record carton" id="aspace_17123ee37e968bce3a5777e938029339" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_29af4bcd506655155c940735d1e11b0e" parent="aspace_17123ee37e968bce3a5777e938029339" type="folder">16</container></did></c><c id="aspace_ref148" level="file"><did><unittitle>Soviet Union: Moscow</unittitle><unitdate normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Record carton" id="aspace_00ba4ec7332dac444d08347baff8b0f7" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_b8b0bd1ba19b3c73221eb7cd7db39181" parent="aspace_00ba4ec7332dac444d08347baff8b0f7" type="folder">17</container></did></c><c id="aspace_ref149" level="file"><did><unittitle>Soviet Union: Moscow</unittitle><unitdate normal="1980/1989" type="inclusive">1980s</unitdate><container altrender="Record carton" id="aspace_e4db9a59a0bf879890a319e29a493c68" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_18918dc0523636ee1818ad4b81ac7ba5" parent="aspace_e4db9a59a0bf879890a319e29a493c68" type="folder">18</container></did></c><c id="aspace_ref150" level="file"><did><unittitle>Soviet Union: Moscow-Memorabilia, Postcards</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_e14e28cc5dd0081258cd0ee33c7447c2" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_3d8f9593e980d4feb3e130d9336eef06" parent="aspace_e14e28cc5dd0081258cd0ee33c7447c2" type="folder">19</container></did></c><c id="aspace_ref151" level="file"><did><unittitle>United Kingdom: London</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_71dffdb7de8dfa991f7b3ad4a320ec96" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_16c3ce533baa013ac20bf83a1061259a" parent="aspace_71dffdb7de8dfa991f7b3ad4a320ec96" type="folder">20</container></did></c><c id="aspace_ref152" level="file"><did><unittitle>United States: Puerto Rico</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_ef3e7fefa038f118b49dca2ca80b06f5" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_17df93a750fc898b07c50a1cd848ef49" parent="aspace_ef3e7fefa038f118b49dca2ca80b06f5" type="folder">21</container></did></c><c id="aspace_ref153" level="file"><did><unittitle>United States: Washington DC</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record carton" id="aspace_61e419d57989e3d7c3f40959eca2a56c" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_95fe9ca8bcd260fae8118b3b276730d0" parent="aspace_61e419d57989e3d7c3f40959eca2a56c" type="folder">22</container></did></c><c id="aspace_ref154" level="file"><did><unittitle>Venezuela: Caracas (Portrait of James E. Jackson and Group Pictures)</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Record carton" id="aspace_c564b69f14c545e189fdef81934a4b27" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_f144c4502861f2e8fc5ad68687f9eedd" parent="aspace_c564b69f14c545e189fdef81934a4b27" type="folder">23</container></did></c><c id="aspace_ref155" level="file"><did><unittitle>Vietnam</unittitle><unitdate normal="1960/1969" type="inclusive">1960s</unitdate><container altrender="Record carton" id="aspace_2e64ba748afcd488574171b69c7598b7" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_f585b508d2797f3f570548e35d71b2e7" parent="aspace_2e64ba748afcd488574171b69c7598b7" type="folder">24</container></did></c><c id="aspace_ref156" level="file"><did><unittitle>Vietnam</unittitle><unitdate normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Record carton" id="aspace_f326f3bec7a02e2a5603ea283b7a3bda" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_a9daa24402d7b309e0d7f23aa4931f28" parent="aspace_f326f3bec7a02e2a5603ea283b7a3bda" type="folder">25</container></did></c><c id="aspace_ref157" level="file"><did><unittitle>Vietnam</unittitle><unitdate normal="1966/1966" type="inclusive">1966</unitdate><container altrender="Record carton" id="aspace_deacdd32cc8d5e9d44f28c9c6fdcda03" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_0a4d341f5cfbbb261507184abf37f48d" parent="aspace_deacdd32cc8d5e9d44f28c9c6fdcda03" type="folder">26</container></did></c><c id="aspace_ref158" level="file"><did><unittitle>Vietnam-Casualties</unittitle><unitdate normal="1967/1968" type="inclusive">1967-1968</unitdate><container altrender="Record carton" id="aspace_9cc5e31415c998f547fd65799bded11c" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_3dd045a842aa997826a71192a4c27865" parent="aspace_9cc5e31415c998f547fd65799bded11c" type="folder">27</container></did></c><c id="aspace_ref159" level="file"><did><unittitle>Vietnam-"A Moment of Peace"-Pictures of Cultural Events, People and Landscape</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record carton" id="aspace_e18c2e00464b014d70ed8a9582129f40" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_be6e3e3ec6394e80003b2b6837257279" parent="aspace_e18c2e00464b014d70ed8a9582129f40" type="folder">28</container></did></c><c id="aspace_ref160" level="file"><did><unittitle>Vietnam-Sites of War and Devastation</unittitle><unitdate normal="1966/1968" type="inclusive">1966 , 1968</unitdate><container altrender="Record carton" id="aspace_b38137b7590cdcbd52f5cced434146f5" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_e5097dc1138617019e8b78cd622fcf4b" parent="aspace_b38137b7590cdcbd52f5cced434146f5" type="folder">29</container></did></c><c id="aspace_ref161" level="file"><did><unittitle>Vietnam-Ho-Chi-Minh and James E. Jackson</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record carton" id="aspace_b66eb205d632645d7f349125a5ca68d9" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_ab88b0c8bbe81bdcd7f0b77a18de0c7e" parent="aspace_b66eb205d632645d7f349125a5ca68d9" type="folder">30</container></did></c><c id="aspace_ref162" level="file"><did><unittitle>Vietnam-Contact Sheets</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record carton" id="aspace_9602928162e659bc396444d7de7e4aa0" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_e92070fe184916f6e4533f8412f8dce1" parent="aspace_9602928162e659bc396444d7de7e4aa0" type="folder">31</container></did></c><c id="aspace_ref163" level="file"><did><unittitle>Vietnam</unittitle><unitdate normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Record carton" id="aspace_76d8bdce71384bf2f4c693b430452efb" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_1364bbfda253ea86741257648afb1ef2" parent="aspace_76d8bdce71384bf2f4c693b430452efb" type="folder">32</container></did></c><c id="aspace_ref164" level="file"><did><unittitle>Travel-Miscellaneous</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_6afe72fff0b1bc216c1a4d3c82f2031c" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_d1d483b8738a1d69b5f3c80b628a2136" parent="aspace_6afe72fff0b1bc216c1a4d3c82f2031c" type="folder">33</container></did></c></c><c id="aspace_ref165" level="series"><did><unittitle>Series XV: Negatives.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref166" level="file"><did><unittitle>Esther and James Jackson</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_288670b827d7cb1eb69502ee6cd7ace3" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_193eb4a5ba26ae5a7aa2c5a6cdbc7dd5" parent="aspace_288670b827d7cb1eb69502ee6cd7ace3" type="folder">34</container></did></c><c id="aspace_ref167" level="file"><did><unittitle>James E. Jackson with Others</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_d84989cb84e1bc2d3684ced9b689c13e" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_647784c829fdfefe6c53186cf3a2a269" parent="aspace_d84989cb84e1bc2d3684ced9b689c13e" type="folder">35</container></did></c><c id="aspace_ref168" level="file"><did><unittitle>Freedomways (Headshots and Performers' Portraits)</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_e8b6a61f6a9633c6dc4be59289c96879" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_fb13407b75a3038c7e1e9da7dbe94272" parent="aspace_e8b6a61f6a9633c6dc4be59289c96879" type="folder">36</container></did></c><c id="aspace_ref169" level="file"><did><unittitle>International Communist Parties Events</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_15d36c35573a33b238c02edb46e708b0" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_30cedc2c5e418e440818ea28f84ae5ed" parent="aspace_15d36c35573a33b238c02edb46e708b0" type="folder">37</container></did></c><c id="aspace_ref170" level="file"><did><unittitle>Veterans for Peace in Vietnam Demonstration, Washington D.C.</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record carton" id="aspace_dfc91a3973e418eba46762b6b7c218cc" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_a5f40b0410d99e9dbfe3c198f90d87ed" parent="aspace_dfc91a3973e418eba46762b6b7c218cc" type="folder">38</container></did></c><c id="aspace_ref171" level="file"><did><unittitle>Cambodia and Vietnam (travel)</unittitle><unitdate normal="1960/1969" type="inclusive">1960s</unitdate><container altrender="Record carton" id="aspace_e895fe1f0c9e26725fa98bf48e096861" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_e5f927710f4ba45795014ec32111731d" parent="aspace_e895fe1f0c9e26725fa98bf48e096861" type="folder">39</container></did></c><c id="aspace_ref172" level="file"><did><unittitle>Soviet Union: Moscow (travel)</unittitle><unitdate normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Record carton" id="aspace_e922092562011d11ffdd735775f0d207" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_861244eb45ef1326ed8e7be1af5808ac" parent="aspace_e922092562011d11ffdd735775f0d207" type="folder">40</container></did></c><c id="aspace_ref173" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate normal="1910/1995" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_3779679f9beafcb1cdfd5dad808f654e" label="Mixed Materials [31142062671360]" type="box">3</container><container id="aspace_5b7e69b3dfdaad637baabd9e7b9adda1" parent="aspace_3779679f9beafcb1cdfd5dad808f654e" type="folder">41</container></did></c></c><c id="aspace_ref174" level="series"><did><unittitle>Series XVI: Photo Album.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref175" level="file"><did><unittitle>Photo Album: 26th World Congress of the Communist Party of the Soviet Union, Moscow</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Custom Box - 16.5d x 5.5h x 13w" id="aspace_7f186d1ff7db87e70c85d6a0a56476dd" label="Mixed Materials [31142062838928]" type="box">4</container></did></c></c></dsc>
-</archdesc>
+    </did>
+    <acqinfo id="aspace_4a5bca335c8f5647a1492abb1f4b2926">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by James and Esther Jackson, 2005-2006. The accession numbers associated with this gift are 2006.002, NPA.2006.042, and NPA.2006.077</p>
+    </acqinfo>
+    <accessrestrict id="aspace_2dac07df262f2dc5716afa4637a3dac0">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_ae2fb3d2309160fd30fc4444a896263f">
+      <head>Historical/Biographical Note</head>
+      <p>James E. Jackson (1914-2007) and Esther Cooper Jackson (1917- ), African-American communists and civil rights activists, are best known for their role in founding and leading the Southern Negro Youth Congress (1937-1948). Both were raised in middle-class families with histories of civil rights activism. James Jackson graduated from Virginia Union University in 1934, and at Howard University (the alma mater of his parents) graduated from the College of Pharmacy in 1937. After attending Dunbar High School in Washington D.C., Esther Cooper graduated from Oberlin College in 1938, and completed her master's degree at Fisk University in 1940, writing as her thesis "Negro Women Domestic Workers in Relation to Trade Unionism." James Jackson joined the Communist Party in 1931, and Esther Cooper joined in 1939. The couple met in 1939 (they married in 1941) when James Jackson was staying at Fisk while working for Ralph Bunche as an investigator for what would become Gunnar Myrdal's <emph render="italic">An American Dilemma: The Negro Problem and Modern Democracy</emph>(1944).</p>
+      <p>The Southern Negro Youth Congress (SNYC), a Communist-led popular front organization, held its first annual conference, organized by James Jackson and Ed Strong, in Richmond, in February 1937. Under its slogan "Freedom, Equality, Opportunity," the SNYC campaigned for the full range civil, economic, political, and social rights for African Americans. Activities and issues included, supporting labor organizing (including domestic workers), campaigns against lynching, police brutality, and the poll tax, for the right to vote and an end to segregation, for an end to employment discrimination (sometimes via consumer boycotts), and during World War II, for enforcement of regulations barring discrimination in war industries. The Jacksons played leading roles throughout the SNYC's first decade, Esther Jackson as Executive Secretary, and James Jackson as Special Projects Director, respectively. In 1939 the SNYC moved its headquarters to Birmingham, Alabama.</p>
+      <p>James Jackson entered the army in 1943 and served in the Burma theatre. In autumn 1945, Esther Jackson attended the World Youth Congress in London, where she met W. E. B. Du Bois, which marked the start of a close association the Jacksons and Du Bois. In 1946 James Jackson became State Chairman of the Communist Party of Louisiana. In 1947 the Jacksons moved to Detroit, where James Jackson began work as a Party organizer among the automobile workers, while Esther Jackson was active in the local branches of the Progressive Party and of the Civil Rights Congress, another popular front organization. In 1951 the Jacksons moved to New York and James Jackson was named Southern Director of the Communist Party. In June 1951, he was indicted under the Smith Act (charged with advocating the overthrow of the U.S. government) and went underground to avoid arrest. Emerging almost five years later, Jackson was sentenced to prison, but he did not serve time, as the Smith Act was declared unconstitutional by the Supreme Court shortly after.</p>
+      <p>Thereafter, James Jackson served as a full-time Party official, including as a member of its leading Political Bureau, and as Education Director and as International Affairs Secretary, in which capacity he traveled throughout the Communist countries and elsewhere. Meanwhile, in 1961 Esther Jackson helped found the influential African American political and cultural quarterly, <emph render="italic">Freedomways</emph>, and served as its editor throughout its years of publication, from 1961 to 1986. James Jackson retired in 1991, in the aftermath of the 1991 split in the CPUSA.</p>
+    </bioghist>
+    <scopecontent id="aspace_eb64cd530b82db46269d5b9e16804a4a">
+      <head>Scope and Content Note</head>
+      <p>The collection consists of ca. 1,350 images, mainly black and white photographs. The largest group of images documents the Jacksons' (in particular James Jackson's) extensive international travels in an official capacity for the CPUSA. These include trips as part of CPUSA delegations to international communist meetings convened in the Soviet Union. These consist almost entirely of official press photographs, including a leather-bound official presentation-type photograph album holding images from the 26th World Congress of the Communist Party of the Soviet Union, in Moscow, 1959. Originally holding thirty (mainly 8 ½ x 6 inch) black and white prints (six became loose and are stored in a folder adjacent to the album; seven images are missing), most of these consist of iconic images of Moscow cityscapes and buildings, wide shots of the Congress and Nikita Khrushchev (then First Secretary of the Communist Party of the Soviet Union) addressing it, but a few are two-shots or group shots that include James Jackson. Also documented are journeys to state-sponsored gatherings in eastern European Soviet bloc countries including Bulgaria, Czechoslovakia, East Germany, Hungary, and Poland, as well as trips to Canada, western Europe (England and France), Latin America (Argentina, Cuba, and Venezuela), Africa (Ethiopia), and Asian countries. The latter include Cambodia, China, India, Mongolia, and North Korea, but most notably Vietnam (from 1963 to 1980). The photographs from the trips to Vietnam include a small group of images of Jackson interviewing American prisoners of war (including U.S. Navy Lieutenant-Commander Richard Allen Stratton) in 1968 at the North Vietnamese detention camp known as the "Hanoi Hilton." Also notable is a 1980 color snapshot of James Jackson with Madame Binh, former leader of the National Liberation Front's delegation to the 1970s U.S.–Vietnamese peace negotiations in Paris, although most of the photographs from Vietnam appear to be official Vietnamese press photographs documenting the destruction wreaked by the war rather than private photographs.</p>
+      <p>The collection also includes images of CPUSA leaders and luminaries (portraits or shown with James or Esther Jackson or the Jacksons together), such as Eugene Dennis, Gus Hall, Elizabeth Gurley Flynn, and prominent African-American communists Louis Burnham, Hosea Hudson, Henry Winston, Bessie Mitchell, and Angela Davis, as well as photographs of W. E. B. Du Bois. Also pictured with James Jackson are international communist leaders such as Ho Chi Minh, Nikita Khruschev, Leonid Brezhnev, and Mikhail Gorbachev; Henry Winston is shown posed with Fidel Castro. In addition, images from the files of <emph render="italic">Freedomways</emph>are included in the collection. These mainly document cultural events sponsored by the magazine, which include performers such as Harry Belafonte, Ossie Davis, Pete Seeger, Miriam Makeba and Carmen De Lavallade. Also notable in this series are a small number of searing images of police pursuing and beating residents of Harlem and bleeding residents during a conflict that broke out in July 1964 following protests over the killing of an African-American man by a white police officer.</p>
+      <p>More sparsely represented in the collection are biographical and family photographs, images that relate to the SNYC, pictures of demonstrations (ranging from May Day rallies of the 1940s and 1980s to 1940s civil rights marches, protests against the war in Vietnam and an early protest against United States' intervention in Arab countries) and of delegations of African-Americans visiting government officials, including President Lyndon Johnson and Democratic Senator (and Progressive Party vice-presidential candidate) Glen Taylor of Idaho.</p>
+    </scopecontent>
+    <arrangement id="aspace_15add888f280654e0c25a024d693c2e4">
+      <head>Arrangement</head>
+      <p>Folders are arranged chronologically within series, with the exception of series V and XIV, which are arranged alphabetically.</p>
+      <p>The files are grouped into sixteen series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I. James E. Jackson.</item>
+        <item>II. Esther Cooper Jackson.</item>
+        <item>III. Esther and James Jackson.</item>
+        <item>IV. Group Pictures.</item>
+        <item>V. Photographs of Others.</item>
+        <item>VI. Communist Party of the United States (CPUSA).</item>
+        <item>VII. Communist Party of the Soviet Union (CPSU).</item>
+        <item>VIII. International Communist Parties.</item>
+        <item>IX. Conferences.</item>
+        <item>X. Miscellaneous Events.</item>
+        <item>XI. Demonstrations and Rallies.</item>
+        <item>XII. Southern Negro Youth Congress.</item>
+        <item>XIII. Freedomways.</item>
+        <item>XIV. Travel.</item>
+        <item>XV. Negatives.</item>
+        <item>XVI. Photo Album.</item>
+      </list>
+    </arrangement>
+    <relatedmaterial id="aspace_a8a986f69fae96302dace055b344b66b">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>Communist Party of the USA Photographs (Photos #223)</p>
+      <p>James E. and Esther Cooper Jackson Oral History Collection (Oral History #57)</p>
+      <p>James E. and Esther Cooper Jackson Graphics Collection (Graphics #26).</p>
+      <p>James E. and Esther Cooper Jackson Papers (Tamiment #347)</p>
+    </relatedmaterial>
+    <userestrict id="aspace_c0ffe5d367cd6bfce3c1e4f6500bb439">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by James Jackson and Esther Cooper Jackson were transferred to New York University in 2005 by James and Esther Jackson. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library and Robert F. Wagner Archives. Please contact tamiment.wagner@nyu.edu, (212) 998-2630.</p>
+    </userestrict>
+    <prefercite id="aspace_5145ca66738d5598cfd2a75b934d6632">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <controlaccess>
+      <subject source="lcsh">African American communists.</subject>
+      <genreform source="aat">Black-and-white photographs.</genreform>
+      <subject source="lcsh">Communism -- United States.</subject>
+      <geogname source="lcsh">Moscow (Russia)</geogname>
+      <genreform source="aat">Color negatives.</genreform>
+      <genreform source="aat">Color slides.</genreform>
+      <genreform source="aat">Color photographs.</genreform>
+      <genreform source="aat">Black-and-white negatives.</genreform>
+      <geogname source="lcsh">Vietnam.</geogname>
+      <geogname source="lcsh">New York (N.Y.).</geogname>
+      <corpname source="naf">Freedomways Associates</corpname>
+      <persname source="naf">Jackson, James E., 1914-2007</persname>
+      <persname source="naf">Flynn, Elizabeth Gurley</persname>
+      <persname source="naf">Hudson, Hosea</persname>
+      <persname rules="dacs" source="local">Stevens, Hope</persname>
+      <persname source="naf">Jackson, Esther Cooper</persname>
+      <persname source="naf">Khrushchev, Nikita Sergeevich, 1894-1971</persname>
+      <persname source="naf">Johnson, Lyndon B. (Lyndon Baines), 1908-1973</persname>
+      <persname rules="dacs" source="local">Mitchell, Bessie</persname>
+      <persname source="naf">Makeba, Miriam</persname>
+      <corpname source="naf">Southern Negro Youth Congress</corpname>
+      <persname source="naf">Nguyễn, Thị Bình, 1927-</persname>
+      <corpname source="naf">Communist Party of the United States of America</corpname>
+      <persname source="naf">Baez, Joan</persname>
+      <persname source="naf">Taylor, Glen H. (Glen Hearst), 1904-1984</persname>
+      <persname source="ingest">Stratton, Richard Allen</persname>
+      <persname source="naf">Seeger, Pete, 1919-2014</persname>
+      <persname source="naf">Gorbachev, Mikhail Sergeevich, 1931-</persname>
+      <persname source="naf">Hall, Gus</persname>
+      <persname source="naf">Fedossejew, P. N.(Petr Nikolaevich)</persname>
+      <persname rules="dacs" source="naf">Ho, Chí Minh, 1890-1969</persname>
+      <persname source="naf">Du Bois, W. E. B. (William Edward Burghardt), 1868-1963</persname>
+      <persname source="naf">Dennis, Eugene, 1905-1961</persname>
+      <persname source="naf">De Lavallade, Carmen, 1931-</persname>
+      <persname source="naf">Davis, Ossie</persname>
+      <persname source="naf">Castro, Fidel, 1926-2016</persname>
+      <persname source="naf">Burnham, Louis E.</persname>
+      <persname source="naf">Brezhnev, Leonid Il'ich, 1906-1982</persname>
+      <persname source="naf">Davis, Angela Y. (Angela Yvonne), 1944-</persname>
+      <persname rules="dacs" source="local">Mitchell, Charlene, 1930-</persname>
+      <persname source="naf">Belafonte, Harry, 1927-</persname>
+      <persname role="dnr" source="naf">Jackson, James E., 1914-2007</persname>
+      <persname role="dnr" source="naf">Jackson, Esther Cooper</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref14" level="series">
+        <did>
+          <unittitle>Series I: James E. Jackson.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Childhood</unittitle>
+            <unitdate normal="1910/1931" type="inclusive">1910s , 1931</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_680327128e421b1f9c5dc0db52588bef" label="Mixed Materials [31142062667731]" type="box">1A</container>
+            <container id="aspace_c4cf5225037d28b72fd10fe9c8883c9e" parent="aspace_680327128e421b1f9c5dc0db52588bef" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref178" level="file">
+          <did>
+            <unittitle>Drawings by</unittitle>
+            <unitdate>1968</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_6f53666415a52514ee4f231907cc6a81" label="Mixed Materials [31142062667731]" type="box">1A</container>
+            <container id="aspace_fb24056138388dc4d732d22502720cb8" parent="aspace_6f53666415a52514ee4f231907cc6a81" type="folder">1a</container>
+          </did>
+        </c>
+        <c id="aspace_ref179" level="file">
+          <did>
+            <unittitle>Drawings of</unittitle>
+            <unitdate normal="1975/1978" type="inclusive">1975-1978, undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_bbc3caaa0c79bbfc660198d61df327dd" label="Mixed Materials [31142062667731]" type="box">1A</container>
+            <container id="aspace_5b08740263c3d6e7926723da91d416fb" parent="aspace_bbc3caaa0c79bbfc660198d61df327dd" type="folder">1b</container>
+          </did>
+        </c>
+        <c id="aspace_ref180" level="file">
+          <did>
+            <unittitle>Drawings unidentified</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_155b630b17887984d11e25db4a8f13de" label="Mixed Materials [31142062667731]" type="box">1A</container>
+            <container id="aspace_4756378a2143a79f872ed35456fb56c7" parent="aspace_155b630b17887984d11e25db4a8f13de" type="folder">1c</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Family Pictures</unittitle>
+            <unitdate normal="1920/1949" type="inclusive">1920-1949</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_c74beab6ed66365f7799b93d13cbfe74" label="Mixed Materials [31142062667731]" type="box">1A</container>
+            <container id="aspace_1dd224d084864e10301fced9a9b48416" parent="aspace_c74beab6ed66365f7799b93d13cbfe74" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>In the Army</unittitle>
+            <unitdate normal="1943/1945" type="inclusive">1943-1945</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_6355d9b8abf6e75cef5e54a95c6a8f66" label="Mixed Materials [31142062667731]" type="box">1A</container>
+            <container id="aspace_4b50f5376c3ff3b98e6dee7d7ca15834" parent="aspace_6355d9b8abf6e75cef5e54a95c6a8f66" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Portraits-Dated</unittitle>
+            <unitdate normal="1946/1991" type="inclusive">1946-1991</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_80cee832eeee04539a4c0b7f725f5abe" label="Mixed Materials [31142062667731]" type="box">1A</container>
+            <container id="aspace_59a80642b3fc3409e49930101849e69a" parent="aspace_80cee832eeee04539a4c0b7f725f5abe" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Portraits-Undated</unittitle>
+            <unitdate normal="1940/1959" type="inclusive">1940s , 1950s</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_0d75980eaa936a980afdfd3d81936836" label="Mixed Materials [31142062667731]" type="box">1A</container>
+            <container id="aspace_d2bd33e308c3157f4c1337b24edafd6b" parent="aspace_0d75980eaa936a980afdfd3d81936836" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Portraits-Undated</unittitle>
+            <unitdate normal="1960/1989" type="inclusive">1960s-1980s</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_e41f9a83091136d861c8117709e8f2f8" label="Mixed Materials [31142062667731]" type="box">1A</container>
+            <container id="aspace_5b792049197bbd0904aa057b50341615" parent="aspace_e41f9a83091136d861c8117709e8f2f8" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Portraits from 22nd Communist Party of the Soviet Union World Congress, Moscow</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_c796dcf77bb8b43a6b5af7cb4f5728b2" label="Mixed Materials [31142062667731]" type="box">1A</container>
+            <container id="aspace_af919b3772b299acfb99067fe6032ce2" parent="aspace_c796dcf77bb8b43a6b5af7cb4f5728b2" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Portraits from 24th Communist Party of the Soviet Union World Congress, Moscow</unittitle>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Record carton" id="aspace_fe10ff47dd6a594f4f9875ba37351195" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_acbd90732b3017055aad7c91130e5b86" parent="aspace_fe10ff47dd6a594f4f9875ba37351195" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Portraits from Marx Conference, Berlin</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Record carton" id="aspace_c8aedb9445c8ea29951ab1de64086fc2" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_29d76f98b7909de9aa71cf4f2f887a22" parent="aspace_c8aedb9445c8ea29951ab1de64086fc2" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Portraits from a Trip to Vietnam and Cambodia</unittitle>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container altrender="Record carton" id="aspace_37cd2a0e28699e91bf9767cb85ade976" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_02cc51f51dd68eef168149e00b12ccc9" parent="aspace_37cd2a0e28699e91bf9767cb85ade976" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Teaching at Pratt Institute, Brooklyn, NY</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container altrender="Record carton" id="aspace_1289ee51d9a939b77f3dcd0993474301" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_bf9cba7f50657ca17fe0e437f207e300" parent="aspace_1289ee51d9a939b77f3dcd0993474301" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>60th Birthday Celebration</unittitle>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container altrender="Record carton" id="aspace_0ef4df6f3278e8845b8e8fc22de5e09e" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_ffa0afcf00d6022f0cabed3ced5711b2" parent="aspace_0ef4df6f3278e8845b8e8fc22de5e09e" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>At Demonstrations against the Police Murder of Leon Mosley, and for Carl Winter's Release from Prison</unittitle>
+            <unitdate normal="1948/1949" type="inclusive">1948-1949</unitdate>
+            <container altrender="Record carton" id="aspace_6d94551113cbad51e72ac4e3251d3909" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_417744f2d422326f9619723d71f965fe" parent="aspace_6d94551113cbad51e72ac4e3251d3909" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>The Joliot Curie Gold Medal for Peace Award Ceremony</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_cac4cf7f0a3fdc0e6c1081fd819680da" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_2b96cf44c8f2d67e2acc7ef0f7b0f53b" parent="aspace_cac4cf7f0a3fdc0e6c1081fd819680da" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>With Students at an Unidentified Conference</unittitle>
+            <unitdate normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container altrender="Record carton" id="aspace_99619972cf9e7b8f3e8a284f47fa6327" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_e5743ad8fe1ffbc97d35f21710563802" parent="aspace_99619972cf9e7b8f3e8a284f47fa6327" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>With Louis Burnham</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">1930s</unitdate>
+            <container altrender="Record carton" id="aspace_b7784e773d7eb2ae606a055656d2afc9" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_c55da7d981ce4b1c2b3237e403624e6f" parent="aspace_b7784e773d7eb2ae606a055656d2afc9" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>With Khrushchev, Brezhnev, and Gorbachev</unittitle>
+            <unitdate normal="1960/1989" type="inclusive">1960s , 1980s</unitdate>
+            <container altrender="Record carton" id="aspace_7b9902dc6552e94fcacb0b138b66eb45" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_7030f04e0b0715232752d6033eaeacc5" parent="aspace_7b9902dc6552e94fcacb0b138b66eb45" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>With Elizabeth Gurley Flynn</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_e2935b0bc6302680489d2b6669b3300f" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_41e722952011debe4d808e221578ac2b" parent="aspace_e2935b0bc6302680489d2b6669b3300f" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>With Gus Hall</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_857236bc2505cda5bfe4bbb16e8375bd" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_47ab7e36936607910d8d53000fb0fe6f" parent="aspace_857236bc2505cda5bfe4bbb16e8375bd" type="folder">19</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref34" level="series">
+        <did>
+          <unittitle>Series II: Esther Cooper Jackson.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Esther Cooper Jackson</unittitle>
+            <unitdate normal="1970/1989" type="inclusive">1970-1989, undated</unitdate>
+            <container altrender="Record carton" id="aspace_3469645844b4f2f48942615ebfa66e61" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_d75469029c88cea780629c4deef96d15" parent="aspace_3469645844b4f2f48942615ebfa66e61" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Esther Cooper Jackson with W.E.B. Du Bois</unittitle>
+            <unitdate normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container altrender="Record carton" id="aspace_b6acd56516281442861abc617fe59295" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_1a0166d8e9a12fbe1d42d4ed3947e001" parent="aspace_b6acd56516281442861abc617fe59295" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Esther Cooper Jackson with Others</unittitle>
+            <unitdate normal="1940/1989" type="inclusive">1940s , 1970-1989</unitdate>
+            <container altrender="Record carton" id="aspace_7c9ef5e97f41211de1d29f112cfd16b7" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_3cff86966ee255135b3070aca5f2059e" parent="aspace_7c9ef5e97f41211de1d29f112cfd16b7" type="folder">22</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref38" level="series">
+        <did>
+          <unittitle>Series III: Esther and James Jackson.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Esther and James Jackson</unittitle>
+            <unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate>
+            <container altrender="Record carton" id="aspace_1b12ad711ce313a48034230799de6eee" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_a119a64f08a7c38b57a7ad6146fabe52" parent="aspace_1b12ad711ce313a48034230799de6eee" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Esther and James Jackson with W.E.B. Du Bois</unittitle>
+            <unitdate normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container altrender="Record carton" id="aspace_92501a01c65c9e7de0e0397612e5b739" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_8d927d8215ffe9664c799f236ab8d732" parent="aspace_92501a01c65c9e7de0e0397612e5b739" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Esther and James Jackson-Visit to Moscow</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container altrender="Record carton" id="aspace_f1ee29c3903631e191b7f5c069cc034d" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_2cbf69ccb0a909eb18b79086a974da44" parent="aspace_f1ee29c3903631e191b7f5c069cc034d" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Esther and James Jackson with Others</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_c2865765adbb6722d5f9ec2c94b5c51d" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_23582d7c408bc7e06e86e095b63abfa0" parent="aspace_c2865765adbb6722d5f9ec2c94b5c51d" type="folder">26</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref43" level="series">
+        <did>
+          <unittitle>Series IV: Group Photographs.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Group Photographs with James E. Jackson</unittitle>
+            <unitdate normal="1942/1977" type="inclusive">1942-1977</unitdate>
+            <container altrender="Record carton" id="aspace_c10cb6302218c46ec24ede06417348e3" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_de13b0e005698bd69229617b98308395" parent="aspace_c10cb6302218c46ec24ede06417348e3" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Group Photographs with James E. Jackson</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_e8026fc290d733e637427ee272d590c1" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_17d8f7f2808674092d1c6044da2b4f41" parent="aspace_e8026fc290d733e637427ee272d590c1" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Group Portraits with James E. Jackson and other CPUSA members</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_80a3e9947b8cdb2f858f17ee8b8b5028" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_5cd7b567496ae61d6e04ab35f1cf2947" parent="aspace_80a3e9947b8cdb2f858f17ee8b8b5028" type="folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Group Photographs of Unidentified Individuals</unittitle>
+            <unitdate normal="1972/1995" type="inclusive">1972 , 1985 , 1995, undated</unitdate>
+            <container altrender="Record carton" id="aspace_2e8e445bf2e334f7406583a66a51339a" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_fb23480cfc2c7928051b54cbb87ac431" parent="aspace_2e8e445bf2e334f7406583a66a51339a" type="folder">30</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref48" level="series">
+        <did>
+          <unittitle>Series V: Photographs of Others.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Burnham, Louis</unittitle>
+            <unitdate normal="1940/1949" type="inclusive">1940s</unitdate>
+            <container altrender="Record carton" id="aspace_b676da88952b0f5ef8b8e59b65014382" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_8ecb3b321b16cb79955af936070fb781" parent="aspace_b676da88952b0f5ef8b8e59b65014382" type="folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Davis, Angela</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container altrender="Record carton" id="aspace_1bd7cd093f9ffe1b9ae976f17f3bca08" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_95ce210550029fd7a59b694e6289293c" parent="aspace_1bd7cd093f9ffe1b9ae976f17f3bca08" type="folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Du Bois, W. E. B.</unittitle>
+            <unitdate normal="1960/1969" type="inclusive">1960s, undated</unitdate>
+            <container altrender="Record carton" id="aspace_3ed32748abbe6ec9611efc81a3ceecc1" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_fd2980e711616ee1bb7e96b9baec3893" parent="aspace_3ed32748abbe6ec9611efc81a3ceecc1" type="folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Fedossejew, P. N.</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container altrender="Record carton" id="aspace_7852b153ca60a95615a57f6a269f5e7a" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_032d1f7e027c27876a09be59ecd6e7bc" parent="aspace_7852b153ca60a95615a57f6a269f5e7a" type="folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Flynn, Elisabeth Gurley</unittitle>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container altrender="Record carton" id="aspace_ec243f1adcc62dec1514868cb36b37f0" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_5699d95edeb27bc5835848b03e7d8769" parent="aspace_ec243f1adcc62dec1514868cb36b37f0" type="folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Hall, Gus</unittitle>
+            <unitdate normal="1970/1989" type="inclusive">1970-1989</unitdate>
+            <container altrender="Record carton" id="aspace_8e2a1066afe22428ecec6284ecab16fb" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_95aceb4dfede1745779123bc02d64469" parent="aspace_8e2a1066afe22428ecec6284ecab16fb" type="folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Hudson, Hosea</unittitle>
+            <unitdate normal="1950/1959" type="inclusive">1950s, 1978</unitdate>
+            <container altrender="Record carton" id="aspace_e73c9c6424c15cffce808e55b9ce42d6" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_a115ef14c6b4ee375e5ba62c6a60ae60" parent="aspace_e73c9c6424c15cffce808e55b9ce42d6" type="folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Johnson, Lyndon B., President, with Unidentified African-American Delegation in the White House</unittitle>
+            <unitdate normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container altrender="Record carton" id="aspace_a83031e597d39c61f6d4785cbd17e092" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_a2295efae9c38879a052f7a1478c1151" parent="aspace_a83031e597d39c61f6d4785cbd17e092" type="folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Tereskova, Valentyina</unittitle>
+            <unitdate normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container altrender="Record carton" id="aspace_6d1f17d890ad0743a67311b808a9671d" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_e10c31a82b2aed294372ea4b17426d56" parent="aspace_6d1f17d890ad0743a67311b808a9671d" type="folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>White, Charles</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container altrender="Record carton" id="aspace_2016d7d496aff81ce12ab6573288b56a" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_f2b970fb1348c409d9c24de10d319e56" parent="aspace_2016d7d496aff81ce12ab6573288b56a" type="folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Winston, Henry</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container altrender="Record carton" id="aspace_938c4720198dec8e43c2a72c139fd658" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_643d88adb38495f3a923129dd122dbe9" parent="aspace_938c4720198dec8e43c2a72c139fd658" type="folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Winston, Henry with Fidel Castro in Moscow</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Record carton" id="aspace_19e606ce7265d23e8576144328ebd077" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_3f73537c51b9101b69386912ae4ba341" parent="aspace_19e606ce7265d23e8576144328ebd077" type="folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Portraits of Others (Identified)</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_4e0874fd47127e392523c9be2ffa2acc" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_75665950e9be51b93572489c79e4d0b3" parent="aspace_4e0874fd47127e392523c9be2ffa2acc" type="folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Portraits of Others (Unidentified)</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_e4a66c27e4dd2191ac7db1c39b5d7653" label="Mixed Materials [31142062671345]" type="box">1</container>
+            <container id="aspace_40dfda092d727611748ccaf3759d1d31" parent="aspace_e4a66c27e4dd2191ac7db1c39b5d7653" type="folder">44</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref63" level="series">
+        <did>
+          <unittitle>Series VI: Communist Party United States of America (CPUSA).</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>May Day, Union Square, New York City</unittitle>
+            <unitdate normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container altrender="Record carton" id="aspace_81eb664a55e4c711a8b179ca362c57f3" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_05644aa949647297644ff9c63b8c760e" parent="aspace_81eb664a55e4c711a8b179ca362c57f3" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Delegation to Budapest</unittitle>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container altrender="Record carton" id="aspace_659517a00a2ce37b6897582059753c23" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_401a1b21e4f9668f12883b434f1dc6db" parent="aspace_659517a00a2ce37b6897582059753c23" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>50th Anniversary of CPUSA</unittitle>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container altrender="Record carton" id="aspace_b3ba9199bd39a494b519ee58a16144c2" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_f17ade3e89af0dbc9de03b30a38d9b15" parent="aspace_b3ba9199bd39a494b519ee58a16144c2" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>CPUSA / Communist Party of the Soviet Union Delegation Meeting, Moscow</unittitle>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container altrender="Record carton" id="aspace_818a6ef1b034b1eaf1879bb032a63be0" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_3e63cb5dc395694a23ab11204c186679" parent="aspace_818a6ef1b034b1eaf1879bb032a63be0" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Delegation to the 60th Anniversary of the Great October Revolution, Moscow and possibly other locations in the Soviet Union</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Record carton" id="aspace_f54a88e130ff18ba27741b1fe02e27a1" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_834414bcebaaf7b939c8c93ecf8ad8ba" parent="aspace_f54a88e130ff18ba27741b1fe02e27a1" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Du Bois Foster School of Marxism-Leninism, Mesaba Park, Minnesota</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Record carton" id="aspace_a8a115020c02033a366dfb264c7b1b8a" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_d491de49949c28ea9f078c9fb3caeaf8" parent="aspace_a8a115020c02033a366dfb264c7b1b8a" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>22nd National Convention</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container altrender="Record carton" id="aspace_54262d74fedc8c78586e5ccaa5ad3440" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_54e12202f9187f9e88ce4667c3239f06" parent="aspace_54262d74fedc8c78586e5ccaa5ad3440" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>May Day, New York City</unittitle>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container altrender="Record carton" id="aspace_4e85d06d26d1bc5ac2b17777e00bf3fd" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_fdaefa5ee3f2efe6395fa4b4b388fba9" parent="aspace_4e85d06d26d1bc5ac2b17777e00bf3fd" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Committee Meetings</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_1df36135cc0c156c4a9671bc2b195295" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_8336b4d72bdd6bd5cb37d9f65a8eeab1" parent="aspace_1df36135cc0c156c4a9671bc2b195295" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Delegation to an Unidentified Event</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_8556c44d71a5146b2376270b2b540211" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_22911e0498ce5f1567b5feb518ac0408" parent="aspace_8556c44d71a5146b2376270b2b540211" type="folder">10</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref74" level="series">
+        <did>
+          <unittitle>Series VII: Communist Party of the Soviet Union (CPSU).</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>CPSU, 50th Anniversary of the Great October Revolution, Moscow</unittitle>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Record carton" id="aspace_d9736c4b369e46903d451d5cbf02a0a8" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_b994128ab3f1614cfc2debdae7cce178" parent="aspace_d9736c4b369e46903d451d5cbf02a0a8" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>CPSU, 24th World Congress, Moscow</unittitle>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Record carton" id="aspace_433f893e6221b1d366a714d65a629a05" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_9e1d85aa5542c125c968cd4d49c5a870" parent="aspace_433f893e6221b1d366a714d65a629a05" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>CPSU, 25th World Congress, Moscow</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container altrender="Record carton" id="aspace_75887c5d96a91552ee5a5be82aa83d37" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_017e225fb4e9aac8603cc6be18159113" parent="aspace_75887c5d96a91552ee5a5be82aa83d37" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>CPSU, 60th Anniversary of the Great October Revolution, Moscow</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Record carton" id="aspace_7c638c0ce68d06363229af2154f34937" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_57a4642ad1c41b71cabac7c78189f0da" parent="aspace_7c638c0ce68d06363229af2154f34937" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>CPSU, 60th Anniversary of the Great October Revolution, Baku</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Record carton" id="aspace_78f395983e5b5324acedfd21ad20f964" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_ccb1bbbb3499ab12cfb4d24152194022" parent="aspace_78f395983e5b5324acedfd21ad20f964" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>CPSU, 26th World Congress, Moscow</unittitle>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container altrender="Record carton" id="aspace_ef003eb1eef28b0f6467258309a9ff5a" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_8a169c6e488d52e7d2adfceeaecceee7" parent="aspace_ef003eb1eef28b0f6467258309a9ff5a" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>CPSU, Unidentified Events</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">1973 , undated</unitdate>
+            <container altrender="Record carton" id="aspace_c0616becb85c505d87055dddd6dcc2b5" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_530d63e75099bef85a6f21617006e80f" parent="aspace_c0616becb85c505d87055dddd6dcc2b5" type="folder">17</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref82" level="series">
+        <did>
+          <unittitle>Series VIII: International Communist Parties.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Argentina: Unidentified Communist Party event</unittitle>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container altrender="Record carton" id="aspace_0e952f01fbb51acdb8ddbdb79d4caa92" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_686a62f2358df318cda41b1459fa88e5" parent="aspace_0e952f01fbb51acdb8ddbdb79d4caa92" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Canada: James E. Jackson's Address at the 30th Anniversary of Pacific Tribune (the official newspaper of Canada's Communist Party), Vancouver</unittitle>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container altrender="Record carton" id="aspace_bb09f826e36ad9ecb0b048241bfd2eae" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_2fc59dee7ac08a33aa669d162e204443" parent="aspace_bb09f826e36ad9ecb0b048241bfd2eae" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>China: Unidentified Event</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
+            <container altrender="Record carton" id="aspace_38f471bae1068a22a10135666a1670f9" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_b8fb43406fdb0701e1a4334d9b51cd60" parent="aspace_38f471bae1068a22a10135666a1670f9" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Czechoslovakia: World Assembly</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container altrender="Record carton" id="aspace_e06c873a02ec2d0f5e251edb1ff1bae8" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_5841db76707a9fe53674715a2dc9ca4a" parent="aspace_e06c873a02ec2d0f5e251edb1ff1bae8" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>East Germany: S.E.D., The Socialist Unity Party's 9th Congress, Berlin</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container altrender="Record carton" id="aspace_ad3838eea53abee4f9bd45d951cb0b79" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_c8b82b6d82265cc2dcf55a17c9d41a91" parent="aspace_ad3838eea53abee4f9bd45d951cb0b79" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>France: The French Communist Party Congress-with CPUSA Delegation</unittitle>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Record carton" id="aspace_2794bf90d1ee41551da390a37deb15d2" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_ee8799ac0eee34055a5ae65a8e20edc6" parent="aspace_2794bf90d1ee41551da390a37deb15d2" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Mongolia: Mongolian People's Revolutionary Party (meeting)</unittitle>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container altrender="Record carton" id="aspace_f1b53a3ea0a64ad1557afa657877e64d" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_9edb4f08b293c6c5101489dde5392d0d" parent="aspace_f1b53a3ea0a64ad1557afa657877e64d" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Poland: Polish Workers' Party Congress</unittitle>
+            <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+            <container altrender="Record carton" id="aspace_47fb4e1ecf081c2780a0d9c246504eeb" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_55b6acc512509f229781263fd4980715" parent="aspace_47fb4e1ecf081c2780a0d9c246504eeb" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>International Communist Parties Events (Miscellaneous)</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_59d3e30b4aee8c71d4159f2f5b09e18c" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_a19d7555cfffdfad57be25f70e025d18" parent="aspace_59d3e30b4aee8c71d4159f2f5b09e18c" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>International Communist Parties Events (Contact Sheets)</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_dd1f35d4920dd2a91c4c4f22d24d4277" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_df6456b189611c3338de2c3704730cc5" parent="aspace_dd1f35d4920dd2a91c4c4f22d24d4277" type="folder">27</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref93" level="series">
+        <did>
+          <unittitle>Series IX: Conferences.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>International Planning Conference, Mexico City</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">1930s</unitdate>
+            <container altrender="Record carton" id="aspace_3333bd96242c224d02e5981bb010e811" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_d97acf7321e332bafb459753c3513f1c" parent="aspace_3333bd96242c224d02e5981bb010e811" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>"Marxism-Leninism 1820-1970," Berlin, East Germany</unittitle>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container altrender="Record carton" id="aspace_b1cd1ff266a7aedb2632e83fa84e09d4" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_ada4cff19be8d5833e303a08e8120d1e" parent="aspace_b1cd1ff266a7aedb2632e83fa84e09d4" type="folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>"Karl Marx and His Time," Berlin, East Germany</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container altrender="Record carton" id="aspace_68699ef3bd9f6afeb398ae21e3c0c57e" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_c06b88c698cd1be4d46dc59b6fa46bba" parent="aspace_68699ef3bd9f6afeb398ae21e3c0c57e" type="folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Unidentified, Berlin, East Germany</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_89c06585efefdfcefda001063a0bf16e" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_31fa05d1185f3dc771f512b6d8853d63" parent="aspace_89c06585efefdfcefda001063a0bf16e" type="folder">31</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref98" level="series">
+        <did>
+          <unittitle>Series X: Miscellaneous Events.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Memorial Meeting in Tribute to Reverend Martin Luther King</unittitle>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container altrender="Record carton" id="aspace_41af197856951fad3b8860a38ab59cde" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_2826d1962a756a2fdc0dadd91822b766" parent="aspace_41af197856951fad3b8860a38ab59cde" type="folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>United Nations Events</unittitle>
+            <unitdate normal="1968/1978" type="inclusive">1968-1978</unitdate>
+            <container altrender="Record carton" id="aspace_197039f13b0f721f9f2182fb20e19a3e" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_2a02d26c11a1ac3c93661991acaae06b" parent="aspace_197039f13b0f721f9f2182fb20e19a3e" type="folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>ZIL Auto Plant</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_a407661df0c208ed0faec25091094bb4" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_9736f944a03684d8239e008de2f41693" parent="aspace_a407661df0c208ed0faec25091094bb4" type="folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Unidentified Event at Madison Square Garden, New York City</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_b435c3e517544e887176c06fc5bc8330" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_c3e09da5be26b79ff9e23fd010179e32" parent="aspace_b435c3e517544e887176c06fc5bc8330" type="folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>Events with James E. Jackson's Participation</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">1937 , 1943 , undated</unitdate>
+            <container altrender="Record carton" id="aspace_1428e436682506198f08b493c5a64b00" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_95349a5ada91afdba676a2a4b9a55c45" parent="aspace_1428e436682506198f08b493c5a64b00" type="folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref181" level="file">
+          <did>
+            <unittitle>Oversize</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_07a3df776726e34f504b258746f27d40" label="Mixed Materials [31142062759819]" type="box">OS003</container>
+            <container id="aspace_3f3c3dded055800ab653cf4e1fa487dd" parent="aspace_07a3df776726e34f504b258746f27d40" type="folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref104" level="series">
+        <did>
+          <unittitle>Series XI: Demonstrations and Rallies.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Right to Vote Rally, New Orleans, LA; Right toVote March, Birmingham, AL</unittitle>
+            <unitdate normal="1943/1946" type="inclusive">1943 , 1946</unitdate>
+            <container altrender="Record carton" id="aspace_63b500b68727b155dc973843dbde4be7" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_415de29b620a376bd10580f77bc2a2e4" parent="aspace_63b500b68727b155dc973843dbde4be7" type="folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Protest Against U.S. Intervention in Arab countries (Pictures of James E. Jackson)</unittitle>
+            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Record carton" id="aspace_8702d9e6f3dab8ce5ac4141e5da480b2" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_8f275443b4135d2f25335efb6cfa35f4" parent="aspace_8702d9e6f3dab8ce5ac4141e5da480b2" type="folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>March on Washington (Joan Baez pictured)</unittitle>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container altrender="Record carton" id="aspace_39bcc201a6cbec9326ca464d82b8e9e0" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_c7f3524cdd22065c53010aa6a64cfdc8" parent="aspace_39bcc201a6cbec9326ca464d82b8e9e0" type="folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Anti-War Demonstration: Vietnam, Dominican Republic (Organized by the Communist Party?), Union Square, New York City</unittitle>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container altrender="Record carton" id="aspace_af9545aa81c5b8ee6f0e071331e505e4" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_316c75418d6264061687dd3fd65e4113" parent="aspace_af9545aa81c5b8ee6f0e071331e505e4" type="folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Veterans for Peace in Vietnam, Washington D.C.</unittitle>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Record carton" id="aspace_f49a96359b9d5533a4320ef8a05347b7" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_5c12f8c3bf29862cff970ca2c63a92cf" parent="aspace_f49a96359b9d5533a4320ef8a05347b7" type="folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Solidarity With the Communist Party of Chile (organized by CPUSA)</unittitle>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container altrender="Record carton" id="aspace_25a4ed4392ef632869a81c5afa4b7f7c" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_006887adbf87bee85e4d3bb51958734c" parent="aspace_25a4ed4392ef632869a81c5afa4b7f7c" type="folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>United Farm Workers, Brooklyn, NY</unittitle>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Record carton" id="aspace_cbfcfac98106f5cef72e0f8e2d93ad4a" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_4c1c5502fa41e05fd57f1c3459bfebc6" parent="aspace_cbfcfac98106f5cef72e0f8e2d93ad4a" type="folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Vietnam War Protest (Organized by Freedomways?)</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container altrender="Record carton" id="aspace_f193bd58efe919e0ec0c1965b858906c" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_151bfe4ad711d031e0615bdd2c4ab8b8" parent="aspace_f193bd58efe919e0ec0c1965b858906c" type="folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>Peace Demonstration, New York City (Organized by the Communist Party)</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
+            <container altrender="Record carton" id="aspace_52a0edf4751be485bd809917af1f8021" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_606298b1f7de5b20e79783349c48272a" parent="aspace_52a0edf4751be485bd809917af1f8021" type="folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Peace Demonstration, Washington DC (Organized by the Communist Party)</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
+            <container altrender="Record carton" id="aspace_da0967020ed93bb1b9e66290271f6eca" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_d7a1ae399673a5234ce716421bcb5bba" parent="aspace_da0967020ed93bb1b9e66290271f6eca" type="folder">46</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref115" level="series">
+        <did>
+          <unittitle>Series XII: Southern Negro Youth Congress.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Southern Negro Youth Congress</unittitle>
+            <unitdate normal="1941/1946" type="inclusive">1941-1946</unitdate>
+            <container altrender="Record carton" id="aspace_a23365044b7329cbf2ee369105f072be" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_528d44cb6c72b0bb1e5d98ef9f1ec7a8" parent="aspace_a23365044b7329cbf2ee369105f072be" type="folder">47</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref117" level="series">
+        <did>
+          <unittitle>Series XIII: Freedomways.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Cultural Events: Art Exhibitions</unittitle>
+            <unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate>
+            <container altrender="Record carton" id="aspace_ff0cbdda92e6dc6cdfb42c1fd0a3fb93" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_f180c06983b6fcb83f47c303d52cbfbc" parent="aspace_ff0cbdda92e6dc6cdfb42c1fd0a3fb93" type="folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Cultural Events: Concerts</unittitle>
+            <unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate>
+            <container altrender="Record carton" id="aspace_cb04ac1c7274fee3c3c653612e33a1cb" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_1270bb3cf2620e0423c564955105e28f" parent="aspace_cb04ac1c7274fee3c3c653612e33a1cb" type="folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Cultural Events: Dance, Carmen de Lavallade and Others</unittitle>
+            <unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate>
+            <container altrender="Record carton" id="aspace_44d7a97a54a852e9b19d24c80c1d88f4" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_e57af0139c508b5611255e1e9b8458af" parent="aspace_44d7a97a54a852e9b19d24c80c1d88f4" type="folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>Cultural Events: Performers' Headshots</unittitle>
+            <unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate>
+            <container altrender="Record carton" id="aspace_94a3552336f2421c895b4f2a5a9534d5" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_be5b4a25a71816da37fcb2c38a9a53ff" parent="aspace_94a3552336f2421c895b4f2a5a9534d5" type="folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>Cultural Events: Theater</unittitle>
+            <unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate>
+            <container altrender="Record carton" id="aspace_b7461dde53898b9eb8eeb8904970564b" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_4e600dce9d0e9d3ca1cef67c502a1667" parent="aspace_b7461dde53898b9eb8eeb8904970564b" type="folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>Friends and Associates</unittitle>
+            <unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate>
+            <container altrender="Record carton" id="aspace_a526e0a18558d8894a4470c4c72b880d" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_daf8fee596cfa5c2c7fd7076c5558f28" parent="aspace_a526e0a18558d8894a4470c4c72b880d" type="folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>Front/Back and Inner Covers; Portraits</unittitle>
+            <unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate>
+            <container altrender="Record carton" id="aspace_0635c3b0294786c2b52280460854d0bc" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_764ea456719025e60060a23b5bc2fd0d" parent="aspace_0635c3b0294786c2b52280460854d0bc" type="folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>Pictures of Books and Phonograph Records related to Freedomways</unittitle>
+            <unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate>
+            <container altrender="Record carton" id="aspace_83b58b5eb635ef17cc2f47bf52a0b274" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_9d679f3b734f58d008d53626841a5f30" parent="aspace_83b58b5eb635ef17cc2f47bf52a0b274" type="folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>Conflict between police and African American Community in Harlem, New York, during Riot of 1964</unittitle>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container altrender="Record carton" id="aspace_f2af8694d0a0113d3e0bf289d6933a01" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_30ed65fa06cc8a249aeb0f81ee68ea3d" parent="aspace_f2af8694d0a0113d3e0bf289d6933a01" type="folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>Political Events</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">Undated</unitdate>
+            <container altrender="Record carton" id="aspace_16084c2ee0f39864470432265f249bbf" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_f5e63f3728a0cd5aa2da78e595b179ff" parent="aspace_16084c2ee0f39864470432265f249bbf" type="folder">57</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>South Africa</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container altrender="Record carton" id="aspace_fdb42d52c6bd4b87314d9c67a7382bb0" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_8fce36298b3d977a8f48892e5033de44" parent="aspace_fdb42d52c6bd4b87314d9c67a7382bb0" type="folder">58</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>Contact Sheets: Miscellaneous</unittitle>
+            <unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate>
+            <container altrender="Record carton" id="aspace_7c94edcdfba633cd7c02b4d61a65428d" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_a32d9770d4898987bb01eb050710834c" parent="aspace_7c94edcdfba633cd7c02b4d61a65428d" type="folder">59</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate>
+            <container altrender="Record carton" id="aspace_d2a80c93718886b1a8ece1cbab2f69a5" label="Mixed Materials [31142062671352]" type="box">2</container>
+            <container id="aspace_add2f8033745563b75b235c65c9aa2ea" parent="aspace_d2a80c93718886b1a8ece1cbab2f69a5" type="folder">60</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref131" level="series">
+        <did>
+          <unittitle>Series XIV: Travel.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle>Bulgaria</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container altrender="Record carton" id="aspace_0020935fdfed1c47a16bd08f5372a9f6" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_9eb29dc9b6f490c5da5c30a7e4bd5cee" parent="aspace_0020935fdfed1c47a16bd08f5372a9f6" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle>Bulgaria: At Hy Lumer's Gravestone</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container altrender="Record carton" id="aspace_d3812868b6cc2012bc17cab748d68e16" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_bc19742cf231080e1474e5e09777023b" parent="aspace_d3812868b6cc2012bc17cab748d68e16" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="file">
+          <did>
+            <unittitle>Cambodia</unittitle>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container altrender="Record carton" id="aspace_f60065985a90f197eef006e55a71dcf3" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_90da89a594831c07127f8ab9d6cf8927" parent="aspace_f60065985a90f197eef006e55a71dcf3" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="file">
+          <did>
+            <unittitle>Cambodia: Contact Sheets</unittitle>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container altrender="Record carton" id="aspace_7238d671de901701179932838e9ef022" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_ae3370e00e3c1969791bd7c655311363" parent="aspace_7238d671de901701179932838e9ef022" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref136" level="file">
+          <did>
+            <unittitle>China</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">1988 , undated</unitdate>
+            <container altrender="Record carton" id="aspace_98d9a19b94fde79b44ec07863de2ccc2" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_c5ab9edb6881d36f30195218ddf7e2eb" parent="aspace_98d9a19b94fde79b44ec07863de2ccc2" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref137" level="file">
+          <did>
+            <unittitle>Cuba (photos, postcards, memorabilia)</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">1960 , 1967 , undated</unitdate>
+            <container altrender="Record carton" id="aspace_6d36fc6af13d5701bf9a5b239e203eef" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_e648a1da26ba454e478263be762beb1f" parent="aspace_6d36fc6af13d5701bf9a5b239e203eef" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="file">
+          <did>
+            <unittitle>Czechoslovakia: Prague</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_6f7d43c50a871a44b7924ee357b6da8e" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_f73d2ba80756be91be918b88895e42bb" parent="aspace_6f7d43c50a871a44b7924ee357b6da8e" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref139" level="file">
+          <did>
+            <unittitle>East Germany: Berlin</unittitle>
+            <unitdate normal="1970/1989" type="inclusive">1970-1989</unitdate>
+            <container altrender="Record carton" id="aspace_716db07fe81f704bb2324ee725405542" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_801857967527b70ff7ce90f07ff458dc" parent="aspace_716db07fe81f704bb2324ee725405542" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="file">
+          <did>
+            <unittitle>Ethiopia: Addis Ababa (with Stevens Hope and Charlene Mitchell)</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_8a24f85fc4d244ec14dcf74a74f66b88" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_88823312b6eefafb46cc170f6bbdb639" parent="aspace_8a24f85fc4d244ec14dcf74a74f66b88" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="file">
+          <did>
+            <unittitle>France: Paris</unittitle>
+            <unitdate normal="1975/1980" type="inclusive">1975-1980</unitdate>
+            <container altrender="Record carton" id="aspace_9f4c36a2757c07bf0644712a57f52aa5" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_e260bfbb282defb26e8c0dae1ff11e1a" parent="aspace_9f4c36a2757c07bf0644712a57f52aa5" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref142" level="file">
+          <did>
+            <unittitle>India</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container altrender="Record carton" id="aspace_692729e7faeb1f7b03105860f2ca4e44" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_25425143bacee9fa467fa46dc01f8412" parent="aspace_692729e7faeb1f7b03105860f2ca4e44" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref143" level="file">
+          <did>
+            <unittitle>North Korea</unittitle>
+            <unitdate normal="1980/1985" type="inclusive">1980-1985</unitdate>
+            <container altrender="Record carton" id="aspace_a6b9cab6d2f6c9b4e39a50d35addbf81" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_222f073a0f0a5a5b987303725f2aa5b0" parent="aspace_a6b9cab6d2f6c9b4e39a50d35addbf81" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref144" level="file">
+          <did>
+            <unittitle>Poland (?)</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container altrender="Record carton" id="aspace_86ecb99ddff32686b8be028b829b7e5e" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_86286f2faa6c15d10e08d599ed13991b" parent="aspace_86ecb99ddff32686b8be028b829b7e5e" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref145" level="file">
+          <did>
+            <unittitle>Soviet Union</unittitle>
+            <unitdate normal="1950/1959" type="inclusive">1950s</unitdate>
+            <container altrender="Record carton" id="aspace_7c08ab6f2c61aebeabb70871604f47fe" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_14d76706cb3bcb3c7981479f9d42ab50" parent="aspace_7c08ab6f2c61aebeabb70871604f47fe" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref146" level="file">
+          <did>
+            <unittitle>Soviet Union: Leningrad</unittitle>
+            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Record carton" id="aspace_6353310c7626cb7e6ee31af7b6b2cc9b" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_dcdb7ccdc55f28f7e977566a2b387b28" parent="aspace_6353310c7626cb7e6ee31af7b6b2cc9b" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref147" level="file">
+          <did>
+            <unittitle>Soviet Union: Moscow</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container altrender="Record carton" id="aspace_17123ee37e968bce3a5777e938029339" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_29af4bcd506655155c940735d1e11b0e" parent="aspace_17123ee37e968bce3a5777e938029339" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref148" level="file">
+          <did>
+            <unittitle>Soviet Union: Moscow</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container altrender="Record carton" id="aspace_00ba4ec7332dac444d08347baff8b0f7" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_b8b0bd1ba19b3c73221eb7cd7db39181" parent="aspace_00ba4ec7332dac444d08347baff8b0f7" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref149" level="file">
+          <did>
+            <unittitle>Soviet Union: Moscow</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
+            <container altrender="Record carton" id="aspace_e4db9a59a0bf879890a319e29a493c68" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_18918dc0523636ee1818ad4b81ac7ba5" parent="aspace_e4db9a59a0bf879890a319e29a493c68" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref150" level="file">
+          <did>
+            <unittitle>Soviet Union: Moscow-Memorabilia, Postcards</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_e14e28cc5dd0081258cd0ee33c7447c2" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_3d8f9593e980d4feb3e130d9336eef06" parent="aspace_e14e28cc5dd0081258cd0ee33c7447c2" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref151" level="file">
+          <did>
+            <unittitle>United Kingdom: London</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_71dffdb7de8dfa991f7b3ad4a320ec96" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_16c3ce533baa013ac20bf83a1061259a" parent="aspace_71dffdb7de8dfa991f7b3ad4a320ec96" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref152" level="file">
+          <did>
+            <unittitle>United States: Puerto Rico</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_ef3e7fefa038f118b49dca2ca80b06f5" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_17df93a750fc898b07c50a1cd848ef49" parent="aspace_ef3e7fefa038f118b49dca2ca80b06f5" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref153" level="file">
+          <did>
+            <unittitle>United States: Washington DC</unittitle>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Record carton" id="aspace_61e419d57989e3d7c3f40959eca2a56c" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_95fe9ca8bcd260fae8118b3b276730d0" parent="aspace_61e419d57989e3d7c3f40959eca2a56c" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref154" level="file">
+          <did>
+            <unittitle>Venezuela: Caracas (Portrait of James E. Jackson and Group Pictures)</unittitle>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Record carton" id="aspace_c564b69f14c545e189fdef81934a4b27" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_f144c4502861f2e8fc5ad68687f9eedd" parent="aspace_c564b69f14c545e189fdef81934a4b27" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref155" level="file">
+          <did>
+            <unittitle>Vietnam</unittitle>
+            <unitdate normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container altrender="Record carton" id="aspace_2e64ba748afcd488574171b69c7598b7" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_f585b508d2797f3f570548e35d71b2e7" parent="aspace_2e64ba748afcd488574171b69c7598b7" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref156" level="file">
+          <did>
+            <unittitle>Vietnam</unittitle>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container altrender="Record carton" id="aspace_f326f3bec7a02e2a5603ea283b7a3bda" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_a9daa24402d7b309e0d7f23aa4931f28" parent="aspace_f326f3bec7a02e2a5603ea283b7a3bda" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref157" level="file">
+          <did>
+            <unittitle>Vietnam</unittitle>
+            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+            <container altrender="Record carton" id="aspace_deacdd32cc8d5e9d44f28c9c6fdcda03" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_0a4d341f5cfbbb261507184abf37f48d" parent="aspace_deacdd32cc8d5e9d44f28c9c6fdcda03" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref158" level="file">
+          <did>
+            <unittitle>Vietnam-Casualties</unittitle>
+            <unitdate normal="1967/1968" type="inclusive">1967-1968</unitdate>
+            <container altrender="Record carton" id="aspace_9cc5e31415c998f547fd65799bded11c" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_3dd045a842aa997826a71192a4c27865" parent="aspace_9cc5e31415c998f547fd65799bded11c" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref159" level="file">
+          <did>
+            <unittitle>Vietnam-"A Moment of Peace"-Pictures of Cultural Events, People and Landscape</unittitle>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container altrender="Record carton" id="aspace_e18c2e00464b014d70ed8a9582129f40" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_be6e3e3ec6394e80003b2b6837257279" parent="aspace_e18c2e00464b014d70ed8a9582129f40" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref160" level="file">
+          <did>
+            <unittitle>Vietnam-Sites of War and Devastation</unittitle>
+            <unitdate normal="1966/1968" type="inclusive">1966 , 1968</unitdate>
+            <container altrender="Record carton" id="aspace_b38137b7590cdcbd52f5cced434146f5" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_e5097dc1138617019e8b78cd622fcf4b" parent="aspace_b38137b7590cdcbd52f5cced434146f5" type="folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref161" level="file">
+          <did>
+            <unittitle>Vietnam-Ho-Chi-Minh and James E. Jackson</unittitle>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container altrender="Record carton" id="aspace_b66eb205d632645d7f349125a5ca68d9" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_ab88b0c8bbe81bdcd7f0b77a18de0c7e" parent="aspace_b66eb205d632645d7f349125a5ca68d9" type="folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref162" level="file">
+          <did>
+            <unittitle>Vietnam-Contact Sheets</unittitle>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container altrender="Record carton" id="aspace_9602928162e659bc396444d7de7e4aa0" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_e92070fe184916f6e4533f8412f8dce1" parent="aspace_9602928162e659bc396444d7de7e4aa0" type="folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref163" level="file">
+          <did>
+            <unittitle>Vietnam</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container altrender="Record carton" id="aspace_76d8bdce71384bf2f4c693b430452efb" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_1364bbfda253ea86741257648afb1ef2" parent="aspace_76d8bdce71384bf2f4c693b430452efb" type="folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref164" level="file">
+          <did>
+            <unittitle>Travel-Miscellaneous</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_6afe72fff0b1bc216c1a4d3c82f2031c" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_d1d483b8738a1d69b5f3c80b628a2136" parent="aspace_6afe72fff0b1bc216c1a4d3c82f2031c" type="folder">33</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref165" level="series">
+        <did>
+          <unittitle>Series XV: Negatives.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref166" level="file">
+          <did>
+            <unittitle>Esther and James Jackson</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_288670b827d7cb1eb69502ee6cd7ace3" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_193eb4a5ba26ae5a7aa2c5a6cdbc7dd5" parent="aspace_288670b827d7cb1eb69502ee6cd7ace3" type="folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref167" level="file">
+          <did>
+            <unittitle>James E. Jackson with Others</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_d84989cb84e1bc2d3684ced9b689c13e" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_647784c829fdfefe6c53186cf3a2a269" parent="aspace_d84989cb84e1bc2d3684ced9b689c13e" type="folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref168" level="file">
+          <did>
+            <unittitle>Freedomways (Headshots and Performers' Portraits)</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_e8b6a61f6a9633c6dc4be59289c96879" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_fb13407b75a3038c7e1e9da7dbe94272" parent="aspace_e8b6a61f6a9633c6dc4be59289c96879" type="folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref169" level="file">
+          <did>
+            <unittitle>International Communist Parties Events</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_15d36c35573a33b238c02edb46e708b0" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_30cedc2c5e418e440818ea28f84ae5ed" parent="aspace_15d36c35573a33b238c02edb46e708b0" type="folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref170" level="file">
+          <did>
+            <unittitle>Veterans for Peace in Vietnam Demonstration, Washington D.C.</unittitle>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Record carton" id="aspace_dfc91a3973e418eba46762b6b7c218cc" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_a5f40b0410d99e9dbfe3c198f90d87ed" parent="aspace_dfc91a3973e418eba46762b6b7c218cc" type="folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref171" level="file">
+          <did>
+            <unittitle>Cambodia and Vietnam (travel)</unittitle>
+            <unitdate normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container altrender="Record carton" id="aspace_e895fe1f0c9e26725fa98bf48e096861" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_e5f927710f4ba45795014ec32111731d" parent="aspace_e895fe1f0c9e26725fa98bf48e096861" type="folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref172" level="file">
+          <did>
+            <unittitle>Soviet Union: Moscow (travel)</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container altrender="Record carton" id="aspace_e922092562011d11ffdd735775f0d207" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_861244eb45ef1326ed8e7be1af5808ac" parent="aspace_e922092562011d11ffdd735775f0d207" type="folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref173" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate normal="1910/1995" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_3779679f9beafcb1cdfd5dad808f654e" label="Mixed Materials [31142062671360]" type="box">3</container>
+            <container id="aspace_5b7e69b3dfdaad637baabd9e7b9adda1" parent="aspace_3779679f9beafcb1cdfd5dad808f654e" type="folder">41</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref174" level="series">
+        <did>
+          <unittitle>Series XVI: Photo Album.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref175" level="file">
+          <did>
+            <unittitle>Photo Album: 26th World Congress of the Communist Party of the Soviet Union, Moscow</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container altrender="Custom Box - 16.5d x 5.5h x 13w" id="aspace_7f186d1ff7db87e70c85d6a0a56476dd" label="Mixed Materials [31142062838928]" type="box">4</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

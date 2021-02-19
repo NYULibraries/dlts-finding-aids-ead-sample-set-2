@@ -1,80 +1,431 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F">mss_020</eadid><filedesc><titlestmt><titleproper>The Guide to Once: A One Shot Magazine Archive<lb/><date calendar="gregorian" era="ce">1966-1967 </date><num>MSS 20</num> <num>MSS.020</num></titleproper><author>Processed by Amber Creger</author></titlestmt><editionstmt><p>This version was derived fromhttp://www.nyu.edu/library/bobst/research/fales/coll_mss/once.html</p></editionstmt><publicationstmt><publisher>Fales Library and Special Collections</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 14:59:25 -0500</date>.</creation><langusage>Description is in <language>English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Fales Library and Special Collections</corpname>
-    </repository>
-    <unittitle>Once: A One Shot Magazine Archive</unittitle>
-    <origination label="Creator">
-      <corpname source="local">Once</corpname>
-    </origination>
-    <unitid>MSS.020</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-      <extent altrender="carrier">(1 box)</extent>
-    </physdesc>
-    <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
-    <abstract id="aspace_249e0ae064667cfa01d241e177392618">The Once and Etc. Archive consists of correspondence with and manuscripts sent to Once's editor and contributor, Tom Clark. The collection includes material from noted writers and figures, including: Allen Ginsberg, Gerard Malanga, Robert Creeley and George Plimpton.</abstract>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F">mss_020</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>The Guide to Once: A One Shot Magazine Archive<lb/><date calendar="gregorian" era="ce">1966-1967 </date><num>MSS 20</num> <num>MSS.020</num></titleproper>
+        <author>Processed by Amber Creger</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived fromhttp://www.nyu.edu/library/bobst/research/fales/coll_mss/once.html</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 14:59:25 -0500</date>.</creation>
+      <langusage>Description is in <language>English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Once: A One Shot Magazine Archive</unittitle>
+      <origination label="Creator">
+        <corpname source="local">Once</corpname>
+      </origination>
+      <unitid>MSS.020</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+        <extent altrender="carrier">(1 box)</extent>
+      </physdesc>
+      <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
+      <abstract id="aspace_249e0ae064667cfa01d241e177392618">The Once and Etc. Archive consists of correspondence with and manuscripts sent to Once's editor and contributor, Tom Clark. The collection includes material from noted writers and figures, including: Allen Ginsberg, Gerard Malanga, Robert Creeley and George Plimpton.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-  </did>
-  <custodhist id="aspace_14eb39043c53ba9f817c082b9b51b8dd">
-    <head>Provenance</head>
-<p>The collection was purchased by Fales Library; the date and vendor are unrecorded.</p>  </custodhist>
-  <accessrestrict id="aspace_6924a4ce94372bb30b801390ca550123">
-    <head>Access Restrictions</head>
-<p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
-  <prefercite id="aspace_cd58aa435d9ecae6a5ca1f33eb5f4333">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form:<lb/><lb/>Identification of item, date (if known); The Once and Etc. Archive; MSS 020; box number; folder number; <address><addressline>Fales Library and Special Collections</addressline></address> , New York University Libraries.</p>  </prefercite>
-  <bioghist id="aspace_66d92e683c643aac722fca5b8b1a2bfc">
-    <head>Historical/Biographical Note:</head>
-<p> The Once and Etc. Archive is a collection of correspondence with Tom Clark, 1941- who edited the poetry magazine sometimes called: <corpname>A One Shot Magazine</corpname>. Though that title was carried through in other issues, the magazine, which was called "<corpname>Once</corpname>" once, was published under different names every issue (except where noted): <corpname>Twice</corpname>, <corpname>Thrice</corpname>, <corpname>Thrice</corpname> and a 1/2, <corpname>Frice</corpname>, <corpname>Ice</corpname>, <corpname>Nice</corpname>, <corpname>Vice</corpname>, <corpname>Slice</corpname> (two issues had this title), and <corpname>Spice</corpname>. </p><p> In the 1960's, Tom Clark, whose long and varied career includes forays into poetry, fiction, play writing, and biography, edited the 11 issue run of this poetry magazine as well as the higher profiled, <corpname>Paris Review</corpname>. At the time of this collection's creation, Clark, an American born in <geogname>Chicago</geogname>, was in <geogname>England</geogname> where he and Allen Ginsberg had come in the early 1960's to hitchhike. </p><p> The One Shot Magazine and various named decedents was a 37 cm., illustrated, and low budget enterprise where the content reflected its unorthodox appellations. Its contributors included a number notable writers and figures of the time. </p><p>Note: Copies of the magazine are not part of this archive but are available in the Fales Collection.. </p><p> Sources: </p><p><list><item> Contemporary Authors Online. The Gale Group, 2001. Reproduced in Biography Resource Center. Farmington Hills, Mich.: The Gale Group. 2002. [http://www.galenet.com/servlet/BioRC]</item><item> A One Shot Magazine. Brightlingsea England : T. Clark, [1966]. Vol. 1, no. 1. </item></list> </p>  </bioghist>
-  <scopecontent id="aspace_0af29791755420b55a8fd041aeb7ed4e">
-    <head>Scope and Content Note</head>
-<p> The Once and Etc. Archive is a part of the Avant Garde Collection at the Fales Library, New York University and it consists of correspondence with its editor, Tom Clark.</p><p> Included also are manuscripts submitted to Clark for inclusion in the magazine. The Once and Etc. Archive's correspondence and manuscripts originate from many notable poets and literati of the period, including: Robert Creeley, Allen Ginsberg, Ed Sanders, Gerard Malangra, among many others (see container list). </p>  </scopecontent>
-  <arrangement id="aspace_aed480bee193793da7f12e10902c8789">
-    <head>Arrangement</head>
-
-
-<p>Folders are arranged alphabetically by subject/author heading.</p><p> The files are grouped into one series. </p>    <list numeration="arabic" type="ordered">
-      <head>Missing Title</head>
-      <item>Series I: Correspondence</item>
-    </list>
-  </arrangement>
-  <separatedmaterial id="aspace_0c17c82ba8c8d31bb5ac0db653294269">
-    <head>Separated Material</head>
-<p>There is no information about materials that are associated by provenance to the described materials that have been physically separated or removed.</p>  </separatedmaterial>
-  <userestrict id="aspace_b84f86e3e09ec5bd83ec3afd94ed75c0">
-    <head>Use Restrictions</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </userestrict>
-  <controlaccess>
-    <subject source="lcsh">Small presses |z England |z Brightlingsea.</subject>
-    <subject source="lcsh">Poets, American -- 20th century.</subject>
-    <subject source="lcsh">Publishers and publishing |z England |z Brightlingsea.</subject>
-    <subject source="lcsh">Authors, American -- 20th century.</subject>
-    <geogname source="lcsh">Brightlingsea (England).</geogname>
-    <genreform source="aat">Manuscripts for publication.</genreform>
-    <subject source="lcsh">Literature, Modern -- 20th century.</subject>
-    <subject source="lcsh">Literature, Experimental.</subject>
-    <subject source="lcsh">American poetry -- 20th century.</subject>
-    <genreform source="aat">Postcards.</genreform>
-    <genreform source="aat">Correspondence.</genreform>
-    <persname source="local">Caravalo, Joseph, 1934-</persname>
-    <persname source="naf">Clark, Tom, 1941-</persname>
-    <persname source="naf">Creeley, Robert, 1926-2005</persname>
-    <persname source="naf">Di Prima, Diane</persname>
-    <persname source="naf">Dine, Jim, 1935-</persname>
-    <persname source="naf">Malanga, Gerard</persname>
-    <persname source="naf">Ginsberg, Allen, 1926-1997</persname>
-    <persname source="naf">Sanders, Ed</persname>
-    <persname source="naf">Boyle, Kay, 1902-1992</persname>
-    <persname source="naf">Acconci, Vito, 1940-</persname>
-    <persname source="naf">Berrigan, Ted</persname>
-    <persname source="naf">Wieners, John, 1934-2002</persname>
-    <persname source="naf">Plimpton, George</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref11" level="series"><did><unittitle>Series I: Correspondence</unittitle></did><scopecontent id="aspace_d73da3cbce4a78fa15985d57734f93d4"><head>Scope and Contents note</head><p>The series is contained in one box and materials are arranged alphabetically.</p></scopecontent><c id="aspace_ref12" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Acconci, Vito Hanibal-</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_75b21b4fa791aa7a18d14b89e5b7d698" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_2fe68973002ea0c4f98fc81dff60300e" parent="aspace_75b21b4fa791aa7a18d14b89e5b7d698" type="folder">1</container></did></c><c id="aspace_ref13" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Benedikt, Michael</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_5858f0f98c5a22b826a8f62af1c765e7" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_20deda78b05a97814c4623da4635d355" parent="aspace_5858f0f98c5a22b826a8f62af1c765e7" type="folder">2</container></did></c><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Berkson, Bill</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_ce205d91ed03ddc5fc321665581a8a3b" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_f7239d167f12fa09436b7b16150b4b33" parent="aspace_ce205d91ed03ddc5fc321665581a8a3b" type="folder">3</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Berrigan, Ted</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_48a55f5695db54c87eb5ea9ff122b10b" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_9cba846dcb53213760196e9815cdd3ff" parent="aspace_48a55f5695db54c87eb5ea9ff122b10b" type="folder">4</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Boyle, Kay</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_111c2e29c55978eb3345466e5924ab2c" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_001f672dd02ca2735b36ad4383e34642" parent="aspace_111c2e29c55978eb3345466e5924ab2c" type="folder">5</container></did></c><c id="aspace_ref17" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Brautigan, Richard</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_13c0477ce609716ea077a77aeb65e109" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_60762cea6745950915e35b87b33b0613" parent="aspace_13c0477ce609716ea077a77aeb65e109" type="folder">6</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Brodey, Jim</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_21eb9a43e80e37e26bff01b21ef01678" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_4eb2ba8f4fff8827f1c11234a769c16b" parent="aspace_21eb9a43e80e37e26bff01b21ef01678" type="folder">7</container></did></c><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Brownstein, Michael</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_a7d17f71e9b2ad5fee1fd92254ecaeca" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_01ee4cbaab81c5187a9f6131af6a6d07" parent="aspace_a7d17f71e9b2ad5fee1fd92254ecaeca" type="folder">8</container></did></c><c id="aspace_ref20" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Carroll, Paul</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_eda0beed87044f1d4f6db63e5896512a" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_3a572512f1f1887db95d606527434920" parent="aspace_eda0beed87044f1d4f6db63e5896512a" type="folder">9</container></did></c><c id="aspace_ref21" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Ceravolo, Joseph</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_cda1e6dc099fa0c2f7bb8a26c14cbc95" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_c7702ce1f82d236cbc00f8378f2cc6d3" parent="aspace_cda1e6dc099fa0c2f7bb8a26c14cbc95" type="folder">10</container></did></c><c id="aspace_ref22" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Creeley, Robert</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_de92393754775519600d8c27243806a3" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_99be3e760d1b357877df7e103ae2b64c" parent="aspace_de92393754775519600d8c27243806a3" type="folder">11</container></did></c><c id="aspace_ref23" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Dawson, Fielding</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_d2d53ce5c61207aa799ed08b73a71d28" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_9dd941048d747fc112e2f4ec1f5a0dee" parent="aspace_d2d53ce5c61207aa799ed08b73a71d28" type="folder">12</container></did></c><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Dine, Jim; di Prima, Diane</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_ca46f349e9a00fdf0f8b45d863c97762" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_356f23ac3fb5168042a6ec2c6f290049" parent="aspace_ca46f349e9a00fdf0f8b45d863c97762" type="folder">13</container></did></c><c id="aspace_ref25" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Dorn, Edward; Eigner, Larry; Elmslie, Kenward</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_78124f7d98ba2c3511e69dc9a8692b0c" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_e84968bc31ad49c71ae570431bd0c16f" parent="aspace_78124f7d98ba2c3511e69dc9a8692b0c" type="folder">14</container></did></c><c id="aspace_ref26" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Fainlight, Larry</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_b71a86927c6637454e0a8516eea4fb8a" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_a7eb867d147ecafca393966fa23ad99a" parent="aspace_b71a86927c6637454e0a8516eea4fb8a" type="folder">15</container></did></c><c id="aspace_ref27" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Gallup, Dick</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_df7f40337c75ca86d4034be504be53c0" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_4b6a745d887ca5267b5cfaf6c8411c3e" parent="aspace_df7f40337c75ca86d4034be504be53c0" type="folder">16</container></did></c><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Ginsberg, Allen</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_52d8d11417235289c06a40db85458cd9" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_40b9eae2ddd8b4c37262bbb2e3861463" parent="aspace_52d8d11417235289c06a40db85458cd9" type="folder">17</container></did></c><c id="aspace_ref29" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Giorno, John</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_16c7c5ebda4a980899e593bffd3d6df0" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_784204aefe89bf0d4abe6e930df1d977" parent="aspace_16c7c5ebda4a980899e593bffd3d6df0" type="folder">18</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Guest, Barbara; Hall, Donald</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_72ad6478ad720cfc190460d35d642463" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_a39e507b8ad0e1915b7fd5882926001b" parent="aspace_72ad6478ad720cfc190460d35d642463" type="folder">19</container></did></c><c id="aspace_ref31" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Harwood, Lee</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_49b60436a51f266c72a19663c3408dc8" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_8d7211b53f5624c5cdac69179ce20c11" parent="aspace_49b60436a51f266c72a19663c3408dc8" type="folder">20</container></did></c><c id="aspace_ref32" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Jones, Leroi; Kaplan, Allan</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_7c3eeb757021b4bf37127aa58579b6a7" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_02ac826460001f4dcc9482494d88f80f" parent="aspace_7c3eeb757021b4bf37127aa58579b6a7" type="folder">21</container></did></c><c id="aspace_ref33" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Koch, Kenneth</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_660d87019b6fcd32a0d98f0750522599" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_d2a6b0714dfa62af17ee1c3db9d2ec07" parent="aspace_660d87019b6fcd32a0d98f0750522599" type="folder">22</container></did></c><c id="aspace_ref34" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Lamantia, Philip; MacAdams, Lewis</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_7901df144126fe876507c5991d90fa38" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_d30934f3b295c06e545b424010956fa7" parent="aspace_7901df144126fe876507c5991d90fa38" type="folder">23</container></did></c><c id="aspace_ref35" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Malanga, Gerard</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_2c2e845d7ed0e9006ce79f3741bd4b5b" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_c4690a8c2155885df224ec09a37b8efd" parent="aspace_2c2e845d7ed0e9006ce79f3741bd4b5b" type="folder">24</container></did></c><c id="aspace_ref36" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Matthews, Harry</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_933700b5487266538b0bb9139028c761" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_503084255b04bbb0c30f193257a204fc" parent="aspace_933700b5487266538b0bb9139028c761" type="folder">25</container></did></c><c id="aspace_ref37" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Mayer, Bernadette; Niedecker, Lorine</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_ec053e85d3eafadc460b3a2cc46775a1" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_0195fd6776e27836f35e15aca2fc50dd" parent="aspace_ec053e85d3eafadc460b3a2cc46775a1" type="folder">26</container></did></c><c id="aspace_ref38" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Pelieu, Claude</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_4457ca726d3ac17520664425156d8c50" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_a1cc1586bf64c5f638e60a1a78d61272" parent="aspace_4457ca726d3ac17520664425156d8c50" type="folder">27</container></did></c><c id="aspace_ref39" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Perreault, John</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_b328d8e1e089a8a0b23a614a5a984fa6" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_6630ecacd0aab8d58e1914f19a14091f" parent="aspace_b328d8e1e089a8a0b23a614a5a984fa6" type="folder">28</container></did></c><c id="aspace_ref40" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Plimpton, George; Sanders, Ed</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_c6ab13257796c66e848c65f94b69f2b0" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_9611925ed722f88338858bf24cb58495" parent="aspace_c6ab13257796c66e848c65f94b69f2b0" type="folder">29</container></did></c><c id="aspace_ref41" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Schjeldahl, Peter</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_947cb95667cc11e252694fa97f0061f0" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_ffff5e4ad31a8049cd1fbc16d6230553" parent="aspace_947cb95667cc11e252694fa97f0061f0" type="folder">30</container></did></c><c id="aspace_ref42" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Shapiro, David</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_041addff3df71d72544d09f5f73515fd" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_b41afe64d19f2cb698b903689606a94d" parent="aspace_041addff3df71d72544d09f5f73515fd" type="folder">31</container></did></c><c id="aspace_ref43" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Torregian, Sotere</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_ac68585037a7f24b60b2a20d7342700a" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_7839dac5a4c303bde977043509717488" parent="aspace_ac68585037a7f24b60b2a20d7342700a" type="folder">32</container></did></c><c id="aspace_ref44" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Towle, Tony</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_5e9517478a5fe92797cb654744c16ea3" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_c7e5e580dfdc4252b86dd883c2ee29a8" parent="aspace_5e9517478a5fe92797cb654744c16ea3" type="folder">33</container></did></c><c id="aspace_ref45" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Veitch, Tom</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_528e4bbee7e90c669409da65d543d38f" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_dd81788cfa7a6ad86f3798ee05663382" parent="aspace_528e4bbee7e90c669409da65d543d38f" type="folder">34</container></did></c><c id="aspace_ref46" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Waldman, Anne</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_24e6c87a986e20d22e5701d77579d37f" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_6f6c18d0dd291133de645057c32b793d" parent="aspace_24e6c87a986e20d22e5701d77579d37f" type="folder">35</container></did></c><c id="aspace_ref47" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Warsh, Lewis</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_8184b7ff68c2435d1c152c004ba8346b" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_7b1e34eef26995b0d0ffaa821c544f09" parent="aspace_8184b7ff68c2435d1c152c004ba8346b" type="folder">36</container></did></c><c id="aspace_ref48" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Wieners, John</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_a9fad135b88516d6cd9278b73e62c4a5" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_618cb0bfec1f2c57e03a00f55c88c77b" parent="aspace_a9fad135b88516d6cd9278b73e62c4a5" type="folder">37</container></did></c><c id="aspace_ref49" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from: Unidentified</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_95adf629707c043e3f89111472a8a81d" label="Mixed Materials [31142054862621]" type="box">1</container><container id="aspace_3bd1489354bf59829628eea5448cfbf8" parent="aspace_95adf629707c043e3f89111472a8a81d" type="folder">38</container></did></c></c></dsc>
-</archdesc>
+    </did>
+    <custodhist id="aspace_14eb39043c53ba9f817c082b9b51b8dd">
+      <head>Provenance</head>
+      <p>The collection was purchased by Fales Library; the date and vendor are unrecorded.</p>
+    </custodhist>
+    <accessrestrict id="aspace_6924a4ce94372bb30b801390ca550123">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <prefercite id="aspace_cd58aa435d9ecae6a5ca1f33eb5f4333">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form:<lb/><lb/>Identification of item, date (if known); The Once and Etc. Archive; MSS 020; box number; folder number; <address><addressline>Fales Library and Special Collections</addressline></address> , New York University Libraries.</p>
+    </prefercite>
+    <bioghist id="aspace_66d92e683c643aac722fca5b8b1a2bfc">
+      <head>Historical/Biographical Note:</head>
+      <p> The Once and Etc. Archive is a collection of correspondence with Tom Clark, 1941- who edited the poetry magazine sometimes called: <corpname>A One Shot Magazine</corpname>. Though that title was carried through in other issues, the magazine, which was called "<corpname>Once</corpname>" once, was published under different names every issue (except where noted): <corpname>Twice</corpname>, <corpname>Thrice</corpname>, <corpname>Thrice</corpname> and a 1/2, <corpname>Frice</corpname>, <corpname>Ice</corpname>, <corpname>Nice</corpname>, <corpname>Vice</corpname>, <corpname>Slice</corpname> (two issues had this title), and <corpname>Spice</corpname>. </p>
+      <p> In the 1960's, Tom Clark, whose long and varied career includes forays into poetry, fiction, play writing, and biography, edited the 11 issue run of this poetry magazine as well as the higher profiled, <corpname>Paris Review</corpname>. At the time of this collection's creation, Clark, an American born in <geogname>Chicago</geogname>, was in <geogname>England</geogname> where he and Allen Ginsberg had come in the early 1960's to hitchhike. </p>
+      <p> The One Shot Magazine and various named decedents was a 37 cm., illustrated, and low budget enterprise where the content reflected its unorthodox appellations. Its contributors included a number notable writers and figures of the time. </p>
+      <p>Note: Copies of the magazine are not part of this archive but are available in the Fales Collection.. </p>
+      <p> Sources: </p>
+      <p>
+        <list>
+          <item> Contemporary Authors Online. The Gale Group, 2001. Reproduced in Biography Resource Center. Farmington Hills, Mich.: The Gale Group. 2002. [http://www.galenet.com/servlet/BioRC]</item>
+          <item> A One Shot Magazine. Brightlingsea England : T. Clark, [1966]. Vol. 1, no. 1. </item>
+        </list>
+      </p>
+    </bioghist>
+    <scopecontent id="aspace_0af29791755420b55a8fd041aeb7ed4e">
+      <head>Scope and Content Note</head>
+      <p> The Once and Etc. Archive is a part of the Avant Garde Collection at the Fales Library, New York University and it consists of correspondence with its editor, Tom Clark.</p>
+      <p> Included also are manuscripts submitted to Clark for inclusion in the magazine. The Once and Etc. Archive's correspondence and manuscripts originate from many notable poets and literati of the period, including: Robert Creeley, Allen Ginsberg, Ed Sanders, Gerard Malangra, among many others (see container list). </p>
+    </scopecontent>
+    <arrangement id="aspace_aed480bee193793da7f12e10902c8789">
+      <head>Arrangement</head>
+      <p>Folders are arranged alphabetically by subject/author heading.</p>
+      <p> The files are grouped into one series. </p>
+      <list numeration="arabic" type="ordered">
+        <head>Missing Title</head>
+        <item>Series I: Correspondence</item>
+      </list>
+    </arrangement>
+    <separatedmaterial id="aspace_0c17c82ba8c8d31bb5ac0db653294269">
+      <head>Separated Material</head>
+      <p>There is no information about materials that are associated by provenance to the described materials that have been physically separated or removed.</p>
+    </separatedmaterial>
+    <userestrict id="aspace_b84f86e3e09ec5bd83ec3afd94ed75c0">
+      <head>Use Restrictions</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Small presses |z England |z Brightlingsea.</subject>
+      <subject source="lcsh">Poets, American -- 20th century.</subject>
+      <subject source="lcsh">Publishers and publishing |z England |z Brightlingsea.</subject>
+      <subject source="lcsh">Authors, American -- 20th century.</subject>
+      <geogname source="lcsh">Brightlingsea (England).</geogname>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <subject source="lcsh">Literature, Modern -- 20th century.</subject>
+      <subject source="lcsh">Literature, Experimental.</subject>
+      <subject source="lcsh">American poetry -- 20th century.</subject>
+      <genreform source="aat">Postcards.</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <persname source="local">Caravalo, Joseph, 1934-</persname>
+      <persname source="naf">Clark, Tom, 1941-</persname>
+      <persname source="naf">Creeley, Robert, 1926-2005</persname>
+      <persname source="naf">Di Prima, Diane</persname>
+      <persname source="naf">Dine, Jim, 1935-</persname>
+      <persname source="naf">Malanga, Gerard</persname>
+      <persname source="naf">Ginsberg, Allen, 1926-1997</persname>
+      <persname source="naf">Sanders, Ed</persname>
+      <persname source="naf">Boyle, Kay, 1902-1992</persname>
+      <persname source="naf">Acconci, Vito, 1940-</persname>
+      <persname source="naf">Berrigan, Ted</persname>
+      <persname source="naf">Wieners, John, 1934-2002</persname>
+      <persname source="naf">Plimpton, George</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref11" level="series">
+        <did>
+          <unittitle>Series I: Correspondence</unittitle>
+        </did>
+        <scopecontent id="aspace_d73da3cbce4a78fa15985d57734f93d4">
+          <head>Scope and Contents note</head>
+          <p>The series is contained in one box and materials are arranged alphabetically.</p>
+        </scopecontent>
+        <c id="aspace_ref12" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Acconci, Vito Hanibal-</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_75b21b4fa791aa7a18d14b89e5b7d698" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_2fe68973002ea0c4f98fc81dff60300e" parent="aspace_75b21b4fa791aa7a18d14b89e5b7d698" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Benedikt, Michael</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_5858f0f98c5a22b826a8f62af1c765e7" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_20deda78b05a97814c4623da4635d355" parent="aspace_5858f0f98c5a22b826a8f62af1c765e7" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Berkson, Bill</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_ce205d91ed03ddc5fc321665581a8a3b" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_f7239d167f12fa09436b7b16150b4b33" parent="aspace_ce205d91ed03ddc5fc321665581a8a3b" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Berrigan, Ted</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_48a55f5695db54c87eb5ea9ff122b10b" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_9cba846dcb53213760196e9815cdd3ff" parent="aspace_48a55f5695db54c87eb5ea9ff122b10b" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Boyle, Kay</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_111c2e29c55978eb3345466e5924ab2c" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_001f672dd02ca2735b36ad4383e34642" parent="aspace_111c2e29c55978eb3345466e5924ab2c" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Brautigan, Richard</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_13c0477ce609716ea077a77aeb65e109" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_60762cea6745950915e35b87b33b0613" parent="aspace_13c0477ce609716ea077a77aeb65e109" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Brodey, Jim</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_21eb9a43e80e37e26bff01b21ef01678" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_4eb2ba8f4fff8827f1c11234a769c16b" parent="aspace_21eb9a43e80e37e26bff01b21ef01678" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Brownstein, Michael</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_a7d17f71e9b2ad5fee1fd92254ecaeca" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_01ee4cbaab81c5187a9f6131af6a6d07" parent="aspace_a7d17f71e9b2ad5fee1fd92254ecaeca" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Carroll, Paul</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_eda0beed87044f1d4f6db63e5896512a" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_3a572512f1f1887db95d606527434920" parent="aspace_eda0beed87044f1d4f6db63e5896512a" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Ceravolo, Joseph</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_cda1e6dc099fa0c2f7bb8a26c14cbc95" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_c7702ce1f82d236cbc00f8378f2cc6d3" parent="aspace_cda1e6dc099fa0c2f7bb8a26c14cbc95" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Creeley, Robert</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_de92393754775519600d8c27243806a3" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_99be3e760d1b357877df7e103ae2b64c" parent="aspace_de92393754775519600d8c27243806a3" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Dawson, Fielding</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_d2d53ce5c61207aa799ed08b73a71d28" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_9dd941048d747fc112e2f4ec1f5a0dee" parent="aspace_d2d53ce5c61207aa799ed08b73a71d28" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Dine, Jim; di Prima, Diane</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_ca46f349e9a00fdf0f8b45d863c97762" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_356f23ac3fb5168042a6ec2c6f290049" parent="aspace_ca46f349e9a00fdf0f8b45d863c97762" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Dorn, Edward; Eigner, Larry; Elmslie, Kenward</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_78124f7d98ba2c3511e69dc9a8692b0c" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_e84968bc31ad49c71ae570431bd0c16f" parent="aspace_78124f7d98ba2c3511e69dc9a8692b0c" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Fainlight, Larry</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_b71a86927c6637454e0a8516eea4fb8a" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_a7eb867d147ecafca393966fa23ad99a" parent="aspace_b71a86927c6637454e0a8516eea4fb8a" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Gallup, Dick</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_df7f40337c75ca86d4034be504be53c0" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_4b6a745d887ca5267b5cfaf6c8411c3e" parent="aspace_df7f40337c75ca86d4034be504be53c0" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Ginsberg, Allen</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_52d8d11417235289c06a40db85458cd9" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_40b9eae2ddd8b4c37262bbb2e3861463" parent="aspace_52d8d11417235289c06a40db85458cd9" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Giorno, John</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_16c7c5ebda4a980899e593bffd3d6df0" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_784204aefe89bf0d4abe6e930df1d977" parent="aspace_16c7c5ebda4a980899e593bffd3d6df0" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Guest, Barbara; Hall, Donald</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_72ad6478ad720cfc190460d35d642463" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_a39e507b8ad0e1915b7fd5882926001b" parent="aspace_72ad6478ad720cfc190460d35d642463" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Harwood, Lee</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_49b60436a51f266c72a19663c3408dc8" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_8d7211b53f5624c5cdac69179ce20c11" parent="aspace_49b60436a51f266c72a19663c3408dc8" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Jones, Leroi; Kaplan, Allan</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_7c3eeb757021b4bf37127aa58579b6a7" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_02ac826460001f4dcc9482494d88f80f" parent="aspace_7c3eeb757021b4bf37127aa58579b6a7" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Koch, Kenneth</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_660d87019b6fcd32a0d98f0750522599" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_d2a6b0714dfa62af17ee1c3db9d2ec07" parent="aspace_660d87019b6fcd32a0d98f0750522599" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Lamantia, Philip; MacAdams, Lewis</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_7901df144126fe876507c5991d90fa38" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_d30934f3b295c06e545b424010956fa7" parent="aspace_7901df144126fe876507c5991d90fa38" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Malanga, Gerard</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_2c2e845d7ed0e9006ce79f3741bd4b5b" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_c4690a8c2155885df224ec09a37b8efd" parent="aspace_2c2e845d7ed0e9006ce79f3741bd4b5b" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Matthews, Harry</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_933700b5487266538b0bb9139028c761" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_503084255b04bbb0c30f193257a204fc" parent="aspace_933700b5487266538b0bb9139028c761" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Mayer, Bernadette; Niedecker, Lorine</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_ec053e85d3eafadc460b3a2cc46775a1" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_0195fd6776e27836f35e15aca2fc50dd" parent="aspace_ec053e85d3eafadc460b3a2cc46775a1" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Pelieu, Claude</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_4457ca726d3ac17520664425156d8c50" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_a1cc1586bf64c5f638e60a1a78d61272" parent="aspace_4457ca726d3ac17520664425156d8c50" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Perreault, John</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_b328d8e1e089a8a0b23a614a5a984fa6" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_6630ecacd0aab8d58e1914f19a14091f" parent="aspace_b328d8e1e089a8a0b23a614a5a984fa6" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Plimpton, George; Sanders, Ed</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_c6ab13257796c66e848c65f94b69f2b0" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_9611925ed722f88338858bf24cb58495" parent="aspace_c6ab13257796c66e848c65f94b69f2b0" type="folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Schjeldahl, Peter</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_947cb95667cc11e252694fa97f0061f0" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_ffff5e4ad31a8049cd1fbc16d6230553" parent="aspace_947cb95667cc11e252694fa97f0061f0" type="folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Shapiro, David</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_041addff3df71d72544d09f5f73515fd" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_b41afe64d19f2cb698b903689606a94d" parent="aspace_041addff3df71d72544d09f5f73515fd" type="folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Torregian, Sotere</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_ac68585037a7f24b60b2a20d7342700a" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_7839dac5a4c303bde977043509717488" parent="aspace_ac68585037a7f24b60b2a20d7342700a" type="folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Towle, Tony</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_5e9517478a5fe92797cb654744c16ea3" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_c7e5e580dfdc4252b86dd883c2ee29a8" parent="aspace_5e9517478a5fe92797cb654744c16ea3" type="folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Veitch, Tom</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_528e4bbee7e90c669409da65d543d38f" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_dd81788cfa7a6ad86f3798ee05663382" parent="aspace_528e4bbee7e90c669409da65d543d38f" type="folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Waldman, Anne</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_24e6c87a986e20d22e5701d77579d37f" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_6f6c18d0dd291133de645057c32b793d" parent="aspace_24e6c87a986e20d22e5701d77579d37f" type="folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Warsh, Lewis</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_8184b7ff68c2435d1c152c004ba8346b" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_7b1e34eef26995b0d0ffaa821c544f09" parent="aspace_8184b7ff68c2435d1c152c004ba8346b" type="folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Wieners, John</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_a9fad135b88516d6cd9278b73e62c4a5" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_618cb0bfec1f2c57e03a00f55c88c77b" parent="aspace_a9fad135b88516d6cd9278b73e62c4a5" type="folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Unidentified</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_95adf629707c043e3f89111472a8a81d" label="Mixed Materials [31142054862621]" type="box">1</container>
+            <container id="aspace_3bd1489354bf59829628eea5448cfbf8" parent="aspace_95adf629707c043e3f89111472a8a81d" type="folder">38</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

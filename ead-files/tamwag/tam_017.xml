@@ -1,70 +1,506 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_017/">tam_017</eadid><filedesc><titlestmt><titleproper>Guide to the Max Nomad Papers <num>TAM.017</num></titleproper><author>Tamiment staff</author></titlestmt><editionstmt><p>This version was derived from Nomad.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:45:20 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Max Nomad Papers</unittitle>
-    <origination label="Creator">
-      <persname source="naf">Nomad, Max</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" source="naf">Nomad, Max</persname>
-    </origination>
-    <unitid>TAM.017</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
-      <extent altrender="carrier">(6 boxes)</extent>
-    </physdesc>
-    <unitdate normal="1902/1967" type="inclusive">1902-1967</unitdate>
-    <abstract id="aspace_8562a71e8b6c8ebdef748fa12fd94c44">Max Nomad (1881-1973) philosophic anarchist, author and educator, who also wrote under the pseudonym Max Norton was born in 1881 in Buczacz, Poland. He was influenced by the thought of Waclaw Machajski, a heretical Polish radical. Prior to WWI he was a native of Austria and attended the University of Vienna. A Guggenheim Fellow in 1937, and for many years a lecturer in politics and history at New York University, the New School for Social Research and the Rand School, his books include Rebels and Renegades, Apostles of Revolution; Dreamers, Dynamiters and Demagogues; Political Heretics from Plato to Mao Tse-Tung; A Skeptics Political Dictionary and Handbook for the Disenchanted; and Aspects of Revolution. The papers contain manuscripts, clippings, a scrapbook, published material, and course descriptions. The material concerns communism, Latin America, world prominent radicals, and personal philosophy. There is also an unpublished biography of Stalin, notes on the Soviet Union and the Communist Party thereof, and essays.</abstract>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_017/">tam_017</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Max Nomad Papers <num>TAM.017</num></titleproper>
+        <author>Tamiment staff</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Nomad.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:45:20 -0500</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Max Nomad Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Nomad, Max</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" source="naf">Nomad, Max</persname>
+      </origination>
+      <unitid>TAM.017</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
+        <extent altrender="carrier">(6 boxes)</extent>
+      </physdesc>
+      <unitdate normal="1902/1967" type="inclusive">1902-1967</unitdate>
+      <abstract id="aspace_8562a71e8b6c8ebdef748fa12fd94c44">Max Nomad (1881-1973) philosophic anarchist, author and educator, who also wrote under the pseudonym Max Norton was born in 1881 in Buczacz, Poland. He was influenced by the thought of Waclaw Machajski, a heretical Polish radical. Prior to WWI he was a native of Austria and attended the University of Vienna. A Guggenheim Fellow in 1937, and for many years a lecturer in politics and history at New York University, the New School for Social Research and the Rand School, his books include Rebels and Renegades, Apostles of Revolution; Dreamers, Dynamiters and Demagogues; Political Heretics from Plato to Mao Tse-Tung; A Skeptics Political Dictionary and Handbook for the Disenchanted; and Aspects of Revolution. The papers contain manuscripts, clippings, a scrapbook, published material, and course descriptions. The material concerns communism, Latin America, world prominent radicals, and personal philosophy. There is also an unpublished biography of Stalin, notes on the Soviet Union and the Communist Party thereof, and essays.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-  </did>
-  <acqinfo id="aspace_26ecd68c3352016a4975d3f0d9ffe436">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Max Nomad, 1966 and 1967. The accession number associated with this gift is 1966.001.</p>  </acqinfo>
-  <accessrestrict id="aspace_2cb3a3f868dee661b4cf20c3b6da9838">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <bioghist id="aspace_6539197894e984af088b79be78e74c2b">
-    <head>Historical/Biographical Note</head>
-<p>Max Nomad (1881-1973) philosophic anarchist, author and educator, who also wrote under the pseudonym Max Norton, was born in Buczacz, Poland. He was influenced by the thought of Waclaw Machajski, a heretical Polish radical. Prior to WWI he was a native of Austria and attended the University of Vienna. A Guggenheim Fellow in 1937, and for many years a lecturer in politics and history at New York University, the New School for Social Research and the Rand School, his books include Rebels and Renegades, Apostles of Revolution; Dreamers, Dynamiters and Demagogues; Political Heretics from Plato to Mao Tse-Tung; A Skeptics Political Dictionary and Handbook for the Disenchanted; and Aspects of Revolution.</p>  </bioghist>
-  <scopecontent id="aspace_e17041263881792ed641e66841afcf53">
-    <head>Scope and Content Note</head>
-<p>The papers contain manuscripts, clippings, a scrapbook, published material, and course descriptions. The material concerns anarchism, communism, Latin America, world prominent radicals, and personal philosophy. There is also an unpublished biography of Stalin, notes on the Soviet Union and the Communist Party thereof, and essays.</p>  </scopecontent>
-  <arrangement id="aspace_599f29d24c84cf53ea4884af3fadd757">
-    <head>Arrangement</head>
-<p>Folders are arranged alphabetically.</p><p>The files are grouped into two series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>I, Stalin Biography and Notes on the U.S.S.R and Communist Party of the Soviet Union</item>
-      <item>II, Writings by Max Nomad and Others</item>
-    </list>
-  </arrangement>
-  <userestrict id="aspace_cbc36cbbe5955cd2bc9f73c5c894c44a">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Max Nomad was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <prefercite id="aspace_31d8e5d5a3d50e39c666772dbce92eb5">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Max Nomad Papers; TAM 017; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <controlaccess>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <subject source="lcsh">Anarchism.</subject>
-    <subject source="lcsh">Communism.</subject>
-    <geogname source="lcsh">Soviet Union -- Politics and government.</geogname>
-    <subject source="lcsh">Anarchists -- United States.</subject>
-    <genreform source="aat">Manuscripts</genreform>
-    <genreform source="aat">Scrapbooks.</genreform>
-    <corpname source="naf">New School for Social Research (New York, N.Y.)</corpname>
-    <persname source="naf">Stalin, Joseph, 1878-1953</persname>
-    <corpname source="naf">Rand School of Social Science</corpname>
-    <corpname source="naf">New York University</corpname>
-    <persname source="naf">Nomad, Max</persname>
-    <persname source="naf">Norton, Max</persname>
-    <corpname source="naf">Kommunisticheskaia partiia Sovetskogo Soiuza</corpname>
-    <persname role="dnr" source="naf">Nomad, Max</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series 1: Stalin Biography and Notes on the U.S.S.R and Communist Party of the Soviet Union</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref14" level="file"><did><unittitle>The Son of the Cobbler (ms, 246 pp.)</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0f7c4b7df6df7d633e26eee78bdf8c2f" label="Mixed Materials [31142062884542]" type="box">1</container><container id="aspace_3dd7a9a4c8d252157ac322e7b0962449" parent="aspace_0f7c4b7df6df7d633e26eee78bdf8c2f" type="folder">1</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Stalin (ms, 251 pp.)</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a795f278037dbe17c294fdbeb0cf09f4" label="Mixed Materials [31142062884542]" type="box">1</container><container id="aspace_b59fdae40ed93bf28fe299738b015c53" parent="aspace_a795f278037dbe17c294fdbeb0cf09f4" type="folder">2</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Stalin: Notes on</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ba2e0d42cf22e9dc9e9ebcc6c376f199" label="Mixed Materials [31142062884542]" type="box">1</container><container id="aspace_93a0ce38a56493aefdf352e6b99d8758" parent="aspace_ba2e0d42cf22e9dc9e9ebcc6c376f199" type="folder">3</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Soviet Union and the Communist Party of the Soviet Union: Notes On; Part I.</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_af12a228e8d333c61e0c46e5b2bec0ad" label="Mixed Materials [31142062884534]" type="box">2</container><container id="aspace_2e1eb03aceed969f414f26008ceeb18d" parent="aspace_af12a228e8d333c61e0c46e5b2bec0ad" type="folder">1</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Soviet Union and the Communist Party of the Soviet Union: Notes On: Part II.</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_43f374afba5092812c511c8429fcda3b" label="Mixed Materials [31142062884534]" type="box">2</container><container id="aspace_edf192967beb151cb2be6ee0761911df" parent="aspace_43f374afba5092812c511c8429fcda3b" type="folder">2</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Soviet Union and the Communist Party of the Soviet Union: Notes On: Part III.</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_c463319d2133a6dc00e83b7834b85863" label="Mixed Materials [31142062884534]" type="box">2</container><container id="aspace_6b28f13a58ae33d5d269173eb4e42b90" parent="aspace_c463319d2133a6dc00e83b7834b85863" type="folder">3</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Soviet Union and the Communist Party of the Soviet Union: Notes On: Part IV.</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_1a5a3e1a012c305b33eb2091869a8d94" label="Mixed Materials [31142062884534]" type="box">2</container><container id="aspace_5a130b523e7c9d79c6dcdee0db55cc15" parent="aspace_1a5a3e1a012c305b33eb2091869a8d94" type="folder">4</container></did></c></c><c id="aspace_ref21" level="series"><did><unittitle>Series 2. Writings by Max Nomad and Others.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref22" level="file"><did><unittitle>The Anarchist Tradition and Other Essays (ns, 198 pp.)Chapters: The knows and the know-nots; Varieties of socialism and anarchism; Russia before and after 1917; Americana; History's bloody pages; Miscellanea.</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_4e663af6fd5d24e179a3551da89ad51c" label="Mixed Materials [31142062884559]" type="box">3</container><container id="aspace_9cb1e364a30ee3413bab34c40ae8e96b" parent="aspace_4e663af6fd5d24e179a3551da89ad51c" type="folder">1</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Aspects of Revolt (mn; New York: New York Bookman Associates)</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_75a0e12bd49c8f71852d7d684546bc7f" label="Mixed Materials [31142062884559]" type="box">3</container><container id="aspace_c26a47b04404cb9cb29c3b28f61524d9" parent="aspace_75a0e12bd49c8f71852d7d684546bc7f" type="folder">2</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Balkan Problems Past and Present (as Stephen Naft)</unittitle><unitdate normal="1943/1943" type="inclusive">1943</unitdate><container altrender="Manuscript box - Legal" id="aspace_4454e36f4afc84926012eaed0c17fc33" label="Mixed Materials [31142062884559]" type="box">3</container><container id="aspace_e65e343ffd9d4482337652e0036215bf" parent="aspace_4454e36f4afc84926012eaed0c17fc33" type="folder">3</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Berlin People's Free Theater</unittitle><unitdate normal="1910/1920" type="inclusive">ca.1910s</unitdate><container altrender="Manuscript box - Legal" id="aspace_15964bcc3e02637b49396f6231be2ebc" label="Mixed Materials [31142062884559]" type="box">3</container><container id="aspace_f62bc80cdc19ef4b47b91c13661d2390" parent="aspace_15964bcc3e02637b49396f6231be2ebc" type="folder">4</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Brave New World (pp. 100-123 of unknown ms)</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_0b7938f21f2d9290e5486eec928a3061" label="Mixed Materials [31142062884559]" type="box">3</container><container id="aspace_5072ec0e5d391e54ed601ccc67026f4b" parent="aspace_0b7938f21f2d9290e5486eec928a3061" type="folder">5</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Burnham, Louis: Notes On</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f582810ec78226b6ce1c5257a922df05" label="Mixed Materials [31142062884559]" type="box">3</container><container id="aspace_94e54bc56ec650b3fc5698523713c6a6" parent="aspace_f582810ec78226b6ce1c5257a922df05" type="folder">6</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, original): Introduction</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_aa40fb6975cea17da7d5282237b2a728" label="Mixed Materials [31142062884559]" type="box">3</container><container id="aspace_68e6c5b03ab4efb1dd6bc9639bda4dea" parent="aspace_aa40fb6975cea17da7d5282237b2a728" type="folder">7</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, original): Pages 1-53</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_77c50354c15351ed64b2cd917d375afa" label="Mixed Materials [31142062884559]" type="box">3</container><container id="aspace_8e3bc715652aa0c3729f92988701be1c" parent="aspace_77c50354c15351ed64b2cd917d375afa" type="folder">8</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, original): Pages 54-91</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_9b13276a74afce6e03eff13ad25a0bff" label="Mixed Materials [31142062884559]" type="box">3</container><container id="aspace_f37662f6c063186cc2ff086c853e8f13" parent="aspace_9b13276a74afce6e03eff13ad25a0bff" type="folder">9</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, original): Pages 92-148</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_3af938cf68535a35bb594f535c1e1f92" label="Mixed Materials [31142062884559]" type="box">3</container><container id="aspace_5806330246391faa6558d988a202278d" parent="aspace_3af938cf68535a35bb594f535c1e1f92" type="folder">10</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, original): Pages 149-198</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_7c75a74ece1ca112684a0ef2ca2bb931" label="Mixed Materials [31142062884559]" type="box">3</container><container id="aspace_55de02b4d18e9eac05aeaab6a51827c8" parent="aspace_7c75a74ece1ca112684a0ef2ca2bb931" type="folder">11</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, original): Pages 199-258</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_4a9e7584d023bb9534de59567cad7197" label="Mixed Materials [31142062884559]" type="box">3</container><container id="aspace_cadf942dd695558d116a3b8186d97d7b" parent="aspace_4a9e7584d023bb9534de59567cad7197" type="folder">12</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, original): Pages 259-321</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d4a33e4228bbf2cfa1921a9886b7b32e" label="Mixed Materials [31142062884559]" type="box">3</container><container id="aspace_4c1402910443cf266257132a2d8b47f5" parent="aspace_d4a33e4228bbf2cfa1921a9886b7b32e" type="folder">13</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, original): Appendices I-VI</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_22e2cd9ce10fb98b89d8b7a96f8419ac" label="Mixed Materials [31142062884567]" type="box">4</container><container id="aspace_fa718e76e945f4445f631aa406bd7eb8" parent="aspace_22e2cd9ce10fb98b89d8b7a96f8419ac" type="folder">1</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, photocopy): Introduction</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d0d2447dcaafbba9faa341310b2b914b" label="Mixed Materials [31142062884567]" type="box">4</container><container id="aspace_d1bc9f9b6a74c494762c0ab927e5293a" parent="aspace_d0d2447dcaafbba9faa341310b2b914b" type="folder">2</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, photocopy): Pages 1-53</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_676f89ec8eddebdf23de9334a39fcb86" label="Mixed Materials [31142062884567]" type="box">4</container><container id="aspace_788def8f17d1572596df8a7398801700" parent="aspace_676f89ec8eddebdf23de9334a39fcb86" type="folder">3</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, photocopy): Pages 54-91</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_c9c76705d9c98141b3a7f390ceed1244" label="Mixed Materials [31142062884567]" type="box">4</container><container id="aspace_868ff5f01102278d2751eb1aa4b121d5" parent="aspace_c9c76705d9c98141b3a7f390ceed1244" type="folder">4</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, photocopy): Pages 92-148</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_704eade87fda951c80782f9769ef29b9" label="Mixed Materials [31142062884567]" type="box">4</container><container id="aspace_5d102628f5242e6ff42313628d94e4d1" parent="aspace_704eade87fda951c80782f9769ef29b9" type="folder">5</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, photocopy): Pages 149-198</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_eb9bfed71d0d27b93a22042c4294fa06" label="Mixed Materials [31142062884567]" type="box">4</container><container id="aspace_e8ecdf7e8fdc13f87f33f82e401f84d2" parent="aspace_eb9bfed71d0d27b93a22042c4294fa06" type="folder">6</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, photocopy): Pages 199-258</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_5a0140c625559b8e6d62ff9e274786b0" label="Mixed Materials [31142062884567]" type="box">4</container><container id="aspace_e746bcd4e9eafa7c1d9943e90ada5a4a" parent="aspace_5a0140c625559b8e6d62ff9e274786b0" type="folder">7</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, photocopy): Pages 259-321</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_ff6e512d47706379fc1b08626bf0225c" label="Mixed Materials [31142062884567]" type="box">4</container><container id="aspace_f6dd8dfb65bdaddc5fe0e17fc4a2ca8b" parent="aspace_ff6e512d47706379fc1b08626bf0225c" type="folder">8</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, photocopy): Appendices I-VI</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_81236c90955716ae286799ccea138e5d" label="Mixed Materials [31142062884567]" type="box">4</container><container id="aspace_3429ac29da8be6f440d2f4b9db4ef961" parent="aspace_81236c90955716ae286799ccea138e5d" type="folder">9</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Clouds over Yugoslavia - by Solomon Schwartz</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_08f580ce305ea9f5b3e98a993bafe220" label="Mixed Materials [31142062884567]" type="box">4</container><container id="aspace_a1f8012d12c34ccea1d016f30a95e7ef" parent="aspace_08f580ce305ea9f5b3e98a993bafe220" type="folder">10</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Dreamers, Dynamiters and Demagogues (ms, New York: Waldon Press)</unittitle><unitdate normal="1944/1964" type="inclusive">ca.1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_e6a2e708559b01fb52927df84d2abcd5" label="Mixed Materials [31142062884567]" type="box">4</container><container id="aspace_543da4235e7a37afbce248dc7cbc0e4b" parent="aspace_e6a2e708559b01fb52927df84d2abcd5" type="folder">11</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Fascism</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_0657fd9d0e99f5b0f542af6c46f131db" label="Mixed Materials [31142062884575]" type="box">5</container><container id="aspace_800ec24a8ae0f9e0c3033373bdb5882b" parent="aspace_0657fd9d0e99f5b0f542af6c46f131db" type="folder">1</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Jews in Latin America</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_0e861a108c4807a75ac363d09203e03b" label="Mixed Materials [31142062884575]" type="box">5</container><container id="aspace_7e5e23856e76f3df71cfb35cf8501846" parent="aspace_0e861a108c4807a75ac363d09203e03b" type="folder">2</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Jews in New York</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e69780464bd54c7f73c38f17097d2705" label="Mixed Materials [31142062884575]" type="box">5</container><container id="aspace_7fc81284bb2a59e6afdc746cf7402f56" parent="aspace_e69780464bd54c7f73c38f17097d2705" type="folder">3</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Juvenilia (scrapbook of published and unpublished writings(</unittitle><unitdate normal="1902/1921" type="inclusive">1902-1921</unitdate><container altrender="Manuscript box - Legal" id="aspace_284030ddaaedd3bd7b9328d151517420" label="Mixed Materials [31142062884575]" type="box">5</container><container id="aspace_b061f38f68e6382a2689df2067b22e0a" parent="aspace_284030ddaaedd3bd7b9328d151517420" type="folder">4</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Latin America</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2b53b07a29dfca70db05ff9fa63af7bf" label="Mixed Materials [31142062884575]" type="box">5</container><container id="aspace_0d74d5d623c63e2002d4f5e40781f374" parent="aspace_2b53b07a29dfca70db05ff9fa63af7bf" type="folder">5</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Lectures and Course Announcements (New School, NYU, Rand School)</unittitle><unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_5480f92eeaa5dc3d2248e17b439078cf" label="Mixed Materials [31142062884575]" type="box">5</container><container id="aspace_02868087bc2f6b9676ad78f456a43384" parent="aspace_5480f92eeaa5dc3d2248e17b439078cf" type="folder">6</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Lenin: Notes on</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_c65a4937e95a93238ec22b20255a3f8f" label="Mixed Materials [31142062884575]" type="box">5</container><container id="aspace_f0f22c01340b35b90a2389aaab195410" parent="aspace_c65a4937e95a93238ec22b20255a3f8f" type="folder">7</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_3c9d64ec6b08b629913f98eb93d170e5" label="Mixed Materials [31142062884575]" type="box">5</container><container id="aspace_4203f06bdb8041d9ee049978600e8e3c" parent="aspace_3c9d64ec6b08b629913f98eb93d170e5" type="folder">8</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Personal Letters</unittitle><unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate><container altrender="Manuscript box - Legal" id="aspace_a1e04fd4c367e6230c8c6833cd97c4de" label="Mixed Materials [31142062884575]" type="box">5</container><container id="aspace_1c6b4869382ed9ae168e8fa9d80f0d92" parent="aspace_a1e04fd4c367e6230c8c6833cd97c4de" type="folder">9</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Personal Philosophy, Short Statement of</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_358ffa00bb322640054448c234b1aab5" label="Mixed Materials [31142062884575]" type="box">5</container><container id="aspace_f5152f6ae43a5e2a7452c9cb2ae5724a" parent="aspace_358ffa00bb322640054448c234b1aab5" type="folder">10</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Political Heretics from Plato to Mao Tse-Tung (ms; Ann Arbor: University of Michigan Press)1963</unittitle><unitdate normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_a3904a6617b1d25d826daac0a0662f53" label="Mixed Materials [31142062884575]" type="box">5</container><container id="aspace_9d0da8c14546b9419d3b4737659478ed" parent="aspace_a3904a6617b1d25d826daac0a0662f53" type="folder">11</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Post-Mortems and PostscriptsChapters: Makers of history; Forerunners; Revolutionary romantics of yore; Converts to the new Islam; Giants and clowns; Immortals of shame.</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ed4825af305ae5c8bd8b1b9248dd9da9" label="Mixed Materials [31142062884583]" type="box">6</container><container id="aspace_0237eb652a77ff1cfdae2698188d5bed" parent="aspace_ed4825af305ae5c8bd8b1b9248dd9da9" type="folder">1</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Spanien und Katalonien: by A. Souchy</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_09e0c330066ad7bd8526a93a53965c96" label="Mixed Materials [31142062884583]" type="box">6</container><container id="aspace_a8ecfceb6cf33a086ef07c221f933800" parent="aspace_09e0c330066ad7bd8526a93a53965c96" type="folder">2</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>To the Central Committee [CPUSA] : Dissident letter warning of "Right Danger," by Herbert_____?</unittitle><unitdate>Jul 18, 1929</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e826fa596fb17f00883eca9a62907700" label="Mixed Materials [31142062884583]" type="box">6</container><container id="aspace_ab7e4b67d28b88744ae50b052ea9293e" parent="aspace_e826fa596fb17f00883eca9a62907700" type="folder">3</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Tragedy of the Underdog. Modern Monthly, Dec 1936 (ms; corrected version)</unittitle><unitdate normal="1926/1946" type="inclusive">ca.1936</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0dbe4d871fd2bcb871dc8d8a7db8841c" label="Mixed Materials [31142062884583]" type="box">6</container><container id="aspace_f4d8b8dcc91d79ba58f68c349905872b" parent="aspace_0dbe4d871fd2bcb871dc8d8a7db8841c" type="folder">4</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Trotsky: Notes on</unittitle><unitdate normal="1902/1967" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_92a129ec4df2652734d0b83471f0f9d8" label="Mixed Materials [31142062884583]" type="box">6</container><container id="aspace_d918c68aeb68b27e7508abe11aa84c2b" parent="aspace_92a129ec4df2652734d0b83471f0f9d8" type="folder">5</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Writings, Published: Articles</unittitle><unitdate normal="1902/1967" type="inclusive">1935-1949 , undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_cd7c8cb86c76fb9ce149ae9673257af2" label="Mixed Materials [31142062884583]" type="box">6</container><container id="aspace_19e530450dc92a6ecd438953af58e3e9" parent="aspace_cd7c8cb86c76fb9ce149ae9673257af2" type="folder">6</container></did></c></c></dsc>
-</archdesc>
+    </did>
+    <acqinfo id="aspace_26ecd68c3352016a4975d3f0d9ffe436">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Max Nomad, 1966 and 1967. The accession number associated with this gift is 1966.001.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_2cb3a3f868dee661b4cf20c3b6da9838">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_6539197894e984af088b79be78e74c2b">
+      <head>Historical/Biographical Note</head>
+      <p>Max Nomad (1881-1973) philosophic anarchist, author and educator, who also wrote under the pseudonym Max Norton, was born in Buczacz, Poland. He was influenced by the thought of Waclaw Machajski, a heretical Polish radical. Prior to WWI he was a native of Austria and attended the University of Vienna. A Guggenheim Fellow in 1937, and for many years a lecturer in politics and history at New York University, the New School for Social Research and the Rand School, his books include Rebels and Renegades, Apostles of Revolution; Dreamers, Dynamiters and Demagogues; Political Heretics from Plato to Mao Tse-Tung; A Skeptics Political Dictionary and Handbook for the Disenchanted; and Aspects of Revolution.</p>
+    </bioghist>
+    <scopecontent id="aspace_e17041263881792ed641e66841afcf53">
+      <head>Scope and Content Note</head>
+      <p>The papers contain manuscripts, clippings, a scrapbook, published material, and course descriptions. The material concerns anarchism, communism, Latin America, world prominent radicals, and personal philosophy. There is also an unpublished biography of Stalin, notes on the Soviet Union and the Communist Party thereof, and essays.</p>
+    </scopecontent>
+    <arrangement id="aspace_599f29d24c84cf53ea4884af3fadd757">
+      <head>Arrangement</head>
+      <p>Folders are arranged alphabetically.</p>
+      <p>The files are grouped into two series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I, Stalin Biography and Notes on the U.S.S.R and Communist Party of the Soviet Union</item>
+        <item>II, Writings by Max Nomad and Others</item>
+      </list>
+    </arrangement>
+    <userestrict id="aspace_cbc36cbbe5955cd2bc9f73c5c894c44a">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Max Nomad was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <prefercite id="aspace_31d8e5d5a3d50e39c666772dbce92eb5">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Max Nomad Papers; TAM 017; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <controlaccess>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <subject source="lcsh">Anarchism.</subject>
+      <subject source="lcsh">Communism.</subject>
+      <geogname source="lcsh">Soviet Union -- Politics and government.</geogname>
+      <subject source="lcsh">Anarchists -- United States.</subject>
+      <genreform source="aat">Manuscripts</genreform>
+      <genreform source="aat">Scrapbooks.</genreform>
+      <corpname source="naf">New School for Social Research (New York, N.Y.)</corpname>
+      <persname source="naf">Stalin, Joseph, 1878-1953</persname>
+      <corpname source="naf">Rand School of Social Science</corpname>
+      <corpname source="naf">New York University</corpname>
+      <persname source="naf">Nomad, Max</persname>
+      <persname source="naf">Norton, Max</persname>
+      <corpname source="naf">Kommunisticheskaia partiia Sovetskogo Soiuza</corpname>
+      <persname role="dnr" source="naf">Nomad, Max</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13" level="series">
+        <did>
+          <unittitle>Series 1: Stalin Biography and Notes on the U.S.S.R and Communist Party of the Soviet Union</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>The Son of the Cobbler (ms, 246 pp.)</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_0f7c4b7df6df7d633e26eee78bdf8c2f" label="Mixed Materials [31142062884542]" type="box">1</container>
+            <container id="aspace_3dd7a9a4c8d252157ac322e7b0962449" parent="aspace_0f7c4b7df6df7d633e26eee78bdf8c2f" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Stalin (ms, 251 pp.)</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_a795f278037dbe17c294fdbeb0cf09f4" label="Mixed Materials [31142062884542]" type="box">1</container>
+            <container id="aspace_b59fdae40ed93bf28fe299738b015c53" parent="aspace_a795f278037dbe17c294fdbeb0cf09f4" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Stalin: Notes on</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_ba2e0d42cf22e9dc9e9ebcc6c376f199" label="Mixed Materials [31142062884542]" type="box">1</container>
+            <container id="aspace_93a0ce38a56493aefdf352e6b99d8758" parent="aspace_ba2e0d42cf22e9dc9e9ebcc6c376f199" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Soviet Union and the Communist Party of the Soviet Union: Notes On; Part I.</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_af12a228e8d333c61e0c46e5b2bec0ad" label="Mixed Materials [31142062884534]" type="box">2</container>
+            <container id="aspace_2e1eb03aceed969f414f26008ceeb18d" parent="aspace_af12a228e8d333c61e0c46e5b2bec0ad" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Soviet Union and the Communist Party of the Soviet Union: Notes On: Part II.</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_43f374afba5092812c511c8429fcda3b" label="Mixed Materials [31142062884534]" type="box">2</container>
+            <container id="aspace_edf192967beb151cb2be6ee0761911df" parent="aspace_43f374afba5092812c511c8429fcda3b" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Soviet Union and the Communist Party of the Soviet Union: Notes On: Part III.</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c463319d2133a6dc00e83b7834b85863" label="Mixed Materials [31142062884534]" type="box">2</container>
+            <container id="aspace_6b28f13a58ae33d5d269173eb4e42b90" parent="aspace_c463319d2133a6dc00e83b7834b85863" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Soviet Union and the Communist Party of the Soviet Union: Notes On: Part IV.</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1a5a3e1a012c305b33eb2091869a8d94" label="Mixed Materials [31142062884534]" type="box">2</container>
+            <container id="aspace_5a130b523e7c9d79c6dcdee0db55cc15" parent="aspace_1a5a3e1a012c305b33eb2091869a8d94" type="folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref21" level="series">
+        <did>
+          <unittitle>Series 2. Writings by Max Nomad and Others.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>The Anarchist Tradition and Other Essays (ns, 198 pp.)Chapters: The knows and the know-nots; Varieties of socialism and anarchism; Russia before and after 1917; Americana; History's bloody pages; Miscellanea.</unittitle>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4e663af6fd5d24e179a3551da89ad51c" label="Mixed Materials [31142062884559]" type="box">3</container>
+            <container id="aspace_9cb1e364a30ee3413bab34c40ae8e96b" parent="aspace_4e663af6fd5d24e179a3551da89ad51c" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Aspects of Revolt (mn; New York: New York Bookman Associates)</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_75a0e12bd49c8f71852d7d684546bc7f" label="Mixed Materials [31142062884559]" type="box">3</container>
+            <container id="aspace_c26a47b04404cb9cb29c3b28f61524d9" parent="aspace_75a0e12bd49c8f71852d7d684546bc7f" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Balkan Problems Past and Present (as Stephen Naft)</unittitle>
+            <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4454e36f4afc84926012eaed0c17fc33" label="Mixed Materials [31142062884559]" type="box">3</container>
+            <container id="aspace_e65e343ffd9d4482337652e0036215bf" parent="aspace_4454e36f4afc84926012eaed0c17fc33" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Berlin People's Free Theater</unittitle>
+            <unitdate normal="1910/1920" type="inclusive">ca.1910s</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_15964bcc3e02637b49396f6231be2ebc" label="Mixed Materials [31142062884559]" type="box">3</container>
+            <container id="aspace_f62bc80cdc19ef4b47b91c13661d2390" parent="aspace_15964bcc3e02637b49396f6231be2ebc" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Brave New World (pp. 100-123 of unknown ms)</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0b7938f21f2d9290e5486eec928a3061" label="Mixed Materials [31142062884559]" type="box">3</container>
+            <container id="aspace_5072ec0e5d391e54ed601ccc67026f4b" parent="aspace_0b7938f21f2d9290e5486eec928a3061" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Burnham, Louis: Notes On</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f582810ec78226b6ce1c5257a922df05" label="Mixed Materials [31142062884559]" type="box">3</container>
+            <container id="aspace_94e54bc56ec650b3fc5698523713c6a6" parent="aspace_f582810ec78226b6ce1c5257a922df05" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, original): Introduction</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_aa40fb6975cea17da7d5282237b2a728" label="Mixed Materials [31142062884559]" type="box">3</container>
+            <container id="aspace_68e6c5b03ab4efb1dd6bc9639bda4dea" parent="aspace_aa40fb6975cea17da7d5282237b2a728" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, original): Pages 1-53</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_77c50354c15351ed64b2cd917d375afa" label="Mixed Materials [31142062884559]" type="box">3</container>
+            <container id="aspace_8e3bc715652aa0c3729f92988701be1c" parent="aspace_77c50354c15351ed64b2cd917d375afa" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, original): Pages 54-91</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9b13276a74afce6e03eff13ad25a0bff" label="Mixed Materials [31142062884559]" type="box">3</container>
+            <container id="aspace_f37662f6c063186cc2ff086c853e8f13" parent="aspace_9b13276a74afce6e03eff13ad25a0bff" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, original): Pages 92-148</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3af938cf68535a35bb594f535c1e1f92" label="Mixed Materials [31142062884559]" type="box">3</container>
+            <container id="aspace_5806330246391faa6558d988a202278d" parent="aspace_3af938cf68535a35bb594f535c1e1f92" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, original): Pages 149-198</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7c75a74ece1ca112684a0ef2ca2bb931" label="Mixed Materials [31142062884559]" type="box">3</container>
+            <container id="aspace_55de02b4d18e9eac05aeaab6a51827c8" parent="aspace_7c75a74ece1ca112684a0ef2ca2bb931" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, original): Pages 199-258</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4a9e7584d023bb9534de59567cad7197" label="Mixed Materials [31142062884559]" type="box">3</container>
+            <container id="aspace_cadf942dd695558d116a3b8186d97d7b" parent="aspace_4a9e7584d023bb9534de59567cad7197" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, original): Pages 259-321</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d4a33e4228bbf2cfa1921a9886b7b32e" label="Mixed Materials [31142062884559]" type="box">3</container>
+            <container id="aspace_4c1402910443cf266257132a2d8b47f5" parent="aspace_d4a33e4228bbf2cfa1921a9886b7b32e" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, original): Appendices I-VI</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_22e2cd9ce10fb98b89d8b7a96f8419ac" label="Mixed Materials [31142062884567]" type="box">4</container>
+            <container id="aspace_fa718e76e945f4445f631aa406bd7eb8" parent="aspace_22e2cd9ce10fb98b89d8b7a96f8419ac" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, photocopy): Introduction</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d0d2447dcaafbba9faa341310b2b914b" label="Mixed Materials [31142062884567]" type="box">4</container>
+            <container id="aspace_d1bc9f9b6a74c494762c0ab927e5293a" parent="aspace_d0d2447dcaafbba9faa341310b2b914b" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, photocopy): Pages 1-53</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_676f89ec8eddebdf23de9334a39fcb86" label="Mixed Materials [31142062884567]" type="box">4</container>
+            <container id="aspace_788def8f17d1572596df8a7398801700" parent="aspace_676f89ec8eddebdf23de9334a39fcb86" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, photocopy): Pages 54-91</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c9c76705d9c98141b3a7f390ceed1244" label="Mixed Materials [31142062884567]" type="box">4</container>
+            <container id="aspace_868ff5f01102278d2751eb1aa4b121d5" parent="aspace_c9c76705d9c98141b3a7f390ceed1244" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, photocopy): Pages 92-148</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_704eade87fda951c80782f9769ef29b9" label="Mixed Materials [31142062884567]" type="box">4</container>
+            <container id="aspace_5d102628f5242e6ff42313628d94e4d1" parent="aspace_704eade87fda951c80782f9769ef29b9" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, photocopy): Pages 149-198</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_eb9bfed71d0d27b93a22042c4294fa06" label="Mixed Materials [31142062884567]" type="box">4</container>
+            <container id="aspace_e8ecdf7e8fdc13f87f33f82e401f84d2" parent="aspace_eb9bfed71d0d27b93a22042c4294fa06" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, photocopy): Pages 199-258</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5a0140c625559b8e6d62ff9e274786b0" label="Mixed Materials [31142062884567]" type="box">4</container>
+            <container id="aspace_e746bcd4e9eafa7c1d9943e90ada5a4a" parent="aspace_5a0140c625559b8e6d62ff9e274786b0" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, photocopy): Pages 259-321</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ff6e512d47706379fc1b08626bf0225c" label="Mixed Materials [31142062884567]" type="box">4</container>
+            <container id="aspace_f6dd8dfb65bdaddc5fe0e17fc4a2ca8b" parent="aspace_ff6e512d47706379fc1b08626bf0225c" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>"Carlo Tresca: Rebel Without Uniform" (ms, photocopy): Appendices I-VI</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_81236c90955716ae286799ccea138e5d" label="Mixed Materials [31142062884567]" type="box">4</container>
+            <container id="aspace_3429ac29da8be6f440d2f4b9db4ef961" parent="aspace_81236c90955716ae286799ccea138e5d" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Clouds over Yugoslavia - by Solomon Schwartz</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_08f580ce305ea9f5b3e98a993bafe220" label="Mixed Materials [31142062884567]" type="box">4</container>
+            <container id="aspace_a1f8012d12c34ccea1d016f30a95e7ef" parent="aspace_08f580ce305ea9f5b3e98a993bafe220" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Dreamers, Dynamiters and Demagogues (ms, New York: Waldon Press)</unittitle>
+            <unitdate normal="1944/1964" type="inclusive">ca.1954</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e6a2e708559b01fb52927df84d2abcd5" label="Mixed Materials [31142062884567]" type="box">4</container>
+            <container id="aspace_543da4235e7a37afbce248dc7cbc0e4b" parent="aspace_e6a2e708559b01fb52927df84d2abcd5" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Fascism</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0657fd9d0e99f5b0f542af6c46f131db" label="Mixed Materials [31142062884575]" type="box">5</container>
+            <container id="aspace_800ec24a8ae0f9e0c3033373bdb5882b" parent="aspace_0657fd9d0e99f5b0f542af6c46f131db" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Jews in Latin America</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0e861a108c4807a75ac363d09203e03b" label="Mixed Materials [31142062884575]" type="box">5</container>
+            <container id="aspace_7e5e23856e76f3df71cfb35cf8501846" parent="aspace_0e861a108c4807a75ac363d09203e03b" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Jews in New York</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e69780464bd54c7f73c38f17097d2705" label="Mixed Materials [31142062884575]" type="box">5</container>
+            <container id="aspace_7fc81284bb2a59e6afdc746cf7402f56" parent="aspace_e69780464bd54c7f73c38f17097d2705" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Juvenilia (scrapbook of published and unpublished writings(</unittitle>
+            <unitdate normal="1902/1921" type="inclusive">1902-1921</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_284030ddaaedd3bd7b9328d151517420" label="Mixed Materials [31142062884575]" type="box">5</container>
+            <container id="aspace_b061f38f68e6382a2689df2067b22e0a" parent="aspace_284030ddaaedd3bd7b9328d151517420" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Latin America</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2b53b07a29dfca70db05ff9fa63af7bf" label="Mixed Materials [31142062884575]" type="box">5</container>
+            <container id="aspace_0d74d5d623c63e2002d4f5e40781f374" parent="aspace_2b53b07a29dfca70db05ff9fa63af7bf" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Lectures and Course Announcements (New School, NYU, Rand School)</unittitle>
+            <unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5480f92eeaa5dc3d2248e17b439078cf" label="Mixed Materials [31142062884575]" type="box">5</container>
+            <container id="aspace_02868087bc2f6b9676ad78f456a43384" parent="aspace_5480f92eeaa5dc3d2248e17b439078cf" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Lenin: Notes on</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c65a4937e95a93238ec22b20255a3f8f" label="Mixed Materials [31142062884575]" type="box">5</container>
+            <container id="aspace_f0f22c01340b35b90a2389aaab195410" parent="aspace_c65a4937e95a93238ec22b20255a3f8f" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3c9d64ec6b08b629913f98eb93d170e5" label="Mixed Materials [31142062884575]" type="box">5</container>
+            <container id="aspace_4203f06bdb8041d9ee049978600e8e3c" parent="aspace_3c9d64ec6b08b629913f98eb93d170e5" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Personal Letters</unittitle>
+            <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a1e04fd4c367e6230c8c6833cd97c4de" label="Mixed Materials [31142062884575]" type="box">5</container>
+            <container id="aspace_1c6b4869382ed9ae168e8fa9d80f0d92" parent="aspace_a1e04fd4c367e6230c8c6833cd97c4de" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Personal Philosophy, Short Statement of</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_358ffa00bb322640054448c234b1aab5" label="Mixed Materials [31142062884575]" type="box">5</container>
+            <container id="aspace_f5152f6ae43a5e2a7452c9cb2ae5724a" parent="aspace_358ffa00bb322640054448c234b1aab5" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Political Heretics from Plato to Mao Tse-Tung (ms; Ann Arbor: University of Michigan Press)1963</unittitle>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a3904a6617b1d25d826daac0a0662f53" label="Mixed Materials [31142062884575]" type="box">5</container>
+            <container id="aspace_9d0da8c14546b9419d3b4737659478ed" parent="aspace_a3904a6617b1d25d826daac0a0662f53" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Post-Mortems and PostscriptsChapters: Makers of history; Forerunners; Revolutionary romantics of yore; Converts to the new Islam; Giants and clowns; Immortals of shame.</unittitle>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_ed4825af305ae5c8bd8b1b9248dd9da9" label="Mixed Materials [31142062884583]" type="box">6</container>
+            <container id="aspace_0237eb652a77ff1cfdae2698188d5bed" parent="aspace_ed4825af305ae5c8bd8b1b9248dd9da9" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Spanien und Katalonien: by A. Souchy</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_09e0c330066ad7bd8526a93a53965c96" label="Mixed Materials [31142062884583]" type="box">6</container>
+            <container id="aspace_a8ecfceb6cf33a086ef07c221f933800" parent="aspace_09e0c330066ad7bd8526a93a53965c96" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>To the Central Committee [CPUSA] : Dissident letter warning of "Right Danger," by Herbert_____?</unittitle>
+            <unitdate>Jul 18, 1929</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_e826fa596fb17f00883eca9a62907700" label="Mixed Materials [31142062884583]" type="box">6</container>
+            <container id="aspace_ab7e4b67d28b88744ae50b052ea9293e" parent="aspace_e826fa596fb17f00883eca9a62907700" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Tragedy of the Underdog. Modern Monthly, Dec 1936 (ms; corrected version)</unittitle>
+            <unitdate normal="1926/1946" type="inclusive">ca.1936</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_0dbe4d871fd2bcb871dc8d8a7db8841c" label="Mixed Materials [31142062884583]" type="box">6</container>
+            <container id="aspace_f4d8b8dcc91d79ba58f68c349905872b" parent="aspace_0dbe4d871fd2bcb871dc8d8a7db8841c" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Trotsky: Notes on</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_92a129ec4df2652734d0b83471f0f9d8" label="Mixed Materials [31142062884583]" type="box">6</container>
+            <container id="aspace_d918c68aeb68b27e7508abe11aa84c2b" parent="aspace_92a129ec4df2652734d0b83471f0f9d8" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Writings, Published: Articles</unittitle>
+            <unitdate normal="1902/1967" type="inclusive">1935-1949 , undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_cd7c8cb86c76fb9ce149ae9673257af2" label="Mixed Materials [31142062884583]" type="box">6</container>
+            <container id="aspace_19e530450dc92a6ecd438953af58e3e9" parent="aspace_cd7c8cb86c76fb9ce149ae9673257af2" type="folder">6</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

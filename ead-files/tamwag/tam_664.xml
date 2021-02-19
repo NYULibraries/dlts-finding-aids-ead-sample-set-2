@@ -1,45 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_664/">tam_664</eadid><filedesc><titlestmt><titleproper>Guide to the Robert E. Treuhaft Papers <num>TAM.664</num></titleproper><author>Erika Gottfried</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>05/20/2015</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:55:13 -0500</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Robert E. Treuhaft Papers</unittitle>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">Treuhaft, Benjamin</persname>
-    </origination>
-    <origination label="Creator">
-      <persname source="naf">Mitford, Jessica, 1917-1996</persname>
-    </origination>
-    <origination label="Creator">
-      <persname rules="dacs" source="local">Treuhaft, Robert E.</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">Romilly, Constancia</persname>
-    </origination>
-    <unitid>TAM.664</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">5.5 Linear Feet</extent>
-      <extent altrender="carrier">in 5 record cartons, one manuscript box and one oversized box.</extent>
-    </physdesc>
-    <unitdate normal="1893/2002" type="inclusive">1893-2002</unitdate>
-    <unitdate normal="1960/1980" type="bulk">1960-1980</unitdate>
-    <abstract id="aspace_4b328bbaa33f82855ce27662046dda2a">Robert E. Treuhaft (1912-2001) a radical left-wing attorney prominent in progressive and New Left politics in the San Francisco Bay Area, was known for his work as a civil rights and civil liberties attorney as well as representing New Left organizations and individuals, such as the Free Speech Movement.  He was perhaps equally well-known for his wife, muckraking writer Jessica Mitford, radical and rebellious daughter of a family of conservative British aristocrats and author of a best-selling expose of the funeral industry,<title render="italic"> The American Way of Death</title>, for which Treuhaft contributed the research.  Treuhaft and Mitford joined the Communist Party of the United States of America (CPUSA) in 1943 and remained members until 1958. Treuhaft provided legal representation for "unfriendly" witnesses subpoenaed by the U.S. House of Representatives' Un-American Activities Committee (HUAC); he himself and Mitford were called to testify before the Committee in 1953, where they also failed to cooperate with the Committee by "naming names."  As a consequence of this, and their other political activities Treuhaft and Mitford were constantly surveilled and frequently harassed by federal, state, and local government agencies.  The collection consists of of legal case files, business and personal correspondence,  internal memos, FOIA files, published and unpublished writings, newspaper clippings.</abstract>
-    <physloc id="aspace_523f95677576961973a5d108adf78738">Materials are located at the Tamiment Library.</physloc>
-    <langmaterial id="aspace_18314bc2587cf5fdab84862940d7c1a9">Materials are in English, with a few documents in Hungarian and German.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_e751e31fe7e2b3175a37949452a30391">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_3658347193e058adb47bc88f8acc7e9e">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Benjamin Treuhaft and Constancia Romilly in 2015.  The accession number associated with this donation is 2015.09.</p>  </acqinfo>
-  <appraisal id="aspace_7f4fbbfcffb2442ec7496e2dbdf913d9">
-    <head>Appraisal</head>
-<p>Routine worker compensation case files were discarded, with the exception of a sample retained to illustrate this aspect of Robert Treuhaft's practice; duplicate documents were also discarded.  Strictly personal documents have been returned to the donors.</p>  </appraisal>
-  <arrangement id="aspace_5b82ffef51ecb9f756260f475a29b966">
-    <head>Arrangement</head>
-<p>Organized into eleven series.</p><p>I,   Biographical<lb/>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_664/">tam_664</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Robert E. Treuhaft Papers <num>TAM.664</num></titleproper>
+        <author>Erika Gottfried</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>05/20/2015</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:55:13 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Robert E. Treuhaft Papers</unittitle>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Treuhaft, Benjamin</persname>
+      </origination>
+      <origination label="Creator">
+        <persname source="naf">Mitford, Jessica, 1917-1996</persname>
+      </origination>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Treuhaft, Robert E.</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Romilly, Constancia</persname>
+      </origination>
+      <unitid>TAM.664</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5.5 Linear Feet</extent>
+        <extent altrender="carrier">in 5 record cartons, one manuscript box and one oversized box.</extent>
+      </physdesc>
+      <unitdate normal="1893/2002" type="inclusive">1893-2002</unitdate>
+      <unitdate normal="1960/1980" type="bulk">1960-1980</unitdate>
+      <abstract id="aspace_4b328bbaa33f82855ce27662046dda2a">Robert E. Treuhaft (1912-2001) a radical left-wing attorney prominent in progressive and New Left politics in the San Francisco Bay Area, was known for his work as a civil rights and civil liberties attorney as well as representing New Left organizations and individuals, such as the Free Speech Movement.  He was perhaps equally well-known for his wife, muckraking writer Jessica Mitford, radical and rebellious daughter of a family of conservative British aristocrats and author of a best-selling expose of the funeral industry,<title render="italic"> The American Way of Death</title>, for which Treuhaft contributed the research.  Treuhaft and Mitford joined the Communist Party of the United States of America (CPUSA) in 1943 and remained members until 1958. Treuhaft provided legal representation for "unfriendly" witnesses subpoenaed by the U.S. House of Representatives' Un-American Activities Committee (HUAC); he himself and Mitford were called to testify before the Committee in 1953, where they also failed to cooperate with the Committee by "naming names."  As a consequence of this, and their other political activities Treuhaft and Mitford were constantly surveilled and frequently harassed by federal, state, and local government agencies.  The collection consists of of legal case files, business and personal correspondence,  internal memos, FOIA files, published and unpublished writings, newspaper clippings.</abstract>
+      <physloc id="aspace_523f95677576961973a5d108adf78738">Materials are located at the Tamiment Library.</physloc>
+      <langmaterial id="aspace_18314bc2587cf5fdab84862940d7c1a9">Materials are in English, with a few documents in Hungarian and German.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_e751e31fe7e2b3175a37949452a30391">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_3658347193e058adb47bc88f8acc7e9e">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Benjamin Treuhaft and Constancia Romilly in 2015.  The accession number associated with this donation is 2015.09.</p>
+    </acqinfo>
+    <appraisal id="aspace_7f4fbbfcffb2442ec7496e2dbdf913d9">
+      <head>Appraisal</head>
+      <p>Routine worker compensation case files were discarded, with the exception of a sample retained to illustrate this aspect of Robert Treuhaft's practice; duplicate documents were also discarded.  Strictly personal documents have been returned to the donors.</p>
+    </appraisal>
+    <arrangement id="aspace_5b82ffef51ecb9f756260f475a29b966">
+      <head>Arrangement</head>
+      <p>Organized into eleven series.</p>
+      <p>I,   Biographical<lb/>
 II,  Correspondence - Business<lb/>
 III,  Correspondence - Personal<lb/>
 IV,   Law Office/Partnerships<lb/>
@@ -49,64 +82,1171 @@ VII,  Organizations<lb/>
 VIII, Political Issues/Activism<lb/>
 IX,   Research<lb/>
 X,    Writings<lb/>
-XI,   Wills<lb/></p><p>Arrangement is mostly in alphabetical order by folder title and in chronological order when there is more than one folder with the same title.  Correspondence combines incoming and outgoing letters.</p>  </arrangement>
-  <bioghist id="aspace_2079e2d55d169edf7a72d153e8c320a0">
-    <head>Historical/Biographical Note</head>
-<p>Robert Edward Treuhaft, a radical left-wing attorney prominent in progressive and New Left politics in the San Francisco Bay Area, was born in the Bronx, New York City, in 1912, the oldest child of Hungarian Jewish immigrants.  He attended public schools and became the first person from his Brooklyn high school to be admitted to Harvard University.  He graduated from Harvard in 1934, and obtained a law degree from Harvard Law School in 1937.  After graduation from law school he worked for a labor law firm in New York City for, whose clients included the International Ladies Garment Workers Union.  In 1941, he took a position in Washington, D.C., with the enforcement division of the wartime Office of Price Administration (OPA).  At OPA, he met his future wife, Jessica Mitford Romilly (known as Decca Mitford, radical and rebellious daughter from a famously eccentric and conservative family of British aristocrats), who was also working at the agency.  In 1943 Treuhaft left the OPA and moved to the West Coast to work for the War Labor Board's San Francisco office and to join Mitford, who had also taken a job in San Francisco.  They married soon after their arrival to the Bay Area.
+XI,   Wills<lb/></p>
+      <p>Arrangement is mostly in alphabetical order by folder title and in chronological order when there is more than one folder with the same title.  Correspondence combines incoming and outgoing letters.</p>
+    </arrangement>
+    <bioghist id="aspace_2079e2d55d169edf7a72d153e8c320a0">
+      <head>Historical/Biographical Note</head>
+      <p>Robert Edward Treuhaft, a radical left-wing attorney prominent in progressive and New Left politics in the San Francisco Bay Area, was born in the Bronx, New York City, in 1912, the oldest child of Hungarian Jewish immigrants.  He attended public schools and became the first person from his Brooklyn high school to be admitted to Harvard University.  He graduated from Harvard in 1934, and obtained a law degree from Harvard Law School in 1937.  After graduation from law school he worked for a labor law firm in New York City for, whose clients included the International Ladies Garment Workers Union.  In 1941, he took a position in Washington, D.C., with the enforcement division of the wartime Office of Price Administration (OPA).  At OPA, he met his future wife, Jessica Mitford Romilly (known as Decca Mitford, radical and rebellious daughter from a famously eccentric and conservative family of British aristocrats), who was also working at the agency.  In 1943 Treuhaft left the OPA and moved to the West Coast to work for the War Labor Board's San Francisco office and to join Mitford, who had also taken a job in San Francisco.  They married soon after their arrival to the Bay Area.
  
-In 1945, Treuhaft joined the law firm of Gladstein, Grossman, Sawyer &amp; Edises.  At Gladstein he represented West Coast labor unions expelled from the CIO as a result of accusations that they were Communist-led or dominated.  A few years later he and Bertram Edises established their own firm.  They became well-known as civil rights attorneys when they successfully defended, Jerry Newson, an 18-year-old African American man, against a framed-up murder charge.  Treuhaft also acted as counsel for the East Bay Civil Rights Congress from 1949 to 1956, advocating for clients suffering racial discrimination and he brought pioneering police brutality suits against the Oakland Police department. </p><p>In 1963, Treuhaft and Doris "Dobby" Walker (a long-time friend and political ally of Treuhaft and Mitford's) founded their own law firm (through the years joined by different partners, beginning with Malcolm Burnstein, as well as numerous young associates and interns, including future Secretary of State Hillary Rodham Clinton during the summer of 1971).  Throughout the 1960s and 1970s Treuhaft, Walker &amp; Burnstein represented clients in civil rights cases (as well as handling more general law, such as wills and divorces, for clients among the African American and progressive communities in the area); they also became well-known for representing New Left organizations and activists.  Treuhaft acted as counsel for the Free Speech Movement, representing the more than 700 students arrested at the University of California at Berkeley during a two-day sit-in in 1964.  He himself was also arrested during the sit-in, at the direction of then- Assistant District Attorney of Alameda County, Edwin Meese, who later became Attorney General during the Reagan presidency.  In addition, Treuhaft and his firm represented anti-Vietnam War protesters, Black Panther Party, the Student Nonviolent Coordinating Committee (SNCC), the Congress of Racial Equality (CORE), and University of California students and town residents arrested during the struggle over People's Park in Berkeley.  Treuhaft's expansive vision of civil liberties included child custody cases in which he defended clients whose parental rights being challenged on the basis of their cultural lifestyles. 
+In 1945, Treuhaft joined the law firm of Gladstein, Grossman, Sawyer &amp; Edises.  At Gladstein he represented West Coast labor unions expelled from the CIO as a result of accusations that they were Communist-led or dominated.  A few years later he and Bertram Edises established their own firm.  They became well-known as civil rights attorneys when they successfully defended, Jerry Newson, an 18-year-old African American man, against a framed-up murder charge.  Treuhaft also acted as counsel for the East Bay Civil Rights Congress from 1949 to 1956, advocating for clients suffering racial discrimination and he brought pioneering police brutality suits against the Oakland Police department. </p>
+      <p>In 1963, Treuhaft and Doris "Dobby" Walker (a long-time friend and political ally of Treuhaft and Mitford's) founded their own law firm (through the years joined by different partners, beginning with Malcolm Burnstein, as well as numerous young associates and interns, including future Secretary of State Hillary Rodham Clinton during the summer of 1971).  Throughout the 1960s and 1970s Treuhaft, Walker &amp; Burnstein represented clients in civil rights cases (as well as handling more general law, such as wills and divorces, for clients among the African American and progressive communities in the area); they also became well-known for representing New Left organizations and activists.  Treuhaft acted as counsel for the Free Speech Movement, representing the more than 700 students arrested at the University of California at Berkeley during a two-day sit-in in 1964.  He himself was also arrested during the sit-in, at the direction of then- Assistant District Attorney of Alameda County, Edwin Meese, who later became Attorney General during the Reagan presidency.  In addition, Treuhaft and his firm represented anti-Vietnam War protesters, Black Panther Party, the Student Nonviolent Coordinating Committee (SNCC), the Congress of Racial Equality (CORE), and University of California students and town residents arrested during the struggle over People's Park in Berkeley.  Treuhaft's expansive vision of civil liberties included child custody cases in which he defended clients whose parental rights being challenged on the basis of their cultural lifestyles. 
  
-As part of his lifelong concern for the rights and welfare of ordinary citizens, Treuhaft became interested in consumer rights and protections.  In 1962 he co-wrote a handbook for California lawyers on debtors' rights.   When he became aware of deceptive practices by funeral homes he helped to found the Bay Area Funeral Society to serve as a model for simpler and less expensive funerals, and took a year's leave of absence from his law practice to research the topic more deeply.  He also assisted his wife with writing <title render="italic">The American Way of Death</title>, an expose on the funeral industry based on his research.  Published in 1963, the <title render="italic">The American Way of Death </title>became an enormous (and to the Treuhafts, entirely unexpected) success, a bestselling book, and made Mitford--already a published writer--famous as a muckraking journalist, known for her special blend of investigative journalism with political satire.  As a consequence of the publicity surrounding the <title render="italic">American Way of Death</title> Treuhaft was appointed by California Governor Jerry Brown as a public member to the California State Board of Funeral Directors and Embalmers (much to the consternation of funeral directors throughout the country).  </p><p>Treuhaft also participated in local and community politics.  In 1966 he ran (and lost the race) for District Attorney for Alameda County against the longtime rightwing incumbent Frank Coakley.  He served several terms on the board of the Consumers Cooperative of Berkeley (better known as the Berkeley Co-Op),  a small group member-run supermarkets in the Bay Area, including one after a hotly-contested election campaign, in which he ran on a slate of progressives. He was also instrumental in getting the Co-Op board to pass a resolution cutting off its contributions to the national organization of co-operative stores, the Cooperative League of America, because it had accepted funds from the CIA.</p><p>In 1982, Treuhaft and Walker dissolved their partnership. From this time through his retirement in 1997  Treuhaft began to specialize in workers' compensation cases and appeals to the Social Security Administration.
+As part of his lifelong concern for the rights and welfare of ordinary citizens, Treuhaft became interested in consumer rights and protections.  In 1962 he co-wrote a handbook for California lawyers on debtors' rights.   When he became aware of deceptive practices by funeral homes he helped to found the Bay Area Funeral Society to serve as a model for simpler and less expensive funerals, and took a year's leave of absence from his law practice to research the topic more deeply.  He also assisted his wife with writing <title render="italic">The American Way of Death</title>, an expose on the funeral industry based on his research.  Published in 1963, the <title render="italic">The American Way of Death </title>became an enormous (and to the Treuhafts, entirely unexpected) success, a bestselling book, and made Mitford--already a published writer--famous as a muckraking journalist, known for her special blend of investigative journalism with political satire.  As a consequence of the publicity surrounding the <title render="italic">American Way of Death</title> Treuhaft was appointed by California Governor Jerry Brown as a public member to the California State Board of Funeral Directors and Embalmers (much to the consternation of funeral directors throughout the country).  </p>
+      <p>Treuhaft also participated in local and community politics.  In 1966 he ran (and lost the race) for District Attorney for Alameda County against the longtime rightwing incumbent Frank Coakley.  He served several terms on the board of the Consumers Cooperative of Berkeley (better known as the Berkeley Co-Op),  a small group member-run supermarkets in the Bay Area, including one after a hotly-contested election campaign, in which he ran on a slate of progressives. He was also instrumental in getting the Co-Op board to pass a resolution cutting off its contributions to the national organization of co-operative stores, the Cooperative League of America, because it had accepted funds from the CIA.</p>
+      <p>In 1982, Treuhaft and Walker dissolved their partnership. From this time through his retirement in 1997  Treuhaft began to specialize in workers' compensation cases and appeals to the Social Security Administration.
  
-Robert Treuhaft was also active in progressive attorneys' organizations such as the National Lawyers Guild (he served as a vice president and was honored by it, along with Mitford, with a testimonial dinner in 1985).  As a member of the International Association of Democratic Lawyers (IADL) he served on an mission to Portugal in 1964 to investigate torture of political prisoners (as a result he and fellow commission members were arrested and expelled from the country by the authoritarian government of Antonio Salazar), and to Okinawa in 1969 to investigate human rights violations by the United States.</p><p>Treuhaft and Jessica Mitford joined the Communist Party of the United States of America (CPUSA) in 1943 and remained members until 1958.  Treuhaft  provided legal representation for "unfriendly" witnesses subpoenaed by the U.S. House of Representatives' Un-American Activities Committee (HUAC).  He himself and Mitford were called to testify before the Committee in 1953.  They refused to "name names," (that is, identify for the Committee their own or others' political affiliations or memberships). Treuhaft took issue publicly with those who did, including in a 1984 article in <title render="italic">The Nation</title> on his Harvard class' 50th reunion. As a consequence of this, and their other political activities the Treuhafts were constantly surveilled and frequently harassed by federal, state, and local government agencies, up to and including being denied passports.</p><p>Treuhaft and Mitford raised two children to adulthood—Benjamin, their second son (another son, Nicholas, died at age ten), and Constancia "Dinky" Romilly, Mitford's daughter from her first marriage.  Jessica Mitford died in 1996.  Treuhaft completed <title render="italic">The American Way of Death Revisited</title> (published 1998), the update of <title render="italic">The American Way of Death</title> Mitford had been working on at the time of her death.  Robert Treuhaft died on November 11, 2001.</p>  </bioghist>
-  <prefercite id="aspace_0342e2f9c8177a4c4b272f5d09da1f77">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Robert E. Treuhaft Papers; TAM 664; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <processinfo id="aspace_585d9a1c3c332d13410e9d8f053eb747">
-    <head>Processing Information</head>
-<p>With the exception of the wills series, all of the materials in this collection have been re-foldered into archival folders and placed in archival boxes.  In most cases original folder titles were retained.  In those instances where an original folder itself could be considered a document (that is, it had notes or other information other than title or date written on it), the original folder (or part of it) was retained and filed in the new folder with the original documents.</p>  </processinfo>
-  <relatedmaterial id="aspace_571a780d679e1cc89d2e1355cf2633ec">
-    <head>Related Archival Materials</head>
-<p>Jessica Mitford Collection, Rare Books and Manuscripts Library, Ohio State University. 
-Jessica Mitford Papers, Harry Ransom Center, University of Texas at Austin.</p>  </relatedmaterial>
-  <scopecontent id="aspace_1efa036b06e6aeac6d78249efef5346a">
-    <head>Scope and Content Note</head>
-<p>This collection consists of legal case files, business and personal correspondence,  internal memos, FOIA files, published and unpublished writings, newspaper clippings,  and other materials that document much of the public and political life, and some of the private life, of Robert Treuhaft.   They also document political/civil liberties legal cases stemming from a number of historic events of the 1960s, the Free Speech Movement, People's Park, and the march on the California State capitol by members of the Black Panther Party.</p>  </scopecontent>
-  <phystech id="aspace_6d985c0090f5b5345b711bbb91c18be5">
-    <head>Audiovisual Access Policies and Procedures</head>
-<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
-  <separatedmaterial id="aspace_12a0e3f7a2980afc852d293ba91cd91e">
-    <head>Separated Materials</head>
-<p>1/4" audiotapes originally in folder "Siegel, Dan People v. folder (give #?)</p>  </separatedmaterial>
-  <userestrict id="aspace_0813950b70e67a246a673ac6c2d55752">
-    <head>Conditions Governing Use</head>
-<p>Any rights (including copyright and related rights to publicity and privacy) held by Robert E. Treuhaft, the creator of this collection, were relinquished and transferred to the public domain in 2015 by Benjamin Treuhaft and Constancia Romilly. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/.</p>  </userestrict>
-  <bibliography id="aspace_f848cc8026cb6fa5c34de53b1f7a8a82">
-    <head>Bibliography</head>
-    <bibref>Larsen, Robert. Treuhaft, Robert E.  Berkeley Historical Society. Oakland, California, 1988-1989. "Left-Wing Political Activist and Progressive Leader in the Berkeley Co-op Robert E. Treuhaft." Consumers Cooperative of Berkeley Oral History Collection. http://content.cdlib.org/ark:/13030/kt4x0nb0bf/</bibref>
-    <bibref>Lewis, Paul. "Robert Treuhaft, 89, Lawyer Who Inspired Funeral Exposé." <title render="italic">New York Times</title>,  December 2, 2001. http://www.nytimes.com/2001/12/02/us/robert-treuhaft-89-lawyer-who-inspired-funeral-expose.html</bibref>
-    <bibref>Lisker, Susan. "Treuhaft, Walker, Brown and Cooper:  An Unusual Law Firm." University of California, Berkeley, 1976.</bibref>
-    <bibref>Mitford, Jessica. <title render="italic">A Fine Old Conflict.</title> New York: Alfred A. Knopf , 1977.</bibref>
-    <bibref>"National Lawyers Guild Bay Area Testimonial Dinner 1985--Jessica Mitford, Robert Treuhaft Honorees." (program)</bibref>
-    <bibref>Oliver, Myrna. "Robert Treuhaft, 89; Crusading Attorney."<title render="italic"> Los Angeles Times</title>, November 16, 2001. http://articles.latimes.com/2001/nov/16/local/me-4896</bibref>
-    <bibref>Wilmot, Ingrid. "Dining In,' [profile of Robert Treuhaft], <title render="italic">San Francisco Magazine</title>, May 1965, p.54.</bibref>
-  </bibliography>
-  <controlaccess>
-    <genreform source="aat">Legal files.</genreform>
-    <subject source="lcsh">Lawyers -- Political activity -- United States.</subject>
-    <genreform source="aat">Wills</genreform>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Legal correspondence.</genreform>
-    <subject source="lcsh">People's Park (Berkeley, Calif.) -- History.</subject>
-    <genreform source="aat">Black-and-white photographs.</genreform>
-    <genreform source="aat">Audiotapes.</genreform>
-    <corpname source="naf">Black Panther Party</corpname>
-    <persname role="dnr" rules="dacs" source="local">Treuhaft, Benjamin</persname>
-    <corpname rules="dacs" source="naf">Free Speech Movement (Berkeley, Calif.)</corpname>
-    <corpname source="naf">International Association of Democratic Lawyers</corpname>
-    <persname role="dnr" rules="dacs" source="local">Romilly, Constancia</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref8" level="series"><did><unittitle>Biographical</unittitle><unitdate>1893-2002</unitdate></did><scopecontent id="aspace_5d8a05a9d4096de0ed687ce364ecaffe"><head>Scope and Content Note</head><p>Documents in this series include passports (which document Treuhaft's travels as early as the summer of 1937 when he visited England, France and Italy, as well as, Austria, Germany and Hungary, as well as later travels to England, Hungary, Portugal, and the Soviet Union),  report cards and grades from elementary school as well as for Harvard University, class notes for an evidence class at Harvard Law School, announcements and notes for a 50th reunion of his Harvard class about which he wrote an article in The Nation; copies of his FBI and CIA "files" obtained through FOIA requests.  Correspondence and receipts in the "red-baiting" folders (as they were originally labeled by Treuhaft or his office staff) document extensively his efforts to defend himself from attempts to dismiss him from his job at the Office of Price Adminstration on political grounds.  These same files contain numerous newspaper clippings, leaflets and publications report on the course of much of his political activity, albeit often in a biased or distorted manner, including accusations and attacks in the right-wing press and a scurrilous newsletter from a local Communist Party group; even an insurance claim that documenting what may have be a politically motivated deliberate damage to Treuhaft's automobile.</p></scopecontent><c id="aspace_ref138" level="file"><did><unittitle>Datebook, Calendar, and Address Books</unittitle><unitdate normal="1933/1936" type="inclusive">1933-1934, 1936</unitdate><container altrender="Record carton" id="aspace_2fb65c0a13af05295b039c041588905d" label="Text [31142063397320]" type="box">1</container><container id="aspace_9a0541849a396a836a50bac7bfae32d3" parent="aspace_2fb65c0a13af05295b039c041588905d" type="folder">1</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Datebook, Calendar, and Address Book	</unittitle><unitdate normal="1950/1959" type="inclusive">1950s</unitdate><container altrender="Record carton" id="aspace_58e816c4d51f16e92d4bc0c7732dd149" label="Text [31142063397320]" type="box">1</container><container id="aspace_8d5f111d1cdffd3e4eb0e780e9c65b82" parent="aspace_58e816c4d51f16e92d4bc0c7732dd149" type="folder">2</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Datebook, Calendar, and Address Books	</unittitle><unitdate normal="1960/1969" type="inclusive">1960s</unitdate><container altrender="Record carton" id="aspace_cf80902cf60ab47bb51fc65569fc9e10" label="Text [31142063397320]" type="box">1</container><container id="aspace_e4e4bbce2fb79e557f2380ce0038774f" parent="aspace_cf80902cf60ab47bb51fc65569fc9e10" type="folder">3</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Datebook, Calendar, and Address Books	</unittitle><unitdate normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Record carton" id="aspace_2c4af74ee1421c368dcff649c4c6c7a4" label="Text [31142063397320]" type="box">1</container><container id="aspace_fdcc3868bb5c4b6b5b9bf8899b2b47d3" parent="aspace_2c4af74ee1421c368dcff649c4c6c7a4" type="folder">4</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Elementary and Junior High School Report Cards; Diptheria Vaccination Certificate	</unittitle><unitdate normal="1920/1925" type="inclusive">1920-1925</unitdate><container altrender="Record carton" id="aspace_205943158086551da197b45778b52caf" label="Text [31142063397320]" type="box">1</container><container id="aspace_02de37983de82ea935251494c66067c1" parent="aspace_205943158086551da197b45778b52caf" type="folder">5</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>FOIA - Documents from CIA	</unittitle><unitdate normal="1964/1976" type="inclusive">1964-1969, 1976</unitdate><container altrender="Record carton" id="aspace_85c599b05929bda01e80168570a1a4f7" label="Text [31142063397320]" type="box">1</container><container id="aspace_97d1cc7cc32af4e91d1ea7d91c7afff5" parent="aspace_85c599b05929bda01e80168570a1a4f7" type="folder">6</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>FOIA - Documents from FBI 	</unittitle><unitdate normal="1945/1972" type="inclusive">1945-circa 1972</unitdate><container altrender="Record carton" id="aspace_16c85b400f8d4a349c401744a3be482b" label="Text [31142063397320]" type="box">1</container><container id="aspace_c061433da0ee136d26b0783bc9d1558f" parent="aspace_16c85b400f8d4a349c401744a3be482b" type="folder">7</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Freedom of Information Act - Suit Against the FBI and National Archives	</unittitle><unitdate normal="1975/1983" type="inclusive">1975-1983</unitdate><container altrender="Record carton" id="aspace_dc41b94e00dbbe6c1f17f8547dc31c98" label="Text [31142063397320]" type="box">1</container><container id="aspace_5b0b5dd5e95002ec23870a8701d85213" parent="aspace_dc41b94e00dbbe6c1f17f8547dc31c98" type="folder">8</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Harvard University </unittitle><unitdate normal="1933/1933" type="inclusive">1933</unitdate><container altrender="Record carton" id="aspace_9d3604c26af865cc7b1f7b778be26e25" label="Text [31142063397320]" type="box">1</container><container id="aspace_d71f078bb8ff2655dfa7bec9f806bd9e" parent="aspace_9d3604c26af865cc7b1f7b778be26e25" type="folder">9</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Harvard University - Class of 1934 - 50th Reunion	</unittitle><unitdate normal="1983/1987" type="inclusive">1983-1984, 1987</unitdate><container altrender="Record carton" id="aspace_fa2b8fbfc829ba15f82f18b32296c219" label="Text [31142063397320]" type="box">1</container><container id="aspace_4013dfbb066a18abd669655366963c8a" parent="aspace_fa2b8fbfc829ba15f82f18b32296c219" type="folder">10</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Judge <title render="italic">Pro Tem</title></unittitle><unitdate normal="1989/1994" type="inclusive">1989-1994</unitdate><container altrender="Record carton" id="aspace_2d4de1bcfac47ffeecc258ba77d969c0" label="Text [31142063397320]" type="box">1</container><container id="aspace_e2baf7b313c4857c8e18217fd816d732" parent="aspace_2d4de1bcfac47ffeecc258ba77d969c0" type="folder">11</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Memorial Commitee for Robert Treuhaft	</unittitle><unitdate normal="2002/2002" type="inclusive">Feb 23, 2002</unitdate><container altrender="Record carton" id="aspace_40273ff8d03c2b66fd4a38652e1aed47" label="Text [31142063397320]" type="box">1</container><container id="aspace_83a8f3699bd6011febd96ebb8b23e099" parent="aspace_40273ff8d03c2b66fd4a38652e1aed47" type="folder">12</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Mitford, Jessica - Newspaper Clippings</unittitle><unitdate normal="1981/1989" type="inclusive">1981, 1989, undated</unitdate><container altrender="Record carton" id="aspace_25c59359256e4f86fb43b0ed9631fe53" label="Text [31142063397320]" type="box">1</container><container id="aspace_e13496ff5981c99d517c1dde26ff16f9" parent="aspace_25c59359256e4f86fb43b0ed9631fe53" type="folder">13</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Newspaper Clippings</unittitle><unitdate normal="1944/1993" type="inclusive">1944-1993, undated</unitdate><container altrender="Record carton" id="aspace_fc1d1e79e10d92251c0b68225ff1ab86" label="Text [31142063397320]" type="box">1</container><container id="aspace_377ffdd1083bfc941aac91780aa16494" parent="aspace_fc1d1e79e10d92251c0b68225ff1ab86" type="folder">14</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Notes For Evidence Class at Harvard Law School	</unittitle><unitdate normal="1934/1937" type="inclusive">circa 1934-1937</unitdate><container altrender="Record carton" id="aspace_0d2e7ed48e9d3cefba4a0b74a79fde47" label="Text [31142063397320]" type="box">1</container><container id="aspace_b2537a67f6ae1b2f7635f780b9236c83" parent="aspace_0d2e7ed48e9d3cefba4a0b74a79fde47" type="folder">15</container></did></c><c id="aspace_ref139" level="file"><did><unittitle>Oral History - Robert Treuhaft - Correspondence and Publications <title render="italic">Re</title></unittitle><unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate><container altrender="Record carton" id="aspace_75dea65e2d82100ffc900ca78810d2b5" label="Text [31142063397320]" type="box">1</container><container id="aspace_5e7281927199d48ff55af8d37f23e4dd" parent="aspace_75dea65e2d82100ffc900ca78810d2b5" type="folder">16</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Passports</unittitle><unitdate normal="1937/1979" type="inclusive">1937, 1958, 1969, 1974, 1979</unitdate><container altrender="Record carton" id="aspace_e75035f91ddd724a2e03cd3e939ee327" label="Mixed Materials [31142063397320]" type="box">1</container><container id="aspace_57978f149317941deadc3db898cdd1bb" parent="aspace_e75035f91ddd724a2e03cd3e939ee327" type="folder">17</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Red-Baiting</unittitle><unitdate normal="1943/1944" type="inclusive">1943-1944</unitdate><container altrender="Record carton" id="aspace_0efaeb3ab279949848d3b675fab86f3d" label="Text [31142063397320]" type="box">1</container><container id="aspace_48f6913640c484bbf07f3139fcf6b497" parent="aspace_0efaeb3ab279949848d3b675fab86f3d" type="folder">18</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Red-Baiting</unittitle><unitdate normal="1948/1957" type="inclusive">1948, 1953-1957</unitdate><container altrender="Record carton" id="aspace_bf9c184b9f4815c195d6860cd812f8db" label="Text [31142063397320]" type="box">1</container><container id="aspace_fc6ffc197dbb06ea89e83eb46110bbe8" parent="aspace_bf9c184b9f4815c195d6860cd812f8db" type="folder">19</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Red-Baiting</unittitle><unitdate normal="1964/1969" type="inclusive">1964-1969, undated</unitdate><container altrender="Record carton" id="aspace_25fe3a59ae8b6f877052d711f84610d1" label="Text [31142063397320]" type="box">1</container><container id="aspace_458d37c00346d1063af999e46fbe615e" parent="aspace_25fe3a59ae8b6f877052d711f84610d1" type="folder">20</container></did></c><c id="aspace_ref152" level="file"><did><unittitle><title render="italic">San Francisco</title> Magazine - May 1965 Issue</unittitle><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container altrender="Hollinger Flat OS 14" id="aspace_089d4215e4422c6c647f16b6e03d9a1c" label="Text" type="box">6 (oversized)</container><container id="aspace_dbdc4524c0540fb15b9cd8cdcc2e246d" parent="aspace_089d4215e4422c6c647f16b6e03d9a1c" type="folder">2</container></did></c><c id="aspace_ref150" level="file"><did><unittitle>Treuhaft (Extended) Family Records</unittitle><unitdate normal="1893/1921" type="inclusive">1893-1921</unitdate><container altrender="Hollinger Flat OS 14" id="aspace_5457e43be15fa3d16e2bcd51bd72919c" label="Text" type="box">6 (oversized)</container><container id="aspace_8ada0e648e2f34b51cbdd0e2ecd0dd98" parent="aspace_5457e43be15fa3d16e2bcd51bd72919c" type="folder">2</container></did><scopecontent id="aspace_b232dc0aaccb16926c22cfdec7b8c529"><head>Scope and Content Note</head><p>Announcements of deaths, mainly individuals from the Zipser family, who were probably relatives of the Treuhaft's father or mother, published in Hungarian and German.</p></scopecontent></c><c id="aspace_ref29" level="file"><did><unittitle>Treuhaft for (Alameda County, California) District Attorney Election Campaign - Correspondence, Press Releases, Leaflets, Clippings, Rubber Stamp	</unittitle><unitdate normal="1966/1966" type="inclusive">1966</unitdate><container altrender="Record carton" id="aspace_734cfa7c869561ea8c5f79ade75998c5" label="Mixed Materials [31142063397320]" type="box">1</container><container id="aspace_8206bec8d0de404ad8fc3cc6454ecd56" parent="aspace_734cfa7c869561ea8c5f79ade75998c5" type="folder">21</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Treuhaft for (Alameda County, California) District Attorney Election Campaign - Campaign Contributions Records</unittitle><unitdate normal="1966/1966" type="inclusive">1966</unitdate><container altrender="Record carton" id="aspace_0535ca39272920a1781e1ac60f233709" label="Text [31142063397320]" type="box">1</container><container id="aspace_6298db11a20f3c6d2dfb8a59cd808bf5" parent="aspace_0535ca39272920a1781e1ac60f233709" type="folder">22</container></did></c><c id="aspace_ref153" level="file"><did><unittitle>70th Birthday Celebration</unittitle><unitdate normal="1982/1982" type="inclusive">1982</unitdate><container altrender="Record carton" id="aspace_9bddbb0ca4280d5f8a551289255d5673" label="Text [31142063397338]" type="box">2</container><container id="aspace_0534e38bf0d7353408ce8b25c90089c9" parent="aspace_9bddbb0ca4280d5f8a551289255d5673" type="folder">1</container></did></c></c><c id="aspace_ref37" level="series"><did><unittitle>Correspondence - Business</unittitle><unitdate>1957-2000, undated</unitdate></did><scopecontent id="aspace_40c7aead53eb84a7de59f5ff669a0ad3"><head>Scope and Content Note</head><p>Documents in this series concern business outside of Treuhaft's law firm.  Most are between Treufhaft and his correspondents, but there are also occasional letters to or from Jessica Mitford.  Many of these concern literary matters, including Treuhaft's and Mitford's letters to and from Robert Gottlieb,  their editor at Knopf, about The American Way of Death Revisited, editors of letters of Mitford's published letters, and with potential and actual biographers of Mitford.  Because Treuhaft and Mitford often had, or developed close relationships with business correspondents (they were often friends or became friends)  a considerable amount of the correspondence mixes both personal and business matters.</p></scopecontent><c id="aspace_ref171" level="file"><did><unittitle>Correspondence</unittitle><unitdate>1957-2001</unitdate><container altrender="Record carton" id="aspace_a86791e0ff499f5f400f7e36f76ae738" label="Text [31142063397338]" type="box">2</container><container id="aspace_da83df971e24df18182ccd50f1d08a70" parent="aspace_a86791e0ff499f5f400f7e36f76ae738" type="folder">2</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Correspondence</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_c0a8764395f0e87c1997f38a26f0fc09" label="Text [31142063397338]" type="box">2</container><container id="aspace_bb8787e667a9812a0c5d546bc674ac67" parent="aspace_c0a8764395f0e87c1997f38a26f0fc09" type="folder">10</container></did></c><c id="aspace_ref140" level="file"><did><unittitle>Carlson, Lisa</unittitle><unitdate normal="1997/1997" type="inclusive">1997</unitdate><container altrender="Record carton" id="aspace_9917ac8b31bfc3372071915bb9d3b7f1" label="Text [31142063397320]" type="box">1</container><container id="aspace_14f6740b46878ea07b8303c13b3cc1d9" parent="aspace_9917ac8b31bfc3372071915bb9d3b7f1" type="folder">3</container></did></c><c id="aspace_ref209" level="file"><did><unittitle>Chisholm, Anne (<title render="italic">Re </title>Jessica Mitford Letters)</unittitle><unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate><container altrender="Record carton" id="aspace_f4944b583aa395db3bb0fe8ee7f842cb" label="Text [31142063397338]" type="box">2</container><container id="aspace_03a45883644dfba00f549957023444c8" parent="aspace_f4944b583aa395db3bb0fe8ee7f842cb" type="folder">4</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Gottlieb, Robert--Jessica Mitford</unittitle><unitdate normal="1994/1996" type="inclusive">1994-1996</unitdate><container altrender="Record carton" id="aspace_aca7b4d211013672e44c37fa6340a406" label="Text [31142063397320]" type="box">1</container><container id="aspace_4b04e84eacb16f3d27af51f1995a8422" parent="aspace_aca7b4d211013672e44c37fa6340a406" type="folder">5</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Gottlieb, Robert--Robert Treuhaft</unittitle><unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate><container altrender="Record carton" id="aspace_caba4ed67dadac899b25431fd746e6f3" label="Text [31142063397338]" type="box">2</container><container id="aspace_998bd0bcbfa3b5f5be0f759dfea5400c" parent="aspace_caba4ed67dadac899b25431fd746e6f3" type="folder">6</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Kroeger, Brooke</unittitle><unitdate normal="1998/1998" type="inclusive">1998</unitdate><container altrender="Record carton" id="aspace_5a91118dada66b69105ddfdaa620c954" label="Text [31142063397338]" type="box">2</container><container id="aspace_429804a556c13f9d8206bc5db4082a34" parent="aspace_5a91118dada66b69105ddfdaa620c954" type="folder">7</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Lovell, Mary (<title render="italic">Re</title> Jessica Mitford Biography)</unittitle><unitdate normal="1991/2000" type="inclusive">1991-2000</unitdate><container altrender="Record carton" id="aspace_567b3d79786cb9f48823f7e8743340ef" label="Text [31142063397338]" type="box">2</container><container id="aspace_8c1f60816a4c6a2af2d2bb098b1060f5" parent="aspace_567b3d79786cb9f48823f7e8743340ef" type="folder">8</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Jessica Mitford (Memorial) Professorship (proposed)</unittitle><unitdate normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Record carton" id="aspace_810b8e23506405e3465a51d7dc0447e9" label="Text [31142063397338]" type="box">2</container><container id="aspace_9834196f521be3e1fa0ee6558739a503" parent="aspace_810b8e23506405e3465a51d7dc0447e9" type="folder">9</container></did></c></c><c id="aspace_ref47" level="series"><did><unittitle>Correspondence - Personal</unittitle><unitdate>1931-2001</unitdate></did><scopecontent id="aspace_9727a8fff75c3d7b968694a2cbbcb554"><head>Scope and Content Note</head><p>Correspondents include extended family – Treuhaft's sister and cousins, and Mitford's family, including one of her sisters, Deborah Cavendish, Dutchess of Devonshire. Friends include writers Kay Boyle and Gail Sheehy, with short notes from correspondents as diverse as former cliients, Lawrence Ferlinghetti, Shana Alexander, and Hillary Clinton (as a law student she served a summer internship at Treuhaft's firm; her communication is a note extending condolences to Treuhaft from herself and then-President Clinton upon Mitford's death).</p></scopecontent><c id="aspace_ref51" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1931/1996" type="inclusive">1931-1996</unitdate><container altrender="Record carton" id="aspace_bdba7ffed8f5abe1d8d1c53637d79c4f" label="Text [31142063397338]" type="box">2</container><container id="aspace_289b71b7504bad369c8efc5ec2ec3fe5" parent="aspace_bdba7ffed8f5abe1d8d1c53637d79c4f" type="folder">11</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1997/1999" type="inclusive">1997-1999</unitdate><container altrender="Record carton" id="aspace_3efc9b4a22467912002090ac4f41857b" label="Text [31142063397338]" type="box">2</container><container id="aspace_dd806c1b3f291caba4ba5ef9d01fa1a6" parent="aspace_3efc9b4a22467912002090ac4f41857b" type="folder">12</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="2000/2000" type="inclusive">2000</unitdate><container altrender="Record carton" id="aspace_3fb00c407af49a1e20b4456b8a9d1a0a" label="Text [31142063397338]" type="box">2</container><container id="aspace_a5401bda120a5302192667ad934e1d62" parent="aspace_3fb00c407af49a1e20b4456b8a9d1a0a" type="folder">13</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="2001/2001" type="inclusive">2001</unitdate><container altrender="Record carton" id="aspace_e1dced7620986db5a12a1ab9ff38de7e" label="Text [31142063397338]" type="box">2</container><container id="aspace_35103830c886209ce60abfada3fb9f5c" parent="aspace_e1dced7620986db5a12a1ab9ff38de7e" type="folder">14</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Correspondence</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_679d036a04d555fd1fb553ca8e9f9872" label="Text [31142063397338]" type="box">2</container><container id="aspace_3e3b47fd56f22ed29a2d06b2e322fca9" parent="aspace_679d036a04d555fd1fb553ca8e9f9872" type="folder">15</container></did></c><c id="aspace_ref143" level="file"><did><unittitle>Alexander, Shana (elephants)</unittitle><unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate><container altrender="Record carton" id="aspace_b677e61b21a2f79998b2d1a43383052c" label="Text [31142063397338]" type="box">2</container><container id="aspace_4360f7aab7cc7e936fa2e240e2ef974a" parent="aspace_b677e61b21a2f79998b2d1a43383052c" type="folder">16</container></did></c><c id="aspace_ref142" level="file"><did><unittitle>Family: Benjamin and Robert Treuhaft - Cuba Trip</unittitle><unitdate normal="1995/1995" type="inclusive">1995</unitdate><container altrender="Record carton" id="aspace_3403c4cd8dab80ebcb106b54b5eebc5e" label="Text [31142063397338]" type="box">2</container><container id="aspace_4450ba47a77d4c4037adc720ae378508" parent="aspace_3403c4cd8dab80ebcb106b54b5eebc5e" type="folder">17</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Family: Cavendish, Deborah (Dutchess of Devonshire)</unittitle><unitdate normal="1997/2000" type="inclusive">1997-2000</unitdate><container altrender="Record carton" id="aspace_3d9add13db04b7950a4aba7d89a71e9c" label="Text [31142063397338]" type="box">2</container><container id="aspace_551454c7517d86738e85dd41c3302dc4" parent="aspace_3d9add13db04b7950a4aba7d89a71e9c" type="folder">18</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Family: Guiness, Desmond and Penelope</unittitle><unitdate>1997-2001</unitdate><container altrender="Record carton" id="aspace_b4d6580b3f6ded0828d51e4ab5d20f3f" label="Text [31142063397338]" type="box">2</container><container id="aspace_d7fde65e8113b754c120811e7e56ca78" parent="aspace_b4d6580b3f6ded0828d51e4ab5d20f3f" type="folder">19</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Family: Romilly, Constancia "Dinky"</unittitle><unitdate normal="1997/2000" type="inclusive">1997-2000</unitdate><container altrender="Record carton" id="aspace_bc95954c73a703a76ce318a86dc5c8c8" label="Text [31142063397338]" type="box">2</container><container id="aspace_7090bb7169e2cdb054ee9f437967f674" parent="aspace_bc95954c73a703a76ce318a86dc5c8c8" type="folder">20</container></did></c><c id="aspace_ref141" level="file"><did><unittitle>Family: Treuhaft Family </unittitle><unitdate normal="1961/1994" type="inclusive">1961-1994</unitdate><container altrender="Record carton" id="aspace_cfb59487e766d24a9529ceceb9f64c96" label="Text [31142063397338]" type="box">2</container><container id="aspace_d6cf1d2a897ea0a85de8a10959df33a7" parent="aspace_cfb59487e766d24a9529ceceb9f64c96" type="folder">21</container></did></c><c id="aspace_ref154" level="file"><did><unittitle>Lane, Laura</unittitle><unitdate normal="1995/1996" type="inclusive">1995-1996</unitdate><container altrender="Record carton" id="aspace_fb57f7c0628e5cb7abfe6901aea2fb2c" label="Text [31142063397338]" type="box">2</container><container id="aspace_5ae772a30f5ba71c181e9f89a92c577f" parent="aspace_fb57f7c0628e5cb7abfe6901aea2fb2c" type="folder">22</container></did></c><c id="aspace_ref144" level="file"><did><unittitle>Robert Treuhaft Health</unittitle><unitdate normal="2000/2000" type="inclusive">2000</unitdate><container altrender="Record carton" id="aspace_87ad3a4b8167e0e60316223e8e16e3eb" label="Text [31142063397338]" type="box">2</container><container id="aspace_75df01d824de6ae8ccadee63c25b554e" parent="aspace_87ad3a4b8167e0e60316223e8e16e3eb" type="folder">23</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Travel - England, Europe, Cuba</unittitle><unitdate normal="1994/1997" type="inclusive">1994, 1997</unitdate><container altrender="Record carton" id="aspace_fa1a39b5a55e081a232f7a7e3f27a672" label="Text [31142063397338]" type="box">2</container><container id="aspace_8daffa5f92df01faf610e287e75c6d7f" parent="aspace_fa1a39b5a55e081a232f7a7e3f27a672" type="folder">24</container></did></c></c><c id="aspace_ref62" level="series"><did><unittitle>Law Office/Partnerships</unittitle><unitdate>1944-1993</unitdate></did><scopecontent id="aspace_7296cf8c852f0310e830c240cc0a270f"><head>Scope and Content Note</head><p>While a few formal partnership documents are included, the bulk of the materials in this series are memos and correspondence by office staff as well as attorneys, that pertain to the business and finances and management of running a law firm.  Unusually lively and personal for these types of documents, they also offer a window into the tensions as well as the rewards of working for a firm whose cases pursued equity and democracy and translating those principles into a workplace that reflected them without compromising efficiency and good management. "1440 Broadway" refers to the street address of the office building in Oakland, California, where many of these law firms were located, as well as the offices of progressive organizations  and other radical attorneys over more than three decades.</p></scopecontent><c id="aspace_ref64" level="file"><did><unittitle>1440 Broadway - Correspondence and Clippings</unittitle><unitdate normal="1944/1988" type="inclusive">1944-1981</unitdate><container altrender="Record carton" id="aspace_e09d307f14adbe56e00cc3d2c01bd506" label="Text [31142063397338]" type="box">2</container><container id="aspace_bb6b2d5a78cda718ed9da782a57699ec" parent="aspace_e09d307f14adbe56e00cc3d2c01bd506" type="folder">25</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>1440 Broadway - Correspondence and Clippings</unittitle><unitdate normal="1982/1993" type="inclusive">1982-1993</unitdate><container altrender="Record carton" id="aspace_dcb6d91bf152947040fca8c28793a11c" label="Text [31142063397338]" type="box">2</container><container id="aspace_63c0d4597248fe6b10d7a01be36d3d22" parent="aspace_dcb6d91bf152947040fca8c28793a11c" type="folder">26</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>1440 Broadway - Correspondence and Clippings</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_842992594337b6b96b039cc3f0d0af83" label="Text [31142063397338]" type="box">2</container><container id="aspace_9354451633e4134c4c0a478b19bd8b3f" parent="aspace_842992594337b6b96b039cc3f0d0af83" type="folder">27</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Edises &amp; Treuhaft; Edises, Treuhaft, Grosman and Grogan - Financial Reports</unittitle><unitdate>1950-1962</unitdate><container altrender="Record carton" id="aspace_6a4463fec643de7847d91b8947e46c52" label="Text [31142063397338]" type="box">2</container><container id="aspace_ffd7d268b8eb8acfa9a43b1edd0bb6ed" parent="aspace_6a4463fec643de7847d91b8947e46c52" type="folder">28</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Edises, Treuhaft, Grossman &amp; Grogan - Partnership Dissolution</unittitle><unitdate normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Record carton" id="aspace_f6ebac4171013e4c8d607a9999de295e" label="Text [31142063397338]" type="box">2</container><container id="aspace_70b9a9fd4bf094a312689e451ea8220f" parent="aspace_f6ebac4171013e4c8d607a9999de295e" type="folder">29</container></did></c></c><c id="aspace_ref69" level="series"><did><unittitle>Legal Case Files</unittitle></did><scopecontent id="aspace_bc7067880e556bf476c0a75cf20bea88"><head>Scope and Content Note</head><p>Cases in this series are mostly related to civil rights and civil liberties and efforts to combat racial discrimination and police brutality; they include both those in which Treuhaft's partners or associates represented clients as well as those for which Treuhaft was the lead attorney.  (If not otherwise noted, attorneys are indicated by their initials on their original folders: RET for Treuhaft, DOB for Doris Walker, MB for Malcolm Burnstein).  Clients--defendants, plaintiffs, or targets of grand jury investigations--are mainly progressive or leftwing political organizations and individuals associated with these organizations or individuals involved in cases springing from political events.  Organizations and individuals associated with them include the Black Panther Party, Bobby Seale and Huey Newton; the Free Speech Movement (from the beginning, with the more than 700 arrested, through the appeals process), Mario Savio and Treuhaft himself; Civil Action Day Committee (clients arrested in a civil disobedience action at a draft induction center to protest conscription); and <title render="italic">Berkeley Barb</title> (newspaper), Robert Scheer, John Poland.  Briefs, statements and correspondence document Malcolm Burnstein's defense of eighteen members of the Black Panther Party arrested after its widely-publicized demonstration in front of and inside the California state capitol while armed with deliberately unconcealed rifles.  Documents from this file include handwritten statements from each of the defendants.  Files for Treuhaft clients arrested during the events of People's Park include what appear to be police surveillance photographs and audiotape obtained during the legal discovery process.  Case files for two child custody cases involving controversy over parents' lifestyle include the widely-publicized Mark Painter case.  Treuhaft also represented fellow Bay Area radical attorneys Faye Stender and Charles Garry (both in politically-associated contempt of court-related cases).   A small sample of workers' compensation cases  illustrate Treuhaft's work in this field, in which he specialized nearly exclusively during the last decade of his legal practice.</p></scopecontent><c id="aspace_ref70" level="file"><did><unittitle>Avakian, Robert <title render="italic">et al vs</title>. Advan Inc.</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record carton" id="aspace_976ce2668529e495c38300f3ea6fc8dc" label="Text [31142063397338]" type="box">2</container><container id="aspace_ace70b9c2feec164c1df929d40eb7db0" parent="aspace_976ce2668529e495c38300f3ea6fc8dc" type="folder">30</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Black Panthers (Demonstration in and around California State Capitol and related cases)</unittitle><unitdate>May 2, 1967</unitdate><container altrender="Record carton" id="aspace_b096acc1cbcff67b95508c296c6449ec" label="Text [31142063397338]" type="box">2</container><container id="aspace_c12c5deb4f2fa4eca4117565c5c5c529" parent="aspace_b096acc1cbcff67b95508c296c6449ec" type="folder">31</container></did></c><c id="aspace_ref72" level="file"><did><unittitle><title render="italic">Berkeley Barb </title>- John Poland</unittitle><unitdate>1971</unitdate><container altrender="Record carton" id="aspace_6ac6f481f15a5d44e1130e83453fdcf1" label="Text [31142063397338]" type="box">2</container><container id="aspace_0c4aa55dfe237ba69a0e6806da899a8c" parent="aspace_6ac6f481f15a5d44e1130e83453fdcf1" type="folder">32</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Boyle, Kaye - "Santa Rita"</unittitle><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Record carton" id="aspace_a9964b97548e9e67c66b92880b5145eb" label="Text [31142063397338]" type="box">2</container><container id="aspace_116f1af1b253120fa4f4305f92e5b12d" parent="aspace_a9964b97548e9e67c66b92880b5145eb" type="folder">33</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Civil Action Day Committee - People<title render="italic"> v.</title></unittitle><unitdate normal="1967/1972" type="inclusive">1967-1972</unitdate><container altrender="Record carton" id="aspace_7096e96e45ebf9b1868dd51f96f04bc3" label="Text [31142063397338]" type="box">2</container><container id="aspace_9b472d7d83ca0dc342daba9dd6597175" parent="aspace_7096e96e45ebf9b1868dd51f96f04bc3" type="folder">34</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Comfort, Mark - People <title render="italic">v.</title></unittitle><unitdate normal="1964/1965" type="inclusive">1964</unitdate><container altrender="Record carton" id="aspace_1e25f7b72f1156284008af0679b55c2e" label="Text [31142063397320]" type="box">1</container><container id="aspace_8d22f847d46f7658e612022dade01ed6" parent="aspace_1e25f7b72f1156284008af0679b55c2e" type="folder">35</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Dayton, Mark B. (Subpoenaed by Grand Jury)</unittitle><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Record carton" id="aspace_f02e8baecbec9c56ca26e8fa41ebbc68" label="Text [31142063397338]" type="box">2</container><container id="aspace_f973ca4bb03b31d5c49bbc5ae57a2592" parent="aspace_f02e8baecbec9c56ca26e8fa41ebbc68" type="folder">36</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Douthit, Florence vs. City of Berkeley <title render="italic">et al</title> (<title render="italic">re</title> People's Park conflict)</unittitle><unitdate normal="1969/1971" type="inclusive">1969-1971</unitdate><container altrender="Record carton" id="aspace_1e3fed382e5906bffac07efe07bff883" label="Text [31142063397338]" type="box">2</container><container id="aspace_bd861fb368c8f8dc1af47314f2e6409f" parent="aspace_1e3fed382e5906bffac07efe07bff883" type="folder">37</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>Ester, Semillion (newspaper clippings)</unittitle><unitdate>circa 1980</unitdate><container altrender="Record carton" id="aspace_ee09bb7c98aa76e9044469fd8ef2399f" label="Text [31142063397338]" type="box">2</container><container id="aspace_d7f273c1cad0d3a0e0d6ef1e3ee426b9" parent="aspace_ee09bb7c98aa76e9044469fd8ef2399f" type="folder">38</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Free Speech Movement - Legal Documents and Correspondence</unittitle><unitdate normal="1964/1970" type="inclusive">1964-1970</unitdate><container altrender="Record carton" id="aspace_b097ff89f8cd9fbfa448a498f276ffc4" label="Text [31142063397346]" type="box">3</container><container id="aspace_0ef4e169f237c4092c321b5c3947ed0a" parent="aspace_b097ff89f8cd9fbfa448a498f276ffc4" type="folder">1</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Free Speech Movement - Appeals</unittitle><unitdate>1965-1966</unitdate><container altrender="Record carton" id="aspace_0724178fe9ad1e93fbd6b32e46cc523f" label="Text [31142063397346]" type="box">3</container><container id="aspace_8a1c66e0bcbe6fbc85424898baab8fe5" parent="aspace_0724178fe9ad1e93fbd6b32e46cc523f" type="folder">2</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Frisby, Mrs. Barbara (child custody)</unittitle><unitdate normal="1972/1978" type="inclusive"> 1972-1973, 1978</unitdate><container altrender="Record carton" id="aspace_45332e99b2658217eca718934d67c64d" label="Text [31142063397346]" type="box">3</container><container id="aspace_fbea581ea39940aead15cba07631ce29" parent="aspace_45332e99b2658217eca718934d67c64d" type="folder">3</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Garry, Charles - Petition for Writ</unittitle><unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate><container altrender="Record carton" id="aspace_347c50655af162710814d8dc8fba4bc0" label="Text [31142063397346]" type="box">3</container><container id="aspace_9f98417bb6968e0651572bb624c0ea85" parent="aspace_347c50655af162710814d8dc8fba4bc0" type="folder">4</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>Goldberg, Arthur - People<title render="italic"> v. </title>(<title render="italic">re</title> People's Park conflict)</unittitle><unitdate normal="1969/1971" type="inclusive">1969-1971</unitdate><container altrender="Record carton" id="aspace_45d788d9c371b7d10ff52c78ff4a15a4" label="Mixed Materials [31142063397346]" type="box">3</container><container id="aspace_17b4621bef53bf1a01911c2be7ab57be" parent="aspace_45d788d9c371b7d10ff52c78ff4a15a4" type="folder">5</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>McKinney, Gene Alan [Newton, Huey P. - People<title render="italic"> v.</title> in Matter of Gene Alan McKinney]</unittitle><unitdate normal="1968/1971" type="inclusive">1968, 1971</unitdate><container altrender="Record carton" id="aspace_05e8dca95be6d7b3d5317cbaa572fc87" label="Text [31142063397346]" type="box">3</container><container id="aspace_1340d15c1da5bbf342401c7d9da5ce6f" parent="aspace_05e8dca95be6d7b3d5317cbaa572fc87" type="folder">6</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Mihans, <title render="italic">et al v. </title>Municipal Court - Writ of Review (tenant-landlord dispute)</unittitle><unitdate>1970</unitdate><container altrender="Record carton" id="aspace_89a8064bb5b36809814ee90a10ceb976" label="Text [31142063397346]" type="box">3</container><container id="aspace_7948ad3f11377bdc9bec472140d2effc" parent="aspace_89a8064bb5b36809814ee90a10ceb976" type="folder">7</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Neville, Robert v. Finnish Sauna Baths (racial discrimination)</unittitle><unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate><container altrender="Record carton" id="aspace_da62eea88ea8fb87cac3f5cd8bfff9fd" label="Text [31142063397346]" type="box">3</container><container id="aspace_a6e39a2bc4d225ea1824f170c76c4e3c" parent="aspace_da62eea88ea8fb87cac3f5cd8bfff9fd" type="folder">8</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Olsen, Arthur (IAC &amp; 3rd Party Claim)</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record carton" id="aspace_fd3b42af0af361bd7ff9c0a9a45196c8" label="Text [31142063397346]" type="box">3</container><container id="aspace_93cb0b3a46c99967a5b49128eb90de8e" parent="aspace_fd3b42af0af361bd7ff9c0a9a45196c8" type="folder">9</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Painter, Harold for Mark Painter <title render="italic">vs.</title> Dwight &amp; Margaret Bannister (child custody)</unittitle><unitdate normal="1966/1968" type="inclusive">1966-1968</unitdate><container altrender="Record carton" id="aspace_fc9875b622e243c56a89657f92114333" label="Text [31142063397346]" type="box">3</container><container id="aspace_c647e8b55d783409af75dd2f4fb790d2" parent="aspace_fc9875b622e243c56a89657f92114333" type="folder">10</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>Scheer, Robert "(Berkeley Bust)"</unittitle><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Record carton" id="aspace_35eaf1d82f48d865dd2b7a3086123690" label="Text [31142063397346]" type="box">3</container><container id="aspace_bf825ebd910d4a902038f671e3f69e6e" parent="aspace_35eaf1d82f48d865dd2b7a3086123690" type="folder">11</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>Segal [<title render="italic">sic</title>], Dan (Siegel, Dan)</unittitle><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Record carton" id="aspace_00f134e4eda271c8fc421c0b8461ed23" label="Text [31142063397346]" type="box">3</container><container id="aspace_2a04359361a99b51308c35e376a82bcd" parent="aspace_00f134e4eda271c8fc421c0b8461ed23" type="folder">12</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>Siegel, Dan - People <title render="italic">v. </title>
-</unittitle><unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate><container altrender="Record carton" id="aspace_5dee504f814cba8c0e0a395a7651f50d" label="Mixed Materials [31142063397346]" type="box">3</container><container id="aspace_8b196cccb4ee2ba8493dbdb738c77410" parent="aspace_5dee504f814cba8c0e0a395a7651f50d" type="folder">13</container></did><scopecontent id="aspace_5d0721ba8cc9fdc64138282d99c7b952"><head>Scope and Content Note</head><p>Includes transcript of audiotape recorded of Siegel speaking at an April 15, 1970 rally.</p></scopecontent><separatedmaterial id="aspace_d45f7721d169c1064d81edb77ffb85ac"><head>Separated Materials</head><p>1/4" reel to reel audiotapes of Siegel speaking at an April 15, 1970 rally were removed and housed separately for conservation purposes in an oversized box.</p></separatedmaterial></c><c id="aspace_ref149" level="file"><did><unittitle>Siegel, Dan - Reel to Reel Audiotapes of Speech at Rally </unittitle><unitdate normal="1970/1970" type="inclusive">circa Apr 15, 1970</unitdate><container altrender="Hollinger Flat OS 14" id="aspace_33bd8d97bd8e4d9272dc9b66b4e4a72e" label="Audio" type="box">6 (oversized)</container><container id="aspace_4c7882561df1e5d1986bda1741895bdd" parent="aspace_33bd8d97bd8e4d9272dc9b66b4e4a72e" type="folder">1</container></did><scopecontent id="aspace_53136d80a36f6156964ecc3d1985bbb8"><head>Scope and Content Note</head><p>The larger of two tapes is  labeled, "Tape of Dan Siegel Rotcy rally ..." "Rotcy" may signify ROTC (Reserve Officers' Training Corps).</p></scopecontent><accessrestrict id="aspace_cc9815bff90991d753c2e2c0a440d8b1"><head>Access Restrictions</head><p>Researchers interested in using audio materials in this collection must use a digitized copy, which we refer to as an access copy. The orginal media are not available for playback because of preservation concerns.</p></accessrestrict></c><c id="aspace_ref96" level="file"><did><unittitle>Slaughter, Arlene <title render="italic">v.</title> Berkeley Realty</unittitle><unitdate normal="1964/1967" type="inclusive">1964-1967</unitdate><container altrender="Record carton" id="aspace_d52320531a41cc48b2ee9ac6f4eab8ad" label="Text [31142063397346]" type="box">3</container><container id="aspace_d02167233a389c6c15f5cbf22012d006" parent="aspace_d52320531a41cc48b2ee9ac6f4eab8ad" type="folder">14</container></did></c><c id="aspace_ref102" level="file"><did><unittitle>Spring Mobilization</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record carton" id="aspace_0c86d7a51faf5050aea685d09750d74d" label="Text [31142063397346]" type="box">3</container><container id="aspace_a475e3c0bd453ca9b673cc5730fe89b4" parent="aspace_0c86d7a51faf5050aea685d09750d74d" type="folder">15</container></did></c><c id="aspace_ref97" level="file"><did><unittitle>Stender, Faye (contempt of court)</unittitle><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Record carton" id="aspace_83cfc031f8f2b7e0a808beaa4c2e3f7b" label="Text [31142063397346]" type="box">3</container><container id="aspace_9d5eff25d2a2a1f1d1a3ce70e4a2c6db" parent="aspace_83cfc031f8f2b7e0a808beaa4c2e3f7b" type="folder">16</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>Strong, Barry Stephen</unittitle><unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate><container altrender="Record carton" id="aspace_9c2179dd71dded18555d3d6509bfb006" label="Text [31142063397346]" type="box">3</container><container id="aspace_875c06ee3b43a04b43a4bcfd4aa5b1c5" parent="aspace_9c2179dd71dded18555d3d6509bfb006" type="folder">17</container></did></c><c id="aspace_ref159" level="file"><did><unittitle>Treuhaft, Robert E. - Margolis "Trust" File</unittitle><unitdate normal="1960/1966" type="inclusive">1960-1966</unitdate><container altrender="Record carton" id="aspace_ce3a5487a91d1951683c0e5516bcfcd2" label="Text [31142063397346]" type="box">3</container><container id="aspace_60ac38c15be6eee73f2507805bfae544" parent="aspace_ce3a5487a91d1951683c0e5516bcfcd2" type="folder">18</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Treuhaft, Robert - People <title render="italic">v.</title> (<title render="italic">re </title>Free Speech Movement)</unittitle><unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate><container altrender="Record carton" id="aspace_45c0537a550b14134e6c60f53845615d" label="Text [31142063397346]" type="box">3</container><container id="aspace_aa4e6cc8a719d331833c3b54a413836c" parent="aspace_45c0537a550b14134e6c60f53845615d" type="folder">19</container></did></c><c id="aspace_ref100" level="file"><did><unittitle>Workers' Compensation Cases</unittitle><unitdate normal="1994/1996" type="inclusive">1994-1996</unitdate><container altrender="Record carton" id="aspace_055c93dffa9da5cc65b5ce4052848a6a" label="Text [31142063397346]" type="box">3</container><container id="aspace_f9cdfed094273bfabae3f95b56e8bb6b" parent="aspace_055c93dffa9da5cc65b5ce4052848a6a" type="folder">20</container></did></c></c><c id="aspace_ref168" level="series"><did><unittitle>Miscellaneous</unittitle></did><scopecontent id="aspace_b8e2671e9cc6297ca808adf8c9a45051"><head>Scope and Content Note</head><p>Postcards, leaflets, newspaper clippings.</p></scopecontent><c id="aspace_ref169" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate normal="1962/2001" type="inclusive">1962-2001, undated</unitdate><container altrender="Hollinger Flat OS 14" id="aspace_2ac84da9ec3bfad3d6c3ba0210cf1857" label="Mixed Materials" type="box">6 (oversized)</container><container id="aspace_01de2cb2306e5c44c76aacd01ab0e637" parent="aspace_2ac84da9ec3bfad3d6c3ba0210cf1857" type="folder">3</container></did></c></c><c id="aspace_ref81" level="series"><did><unittitle>Organizations</unittitle></did><scopecontent id="aspace_9bf8113ec6ae10a7fee97391b4258e44"><head>Scope and Content Note</head><p>This series focuses on organizations that Treuhaft worked in or for was a leader in.   Their broad range reflect the broad range of his interests and involvement in public and professional life and politics,  from the Civil Rights Congress  (racial discrimination and the Communist Party),  to the National Lawyers Guild (professional legal and social issues), to the International Association of Democratic Lawyers (international human rights) and the Consumers Co-Operative of Berkeley (community service) to his appointment  to the California  State Board of Funeral Directors and Embalmers (a direct result of his research for and association with Mitford's expose of the funeral industry in <title render="italic">The American Way of Death</title>).</p></scopecontent><c id="aspace_ref19" level="file"><did><unittitle>California Board of Legal Specialization - Certificates and Related Materials</unittitle><unitdate normal="1995/1996" type="inclusive">1995-1996</unitdate><container altrender="Record carton" id="aspace_a3958c8ca9edc1fa4648af4aa9cd75a2" label="Text [31142063397312]" type="box">4</container><container id="aspace_ef6a5d5a56061a0fe63ed86cda9ba438" parent="aspace_a3958c8ca9edc1fa4648af4aa9cd75a2" type="folder">3</container></did></c><c id="aspace_ref158" level="file"><did><unittitle>California State Board of Funeral Directors and Embalmers - Minutes, Memoranda, Reports</unittitle><unitdate normal="1982/1982" type="inclusive">1982</unitdate><container altrender="Record carton" id="aspace_abdd8124f1deaba566ce0bedaccfb2d4" label="Text [31142063397312]" type="box">4</container><container id="aspace_f8fe2ebb47e00d82199fbd7ee6664b7d" parent="aspace_abdd8124f1deaba566ce0bedaccfb2d4" type="folder">1</container></did></c><c id="aspace_ref156" level="file"><did><unittitle>California State Board of Funeral Directors and Embalmers - Newspaper Clippings, Articles, Brief</unittitle><unitdate normal="1965/1989" type="inclusive">1965-1989</unitdate><container altrender="Record carton" id="aspace_d254736df7f32f4fffd6c18d13335604" label="Text [31142063397312]" type="box">4</container><container id="aspace_a3bd20fd1cbafcd8ad3db2188bdb5d48" parent="aspace_d254736df7f32f4fffd6c18d13335604" type="folder">2</container></did></c><c id="aspace_ref104" level="file"><did><unittitle>Civil Rights Congress</unittitle><unitdate normal="1945/1971" type="inclusive">1945-1971, undated</unitdate><container altrender="Record carton" id="aspace_4e229863f253ae6dc4432697d73e9e62" label="Text [31142063397312]" type="box">4</container><container id="aspace_6025f89390bdc332e1523094d5e0d7a9" parent="aspace_4e229863f253ae6dc4432697d73e9e62" type="folder">4</container></did></c><c id="aspace_ref105" level="file"><did><unittitle>Consumers' Cooperative of Berkeley (Berkeley Co-op) Election Campaign - Correspondence, Leaflets, Documents</unittitle><origination label="Creator"><corpname rules="dacs" source="naf">Consumers Cooperative of Berkeley</corpname></origination><unitdate normal="1963/1969" type="inclusive">1963-1969, undated</unitdate><container altrender="Record carton" id="aspace_336a9c37727cb54a657282f2bc0686d7" label="Text [31142063397312]" type="box">4</container><container id="aspace_9807b2a5dd67a8a331ac64211a696548" parent="aspace_336a9c37727cb54a657282f2bc0686d7" type="folder">5</container></did></c><c id="aspace_ref106" level="file"><did><unittitle>Cooperative League of America - CIA Controversy</unittitle><unitdate normal="1965/1973" type="inclusive">1965-1973, undated</unitdate><container altrender="Record carton" id="aspace_90eebf36c800e2af71eecda8dc5ef47a" label="Text [31142063397312]" type="box">4</container><container id="aspace_54efbe58ebb50450058793539a166d57" parent="aspace_90eebf36c800e2af71eecda8dc5ef47a" type="folder">6</container></did></c><c id="aspace_ref107" level="file"><did><unittitle>Free Speech Movement (University of California, Berkeley) - Student Leaflets and Publications</unittitle><unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate><container altrender="Record carton" id="aspace_b452abcc3613c2abdb3ec9c145de46a6" label="Text [31142063397312]" type="box">4</container><container id="aspace_d19f01b2ac00e078bc9943a0ee9d0041" parent="aspace_b452abcc3613c2abdb3ec9c145de46a6" type="folder">7</container></did></c><c id="aspace_ref108" level="file"><did><unittitle>Free Speech Movement (University of California, Berkeley) - Newspaper Clippings and Articles</unittitle><unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate><container altrender="Record carton" id="aspace_427ab0b0d20d4bceb6f318767e8855c7" label="Text [31142063397312]" type="box">4</container><container id="aspace_58c6f80a3aa3a27a33665023f2fad981" parent="aspace_427ab0b0d20d4bceb6f318767e8855c7" type="folder">8</container></did></c><c id="aspace_ref109" level="file"><did><unittitle>Free Speech Movement (University of California, Berkeley) - Newspaper Clippings and Articles (Retrospective)</unittitle><unitdate normal="1980/1984" type="inclusive">1980, 1984</unitdate><container altrender="Record carton" id="aspace_48c4f290a88271d27b6c9540bf362105" label="Text [31142063397312]" type="box">4</container><container id="aspace_e38d69d7819fdaa1295ef8031779d860" parent="aspace_48c4f290a88271d27b6c9540bf362105" type="folder">9</container></did></c><c id="aspace_ref112" level="file"><did><unittitle>International Association of Democratic Lawyers (IADL) – Annual Convention - Documents, Correspondence, Reports</unittitle><unitdate normal="1964/1964" type="inclusive">1964</unitdate><container altrender="Record carton" id="aspace_4428efe335887a1765e220e0651014aa" label="Text [31142063397312]" type="box">4</container><container id="aspace_647d261ce05a061f5e612f62b7034a31" parent="aspace_4428efe335887a1765e220e0651014aa" type="folder">10</container></did></c><c id="aspace_ref114" level="file"><did><unittitle>International Association of Democratic Lawyers (IADL) – Mission of Inquiry to Okinawa</unittitle><unitdate normal="1972/1996" type="inclusive">1972, 1989, 1996</unitdate><container altrender="Record carton" id="aspace_b158f067da73c7ab208fd5146b4e4efd" label="Text [31142063397312]" type="box">4</container><container id="aspace_156f3520961c71c1ab78fedd9b1b1e85" parent="aspace_b158f067da73c7ab208fd5146b4e4efd" type="folder">11</container></did></c><c id="aspace_ref116" level="file"><did><unittitle>International Association of Democratic Lawyers (IADL) – Mission of Inquiry to Okinawa - Newspaper Clippings and Publications <title render="italic">Re</title></unittitle><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Record carton" id="aspace_b07685ddf9c45789a2eae5fd8f9174dd" label="Text [31142063397312]" type="box">4</container><container id="aspace_1c97b4a78a5d758a54606947a8f3dade" parent="aspace_b07685ddf9c45789a2eae5fd8f9174dd" type="folder">12</container></did></c><c id="aspace_ref117" level="file"><did><unittitle>International Association of Democratic Lawyers (IADL) – Mission of Inquiry to Okinawa - Newspaper Clippings and Publications <title render="italic">Re</title></unittitle><unitdate normal="1970/1970" type="inclusive">1970, undated</unitdate><container altrender="Record carton" id="aspace_f176ea5830808cbf36521f720aad18a6" label="Text [31142063397312]" type="box">4</container><container id="aspace_dbc02c0dc7e4789f80cab66b70bc531f" parent="aspace_f176ea5830808cbf36521f720aad18a6" type="folder">13</container></did></c><c id="aspace_ref111" level="file"><did><unittitle>International Association of Democratic Lawyers (IADL) – Mission of Inquiry to Okinawa - Notes, Correspondence, Reports from Trip</unittitle><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Record carton" id="aspace_dc1752015812f5fab079edafe3b54172" label="Text [31142063397312]" type="box">4</container><container id="aspace_bbd38ebfa2021e1c568d242c42c8e4e8" parent="aspace_dc1752015812f5fab079edafe3b54172" type="folder">14</container></did></c><c id="aspace_ref118" level="file"><did><unittitle>International Association of Democratic Lawyers (IADL) – Mission of Inquiry to Okinawa - Research Documents for - Collection of Published Legislation of United States High Commissioner of Ryukyu Islands</unittitle><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Record carton" id="aspace_e97e10576a23a7102b51f38cde9a615d" label="Text [31142063397312]" type="box">4</container><container id="aspace_225d17dfd617c6541316513b9d6526aa" parent="aspace_e97e10576a23a7102b51f38cde9a615d" type="folder">15</container></did></c><c id="aspace_ref115" level="file"><did><unittitle>International Association of Democratic Lawyers (IADL) – Mission of Inquiry to Okinawa - Research Documents for - "Ryukyu Islands Fact Book" Publication of Department of the Army - United States Civil Administration of the Ryukyu Islands</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record carton" id="aspace_7967b432aad0d65220af29685fb293f2" label="Text [31142063397312]" type="box">4</container><container id="aspace_a903962ec9afc13fb2d1e766d1ad2187" parent="aspace_7967b432aad0d65220af29685fb293f2" type="folder">16</container></did></c><c id="aspace_ref110" level="file"><did><unittitle>International Association of Democratic Lawyers (IADL) - Mission of Inquiry to Portugal</unittitle><unitdate normal="1964/1966" type="inclusive">1964-1966</unitdate><container altrender="Record carton" id="aspace_34108ae60ec8e4dac363c0c65b892c7b" label="Text [31142063397312]" type="box">4</container><container id="aspace_842699265767ed6d5fb9b2f4dbb3b99c" parent="aspace_34108ae60ec8e4dac363c0c65b892c7b" type="folder">17</container></did></c><c id="aspace_ref120" level="file"><did><unittitle>National Lawyers Guild</unittitle><unitdate normal="1968/1985" type="inclusive">1968,1985</unitdate><container altrender="Record carton" id="aspace_24f084b6da85c9fb501143020b7501a5" label="Text [31142063397312]" type="box">4</container><container id="aspace_c334b31b7d15cc8e0bfdd0dcf202e5c3" parent="aspace_24f084b6da85c9fb501143020b7501a5" type="folder">18</container></did></c></c><c id="aspace_ref82" level="series"><did><unittitle>Political Issues/Activism</unittitle><unitdate>1962-1989</unitdate></did><scopecontent id="aspace_8e9b12225f38b6c289408528f0c5a8eb"><head>Scope and Content Note</head><p>Subject files on these issues containing newspaper clippings and leaflets.</p></scopecontent><c id="aspace_ref124" level="file"><did><unittitle>Cuba Missile Crisis</unittitle><unitdate normal="1962/1962" type="inclusive">1962</unitdate><container altrender="Record carton" id="aspace_5ed7d8a60a817972dfca9b0be2b626d1" label="Text [31142063397312]" type="box">4</container><container id="aspace_1beb5eecef8b550981d65ab0b62508dc" parent="aspace_5ed7d8a60a817972dfca9b0be2b626d1" type="folder">19</container></did></c><c id="aspace_ref123" level="file"><did><unittitle>Nuclear Disarmament</unittitle><unitdate>circa 1960s</unitdate><container altrender="Record carton" id="aspace_a037fed8f5f51868af79ea636d1b6f5d" label="Text [31142063397312]" type="box">4</container><container id="aspace_e5d2a397111f9218ce6e42eca726c194" parent="aspace_a037fed8f5f51868af79ea636d1b6f5d" type="folder">20</container></did></c><c id="aspace_ref163" level="file"><did><unittitle>People's Park - 20th Anniversary</unittitle><unitdate normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Record carton" id="aspace_4cdef77b787add0bb890930673fb4641" label="Text [31142063397312]" type="box">4</container><container id="aspace_f11a4dcb0102436ab3d207a2dcc39e86" parent="aspace_4cdef77b787add0bb890930673fb4641" type="folder">21</container></did></c><c id="aspace_ref151" level="file"><did><unittitle>Vietnam War - Petition Against (reprints of one published in <title render="italic">San Francisco Chronicle</title>)</unittitle><unitdate normal="1964/1964" type="inclusive">1964</unitdate><container altrender="Hollinger Flat OS 14" id="aspace_728ad8e3576b7ca7eb6df29d9cd1ff44" label="Text" type="box">6 (oversized)</container><container id="aspace_46d12eef1e2610866e2a3b7dab068b55" parent="aspace_728ad8e3576b7ca7eb6df29d9cd1ff44" type="folder">4</container></did></c><c id="aspace_ref125" level="file"><did><unittitle>Vietnam War</unittitle><unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate><container altrender="Record carton" id="aspace_3b0c4b713931f64a2cc27867fed72504" label="Text [31142063397312]" type="box">4</container><container id="aspace_2c2edc66b0cf33b441116b45fbce014f" parent="aspace_3b0c4b713931f64a2cc27867fed72504" type="folder">22</container></did></c></c><c id="aspace_ref121" level="series"><did><unittitle>Research</unittitle><unitdate>1961-1996</unitdate></did><scopecontent id="aspace_2a56843f48734e0834a7ec0f433fb886"><head>Scope and Content Note</head><p>Documents in this series include some of the research  materials gathered by Treuhaft while working with Mitford on <title render="italic">The American Way of Death</title>, and for her expose of "The Famous Writers School."</p></scopecontent><c id="aspace_ref126" level="file"><did><unittitle>Bowline (formerly "Famous Writers")</unittitle><unitdate normal="1980/1996" type="inclusive"> 1980, 1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_313e14895e34bcc87603543c68c5506d" label="Text [31142063397353]" type="box">5</container><container id="aspace_e15b7239214822e8f9f27b15a73ba9b4" parent="aspace_313e14895e34bcc87603543c68c5506d" type="folder">1</container></did></c><c id="aspace_ref127" level="file"><did><unittitle>Collector's Guild</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_eab201eb6317302a8c5398aad0f98e2f" label="Text [31142063397353]" type="box">5</container><container id="aspace_341c01b3268e97bad2c1ef935dd3da5c" parent="aspace_eab201eb6317302a8c5398aad0f98e2f" type="folder">2</container></did></c><c id="aspace_ref128" level="file"><did><unittitle>Famous Writers School (following publication of July 1970 article on)</unittitle><unitdate normal="1961/1972" type="inclusive">1961-1972</unitdate><container altrender="Manuscript box - Legal" id="aspace_775281dd75a7fa6f400ce4ccf9487ae9" label="Text [31142063397353]" type="box">5</container><container id="aspace_f98eb182c408e99a701f00c5a30bd18d" parent="aspace_775281dd75a7fa6f400ce4ccf9487ae9" type="folder">3</container></did></c><c id="aspace_ref129" level="file"><did><unittitle>Funerals</unittitle><unitdate normal="1963/1965" type="inclusive">1963-1965</unitdate><container altrender="Manuscript box - Legal" id="aspace_e1589b773c65d90b7c70c20555d28b09" label="Text [31142063397353]" type="box">5</container><container id="aspace_26aaf5f7acd8a4afcc1c3eaf08f88a57" parent="aspace_e1589b773c65d90b7c70c20555d28b09" type="folder">4</container></did></c></c><c id="aspace_ref122" level="series"><did><unittitle>Writings</unittitle></did><scopecontent id="aspace_56ffe336b9e867d05946ca828f33e873"><head>Scope and Content Note</head><p>This series includes speeches and articles--published and unpublished--written by Robert Treuhaft.  The files of  poetry mostly consist of humorous rhyming doggerel written by Treuhaft and Mitford (either in tandem or separately) or on occasion by their friends (including poets and  writers like Lawrence Ferlinghetti and Paul Jarrico), produced for particular private celebrations like birthdays, anniversaries, and parties, and replete with topical and political as well as personal and biographical references.  Also included is an internal Communist Party document--a short resolution drafted by Jessica Mitford and submitted to the National Board of the Communist Party of the United States (CPUSA) on behalf of the Twin Peaks Club, a Bay Area branch of the CPUSA.</p></scopecontent><c id="aspace_ref130" level="file"><did><unittitle>"The Academy and the First Amendment" (speech) - Manuscript, Clippings, Correspondence, Research Materials</unittitle><unitdate>1968</unitdate><container altrender="Manuscript box - Legal" id="aspace_0f52da16d12ad55011f71e0eb266d330" label="Text [31142063397353]" type="box">5</container><container id="aspace_dc93378398f82427f3cb3e2c6bbcdcb4" parent="aspace_0f52da16d12ad55011f71e0eb266d330" type="folder">5</container></did></c><c id="aspace_ref162" level="file"><did><unittitle>"Criticism of the National Board: Resolution and Some Proposed Changes" (by Decca Treuhaft on behalf of Twin Peaks Club, California Communist Party)</unittitle><unitdate>circa 1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_385ef3260f6e62cbdb46cbcb486598ec" label="Text [31142063397353]" type="box">5</container><container id="aspace_5440c347d9da2a8e1a1b816d394bc5bb" parent="aspace_385ef3260f6e62cbdb46cbcb486598ec" type="folder">6</container></did></c><c id="aspace_ref132" level="file"><did><unittitle>"From a Seat on California's Board of Funeral Directors and Embalmers" -  Manuscripts, Correspondence, Clippings(for unpublished article for <title render="italic">New York Times</title>)</unittitle><unitdate normal="1976/1978" type="inclusive">1976-1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_dcc1091415e1ad41861d6cd88ed6dc99" label="Text [31142063397353]" type="box">5</container><container id="aspace_75d0a86e91c4e61ac6165e41f06438f3" parent="aspace_dcc1091415e1ad41861d6cd88ed6dc99" type="folder">8</container></did><c id="aspace_ref131" level="file"><did><unittitle>"Debtors' Rights and Remedies" (published in <title render="italic">California Family Lawyer</title>)</unittitle><unitdate normal="1962/1962" type="inclusive">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_9d1285beecf5589d502c3295830f3f7d" label="Text [31142063397353]" type="box">5</container><container id="aspace_736f87fdd67248a6e44498bfbecc4fdb" parent="aspace_9d1285beecf5589d502c3295830f3f7d" type="folder">7</container></did><scopecontent id="aspace_f8f79b27ef05a29d94fef3f43ffab653"><head>Scope and Content Note</head><p>No Subnote Content</p></scopecontent></c></c><c id="aspace_ref133" level="file"><did><unittitle>"Naming Namers: A Reunion to Remember" (published in <title render="italic">The Nation</title>)</unittitle><unitdate normal="1984/1984" type="inclusive">1984</unitdate><container altrender="Manuscript box - Legal" id="aspace_d831c6e0f37145d6c7bf363cf1738c44" label="Text [31142063397353]" type="box">5</container><container id="aspace_f432f46d67bf9dae14b1389d24af08aa" parent="aspace_d831c6e0f37145d6c7bf363cf1738c44" type="folder">9</container></did></c><c id="aspace_ref134" level="file"><did><unittitle>Poetry</unittitle><unitdate normal="1958/1990" type="inclusive">1958-1990, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_04d96d80bf293b97fecc3993b3c0ee63" label="Text [31142063397353]" type="box">5</container><container id="aspace_c56825d43796e6672e6ed70082628d43" parent="aspace_04d96d80bf293b97fecc3993b3c0ee63" type="folder">10</container></did></c><c id="aspace_ref136" level="file"><did><unittitle>Poetry</unittitle><unitdate normal="1974/1974" type="inclusive">1974; undated </unitdate><container altrender="Manuscript box - Legal" id="aspace_020fd2f7b5f0bfc4ae50edad88c61f3b" label="Text [31142063397353]" type="box">5</container><container id="aspace_19823bade9859e310f888add7744bf68" parent="aspace_020fd2f7b5f0bfc4ae50edad88c61f3b" type="folder">11</container></did></c><c id="aspace_ref135" level="file"><did><unittitle>Poetry</unittitle><unitdate normal="1965/1996" type="inclusive">1965-1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_94ca0f341b5e5bfffc3316459b8c5575" label="Text [31142063397353]" type="box">5</container><container id="aspace_106313a75cb52e3e5a0c9af3a9039b7a" parent="aspace_94ca0f341b5e5bfffc3316459b8c5575" type="folder">12</container></did></c></c><c id="aspace_ref172" level="series"><did><unittitle>Wills</unittitle><unitdate normal="1966/1999" type="inclusive">1966-1999</unitdate><unitdate normal="1970/1985" type="bulk">1970-1985</unitdate><container altrender="Record carton" id="aspace_7864ff1fd3aa7afd3311946256aab69d" label="Text [31142063397361]" type="box">7</container></did><arrangement id="aspace_4ca8ec7ffb1561f4c55d1ca1559fdd8f"><head>Arrangement</head><p>The files are arranged alphabetically by client last name.</p></arrangement><scopecontent id="aspace_99c173258bd00078e12f1de68d30d7fb"><head>Scope and Content Note</head><p>While the testaments in this series include those of some family members and friends and a sprinkling were drafted for people with public profiles (such as Mario Savio and writer Kay Boyle), most of them were drawn up for purely private individuals.  These wills illustrate that in even his "non-political" work,  Treuhaft was consistent in his commitment to representing individuals from underserved groups and ordinary people of modest means, including members of Oakland's African-American community, where Treuhaft had a strong client base as a result of his well-known work as a civil rights attorney.</p></scopecontent></c></dsc>
-</archdesc>
+Robert Treuhaft was also active in progressive attorneys' organizations such as the National Lawyers Guild (he served as a vice president and was honored by it, along with Mitford, with a testimonial dinner in 1985).  As a member of the International Association of Democratic Lawyers (IADL) he served on an mission to Portugal in 1964 to investigate torture of political prisoners (as a result he and fellow commission members were arrested and expelled from the country by the authoritarian government of Antonio Salazar), and to Okinawa in 1969 to investigate human rights violations by the United States.</p>
+      <p>Treuhaft and Jessica Mitford joined the Communist Party of the United States of America (CPUSA) in 1943 and remained members until 1958.  Treuhaft  provided legal representation for "unfriendly" witnesses subpoenaed by the U.S. House of Representatives' Un-American Activities Committee (HUAC).  He himself and Mitford were called to testify before the Committee in 1953.  They refused to "name names," (that is, identify for the Committee their own or others' political affiliations or memberships). Treuhaft took issue publicly with those who did, including in a 1984 article in <title render="italic">The Nation</title> on his Harvard class' 50th reunion. As a consequence of this, and their other political activities the Treuhafts were constantly surveilled and frequently harassed by federal, state, and local government agencies, up to and including being denied passports.</p>
+      <p>Treuhaft and Mitford raised two children to adulthood—Benjamin, their second son (another son, Nicholas, died at age ten), and Constancia "Dinky" Romilly, Mitford's daughter from her first marriage.  Jessica Mitford died in 1996.  Treuhaft completed <title render="italic">The American Way of Death Revisited</title> (published 1998), the update of <title render="italic">The American Way of Death</title> Mitford had been working on at the time of her death.  Robert Treuhaft died on November 11, 2001.</p>
+    </bioghist>
+    <prefercite id="aspace_0342e2f9c8177a4c4b272f5d09da1f77">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Robert E. Treuhaft Papers; TAM 664; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_585d9a1c3c332d13410e9d8f053eb747">
+      <head>Processing Information</head>
+      <p>With the exception of the wills series, all of the materials in this collection have been re-foldered into archival folders and placed in archival boxes.  In most cases original folder titles were retained.  In those instances where an original folder itself could be considered a document (that is, it had notes or other information other than title or date written on it), the original folder (or part of it) was retained and filed in the new folder with the original documents.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_571a780d679e1cc89d2e1355cf2633ec">
+      <head>Related Archival Materials</head>
+      <p>Jessica Mitford Collection, Rare Books and Manuscripts Library, Ohio State University. 
+Jessica Mitford Papers, Harry Ransom Center, University of Texas at Austin.</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_1efa036b06e6aeac6d78249efef5346a">
+      <head>Scope and Content Note</head>
+      <p>This collection consists of legal case files, business and personal correspondence,  internal memos, FOIA files, published and unpublished writings, newspaper clippings,  and other materials that document much of the public and political life, and some of the private life, of Robert Treuhaft.   They also document political/civil liberties legal cases stemming from a number of historic events of the 1960s, the Free Speech Movement, People's Park, and the march on the California State capitol by members of the Black Panther Party.</p>
+    </scopecontent>
+    <phystech id="aspace_6d985c0090f5b5345b711bbb91c18be5">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <separatedmaterial id="aspace_12a0e3f7a2980afc852d293ba91cd91e">
+      <head>Separated Materials</head>
+      <p>1/4" audiotapes originally in folder "Siegel, Dan People v. folder (give #?)</p>
+    </separatedmaterial>
+    <userestrict id="aspace_0813950b70e67a246a673ac6c2d55752">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by Robert E. Treuhaft, the creator of this collection, were relinquished and transferred to the public domain in 2015 by Benjamin Treuhaft and Constancia Romilly. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/.</p>
+    </userestrict>
+    <bibliography id="aspace_f848cc8026cb6fa5c34de53b1f7a8a82">
+      <head>Bibliography</head>
+      <bibref>Larsen, Robert. Treuhaft, Robert E.  Berkeley Historical Society. Oakland, California, 1988-1989. "Left-Wing Political Activist and Progressive Leader in the Berkeley Co-op Robert E. Treuhaft." Consumers Cooperative of Berkeley Oral History Collection. http://content.cdlib.org/ark:/13030/kt4x0nb0bf/</bibref>
+      <bibref>Lewis, Paul. "Robert Treuhaft, 89, Lawyer Who Inspired Funeral Exposé." <title render="italic">New York Times</title>,  December 2, 2001. http://www.nytimes.com/2001/12/02/us/robert-treuhaft-89-lawyer-who-inspired-funeral-expose.html</bibref>
+      <bibref>Lisker, Susan. "Treuhaft, Walker, Brown and Cooper:  An Unusual Law Firm." University of California, Berkeley, 1976.</bibref>
+      <bibref>Mitford, Jessica. <title render="italic">A Fine Old Conflict.</title> New York: Alfred A. Knopf , 1977.</bibref>
+      <bibref>"National Lawyers Guild Bay Area Testimonial Dinner 1985--Jessica Mitford, Robert Treuhaft Honorees." (program)</bibref>
+      <bibref>Oliver, Myrna. "Robert Treuhaft, 89; Crusading Attorney."<title render="italic"> Los Angeles Times</title>, November 16, 2001. http://articles.latimes.com/2001/nov/16/local/me-4896</bibref>
+      <bibref>Wilmot, Ingrid. "Dining In,' [profile of Robert Treuhaft], <title render="italic">San Francisco Magazine</title>, May 1965, p.54.</bibref>
+    </bibliography>
+    <controlaccess>
+      <genreform source="aat">Legal files.</genreform>
+      <subject source="lcsh">Lawyers -- Political activity -- United States.</subject>
+      <genreform source="aat">Wills</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Legal correspondence.</genreform>
+      <subject source="lcsh">People's Park (Berkeley, Calif.) -- History.</subject>
+      <genreform source="aat">Black-and-white photographs.</genreform>
+      <genreform source="aat">Audiotapes.</genreform>
+      <corpname source="naf">Black Panther Party</corpname>
+      <persname role="dnr" rules="dacs" source="local">Treuhaft, Benjamin</persname>
+      <corpname rules="dacs" source="naf">Free Speech Movement (Berkeley, Calif.)</corpname>
+      <corpname source="naf">International Association of Democratic Lawyers</corpname>
+      <persname role="dnr" rules="dacs" source="local">Romilly, Constancia</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref8" level="series">
+        <did>
+          <unittitle>Biographical</unittitle>
+          <unitdate>1893-2002</unitdate>
+        </did>
+        <scopecontent id="aspace_5d8a05a9d4096de0ed687ce364ecaffe">
+          <head>Scope and Content Note</head>
+          <p>Documents in this series include passports (which document Treuhaft's travels as early as the summer of 1937 when he visited England, France and Italy, as well as, Austria, Germany and Hungary, as well as later travels to England, Hungary, Portugal, and the Soviet Union),  report cards and grades from elementary school as well as for Harvard University, class notes for an evidence class at Harvard Law School, announcements and notes for a 50th reunion of his Harvard class about which he wrote an article in The Nation; copies of his FBI and CIA "files" obtained through FOIA requests.  Correspondence and receipts in the "red-baiting" folders (as they were originally labeled by Treuhaft or his office staff) document extensively his efforts to defend himself from attempts to dismiss him from his job at the Office of Price Adminstration on political grounds.  These same files contain numerous newspaper clippings, leaflets and publications report on the course of much of his political activity, albeit often in a biased or distorted manner, including accusations and attacks in the right-wing press and a scurrilous newsletter from a local Communist Party group; even an insurance claim that documenting what may have be a politically motivated deliberate damage to Treuhaft's automobile.</p>
+        </scopecontent>
+        <c id="aspace_ref138" level="file">
+          <did>
+            <unittitle>Datebook, Calendar, and Address Books</unittitle>
+            <unitdate normal="1933/1936" type="inclusive">1933-1934, 1936</unitdate>
+            <container altrender="Record carton" id="aspace_2fb65c0a13af05295b039c041588905d" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_9a0541849a396a836a50bac7bfae32d3" parent="aspace_2fb65c0a13af05295b039c041588905d" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Datebook, Calendar, and Address Book	</unittitle>
+            <unitdate normal="1950/1959" type="inclusive">1950s</unitdate>
+            <container altrender="Record carton" id="aspace_58e816c4d51f16e92d4bc0c7732dd149" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_8d5f111d1cdffd3e4eb0e780e9c65b82" parent="aspace_58e816c4d51f16e92d4bc0c7732dd149" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Datebook, Calendar, and Address Books	</unittitle>
+            <unitdate normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container altrender="Record carton" id="aspace_cf80902cf60ab47bb51fc65569fc9e10" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_e4e4bbce2fb79e557f2380ce0038774f" parent="aspace_cf80902cf60ab47bb51fc65569fc9e10" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Datebook, Calendar, and Address Books	</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container altrender="Record carton" id="aspace_2c4af74ee1421c368dcff649c4c6c7a4" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_fdcc3868bb5c4b6b5b9bf8899b2b47d3" parent="aspace_2c4af74ee1421c368dcff649c4c6c7a4" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Elementary and Junior High School Report Cards; Diptheria Vaccination Certificate	</unittitle>
+            <unitdate normal="1920/1925" type="inclusive">1920-1925</unitdate>
+            <container altrender="Record carton" id="aspace_205943158086551da197b45778b52caf" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_02de37983de82ea935251494c66067c1" parent="aspace_205943158086551da197b45778b52caf" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>FOIA - Documents from CIA	</unittitle>
+            <unitdate normal="1964/1976" type="inclusive">1964-1969, 1976</unitdate>
+            <container altrender="Record carton" id="aspace_85c599b05929bda01e80168570a1a4f7" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_97d1cc7cc32af4e91d1ea7d91c7afff5" parent="aspace_85c599b05929bda01e80168570a1a4f7" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>FOIA - Documents from FBI 	</unittitle>
+            <unitdate normal="1945/1972" type="inclusive">1945-circa 1972</unitdate>
+            <container altrender="Record carton" id="aspace_16c85b400f8d4a349c401744a3be482b" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_c061433da0ee136d26b0783bc9d1558f" parent="aspace_16c85b400f8d4a349c401744a3be482b" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Freedom of Information Act - Suit Against the FBI and National Archives	</unittitle>
+            <unitdate normal="1975/1983" type="inclusive">1975-1983</unitdate>
+            <container altrender="Record carton" id="aspace_dc41b94e00dbbe6c1f17f8547dc31c98" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_5b0b5dd5e95002ec23870a8701d85213" parent="aspace_dc41b94e00dbbe6c1f17f8547dc31c98" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Harvard University </unittitle>
+            <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+            <container altrender="Record carton" id="aspace_9d3604c26af865cc7b1f7b778be26e25" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_d71f078bb8ff2655dfa7bec9f806bd9e" parent="aspace_9d3604c26af865cc7b1f7b778be26e25" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Harvard University - Class of 1934 - 50th Reunion	</unittitle>
+            <unitdate normal="1983/1987" type="inclusive">1983-1984, 1987</unitdate>
+            <container altrender="Record carton" id="aspace_fa2b8fbfc829ba15f82f18b32296c219" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_4013dfbb066a18abd669655366963c8a" parent="aspace_fa2b8fbfc829ba15f82f18b32296c219" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Judge <title render="italic">Pro Tem</title></unittitle>
+            <unitdate normal="1989/1994" type="inclusive">1989-1994</unitdate>
+            <container altrender="Record carton" id="aspace_2d4de1bcfac47ffeecc258ba77d969c0" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_e2baf7b313c4857c8e18217fd816d732" parent="aspace_2d4de1bcfac47ffeecc258ba77d969c0" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Memorial Commitee for Robert Treuhaft	</unittitle>
+            <unitdate normal="2002/2002" type="inclusive">Feb 23, 2002</unitdate>
+            <container altrender="Record carton" id="aspace_40273ff8d03c2b66fd4a38652e1aed47" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_83a8f3699bd6011febd96ebb8b23e099" parent="aspace_40273ff8d03c2b66fd4a38652e1aed47" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Mitford, Jessica - Newspaper Clippings</unittitle>
+            <unitdate normal="1981/1989" type="inclusive">1981, 1989, undated</unitdate>
+            <container altrender="Record carton" id="aspace_25c59359256e4f86fb43b0ed9631fe53" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_e13496ff5981c99d517c1dde26ff16f9" parent="aspace_25c59359256e4f86fb43b0ed9631fe53" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate normal="1944/1993" type="inclusive">1944-1993, undated</unitdate>
+            <container altrender="Record carton" id="aspace_fc1d1e79e10d92251c0b68225ff1ab86" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_377ffdd1083bfc941aac91780aa16494" parent="aspace_fc1d1e79e10d92251c0b68225ff1ab86" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Notes For Evidence Class at Harvard Law School	</unittitle>
+            <unitdate normal="1934/1937" type="inclusive">circa 1934-1937</unitdate>
+            <container altrender="Record carton" id="aspace_0d2e7ed48e9d3cefba4a0b74a79fde47" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_b2537a67f6ae1b2f7635f780b9236c83" parent="aspace_0d2e7ed48e9d3cefba4a0b74a79fde47" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref139" level="file">
+          <did>
+            <unittitle>Oral History - Robert Treuhaft - Correspondence and Publications <title render="italic">Re</title></unittitle>
+            <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <container altrender="Record carton" id="aspace_75dea65e2d82100ffc900ca78810d2b5" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_5e7281927199d48ff55af8d37f23e4dd" parent="aspace_75dea65e2d82100ffc900ca78810d2b5" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Passports</unittitle>
+            <unitdate normal="1937/1979" type="inclusive">1937, 1958, 1969, 1974, 1979</unitdate>
+            <container altrender="Record carton" id="aspace_e75035f91ddd724a2e03cd3e939ee327" label="Mixed Materials [31142063397320]" type="box">1</container>
+            <container id="aspace_57978f149317941deadc3db898cdd1bb" parent="aspace_e75035f91ddd724a2e03cd3e939ee327" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Red-Baiting</unittitle>
+            <unitdate normal="1943/1944" type="inclusive">1943-1944</unitdate>
+            <container altrender="Record carton" id="aspace_0efaeb3ab279949848d3b675fab86f3d" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_48f6913640c484bbf07f3139fcf6b497" parent="aspace_0efaeb3ab279949848d3b675fab86f3d" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Red-Baiting</unittitle>
+            <unitdate normal="1948/1957" type="inclusive">1948, 1953-1957</unitdate>
+            <container altrender="Record carton" id="aspace_bf9c184b9f4815c195d6860cd812f8db" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_fc6ffc197dbb06ea89e83eb46110bbe8" parent="aspace_bf9c184b9f4815c195d6860cd812f8db" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Red-Baiting</unittitle>
+            <unitdate normal="1964/1969" type="inclusive">1964-1969, undated</unitdate>
+            <container altrender="Record carton" id="aspace_25fe3a59ae8b6f877052d711f84610d1" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_458d37c00346d1063af999e46fbe615e" parent="aspace_25fe3a59ae8b6f877052d711f84610d1" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref152" level="file">
+          <did>
+            <unittitle><title render="italic">San Francisco</title> Magazine - May 1965 Issue</unittitle>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container altrender="Hollinger Flat OS 14" id="aspace_089d4215e4422c6c647f16b6e03d9a1c" label="Text" type="box">6 (oversized)</container>
+            <container id="aspace_dbdc4524c0540fb15b9cd8cdcc2e246d" parent="aspace_089d4215e4422c6c647f16b6e03d9a1c" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref150" level="file">
+          <did>
+            <unittitle>Treuhaft (Extended) Family Records</unittitle>
+            <unitdate normal="1893/1921" type="inclusive">1893-1921</unitdate>
+            <container altrender="Hollinger Flat OS 14" id="aspace_5457e43be15fa3d16e2bcd51bd72919c" label="Text" type="box">6 (oversized)</container>
+            <container id="aspace_8ada0e648e2f34b51cbdd0e2ecd0dd98" parent="aspace_5457e43be15fa3d16e2bcd51bd72919c" type="folder">2</container>
+          </did>
+          <scopecontent id="aspace_b232dc0aaccb16926c22cfdec7b8c529">
+            <head>Scope and Content Note</head>
+            <p>Announcements of deaths, mainly individuals from the Zipser family, who were probably relatives of the Treuhaft's father or mother, published in Hungarian and German.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Treuhaft for (Alameda County, California) District Attorney Election Campaign - Correspondence, Press Releases, Leaflets, Clippings, Rubber Stamp	</unittitle>
+            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+            <container altrender="Record carton" id="aspace_734cfa7c869561ea8c5f79ade75998c5" label="Mixed Materials [31142063397320]" type="box">1</container>
+            <container id="aspace_8206bec8d0de404ad8fc3cc6454ecd56" parent="aspace_734cfa7c869561ea8c5f79ade75998c5" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Treuhaft for (Alameda County, California) District Attorney Election Campaign - Campaign Contributions Records</unittitle>
+            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+            <container altrender="Record carton" id="aspace_0535ca39272920a1781e1ac60f233709" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_6298db11a20f3c6d2dfb8a59cd808bf5" parent="aspace_0535ca39272920a1781e1ac60f233709" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref153" level="file">
+          <did>
+            <unittitle>70th Birthday Celebration</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container altrender="Record carton" id="aspace_9bddbb0ca4280d5f8a551289255d5673" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_0534e38bf0d7353408ce8b25c90089c9" parent="aspace_9bddbb0ca4280d5f8a551289255d5673" type="folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref37" level="series">
+        <did>
+          <unittitle>Correspondence - Business</unittitle>
+          <unitdate>1957-2000, undated</unitdate>
+        </did>
+        <scopecontent id="aspace_40c7aead53eb84a7de59f5ff669a0ad3">
+          <head>Scope and Content Note</head>
+          <p>Documents in this series concern business outside of Treuhaft's law firm.  Most are between Treufhaft and his correspondents, but there are also occasional letters to or from Jessica Mitford.  Many of these concern literary matters, including Treuhaft's and Mitford's letters to and from Robert Gottlieb,  their editor at Knopf, about The American Way of Death Revisited, editors of letters of Mitford's published letters, and with potential and actual biographers of Mitford.  Because Treuhaft and Mitford often had, or developed close relationships with business correspondents (they were often friends or became friends)  a considerable amount of the correspondence mixes both personal and business matters.</p>
+        </scopecontent>
+        <c id="aspace_ref171" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate>1957-2001</unitdate>
+            <container altrender="Record carton" id="aspace_a86791e0ff499f5f400f7e36f76ae738" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_da83df971e24df18182ccd50f1d08a70" parent="aspace_a86791e0ff499f5f400f7e36f76ae738" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_c0a8764395f0e87c1997f38a26f0fc09" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_bb8787e667a9812a0c5d546bc674ac67" parent="aspace_c0a8764395f0e87c1997f38a26f0fc09" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="file">
+          <did>
+            <unittitle>Carlson, Lisa</unittitle>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container altrender="Record carton" id="aspace_9917ac8b31bfc3372071915bb9d3b7f1" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_14f6740b46878ea07b8303c13b3cc1d9" parent="aspace_9917ac8b31bfc3372071915bb9d3b7f1" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref209" level="file">
+          <did>
+            <unittitle>Chisholm, Anne (<title render="italic">Re </title>Jessica Mitford Letters)</unittitle>
+            <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
+            <container altrender="Record carton" id="aspace_f4944b583aa395db3bb0fe8ee7f842cb" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_03a45883644dfba00f549957023444c8" parent="aspace_f4944b583aa395db3bb0fe8ee7f842cb" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Gottlieb, Robert--Jessica Mitford</unittitle>
+            <unitdate normal="1994/1996" type="inclusive">1994-1996</unitdate>
+            <container altrender="Record carton" id="aspace_aca7b4d211013672e44c37fa6340a406" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_4b04e84eacb16f3d27af51f1995a8422" parent="aspace_aca7b4d211013672e44c37fa6340a406" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Gottlieb, Robert--Robert Treuhaft</unittitle>
+            <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
+            <container altrender="Record carton" id="aspace_caba4ed67dadac899b25431fd746e6f3" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_998bd0bcbfa3b5f5be0f759dfea5400c" parent="aspace_caba4ed67dadac899b25431fd746e6f3" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Kroeger, Brooke</unittitle>
+            <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+            <container altrender="Record carton" id="aspace_5a91118dada66b69105ddfdaa620c954" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_429804a556c13f9d8206bc5db4082a34" parent="aspace_5a91118dada66b69105ddfdaa620c954" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Lovell, Mary (<title render="italic">Re</title> Jessica Mitford Biography)</unittitle>
+            <unitdate normal="1991/2000" type="inclusive">1991-2000</unitdate>
+            <container altrender="Record carton" id="aspace_567b3d79786cb9f48823f7e8743340ef" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_8c1f60816a4c6a2af2d2bb098b1060f5" parent="aspace_567b3d79786cb9f48823f7e8743340ef" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Jessica Mitford (Memorial) Professorship (proposed)</unittitle>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container altrender="Record carton" id="aspace_810b8e23506405e3465a51d7dc0447e9" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_9834196f521be3e1fa0ee6558739a503" parent="aspace_810b8e23506405e3465a51d7dc0447e9" type="folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref47" level="series">
+        <did>
+          <unittitle>Correspondence - Personal</unittitle>
+          <unitdate>1931-2001</unitdate>
+        </did>
+        <scopecontent id="aspace_9727a8fff75c3d7b968694a2cbbcb554">
+          <head>Scope and Content Note</head>
+          <p>Correspondents include extended family – Treuhaft's sister and cousins, and Mitford's family, including one of her sisters, Deborah Cavendish, Dutchess of Devonshire. Friends include writers Kay Boyle and Gail Sheehy, with short notes from correspondents as diverse as former cliients, Lawrence Ferlinghetti, Shana Alexander, and Hillary Clinton (as a law student she served a summer internship at Treuhaft's firm; her communication is a note extending condolences to Treuhaft from herself and then-President Clinton upon Mitford's death).</p>
+        </scopecontent>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1931/1996" type="inclusive">1931-1996</unitdate>
+            <container altrender="Record carton" id="aspace_bdba7ffed8f5abe1d8d1c53637d79c4f" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_289b71b7504bad369c8efc5ec2ec3fe5" parent="aspace_bdba7ffed8f5abe1d8d1c53637d79c4f" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1997/1999" type="inclusive">1997-1999</unitdate>
+            <container altrender="Record carton" id="aspace_3efc9b4a22467912002090ac4f41857b" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_dd806c1b3f291caba4ba5ef9d01fa1a6" parent="aspace_3efc9b4a22467912002090ac4f41857b" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+            <container altrender="Record carton" id="aspace_3fb00c407af49a1e20b4456b8a9d1a0a" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_a5401bda120a5302192667ad934e1d62" parent="aspace_3fb00c407af49a1e20b4456b8a9d1a0a" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+            <container altrender="Record carton" id="aspace_e1dced7620986db5a12a1ab9ff38de7e" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_35103830c886209ce60abfada3fb9f5c" parent="aspace_e1dced7620986db5a12a1ab9ff38de7e" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_679d036a04d555fd1fb553ca8e9f9872" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_3e3b47fd56f22ed29a2d06b2e322fca9" parent="aspace_679d036a04d555fd1fb553ca8e9f9872" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref143" level="file">
+          <did>
+            <unittitle>Alexander, Shana (elephants)</unittitle>
+            <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
+            <container altrender="Record carton" id="aspace_b677e61b21a2f79998b2d1a43383052c" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_4360f7aab7cc7e936fa2e240e2ef974a" parent="aspace_b677e61b21a2f79998b2d1a43383052c" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref142" level="file">
+          <did>
+            <unittitle>Family: Benjamin and Robert Treuhaft - Cuba Trip</unittitle>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container altrender="Record carton" id="aspace_3403c4cd8dab80ebcb106b54b5eebc5e" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_4450ba47a77d4c4037adc720ae378508" parent="aspace_3403c4cd8dab80ebcb106b54b5eebc5e" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Family: Cavendish, Deborah (Dutchess of Devonshire)</unittitle>
+            <unitdate normal="1997/2000" type="inclusive">1997-2000</unitdate>
+            <container altrender="Record carton" id="aspace_3d9add13db04b7950a4aba7d89a71e9c" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_551454c7517d86738e85dd41c3302dc4" parent="aspace_3d9add13db04b7950a4aba7d89a71e9c" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Family: Guiness, Desmond and Penelope</unittitle>
+            <unitdate>1997-2001</unitdate>
+            <container altrender="Record carton" id="aspace_b4d6580b3f6ded0828d51e4ab5d20f3f" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_d7fde65e8113b754c120811e7e56ca78" parent="aspace_b4d6580b3f6ded0828d51e4ab5d20f3f" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Family: Romilly, Constancia "Dinky"</unittitle>
+            <unitdate normal="1997/2000" type="inclusive">1997-2000</unitdate>
+            <container altrender="Record carton" id="aspace_bc95954c73a703a76ce318a86dc5c8c8" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_7090bb7169e2cdb054ee9f437967f674" parent="aspace_bc95954c73a703a76ce318a86dc5c8c8" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="file">
+          <did>
+            <unittitle>Family: Treuhaft Family </unittitle>
+            <unitdate normal="1961/1994" type="inclusive">1961-1994</unitdate>
+            <container altrender="Record carton" id="aspace_cfb59487e766d24a9529ceceb9f64c96" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_d6cf1d2a897ea0a85de8a10959df33a7" parent="aspace_cfb59487e766d24a9529ceceb9f64c96" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref154" level="file">
+          <did>
+            <unittitle>Lane, Laura</unittitle>
+            <unitdate normal="1995/1996" type="inclusive">1995-1996</unitdate>
+            <container altrender="Record carton" id="aspace_fb57f7c0628e5cb7abfe6901aea2fb2c" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_5ae772a30f5ba71c181e9f89a92c577f" parent="aspace_fb57f7c0628e5cb7abfe6901aea2fb2c" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref144" level="file">
+          <did>
+            <unittitle>Robert Treuhaft Health</unittitle>
+            <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+            <container altrender="Record carton" id="aspace_87ad3a4b8167e0e60316223e8e16e3eb" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_75df01d824de6ae8ccadee63c25b554e" parent="aspace_87ad3a4b8167e0e60316223e8e16e3eb" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Travel - England, Europe, Cuba</unittitle>
+            <unitdate normal="1994/1997" type="inclusive">1994, 1997</unitdate>
+            <container altrender="Record carton" id="aspace_fa1a39b5a55e081a232f7a7e3f27a672" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_8daffa5f92df01faf610e287e75c6d7f" parent="aspace_fa1a39b5a55e081a232f7a7e3f27a672" type="folder">24</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref62" level="series">
+        <did>
+          <unittitle>Law Office/Partnerships</unittitle>
+          <unitdate>1944-1993</unitdate>
+        </did>
+        <scopecontent id="aspace_7296cf8c852f0310e830c240cc0a270f">
+          <head>Scope and Content Note</head>
+          <p>While a few formal partnership documents are included, the bulk of the materials in this series are memos and correspondence by office staff as well as attorneys, that pertain to the business and finances and management of running a law firm.  Unusually lively and personal for these types of documents, they also offer a window into the tensions as well as the rewards of working for a firm whose cases pursued equity and democracy and translating those principles into a workplace that reflected them without compromising efficiency and good management. "1440 Broadway" refers to the street address of the office building in Oakland, California, where many of these law firms were located, as well as the offices of progressive organizations  and other radical attorneys over more than three decades.</p>
+        </scopecontent>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>1440 Broadway - Correspondence and Clippings</unittitle>
+            <unitdate normal="1944/1988" type="inclusive">1944-1981</unitdate>
+            <container altrender="Record carton" id="aspace_e09d307f14adbe56e00cc3d2c01bd506" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_bb6b2d5a78cda718ed9da782a57699ec" parent="aspace_e09d307f14adbe56e00cc3d2c01bd506" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>1440 Broadway - Correspondence and Clippings</unittitle>
+            <unitdate normal="1982/1993" type="inclusive">1982-1993</unitdate>
+            <container altrender="Record carton" id="aspace_dcb6d91bf152947040fca8c28793a11c" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_63c0d4597248fe6b10d7a01be36d3d22" parent="aspace_dcb6d91bf152947040fca8c28793a11c" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>1440 Broadway - Correspondence and Clippings</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_842992594337b6b96b039cc3f0d0af83" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_9354451633e4134c4c0a478b19bd8b3f" parent="aspace_842992594337b6b96b039cc3f0d0af83" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Edises &amp; Treuhaft; Edises, Treuhaft, Grosman and Grogan - Financial Reports</unittitle>
+            <unitdate>1950-1962</unitdate>
+            <container altrender="Record carton" id="aspace_6a4463fec643de7847d91b8947e46c52" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_ffd7d268b8eb8acfa9a43b1edd0bb6ed" parent="aspace_6a4463fec643de7847d91b8947e46c52" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Edises, Treuhaft, Grossman &amp; Grogan - Partnership Dissolution</unittitle>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container altrender="Record carton" id="aspace_f6ebac4171013e4c8d607a9999de295e" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_70b9a9fd4bf094a312689e451ea8220f" parent="aspace_f6ebac4171013e4c8d607a9999de295e" type="folder">29</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref69" level="series">
+        <did>
+          <unittitle>Legal Case Files</unittitle>
+        </did>
+        <scopecontent id="aspace_bc7067880e556bf476c0a75cf20bea88">
+          <head>Scope and Content Note</head>
+          <p>Cases in this series are mostly related to civil rights and civil liberties and efforts to combat racial discrimination and police brutality; they include both those in which Treuhaft's partners or associates represented clients as well as those for which Treuhaft was the lead attorney.  (If not otherwise noted, attorneys are indicated by their initials on their original folders: RET for Treuhaft, DOB for Doris Walker, MB for Malcolm Burnstein).  Clients--defendants, plaintiffs, or targets of grand jury investigations--are mainly progressive or leftwing political organizations and individuals associated with these organizations or individuals involved in cases springing from political events.  Organizations and individuals associated with them include the Black Panther Party, Bobby Seale and Huey Newton; the Free Speech Movement (from the beginning, with the more than 700 arrested, through the appeals process), Mario Savio and Treuhaft himself; Civil Action Day Committee (clients arrested in a civil disobedience action at a draft induction center to protest conscription); and <title render="italic">Berkeley Barb</title> (newspaper), Robert Scheer, John Poland.  Briefs, statements and correspondence document Malcolm Burnstein's defense of eighteen members of the Black Panther Party arrested after its widely-publicized demonstration in front of and inside the California state capitol while armed with deliberately unconcealed rifles.  Documents from this file include handwritten statements from each of the defendants.  Files for Treuhaft clients arrested during the events of People's Park include what appear to be police surveillance photographs and audiotape obtained during the legal discovery process.  Case files for two child custody cases involving controversy over parents' lifestyle include the widely-publicized Mark Painter case.  Treuhaft also represented fellow Bay Area radical attorneys Faye Stender and Charles Garry (both in politically-associated contempt of court-related cases).   A small sample of workers' compensation cases  illustrate Treuhaft's work in this field, in which he specialized nearly exclusively during the last decade of his legal practice.</p>
+        </scopecontent>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Avakian, Robert <title render="italic">et al vs</title>. Advan Inc.</unittitle>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Record carton" id="aspace_976ce2668529e495c38300f3ea6fc8dc" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_ace70b9c2feec164c1df929d40eb7db0" parent="aspace_976ce2668529e495c38300f3ea6fc8dc" type="folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Black Panthers (Demonstration in and around California State Capitol and related cases)</unittitle>
+            <unitdate>May 2, 1967</unitdate>
+            <container altrender="Record carton" id="aspace_b096acc1cbcff67b95508c296c6449ec" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_c12c5deb4f2fa4eca4117565c5c5c529" parent="aspace_b096acc1cbcff67b95508c296c6449ec" type="folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle><title render="italic">Berkeley Barb </title>- John Poland</unittitle>
+            <unitdate>1971</unitdate>
+            <container altrender="Record carton" id="aspace_6ac6f481f15a5d44e1130e83453fdcf1" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_0c4aa55dfe237ba69a0e6806da899a8c" parent="aspace_6ac6f481f15a5d44e1130e83453fdcf1" type="folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Boyle, Kaye - "Santa Rita"</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container altrender="Record carton" id="aspace_a9964b97548e9e67c66b92880b5145eb" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_116f1af1b253120fa4f4305f92e5b12d" parent="aspace_a9964b97548e9e67c66b92880b5145eb" type="folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Civil Action Day Committee - People<title render="italic"> v.</title></unittitle>
+            <unitdate normal="1967/1972" type="inclusive">1967-1972</unitdate>
+            <container altrender="Record carton" id="aspace_7096e96e45ebf9b1868dd51f96f04bc3" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_9b472d7d83ca0dc342daba9dd6597175" parent="aspace_7096e96e45ebf9b1868dd51f96f04bc3" type="folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Comfort, Mark - People <title render="italic">v.</title></unittitle>
+            <unitdate normal="1964/1965" type="inclusive">1964</unitdate>
+            <container altrender="Record carton" id="aspace_1e25f7b72f1156284008af0679b55c2e" label="Text [31142063397320]" type="box">1</container>
+            <container id="aspace_8d22f847d46f7658e612022dade01ed6" parent="aspace_1e25f7b72f1156284008af0679b55c2e" type="folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Dayton, Mark B. (Subpoenaed by Grand Jury)</unittitle>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Record carton" id="aspace_f02e8baecbec9c56ca26e8fa41ebbc68" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_f973ca4bb03b31d5c49bbc5ae57a2592" parent="aspace_f02e8baecbec9c56ca26e8fa41ebbc68" type="folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Douthit, Florence vs. City of Berkeley <title render="italic">et al</title> (<title render="italic">re</title> People's Park conflict)</unittitle>
+            <unitdate normal="1969/1971" type="inclusive">1969-1971</unitdate>
+            <container altrender="Record carton" id="aspace_1e3fed382e5906bffac07efe07bff883" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_bd861fb368c8f8dc1af47314f2e6409f" parent="aspace_1e3fed382e5906bffac07efe07bff883" type="folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Ester, Semillion (newspaper clippings)</unittitle>
+            <unitdate>circa 1980</unitdate>
+            <container altrender="Record carton" id="aspace_ee09bb7c98aa76e9044469fd8ef2399f" label="Text [31142063397338]" type="box">2</container>
+            <container id="aspace_d7f273c1cad0d3a0e0d6ef1e3ee426b9" parent="aspace_ee09bb7c98aa76e9044469fd8ef2399f" type="folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Free Speech Movement - Legal Documents and Correspondence</unittitle>
+            <unitdate normal="1964/1970" type="inclusive">1964-1970</unitdate>
+            <container altrender="Record carton" id="aspace_b097ff89f8cd9fbfa448a498f276ffc4" label="Text [31142063397346]" type="box">3</container>
+            <container id="aspace_0ef4e169f237c4092c321b5c3947ed0a" parent="aspace_b097ff89f8cd9fbfa448a498f276ffc4" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Free Speech Movement - Appeals</unittitle>
+            <unitdate>1965-1966</unitdate>
+            <container altrender="Record carton" id="aspace_0724178fe9ad1e93fbd6b32e46cc523f" label="Text [31142063397346]" type="box">3</container>
+            <container id="aspace_8a1c66e0bcbe6fbc85424898baab8fe5" parent="aspace_0724178fe9ad1e93fbd6b32e46cc523f" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Frisby, Mrs. Barbara (child custody)</unittitle>
+            <unitdate normal="1972/1978" type="inclusive"> 1972-1973, 1978</unitdate>
+            <container altrender="Record carton" id="aspace_45332e99b2658217eca718934d67c64d" label="Text [31142063397346]" type="box">3</container>
+            <container id="aspace_fbea581ea39940aead15cba07631ce29" parent="aspace_45332e99b2658217eca718934d67c64d" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Garry, Charles - Petition for Writ</unittitle>
+            <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container altrender="Record carton" id="aspace_347c50655af162710814d8dc8fba4bc0" label="Text [31142063397346]" type="box">3</container>
+            <container id="aspace_9f98417bb6968e0651572bb624c0ea85" parent="aspace_347c50655af162710814d8dc8fba4bc0" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Goldberg, Arthur - People<title render="italic"> v. </title>(<title render="italic">re</title> People's Park conflict)</unittitle>
+            <unitdate normal="1969/1971" type="inclusive">1969-1971</unitdate>
+            <container altrender="Record carton" id="aspace_45d788d9c371b7d10ff52c78ff4a15a4" label="Mixed Materials [31142063397346]" type="box">3</container>
+            <container id="aspace_17b4621bef53bf1a01911c2be7ab57be" parent="aspace_45d788d9c371b7d10ff52c78ff4a15a4" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>McKinney, Gene Alan [Newton, Huey P. - People<title render="italic"> v.</title> in Matter of Gene Alan McKinney]</unittitle>
+            <unitdate normal="1968/1971" type="inclusive">1968, 1971</unitdate>
+            <container altrender="Record carton" id="aspace_05e8dca95be6d7b3d5317cbaa572fc87" label="Text [31142063397346]" type="box">3</container>
+            <container id="aspace_1340d15c1da5bbf342401c7d9da5ce6f" parent="aspace_05e8dca95be6d7b3d5317cbaa572fc87" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Mihans, <title render="italic">et al v. </title>Municipal Court - Writ of Review (tenant-landlord dispute)</unittitle>
+            <unitdate>1970</unitdate>
+            <container altrender="Record carton" id="aspace_89a8064bb5b36809814ee90a10ceb976" label="Text [31142063397346]" type="box">3</container>
+            <container id="aspace_7948ad3f11377bdc9bec472140d2effc" parent="aspace_89a8064bb5b36809814ee90a10ceb976" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Neville, Robert v. Finnish Sauna Baths (racial discrimination)</unittitle>
+            <unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container altrender="Record carton" id="aspace_da62eea88ea8fb87cac3f5cd8bfff9fd" label="Text [31142063397346]" type="box">3</container>
+            <container id="aspace_a6e39a2bc4d225ea1824f170c76c4e3c" parent="aspace_da62eea88ea8fb87cac3f5cd8bfff9fd" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Olsen, Arthur (IAC &amp; 3rd Party Claim)</unittitle>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container altrender="Record carton" id="aspace_fd3b42af0af361bd7ff9c0a9a45196c8" label="Text [31142063397346]" type="box">3</container>
+            <container id="aspace_93cb0b3a46c99967a5b49128eb90de8e" parent="aspace_fd3b42af0af361bd7ff9c0a9a45196c8" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Painter, Harold for Mark Painter <title render="italic">vs.</title> Dwight &amp; Margaret Bannister (child custody)</unittitle>
+            <unitdate normal="1966/1968" type="inclusive">1966-1968</unitdate>
+            <container altrender="Record carton" id="aspace_fc9875b622e243c56a89657f92114333" label="Text [31142063397346]" type="box">3</container>
+            <container id="aspace_c647e8b55d783409af75dd2f4fb790d2" parent="aspace_fc9875b622e243c56a89657f92114333" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Scheer, Robert "(Berkeley Bust)"</unittitle>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Record carton" id="aspace_35eaf1d82f48d865dd2b7a3086123690" label="Text [31142063397346]" type="box">3</container>
+            <container id="aspace_bf825ebd910d4a902038f671e3f69e6e" parent="aspace_35eaf1d82f48d865dd2b7a3086123690" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Segal [<title render="italic">sic</title>], Dan (Siegel, Dan)</unittitle>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container altrender="Record carton" id="aspace_00f134e4eda271c8fc421c0b8461ed23" label="Text [31142063397346]" type="box">3</container>
+            <container id="aspace_2a04359361a99b51308c35e376a82bcd" parent="aspace_00f134e4eda271c8fc421c0b8461ed23" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Siegel, Dan - People <title render="italic">v. </title>
+</unittitle>
+            <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container altrender="Record carton" id="aspace_5dee504f814cba8c0e0a395a7651f50d" label="Mixed Materials [31142063397346]" type="box">3</container>
+            <container id="aspace_8b196cccb4ee2ba8493dbdb738c77410" parent="aspace_5dee504f814cba8c0e0a395a7651f50d" type="folder">13</container>
+          </did>
+          <scopecontent id="aspace_5d0721ba8cc9fdc64138282d99c7b952">
+            <head>Scope and Content Note</head>
+            <p>Includes transcript of audiotape recorded of Siegel speaking at an April 15, 1970 rally.</p>
+          </scopecontent>
+          <separatedmaterial id="aspace_d45f7721d169c1064d81edb77ffb85ac">
+            <head>Separated Materials</head>
+            <p>1/4" reel to reel audiotapes of Siegel speaking at an April 15, 1970 rally were removed and housed separately for conservation purposes in an oversized box.</p>
+          </separatedmaterial>
+        </c>
+        <c id="aspace_ref149" level="file">
+          <did>
+            <unittitle>Siegel, Dan - Reel to Reel Audiotapes of Speech at Rally </unittitle>
+            <unitdate normal="1970/1970" type="inclusive">circa Apr 15, 1970</unitdate>
+            <container altrender="Hollinger Flat OS 14" id="aspace_33bd8d97bd8e4d9272dc9b66b4e4a72e" label="Audio" type="box">6 (oversized)</container>
+            <container id="aspace_4c7882561df1e5d1986bda1741895bdd" parent="aspace_33bd8d97bd8e4d9272dc9b66b4e4a72e" type="folder">1</container>
+          </did>
+          <scopecontent id="aspace_53136d80a36f6156964ecc3d1985bbb8">
+            <head>Scope and Content Note</head>
+            <p>The larger of two tapes is  labeled, "Tape of Dan Siegel Rotcy rally ..." "Rotcy" may signify ROTC (Reserve Officers' Training Corps).</p>
+          </scopecontent>
+          <accessrestrict id="aspace_cc9815bff90991d753c2e2c0a440d8b1">
+            <head>Access Restrictions</head>
+            <p>Researchers interested in using audio materials in this collection must use a digitized copy, which we refer to as an access copy. The orginal media are not available for playback because of preservation concerns.</p>
+          </accessrestrict>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Slaughter, Arlene <title render="italic">v.</title> Berkeley Realty</unittitle>
+            <unitdate normal="1964/1967" type="inclusive">1964-1967</unitdate>
+            <container altrender="Record carton" id="aspace_d52320531a41cc48b2ee9ac6f4eab8ad" label="Text [31142063397346]" type="box">3</container>
+            <container id="aspace_d02167233a389c6c15f5cbf22012d006" parent="aspace_d52320531a41cc48b2ee9ac6f4eab8ad" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Spring Mobilization</unittitle>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Record carton" id="aspace_0c86d7a51faf5050aea685d09750d74d" label="Text [31142063397346]" type="box">3</container>
+            <container id="aspace_a475e3c0bd453ca9b673cc5730fe89b4" parent="aspace_0c86d7a51faf5050aea685d09750d74d" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Stender, Faye (contempt of court)</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container altrender="Record carton" id="aspace_83cfc031f8f2b7e0a808beaa4c2e3f7b" label="Text [31142063397346]" type="box">3</container>
+            <container id="aspace_9d5eff25d2a2a1f1d1a3ce70e4a2c6db" parent="aspace_83cfc031f8f2b7e0a808beaa4c2e3f7b" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Strong, Barry Stephen</unittitle>
+            <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
+            <container altrender="Record carton" id="aspace_9c2179dd71dded18555d3d6509bfb006" label="Text [31142063397346]" type="box">3</container>
+            <container id="aspace_875c06ee3b43a04b43a4bcfd4aa5b1c5" parent="aspace_9c2179dd71dded18555d3d6509bfb006" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref159" level="file">
+          <did>
+            <unittitle>Treuhaft, Robert E. - Margolis "Trust" File</unittitle>
+            <unitdate normal="1960/1966" type="inclusive">1960-1966</unitdate>
+            <container altrender="Record carton" id="aspace_ce3a5487a91d1951683c0e5516bcfcd2" label="Text [31142063397346]" type="box">3</container>
+            <container id="aspace_60ac38c15be6eee73f2507805bfae544" parent="aspace_ce3a5487a91d1951683c0e5516bcfcd2" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Treuhaft, Robert - People <title render="italic">v.</title> (<title render="italic">re </title>Free Speech Movement)</unittitle>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container altrender="Record carton" id="aspace_45c0537a550b14134e6c60f53845615d" label="Text [31142063397346]" type="box">3</container>
+            <container id="aspace_aa4e6cc8a719d331833c3b54a413836c" parent="aspace_45c0537a550b14134e6c60f53845615d" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Workers' Compensation Cases</unittitle>
+            <unitdate normal="1994/1996" type="inclusive">1994-1996</unitdate>
+            <container altrender="Record carton" id="aspace_055c93dffa9da5cc65b5ce4052848a6a" label="Text [31142063397346]" type="box">3</container>
+            <container id="aspace_f9cdfed094273bfabae3f95b56e8bb6b" parent="aspace_055c93dffa9da5cc65b5ce4052848a6a" type="folder">20</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref168" level="series">
+        <did>
+          <unittitle>Miscellaneous</unittitle>
+        </did>
+        <scopecontent id="aspace_b8e2671e9cc6297ca808adf8c9a45051">
+          <head>Scope and Content Note</head>
+          <p>Postcards, leaflets, newspaper clippings.</p>
+        </scopecontent>
+        <c id="aspace_ref169" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate normal="1962/2001" type="inclusive">1962-2001, undated</unitdate>
+            <container altrender="Hollinger Flat OS 14" id="aspace_2ac84da9ec3bfad3d6c3ba0210cf1857" label="Mixed Materials" type="box">6 (oversized)</container>
+            <container id="aspace_01de2cb2306e5c44c76aacd01ab0e637" parent="aspace_2ac84da9ec3bfad3d6c3ba0210cf1857" type="folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref81" level="series">
+        <did>
+          <unittitle>Organizations</unittitle>
+        </did>
+        <scopecontent id="aspace_9bf8113ec6ae10a7fee97391b4258e44">
+          <head>Scope and Content Note</head>
+          <p>This series focuses on organizations that Treuhaft worked in or for was a leader in.   Their broad range reflect the broad range of his interests and involvement in public and professional life and politics,  from the Civil Rights Congress  (racial discrimination and the Communist Party),  to the National Lawyers Guild (professional legal and social issues), to the International Association of Democratic Lawyers (international human rights) and the Consumers Co-Operative of Berkeley (community service) to his appointment  to the California  State Board of Funeral Directors and Embalmers (a direct result of his research for and association with Mitford's expose of the funeral industry in <title render="italic">The American Way of Death</title>).</p>
+        </scopecontent>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>California Board of Legal Specialization - Certificates and Related Materials</unittitle>
+            <unitdate normal="1995/1996" type="inclusive">1995-1996</unitdate>
+            <container altrender="Record carton" id="aspace_a3958c8ca9edc1fa4648af4aa9cd75a2" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_ef6a5d5a56061a0fe63ed86cda9ba438" parent="aspace_a3958c8ca9edc1fa4648af4aa9cd75a2" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref158" level="file">
+          <did>
+            <unittitle>California State Board of Funeral Directors and Embalmers - Minutes, Memoranda, Reports</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container altrender="Record carton" id="aspace_abdd8124f1deaba566ce0bedaccfb2d4" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_f8fe2ebb47e00d82199fbd7ee6664b7d" parent="aspace_abdd8124f1deaba566ce0bedaccfb2d4" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref156" level="file">
+          <did>
+            <unittitle>California State Board of Funeral Directors and Embalmers - Newspaper Clippings, Articles, Brief</unittitle>
+            <unitdate normal="1965/1989" type="inclusive">1965-1989</unitdate>
+            <container altrender="Record carton" id="aspace_d254736df7f32f4fffd6c18d13335604" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_a3bd20fd1cbafcd8ad3db2188bdb5d48" parent="aspace_d254736df7f32f4fffd6c18d13335604" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>Civil Rights Congress</unittitle>
+            <unitdate normal="1945/1971" type="inclusive">1945-1971, undated</unitdate>
+            <container altrender="Record carton" id="aspace_4e229863f253ae6dc4432697d73e9e62" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_6025f89390bdc332e1523094d5e0d7a9" parent="aspace_4e229863f253ae6dc4432697d73e9e62" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Consumers' Cooperative of Berkeley (Berkeley Co-op) Election Campaign - Correspondence, Leaflets, Documents</unittitle>
+            <origination label="Creator">
+              <corpname rules="dacs" source="naf">Consumers Cooperative of Berkeley</corpname>
+            </origination>
+            <unitdate normal="1963/1969" type="inclusive">1963-1969, undated</unitdate>
+            <container altrender="Record carton" id="aspace_336a9c37727cb54a657282f2bc0686d7" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_9807b2a5dd67a8a331ac64211a696548" parent="aspace_336a9c37727cb54a657282f2bc0686d7" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Cooperative League of America - CIA Controversy</unittitle>
+            <unitdate normal="1965/1973" type="inclusive">1965-1973, undated</unitdate>
+            <container altrender="Record carton" id="aspace_90eebf36c800e2af71eecda8dc5ef47a" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_54efbe58ebb50450058793539a166d57" parent="aspace_90eebf36c800e2af71eecda8dc5ef47a" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Free Speech Movement (University of California, Berkeley) - Student Leaflets and Publications</unittitle>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container altrender="Record carton" id="aspace_b452abcc3613c2abdb3ec9c145de46a6" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_d19f01b2ac00e078bc9943a0ee9d0041" parent="aspace_b452abcc3613c2abdb3ec9c145de46a6" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Free Speech Movement (University of California, Berkeley) - Newspaper Clippings and Articles</unittitle>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container altrender="Record carton" id="aspace_427ab0b0d20d4bceb6f318767e8855c7" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_58c6f80a3aa3a27a33665023f2fad981" parent="aspace_427ab0b0d20d4bceb6f318767e8855c7" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Free Speech Movement (University of California, Berkeley) - Newspaper Clippings and Articles (Retrospective)</unittitle>
+            <unitdate normal="1980/1984" type="inclusive">1980, 1984</unitdate>
+            <container altrender="Record carton" id="aspace_48c4f290a88271d27b6c9540bf362105" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_e38d69d7819fdaa1295ef8031779d860" parent="aspace_48c4f290a88271d27b6c9540bf362105" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>International Association of Democratic Lawyers (IADL) – Annual Convention - Documents, Correspondence, Reports</unittitle>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container altrender="Record carton" id="aspace_4428efe335887a1765e220e0651014aa" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_647d261ce05a061f5e612f62b7034a31" parent="aspace_4428efe335887a1765e220e0651014aa" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>International Association of Democratic Lawyers (IADL) – Mission of Inquiry to Okinawa</unittitle>
+            <unitdate normal="1972/1996" type="inclusive">1972, 1989, 1996</unitdate>
+            <container altrender="Record carton" id="aspace_b158f067da73c7ab208fd5146b4e4efd" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_156f3520961c71c1ab78fedd9b1b1e85" parent="aspace_b158f067da73c7ab208fd5146b4e4efd" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>International Association of Democratic Lawyers (IADL) – Mission of Inquiry to Okinawa - Newspaper Clippings and Publications <title render="italic">Re</title></unittitle>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container altrender="Record carton" id="aspace_b07685ddf9c45789a2eae5fd8f9174dd" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_1c97b4a78a5d758a54606947a8f3dade" parent="aspace_b07685ddf9c45789a2eae5fd8f9174dd" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>International Association of Democratic Lawyers (IADL) – Mission of Inquiry to Okinawa - Newspaper Clippings and Publications <title render="italic">Re</title></unittitle>
+            <unitdate normal="1970/1970" type="inclusive">1970, undated</unitdate>
+            <container altrender="Record carton" id="aspace_f176ea5830808cbf36521f720aad18a6" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_dbc02c0dc7e4789f80cab66b70bc531f" parent="aspace_f176ea5830808cbf36521f720aad18a6" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>International Association of Democratic Lawyers (IADL) – Mission of Inquiry to Okinawa - Notes, Correspondence, Reports from Trip</unittitle>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container altrender="Record carton" id="aspace_dc1752015812f5fab079edafe3b54172" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_bbd38ebfa2021e1c568d242c42c8e4e8" parent="aspace_dc1752015812f5fab079edafe3b54172" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>International Association of Democratic Lawyers (IADL) – Mission of Inquiry to Okinawa - Research Documents for - Collection of Published Legislation of United States High Commissioner of Ryukyu Islands</unittitle>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container altrender="Record carton" id="aspace_e97e10576a23a7102b51f38cde9a615d" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_225d17dfd617c6541316513b9d6526aa" parent="aspace_e97e10576a23a7102b51f38cde9a615d" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>International Association of Democratic Lawyers (IADL) – Mission of Inquiry to Okinawa - Research Documents for - "Ryukyu Islands Fact Book" Publication of Department of the Army - United States Civil Administration of the Ryukyu Islands</unittitle>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container altrender="Record carton" id="aspace_7967b432aad0d65220af29685fb293f2" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_a903962ec9afc13fb2d1e766d1ad2187" parent="aspace_7967b432aad0d65220af29685fb293f2" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>International Association of Democratic Lawyers (IADL) - Mission of Inquiry to Portugal</unittitle>
+            <unitdate normal="1964/1966" type="inclusive">1964-1966</unitdate>
+            <container altrender="Record carton" id="aspace_34108ae60ec8e4dac363c0c65b892c7b" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_842699265767ed6d5fb9b2f4dbb3b99c" parent="aspace_34108ae60ec8e4dac363c0c65b892c7b" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>National Lawyers Guild</unittitle>
+            <unitdate normal="1968/1985" type="inclusive">1968,1985</unitdate>
+            <container altrender="Record carton" id="aspace_24f084b6da85c9fb501143020b7501a5" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_c334b31b7d15cc8e0bfdd0dcf202e5c3" parent="aspace_24f084b6da85c9fb501143020b7501a5" type="folder">18</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref82" level="series">
+        <did>
+          <unittitle>Political Issues/Activism</unittitle>
+          <unitdate>1962-1989</unitdate>
+        </did>
+        <scopecontent id="aspace_8e9b12225f38b6c289408528f0c5a8eb">
+          <head>Scope and Content Note</head>
+          <p>Subject files on these issues containing newspaper clippings and leaflets.</p>
+        </scopecontent>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>Cuba Missile Crisis</unittitle>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <container altrender="Record carton" id="aspace_5ed7d8a60a817972dfca9b0be2b626d1" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_1beb5eecef8b550981d65ab0b62508dc" parent="aspace_5ed7d8a60a817972dfca9b0be2b626d1" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>Nuclear Disarmament</unittitle>
+            <unitdate>circa 1960s</unitdate>
+            <container altrender="Record carton" id="aspace_a037fed8f5f51868af79ea636d1b6f5d" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_e5d2a397111f9218ce6e42eca726c194" parent="aspace_a037fed8f5f51868af79ea636d1b6f5d" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref163" level="file">
+          <did>
+            <unittitle>People's Park - 20th Anniversary</unittitle>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container altrender="Record carton" id="aspace_4cdef77b787add0bb890930673fb4641" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_f11a4dcb0102436ab3d207a2dcc39e86" parent="aspace_4cdef77b787add0bb890930673fb4641" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref151" level="file">
+          <did>
+            <unittitle>Vietnam War - Petition Against (reprints of one published in <title render="italic">San Francisco Chronicle</title>)</unittitle>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container altrender="Hollinger Flat OS 14" id="aspace_728ad8e3576b7ca7eb6df29d9cd1ff44" label="Text" type="box">6 (oversized)</container>
+            <container id="aspace_46d12eef1e2610866e2a3b7dab068b55" parent="aspace_728ad8e3576b7ca7eb6df29d9cd1ff44" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>Vietnam War</unittitle>
+            <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
+            <container altrender="Record carton" id="aspace_3b0c4b713931f64a2cc27867fed72504" label="Text [31142063397312]" type="box">4</container>
+            <container id="aspace_2c2edc66b0cf33b441116b45fbce014f" parent="aspace_3b0c4b713931f64a2cc27867fed72504" type="folder">22</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref121" level="series">
+        <did>
+          <unittitle>Research</unittitle>
+          <unitdate>1961-1996</unitdate>
+        </did>
+        <scopecontent id="aspace_2a56843f48734e0834a7ec0f433fb886">
+          <head>Scope and Content Note</head>
+          <p>Documents in this series include some of the research  materials gathered by Treuhaft while working with Mitford on <title render="italic">The American Way of Death</title>, and for her expose of "The Famous Writers School."</p>
+        </scopecontent>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>Bowline (formerly "Famous Writers")</unittitle>
+            <unitdate normal="1980/1996" type="inclusive"> 1980, 1996</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_313e14895e34bcc87603543c68c5506d" label="Text [31142063397353]" type="box">5</container>
+            <container id="aspace_e15b7239214822e8f9f27b15a73ba9b4" parent="aspace_313e14895e34bcc87603543c68c5506d" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>Collector's Guild</unittitle>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_eab201eb6317302a8c5398aad0f98e2f" label="Text [31142063397353]" type="box">5</container>
+            <container id="aspace_341c01b3268e97bad2c1ef935dd3da5c" parent="aspace_eab201eb6317302a8c5398aad0f98e2f" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>Famous Writers School (following publication of July 1970 article on)</unittitle>
+            <unitdate normal="1961/1972" type="inclusive">1961-1972</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_775281dd75a7fa6f400ce4ccf9487ae9" label="Text [31142063397353]" type="box">5</container>
+            <container id="aspace_f98eb182c408e99a701f00c5a30bd18d" parent="aspace_775281dd75a7fa6f400ce4ccf9487ae9" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>Funerals</unittitle>
+            <unitdate normal="1963/1965" type="inclusive">1963-1965</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e1589b773c65d90b7c70c20555d28b09" label="Text [31142063397353]" type="box">5</container>
+            <container id="aspace_26aaf5f7acd8a4afcc1c3eaf08f88a57" parent="aspace_e1589b773c65d90b7c70c20555d28b09" type="folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref122" level="series">
+        <did>
+          <unittitle>Writings</unittitle>
+        </did>
+        <scopecontent id="aspace_56ffe336b9e867d05946ca828f33e873">
+          <head>Scope and Content Note</head>
+          <p>This series includes speeches and articles--published and unpublished--written by Robert Treuhaft.  The files of  poetry mostly consist of humorous rhyming doggerel written by Treuhaft and Mitford (either in tandem or separately) or on occasion by their friends (including poets and  writers like Lawrence Ferlinghetti and Paul Jarrico), produced for particular private celebrations like birthdays, anniversaries, and parties, and replete with topical and political as well as personal and biographical references.  Also included is an internal Communist Party document--a short resolution drafted by Jessica Mitford and submitted to the National Board of the Communist Party of the United States (CPUSA) on behalf of the Twin Peaks Club, a Bay Area branch of the CPUSA.</p>
+        </scopecontent>
+        <c id="aspace_ref130" level="file">
+          <did>
+            <unittitle>"The Academy and the First Amendment" (speech) - Manuscript, Clippings, Correspondence, Research Materials</unittitle>
+            <unitdate>1968</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0f52da16d12ad55011f71e0eb266d330" label="Text [31142063397353]" type="box">5</container>
+            <container id="aspace_dc93378398f82427f3cb3e2c6bbcdcb4" parent="aspace_0f52da16d12ad55011f71e0eb266d330" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref162" level="file">
+          <did>
+            <unittitle>"Criticism of the National Board: Resolution and Some Proposed Changes" (by Decca Treuhaft on behalf of Twin Peaks Club, California Communist Party)</unittitle>
+            <unitdate>circa 1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_385ef3260f6e62cbdb46cbcb486598ec" label="Text [31142063397353]" type="box">5</container>
+            <container id="aspace_5440c347d9da2a8e1a1b816d394bc5bb" parent="aspace_385ef3260f6e62cbdb46cbcb486598ec" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle>"From a Seat on California's Board of Funeral Directors and Embalmers" -  Manuscripts, Correspondence, Clippings(for unpublished article for <title render="italic">New York Times</title>)</unittitle>
+            <unitdate normal="1976/1978" type="inclusive">1976-1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dcc1091415e1ad41861d6cd88ed6dc99" label="Text [31142063397353]" type="box">5</container>
+            <container id="aspace_75d0a86e91c4e61ac6165e41f06438f3" parent="aspace_dcc1091415e1ad41861d6cd88ed6dc99" type="folder">8</container>
+          </did>
+          <c id="aspace_ref131" level="file">
+            <did>
+              <unittitle>"Debtors' Rights and Remedies" (published in <title render="italic">California Family Lawyer</title>)</unittitle>
+              <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_9d1285beecf5589d502c3295830f3f7d" label="Text [31142063397353]" type="box">5</container>
+              <container id="aspace_736f87fdd67248a6e44498bfbecc4fdb" parent="aspace_9d1285beecf5589d502c3295830f3f7d" type="folder">7</container>
+            </did>
+            <scopecontent id="aspace_f8f79b27ef05a29d94fef3f43ffab653">
+              <head>Scope and Content Note</head>
+              <p>No Subnote Content</p>
+            </scopecontent>
+          </c>
+        </c>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle>"Naming Namers: A Reunion to Remember" (published in <title render="italic">The Nation</title>)</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d831c6e0f37145d6c7bf363cf1738c44" label="Text [31142063397353]" type="box">5</container>
+            <container id="aspace_f432f46d67bf9dae14b1389d24af08aa" parent="aspace_d831c6e0f37145d6c7bf363cf1738c44" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="file">
+          <did>
+            <unittitle>Poetry</unittitle>
+            <unitdate normal="1958/1990" type="inclusive">1958-1990, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_04d96d80bf293b97fecc3993b3c0ee63" label="Text [31142063397353]" type="box">5</container>
+            <container id="aspace_c56825d43796e6672e6ed70082628d43" parent="aspace_04d96d80bf293b97fecc3993b3c0ee63" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref136" level="file">
+          <did>
+            <unittitle>Poetry</unittitle>
+            <unitdate normal="1974/1974" type="inclusive">1974; undated </unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_020fd2f7b5f0bfc4ae50edad88c61f3b" label="Text [31142063397353]" type="box">5</container>
+            <container id="aspace_19823bade9859e310f888add7744bf68" parent="aspace_020fd2f7b5f0bfc4ae50edad88c61f3b" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="file">
+          <did>
+            <unittitle>Poetry</unittitle>
+            <unitdate normal="1965/1996" type="inclusive">1965-1996</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_94ca0f341b5e5bfffc3316459b8c5575" label="Text [31142063397353]" type="box">5</container>
+            <container id="aspace_106313a75cb52e3e5a0c9af3a9039b7a" parent="aspace_94ca0f341b5e5bfffc3316459b8c5575" type="folder">12</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref172" level="series">
+        <did>
+          <unittitle>Wills</unittitle>
+          <unitdate normal="1966/1999" type="inclusive">1966-1999</unitdate>
+          <unitdate normal="1970/1985" type="bulk">1970-1985</unitdate>
+          <container altrender="Record carton" id="aspace_7864ff1fd3aa7afd3311946256aab69d" label="Text [31142063397361]" type="box">7</container>
+        </did>
+        <arrangement id="aspace_4ca8ec7ffb1561f4c55d1ca1559fdd8f">
+          <head>Arrangement</head>
+          <p>The files are arranged alphabetically by client last name.</p>
+        </arrangement>
+        <scopecontent id="aspace_99c173258bd00078e12f1de68d30d7fb">
+          <head>Scope and Content Note</head>
+          <p>While the testaments in this series include those of some family members and friends and a sprinkling were drafted for people with public profiles (such as Mario Savio and writer Kay Boyle), most of them were drawn up for purely private individuals.  These wills illustrate that in even his "non-political" work,  Treuhaft was consistent in his commitment to representing individuals from underserved groups and ordinary people of modest means, including members of Oakland's African-American community, where Treuhaft had a strong client base as a result of his well-known work as a civil rights attorney.</p>
+        </scopecontent>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

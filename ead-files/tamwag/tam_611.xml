@@ -1,58 +1,568 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>tam_611</eadid><filedesc><titlestmt><titleproper>Guide to the Helen A. Murphy Papers <num>TAM.611</num></titleproper><author>Finding aid prepared by Miriam Berkin, January 1992</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>1992</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:54:30 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Helen A. Murphy Papers</unittitle>
-    <origination label="Creator">
-      <persname source="local">Murphy, Helen A., 1889-1986</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">Dibbel, Charles</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">Dibbel, Helen</persname>
-    </origination>
-    <unitid>TAM.611</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
-      <extent altrender="carrier">in 2 boxes</extent>
-    </physdesc>
-    <unitdate normal="1914/1986" type="inclusive">1914-1986</unitdate>
-    <abstract id="aspace_c09169092976dd687af4fdbcfcfad32f">This collection consists of the personal papers of Helen A. Murphy (1889-1986), children's author and playwright, and director of the Children's Theatre Program at Greenwich House from 1923-1968. The papers date from 1914 to 1986. The bulk are from her tenure at Greenwich House, and include short stories, scripts, promotional material, correspondence, administrative material and some personal effects. The collection is organized into three series: The Children's and Adult's Theatre at Greenwich House; Writings and Other Activities; and Personal Material.</abstract>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid>tam_611</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Helen A. Murphy Papers <num>TAM.611</num></titleproper>
+        <author>Finding aid prepared by Miriam Berkin, January 1992</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>1992</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:54:30 -0500</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Helen A. Murphy Papers</unittitle>
+      <origination label="Creator">
+        <persname source="local">Murphy, Helen A., 1889-1986</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Dibbel, Charles</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Dibbel, Helen</persname>
+      </origination>
+      <unitid>TAM.611</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+        <extent altrender="carrier">in 2 boxes</extent>
+      </physdesc>
+      <unitdate normal="1914/1986" type="inclusive">1914-1986</unitdate>
+      <abstract id="aspace_c09169092976dd687af4fdbcfcfad32f">This collection consists of the personal papers of Helen A. Murphy (1889-1986), children's author and playwright, and director of the Children's Theatre Program at Greenwich House from 1923-1968. The papers date from 1914 to 1986. The bulk are from her tenure at Greenwich House, and include short stories, scripts, promotional material, correspondence, administrative material and some personal effects. The collection is organized into three series: The Children's and Adult's Theatre at Greenwich House; Writings and Other Activities; and Personal Material.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-  </did>
-  <accessrestrict id="aspace_0b64bda07adf63e3cb09550623d12a2e">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_2cf0254ec321cca2f636cfb833ec2bd2">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by by Charles and Helen Hope Dibbel in circa 1989.  The accession number associated with this gift is 1989.014.</p>  </acqinfo>
-  <arrangement id="aspace_0831571f840bdb9759efdb8cff962614">
-    <head>Arrangement</head>
-<p>The collection is organized into three series: The Children's and Adult's Theatre at Greenwich House; Writings and Other Activities; and Personal Material.</p>  </arrangement>
-  <bioghist id="aspace_2f99ddbd9cad48bb13dad25425cb0750">
-    <head>Historical/Biographical Note</head>
-<p>Helen A. Murphy, children's author, playwright, storyteller and director of the Greenwich House Children's Theatre (G.H. Ch. Th.) was born on June 10, 1889 in New Brunswick, Canada and grew up in Boston, MA. Little information exists on the details of her life. It appears she was trained in the teaching profession, and ventured to New York in 1914 to do graduate work at Columbia Teachers College. Her talents at story writing and telling opened different avenues to her in New York, and she was a pioneer in early radio, telling folk tales on the air which supplemented her income as an instructor at Columbia Teachers College where she taught from about 1918 until the late 1920s.</p><p>Her desire to experiment with storytelling and teaching through drama was met with enthusiasm by Mary Simkovich, co-founder of the Greenwich House. Murphy was given complete freedom to come up with a design for the program, (which became official in 1923) and she allowed it to develop naturally without too much structure. Formal scripts were rejected and a program of improvisation and participation was initiated. The children chose the plays, wrote and casted them, and presented them their way, under the subtle direction of Murphy.</p><p>From the start, the Children's Theatre program attracted neighborhood children, mostly products of Italian immigrant families. The program proved a constructive way to keep the children off the streets. Favorite plays eventually became perennial staples, such as "Americana" and "Shanty in the Yard".</p><p>Though Murphy appears to have done work there from 1919, with the much heralded Joan of Arc pageant, it appears that she began her official tenure as Director of the Theatre Department in 1923.</p><p>Never married, she remained completely devoted to the theatre program until the early 1970's. Though her work was done both with the adult theatre group and the children's theatre group, the latter was her primary concern and received the greater part of her attention.</p><p>Since limited resources at Greenwich House allowed only a small salary for the beloved Helen Murphy, she supplemented her income through the publication of her stories in education and church magazines, lectures and radio work. After starting at Greenwich House, she continued teaching for a decade at Teacher's College, Columbia University, as well as at private schools in the New York area.</p><p>In 1967 she left Greenwich House unexpectedly to care for her ailing mother, Nora Murphy, who was then 102 years old. She returned in 1972 following her mother's death, but not in an official capacity. The motivation behind her return was to finish a writing project about the changes and theatre history in Greenwich Village. She found, however, that the notes and original materials to be used (both hers and projects of students) were missing. It seems from the incomplete selection of articles, plays, and stories in this collection, that the material was either never recovered, or partially recovered. Helen Murphy spent the last years of her life in Rockport, a small seaside town in northern Massachusetts. She died on March 26, 1986, a few months before her 97th birthday. The full-fledged theatre program at Greenwich House was not continued in her absence, and today, only a token class or two each season acts as a tribute to the earlier glory days of the program as it was under Miss Murphy.</p>  </bioghist>
-  <relatedmaterial id="aspace_92aab135ca7bdf3c1eca9d251ab7c099">
-    <head>Related Archival Materials</head>
-<p>Greenwich House Records (TAM 139)</p>  </relatedmaterial>
-  <scopecontent id="aspace_1200277b34d45d122873a19984c90f23">
-    <head>Scope and Contents note</head>
-<p>This collection consists of the personal papers of Helen A. Murphy, Director of the Children's Theatre Program at Greenwich House from 1923-1968. The papers span from 1914-1986. The bulk are from her tenure at Greenwich House, and includes short stories, scripts, promotional material from productions at G.H. Ch. Th., correspondence, administrative material and some personal effects. The fragmentary nature of much of the collection can be attributed to the loss of a great deal of material which occurred during Murphy's absence from 1968-72.</p>  </scopecontent>
-  <separatedmaterial id="aspace_20274c7ccefc11ace67611135d662d95">
-    <head>Separated Materials</head>
-<p>Several hundred photographs were removed and will be catalogued separately, as well as other published material which will be added to the library's books and serials holdings.</p>  </separatedmaterial>
-  <userestrict id="aspace_deca5afcb67831b4e45fbfe0ebeb08db">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Helen A. Murphy, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <controlaccess>
-    <persname role="dnr" rules="dacs" source="local">Dibbel, Charles</persname>
-    <persname role="dnr" rules="dacs" source="local">Dibbel, Helen</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref8" level="series"><did><unittitle>Series 1. Greenwich House Children's and Adult's Theatre</unittitle><unitdate normal="1919/1976" type="inclusive">1919-1976</unitdate></did><c id="aspace_ref9" level="subseries"><did><unittitle>Subseries a. Children's Theatre History</unittitle></did><c id="aspace_ref10" level="file"><did><unittitle>Articles on the history of the Children's Theatre at Greenwich House</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_8f313942e9d7eda5e0aee2cc173232d6" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_68c65dab0a9a4def12c2cac60cf41502" parent="aspace_8f313942e9d7eda5e0aee2cc173232d6" type="folder">1</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Helen Murphy's Children's Theatre of Greenwich House manuscript</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_52f41af30aa5b9d7da51cfbef74dc18d" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_9282848aec8073284b0bd3ba3f3222d0" parent="aspace_52f41af30aa5b9d7da51cfbef74dc18d" type="folder">2</container></did></c></c><c id="aspace_ref12" level="subseries"><did><unittitle>Subseries b. Administrative materials</unittitle><unitdate normal="1919/1938" type="inclusive">1919-1968</unitdate></did><c id="aspace_ref13" level="file"><did><unittitle>Helen Murphy's correspondence re: G.H. Ch. Th.</unittitle><unitdate normal="1919/1966" type="inclusive">1919-1966</unitdate><container altrender="Record carton" id="aspace_fa94c789697146ece8567815ff82ce0c" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_59478e4b5c5c600c38dd2c4b0654221d" parent="aspace_fa94c789697146ece8567815ff82ce0c" type="folder">3</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Correspondence re: Th. group reunion for Helen Murphy</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record carton" id="aspace_dba3dde749910eb4d07f2d0b562f7624" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_11b7135319434683d66b1f85c86269a2" parent="aspace_dba3dde749910eb4d07f2d0b562f7624" type="folder">4</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Children's Theatre sponsors</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_dc9faf57f4671105e72192cdafa9565b" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_0742cef73c95252d7c9c44057b554e6b" parent="aspace_dc9faf57f4671105e72192cdafa9565b" type="folder">5</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Children's Theatre Department reports, notes and memoranda</unittitle><unitdate normal="1919/1963" type="inclusive">1919-1963</unitdate><container altrender="Record carton" id="aspace_d97d28b3b53cbc530f6d90dd726aa15a" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_6e525f120f62c28a3d55f0d31a2cae12" parent="aspace_d97d28b3b53cbc530f6d90dd726aa15a" type="folder">6</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Children's Theatre rosters and programs</unittitle><unitdate normal="1935/1959" type="inclusive">1935-1950s</unitdate><container altrender="Record carton" id="aspace_ba1041304d09af24c7b947699af6b7c3" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_052ed68ad951141c2a9dc63baa276644" parent="aspace_ba1041304d09af24c7b947699af6b7c3" type="folder">7</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Helen Murphy Children's Theatre correspondence</unittitle><unitdate normal="1940/1959" type="inclusive">1940s-1950s</unitdate><container altrender="Record carton" id="aspace_0b8b0562f30459b0003e34b6f4605dad" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_aac02cc550cd0d597149c952523b7abf" parent="aspace_0b8b0562f30459b0003e34b6f4605dad" type="folder">8</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Children's Theatre rollbook and address book</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_d20e5fe6be36075899639d45c90ee248" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_172557f35d07b2cdb38ca436f603124e" parent="aspace_d20e5fe6be36075899639d45c90ee248" type="folder">9</container></did></c></c><c id="aspace_ref20" level="subseries"><did><unittitle>Subseries c. Publicity and Promotion</unittitle><unitdate normal="1919/1976" type="inclusive">1919-1976</unitdate></did><c id="aspace_ref21" level="file"><did><unittitle>Newspaper accounts of G.H. Theatre and productions</unittitle><unitdate normal="1921/1961" type="inclusive">1921-1961</unitdate><container altrender="Record carton" id="aspace_aae2f88a3f9fef2d8f3db4a0192dd327" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_7d5254abea70d79b3180033cfd394f71" parent="aspace_aae2f88a3f9fef2d8f3db4a0192dd327" type="folder">10</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Children's Theatre programs from productions</unittitle><unitdate normal="1926/1966" type="inclusive">1926-1966</unitdate><container altrender="Record carton" id="aspace_8015c856d01abc10538c105386240705" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_daf0ee75e3512b9fca8bcb2e4f23fde2" parent="aspace_8015c856d01abc10538c105386240705" type="folder">11</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>More elaborate programs from G.H. Ch. Th. prod.</unittitle><unitdate normal="1927/1946" type="inclusive">1927-1946</unitdate><container altrender="Record carton" id="aspace_6575754e6dd0ed6df09aab7feac55073" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_690908efc4aeeabbbd49ae95d58948cc" parent="aspace_6575754e6dd0ed6df09aab7feac55073" type="folder">12</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Programs including Children's Theatre held elsewhere</unittitle><unitdate normal="1921/1959" type="inclusive">1921-1959</unitdate><container altrender="Record carton" id="aspace_b1454913b054640deaf541fba4bf801d" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_3b8c42b70f820bef67df140fd7d7a0e4" parent="aspace_b1454913b054640deaf541fba4bf801d" type="folder">13</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Children's Theatre production announcements</unittitle><unitdate normal="1919/1947" type="inclusive">1919-1947</unitdate><container altrender="Record carton" id="aspace_9f08ee11872c0e4988cf504291cabb13" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_0ecd65f61ae91df5f8a664653bb86be0" parent="aspace_9f08ee11872c0e4988cf504291cabb13" type="folder">14</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Children's Theatre press releases</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_3d14c1381bd71e964526c115ef34e14b" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_834c7881263359d9a46405e19b69e2c8" parent="aspace_3d14c1381bd71e964526c115ef34e14b" type="folder">15</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Children's Theatre tickets</unittitle><unitdate normal="1920/1966" type="inclusive">1920-1966</unitdate><container altrender="Record carton" id="aspace_793710e5bdb2d124068a48ad623817f2" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_9da99314afc5197e23efd9f11db191b5" parent="aspace_793710e5bdb2d124068a48ad623817f2" type="folder">16</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Children's Theatre "Joan of Arc" production</unittitle><unitdate normal="1920/1920" type="inclusive">1920</unitdate><container altrender="Record carton" id="aspace_80fafe9c9accf40083fe8dc9fda8c8ea" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_c089f05c9ee6ad1daed5cf76acc5e8d4" parent="aspace_80fafe9c9accf40083fe8dc9fda8c8ea" type="folder">17</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Children's Theatre "Americana" productions</unittitle><unitdate normal="1942/1949" type="inclusive">1942-1949</unitdate><container altrender="Record carton" id="aspace_741c55dfc74c5ebc768cee551e0ec3c0" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_de32b10e5d375d80ea1f77879223e713" parent="aspace_741c55dfc74c5ebc768cee551e0ec3c0" type="folder">18</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Adult Theatre group material</unittitle><unitdate normal="1919/1966" type="inclusive">1919-1966</unitdate><container altrender="Record carton" id="aspace_4a9dd4ea289b9349ff580bbce6a7bb69" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_3422546a9c9741e5cb2b14e508287832" parent="aspace_4a9dd4ea289b9349ff580bbce6a7bb69" type="folder">19</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Ingeborg Torrup (Greenwich House choreographer)</unittitle><unitdate normal="1930/1936" type="inclusive">1930, 1936</unitdate><container altrender="Record carton" id="aspace_300d817dc18afde4e0fb6d077d81cef0" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_6170080caa99b78f75fcf328b601bec5" parent="aspace_300d817dc18afde4e0fb6d077d81cef0" type="folder">20</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Published material on or by former students</unittitle><unitdate normal="1971/1976" type="inclusive">1971-1976</unitdate><container altrender="Record carton" id="aspace_11d04393375a7b9cc7a5e4fbdd0f6c19" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_ee1dc3ead8c3e7956371733f1ed632e3" parent="aspace_11d04393375a7b9cc7a5e4fbdd0f6c19" type="folder">21</container></did></c></c><c id="aspace_ref33" level="subseries"><did><unittitle>Subseries d. Scripts and student writings</unittitle><container altrender="Record carton" id="aspace_0b5433dfcbe79e676b1639ddbc5f0483" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_542eba702ef4566744c0eb9751307171" parent="aspace_0b5433dfcbe79e676b1639ddbc5f0483" type="folder">data_value_missing_2c26d60d4087ebc800cc35d6e58bd158</container></did><c id="aspace_ref34" level="file"><did><unittitle>Children's Theatre scripts, A-L</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_737419512e24cb24a1447a8d334510e7" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_5964e6b7cb1acb772d52fcea362760d2" parent="aspace_737419512e24cb24a1447a8d334510e7" type="folder">22</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Children's Theatre scripts, P-Z</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_33b4b9bec4dad78f4dd43aa6a377fe0d" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_0ae38354420b7be2d4b9c7ae40cb9697" parent="aspace_33b4b9bec4dad78f4dd43aa6a377fe0d" type="folder">23</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Children's Theatre scripts (missing pages)</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_084064b8fefe68935356ed893cc5da5c" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_125912a44c783eee9cbc03bf52deeb46" parent="aspace_084064b8fefe68935356ed893cc5da5c" type="folder">25</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Versions of scripts of Children's Theatre plays (missing pages)</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_7085c74a87bec9b5e09459303d56bb78" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_c021d98106b3f086d99b633d3b88e4bf" parent="aspace_7085c74a87bec9b5e09459303d56bb78" type="folder">24</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Children's Theatre versions of Christmas play scripts</unittitle><container altrender="Record carton" id="aspace_af6317f8b8b922b4db442495b172534d" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_fcf8a417f527f1e7ba3def8c9083834d" parent="aspace_af6317f8b8b922b4db442495b172534d" type="folder">26</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Children's Theatre fragments of scripts</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_5259e7b50db3ec64ecc6b63e3006f7a7" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_6c827b0cda56352e221301306ef7a728" parent="aspace_5259e7b50db3ec64ecc6b63e3006f7a7" type="folder">27</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Children's Theatre fragments of unidentified scripts</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_7c11a9d824a50cd04efa7d01d5fe2ba1" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_71a63b36d86e3db61046cb70c84b3712" parent="aspace_7c11a9d824a50cd04efa7d01d5fe2ba1" type="folder">28</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Songs and poems</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_941f2459333341b6deaffa4fbe0c7887" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_00a16071be45ba11b278fcefcab87c12" parent="aspace_941f2459333341b6deaffa4fbe0c7887" type="folder">29</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Original written work by children of Children's Theatre</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_46862603e36f5914ea9e252bcd037bd4" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_143be7e3c66efc8ba5a67c01edb4094f" parent="aspace_46862603e36f5914ea9e252bcd037bd4" type="folder">30</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Costume designs</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_be66387c3655744c8d6628a7d0bd0af0" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_22d9998223434342293f1832f41e472f" parent="aspace_be66387c3655744c8d6628a7d0bd0af0" type="folder">31</container></did></c></c></c><c id="aspace_ref44" level="series"><did><unittitle>Series 2. Writings and Other Activities</unittitle><unitdate normal="1908/1980" type="inclusive">1908-1980</unitdate></did><c id="aspace_ref45" level="file"><did><unittitle>Published material by Helen Murphy</unittitle><unitdate normal="1908/1937" type="inclusive">1908-1937</unitdate><container altrender="Record carton" id="aspace_ec21635a7be75ffa273cbf849a82ecfe" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_0110c567e27d0e7403351ca5770ef302" parent="aspace_ec21635a7be75ffa273cbf849a82ecfe" type="folder">32</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Stories by Helen Murphy, A-L</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_e2958315151f91e749d509312529486c" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_655d3fa884d9c503ef6aa893c064241b" parent="aspace_e2958315151f91e749d509312529486c" type="folder">33</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Stories by Helen Murphy, M-Z</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_41d11f0963b741f8c0973ce885708fbb" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_99820e97d103df5381f9a62a6f998c95" parent="aspace_41d11f0963b741f8c0973ce885708fbb" type="folder">34</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Stories by Helen Murphy for courses at Columbia Teachers College</unittitle><unitdate normal="1928/1928" type="inclusive">1928</unitdate><container altrender="Record carton" id="aspace_478890075e654943369204bf7faa322c" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_73a59ff660dfe2b9c0c08bab21288141" parent="aspace_478890075e654943369204bf7faa322c" type="folder">35</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Short poems, likely by Helen Murphy</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_657bc8de5da50f497e686c2c5276b572" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_fe56a244b651c6f624946e556fcb8a94" parent="aspace_657bc8de5da50f497e686c2c5276b572" type="folder">36</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Prize-winning poem by Helen Murphy</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_fe1270d5377dddc62756a380edd6b66c" label="Mixed Materials [31142062883510]" type="box">1</container><container id="aspace_2f2e09cd50393ccbec8f727be38cd846" parent="aspace_fe1270d5377dddc62756a380edd6b66c" type="folder">37</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Handwritten notes and drafts of Helen Murphy</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_a7f5e48f4ea18a12b34038ba000ca3c3" label="Mixed Materials [31142062883528]" type="box">2</container><container id="aspace_ef6e7ae600f37c14c717eb46b5e950ae" parent="aspace_a7f5e48f4ea18a12b34038ba000ca3c3" type="folder">1</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Pieces of stories by Helen Murphy and others</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_016562c8b1a4546302d38f4ce57bf116" label="Mixed Materials [31142062883528]" type="box">2</container><container id="aspace_624106484550afc087e14bdd599946ea" parent="aspace_016562c8b1a4546302d38f4ce57bf116" type="folder">2</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Notes and drafts on the art of storytelling, and class instructions</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_839cecc6e25a801128d6f623839f8557" label="Mixed Materials [31142062883528]" type="box">2</container><container id="aspace_5b6e57584e4dfcf118828668859cecfb" parent="aspace_839cecc6e25a801128d6f623839f8557" type="folder">3</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Class and instruction material</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_ca9616505d64390cb82d2dd0e26b4f78" label="Mixed Materials [31142062883528]" type="box">2</container><container id="aspace_85a8e806924a6a859c646c16c3a10b88" parent="aspace_ca9616505d64390cb82d2dd0e26b4f78" type="folder">4</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Poems and stories by other authors</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_de90f85cc583fbac5c68bcfe09034aa7" label="Mixed Materials [31142062883528]" type="box">2</container><container id="aspace_3ed9230b9c67b4cf90169530e48091f6" parent="aspace_de90f85cc583fbac5c68bcfe09034aa7" type="folder">5</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Stories with no author attribution</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_3e499e514c9d491f644333b2c8b6bbd2" label="Mixed Materials [31142062883528]" type="box">2</container><container id="aspace_2d6d4866e4617fbc77a7def4403d52c3" parent="aspace_3e499e514c9d491f644333b2c8b6bbd2" type="folder">6</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Children's/Student's magazines and book</unittitle><unitdate normal="1916/1980" type="inclusive">1916-80</unitdate><container altrender="Manuscript box - Legal" id="aspace_e61c8d60cd052529c249035a0126e29e" label="Mixed Materials [31142062883528]" type="box">2</container><container id="aspace_42e79cbb3611861f395fda91bb7a4173" parent="aspace_e61c8d60cd052529c249035a0126e29e" type="folder">7</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Editorial Correspondence</unittitle><unitdate normal="1915/1946" type="inclusive">1915-46</unitdate><container altrender="Manuscript box - Legal" id="aspace_3cd79c42353ab7d7f3153bea59030215" label="Mixed Materials [31142062883528]" type="box">2</container><container id="aspace_e8a210f5385ffd0caf202dd6f9db7b02" parent="aspace_3cd79c42353ab7d7f3153bea59030215" type="folder">8</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Teaching contracts</unittitle><unitdate normal="1914/1962" type="inclusive">1914-62</unitdate><container altrender="Manuscript box - Legal" id="aspace_38ccccf87d0425d8b7330aa140d0deec" label="Mixed Materials [31142062883528]" type="box">2</container><container id="aspace_7bd320eaf8e7cc3bb69ed2467db5a285" parent="aspace_38ccccf87d0425d8b7330aa140d0deec" type="folder">9</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Letters of recommendation for Helen Murphy</unittitle><unitdate normal="1914/1951" type="inclusive">1914-51</unitdate><container altrender="Manuscript box - Legal" id="aspace_34508aa9f2a81784637b0047a46a3703" label="Mixed Materials [31142062883528]" type="box">2</container><container id="aspace_e2a3647e830174eb288a8478d401e236" parent="aspace_34508aa9f2a81784637b0047a46a3703" type="folder">10</container></did></c></c><c id="aspace_ref61" level="series"><did><unittitle>Series 3. Personal Material</unittitle><unitdate normal="1914/1986" type="inclusive">1914-1986</unitdate><container id="aspace_1c778219820c4dcbf3b863aec5625be1" label="Mixed Materials" type="box">not specified</container><container id="aspace_4fdaf9e4813ac03f3e7d007d3a9c04f8" parent="aspace_1c778219820c4dcbf3b863aec5625be1" type="folder">data_value_missing_30faab66cab68295ffce6ff9522e54dd</container></did><c id="aspace_ref62" level="file"><did><unittitle>Helen Murphy's personal address book</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_b0445ee64112eb7e666ec74b350cb914" label="Mixed Materials [31142062883528]" type="box">2</container><container id="aspace_45d04e035ddecbc6c8b11f94e7256e25" parent="aspace_b0445ee64112eb7e666ec74b350cb914" type="folder">11</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Xerox copies of photographs including Helen Murphy</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_ca320a96e72d3b38736a5815f35aa8a2" label="Mixed Materials [31142062883528]" type="box">2</container><container id="aspace_64ba7a354450587772c7e6711bb1384f" parent="aspace_ca320a96e72d3b38736a5815f35aa8a2" type="folder">12</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Material re: Helen Murphy as professional story-teller</unittitle><unitdate normal="1917/1946" type="inclusive">1917-1946</unitdate><container altrender="Manuscript box - Legal" id="aspace_80a977f2f83531e12b8dc8aa5be7c610" label="Mixed Materials [31142062883528]" type="box">2</container><container id="aspace_1e38ccdfda6c75ac78c846a47aa99d84" parent="aspace_80a977f2f83531e12b8dc8aa5be7c610" type="folder">13</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Regarding Nora Murphy (mother)</unittitle><unitdate normal="1959/1969" type="inclusive">1959-1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_740f740fe6411e7f3ef1450f5882b160" label="Mixed Materials [31142062883528]" type="box">2</container><container id="aspace_475f6a01a3abc8c26d0bea51c0341b02" parent="aspace_740f740fe6411e7f3ef1450f5882b160" type="folder">14</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Sketches of Nantucket by Helen Murphy</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_4a2278411892ea1fe9ff75012036936f" label="Mixed Materials [31142062883528]" type="box">2</container><container id="aspace_84803eaf662d4a1abad9bf0a90faacb0" parent="aspace_4a2278411892ea1fe9ff75012036936f" type="folder">15</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Personal Correspondence</unittitle><unitdate normal="1914/1986" type="inclusive">1914-1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_b99fb807aed4b57ab1b3725fcb766c5e" label="Mixed Materials [31142062883528]" type="box">2</container><container id="aspace_da92032cf9f87ba9f96a284203756df5" parent="aspace_b99fb807aed4b57ab1b3725fcb766c5e" type="folder">16</container></did></c></c></dsc>
-</archdesc>
+    </did>
+    <accessrestrict id="aspace_0b64bda07adf63e3cb09550623d12a2e">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_2cf0254ec321cca2f636cfb833ec2bd2">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by by Charles and Helen Hope Dibbel in circa 1989.  The accession number associated with this gift is 1989.014.</p>
+    </acqinfo>
+    <arrangement id="aspace_0831571f840bdb9759efdb8cff962614">
+      <head>Arrangement</head>
+      <p>The collection is organized into three series: The Children's and Adult's Theatre at Greenwich House; Writings and Other Activities; and Personal Material.</p>
+    </arrangement>
+    <bioghist id="aspace_2f99ddbd9cad48bb13dad25425cb0750">
+      <head>Historical/Biographical Note</head>
+      <p>Helen A. Murphy, children's author, playwright, storyteller and director of the Greenwich House Children's Theatre (G.H. Ch. Th.) was born on June 10, 1889 in New Brunswick, Canada and grew up in Boston, MA. Little information exists on the details of her life. It appears she was trained in the teaching profession, and ventured to New York in 1914 to do graduate work at Columbia Teachers College. Her talents at story writing and telling opened different avenues to her in New York, and she was a pioneer in early radio, telling folk tales on the air which supplemented her income as an instructor at Columbia Teachers College where she taught from about 1918 until the late 1920s.</p>
+      <p>Her desire to experiment with storytelling and teaching through drama was met with enthusiasm by Mary Simkovich, co-founder of the Greenwich House. Murphy was given complete freedom to come up with a design for the program, (which became official in 1923) and she allowed it to develop naturally without too much structure. Formal scripts were rejected and a program of improvisation and participation was initiated. The children chose the plays, wrote and casted them, and presented them their way, under the subtle direction of Murphy.</p>
+      <p>From the start, the Children's Theatre program attracted neighborhood children, mostly products of Italian immigrant families. The program proved a constructive way to keep the children off the streets. Favorite plays eventually became perennial staples, such as "Americana" and "Shanty in the Yard".</p>
+      <p>Though Murphy appears to have done work there from 1919, with the much heralded Joan of Arc pageant, it appears that she began her official tenure as Director of the Theatre Department in 1923.</p>
+      <p>Never married, she remained completely devoted to the theatre program until the early 1970's. Though her work was done both with the adult theatre group and the children's theatre group, the latter was her primary concern and received the greater part of her attention.</p>
+      <p>Since limited resources at Greenwich House allowed only a small salary for the beloved Helen Murphy, she supplemented her income through the publication of her stories in education and church magazines, lectures and radio work. After starting at Greenwich House, she continued teaching for a decade at Teacher's College, Columbia University, as well as at private schools in the New York area.</p>
+      <p>In 1967 she left Greenwich House unexpectedly to care for her ailing mother, Nora Murphy, who was then 102 years old. She returned in 1972 following her mother's death, but not in an official capacity. The motivation behind her return was to finish a writing project about the changes and theatre history in Greenwich Village. She found, however, that the notes and original materials to be used (both hers and projects of students) were missing. It seems from the incomplete selection of articles, plays, and stories in this collection, that the material was either never recovered, or partially recovered. Helen Murphy spent the last years of her life in Rockport, a small seaside town in northern Massachusetts. She died on March 26, 1986, a few months before her 97th birthday. The full-fledged theatre program at Greenwich House was not continued in her absence, and today, only a token class or two each season acts as a tribute to the earlier glory days of the program as it was under Miss Murphy.</p>
+    </bioghist>
+    <relatedmaterial id="aspace_92aab135ca7bdf3c1eca9d251ab7c099">
+      <head>Related Archival Materials</head>
+      <p>Greenwich House Records (TAM 139)</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_1200277b34d45d122873a19984c90f23">
+      <head>Scope and Contents note</head>
+      <p>This collection consists of the personal papers of Helen A. Murphy, Director of the Children's Theatre Program at Greenwich House from 1923-1968. The papers span from 1914-1986. The bulk are from her tenure at Greenwich House, and includes short stories, scripts, promotional material from productions at G.H. Ch. Th., correspondence, administrative material and some personal effects. The fragmentary nature of much of the collection can be attributed to the loss of a great deal of material which occurred during Murphy's absence from 1968-72.</p>
+    </scopecontent>
+    <separatedmaterial id="aspace_20274c7ccefc11ace67611135d662d95">
+      <head>Separated Materials</head>
+      <p>Several hundred photographs were removed and will be catalogued separately, as well as other published material which will be added to the library's books and serials holdings.</p>
+    </separatedmaterial>
+    <userestrict id="aspace_deca5afcb67831b4e45fbfe0ebeb08db">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Helen A. Murphy, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <persname role="dnr" rules="dacs" source="local">Dibbel, Charles</persname>
+      <persname role="dnr" rules="dacs" source="local">Dibbel, Helen</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref8" level="series">
+        <did>
+          <unittitle>Series 1. Greenwich House Children's and Adult's Theatre</unittitle>
+          <unitdate normal="1919/1976" type="inclusive">1919-1976</unitdate>
+        </did>
+        <c id="aspace_ref9" level="subseries">
+          <did>
+            <unittitle>Subseries a. Children's Theatre History</unittitle>
+          </did>
+          <c id="aspace_ref10" level="file">
+            <did>
+              <unittitle>Articles on the history of the Children's Theatre at Greenwich House</unittitle>
+              <unitdate>undated</unitdate>
+              <container altrender="Record carton" id="aspace_8f313942e9d7eda5e0aee2cc173232d6" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_68c65dab0a9a4def12c2cac60cf41502" parent="aspace_8f313942e9d7eda5e0aee2cc173232d6" type="folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref11" level="file">
+            <did>
+              <unittitle>Helen Murphy's Children's Theatre of Greenwich House manuscript</unittitle>
+              <unitdate>undated</unitdate>
+              <container altrender="Record carton" id="aspace_52f41af30aa5b9d7da51cfbef74dc18d" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_9282848aec8073284b0bd3ba3f3222d0" parent="aspace_52f41af30aa5b9d7da51cfbef74dc18d" type="folder">2</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref12" level="subseries">
+          <did>
+            <unittitle>Subseries b. Administrative materials</unittitle>
+            <unitdate normal="1919/1938" type="inclusive">1919-1968</unitdate>
+          </did>
+          <c id="aspace_ref13" level="file">
+            <did>
+              <unittitle>Helen Murphy's correspondence re: G.H. Ch. Th.</unittitle>
+              <unitdate normal="1919/1966" type="inclusive">1919-1966</unitdate>
+              <container altrender="Record carton" id="aspace_fa94c789697146ece8567815ff82ce0c" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_59478e4b5c5c600c38dd2c4b0654221d" parent="aspace_fa94c789697146ece8567815ff82ce0c" type="folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref14" level="file">
+            <did>
+              <unittitle>Correspondence re: Th. group reunion for Helen Murphy</unittitle>
+              <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+              <container altrender="Record carton" id="aspace_dba3dde749910eb4d07f2d0b562f7624" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_11b7135319434683d66b1f85c86269a2" parent="aspace_dba3dde749910eb4d07f2d0b562f7624" type="folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref15" level="file">
+            <did>
+              <unittitle>Children's Theatre sponsors</unittitle>
+              <unitdate>undated</unitdate>
+              <container altrender="Record carton" id="aspace_dc9faf57f4671105e72192cdafa9565b" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_0742cef73c95252d7c9c44057b554e6b" parent="aspace_dc9faf57f4671105e72192cdafa9565b" type="folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref16" level="file">
+            <did>
+              <unittitle>Children's Theatre Department reports, notes and memoranda</unittitle>
+              <unitdate normal="1919/1963" type="inclusive">1919-1963</unitdate>
+              <container altrender="Record carton" id="aspace_d97d28b3b53cbc530f6d90dd726aa15a" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_6e525f120f62c28a3d55f0d31a2cae12" parent="aspace_d97d28b3b53cbc530f6d90dd726aa15a" type="folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref17" level="file">
+            <did>
+              <unittitle>Children's Theatre rosters and programs</unittitle>
+              <unitdate normal="1935/1959" type="inclusive">1935-1950s</unitdate>
+              <container altrender="Record carton" id="aspace_ba1041304d09af24c7b947699af6b7c3" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_052ed68ad951141c2a9dc63baa276644" parent="aspace_ba1041304d09af24c7b947699af6b7c3" type="folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref18" level="file">
+            <did>
+              <unittitle>Helen Murphy Children's Theatre correspondence</unittitle>
+              <unitdate normal="1940/1959" type="inclusive">1940s-1950s</unitdate>
+              <container altrender="Record carton" id="aspace_0b8b0562f30459b0003e34b6f4605dad" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_aac02cc550cd0d597149c952523b7abf" parent="aspace_0b8b0562f30459b0003e34b6f4605dad" type="folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref19" level="file">
+            <did>
+              <unittitle>Children's Theatre rollbook and address book</unittitle>
+              <unitdate>undated</unitdate>
+              <container altrender="Record carton" id="aspace_d20e5fe6be36075899639d45c90ee248" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_172557f35d07b2cdb38ca436f603124e" parent="aspace_d20e5fe6be36075899639d45c90ee248" type="folder">9</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref20" level="subseries">
+          <did>
+            <unittitle>Subseries c. Publicity and Promotion</unittitle>
+            <unitdate normal="1919/1976" type="inclusive">1919-1976</unitdate>
+          </did>
+          <c id="aspace_ref21" level="file">
+            <did>
+              <unittitle>Newspaper accounts of G.H. Theatre and productions</unittitle>
+              <unitdate normal="1921/1961" type="inclusive">1921-1961</unitdate>
+              <container altrender="Record carton" id="aspace_aae2f88a3f9fef2d8f3db4a0192dd327" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_7d5254abea70d79b3180033cfd394f71" parent="aspace_aae2f88a3f9fef2d8f3db4a0192dd327" type="folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref22" level="file">
+            <did>
+              <unittitle>Children's Theatre programs from productions</unittitle>
+              <unitdate normal="1926/1966" type="inclusive">1926-1966</unitdate>
+              <container altrender="Record carton" id="aspace_8015c856d01abc10538c105386240705" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_daf0ee75e3512b9fca8bcb2e4f23fde2" parent="aspace_8015c856d01abc10538c105386240705" type="folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref23" level="file">
+            <did>
+              <unittitle>More elaborate programs from G.H. Ch. Th. prod.</unittitle>
+              <unitdate normal="1927/1946" type="inclusive">1927-1946</unitdate>
+              <container altrender="Record carton" id="aspace_6575754e6dd0ed6df09aab7feac55073" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_690908efc4aeeabbbd49ae95d58948cc" parent="aspace_6575754e6dd0ed6df09aab7feac55073" type="folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref24" level="file">
+            <did>
+              <unittitle>Programs including Children's Theatre held elsewhere</unittitle>
+              <unitdate normal="1921/1959" type="inclusive">1921-1959</unitdate>
+              <container altrender="Record carton" id="aspace_b1454913b054640deaf541fba4bf801d" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_3b8c42b70f820bef67df140fd7d7a0e4" parent="aspace_b1454913b054640deaf541fba4bf801d" type="folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref25" level="file">
+            <did>
+              <unittitle>Children's Theatre production announcements</unittitle>
+              <unitdate normal="1919/1947" type="inclusive">1919-1947</unitdate>
+              <container altrender="Record carton" id="aspace_9f08ee11872c0e4988cf504291cabb13" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_0ecd65f61ae91df5f8a664653bb86be0" parent="aspace_9f08ee11872c0e4988cf504291cabb13" type="folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref26" level="file">
+            <did>
+              <unittitle>Children's Theatre press releases</unittitle>
+              <unitdate>undated</unitdate>
+              <container altrender="Record carton" id="aspace_3d14c1381bd71e964526c115ef34e14b" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_834c7881263359d9a46405e19b69e2c8" parent="aspace_3d14c1381bd71e964526c115ef34e14b" type="folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref27" level="file">
+            <did>
+              <unittitle>Children's Theatre tickets</unittitle>
+              <unitdate normal="1920/1966" type="inclusive">1920-1966</unitdate>
+              <container altrender="Record carton" id="aspace_793710e5bdb2d124068a48ad623817f2" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_9da99314afc5197e23efd9f11db191b5" parent="aspace_793710e5bdb2d124068a48ad623817f2" type="folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref28" level="file">
+            <did>
+              <unittitle>Children's Theatre "Joan of Arc" production</unittitle>
+              <unitdate normal="1920/1920" type="inclusive">1920</unitdate>
+              <container altrender="Record carton" id="aspace_80fafe9c9accf40083fe8dc9fda8c8ea" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_c089f05c9ee6ad1daed5cf76acc5e8d4" parent="aspace_80fafe9c9accf40083fe8dc9fda8c8ea" type="folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref29" level="file">
+            <did>
+              <unittitle>Children's Theatre "Americana" productions</unittitle>
+              <unitdate normal="1942/1949" type="inclusive">1942-1949</unitdate>
+              <container altrender="Record carton" id="aspace_741c55dfc74c5ebc768cee551e0ec3c0" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_de32b10e5d375d80ea1f77879223e713" parent="aspace_741c55dfc74c5ebc768cee551e0ec3c0" type="folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref30" level="file">
+            <did>
+              <unittitle>Adult Theatre group material</unittitle>
+              <unitdate normal="1919/1966" type="inclusive">1919-1966</unitdate>
+              <container altrender="Record carton" id="aspace_4a9dd4ea289b9349ff580bbce6a7bb69" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_3422546a9c9741e5cb2b14e508287832" parent="aspace_4a9dd4ea289b9349ff580bbce6a7bb69" type="folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref31" level="file">
+            <did>
+              <unittitle>Ingeborg Torrup (Greenwich House choreographer)</unittitle>
+              <unitdate normal="1930/1936" type="inclusive">1930, 1936</unitdate>
+              <container altrender="Record carton" id="aspace_300d817dc18afde4e0fb6d077d81cef0" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_6170080caa99b78f75fcf328b601bec5" parent="aspace_300d817dc18afde4e0fb6d077d81cef0" type="folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref32" level="file">
+            <did>
+              <unittitle>Published material on or by former students</unittitle>
+              <unitdate normal="1971/1976" type="inclusive">1971-1976</unitdate>
+              <container altrender="Record carton" id="aspace_11d04393375a7b9cc7a5e4fbdd0f6c19" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_ee1dc3ead8c3e7956371733f1ed632e3" parent="aspace_11d04393375a7b9cc7a5e4fbdd0f6c19" type="folder">21</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref33" level="subseries">
+          <did>
+            <unittitle>Subseries d. Scripts and student writings</unittitle>
+            <container altrender="Record carton" id="aspace_0b5433dfcbe79e676b1639ddbc5f0483" label="Mixed Materials [31142062883510]" type="box">1</container>
+            <container id="aspace_542eba702ef4566744c0eb9751307171" parent="aspace_0b5433dfcbe79e676b1639ddbc5f0483" type="folder">data_value_missing_2c26d60d4087ebc800cc35d6e58bd158</container>
+          </did>
+          <c id="aspace_ref34" level="file">
+            <did>
+              <unittitle>Children's Theatre scripts, A-L</unittitle>
+              <unitdate>undated</unitdate>
+              <container altrender="Record carton" id="aspace_737419512e24cb24a1447a8d334510e7" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_5964e6b7cb1acb772d52fcea362760d2" parent="aspace_737419512e24cb24a1447a8d334510e7" type="folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_ref35" level="file">
+            <did>
+              <unittitle>Children's Theatre scripts, P-Z</unittitle>
+              <unitdate>undated</unitdate>
+              <container altrender="Record carton" id="aspace_33b4b9bec4dad78f4dd43aa6a377fe0d" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_0ae38354420b7be2d4b9c7ae40cb9697" parent="aspace_33b4b9bec4dad78f4dd43aa6a377fe0d" type="folder">23</container>
+            </did>
+          </c>
+          <c id="aspace_ref37" level="file">
+            <did>
+              <unittitle>Children's Theatre scripts (missing pages)</unittitle>
+              <unitdate>undated</unitdate>
+              <container altrender="Record carton" id="aspace_084064b8fefe68935356ed893cc5da5c" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_125912a44c783eee9cbc03bf52deeb46" parent="aspace_084064b8fefe68935356ed893cc5da5c" type="folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_ref36" level="file">
+            <did>
+              <unittitle>Versions of scripts of Children's Theatre plays (missing pages)</unittitle>
+              <unitdate>undated</unitdate>
+              <container altrender="Record carton" id="aspace_7085c74a87bec9b5e09459303d56bb78" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_c021d98106b3f086d99b633d3b88e4bf" parent="aspace_7085c74a87bec9b5e09459303d56bb78" type="folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_ref38" level="file">
+            <did>
+              <unittitle>Children's Theatre versions of Christmas play scripts</unittitle>
+              <container altrender="Record carton" id="aspace_af6317f8b8b922b4db442495b172534d" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_fcf8a417f527f1e7ba3def8c9083834d" parent="aspace_af6317f8b8b922b4db442495b172534d" type="folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_ref39" level="file">
+            <did>
+              <unittitle>Children's Theatre fragments of scripts</unittitle>
+              <unitdate>undated</unitdate>
+              <container altrender="Record carton" id="aspace_5259e7b50db3ec64ecc6b63e3006f7a7" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_6c827b0cda56352e221301306ef7a728" parent="aspace_5259e7b50db3ec64ecc6b63e3006f7a7" type="folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_ref40" level="file">
+            <did>
+              <unittitle>Children's Theatre fragments of unidentified scripts</unittitle>
+              <unitdate>undated</unitdate>
+              <container altrender="Record carton" id="aspace_7c11a9d824a50cd04efa7d01d5fe2ba1" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_71a63b36d86e3db61046cb70c84b3712" parent="aspace_7c11a9d824a50cd04efa7d01d5fe2ba1" type="folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_ref41" level="file">
+            <did>
+              <unittitle>Songs and poems</unittitle>
+              <unitdate>undated</unitdate>
+              <container altrender="Record carton" id="aspace_941f2459333341b6deaffa4fbe0c7887" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_00a16071be45ba11b278fcefcab87c12" parent="aspace_941f2459333341b6deaffa4fbe0c7887" type="folder">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref42" level="file">
+            <did>
+              <unittitle>Original written work by children of Children's Theatre</unittitle>
+              <unitdate>undated</unitdate>
+              <container altrender="Record carton" id="aspace_46862603e36f5914ea9e252bcd037bd4" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_143be7e3c66efc8ba5a67c01edb4094f" parent="aspace_46862603e36f5914ea9e252bcd037bd4" type="folder">30</container>
+            </did>
+          </c>
+          <c id="aspace_ref43" level="file">
+            <did>
+              <unittitle>Costume designs</unittitle>
+              <unitdate>undated</unitdate>
+              <container altrender="Record carton" id="aspace_be66387c3655744c8d6628a7d0bd0af0" label="Mixed Materials [31142062883510]" type="box">1</container>
+              <container id="aspace_22d9998223434342293f1832f41e472f" parent="aspace_be66387c3655744c8d6628a7d0bd0af0" type="folder">31</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref44" level="series">
+        <did>
+          <unittitle>Series 2. Writings and Other Activities</unittitle>
+          <unitdate normal="1908/1980" type="inclusive">1908-1980</unitdate>
+        </did>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Published material by Helen Murphy</unittitle>
+            <unitdate normal="1908/1937" type="inclusive">1908-1937</unitdate>
+            <container altrender="Record carton" id="aspace_ec21635a7be75ffa273cbf849a82ecfe" label="Mixed Materials [31142062883510]" type="box">1</container>
+            <container id="aspace_0110c567e27d0e7403351ca5770ef302" parent="aspace_ec21635a7be75ffa273cbf849a82ecfe" type="folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Stories by Helen Murphy, A-L</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_e2958315151f91e749d509312529486c" label="Mixed Materials [31142062883510]" type="box">1</container>
+            <container id="aspace_655d3fa884d9c503ef6aa893c064241b" parent="aspace_e2958315151f91e749d509312529486c" type="folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Stories by Helen Murphy, M-Z</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_41d11f0963b741f8c0973ce885708fbb" label="Mixed Materials [31142062883510]" type="box">1</container>
+            <container id="aspace_99820e97d103df5381f9a62a6f998c95" parent="aspace_41d11f0963b741f8c0973ce885708fbb" type="folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Stories by Helen Murphy for courses at Columbia Teachers College</unittitle>
+            <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
+            <container altrender="Record carton" id="aspace_478890075e654943369204bf7faa322c" label="Mixed Materials [31142062883510]" type="box">1</container>
+            <container id="aspace_73a59ff660dfe2b9c0c08bab21288141" parent="aspace_478890075e654943369204bf7faa322c" type="folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Short poems, likely by Helen Murphy</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_657bc8de5da50f497e686c2c5276b572" label="Mixed Materials [31142062883510]" type="box">1</container>
+            <container id="aspace_fe56a244b651c6f624946e556fcb8a94" parent="aspace_657bc8de5da50f497e686c2c5276b572" type="folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Prize-winning poem by Helen Murphy</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Record carton" id="aspace_fe1270d5377dddc62756a380edd6b66c" label="Mixed Materials [31142062883510]" type="box">1</container>
+            <container id="aspace_2f2e09cd50393ccbec8f727be38cd846" parent="aspace_fe1270d5377dddc62756a380edd6b66c" type="folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Handwritten notes and drafts of Helen Murphy</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a7f5e48f4ea18a12b34038ba000ca3c3" label="Mixed Materials [31142062883528]" type="box">2</container>
+            <container id="aspace_ef6e7ae600f37c14c717eb46b5e950ae" parent="aspace_a7f5e48f4ea18a12b34038ba000ca3c3" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Pieces of stories by Helen Murphy and others</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_016562c8b1a4546302d38f4ce57bf116" label="Mixed Materials [31142062883528]" type="box">2</container>
+            <container id="aspace_624106484550afc087e14bdd599946ea" parent="aspace_016562c8b1a4546302d38f4ce57bf116" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Notes and drafts on the art of storytelling, and class instructions</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_839cecc6e25a801128d6f623839f8557" label="Mixed Materials [31142062883528]" type="box">2</container>
+            <container id="aspace_5b6e57584e4dfcf118828668859cecfb" parent="aspace_839cecc6e25a801128d6f623839f8557" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Class and instruction material</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ca9616505d64390cb82d2dd0e26b4f78" label="Mixed Materials [31142062883528]" type="box">2</container>
+            <container id="aspace_85a8e806924a6a859c646c16c3a10b88" parent="aspace_ca9616505d64390cb82d2dd0e26b4f78" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Poems and stories by other authors</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_de90f85cc583fbac5c68bcfe09034aa7" label="Mixed Materials [31142062883528]" type="box">2</container>
+            <container id="aspace_3ed9230b9c67b4cf90169530e48091f6" parent="aspace_de90f85cc583fbac5c68bcfe09034aa7" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Stories with no author attribution</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3e499e514c9d491f644333b2c8b6bbd2" label="Mixed Materials [31142062883528]" type="box">2</container>
+            <container id="aspace_2d6d4866e4617fbc77a7def4403d52c3" parent="aspace_3e499e514c9d491f644333b2c8b6bbd2" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Children's/Student's magazines and book</unittitle>
+            <unitdate normal="1916/1980" type="inclusive">1916-80</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e61c8d60cd052529c249035a0126e29e" label="Mixed Materials [31142062883528]" type="box">2</container>
+            <container id="aspace_42e79cbb3611861f395fda91bb7a4173" parent="aspace_e61c8d60cd052529c249035a0126e29e" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Editorial Correspondence</unittitle>
+            <unitdate normal="1915/1946" type="inclusive">1915-46</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3cd79c42353ab7d7f3153bea59030215" label="Mixed Materials [31142062883528]" type="box">2</container>
+            <container id="aspace_e8a210f5385ffd0caf202dd6f9db7b02" parent="aspace_3cd79c42353ab7d7f3153bea59030215" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Teaching contracts</unittitle>
+            <unitdate normal="1914/1962" type="inclusive">1914-62</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_38ccccf87d0425d8b7330aa140d0deec" label="Mixed Materials [31142062883528]" type="box">2</container>
+            <container id="aspace_7bd320eaf8e7cc3bb69ed2467db5a285" parent="aspace_38ccccf87d0425d8b7330aa140d0deec" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Letters of recommendation for Helen Murphy</unittitle>
+            <unitdate normal="1914/1951" type="inclusive">1914-51</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_34508aa9f2a81784637b0047a46a3703" label="Mixed Materials [31142062883528]" type="box">2</container>
+            <container id="aspace_e2a3647e830174eb288a8478d401e236" parent="aspace_34508aa9f2a81784637b0047a46a3703" type="folder">10</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref61" level="series">
+        <did>
+          <unittitle>Series 3. Personal Material</unittitle>
+          <unitdate normal="1914/1986" type="inclusive">1914-1986</unitdate>
+          <container id="aspace_1c778219820c4dcbf3b863aec5625be1" label="Mixed Materials" type="box">not specified</container>
+          <container id="aspace_4fdaf9e4813ac03f3e7d007d3a9c04f8" parent="aspace_1c778219820c4dcbf3b863aec5625be1" type="folder">data_value_missing_30faab66cab68295ffce6ff9522e54dd</container>
+        </did>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Helen Murphy's personal address book</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b0445ee64112eb7e666ec74b350cb914" label="Mixed Materials [31142062883528]" type="box">2</container>
+            <container id="aspace_45d04e035ddecbc6c8b11f94e7256e25" parent="aspace_b0445ee64112eb7e666ec74b350cb914" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Xerox copies of photographs including Helen Murphy</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ca320a96e72d3b38736a5815f35aa8a2" label="Mixed Materials [31142062883528]" type="box">2</container>
+            <container id="aspace_64ba7a354450587772c7e6711bb1384f" parent="aspace_ca320a96e72d3b38736a5815f35aa8a2" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Material re: Helen Murphy as professional story-teller</unittitle>
+            <unitdate normal="1917/1946" type="inclusive">1917-1946</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_80a977f2f83531e12b8dc8aa5be7c610" label="Mixed Materials [31142062883528]" type="box">2</container>
+            <container id="aspace_1e38ccdfda6c75ac78c846a47aa99d84" parent="aspace_80a977f2f83531e12b8dc8aa5be7c610" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Regarding Nora Murphy (mother)</unittitle>
+            <unitdate normal="1959/1969" type="inclusive">1959-1969</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_740f740fe6411e7f3ef1450f5882b160" label="Mixed Materials [31142062883528]" type="box">2</container>
+            <container id="aspace_475f6a01a3abc8c26d0bea51c0341b02" parent="aspace_740f740fe6411e7f3ef1450f5882b160" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Sketches of Nantucket by Helen Murphy</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4a2278411892ea1fe9ff75012036936f" label="Mixed Materials [31142062883528]" type="box">2</container>
+            <container id="aspace_84803eaf662d4a1abad9bf0a90faacb0" parent="aspace_4a2278411892ea1fe9ff75012036936f" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Personal Correspondence</unittitle>
+            <unitdate normal="1914/1986" type="inclusive">1914-1986</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b99fb807aed4b57ab1b3725fcb766c5e" label="Mixed Materials [31142062883528]" type="box">2</container>
+            <container id="aspace_da92032cf9f87ba9f96a284203756df5" parent="aspace_b99fb807aed4b57ab1b3725fcb766c5e" type="folder">16</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

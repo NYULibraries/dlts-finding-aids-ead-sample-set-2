@@ -1,74 +1,906 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_255">mc_255</eadid><filedesc><titlestmt><titleproper>Guide to the Engelbert Schucking Papers <num>MC.255</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>October 31, 2016</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 14:37:54 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>November 2018</date><item>Updated by Stacey Flatt to include accession number 2018.035</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>New York University Archives</corpname>
-    </repository>
-    <unittitle>Engelbert Schucking Papers</unittitle>
-    <origination label="Creator">
-      <persname source="naf">Schucking, E. L. (Engelbert L.)</persname>
-    </origination>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_255">mc_255</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Engelbert Schucking Papers <num>MC.255</num></titleproper>
+        <author>Rachel Searcy</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+        <p>
+          <date>October 31, 2016</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 14:37:54 -0500</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>November 2018</date>
+        <item>Updated by Stacey Flatt to include accession number 2018.035</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Engelbert Schucking Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Schucking, E. L. (Engelbert L.)</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Schucking, Heffa</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="naf">Surowitz, Eugene J.</persname>
+      </origination>
+      <unitid>MC.255</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.25 linear feet</extent>
+        <extent altrender="carrier">in 2 record cartons and 1 legal half manuscript box</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">45 Reels</extent>
+      </physdesc>
+      <unitdate normal="1973/2015" type="inclusive">1973-2015</unitdate>
+      <abstract id="aspace_22e5a8d1ab0ebd18c7ca8cc1a02ab3d3">Engelbert Schücking (1926-2015) was a physics professor at New York University whose research interests included theoretical astrophysics, general relativity, and cosmology. Schücking was born in Hörde, Germany and  studied mathematics and physics at the University of Münster, and later at Göttingen. He worked with German physicist Pascual Jordan in Hamburg in 1952, and earned his PhD there in 1955.He moved to the United States in 1961, and held research and teaching positions at Syracuse University, Cornell University, and the University of Texas at Austin. In 1967, he was appointed as Professor of Physics at New York University. This collection consists of audio reel recordings of Engelbert Schucking as part of New York University's Sunrise Semester, and a copy of the 2015 book <emph render="italic"> Einstein's Apple</emph> by Engelbert Schücking and Eugene J. Surowitz.</abstract>
+      <langmaterial id="aspace_a07acec7f1913a439e4bfd958cda4149">Materials are in English.</langmaterial>
+    </did>
+    <scopecontent id="aspace_3cf20c4ac5d3e9169f46fdee4f88a4d9">
+      <head>Scope and Contents</head>
+      <p>This collection consists of audio reel recordings of Engelbert Schücking as part of New York University's Sunrise Semester, and a copy of the 2015 book <emph render="italic"> Einstein's Apple</emph> by Engelbert Schücking and Eugene J. Surowitz. This volume was published after Schücking's death and represents the final published collaboration between Surowitz and Schücking.</p>
+    </scopecontent>
+    <arrangement id="aspace_4b6c0fc4a10a21bda082b208a48225ca">
+      <head>Arrangement</head>
+      <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
+    </arrangement>
+    <acqinfo id="aspace_c12a29d49bd38eda65fba8ea88edf32e">
+      <head>Immediate Source of Acquisition</head>
+      <p>Collection donated by Heffa Schücking in March 2016; the accession number associated with this gift is 2016.030. An accretion of material was donated by Eugene Surowitz in 2016. The accession number associated with this gift is 2018.035.</p>
+    </acqinfo>
+    <bioghist id="aspace_956bc885b7f8b754e22db5c37472e123">
+      <head>Biographical Note</head>
+      <p>Engelbert Schücking (1926-2015) was a physics professor at New York University whose research interests included theoretical astrophysics, general relativity, and cosmology. Schücking was born in Hörde, Germany and studied mathematics and physics at the University of Münster, and later at Göttingen. He worked with German physicist Pascual Jordan in Hamburg in 1952, and earned his PhD there in 1955. He moved to the United States in 1961, and held research and teaching positions at Syracuse University, Cornell University, and the University of Texas at Austin. In 1967, he was appointed as Professor of Physics at New York University.</p>
+    </bioghist>
+    <accessrestrict id="aspace_32f0c33ea2702062a909e57a7caf6f24">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <userestrict id="aspace_f5d5e993f2965efc61e8aaa63773250e">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the creator are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives, (212) 998-2646, university-archives@nyu.edu</p>
+    </userestrict>
+    <processinfo id="aspace_7c80ebffe327b1951c4e7b7ac9c0f22e">
+      <head>Processing Information</head>
+      <p>At the time of accessioning materials were moved in archival housing and described on the collection-level. No other arrangement, description, or physical interventions have taken place. The 2018 accretion item was placed in an archival folder and box.</p>
+    </processinfo>
+    <prefercite id="aspace_0fa30fe54326b5f9cfea46d222f795c6">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Engelbert Schücking Papers; MC 255; box number; folder number; New York University Archives, New York University.</p>
+    </prefercite>
+    <phystech id="aspace_17053b23e4344cb37d6f0fc20f766c42">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Access to audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room.</p>
+    </phystech>
+    <controlaccess>
+      <subject source="lcsh">Astrology.</subject>
+      <subject source="lcsh">Astronomy.</subject>
+      <subject source="lcsh">Educational television programs</subject>
+      <subject source="lcsh">Physics -- Study and teaching -- United States</subject>
       <persname role="dnr" rules="dacs" source="local">Schucking, Heffa</persname>
-    </origination>
-    <origination label="source">
       <persname role="dnr" rules="dacs" source="naf">Surowitz, Eugene J.</persname>
-    </origination>
-    <unitid>MC.255</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">2.25 linear feet</extent>
-      <extent altrender="carrier">in 2 record cartons and 1 legal half manuscript box</extent>
-    </physdesc>
-    <physdesc altrender="part">
-      <extent altrender="materialtype spaceoccupied">45 Reels</extent>
-    </physdesc>
-    <unitdate normal="1973/2015" type="inclusive">1973-2015</unitdate>
-    <abstract id="aspace_22e5a8d1ab0ebd18c7ca8cc1a02ab3d3">Engelbert Schücking (1926-2015) was a physics professor at New York University whose research interests included theoretical astrophysics, general relativity, and cosmology. Schücking was born in Hörde, Germany and  studied mathematics and physics at the University of Münster, and later at Göttingen. He worked with German physicist Pascual Jordan in Hamburg in 1952, and earned his PhD there in 1955.He moved to the United States in 1961, and held research and teaching positions at Syracuse University, Cornell University, and the University of Texas at Austin. In 1967, he was appointed as Professor of Physics at New York University. This collection consists of audio reel recordings of Engelbert Schucking as part of New York University's Sunrise Semester, and a copy of the 2015 book <emph render="italic"> Einstein's Apple</emph> by Engelbert Schücking and Eugene J. Surowitz.</abstract>
-    <langmaterial id="aspace_a07acec7f1913a439e4bfd958cda4149">Materials are in English.</langmaterial>
-  </did>
-  <scopecontent id="aspace_3cf20c4ac5d3e9169f46fdee4f88a4d9">
-    <head>Scope and Contents</head>
-<p>This collection consists of audio reel recordings of Engelbert Schücking as part of New York University's Sunrise Semester, and a copy of the 2015 book <emph render="italic"> Einstein's Apple</emph> by Engelbert Schücking and Eugene J. Surowitz. This volume was published after Schücking's death and represents the final published collaboration between Surowitz and Schücking.</p>  </scopecontent>
-  <arrangement id="aspace_4b6c0fc4a10a21bda082b208a48225ca">
-    <head>Arrangement</head>
-<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
-  <acqinfo id="aspace_c12a29d49bd38eda65fba8ea88edf32e">
-    <head>Immediate Source of Acquisition</head>
-<p>Collection donated by Heffa Schücking in March 2016; the accession number associated with this gift is 2016.030. An accretion of material was donated by Eugene Surowitz in 2016. The accession number associated with this gift is 2018.035.</p>  </acqinfo>
-  <bioghist id="aspace_956bc885b7f8b754e22db5c37472e123">
-    <head>Biographical Note</head>
-<p>Engelbert Schücking (1926-2015) was a physics professor at New York University whose research interests included theoretical astrophysics, general relativity, and cosmology. Schücking was born in Hörde, Germany and studied mathematics and physics at the University of Münster, and later at Göttingen. He worked with German physicist Pascual Jordan in Hamburg in 1952, and earned his PhD there in 1955. He moved to the United States in 1961, and held research and teaching positions at Syracuse University, Cornell University, and the University of Texas at Austin. In 1967, he was appointed as Professor of Physics at New York University.</p>  </bioghist>
-  <accessrestrict id="aspace_32f0c33ea2702062a909e57a7caf6f24">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <userestrict id="aspace_f5d5e993f2965efc61e8aaa63773250e">
-    <head>Conditions Governing Use</head>
-<p>Any rights (including copyright and related rights to publicity and privacy) held by the creator are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives, (212) 998-2646, university-archives@nyu.edu</p>  </userestrict>
-  <processinfo id="aspace_7c80ebffe327b1951c4e7b7ac9c0f22e">
-    <head>Processing Information</head>
-<p>At the time of accessioning materials were moved in archival housing and described on the collection-level. No other arrangement, description, or physical interventions have taken place. The 2018 accretion item was placed in an archival folder and box.</p>  </processinfo>
-  <prefercite id="aspace_0fa30fe54326b5f9cfea46d222f795c6">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Engelbert Schücking Papers; MC 255; box number; folder number; New York University Archives, New York University.</p>  </prefercite>
-  <phystech id="aspace_17053b23e4344cb37d6f0fc20f766c42">
-    <head>Audiovisual Access Policies and Procedures</head>
-<p>Access to audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room.</p>  </phystech>
-  <controlaccess>
-    <subject source="lcsh">Astrology.</subject>
-    <subject source="lcsh">Astronomy.</subject>
-    <subject source="lcsh">Educational television programs</subject>
-    <subject source="lcsh">Physics -- Study and teaching -- United States</subject>
-    <persname role="dnr" rules="dacs" source="local">Schucking, Heffa</persname>
-    <persname role="dnr" rules="dacs" source="naf">Surowitz, Eugene J.</persname>
-  </controlaccess>
-  <dsc><c id="aspace_041e930a34a8787931b4d907025fd1ef" level="series"><did><unittitle>Series I: Audio reels</unittitle></did><odd id="aspace_5c853b23148049963a9e7c1e49a0fd58"><head>Housing Annotations:</head><p>Box 2 contains empty 1/4" open reel audio box (labeled as box 18) with note reading, 
+    </controlaccess>
+    <dsc>
+      <c id="aspace_041e930a34a8787931b4d907025fd1ef" level="series">
+        <did>
+          <unittitle>Series I: Audio reels</unittitle>
+        </did>
+        <odd id="aspace_5c853b23148049963a9e7c1e49a0fd58">
+          <head>Housing Annotations:</head>
+          <p>Box 2 contains empty 1/4" open reel audio box (labeled as box 18) with note reading, 
 "Tapes 1-45
 43 tapes - 23 double, 1 "not recorded"
 missing 18 22 43
 2 tapes without numbers
-box 18"</p></odd><c id="aspace_f1e6055d5f7f9173c43a914915e148c8" level="item"><did><unittitle>Astro #1</unittitle><unitid>cuid284</unitid><unitdate normal="1973-01-18/1973-01-18">1973-01-18</unitdate><unitdate normal="1973-01-29/1973-01-29">1973-01-29</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_9c9ec488529991d901d1a273fc3137ac" label="master reel [31142063052719]" type="box">1</container><container id="aspace_a4712496eff98eed66760867dcb6ff2e" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_1d364b0c4edbd2cb91c261402f795e66" label="access cd [31142062902179]" type="box">Shared Access 14</container><container id="aspace_7d47e6b087a8552374ca2b70a9420041" parent="aspace_1d364b0c4edbd2cb91c261402f795e66" type="item">34</container></did><phystech id="aspace_98fa12174e4c16e17a45fe17f752484a"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 30 min, Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_dd82b61255ee4ef38e27f6f941c33c83" level="item"><did><unittitle>Astro #2</unittitle><unitid>cuid285</unitid><unitdate normal="1973-01-18/1973-01-18">1973-01-18</unitdate><unitdate normal="1973-01-31/1973-01-31">1973-01-31</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_43d2992a4c076426f40e0c27fce04672" label="master reel [31142063052719]" type="box">1</container><container id="aspace_34cd5958083b52be2035b0134fd66834" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_48c68269cedcd3ab15be2709efe955be" label="access cd [31142062902179]" type="box">Shared Access 14</container><container id="aspace_1a7f9faab6cb1ab208e9e5d763894e8b" parent="aspace_48c68269cedcd3ab15be2709efe955be" type="item">35</container></did><phystech id="aspace_2e1b87ad15f441f075eeb81c5b1c5a06"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out."</p></phystech></c><c id="aspace_e4456c5b2d42bfcf8cbfe0f384a9e6a8" level="item"><did><unittitle>Astro Ep 3 - 73</unittitle><unitid>cuid286</unitid><unitdate normal="1973-01-25/1973-01-25">1973-01-25</unitdate><unitdate normal="1973-02-02/1973-02-02">1973-02-02</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_19976501687d9168c41f2ceaafaf8bfd" label="master reel [31142063052719]" type="box">1</container><container id="aspace_c6f42691d35c900a1b5561da3fadb72a" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_dc53e581770d909c4a07405f0e6725d2" label="access cd [31142062902179]" type="box">Shared Access 14</container><container id="aspace_65ea891d3c935c49e8c1f27bd0d7a55e" parent="aspace_dc53e581770d909c4a07405f0e6725d2" type="item">36</container></did><phystech id="aspace_e921a2ada585d40a39f9cb6b402e7cdc"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out."</p></phystech></c><c id="aspace_adba237cf74e8f274b4f84b579c6960c" level="item"><did><unittitle>Astro Ep 4</unittitle><unitid>cuid287</unitid><unitdate normal="1973-01-25/1973-01-25">1973-01-25</unitdate><unitdate normal="1973-02-05/1973-02-05">1973-02-05</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_3792051ff98033f9263c79fd9cf974fc" label="master reel [31142063052719]" type="box">1</container><container id="aspace_d8f43fb98b813c58077d3e56447c4cf1" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_908604c8cf920dd5efe3b8aa5382a299" label="access cd [31142062902179]" type="box">Shared Access 14</container><container id="aspace_91da85aa703cfc68789e27ef6b8e2a98" parent="aspace_908604c8cf920dd5efe3b8aa5382a299" type="item">37</container></did><phystech id="aspace_3085afcf5593039bb2e104de69315b1f"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out."</p></phystech></c><c id="aspace_fe0848f8d32e6360d545dc7c08d94a6a" level="item"><did><unittitle>Astro 5</unittitle><unitid>cuid288</unitid><unitdate normal="1973-01-25/1973-01-25">1973-01-25</unitdate><unitdate normal="1973-02-07/1973-02-07">1973-02-07</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_81f390ab15b1184d4429a22dbc5c41fb" label="master reel [31142063052719]" type="box">1</container><container id="aspace_da77b0aae565f8bd1bace64e1f1c01e6" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_ff8f846a46a36e6bbebaf5ec61aff7ca" label="access cd [31142062902179]" type="box">Shared Access 14</container><container id="aspace_0cea77aa42df26d7516d00cad3d76ee6" parent="aspace_ff8f846a46a36e6bbebaf5ec61aff7ca" type="item">38</container></did><phystech id="aspace_69e1c470facdeec812db7897ee6e3df0"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min, Preservation Note: Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_a3d07bfeab55117c7bd4a657f691868f" level="item"><did><unittitle>Sunrise Semester Astrology #6 - Dr. Engelbert Schucking</unittitle><unitid>cuid289</unitid><unitdate normal="1973/1973">1973</unitdate><unitdate normal="1973/1973">1973</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_b51a22513928c7b91a5293b0c64af08d" label="master reel [31142063052719]" type="box">1</container><container id="aspace_38b0af43fe470c0c37cf998d79cef344" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_954994e16b45dc7fd8b11d0458160c4c" label="access cd [31142062902179]" type="box">Shared Access 14</container><container id="aspace_860b5ff57d6a795fd1c665741935663d" parent="aspace_954994e16b45dc7fd8b11d0458160c4c" type="item">39</container></did><phystech id="aspace_fc11c97ecbe66c64a1ceb50f47def30a"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_fa0f1eebbf87967560271dfd573aed6e" level="item"><did><unittitle>Sunrise Semester Astrology #7</unittitle><unitid>cuid290</unitid><unitdate normal="1973/1973">1973</unitdate><unitdate normal="1973/1973">1973</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_eb42e4fd2dff08ed94f72645612068a5" label="master reel [31142063052719]" type="box">1</container><container id="aspace_54a864dcac6d6ff91ff366769b0b8d59" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_757b6984fcf40e5760d2759776e6f093" label="access cd [31142062902179]" type="box">Shared Access 14</container><container id="aspace_27ecad4fdbc7fa5b40f64408eafd3151" parent="aspace_757b6984fcf40e5760d2759776e6f093" type="item">40</container></did><phystech id="aspace_53fd60b4d1cbd6def3383beba1b4694d"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_b238f21faa6e1062a4d25818c4d30003" level="item"><did><unittitle>Sun Sem. Astrology #8</unittitle><unitid>cuid291</unitid><unitdate normal="1973/1973">1973</unitdate><unitdate normal="1973/1973">1973</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_548828cb8cb12fc02d66dabaf75723eb" label="master reel [31142063052719]" type="box">1</container><container id="aspace_0b58c630795609700cc90df72fe7834f" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_e2956e8553d71fd92144426e8b5f5427" label="access cd [31142062902179]" type="box">Shared Access 14</container><container id="aspace_72af73710bb8783473e7ed406c523ec4" parent="aspace_e2956e8553d71fd92144426e8b5f5427" type="item">41</container></did><phystech id="aspace_141f23076fc4130d260c5fa3cdeb0bec"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional"</p></phystech></c><c id="aspace_597dcbaf06d39f613eb755d45c673138" level="item"><did><unittitle>Semester - #9 - Astro #9</unittitle><unitid>cuid292</unitid><unitdate normal="1973-02-08/1973-02-08">1973-02-08</unitdate><unitdate normal="1973-02-16/1973-02-16">1973-02-16</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_d77559c3ba8233b75e7cccef7ce46251" label="master reel [31142063052719]" type="box">1</container><container id="aspace_e51501f1475788bc74463afe85aed988" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_26d6fe3112df824e1cd6a0f266651455" label="access cd [31142062902179]" type="box">Shared Access 14</container><container id="aspace_08a91ffdaeb4ade3d3bd937a295ce3a8" parent="aspace_26d6fe3112df824e1cd6a0f266651455" type="item">42</container></did><phystech id="aspace_e90f93c5dda93d77789baac30a3d1862"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_5efc56df2fcf97788d3a185dfa284f8e" level="item"><did><unittitle>Semester #10 AST-10</unittitle><unitid>cuid293</unitid><unitdate normal="1973-02-08/1973-02-08">1973-02-08</unitdate><unitdate normal="1973-02-19/1973-02-19">1973-02-19</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_8b562a0ea0afb042d090b25e933f871d" label="master reel [31142063052719]" type="box">1</container><container id="aspace_3bd2db01d3aa21794739b33c8a7a722c" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_9d86de54d73a0cbf7d4195de36e587e9" label="access cd [31142062902179]" type="box">Shared Access 14</container><container id="aspace_7d56657a3fa483ec171ad50f90a19634" parent="aspace_9d86de54d73a0cbf7d4195de36e587e9" type="item">43</container></did><phystech id="aspace_16113f6adafabc1f82832adc5815c0e8"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional"</p></phystech><odd id="aspace_a0ea634b1ad97579d3f161188dadefeb"><head>Housing Annotations:</head><p>Container reads "Transcribed 10/10/75"</p></odd></c><c id="aspace_31b51478d792d135c9c3974a11431f54" level="item"><did><unittitle>Semester #11</unittitle><unitid>cuid294</unitid><unitdate normal="1973-02-08/1973-02-08">1973-02-08</unitdate><unitdate normal="1973-02-21/1973-02-21">1973-02-21</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_98a3d59095891d5e1cb124c1b3c2a61e" label="master reel [31142063052719]" type="box">1</container><container id="aspace_732717769350507e86c5e2f9fd28f6f1" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_fc7f899dd926b37ebe92cd9b1b5131f6" label="access cd [31142062902179]" type="box">Shared Access 14</container><container id="aspace_c9bfb464d0a433168d6d383cd447a62d" parent="aspace_fc7f899dd926b37ebe92cd9b1b5131f6" type="item">44</container></did><phystech id="aspace_1c4d1c575cbbab5e86e0132fa0b9254b"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional"</p></phystech></c><c id="aspace_c0a2dee16b7383e1fa6cce7dc7d8ae2f" level="item"><did><unittitle>Sunrise Semester Astro #12</unittitle><unitid>cuid295</unitid><unitdate normal="1973-02-15/1973-02-15">1973-02-15</unitdate><unitdate normal="1973-02-23/1973-02-23">1973-02-23</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_9d1fac1a885112b3025fdb33a04b1b9c" label="master reel [31142063052719]" type="box">1</container><container id="aspace_722ae2bb08651a1051ed2ff785408568" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_28aac3ec74882d384ca79237e5c2893c" label="access cd [31142062902179]" type="box">Shared Access 14</container><container id="aspace_c668cea3c411c94784b93b8f10d8ee46" parent="aspace_28aac3ec74882d384ca79237e5c2893c" type="item">45</container></did><phystech id="aspace_ba735206d1b27d83d39d7073fd5c2f6a"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_689d751b404a5e0d02c5d9db871db289" level="item"><did><unittitle>Sunrise Semester Astro #13</unittitle><unitid>cuid296</unitid><unitdate normal="1973-02-15/1973-02-15">1973-02-15</unitdate><unitdate normal="1973-02-26/1973-02-26">1973-02-26</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_1f44f0ce895403c2bc1c8ed40f2e3389" label="master reel [31142063052719]" type="box">1</container><container id="aspace_26002451a56919ebb46a59a5446f1455" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_baa722fdffd7d67372e7263fa57af116" label="access cd [31142062902179]" type="box">Shared Access 14</container><container id="aspace_ec928bbea857119c462ac9a82928dced" parent="aspace_baa722fdffd7d67372e7263fa57af116" type="item">46</container></did><phystech id="aspace_528744cfc2a95152aa22e87259e76698"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out; Sporadic static bursts throughout; 00:10:30;xx-00:11:00;xx - O-blank content [microphone was probably being adjusted as the sporadic static bursts stop at this point]"</p></phystech></c><c id="aspace_125a9ee0bbb2055f20e4267bedb56ba7" level="item"><did><unittitle>Sunrise Semester Astro #14</unittitle><unitid>cuid297</unitid><unitdate normal="1973-02-15/1973-02-15">1973-02-15</unitdate><unitdate normal="1973-02-28/1973-02-28">1973-02-28</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_215a06e40ff0d65514d3e7c5c54e3664" label="master reel [31142063052719]" type="box">1</container><container id="aspace_36f6dc056b0c545d115ba723d3ea4bcf" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_0240a5a63f9b53f5b38d60e14f268e3f" label="access cd [31142062902179]" type="box">Shared Access 14</container><container id="aspace_fa986887cceba316a8705aeb05d93795" parent="aspace_0240a5a63f9b53f5b38d60e14f268e3f" type="item">47</container></did><phystech id="aspace_6708e0de51ca8bba82cbcf355825edda"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: ¼" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_39dff274a26e4f8fc67f62b079c1c00e" level="item"><did><unittitle>Sunrise Semester Astro #15</unittitle><unitid>cuid298</unitid><unitdate normal="1973-02-22/1973-02-22">1973-02-22</unitdate><unitdate normal="1973-03-02/1973-03-02">1973-03-02</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_bfab6f541e5c61043d8cf2a5fdc236e2" label="master reel [31142063052719]" type="box">1</container><container id="aspace_5f461918f29069a97a68527cb5bf91c2" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_791553bb7cde61ec0f0a6fa55c734985" label="access cd [31142062902179]" type="box">Shared Access 14</container><container id="aspace_ef04236e7c6f74b08d6cda38a88c5c62" parent="aspace_791553bb7cde61ec0f0a6fa55c734985" type="item">48</container></did><phystech id="aspace_e02670d226e8f2669fbcaf01fc4ed103"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 30 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_1983b45453c5b40ac15c0d120a1478e6" level="item"><did><unittitle>Sunrise Semester Astro #16</unittitle><unitid>cuid299</unitid><unitdate normal="1973-02-22/1973-02-22">1973-02-22</unitdate><unitdate normal="1973-03-05/1973-03-05">1973-03-05</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_92a94a2cd1431709a368f67da8d90c5f" label="master reel [31142063052719]" type="box">1</container><container id="aspace_9b8c6eb0647742e59641512b3e6e5ca1" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_bef479edb46cf15b2af46a215faaec34" label="access cd [31142062902179]" type="box">Shared Access 14</container><container id="aspace_2e7ba02562c756110eb094a2aae3e217" parent="aspace_bef479edb46cf15b2af46a215faaec34" type="item">49</container></did><phystech id="aspace_cb1a76acde8e39a95fdf37ed84a21329"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 30 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_6c5e078133041ea0cb179bc5c0e08ac7" level="item"><did><unittitle>Sunrise Semester Astro #17</unittitle><unitid>cuid300</unitid><unitdate normal="1973-02-22/1973-02-22">1973-02-22</unitdate><unitdate normal="1973-03-07/1973-03-07">1973-03-07</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_0a8f550f496ee706ed0335f9b7c1df9a" label="master reel [31142063052719]" type="box">1</container><container id="aspace_dcca4e4571b7b8aa47303265c83e8fff" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_65f16b3d8b39400252822effa8387f36" label="access cd [31142062902179]" type="box">Shared Access 14</container><container id="aspace_47e0eed2d09c5ee39623ad128637a778" parent="aspace_65f16b3d8b39400252822effa8387f36" type="item">50</container></did><phystech id="aspace_c7feef85452e5fc4a7901d772d08e257"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_07d6f76044a85f41849902bf227d0337" level="item"><did><unittitle>Sunrise Semester Astrology #18, Part 1</unittitle><unitid>cuid328</unitid><container altrender="Record carton" id="aspace_dd45d913930acb41e3e9211bbe3b6b75" label="master reel [31142063052727]" type="box">2</container><container id="aspace_8f7ebc325ce22704706b5e128c19d6cf" label="digital_access_copy" type="E-records">nyuarchives_mc255</container></did><phystech id="aspace_6820bd174075a3a42e008d29e0dd3df5"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 21 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_25791f030d907808908e000739f7b1cb" level="item"><did><unittitle>Sunrise Semester Astrology #18, Part 2</unittitle><unitid>cuid327</unitid><container altrender="Record carton" id="aspace_6870d8ee3ab03cae607eb136ae674df0" label="master reel [31142063052727]" type="box">2</container><container id="aspace_ea603b3cb79c6a54a700570678b22813" label="digital_access_copy" type="E-records">nyuarchives_mc255</container></did><phystech id="aspace_8c5f457c3b1209b9e3b49f1da63be2c9"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 10 min., Preservation Note: "Part 2 of Lecture #18 from the Schucking series; Full track, mono; 7.5 ips; uni-directional"</p></phystech></c><c id="aspace_d3d2127b29c20da46cc762e4d2d892bb" level="item"><did><unittitle>Astro 19</unittitle><unitid>cuid301</unitid><unitdate normal="1973-03-01/1973-03-01">1973-03-01</unitdate><unitdate normal="1973-03-12/1973-03-12">1973-03-12</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_ddc5b1d114c3d29630035ce969e22112" label="master reel [31142063052719]" type="box">1</container><container id="aspace_cc1bc0560818e32f2355af5f5bb10bd9" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_5b896bb64189aa51164a735dddafb9e9" label="access cd [31142062902179]" type="box">Shared Access 14</container><container id="aspace_1bc36ad36f106bb45d020dc4be98a063" parent="aspace_5b896bb64189aa51164a735dddafb9e9" type="item">51</container></did><phystech id="aspace_b6f6b613e793894f58841678aa0d34ca"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 30 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_73acefa64ef8b77ca9c394678e8dc139" level="item"><did><unittitle>Astro #20</unittitle><unitid>cuid302</unitid><unitdate normal="1973-03-01/1973-03-01">1973-03-01</unitdate><unitdate normal="1973-03-20/1973-03-20">1973-03-20</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_47cd1285bb4f6e37b7b6cb43becfebc7" label="master reel [31142063052719]" type="box">1</container><container id="aspace_d17681bc74fcdf1c7a6681abcd9e8a93" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_ecf9d93cca285797dea664bc444ff0e7" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_274aa693d25fa1346c643ba822102f92" parent="aspace_ecf9d93cca285797dea664bc444ff0e7" type="item">1</container></did><phystech id="aspace_9caa975ca63275ef0a6287e8a0bd6a03"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 30 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_7b8fd24a5f6a42a87c678b310686c191" level="item"><did><unittitle>Sun. Sem. Astro #21</unittitle><unitid>cuid303</unitid><unitdate normal="1973-03-08/1973-03-08">1973-03-08</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_236a8c4af88d544643cadcdc80abad62" label="master reel [31142063052719]" type="box">1</container><container id="aspace_42b1ead25d69f6fc8ad3b4f7d54df39c" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_fc37fa455ab3a98bfc824403ef07575c" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_b99325d9c28b9d26dad7135105ab6ffe" parent="aspace_fc37fa455ab3a98bfc824403ef07575c" type="item">2</container></did><phystech id="aspace_b35bd6464ab4dafa1f760868a0999561"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 30 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_17f548399ffcc6949e2aa50b3498a847" level="item"><did><unittitle>Sun. Sem. Astro #22</unittitle><unitid>cuid304</unitid><unitdate normal="1973-03-08/1973-03-08">1973-03-08</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_3a01eb7eb6af16b84b98381522b05b77" label="master reel [31142063052719]" type="box">1</container><container id="aspace_a2516fe7c1a58788963d963ba1f683f6" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_51a59e6ffdb12d9bef8c8921037caa0d" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_b68d92fcdf8c91f5fa9d340d7d391d95" parent="aspace_51a59e6ffdb12d9bef8c8921037caa0d" type="item">3</container></did><phystech id="aspace_b1af5be2c9664421bee62c4e81f05ffa"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_579657e058570d11b58fc0d5ac60daca" level="item"><did><unittitle>Sun. Sem. Astro #23 </unittitle><unitid>cuid305</unitid><unitdate normal="1973-03-08/1973-03-08">1973-03-08</unitdate><unitdate normal="1973-03-21/1973-03-21">1973-03-21</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_8eaffa3adb7673a18f9c06f1376394e2" label="master reel [31142063052719]" type="box">1</container><container id="aspace_6fdb371fb5b29b85df27db93bd8c64c1" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_0cd51da3449491e1438f932d9d77030d" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_53bc446944a97f3b2e813227dfa7167d" parent="aspace_0cd51da3449491e1438f932d9d77030d" type="item">4</container></did><phystech id="aspace_dbb7b6e049083651928628e6461e3f4a"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech><odd id="aspace_d373472418504f7dd5a7bfe9b95db0dc"><head>Housing Annotations:</head><p>"Not yet recorded" written in pencil under title, however the content contains episode #23.</p></odd></c><c id="aspace_9541568c65decaec4214a2003045ffa7" level="item"><did><unittitle>Astro #24</unittitle><unitid>cuid306</unitid><unitdate normal="1973-03-15/1973-03-15">1973-03-15</unitdate><unitdate normal="1973-03-23/1973-03-23">1973-03-23</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_975329dae246531d51a48c6528a03d5b" label="master reel [31142063052719]" type="box">1</container><container id="aspace_78d1c9b0b694a24aba75d4573d3cc062" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_1f7803c5be9e9c38f707ffe14a0006dd" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_b97fcb13aabdf2cae57971688102240b" parent="aspace_1f7803c5be9e9c38f707ffe14a0006dd" type="item">5</container></did><phystech id="aspace_8f210398d2421cc8e9ff4e2d04a3f7ca"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_fe966cc998a012aef344197e9312ce9f" level="item"><did><unittitle>Astro #25</unittitle><unitid>cuid307</unitid><unitdate normal="1973-03-15/1973-03-15">1973-03-15</unitdate><unitdate normal="1973-03-21/1973-03-21">1973-03-21</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_fe272f1c6c8622f3e9929a089ccc339a" label="master reel [31142063052719]" type="box">1</container><container id="aspace_d110568a480b9dad97dc98b1d2fd4be1" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_cf2ac30855778fe20be57b136209bf1e" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_d7455bf7cc22447e0721aaa6c66b0dc8" parent="aspace_cf2ac30855778fe20be57b136209bf1e" type="item">6</container></did><phystech id="aspace_67ac534f5e1466dee586714a5a272770"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 30 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_b3908154522a07e5b98f3041dc15f75d" level="item"><did><unittitle>Astro #26</unittitle><unitid>cuid308</unitid><unitdate normal="1973-03-15/1973-03-15">1973-03-15</unitdate><unitdate normal="1973-03-28/1973-03-28">1973-03-28</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_7f6229e5c1c3e409daa43050d56162ab" label="master reel [31142063052719]" type="box">1</container><container id="aspace_96deac30999c36024cbbee90af06bb1a" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_36c566d3b2a29c8e6ce42855aa545e2c" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_d1a2929f3375555ba18149a43bdc2c90" parent="aspace_36c566d3b2a29c8e6ce42855aa545e2c" type="item">7</container></did><phystech id="aspace_846104931b5e0bc918af6f4890ad05d0"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_27a5816c0818c46d2eb49555c5288441" level="item"><did><unittitle>Sun. Sem. Astro #27</unittitle><unitid>cuid309</unitid><unitdate normal="1973-03-21/1973-03-21">1973-03-21</unitdate><unitdate normal="1973-03-30/1973-03-30">1973-03-30</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_203f8665ad345209a9bd7e210b53f00b" label="master reel [31142063052719]" type="box">1</container><container id="aspace_84c28f4e0ba97a76f7fd13ae231c12f5" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_66867dce5a6222b6ebf76524608f8b21" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_09a60b6d83da166d13a287384fc6520e" parent="aspace_66867dce5a6222b6ebf76524608f8b21" type="item">8</container></did><phystech id="aspace_f2b4c0103d6eec674df61da8a38462ae"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech><odd id="aspace_018f98410b156d4dbfe7a6d7914922e4"><head>Housing Annotations:</head><p>Box reads "Transcribed 11/30/75"</p></odd></c><c id="aspace_55509144ba7a10e98d7e2a30807ed83e" level="item"><did><unittitle>Sunrise Semester Astro #28</unittitle><unitid>cuid310</unitid><unitdate normal="1973-03-21/1973-03-21">1973-03-21</unitdate><unitdate normal="1973-04-08/1973-04-08">1973-04-08</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_f3a6ebde086996d163abf5fe268f2e84" label="master reel [31142063052719]" type="box">1</container><container id="aspace_0280d0a5e71b2a1a4fdc979e817a181c" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_5cd2056234d22fc0f6dbc2889b3347e4" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_efeb018b9df88600986f4570481b77e7" parent="aspace_5cd2056234d22fc0f6dbc2889b3347e4" type="item">9</container></did><phystech id="aspace_af27e7d6f94028811e2d0c1815b3fa71"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_7553925f7b90231a15890fd61d56df39" level="item"><did><unittitle>Sun. Sem. Astro #29</unittitle><unitid>cuid311</unitid><unitdate normal="1973-03-21/1973-03-21">1973-03-21</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_0a8af70c81be7fa4c002b8a42bd6e3fe" label="master reel [31142063052719]" type="box">1</container><container id="aspace_a8fa78408d812f96afaae1312dfb7dfb" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_3de5c82c6e2b245e5c3629c2d5da7cf1" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_680e4c773bcfa46aa73611f002c27863" parent="aspace_3de5c82c6e2b245e5c3629c2d5da7cf1" type="item">10</container></did><phystech id="aspace_8b928a81280f2ec1b63d887f8e64d8a6"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_692644dbcaaf34bb171514d94b4f8d26" level="item"><did><unittitle>Sunrise Semester Episode Astro #30</unittitle><unitid>cuid312</unitid><unitdate normal="1973-03-22/1973-03-22">1973-03-22</unitdate><unitdate normal="1973-04-06/1973-04-06">1973-04-06</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_20d99b207b3cde569eac69b3d9f5c2ab" label="master reel [31142063052719]" type="box">1</container><container id="aspace_3f324680be3cbc3b112c4aa14e2ddf4b" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_9db30902e18a79a91302f210ffb94523" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_9275ee88c9dbfec631a27c2460b98fe4" parent="aspace_9db30902e18a79a91302f210ffb94523" type="item">11</container></did><phystech id="aspace_fc8441678454988d8b15298ec4ac333c"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_76832289a470b986b649ed1d45471f29" level="item"><did><unittitle>Sunrise Semester Astro Episode #31</unittitle><unitid>cuid313</unitid><unitdate normal="1973-03-22/1973-03-22">1973-03-22</unitdate><unitdate normal="1973-04-09/1973-04-09">1973-04-09</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_dc0800403fd5f877d1c3fa04dda270f6" label="master reel [31142063052727]" type="box">2</container><container id="aspace_12717b164795c61a125f0def7d59538d" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_f68f033a48f180505c0cfea71b26c8be" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_7767288f5e4deb866f4fca7fd427afb3" parent="aspace_f68f033a48f180505c0cfea71b26c8be" type="item">12</container></did><phystech id="aspace_48ae884a912b696647458fd02104f563"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note:"Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_e41f245ae0085d6568e276d44457f6c0" level="item"><did><unittitle>Sunrise Semester Episode Astro #32</unittitle><unitid>cuid314</unitid><unitdate normal="1973-03-22/1973-03-22">1973-03-22</unitdate><unitdate normal="1973-04-11/1973-04-11">1973-04-11</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_5b213331e65b8f318a988807d3f94bea" label="master reel [31142063052727]" type="box">2</container><container id="aspace_f1151f8522a655a3f6a0398245bacac1" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_b2f55e37ed569695826d57fd1c6946f1" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_3c118fc90f04447a7e6195a2dbe59edf" parent="aspace_b2f55e37ed569695826d57fd1c6946f1" type="item">13</container></did><phystech id="aspace_c5c13a9655f67f3daf20ccb82232fad5"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 30 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_c33fb451a22332c2cc9db309d8b7a1ac" level="item"><did><unittitle>Astro--Sunrise Episode #33</unittitle><unitid>cuid315</unitid><unitdate normal="1973/1973">1973</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_067a5d0349eefbc3639fdd860af13c62" label="master reel [31142063052727]" type="box">2</container><container id="aspace_9beab49f37e05cab458b09ca3ff9ee7e" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_0b82c98c766089dcf58d74cb92bcf741" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_4e8c8eba829803afc8b3bb0e6318dc6e" parent="aspace_0b82c98c766089dcf58d74cb92bcf741" type="item">14</container></did><phystech id="aspace_e421e48c26a2311cc6c081e55f6c81af"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration 33 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_77d74dda34cf0254442fa2e21f98bd18" level="item"><did><unittitle>Sunrise Semester Astro #34</unittitle><unitid>cuid316</unitid><unitdate normal="1973/1973">1973</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_191927dab4e950b5c69e188ef7bafc6e" label="master reel [31142063052727]" type="box">2</container><container id="aspace_696bf2303de6fd6d84c27b3fa87c0234" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_d6818ef1a124a0c211776e85a7bb5d4e" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_d5185ebfed15c54f4daac61fe0d00902" parent="aspace_d6818ef1a124a0c211776e85a7bb5d4e" type="item">15</container></did><phystech id="aspace_aa47377bd4dba405070eebbec97e3efb"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech><odd id="aspace_6e2eba9fd0dcbbbb3ecd1ba3004afabd"><head>Housing Annotations:</head><p>Box reads, "Transcribed 12/5/75"</p></odd></c><c id="aspace_2fb1245ce04e6aec81cddfc447a6d3fd" level="item"><did><unittitle>Sun. Sem. Astro #35</unittitle><unitid>cuid317</unitid><unitdate normal="1973/1973">1973</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_2ba7c372f4f270552730be9085ee2b82" label="master reel [31142063052727]" type="box">2</container><container id="aspace_5a50c0eb9c34234904d2275a7ff208f6" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_b17908cd74d57a08b95cf113352b0911" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_4f3706a78efe083660c7a5209825e211" parent="aspace_b17908cd74d57a08b95cf113352b0911" type="item">16</container></did><phystech id="aspace_c78870484a9f3993b838c4e73a787db4"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional"</p></phystech><odd id="aspace_dca3169a289ff40030e95a415747e0ae"><head>Housing Annotations:</head><p>Box reads, "Transcribed 12/1/75"</p></odd></c><c id="aspace_5c480afab5197194c52b6ec8f37b0bac" level="item"><did><unittitle>Sunrise Semester - (Astro #36)</unittitle><unitid>cuid318</unitid><unitdate normal="1973-04-12/1973-04-12">1973-04-12</unitdate><unitdate normal="1973-04-20/1973-04-20">1973-04-20</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_56421a31ef736e41d859d8350b2bc8fd" label="master reel [31142063052727]" type="box">2</container><container id="aspace_36ef0abe93b496daf7ec443368388272" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_261481285642e3a2491d41db23d71b3b" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_fe8da400a68deb8ddf7382f89a445f58" parent="aspace_261481285642e3a2491d41db23d71b3b" type="item">17</container></did><phystech id="aspace_b2c29ae12e5fe68bb29792fedb27122b"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4"Open Reel Audio, Duration: 32 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_c5bb39b7f4d98929987d0e9757d2b482" level="item"><did><unittitle>Sunrise Semester (Astro #37)</unittitle><unitid>cuid319</unitid><unitdate normal="1973-04-12/1973-04-12">1973-04-12</unitdate><unitdate normal="1973-04-23/1973-04-23">1973-04-23</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_495b6103d5991af030e467673ef62d9a" label="master reel [31142063052727]" type="box">2</container><container id="aspace_e4214f14ed2d3e951920c9cb82488c8a" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_cb3202d29389c2117018333ad6db8ebb" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_916c080a3116e4d6a26a1fa0bcc554bc" parent="aspace_cb3202d29389c2117018333ad6db8ebb" type="item">18</container></did><phystech id="aspace_f98b74c62f214f50e360a8fd10550236"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 30 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_a6092b743cd89b62a4edaff2192f5077" level="item"><did><unittitle>Sunrise Semester Astro #38</unittitle><unitid>cuid320</unitid><unitdate normal="1973-04-12/1973-04-12">1973-04-12</unitdate><unitdate normal="1973-04-25/1973-04-25">1973-04-25</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_6f2084aa4c2889029f39127fb536140e" label="master reel [31142063052727]" type="box">2</container><container id="aspace_a314794e9f66fd1ed7aaae01b35dcf6e" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_e88fceed952ef8c57d00d322f9cb9fd3" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_f3965b1db7f9f250217450e4c2d98fab" parent="aspace_e88fceed952ef8c57d00d322f9cb9fd3" type="item">19</container></did><phystech id="aspace_451254b8e9095997beb80e9a0683177a"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_079c00b7445fbac80455e214a665f330" level="item"><did><unittitle>Astro Episode #39</unittitle><unitid>cuid321</unitid><unitdate normal="1973-04-19/1973-04-19">1973-04-19</unitdate><unitdate normal="1973-04-27/1973-04-27">1973-04-27</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_9e0bc0fdd89eefb0f999f511d458a729" label="master reel [31142063052727]" type="box">2</container><container id="aspace_5bc75d4f1398f114b2498083b8e4779e" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_266f4aacdbe11d70d3fdee1a2f4e8ae0" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_e0554d0dcc2508f2b72da001ad06b539" parent="aspace_266f4aacdbe11d70d3fdee1a2f4e8ae0" type="item">20</container></did><phystech id="aspace_9f51366c93fbf7744a79023e3a34232d"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_7e096c1b2e3b652bad111598101d3470" level="item"><did><unittitle>Sunrise Semester Astro #40</unittitle><unitid>cuid322</unitid><unitdate normal="1973-04-19/1973-04-19">1973-04-19</unitdate><unitdate normal="1973-04-30/1973-04-30">1973-04-30</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_3c3ae49e99f95d04dff7f6f37b8abdd2" label="master reel [31142063052727]" type="box">2</container><container id="aspace_16e38204495ed490b7dcdd1d8b6181db" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_932955085fbf1f029285f781dc751ef1" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_16186ed1f16d6bca7b18ec67fbc6b545" parent="aspace_932955085fbf1f029285f781dc751ef1" type="item">21</container></did><phystech id="aspace_20f1eb1339c4e83149f52fb0c062f81e"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech><odd id="aspace_3aa8648ca964a4c193e30c980a5c0f7a"><head>Housing Annotations:</head><p>Box reads, "7 1/2" Dr Engelbert L Schucking
-Transcribed 11/18/75"</p></odd></c><c id="aspace_0d675a9ce95ef3b075476083c16418c1" level="item"><did><unittitle>Sunrise Semester Astro #41</unittitle><unitid>cuid323</unitid><unitdate normal="1973-04-19/1973-04-19">1973-04-19</unitdate><unitdate normal="1973-05-02/1973-05-02">1973-05-02</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_90236c4741d5cfbf10076110171f9c2f" label="master reel [31142063052727]" type="box">2</container><container id="aspace_ececf2a6fa5a43ac8c41092e3794aebb" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_e23d35bb263e84e9d92555da8ec0335b" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_506a674d868ac8fb9dc0ed1ffdcf4a60" parent="aspace_e23d35bb263e84e9d92555da8ec0335b" type="item">22</container></did><phystech id="aspace_d032be8c4ad29573b23a2b09398524ba"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech><odd id="aspace_84ba7b3e70542a05e8c68f2d18e4d551"><head>Housing Annotations:</head><p>Box reads, "7 1/2"
+box 18"</p>
+        </odd>
+        <c id="aspace_f1e6055d5f7f9173c43a914915e148c8" level="item">
+          <did>
+            <unittitle>Astro #1</unittitle>
+            <unitid>cuid284</unitid>
+            <unitdate normal="1973-01-18/1973-01-18">1973-01-18</unitdate>
+            <unitdate normal="1973-01-29/1973-01-29">1973-01-29</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_9c9ec488529991d901d1a273fc3137ac" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_a4712496eff98eed66760867dcb6ff2e" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_1d364b0c4edbd2cb91c261402f795e66" label="access cd [31142062902179]" type="box">Shared Access 14</container>
+            <container id="aspace_7d47e6b087a8552374ca2b70a9420041" parent="aspace_1d364b0c4edbd2cb91c261402f795e66" type="item">34</container>
+          </did>
+          <phystech id="aspace_98fa12174e4c16e17a45fe17f752484a">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 30 min, Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_dd82b61255ee4ef38e27f6f941c33c83" level="item">
+          <did>
+            <unittitle>Astro #2</unittitle>
+            <unitid>cuid285</unitid>
+            <unitdate normal="1973-01-18/1973-01-18">1973-01-18</unitdate>
+            <unitdate normal="1973-01-31/1973-01-31">1973-01-31</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_43d2992a4c076426f40e0c27fce04672" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_34cd5958083b52be2035b0134fd66834" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_48c68269cedcd3ab15be2709efe955be" label="access cd [31142062902179]" type="box">Shared Access 14</container>
+            <container id="aspace_1a7f9faab6cb1ab208e9e5d763894e8b" parent="aspace_48c68269cedcd3ab15be2709efe955be" type="item">35</container>
+          </did>
+          <phystech id="aspace_2e1b87ad15f441f075eeb81c5b1c5a06">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out."</p>
+          </phystech>
+        </c>
+        <c id="aspace_e4456c5b2d42bfcf8cbfe0f384a9e6a8" level="item">
+          <did>
+            <unittitle>Astro Ep 3 - 73</unittitle>
+            <unitid>cuid286</unitid>
+            <unitdate normal="1973-01-25/1973-01-25">1973-01-25</unitdate>
+            <unitdate normal="1973-02-02/1973-02-02">1973-02-02</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_19976501687d9168c41f2ceaafaf8bfd" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_c6f42691d35c900a1b5561da3fadb72a" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_dc53e581770d909c4a07405f0e6725d2" label="access cd [31142062902179]" type="box">Shared Access 14</container>
+            <container id="aspace_65ea891d3c935c49e8c1f27bd0d7a55e" parent="aspace_dc53e581770d909c4a07405f0e6725d2" type="item">36</container>
+          </did>
+          <phystech id="aspace_e921a2ada585d40a39f9cb6b402e7cdc">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out."</p>
+          </phystech>
+        </c>
+        <c id="aspace_adba237cf74e8f274b4f84b579c6960c" level="item">
+          <did>
+            <unittitle>Astro Ep 4</unittitle>
+            <unitid>cuid287</unitid>
+            <unitdate normal="1973-01-25/1973-01-25">1973-01-25</unitdate>
+            <unitdate normal="1973-02-05/1973-02-05">1973-02-05</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_3792051ff98033f9263c79fd9cf974fc" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_d8f43fb98b813c58077d3e56447c4cf1" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_908604c8cf920dd5efe3b8aa5382a299" label="access cd [31142062902179]" type="box">Shared Access 14</container>
+            <container id="aspace_91da85aa703cfc68789e27ef6b8e2a98" parent="aspace_908604c8cf920dd5efe3b8aa5382a299" type="item">37</container>
+          </did>
+          <phystech id="aspace_3085afcf5593039bb2e104de69315b1f">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out."</p>
+          </phystech>
+        </c>
+        <c id="aspace_fe0848f8d32e6360d545dc7c08d94a6a" level="item">
+          <did>
+            <unittitle>Astro 5</unittitle>
+            <unitid>cuid288</unitid>
+            <unitdate normal="1973-01-25/1973-01-25">1973-01-25</unitdate>
+            <unitdate normal="1973-02-07/1973-02-07">1973-02-07</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_81f390ab15b1184d4429a22dbc5c41fb" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_da77b0aae565f8bd1bace64e1f1c01e6" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_ff8f846a46a36e6bbebaf5ec61aff7ca" label="access cd [31142062902179]" type="box">Shared Access 14</container>
+            <container id="aspace_0cea77aa42df26d7516d00cad3d76ee6" parent="aspace_ff8f846a46a36e6bbebaf5ec61aff7ca" type="item">38</container>
+          </did>
+          <phystech id="aspace_69e1c470facdeec812db7897ee6e3df0">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min, Preservation Note: Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_a3d07bfeab55117c7bd4a657f691868f" level="item">
+          <did>
+            <unittitle>Sunrise Semester Astrology #6 - Dr. Engelbert Schucking</unittitle>
+            <unitid>cuid289</unitid>
+            <unitdate normal="1973/1973">1973</unitdate>
+            <unitdate normal="1973/1973">1973</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_b51a22513928c7b91a5293b0c64af08d" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_38b0af43fe470c0c37cf998d79cef344" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_954994e16b45dc7fd8b11d0458160c4c" label="access cd [31142062902179]" type="box">Shared Access 14</container>
+            <container id="aspace_860b5ff57d6a795fd1c665741935663d" parent="aspace_954994e16b45dc7fd8b11d0458160c4c" type="item">39</container>
+          </did>
+          <phystech id="aspace_fc11c97ecbe66c64a1ceb50f47def30a">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_fa0f1eebbf87967560271dfd573aed6e" level="item">
+          <did>
+            <unittitle>Sunrise Semester Astrology #7</unittitle>
+            <unitid>cuid290</unitid>
+            <unitdate normal="1973/1973">1973</unitdate>
+            <unitdate normal="1973/1973">1973</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_eb42e4fd2dff08ed94f72645612068a5" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_54a864dcac6d6ff91ff366769b0b8d59" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_757b6984fcf40e5760d2759776e6f093" label="access cd [31142062902179]" type="box">Shared Access 14</container>
+            <container id="aspace_27ecad4fdbc7fa5b40f64408eafd3151" parent="aspace_757b6984fcf40e5760d2759776e6f093" type="item">40</container>
+          </did>
+          <phystech id="aspace_53fd60b4d1cbd6def3383beba1b4694d">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_b238f21faa6e1062a4d25818c4d30003" level="item">
+          <did>
+            <unittitle>Sun Sem. Astrology #8</unittitle>
+            <unitid>cuid291</unitid>
+            <unitdate normal="1973/1973">1973</unitdate>
+            <unitdate normal="1973/1973">1973</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_548828cb8cb12fc02d66dabaf75723eb" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_0b58c630795609700cc90df72fe7834f" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_e2956e8553d71fd92144426e8b5f5427" label="access cd [31142062902179]" type="box">Shared Access 14</container>
+            <container id="aspace_72af73710bb8783473e7ed406c523ec4" parent="aspace_e2956e8553d71fd92144426e8b5f5427" type="item">41</container>
+          </did>
+          <phystech id="aspace_141f23076fc4130d260c5fa3cdeb0bec">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional"</p>
+          </phystech>
+        </c>
+        <c id="aspace_597dcbaf06d39f613eb755d45c673138" level="item">
+          <did>
+            <unittitle>Semester - #9 - Astro #9</unittitle>
+            <unitid>cuid292</unitid>
+            <unitdate normal="1973-02-08/1973-02-08">1973-02-08</unitdate>
+            <unitdate normal="1973-02-16/1973-02-16">1973-02-16</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_d77559c3ba8233b75e7cccef7ce46251" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_e51501f1475788bc74463afe85aed988" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_26d6fe3112df824e1cd6a0f266651455" label="access cd [31142062902179]" type="box">Shared Access 14</container>
+            <container id="aspace_08a91ffdaeb4ade3d3bd937a295ce3a8" parent="aspace_26d6fe3112df824e1cd6a0f266651455" type="item">42</container>
+          </did>
+          <phystech id="aspace_e90f93c5dda93d77789baac30a3d1862">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_5efc56df2fcf97788d3a185dfa284f8e" level="item">
+          <did>
+            <unittitle>Semester #10 AST-10</unittitle>
+            <unitid>cuid293</unitid>
+            <unitdate normal="1973-02-08/1973-02-08">1973-02-08</unitdate>
+            <unitdate normal="1973-02-19/1973-02-19">1973-02-19</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_8b562a0ea0afb042d090b25e933f871d" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_3bd2db01d3aa21794739b33c8a7a722c" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_9d86de54d73a0cbf7d4195de36e587e9" label="access cd [31142062902179]" type="box">Shared Access 14</container>
+            <container id="aspace_7d56657a3fa483ec171ad50f90a19634" parent="aspace_9d86de54d73a0cbf7d4195de36e587e9" type="item">43</container>
+          </did>
+          <phystech id="aspace_16113f6adafabc1f82832adc5815c0e8">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional"</p>
+          </phystech>
+          <odd id="aspace_a0ea634b1ad97579d3f161188dadefeb">
+            <head>Housing Annotations:</head>
+            <p>Container reads "Transcribed 10/10/75"</p>
+          </odd>
+        </c>
+        <c id="aspace_31b51478d792d135c9c3974a11431f54" level="item">
+          <did>
+            <unittitle>Semester #11</unittitle>
+            <unitid>cuid294</unitid>
+            <unitdate normal="1973-02-08/1973-02-08">1973-02-08</unitdate>
+            <unitdate normal="1973-02-21/1973-02-21">1973-02-21</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_98a3d59095891d5e1cb124c1b3c2a61e" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_732717769350507e86c5e2f9fd28f6f1" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_fc7f899dd926b37ebe92cd9b1b5131f6" label="access cd [31142062902179]" type="box">Shared Access 14</container>
+            <container id="aspace_c9bfb464d0a433168d6d383cd447a62d" parent="aspace_fc7f899dd926b37ebe92cd9b1b5131f6" type="item">44</container>
+          </did>
+          <phystech id="aspace_1c4d1c575cbbab5e86e0132fa0b9254b">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional"</p>
+          </phystech>
+        </c>
+        <c id="aspace_c0a2dee16b7383e1fa6cce7dc7d8ae2f" level="item">
+          <did>
+            <unittitle>Sunrise Semester Astro #12</unittitle>
+            <unitid>cuid295</unitid>
+            <unitdate normal="1973-02-15/1973-02-15">1973-02-15</unitdate>
+            <unitdate normal="1973-02-23/1973-02-23">1973-02-23</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_9d1fac1a885112b3025fdb33a04b1b9c" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_722ae2bb08651a1051ed2ff785408568" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_28aac3ec74882d384ca79237e5c2893c" label="access cd [31142062902179]" type="box">Shared Access 14</container>
+            <container id="aspace_c668cea3c411c94784b93b8f10d8ee46" parent="aspace_28aac3ec74882d384ca79237e5c2893c" type="item">45</container>
+          </did>
+          <phystech id="aspace_ba735206d1b27d83d39d7073fd5c2f6a">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_689d751b404a5e0d02c5d9db871db289" level="item">
+          <did>
+            <unittitle>Sunrise Semester Astro #13</unittitle>
+            <unitid>cuid296</unitid>
+            <unitdate normal="1973-02-15/1973-02-15">1973-02-15</unitdate>
+            <unitdate normal="1973-02-26/1973-02-26">1973-02-26</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_1f44f0ce895403c2bc1c8ed40f2e3389" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_26002451a56919ebb46a59a5446f1455" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_baa722fdffd7d67372e7263fa57af116" label="access cd [31142062902179]" type="box">Shared Access 14</container>
+            <container id="aspace_ec928bbea857119c462ac9a82928dced" parent="aspace_baa722fdffd7d67372e7263fa57af116" type="item">46</container>
+          </did>
+          <phystech id="aspace_528744cfc2a95152aa22e87259e76698">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out; Sporadic static bursts throughout; 00:10:30;xx-00:11:00;xx - O-blank content [microphone was probably being adjusted as the sporadic static bursts stop at this point]"</p>
+          </phystech>
+        </c>
+        <c id="aspace_125a9ee0bbb2055f20e4267bedb56ba7" level="item">
+          <did>
+            <unittitle>Sunrise Semester Astro #14</unittitle>
+            <unitid>cuid297</unitid>
+            <unitdate normal="1973-02-15/1973-02-15">1973-02-15</unitdate>
+            <unitdate normal="1973-02-28/1973-02-28">1973-02-28</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_215a06e40ff0d65514d3e7c5c54e3664" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_36f6dc056b0c545d115ba723d3ea4bcf" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_0240a5a63f9b53f5b38d60e14f268e3f" label="access cd [31142062902179]" type="box">Shared Access 14</container>
+            <container id="aspace_fa986887cceba316a8705aeb05d93795" parent="aspace_0240a5a63f9b53f5b38d60e14f268e3f" type="item">47</container>
+          </did>
+          <phystech id="aspace_6708e0de51ca8bba82cbcf355825edda">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: ¼" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_39dff274a26e4f8fc67f62b079c1c00e" level="item">
+          <did>
+            <unittitle>Sunrise Semester Astro #15</unittitle>
+            <unitid>cuid298</unitid>
+            <unitdate normal="1973-02-22/1973-02-22">1973-02-22</unitdate>
+            <unitdate normal="1973-03-02/1973-03-02">1973-03-02</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_bfab6f541e5c61043d8cf2a5fdc236e2" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_5f461918f29069a97a68527cb5bf91c2" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_791553bb7cde61ec0f0a6fa55c734985" label="access cd [31142062902179]" type="box">Shared Access 14</container>
+            <container id="aspace_ef04236e7c6f74b08d6cda38a88c5c62" parent="aspace_791553bb7cde61ec0f0a6fa55c734985" type="item">48</container>
+          </did>
+          <phystech id="aspace_e02670d226e8f2669fbcaf01fc4ed103">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 30 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_1983b45453c5b40ac15c0d120a1478e6" level="item">
+          <did>
+            <unittitle>Sunrise Semester Astro #16</unittitle>
+            <unitid>cuid299</unitid>
+            <unitdate normal="1973-02-22/1973-02-22">1973-02-22</unitdate>
+            <unitdate normal="1973-03-05/1973-03-05">1973-03-05</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_92a94a2cd1431709a368f67da8d90c5f" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_9b8c6eb0647742e59641512b3e6e5ca1" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_bef479edb46cf15b2af46a215faaec34" label="access cd [31142062902179]" type="box">Shared Access 14</container>
+            <container id="aspace_2e7ba02562c756110eb094a2aae3e217" parent="aspace_bef479edb46cf15b2af46a215faaec34" type="item">49</container>
+          </did>
+          <phystech id="aspace_cb1a76acde8e39a95fdf37ed84a21329">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 30 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_6c5e078133041ea0cb179bc5c0e08ac7" level="item">
+          <did>
+            <unittitle>Sunrise Semester Astro #17</unittitle>
+            <unitid>cuid300</unitid>
+            <unitdate normal="1973-02-22/1973-02-22">1973-02-22</unitdate>
+            <unitdate normal="1973-03-07/1973-03-07">1973-03-07</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_0a8f550f496ee706ed0335f9b7c1df9a" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_dcca4e4571b7b8aa47303265c83e8fff" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_65f16b3d8b39400252822effa8387f36" label="access cd [31142062902179]" type="box">Shared Access 14</container>
+            <container id="aspace_47e0eed2d09c5ee39623ad128637a778" parent="aspace_65f16b3d8b39400252822effa8387f36" type="item">50</container>
+          </did>
+          <phystech id="aspace_c7feef85452e5fc4a7901d772d08e257">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_07d6f76044a85f41849902bf227d0337" level="item">
+          <did>
+            <unittitle>Sunrise Semester Astrology #18, Part 1</unittitle>
+            <unitid>cuid328</unitid>
+            <container altrender="Record carton" id="aspace_dd45d913930acb41e3e9211bbe3b6b75" label="master reel [31142063052727]" type="box">2</container>
+            <container id="aspace_8f7ebc325ce22704706b5e128c19d6cf" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+          </did>
+          <phystech id="aspace_6820bd174075a3a42e008d29e0dd3df5">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 21 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_25791f030d907808908e000739f7b1cb" level="item">
+          <did>
+            <unittitle>Sunrise Semester Astrology #18, Part 2</unittitle>
+            <unitid>cuid327</unitid>
+            <container altrender="Record carton" id="aspace_6870d8ee3ab03cae607eb136ae674df0" label="master reel [31142063052727]" type="box">2</container>
+            <container id="aspace_ea603b3cb79c6a54a700570678b22813" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+          </did>
+          <phystech id="aspace_8c5f457c3b1209b9e3b49f1da63be2c9">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 10 min., Preservation Note: "Part 2 of Lecture #18 from the Schucking series; Full track, mono; 7.5 ips; uni-directional"</p>
+          </phystech>
+        </c>
+        <c id="aspace_d3d2127b29c20da46cc762e4d2d892bb" level="item">
+          <did>
+            <unittitle>Astro 19</unittitle>
+            <unitid>cuid301</unitid>
+            <unitdate normal="1973-03-01/1973-03-01">1973-03-01</unitdate>
+            <unitdate normal="1973-03-12/1973-03-12">1973-03-12</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_ddc5b1d114c3d29630035ce969e22112" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_cc1bc0560818e32f2355af5f5bb10bd9" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_5b896bb64189aa51164a735dddafb9e9" label="access cd [31142062902179]" type="box">Shared Access 14</container>
+            <container id="aspace_1bc36ad36f106bb45d020dc4be98a063" parent="aspace_5b896bb64189aa51164a735dddafb9e9" type="item">51</container>
+          </did>
+          <phystech id="aspace_b6f6b613e793894f58841678aa0d34ca">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 30 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_73acefa64ef8b77ca9c394678e8dc139" level="item">
+          <did>
+            <unittitle>Astro #20</unittitle>
+            <unitid>cuid302</unitid>
+            <unitdate normal="1973-03-01/1973-03-01">1973-03-01</unitdate>
+            <unitdate normal="1973-03-20/1973-03-20">1973-03-20</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_47cd1285bb4f6e37b7b6cb43becfebc7" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_d17681bc74fcdf1c7a6681abcd9e8a93" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_ecf9d93cca285797dea664bc444ff0e7" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_274aa693d25fa1346c643ba822102f92" parent="aspace_ecf9d93cca285797dea664bc444ff0e7" type="item">1</container>
+          </did>
+          <phystech id="aspace_9caa975ca63275ef0a6287e8a0bd6a03">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 30 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_7b8fd24a5f6a42a87c678b310686c191" level="item">
+          <did>
+            <unittitle>Sun. Sem. Astro #21</unittitle>
+            <unitid>cuid303</unitid>
+            <unitdate normal="1973-03-08/1973-03-08">1973-03-08</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_236a8c4af88d544643cadcdc80abad62" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_42b1ead25d69f6fc8ad3b4f7d54df39c" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_fc37fa455ab3a98bfc824403ef07575c" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_b99325d9c28b9d26dad7135105ab6ffe" parent="aspace_fc37fa455ab3a98bfc824403ef07575c" type="item">2</container>
+          </did>
+          <phystech id="aspace_b35bd6464ab4dafa1f760868a0999561">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 30 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_17f548399ffcc6949e2aa50b3498a847" level="item">
+          <did>
+            <unittitle>Sun. Sem. Astro #22</unittitle>
+            <unitid>cuid304</unitid>
+            <unitdate normal="1973-03-08/1973-03-08">1973-03-08</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_3a01eb7eb6af16b84b98381522b05b77" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_a2516fe7c1a58788963d963ba1f683f6" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_51a59e6ffdb12d9bef8c8921037caa0d" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_b68d92fcdf8c91f5fa9d340d7d391d95" parent="aspace_51a59e6ffdb12d9bef8c8921037caa0d" type="item">3</container>
+          </did>
+          <phystech id="aspace_b1af5be2c9664421bee62c4e81f05ffa">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_579657e058570d11b58fc0d5ac60daca" level="item">
+          <did>
+            <unittitle>Sun. Sem. Astro #23 </unittitle>
+            <unitid>cuid305</unitid>
+            <unitdate normal="1973-03-08/1973-03-08">1973-03-08</unitdate>
+            <unitdate normal="1973-03-21/1973-03-21">1973-03-21</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_8eaffa3adb7673a18f9c06f1376394e2" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_6fdb371fb5b29b85df27db93bd8c64c1" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_0cd51da3449491e1438f932d9d77030d" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_53bc446944a97f3b2e813227dfa7167d" parent="aspace_0cd51da3449491e1438f932d9d77030d" type="item">4</container>
+          </did>
+          <phystech id="aspace_dbb7b6e049083651928628e6461e3f4a">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+          <odd id="aspace_d373472418504f7dd5a7bfe9b95db0dc">
+            <head>Housing Annotations:</head>
+            <p>"Not yet recorded" written in pencil under title, however the content contains episode #23.</p>
+          </odd>
+        </c>
+        <c id="aspace_9541568c65decaec4214a2003045ffa7" level="item">
+          <did>
+            <unittitle>Astro #24</unittitle>
+            <unitid>cuid306</unitid>
+            <unitdate normal="1973-03-15/1973-03-15">1973-03-15</unitdate>
+            <unitdate normal="1973-03-23/1973-03-23">1973-03-23</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_975329dae246531d51a48c6528a03d5b" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_78d1c9b0b694a24aba75d4573d3cc062" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_1f7803c5be9e9c38f707ffe14a0006dd" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_b97fcb13aabdf2cae57971688102240b" parent="aspace_1f7803c5be9e9c38f707ffe14a0006dd" type="item">5</container>
+          </did>
+          <phystech id="aspace_8f210398d2421cc8e9ff4e2d04a3f7ca">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_fe966cc998a012aef344197e9312ce9f" level="item">
+          <did>
+            <unittitle>Astro #25</unittitle>
+            <unitid>cuid307</unitid>
+            <unitdate normal="1973-03-15/1973-03-15">1973-03-15</unitdate>
+            <unitdate normal="1973-03-21/1973-03-21">1973-03-21</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_fe272f1c6c8622f3e9929a089ccc339a" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_d110568a480b9dad97dc98b1d2fd4be1" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_cf2ac30855778fe20be57b136209bf1e" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_d7455bf7cc22447e0721aaa6c66b0dc8" parent="aspace_cf2ac30855778fe20be57b136209bf1e" type="item">6</container>
+          </did>
+          <phystech id="aspace_67ac534f5e1466dee586714a5a272770">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 30 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_b3908154522a07e5b98f3041dc15f75d" level="item">
+          <did>
+            <unittitle>Astro #26</unittitle>
+            <unitid>cuid308</unitid>
+            <unitdate normal="1973-03-15/1973-03-15">1973-03-15</unitdate>
+            <unitdate normal="1973-03-28/1973-03-28">1973-03-28</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_7f6229e5c1c3e409daa43050d56162ab" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_96deac30999c36024cbbee90af06bb1a" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_36c566d3b2a29c8e6ce42855aa545e2c" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_d1a2929f3375555ba18149a43bdc2c90" parent="aspace_36c566d3b2a29c8e6ce42855aa545e2c" type="item">7</container>
+          </did>
+          <phystech id="aspace_846104931b5e0bc918af6f4890ad05d0">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_27a5816c0818c46d2eb49555c5288441" level="item">
+          <did>
+            <unittitle>Sun. Sem. Astro #27</unittitle>
+            <unitid>cuid309</unitid>
+            <unitdate normal="1973-03-21/1973-03-21">1973-03-21</unitdate>
+            <unitdate normal="1973-03-30/1973-03-30">1973-03-30</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_203f8665ad345209a9bd7e210b53f00b" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_84c28f4e0ba97a76f7fd13ae231c12f5" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_66867dce5a6222b6ebf76524608f8b21" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_09a60b6d83da166d13a287384fc6520e" parent="aspace_66867dce5a6222b6ebf76524608f8b21" type="item">8</container>
+          </did>
+          <phystech id="aspace_f2b4c0103d6eec674df61da8a38462ae">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+          <odd id="aspace_018f98410b156d4dbfe7a6d7914922e4">
+            <head>Housing Annotations:</head>
+            <p>Box reads "Transcribed 11/30/75"</p>
+          </odd>
+        </c>
+        <c id="aspace_55509144ba7a10e98d7e2a30807ed83e" level="item">
+          <did>
+            <unittitle>Sunrise Semester Astro #28</unittitle>
+            <unitid>cuid310</unitid>
+            <unitdate normal="1973-03-21/1973-03-21">1973-03-21</unitdate>
+            <unitdate normal="1973-04-08/1973-04-08">1973-04-08</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_f3a6ebde086996d163abf5fe268f2e84" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_0280d0a5e71b2a1a4fdc979e817a181c" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_5cd2056234d22fc0f6dbc2889b3347e4" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_efeb018b9df88600986f4570481b77e7" parent="aspace_5cd2056234d22fc0f6dbc2889b3347e4" type="item">9</container>
+          </did>
+          <phystech id="aspace_af27e7d6f94028811e2d0c1815b3fa71">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_7553925f7b90231a15890fd61d56df39" level="item">
+          <did>
+            <unittitle>Sun. Sem. Astro #29</unittitle>
+            <unitid>cuid311</unitid>
+            <unitdate normal="1973-03-21/1973-03-21">1973-03-21</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_0a8af70c81be7fa4c002b8a42bd6e3fe" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_a8fa78408d812f96afaae1312dfb7dfb" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_3de5c82c6e2b245e5c3629c2d5da7cf1" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_680e4c773bcfa46aa73611f002c27863" parent="aspace_3de5c82c6e2b245e5c3629c2d5da7cf1" type="item">10</container>
+          </did>
+          <phystech id="aspace_8b928a81280f2ec1b63d887f8e64d8a6">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_692644dbcaaf34bb171514d94b4f8d26" level="item">
+          <did>
+            <unittitle>Sunrise Semester Episode Astro #30</unittitle>
+            <unitid>cuid312</unitid>
+            <unitdate normal="1973-03-22/1973-03-22">1973-03-22</unitdate>
+            <unitdate normal="1973-04-06/1973-04-06">1973-04-06</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_20d99b207b3cde569eac69b3d9f5c2ab" label="master reel [31142063052719]" type="box">1</container>
+            <container id="aspace_3f324680be3cbc3b112c4aa14e2ddf4b" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_9db30902e18a79a91302f210ffb94523" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_9275ee88c9dbfec631a27c2460b98fe4" parent="aspace_9db30902e18a79a91302f210ffb94523" type="item">11</container>
+          </did>
+          <phystech id="aspace_fc8441678454988d8b15298ec4ac333c">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_76832289a470b986b649ed1d45471f29" level="item">
+          <did>
+            <unittitle>Sunrise Semester Astro Episode #31</unittitle>
+            <unitid>cuid313</unitid>
+            <unitdate normal="1973-03-22/1973-03-22">1973-03-22</unitdate>
+            <unitdate normal="1973-04-09/1973-04-09">1973-04-09</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_dc0800403fd5f877d1c3fa04dda270f6" label="master reel [31142063052727]" type="box">2</container>
+            <container id="aspace_12717b164795c61a125f0def7d59538d" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_f68f033a48f180505c0cfea71b26c8be" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_7767288f5e4deb866f4fca7fd427afb3" parent="aspace_f68f033a48f180505c0cfea71b26c8be" type="item">12</container>
+          </did>
+          <phystech id="aspace_48ae884a912b696647458fd02104f563">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note:"Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_e41f245ae0085d6568e276d44457f6c0" level="item">
+          <did>
+            <unittitle>Sunrise Semester Episode Astro #32</unittitle>
+            <unitid>cuid314</unitid>
+            <unitdate normal="1973-03-22/1973-03-22">1973-03-22</unitdate>
+            <unitdate normal="1973-04-11/1973-04-11">1973-04-11</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_5b213331e65b8f318a988807d3f94bea" label="master reel [31142063052727]" type="box">2</container>
+            <container id="aspace_f1151f8522a655a3f6a0398245bacac1" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_b2f55e37ed569695826d57fd1c6946f1" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_3c118fc90f04447a7e6195a2dbe59edf" parent="aspace_b2f55e37ed569695826d57fd1c6946f1" type="item">13</container>
+          </did>
+          <phystech id="aspace_c5c13a9655f67f3daf20ccb82232fad5">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 30 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_c33fb451a22332c2cc9db309d8b7a1ac" level="item">
+          <did>
+            <unittitle>Astro--Sunrise Episode #33</unittitle>
+            <unitid>cuid315</unitid>
+            <unitdate normal="1973/1973">1973</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_067a5d0349eefbc3639fdd860af13c62" label="master reel [31142063052727]" type="box">2</container>
+            <container id="aspace_9beab49f37e05cab458b09ca3ff9ee7e" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_0b82c98c766089dcf58d74cb92bcf741" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_4e8c8eba829803afc8b3bb0e6318dc6e" parent="aspace_0b82c98c766089dcf58d74cb92bcf741" type="item">14</container>
+          </did>
+          <phystech id="aspace_e421e48c26a2311cc6c081e55f6c81af">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration 33 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_77d74dda34cf0254442fa2e21f98bd18" level="item">
+          <did>
+            <unittitle>Sunrise Semester Astro #34</unittitle>
+            <unitid>cuid316</unitid>
+            <unitdate normal="1973/1973">1973</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_191927dab4e950b5c69e188ef7bafc6e" label="master reel [31142063052727]" type="box">2</container>
+            <container id="aspace_696bf2303de6fd6d84c27b3fa87c0234" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_d6818ef1a124a0c211776e85a7bb5d4e" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_d5185ebfed15c54f4daac61fe0d00902" parent="aspace_d6818ef1a124a0c211776e85a7bb5d4e" type="item">15</container>
+          </did>
+          <phystech id="aspace_aa47377bd4dba405070eebbec97e3efb">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+          <odd id="aspace_6e2eba9fd0dcbbbb3ecd1ba3004afabd">
+            <head>Housing Annotations:</head>
+            <p>Box reads, "Transcribed 12/5/75"</p>
+          </odd>
+        </c>
+        <c id="aspace_2fb1245ce04e6aec81cddfc447a6d3fd" level="item">
+          <did>
+            <unittitle>Sun. Sem. Astro #35</unittitle>
+            <unitid>cuid317</unitid>
+            <unitdate normal="1973/1973">1973</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_2ba7c372f4f270552730be9085ee2b82" label="master reel [31142063052727]" type="box">2</container>
+            <container id="aspace_5a50c0eb9c34234904d2275a7ff208f6" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_b17908cd74d57a08b95cf113352b0911" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_4f3706a78efe083660c7a5209825e211" parent="aspace_b17908cd74d57a08b95cf113352b0911" type="item">16</container>
+          </did>
+          <phystech id="aspace_c78870484a9f3993b838c4e73a787db4">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional"</p>
+          </phystech>
+          <odd id="aspace_dca3169a289ff40030e95a415747e0ae">
+            <head>Housing Annotations:</head>
+            <p>Box reads, "Transcribed 12/1/75"</p>
+          </odd>
+        </c>
+        <c id="aspace_5c480afab5197194c52b6ec8f37b0bac" level="item">
+          <did>
+            <unittitle>Sunrise Semester - (Astro #36)</unittitle>
+            <unitid>cuid318</unitid>
+            <unitdate normal="1973-04-12/1973-04-12">1973-04-12</unitdate>
+            <unitdate normal="1973-04-20/1973-04-20">1973-04-20</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_56421a31ef736e41d859d8350b2bc8fd" label="master reel [31142063052727]" type="box">2</container>
+            <container id="aspace_36ef0abe93b496daf7ec443368388272" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_261481285642e3a2491d41db23d71b3b" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_fe8da400a68deb8ddf7382f89a445f58" parent="aspace_261481285642e3a2491d41db23d71b3b" type="item">17</container>
+          </did>
+          <phystech id="aspace_b2c29ae12e5fe68bb29792fedb27122b">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4"Open Reel Audio, Duration: 32 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_c5bb39b7f4d98929987d0e9757d2b482" level="item">
+          <did>
+            <unittitle>Sunrise Semester (Astro #37)</unittitle>
+            <unitid>cuid319</unitid>
+            <unitdate normal="1973-04-12/1973-04-12">1973-04-12</unitdate>
+            <unitdate normal="1973-04-23/1973-04-23">1973-04-23</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_495b6103d5991af030e467673ef62d9a" label="master reel [31142063052727]" type="box">2</container>
+            <container id="aspace_e4214f14ed2d3e951920c9cb82488c8a" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_cb3202d29389c2117018333ad6db8ebb" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_916c080a3116e4d6a26a1fa0bcc554bc" parent="aspace_cb3202d29389c2117018333ad6db8ebb" type="item">18</container>
+          </did>
+          <phystech id="aspace_f98b74c62f214f50e360a8fd10550236">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 30 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_a6092b743cd89b62a4edaff2192f5077" level="item">
+          <did>
+            <unittitle>Sunrise Semester Astro #38</unittitle>
+            <unitid>cuid320</unitid>
+            <unitdate normal="1973-04-12/1973-04-12">1973-04-12</unitdate>
+            <unitdate normal="1973-04-25/1973-04-25">1973-04-25</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_6f2084aa4c2889029f39127fb536140e" label="master reel [31142063052727]" type="box">2</container>
+            <container id="aspace_a314794e9f66fd1ed7aaae01b35dcf6e" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_e88fceed952ef8c57d00d322f9cb9fd3" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_f3965b1db7f9f250217450e4c2d98fab" parent="aspace_e88fceed952ef8c57d00d322f9cb9fd3" type="item">19</container>
+          </did>
+          <phystech id="aspace_451254b8e9095997beb80e9a0683177a">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_079c00b7445fbac80455e214a665f330" level="item">
+          <did>
+            <unittitle>Astro Episode #39</unittitle>
+            <unitid>cuid321</unitid>
+            <unitdate normal="1973-04-19/1973-04-19">1973-04-19</unitdate>
+            <unitdate normal="1973-04-27/1973-04-27">1973-04-27</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_9e0bc0fdd89eefb0f999f511d458a729" label="master reel [31142063052727]" type="box">2</container>
+            <container id="aspace_5bc75d4f1398f114b2498083b8e4779e" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_266f4aacdbe11d70d3fdee1a2f4e8ae0" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_e0554d0dcc2508f2b72da001ad06b539" parent="aspace_266f4aacdbe11d70d3fdee1a2f4e8ae0" type="item">20</container>
+          </did>
+          <phystech id="aspace_9f51366c93fbf7744a79023e3a34232d">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_7e096c1b2e3b652bad111598101d3470" level="item">
+          <did>
+            <unittitle>Sunrise Semester Astro #40</unittitle>
+            <unitid>cuid322</unitid>
+            <unitdate normal="1973-04-19/1973-04-19">1973-04-19</unitdate>
+            <unitdate normal="1973-04-30/1973-04-30">1973-04-30</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_3c3ae49e99f95d04dff7f6f37b8abdd2" label="master reel [31142063052727]" type="box">2</container>
+            <container id="aspace_16e38204495ed490b7dcdd1d8b6181db" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_932955085fbf1f029285f781dc751ef1" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_16186ed1f16d6bca7b18ec67fbc6b545" parent="aspace_932955085fbf1f029285f781dc751ef1" type="item">21</container>
+          </did>
+          <phystech id="aspace_20f1eb1339c4e83149f52fb0c062f81e">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+          <odd id="aspace_3aa8648ca964a4c193e30c980a5c0f7a">
+            <head>Housing Annotations:</head>
+            <p>Box reads, "7 1/2" Dr Engelbert L Schucking
+Transcribed 11/18/75"</p>
+          </odd>
+        </c>
+        <c id="aspace_0d675a9ce95ef3b075476083c16418c1" level="item">
+          <did>
+            <unittitle>Sunrise Semester Astro #41</unittitle>
+            <unitid>cuid323</unitid>
+            <unitdate normal="1973-04-19/1973-04-19">1973-04-19</unitdate>
+            <unitdate normal="1973-05-02/1973-05-02">1973-05-02</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_90236c4741d5cfbf10076110171f9c2f" label="master reel [31142063052727]" type="box">2</container>
+            <container id="aspace_ececf2a6fa5a43ac8c41092e3794aebb" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_e23d35bb263e84e9d92555da8ec0335b" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_506a674d868ac8fb9dc0ed1ffdcf4a60" parent="aspace_e23d35bb263e84e9d92555da8ec0335b" type="item">22</container>
+          </did>
+          <phystech id="aspace_d032be8c4ad29573b23a2b09398524ba">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+          <odd id="aspace_84ba7b3e70542a05e8c68f2d18e4d551">
+            <head>Housing Annotations:</head>
+            <p>Box reads, "7 1/2"
 Dr. Engelbert Schucking
-Transcribed 12/2/75"</p></odd></c><c id="aspace_08b66683de6148fa61c79f9cae1e7405" level="item"><did><unittitle>Astro 42 Sun Sem.</unittitle><unitid>cuid324</unitid><unitdate normal="1973-04-26/1973-04-26">1973-04-26</unitdate><unitdate normal="1973-05-04/1973-05-04">1973-05-04</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_3c4507d9dd5433b8dc81b368a0d9bfd4" label="master reel [31142063052727]" type="box">2</container><container id="aspace_134b15154bbbe73ee4e7d5fd45320064" label="digital_access_copy" type="E-records">nyuarchives_mc255</container><container altrender="Card box, large" id="aspace_229011ea17c581a2d5c10d4c6e662885" label="access cd [31142062902187]" type="box">Shared Access 15</container><container id="aspace_cfb22932d1c78baee9bf64187dfc7e21" parent="aspace_229011ea17c581a2d5c10d4c6e662885" type="item">23</container></did><phystech id="aspace_d1628162fcb9f8eb1241ac7962fdc3b3"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 15 ips and 7.5 ips; uni-directional; 00:16:45;xx - 00:22:00;xx [end] - O-this is an excerpt from a different lecture by the same professor and for the same course. This portion may be a duplicate."</p></phystech></c><c id="aspace_6378c6365303a0e35abb5ee729853edc" level="item"><did><unittitle>Sunrise Sem. Astro: #44</unittitle><unitid>cuid325</unitid><unitdate normal="1973-05-03/1973-05-03">1973-05-03</unitdate><unitdate normal="1973-05-09/1973-05-09">1973-05-09</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_c2e22993bff9f2b58a1b5481b98a8539" label="master reel [31142063052727]" type="box">2</container><container id="aspace_425667b022279e63ca4a234af289f295" label="digital_access_copy" type="E-records">nyuarchives_mc255</container></did><phystech id="aspace_c847985c1741039d04c85f1577a0d872"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c><c id="aspace_c35b32e462accafb3e15b00a5b3c35cd" level="item"><did><unittitle>Sunrise Sem Astro #45</unittitle><unitid>cuid326</unitid><unitdate normal="1973-05-03/1973-05-03">1973-05-03</unitdate><unitdate normal="1973-05-11/1973-05-11">1973-05-11</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_0e57a863f6dfd150db604a3030ef4dee" label="master reel [31142063052727]" type="box">2</container><container id="aspace_0fcf44a4cf32ebb6d069835df7c2b861" label="digital_access_copy" type="E-records">nyuarchives_mc255</container></did><phystech id="aspace_071de355077b12ddc024aa41c8f8baee"><head>Physical Characteristics and Technical Requirements</head><p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p></phystech></c></c><c id="aspace_d10d6f72858ca1c046e444d1dd73d271" level="series"><did><unittitle>Series II. Accretions</unittitle></did><c id="aspace_48d07a105570e58d863a3517c9ffcd0f" level="file"><did><unittitle>Book: <emph render="italic"> Einstein's Apple</emph></unittitle><unitdate normal="2015/2015">2015</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d86b3b76f21d09ac4ab16f75fd9360f4" label="Mixed Materials [31142063595758]" type="box">3</container><container id="aspace_95f81d2e771f13d144f773c280737a55" parent="aspace_d86b3b76f21d09ac4ab16f75fd9360f4" type="folder">1</container></did></c></c></dsc>
-</archdesc>
+Transcribed 12/2/75"</p>
+          </odd>
+        </c>
+        <c id="aspace_08b66683de6148fa61c79f9cae1e7405" level="item">
+          <did>
+            <unittitle>Astro 42 Sun Sem.</unittitle>
+            <unitid>cuid324</unitid>
+            <unitdate normal="1973-04-26/1973-04-26">1973-04-26</unitdate>
+            <unitdate normal="1973-05-04/1973-05-04">1973-05-04</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_3c4507d9dd5433b8dc81b368a0d9bfd4" label="master reel [31142063052727]" type="box">2</container>
+            <container id="aspace_134b15154bbbe73ee4e7d5fd45320064" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+            <container altrender="Card box, large" id="aspace_229011ea17c581a2d5c10d4c6e662885" label="access cd [31142062902187]" type="box">Shared Access 15</container>
+            <container id="aspace_cfb22932d1c78baee9bf64187dfc7e21" parent="aspace_229011ea17c581a2d5c10d4c6e662885" type="item">23</container>
+          </did>
+          <phystech id="aspace_d1628162fcb9f8eb1241ac7962fdc3b3">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 15 ips and 7.5 ips; uni-directional; 00:16:45;xx - 00:22:00;xx [end] - O-this is an excerpt from a different lecture by the same professor and for the same course. This portion may be a duplicate."</p>
+          </phystech>
+        </c>
+        <c id="aspace_6378c6365303a0e35abb5ee729853edc" level="item">
+          <did>
+            <unittitle>Sunrise Sem. Astro: #44</unittitle>
+            <unitid>cuid325</unitid>
+            <unitdate normal="1973-05-03/1973-05-03">1973-05-03</unitdate>
+            <unitdate normal="1973-05-09/1973-05-09">1973-05-09</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_c2e22993bff9f2b58a1b5481b98a8539" label="master reel [31142063052727]" type="box">2</container>
+            <container id="aspace_425667b022279e63ca4a234af289f295" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+          </did>
+          <phystech id="aspace_c847985c1741039d04c85f1577a0d872">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+        <c id="aspace_c35b32e462accafb3e15b00a5b3c35cd" level="item">
+          <did>
+            <unittitle>Sunrise Sem Astro #45</unittitle>
+            <unitid>cuid326</unitid>
+            <unitdate normal="1973-05-03/1973-05-03">1973-05-03</unitdate>
+            <unitdate normal="1973-05-11/1973-05-11">1973-05-11</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_0e57a863f6dfd150db604a3030ef4dee" label="master reel [31142063052727]" type="box">2</container>
+            <container id="aspace_0fcf44a4cf32ebb6d069835df7c2b861" label="digital_access_copy" type="E-records">nyuarchives_mc255</container>
+          </did>
+          <phystech id="aspace_071de355077b12ddc024aa41c8f8baee">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1/4" Open Reel Audio, Duration: 31 min., Preservation Note: "Full track, mono; 7.5 ips; uni-directional; stored tails out"</p>
+          </phystech>
+        </c>
+      </c>
+      <c id="aspace_d10d6f72858ca1c046e444d1dd73d271" level="series">
+        <did>
+          <unittitle>Series II. Accretions</unittitle>
+        </did>
+        <c id="aspace_48d07a105570e58d863a3517c9ffcd0f" level="file">
+          <did>
+            <unittitle>Book: <emph render="italic"> Einstein's Apple</emph></unittitle>
+            <unitdate normal="2015/2015">2015</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_d86b3b76f21d09ac4ab16f75fd9360f4" label="Mixed Materials [31142063595758]" type="box">3</container>
+            <container id="aspace_95f81d2e771f13d144f773c280737a55" parent="aspace_d86b3b76f21d09ac4ab16f75fd9360f4" type="folder">1</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

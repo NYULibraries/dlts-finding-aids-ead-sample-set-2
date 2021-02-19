@@ -1,68 +1,974 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/edmondson/index.html">mc_17</eadid><filedesc><titlestmt><titleproper>Guide to the Thomas William Edmondson Papers <num>MC.17</num></titleproper><author>Barbara J. Balliet, January 1978.  Electronic version prepared by Ashley Sena-Levine.</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>June 2011</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 14:30:48 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>June 2019</date><item>Updated by Jacqueline Rider for compliance with DACS and ACM Required Elements for Archival Description</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>New York University Archives</corpname>
-    </repository>
-    <unittitle>Thomas William Edmondson Papers</unittitle>
-    <origination label="Creator">
-      <persname rules="dacs" source="local">Edmondson, Thomas William, 1869-1938</persname>
-    </origination>
-    <unitid>MC.17</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
-      <extent altrender="carrier">in 2 manuscript boxes and on half-manuscript box</extent>
-    </physdesc>
-    <unitdate normal="1885/1918" type="inclusive">1885-1918</unitdate>
-    <physloc id="aspace_bb7907938f85350ef3d0d2f79bfa7ccb">Materials are stored offsite, and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-    <abstract id="aspace_636463c005cc32c56ae55344a44e5b7a">Thomas William Edmondson was a professor of mathematics at New York University (NYU) and served the University as Secretary of the Executive Committee of the University Council (1900-1902), Secretary of the Faculty Committee of the University Council (1903-1933), acting dean of the Graduate School (1916-1921), and Chairman of the Washington Square Collegiate Division (1913). This collection consists of his correspondence with family and friends.</abstract>
-    <langmaterial id="aspace_ced1a07bbeaaa1c55055eb9a2853f0cc">Materials are in English.</langmaterial>
-  </did>
-  <bioghist id="aspace_4d45c427d96a46adc3e61ff8ea511e48">
-    <head>Biography</head>
-<p>Thomas William Edmondson was born in Skipton-in-Craven, Yorkshire, England, on June 26, 1869.  His parents, Sarah Dodgson and Thomas Edmonson, Sr., were middle-class tradespeople.  Thomas Edmondson, Sr. had worked himself up through the printing apprentice system and was a master printer in Skipton.  He owned a small business, Edmondson &amp; Co., Printers and Stationers, and was very active in civil affairs and the Oddfellows Society.  Thomas was one of eight children.  He attended elementary school in Skipton.  From 1879-1888, he was the recipient of a scholarship at the Skipton Endowed Grammar School.  In June 1886, he took the London University matriculation examination.  When his results were published, he was first on the Honors List.  He took his B.A. at London University in 1888.  </p><p>In 1887, Edmondson received the Ackroyd Scholarship, which enabled him to attend Pembroke College in Cambridge.  The Ackroyd was a senior mathematical scholarship.  He received his B.A. from Cambridge in 1891.  After getting his degree, he continued at Cambridge as an assistant tutor in mathematics and physics at the University Correspondence College and pursued graduate studies in physics, chemistry, and botany. </p><p>During the summer of 1893, he immigrated to America.  After a year in the United States, he was appointed to a Fellowship in Physics at Clark University in Worcester, Massachusetts.  He was awarded the Ph.D. in 1896 as a result of study and research at Clark.  </p><p>Following conferral of his degree, Edmondson was appointed Assistant Professor of Physics at NYU's University College, located on the Heights campus in the Bronx.  In addition to his work in the Physics Department with Professor Daniel W. Hering, he also assisted Professor Pomeroy Ladue in the Mathematics Department.  In 1903, Edmondson became an assistant professor of mathematics.  Following Ladue's resignation in 1906, Edmondson was appointed head of the Mathematics Department.  </p><p>Professor Edmondson also served NYU as an administrator.  He was Secretary of the Faculty Committee of the University Council from 1903-1933 and served as Acting Dean of the Graduate School from 1916-1921.  He was also chairman of the Washington Square Collegiate Division in 1913.  On August 31, 1934, Edmondson's long service to the University formally ended with his retirement.  He died on November 4, 1938.  </p><p>Thomas W. Edmondson was married in 1896 to Minnie Ramsden.  They had no children.  </p>  </bioghist>
-  <prefercite id="aspace_b809d260cd748c10e532fbae0d95bb09">
-    <head>Preferred Citation note</head>
-<p>Identification of item, date (if known); Thomas William Edmondson Papers; MC 17; box number; folder number; New York University Archives, New York University Libraries.</p>  </prefercite>
-  <scopecontent id="aspace_9b0f466726d11cf43d2dfacd9b11a281">
-    <head>Scope and Contents</head>
-<p>The papers of Thomas William Edmondson consist primarily of correspondence with members of the Edmondson family who resided in Yorkshire, England.  Some letters from friends and associates of Edmondson are also included.  </p><p>The members of the Edmonson family appearing in the papers are the children and descendants of Thomas Edmondson (d. Nov. 17, 1917) and Sarah Dodgson.  Their ages are unclear from the papers.  The family members are listed below in alphabetical order.</p><p>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/edmondson/index.html">mc_17</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Thomas William Edmondson Papers <num>MC.17</num></titleproper>
+        <author>Barbara J. Balliet, January 1978.  Electronic version prepared by Ashley Sena-Levine.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+        <p>
+          <date>June 2011</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 14:30:48 -0500</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>June 2019</date>
+        <item>Updated by Jacqueline Rider for compliance with DACS and ACM Required Elements for Archival Description</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Thomas William Edmondson Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Edmondson, Thomas William, 1869-1938</persname>
+      </origination>
+      <unitid>MC.17</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
+        <extent altrender="carrier">in 2 manuscript boxes and on half-manuscript box</extent>
+      </physdesc>
+      <unitdate normal="1885/1918" type="inclusive">1885-1918</unitdate>
+      <physloc id="aspace_bb7907938f85350ef3d0d2f79bfa7ccb">Materials are stored offsite, and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <abstract id="aspace_636463c005cc32c56ae55344a44e5b7a">Thomas William Edmondson was a professor of mathematics at New York University (NYU) and served the University as Secretary of the Executive Committee of the University Council (1900-1902), Secretary of the Faculty Committee of the University Council (1903-1933), acting dean of the Graduate School (1916-1921), and Chairman of the Washington Square Collegiate Division (1913). This collection consists of his correspondence with family and friends.</abstract>
+      <langmaterial id="aspace_ced1a07bbeaaa1c55055eb9a2853f0cc">Materials are in English.</langmaterial>
+    </did>
+    <bioghist id="aspace_4d45c427d96a46adc3e61ff8ea511e48">
+      <head>Biography</head>
+      <p>Thomas William Edmondson was born in Skipton-in-Craven, Yorkshire, England, on June 26, 1869.  His parents, Sarah Dodgson and Thomas Edmonson, Sr., were middle-class tradespeople.  Thomas Edmondson, Sr. had worked himself up through the printing apprentice system and was a master printer in Skipton.  He owned a small business, Edmondson &amp; Co., Printers and Stationers, and was very active in civil affairs and the Oddfellows Society.  Thomas was one of eight children.  He attended elementary school in Skipton.  From 1879-1888, he was the recipient of a scholarship at the Skipton Endowed Grammar School.  In June 1886, he took the London University matriculation examination.  When his results were published, he was first on the Honors List.  He took his B.A. at London University in 1888.  </p>
+      <p>In 1887, Edmondson received the Ackroyd Scholarship, which enabled him to attend Pembroke College in Cambridge.  The Ackroyd was a senior mathematical scholarship.  He received his B.A. from Cambridge in 1891.  After getting his degree, he continued at Cambridge as an assistant tutor in mathematics and physics at the University Correspondence College and pursued graduate studies in physics, chemistry, and botany. </p>
+      <p>During the summer of 1893, he immigrated to America.  After a year in the United States, he was appointed to a Fellowship in Physics at Clark University in Worcester, Massachusetts.  He was awarded the Ph.D. in 1896 as a result of study and research at Clark.  </p>
+      <p>Following conferral of his degree, Edmondson was appointed Assistant Professor of Physics at NYU's University College, located on the Heights campus in the Bronx.  In addition to his work in the Physics Department with Professor Daniel W. Hering, he also assisted Professor Pomeroy Ladue in the Mathematics Department.  In 1903, Edmondson became an assistant professor of mathematics.  Following Ladue's resignation in 1906, Edmondson was appointed head of the Mathematics Department.  </p>
+      <p>Professor Edmondson also served NYU as an administrator.  He was Secretary of the Faculty Committee of the University Council from 1903-1933 and served as Acting Dean of the Graduate School from 1916-1921.  He was also chairman of the Washington Square Collegiate Division in 1913.  On August 31, 1934, Edmondson's long service to the University formally ended with his retirement.  He died on November 4, 1938.  </p>
+      <p>Thomas W. Edmondson was married in 1896 to Minnie Ramsden.  They had no children.  </p>
+    </bioghist>
+    <prefercite id="aspace_b809d260cd748c10e532fbae0d95bb09">
+      <head>Preferred Citation note</head>
+      <p>Identification of item, date (if known); Thomas William Edmondson Papers; MC 17; box number; folder number; New York University Archives, New York University Libraries.</p>
+    </prefercite>
+    <scopecontent id="aspace_9b0f466726d11cf43d2dfacd9b11a281">
+      <head>Scope and Contents</head>
+      <p>The papers of Thomas William Edmondson consist primarily of correspondence with members of the Edmondson family who resided in Yorkshire, England.  Some letters from friends and associates of Edmondson are also included.  </p>
+      <p>The members of the Edmonson family appearing in the papers are the children and descendants of Thomas Edmondson (d. Nov. 17, 1917) and Sarah Dodgson.  Their ages are unclear from the papers.  The family members are listed below in alphabetical order.</p>
+      <p>
 Dick Edmondson, married to Billie Nottingham in 1904.
-           One child, Mary, born in 1906.</p><p>George Edmondson, married to Frances in 1914.</p><p>Harry Edmondson, married to an unnamed widow in 1916.
-           No children.  His wife died in 1918.</p><p>Jack Edmondson, married to Mabel in 1894.
-           Five children: Katie, Sallie, Tom, Leonard, and Jessie.  He also adopted Mabel's niece, Dorothy.</p><p>Jim Edmonson, married to Bessie Dickinson in 1904.
-          One child, Marjery, born ca. 1907.</p><p>Nan Edmondson, married to George Mattock in 1907.
-          Two children, Mary and "Baby."</p><p>Sallie Edmondson, married to Jim Bargh in 1909.
-          One child, Geoffrey, born in 1912.  She separated from Bargh in 1916.</p><p>Thomas William Edmondson, married to Minnie Ramsden in 1896.
-          No children.</p>  </scopecontent>
-  <arrangement id="aspace_48ce9d097d83b258d599ffe1259ffd3a">
-    <head>Arrangement </head>
-<p>Edmondson's papers are arranged chronologically by correspondent.</p>  </arrangement>
-  <accessrestrict id="aspace_78edd4a66f95e971e40b3450127e08e8">
-    <head>Access Restrictions</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <userestrict id="aspace_dc2b3dab60eee57b9f7e09b213bb1557">
-    <head>Use Restrictions</head>
-<p>Any rights (including copyright and related rights to publicity and privacy) held by the creator are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives, (212) 998-2646, university-archives@nyu.edu.</p>  </userestrict>
-  <acqinfo id="aspace_e433def9a3fcb3cb66ddd062e5ec2d4a">
-    <head>Immediate Source of Acquisition</head>
-<p>Materials found in collection; there is no documentation concerning the provenance of these materials.</p>  </acqinfo>
-  <processinfo id="aspace_3ff31275214d6ba89a31660e810ec560">
-    <head>Processing Information</head>
-<p>Processing information before 2019 is unavailable.</p>  </processinfo>
-  <controlaccess>
-    <subject source="lcsh">Physics -- Study and teaching -- United States</subject>
-    <geogname source="lcsh">Skipton -- England</geogname>
-    <subject source="lcsh">World War, 1914-1918</subject>
-    <subject source="lcsh">Farm Life -- United States</subject>
-    <subject source="lcsh">Mathematics --  Study and teaching -- United States</subject>
-    <subject source="lcsh">Botany -- Study and teaching</subject>
-    <corpname source="local">Friendly Societies Association</corpname>
-    <corpname source="naf">Independent Order of Odd Fellows</corpname>
-    <corpname rules="aacr" source="naf">New York University. Department of Physics</corpname>
-    <corpname source="naf">New York University. Graduate School of Arts and Science</corpname>
-    <famname source="local">Edmondson family</famname>
-  </controlaccess>
-  <dsc><c id="aspace_ref6" level="series"><did><unittitle>Series 1: Personal Correspondence--Family</unittitle><unitdate normal="1890/1918" type="inclusive">1890-1918</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref8" level="file"><did><unittitle>Rough Drafts of T. W. Edmondson's Correspondence </unittitle><unitdate normal="1909/1912" type="inclusive">1909-1912</unitdate><container altrender="Manuscript box - Letter" id="aspace_2303dd4a39be729ffda56e661704c1d3" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_9b146a0dca0599e869c90a98b566541a" parent="aspace_2303dd4a39be729ffda56e661704c1d3" type="folder">1</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr. (Father of T. W. Edmondson)</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_e9d4e45b9ff4d4ee6c55b892c9ec157d" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_898ff3a7c8bd584d78e1e96380bab665" parent="aspace_e9d4e45b9ff4d4ee6c55b892c9ec157d" type="folder">2</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr. </unittitle><unitdate normal="1893/1893" type="inclusive">1893</unitdate><container altrender="Manuscript box - Letter" id="aspace_95698877759314219831a14c27699110" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_2a45ee782a44aeb62d98929e9aa2715f" parent="aspace_95698877759314219831a14c27699110" type="folder">3</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Letters to Thomas Edmondson, Sr.</unittitle><unitdate normal="1894/1894" type="inclusive">1894</unitdate><container altrender="Manuscript box - Letter" id="aspace_d1ba5f371597f10f7e76a4cf3efe3612" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_378f4b78b17c9fd88cee3cfd835974bf" parent="aspace_d1ba5f371597f10f7e76a4cf3efe3612" type="folder">4</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1895/1895" type="inclusive">1895</unitdate><container altrender="Manuscript box - Letter" id="aspace_7532ce87cce02e244c91333ba328dfbe" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_861bc164eaffea5de73c4e9c83c2b959" parent="aspace_7532ce87cce02e244c91333ba328dfbe" type="folder">5</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1896/1896" type="inclusive">1896</unitdate><container altrender="Manuscript box - Letter" id="aspace_1ff0b1aced1ab68c2300be25eb553b70" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_7300c2e543624f1f19fca512471dd6ba" parent="aspace_1ff0b1aced1ab68c2300be25eb553b70" type="folder">6</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1897/1897" type="inclusive">1897</unitdate><container altrender="Manuscript box - Letter" id="aspace_d0b2a2d36cc0229558c2ee04bed5fe4a" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_2d6cb8648b2e9abbb7c9a1b00fecc7a9" parent="aspace_d0b2a2d36cc0229558c2ee04bed5fe4a" type="folder">7</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1898/1898" type="inclusive">1898</unitdate><container altrender="Manuscript box - Letter" id="aspace_9e0ac03e1c615c354fb94caf9261c56d" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_8d83234e5f28b30b718c675f80ab0c63" parent="aspace_9e0ac03e1c615c354fb94caf9261c56d" type="folder">8</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1899/1899" type="inclusive">1899</unitdate><container altrender="Manuscript box - Letter" id="aspace_97b7718aca8028e2fc8ebd44d66489ba" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_7ed379ea3867cabc6a3dc32efe587f78" parent="aspace_97b7718aca8028e2fc8ebd44d66489ba" type="folder">9</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1900/1900" type="inclusive">1900</unitdate><container altrender="Manuscript box - Letter" id="aspace_99bc63d65c6efdf877e825eb06f0eae0" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_f64fe32febab6a0fe9728d1eca93b457" parent="aspace_99bc63d65c6efdf877e825eb06f0eae0" type="folder">10</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1911/1911" type="inclusive">1911</unitdate><container altrender="Manuscript box - Letter" id="aspace_7cb6bf0af6b687482dfe615a93f33c6d" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_e7d28c9ee87f7ea65c909a275d7d1181" parent="aspace_7cb6bf0af6b687482dfe615a93f33c6d" type="folder">11</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1902/1902" type="inclusive">1902</unitdate><container altrender="Manuscript box - Letter" id="aspace_70c015b941ce856b5d2b861470070e92" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_3b74fd266ca312099e27ddfaf73d611f" parent="aspace_70c015b941ce856b5d2b861470070e92" type="folder">12</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1903/1903" type="inclusive">1903</unitdate><container altrender="Manuscript box - Letter" id="aspace_02227f9d699a53d2c9d7085f0321dd5b" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_79048c493944ddf6b35f78290ce22bf6" parent="aspace_02227f9d699a53d2c9d7085f0321dd5b" type="folder">13</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1904/1904" type="inclusive">1904</unitdate><container altrender="Manuscript box - Letter" id="aspace_9f941c40d5955ab9b17c2462521c7546" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_a97bc86024bc84733c0ff792326c6fc5" parent="aspace_9f941c40d5955ab9b17c2462521c7546" type="folder">14</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1905/1905" type="inclusive">1905</unitdate><container altrender="Manuscript box - Letter" id="aspace_ec00db237570c8981b6d861e55f22232" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_be5d42680901d25919e86d7a5142a906" parent="aspace_ec00db237570c8981b6d861e55f22232" type="folder">15</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1906/1906" type="inclusive">1906</unitdate><container altrender="Manuscript box - Letter" id="aspace_12f6ac4e9cb2fc948bcbee7f64c0035e" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_792607175b6abb588578f207ac8fa506" parent="aspace_12f6ac4e9cb2fc948bcbee7f64c0035e" type="folder">16</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1907/1907" type="inclusive">1907</unitdate><container altrender="Manuscript box - Letter" id="aspace_af9397c517fc506df21459b289f94e9c" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_4e6a8436a93e4dfefac2d0faa2f778d9" parent="aspace_af9397c517fc506df21459b289f94e9c" type="folder">17</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1908/1908" type="inclusive">1908</unitdate><container altrender="Manuscript box - Letter" id="aspace_ecc3f02e39b360f592a9872e69e48ac9" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_60cd5486788d850fbe90b0d176d1aacd" parent="aspace_ecc3f02e39b360f592a9872e69e48ac9" type="folder">18</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1909/1909" type="inclusive">1909</unitdate><container altrender="Manuscript box - Letter" id="aspace_4e6e8ff2b8d9ce412815253906c58fba" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_811413b0e19b2072ba2e0c61c0d852bc" parent="aspace_4e6e8ff2b8d9ce412815253906c58fba" type="folder">19</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1910/1910" type="inclusive">1910</unitdate><container altrender="Manuscript box - Letter" id="aspace_ae747ac46776167d7c41e3bae0b290e2" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_e45ac120de1d85742eda1bdfe66b24ab" parent="aspace_ae747ac46776167d7c41e3bae0b290e2" type="folder">20</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1911/1911" type="inclusive">1911</unitdate><container altrender="Manuscript box - Letter" id="aspace_b65f2d49a91c24a1ff3dde6aa4b444d8" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_bf0fd1c80f23e9a18803a30c14030270" parent="aspace_b65f2d49a91c24a1ff3dde6aa4b444d8" type="folder">21</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1912/1912" type="inclusive">1912</unitdate><container altrender="Manuscript box - Letter" id="aspace_0b6196a3a6930645c3ccbaab01a747e7" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_2c22bdac08ae21330edd18b4ba4e936d" parent="aspace_0b6196a3a6930645c3ccbaab01a747e7" type="folder">22</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1913/1913" type="inclusive">1913</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_7b770b0732563a699751200559bdfbb1" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_ae14edc1e5d15b78e8404e22f6693e45" parent="aspace_7b770b0732563a699751200559bdfbb1" type="folder">23</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1914/1914" type="inclusive">1914</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_1afaee793bef1057d64bbee34d6ad455" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_aa20b6333b4dfcf18ec13dfd38720a70" parent="aspace_1afaee793bef1057d64bbee34d6ad455" type="folder">24</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Letters from Thomas Edmondson, Sr.</unittitle><unitdate normal="1915/1915" type="inclusive">1915</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_89b0f7e176e7fa25bfed683041ca1253" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_36d7c1267eaec707ce3300136e32526b" parent="aspace_89b0f7e176e7fa25bfed683041ca1253" type="folder">25</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Clippings and Articles Relating to Thomas Edmondson, Sr. (Including his Obituary)</unittitle><unitdate normal="1906/1915" type="inclusive">1906-1915</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_0509e1d16a6618bcb701047adb87b57d" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_531fb9f88604b96b020871f250487736" parent="aspace_0509e1d16a6618bcb701047adb87b57d" type="folder">26</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Letters from Sarah Dodgson Edmondson (Mother of T. W. Edmondson)</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_84f8ce44e8fe267d8187895d3935d356" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_32105151779797a9e2e89ac6548563e3" parent="aspace_84f8ce44e8fe267d8187895d3935d356" type="folder">27</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Letters from Sarah Dodgson Edmondson </unittitle><unitdate normal="1893/1899" type="inclusive">1893-1899</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_face4dbc2e709776dd8c309160ca9f53" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_b4b5ab1b403f2d6c47b4584231d9c513" parent="aspace_face4dbc2e709776dd8c309160ca9f53" type="folder">28</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Letters from Sarah Dodgson Edmondson </unittitle><unitdate normal="1905/1905" type="inclusive">1905</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_4799eaaf267286bc11ed8ad8ce03e9ae" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_01c878687d40d0a645d6af3ea2d2c96b" parent="aspace_4799eaaf267286bc11ed8ad8ce03e9ae" type="folder">29</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Letters from Sarah Dodgson Edmondson </unittitle><unitdate normal="1906/1906" type="inclusive">1906</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_453031c55966c75a205798b61b68274c" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_a4b6c56067dadada26688bc455a8b094" parent="aspace_453031c55966c75a205798b61b68274c" type="folder">30</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Letters from Sarah Dodgson Edmondson </unittitle><unitdate normal="1907/1907" type="inclusive">1907</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_6dad86167749b9523e79b151073addee" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_2263ab2ebf64f155960340c88bfaf4c8" parent="aspace_6dad86167749b9523e79b151073addee" type="folder">31</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Letters from Sarah Dodgson Edmondson </unittitle><unitdate normal="1908/1909" type="inclusive">1908-1909</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_560ee28f59a90be9fc8f8af184d3514c" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_89b53564ce8cea491de996c6286f0a41" parent="aspace_560ee28f59a90be9fc8f8af184d3514c" type="folder">32</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Letters from Sarah Dodgson Edmondson</unittitle><unitdate normal="1910/1911" type="inclusive">1910-1911</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_097962db2abf0743ef69b716f165842d" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_d01f38bef740a092d80d4a1bbbff5c4b" parent="aspace_097962db2abf0743ef69b716f165842d" type="folder">33</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Letters from Sarah Dodgson Edmondson </unittitle><unitdate normal="1912/1913" type="inclusive">1912-1913</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_aff8cc89a5e9aaa61046aa046759d63c" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_6cfd11a26adfc05c8036087a31353cf7" parent="aspace_aff8cc89a5e9aaa61046aa046759d63c" type="folder">34</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Letters from Sarah Dodgson Edmondson </unittitle><unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_e3e23902e161b694e8200f6b8a10c17c" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_f532a75e61c96322ed68662a3cbf378c" parent="aspace_e3e23902e161b694e8200f6b8a10c17c" type="folder">35</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Letters from Sarah Dodgson Edmondson </unittitle><unitdate normal="1916/1916" type="inclusive">1916</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_0e0eee28c6dbf9f3e1190fbb37ebd3d7" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_9b9db170e79e8549c0bbc985312e5bd7" parent="aspace_0e0eee28c6dbf9f3e1190fbb37ebd3d7" type="folder">36</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Letters from Sarah Dodgson Edmondson </unittitle><unitdate normal="1917/1917" type="inclusive">1917</unitdate><container altrender="Manuscript box - Letter" id="aspace_24f2fffbf9ef81901ffe9ec4f9a0ff8c" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_ce6a2b6e8b35d1d142279918a5d0d0d8" parent="aspace_24f2fffbf9ef81901ffe9ec4f9a0ff8c" type="folder">37</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Letters from Sarah Dodgson Edmondson </unittitle><unitdate normal="1918/1918" type="inclusive">1918</unitdate><container altrender="Manuscript box - Letter" id="aspace_0aeb724c62a8fc646862707c438af2fc" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_e21a2d878f18940cda1d5d355c355522" parent="aspace_0aeb724c62a8fc646862707c438af2fc" type="folder">38</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Letters from Jack Edmondson (Brother of T. W. Edmondson)</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_87412f84897a2944d18acfa028a8e451" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_72cfd8c8fed053f1a625713eb9e2ee53" parent="aspace_87412f84897a2944d18acfa028a8e451" type="folder">39</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Letters from Jack Edmondson</unittitle><unitdate normal="1894/1900" type="inclusive">1894-1900</unitdate><container altrender="Manuscript box - Letter" id="aspace_50d4af06fe99357f11c3f422fbe33441" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_f889ec9b71267c61ddf4541482ff31ab" parent="aspace_50d4af06fe99357f11c3f422fbe33441" type="folder">40</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Letters from Jack Edmondson</unittitle><unitdate normal="1901/1906" type="inclusive">1901-1906</unitdate><container altrender="Manuscript box - Letter" id="aspace_9fc145dae431596a9211b7d79c6029a2" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_1f6f0e42cd808a1d9ca67e252dc9998d" parent="aspace_9fc145dae431596a9211b7d79c6029a2" type="folder">41</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Letters from Jack Edmondson</unittitle><unitdate normal="1907/1910" type="inclusive">1907-1910</unitdate><container altrender="Manuscript box - Letter" id="aspace_c7ce75c3647a1e831d13d2e120e14729" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_ae6991a3d08b21ab8bd7eaaa28004958" parent="aspace_c7ce75c3647a1e831d13d2e120e14729" type="folder">42</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Letters from Jack Edmondson</unittitle><unitdate normal="1911/1912" type="inclusive">1911-1912</unitdate><container altrender="Manuscript box - Letter" id="aspace_4b25016e51f2555e66f01907e722cdfc" label="Mixed Materials [31142063066875]" type="box">1</container><container id="aspace_05ade96722ac811db3039a189269dfab" parent="aspace_4b25016e51f2555e66f01907e722cdfc" type="folder">43</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Letters from Jack Edmondson </unittitle><unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_5823039ba7f5d2347618c1a9098278b7" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_a6f0821910f7cfa1e65b62e779d3fdb4" parent="aspace_5823039ba7f5d2347618c1a9098278b7" type="folder">1</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Letters from Jack Edmondson </unittitle><unitdate normal="1915/1916" type="inclusive">1915-1916</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_aa910ab726d6d2f3b5154bb8d2c8a7b0" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_1a2a60ab17b9d6bbd0b86eb42a39d56d" parent="aspace_aa910ab726d6d2f3b5154bb8d2c8a7b0" type="folder">2</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Letters from Jack Edmondson </unittitle><unitdate normal="1917/1918" type="inclusive">1917-1918</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_94d820a3a02aadca0ea1a3364c690909" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_2c505863097963c71c0114990c321487" parent="aspace_94d820a3a02aadca0ea1a3364c690909" type="folder">3</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Letters from Mabel Edmondson (Wife of Jack)</unittitle><unitdate normal="1904/1904" type="inclusive">1904</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_97cc75e0f403d090eb5d175570840580" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_bcb38c2db9fb6af53c784c62d0e9f7f9" parent="aspace_97cc75e0f403d090eb5d175570840580" type="folder">4</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Letters from Kate Edmondson (Daughter of Jack) </unittitle><unitdate normal="1905/1916" type="inclusive">1905-1916</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_dc1e213ff1e38e4a2fecc990316bc5fe" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_4aaf7d3e3963cd4515e085f8a0201c0b" parent="aspace_dc1e213ff1e38e4a2fecc990316bc5fe" type="folder">5</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Letters from Sallie Edmondson (Daughter of Jack)</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_93ef84b980d68509233cd1f7ed166ddc" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_9430d69f4733eda4236ef5e1b894f558" parent="aspace_93ef84b980d68509233cd1f7ed166ddc" type="folder">6</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Letters from Sallie Edmondson </unittitle><unitdate normal="1904/1917" type="inclusive">1904-1917</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_394ef1fb35ae19aced1805f11b6e148d" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_fae992e90b92a04ae3a0cbd5720e00fc" parent="aspace_394ef1fb35ae19aced1805f11b6e148d" type="folder">7</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Letters from Tom Edmondson (Son of Jack)</unittitle><unitdate normal="1911/1916" type="inclusive">1911-1916</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_ea89a7f3fb2326fb39e7969a8d55b3c1" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_9a03cd6de5ec6ae60f0ea0f3232b607a" parent="aspace_ea89a7f3fb2326fb39e7969a8d55b3c1" type="folder">8</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Letters from Leonard Edmondson (Son of Jack)</unittitle><unitdate normal="1913/1917" type="inclusive">1913-1917</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_68151c5aa36de70fd8bde29bcd6dc12a" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_449cbcaead0882085e08b9f8eff4ea37" parent="aspace_68151c5aa36de70fd8bde29bcd6dc12a" type="folder">9</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Letters from Jessie Edmondson (Son of Jack)</unittitle><unitdate normal="1913/1917" type="inclusive">1913-1917</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_c7fa17593241f5e98fa2d1378bb0536d" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_fd8b1c77399bc7059c36e9f67a7f845e" parent="aspace_c7fa17593241f5e98fa2d1378bb0536d" type="folder">10</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Letters from Jim Edmondson (Brother of T. W. Edmondson)</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_63e71b41a67fdec66f2954bba77d8012" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_d5212708fdb426fdf0eb95b40731a0c3" parent="aspace_63e71b41a67fdec66f2954bba77d8012" type="folder">11</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Letters from Jim Edmondson </unittitle><unitdate normal="1890/1899" type="inclusive">1890-1899</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_3158e9e39b4f8bd2631ce18a27495d87" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_8cc400d88d669b25794313a51128d4d2" parent="aspace_3158e9e39b4f8bd2631ce18a27495d87" type="folder">12</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Letters from Jim Edmondson </unittitle><unitdate normal="1900/1909" type="inclusive">1900-1909</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_eca7c741b5407a16fe5c3c6985ce46f0" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_79bd2ae999738d887b233c8bed5be1b2" parent="aspace_eca7c741b5407a16fe5c3c6985ce46f0" type="folder">13</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Letters from Jim Edmondson </unittitle><unitdate normal="1910/1913" type="inclusive">1910-1913</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_20c7ef3df90ae9bc76d4945bc5bcdba3" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_818024b500dbbfe2ebddd87f64478eef" parent="aspace_20c7ef3df90ae9bc76d4945bc5bcdba3" type="folder">14</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Letters from Dick Edmondson Nottingham (Sister of T. W. Edmondson)</unittitle><unitdate normal="1909/1911" type="inclusive">1909-1911</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_70181d375958eebbc817d1bb9fba914e" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_a7dc7f294c875fbef92ac5e9460bbdf5" parent="aspace_70181d375958eebbc817d1bb9fba914e" type="folder">15</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Letters from Dick Edmondson Nottingham </unittitle><unitdate normal="1912/1914" type="inclusive">1912-1914</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_cf9f8404ba8958654c9796279c80a0ef" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_7936db64fc8667c1d330da73e77e1459" parent="aspace_cf9f8404ba8958654c9796279c80a0ef" type="folder">16</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Letters from Nan Edmondson Mattock (Sister of T. W. Edmondson)</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_95cf2035a8a374a6890ba27607363fe5" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_04e936e8031e84d480242c6e852195fd" parent="aspace_95cf2035a8a374a6890ba27607363fe5" type="folder">17</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Letters from Nan Edmondson Mattock</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_355a3b4aaa73d2bc5cb7d79b6772e6c7" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_a1bced1126a0f49f73123924a27083b4" parent="aspace_355a3b4aaa73d2bc5cb7d79b6772e6c7" type="folder">18</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Letters from Nan Edmondson Mattock</unittitle><unitdate normal="1897/1900" type="inclusive">1897-1900</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_292a9e024ec928421c063be65822a3fb" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_7d2c3ac740d04a3b7836d53904c68fc8" parent="aspace_292a9e024ec928421c063be65822a3fb" type="folder">19</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Letters from Nan Edmondson Mattock</unittitle><unitdate normal="1901/1907" type="inclusive">1901-1907</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_c8ec603f6d761f2048e868bd7c0aca25" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_3836a079981c02218228158846637ba0" parent="aspace_c8ec603f6d761f2048e868bd7c0aca25" type="folder">20</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Letters from Nan Edmondson Mattock</unittitle><unitdate normal="1909/1914" type="inclusive">1909-1914</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_d4ec70d3cd31a21287f157afe693a73f" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_e8115f658ce464b67f2eee6ee2d6f64e" parent="aspace_d4ec70d3cd31a21287f157afe693a73f" type="folder">21</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Letters from Nan Edmondson Mattock</unittitle><unitdate normal="1915/1916" type="inclusive">1915-1916</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_bc5d1cfce2cad4f6bdb8ec0759f4ef43" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_dba87b0c0584fe4d3150cf5d12292dad" parent="aspace_bc5d1cfce2cad4f6bdb8ec0759f4ef43" type="folder">22</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Letters from Nan Edmondson Mattock</unittitle><unitdate normal="1917/1918" type="inclusive">1917-1918</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_f3595ed13d41590e5ee130d7cdf7c8ac" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_4ddfa794a63a0661c64534991df1e2f0" parent="aspace_f3595ed13d41590e5ee130d7cdf7c8ac" type="folder">23</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Letters from George Mattock (Husband of Nan)</unittitle><unitdate normal="1907/1914" type="inclusive">1907-1914</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_68663e5631e165b93a0d979404b32d34" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_f8d94b8586e28c867348eac532057182" parent="aspace_68663e5631e165b93a0d979404b32d34" type="folder">24</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Letters from Mary Mattock (Daughter of Nan)</unittitle><unitdate normal="1918/1918" type="inclusive">1918</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_e205128c68bb9362914d7e38d34f67e9" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_4efc713bc11cb2ebef00eb1649cd41d7" parent="aspace_e205128c68bb9362914d7e38d34f67e9" type="folder">25</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Letters from Harry D. Edmondson (Brother of T. W. Edmondson)</unittitle><unitdate>undated </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_01ad2ea34e1ac92ed5cf064cb257fd3a" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_c1a74bdf6561698059e2ff31a20fa9ad" parent="aspace_01ad2ea34e1ac92ed5cf064cb257fd3a" type="folder">26</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Letters from Harry D. Edmondson</unittitle><unitdate normal="1893/1897" type="inclusive">1893-1897</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_5d24906c32316320962dbdb244d2ad27" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_9ad91118bbdbfc2b4ab2cde966f1b142" parent="aspace_5d24906c32316320962dbdb244d2ad27" type="folder">27</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Letters from Harry D. Edmondson</unittitle><unitdate normal="1898/1899" type="inclusive">1898-1899</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_ea4896935b4696df7b47564230e3342a" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_2faf98902977b460cb54b71c2e8174fa" parent="aspace_ea4896935b4696df7b47564230e3342a" type="folder">28</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Letters from Harry D. Edmondson</unittitle><unitdate normal="1900/1904" type="inclusive">1900-1904</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_e41bc03ee609e1cfd558e31614903e8d" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_53d7444f7cafd3950c15a5f65bf25128" parent="aspace_e41bc03ee609e1cfd558e31614903e8d" type="folder">29</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Letters from Harry D. Edmondson</unittitle><unitdate normal="1905/1906" type="inclusive">1905-1906</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_37c216989fc2588d48787441a5db1f14" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_b09cd3008111ec6f14f70fa1d7d5ba38" parent="aspace_37c216989fc2588d48787441a5db1f14" type="folder">30</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Letters from Harry D. Edmondson</unittitle><unitdate normal="1907/1908" type="inclusive">1907-1908</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_5d660fa38c2c6982c578eba79b8d6906" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_5d478c344c329c68c4d2c4a9bc584735" parent="aspace_5d660fa38c2c6982c578eba79b8d6906" type="folder">31</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Letters from Harry D. Edmondson</unittitle><unitdate normal="1909/1909" type="inclusive">1909</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_b0ce8f156281189e4c68dcf14d01ae69" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_d6953ceddc87100cf9479610379c03e5" parent="aspace_b0ce8f156281189e4c68dcf14d01ae69" type="folder">32</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Letters from George Edmondson (Brother of T. W. Edmondson)</unittitle><unitdate normal="1894/1905" type="inclusive">1894-1905</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_04498eedd62ca62a6fdddfd11bd1eaee" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_3b45b46bdb0386b1be6e8220b619e704" parent="aspace_04498eedd62ca62a6fdddfd11bd1eaee" type="folder">33</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Letters from George Edmondson</unittitle><unitdate normal="1909/1914" type="inclusive">1909-1914</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_9407dc6c83e918902cafe5b29c1b8a97" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_dd4d518774c29bbe48277fd2f8a5e674" parent="aspace_9407dc6c83e918902cafe5b29c1b8a97" type="folder">34</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Letters from Frances Edmondson (Wife of George)</unittitle><unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_2d2ca27a5788f11b677555141873e67f" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_1bc2e42ab6450ea01e73c5fe44d954ce" parent="aspace_2d2ca27a5788f11b677555141873e67f" type="folder">35</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Letters from Sallie Edmondson Bargh (Sister of T. W. Edmondson)</unittitle><unitdate>undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_146ae5dd9217cfed6e092d1712311b07" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_9b1f993f2e389033f311819eff9e2c54" parent="aspace_146ae5dd9217cfed6e092d1712311b07" type="folder">36</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>Letters from Sallie Edmondson Bargh</unittitle><unitdate normal="1894/1901" type="inclusive">1894-1901</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_221328492f675b4e472d6d19855859ef" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_7da5c2a234575c0ffcd6523e0583f7a8" parent="aspace_221328492f675b4e472d6d19855859ef" type="folder">37</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Letters from Sallie Edmondson Bargh</unittitle><unitdate normal="1902/1909" type="inclusive">1902-1909</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_84d254772d5e805a9eee8fa874a7d397" label="Mixed Materials [31142063066883]" type="box">2</container><container id="aspace_7efdcd70b1e873559ceade90acd13d1f" parent="aspace_84d254772d5e805a9eee8fa874a7d397" type="folder">38</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Letters from Sallie Edmondson Bargh</unittitle><unitdate normal="1910/1912" type="inclusive">1910-1912</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_9bf3e5f4d3f51fe5ce627ad7e31ad77f" label="Mixed Materials [31142063066891]" type="box">3</container><container id="aspace_fbf18668fa75c7121f485a52fc4479dc" parent="aspace_9bf3e5f4d3f51fe5ce627ad7e31ad77f" type="folder">1</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Letters from Sallie Edmondson Bargh</unittitle><unitdate normal="1913/1913" type="inclusive">1913</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_49dc5f36993e486fd439a9edb7dd17f7" label="Mixed Materials [31142063066891]" type="box">3</container><container id="aspace_adb4db3a7b122be49f48faf5b51526cc" parent="aspace_49dc5f36993e486fd439a9edb7dd17f7" type="folder">2</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Letters from Sallie Edmondson Bargh</unittitle><unitdate normal="1914/1914" type="inclusive">1914</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_cda7f041d08f84e3dc75c27dbdbf4f3f" label="Mixed Materials [31142063066891]" type="box">3</container><container id="aspace_7ca2662eed649dca7a30125cefdfc236" parent="aspace_cda7f041d08f84e3dc75c27dbdbf4f3f" type="folder">3</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Letters from Sallie Edmondson Bargh</unittitle><unitdate normal="1915/1915" type="inclusive">1915</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_55ab5ec6cac83e9368912a165bd5eb4f" label="Mixed Materials [31142063066891]" type="box">3</container><container id="aspace_a128f51dd82407184bab93047c5b0a3a" parent="aspace_55ab5ec6cac83e9368912a165bd5eb4f" type="folder">4</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>Letters from Sallie Edmondson Bargh</unittitle><unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_64971b0e5e9bd3d04a78f7dd44b0a40d" label="Mixed Materials [31142063066891]" type="box">3</container><container id="aspace_ae534a1bc2028f9d6e7c15c82350271f" parent="aspace_64971b0e5e9bd3d04a78f7dd44b0a40d" type="folder">5</container></did></c></c><c id="aspace_ref108" level="series"><did><unittitle>Series 2: Personal Correspondence--Friends and Associates</unittitle><unitdate normal="1885/1914" type="inclusive">1885-1914</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref109" level="file"><did><unittitle>Testimonies on behalf of T. W. Edmondson from William Briggs, E. T. Hartley, Reverend C. H. Prior, and R. R. Webb</unittitle><unitdate normal="1892/1893" type="inclusive">1892-1893</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_2e08fcbcd51692f2692b6ce950fd0b74" label="Mixed Materials [31142063066891]" type="box">3</container><container id="aspace_29ca4a2528c1e6587849fee23f92c494" parent="aspace_2e08fcbcd51692f2692b6ce950fd0b74" type="folder">6</container></did></c><c id="aspace_ref110" level="file"><did><unittitle>Letter from Colin H. Dakers</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_fd342d3f6c180e07ce42c54ea56c5b58" label="Mixed Materials [31142063066891]" type="box">3</container><container id="aspace_8a706ce4a37dee86fb1bfd90e3b056ea" parent="aspace_fd342d3f6c180e07ce42c54ea56c5b58" type="folder">7</container></did></c><c id="aspace_ref111" level="file"><did><unittitle>Card from D. W. Hering, Professor of Mathematics at NYU</unittitle><unitdate normal="1914/1914" type="inclusive">1914</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_6e0201fd62d7c1cb54874dde723d9735" label="Mixed Materials [31142063066891]" type="box">3</container><container id="aspace_8fe95faa42382b9983ef20d331b3f16f" parent="aspace_6e0201fd62d7c1cb54874dde723d9735" type="folder">8</container></did></c><c id="aspace_ref112" level="file"><did><unittitle>Letter from H. S. Holmes</unittitle><unitdate normal="1913/1913" type="inclusive">1913</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_d277d3a23d18fd17ed18de598a0bf078" label="Mixed Materials [31142063066891]" type="box">3</container><container id="aspace_9cab0b618d565f26ad0adc66f4dcb0ab" parent="aspace_d277d3a23d18fd17ed18de598a0bf078" type="folder">9</container></did></c><c id="aspace_ref113" level="file"><did><unittitle>Letters from F. Arnold Lees</unittitle><unitdate normal="1890/1913" type="inclusive">1890-1913</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_010959fe2fa8c9797bbd34de460a82f6" label="Mixed Materials [31142063066891]" type="box">3</container><container id="aspace_53ac95091e0766b8b7f4b8f4e8b59ea8" parent="aspace_010959fe2fa8c9797bbd34de460a82f6" type="folder">10</container></did></c><c id="aspace_ref114" level="file"><did><unittitle>Letter from J. E. Ludlum (cousin?)</unittitle><unitdate normal="1909/1909" type="inclusive">1909</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_35f488acde1f9885f17af9e6f2c8f72b" label="Mixed Materials [31142063066891]" type="box">3</container><container id="aspace_9c81585624a3d62dfb3e9f1d2c6ed670" parent="aspace_35f488acde1f9885f17af9e6f2c8f72b" type="folder">11</container></did></c><c id="aspace_ref115" level="file"><did><unittitle>Letter from Lister Rotheray</unittitle><unitdate normal="1889/1906" type="inclusive">1889-1906</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_98aa3979e17610db3df870e50e995543" label="Mixed Materials [31142063066891]" type="box">3</container><container id="aspace_afce5093722c1e826666e134b345803b" parent="aspace_98aa3979e17610db3df870e50e995543" type="folder">12</container></did></c><c id="aspace_ref116" level="file"><did><unittitle>Letters from Colin and Dorothy Stewart </unittitle><unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_193a88a88f7fef1e71378e2204a57918" label="Mixed Materials [31142063066891]" type="box">3</container><container id="aspace_0338bebd8967be14f4505bd0f9f7da9d" parent="aspace_193a88a88f7fef1e71378e2204a57918" type="folder">13</container></did></c><c id="aspace_ref117" level="file"><did><unittitle>Letter from G. W. Thompson [?]</unittitle><unitdate normal="1905/1905" type="inclusive">1905</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_6f199be5308678fb675a99a177f83874" label="Mixed Materials [31142063066891]" type="box">3</container><container id="aspace_1106af984ae0b9b5d01900f9b203c3a2" parent="aspace_6f199be5308678fb675a99a177f83874" type="folder">14</container></did></c><c id="aspace_ref118" level="file"><did><unittitle>Letters from William Whitwell </unittitle><unitdate>1885-1889</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_f508166c9e3943f484520f1fbfa40c20" label="Mixed Materials [31142063066891]" type="box">3</container><container id="aspace_d7c20f02bf64e48af10844bcfd23f0bf" parent="aspace_f508166c9e3943f484520f1fbfa40c20" type="folder">15</container></did></c><c id="aspace_ref119" level="file"><did><unittitle>Letters from William Whitwell </unittitle><unitdate normal="1890/1901" type="inclusive">1890-1901</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_cc01ce96eff252c48231b1a8f8866324" label="Mixed Materials [31142063066891]" type="box">3</container><container id="aspace_c77c7c479af9507d7ea1c8afda4e71ed" parent="aspace_cc01ce96eff252c48231b1a8f8866324" type="folder">16</container></did></c><c id="aspace_ref120" level="file"><did><unittitle>Letters from William Whitwell </unittitle><unitdate normal="1902/1909" type="inclusive">1902-1909</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_2e7f63a8f6967adea1dce0748119d324" label="Mixed Materials [31142063066891]" type="box">3</container><container id="aspace_dfcb9233020179c3d9b6ac1e7fe26a44" parent="aspace_2e7f63a8f6967adea1dce0748119d324" type="folder">17</container></did></c></c></dsc>
-</archdesc>
+           One child, Mary, born in 1906.</p>
+      <p>George Edmondson, married to Frances in 1914.</p>
+      <p>Harry Edmondson, married to an unnamed widow in 1916.
+           No children.  His wife died in 1918.</p>
+      <p>Jack Edmondson, married to Mabel in 1894.
+           Five children: Katie, Sallie, Tom, Leonard, and Jessie.  He also adopted Mabel's niece, Dorothy.</p>
+      <p>Jim Edmonson, married to Bessie Dickinson in 1904.
+          One child, Marjery, born ca. 1907.</p>
+      <p>Nan Edmondson, married to George Mattock in 1907.
+          Two children, Mary and "Baby."</p>
+      <p>Sallie Edmondson, married to Jim Bargh in 1909.
+          One child, Geoffrey, born in 1912.  She separated from Bargh in 1916.</p>
+      <p>Thomas William Edmondson, married to Minnie Ramsden in 1896.
+          No children.</p>
+    </scopecontent>
+    <arrangement id="aspace_48ce9d097d83b258d599ffe1259ffd3a">
+      <head>Arrangement </head>
+      <p>Edmondson's papers are arranged chronologically by correspondent.</p>
+    </arrangement>
+    <accessrestrict id="aspace_78edd4a66f95e971e40b3450127e08e8">
+      <head>Access Restrictions</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <userestrict id="aspace_dc2b3dab60eee57b9f7e09b213bb1557">
+      <head>Use Restrictions</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the creator are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives, (212) 998-2646, university-archives@nyu.edu.</p>
+    </userestrict>
+    <acqinfo id="aspace_e433def9a3fcb3cb66ddd062e5ec2d4a">
+      <head>Immediate Source of Acquisition</head>
+      <p>Materials found in collection; there is no documentation concerning the provenance of these materials.</p>
+    </acqinfo>
+    <processinfo id="aspace_3ff31275214d6ba89a31660e810ec560">
+      <head>Processing Information</head>
+      <p>Processing information before 2019 is unavailable.</p>
+    </processinfo>
+    <controlaccess>
+      <subject source="lcsh">Physics -- Study and teaching -- United States</subject>
+      <geogname source="lcsh">Skipton -- England</geogname>
+      <subject source="lcsh">World War, 1914-1918</subject>
+      <subject source="lcsh">Farm Life -- United States</subject>
+      <subject source="lcsh">Mathematics --  Study and teaching -- United States</subject>
+      <subject source="lcsh">Botany -- Study and teaching</subject>
+      <corpname source="local">Friendly Societies Association</corpname>
+      <corpname source="naf">Independent Order of Odd Fellows</corpname>
+      <corpname rules="aacr" source="naf">New York University. Department of Physics</corpname>
+      <corpname source="naf">New York University. Graduate School of Arts and Science</corpname>
+      <famname source="local">Edmondson family</famname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref6" level="series">
+        <did>
+          <unittitle>Series 1: Personal Correspondence--Family</unittitle>
+          <unitdate normal="1890/1918" type="inclusive">1890-1918</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Rough Drafts of T. W. Edmondson's Correspondence </unittitle>
+            <unitdate normal="1909/1912" type="inclusive">1909-1912</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_2303dd4a39be729ffda56e661704c1d3" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_9b146a0dca0599e869c90a98b566541a" parent="aspace_2303dd4a39be729ffda56e661704c1d3" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr. (Father of T. W. Edmondson)</unittitle>
+            <unitdate>undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_e9d4e45b9ff4d4ee6c55b892c9ec157d" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_898ff3a7c8bd584d78e1e96380bab665" parent="aspace_e9d4e45b9ff4d4ee6c55b892c9ec157d" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr. </unittitle>
+            <unitdate normal="1893/1893" type="inclusive">1893</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_95698877759314219831a14c27699110" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_2a45ee782a44aeb62d98929e9aa2715f" parent="aspace_95698877759314219831a14c27699110" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Letters to Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1894/1894" type="inclusive">1894</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_d1ba5f371597f10f7e76a4cf3efe3612" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_378f4b78b17c9fd88cee3cfd835974bf" parent="aspace_d1ba5f371597f10f7e76a4cf3efe3612" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1895/1895" type="inclusive">1895</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_7532ce87cce02e244c91333ba328dfbe" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_861bc164eaffea5de73c4e9c83c2b959" parent="aspace_7532ce87cce02e244c91333ba328dfbe" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1896/1896" type="inclusive">1896</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_1ff0b1aced1ab68c2300be25eb553b70" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_7300c2e543624f1f19fca512471dd6ba" parent="aspace_1ff0b1aced1ab68c2300be25eb553b70" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1897/1897" type="inclusive">1897</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_d0b2a2d36cc0229558c2ee04bed5fe4a" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_2d6cb8648b2e9abbb7c9a1b00fecc7a9" parent="aspace_d0b2a2d36cc0229558c2ee04bed5fe4a" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1898/1898" type="inclusive">1898</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_9e0ac03e1c615c354fb94caf9261c56d" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_8d83234e5f28b30b718c675f80ab0c63" parent="aspace_9e0ac03e1c615c354fb94caf9261c56d" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1899/1899" type="inclusive">1899</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_97b7718aca8028e2fc8ebd44d66489ba" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_7ed379ea3867cabc6a3dc32efe587f78" parent="aspace_97b7718aca8028e2fc8ebd44d66489ba" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1900/1900" type="inclusive">1900</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_99bc63d65c6efdf877e825eb06f0eae0" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_f64fe32febab6a0fe9728d1eca93b457" parent="aspace_99bc63d65c6efdf877e825eb06f0eae0" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1911/1911" type="inclusive">1911</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_7cb6bf0af6b687482dfe615a93f33c6d" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_e7d28c9ee87f7ea65c909a275d7d1181" parent="aspace_7cb6bf0af6b687482dfe615a93f33c6d" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1902/1902" type="inclusive">1902</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_70c015b941ce856b5d2b861470070e92" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_3b74fd266ca312099e27ddfaf73d611f" parent="aspace_70c015b941ce856b5d2b861470070e92" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1903/1903" type="inclusive">1903</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_02227f9d699a53d2c9d7085f0321dd5b" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_79048c493944ddf6b35f78290ce22bf6" parent="aspace_02227f9d699a53d2c9d7085f0321dd5b" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1904/1904" type="inclusive">1904</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_9f941c40d5955ab9b17c2462521c7546" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_a97bc86024bc84733c0ff792326c6fc5" parent="aspace_9f941c40d5955ab9b17c2462521c7546" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1905/1905" type="inclusive">1905</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_ec00db237570c8981b6d861e55f22232" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_be5d42680901d25919e86d7a5142a906" parent="aspace_ec00db237570c8981b6d861e55f22232" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1906/1906" type="inclusive">1906</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_12f6ac4e9cb2fc948bcbee7f64c0035e" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_792607175b6abb588578f207ac8fa506" parent="aspace_12f6ac4e9cb2fc948bcbee7f64c0035e" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1907/1907" type="inclusive">1907</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_af9397c517fc506df21459b289f94e9c" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_4e6a8436a93e4dfefac2d0faa2f778d9" parent="aspace_af9397c517fc506df21459b289f94e9c" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1908/1908" type="inclusive">1908</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_ecc3f02e39b360f592a9872e69e48ac9" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_60cd5486788d850fbe90b0d176d1aacd" parent="aspace_ecc3f02e39b360f592a9872e69e48ac9" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1909/1909" type="inclusive">1909</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_4e6e8ff2b8d9ce412815253906c58fba" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_811413b0e19b2072ba2e0c61c0d852bc" parent="aspace_4e6e8ff2b8d9ce412815253906c58fba" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1910/1910" type="inclusive">1910</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_ae747ac46776167d7c41e3bae0b290e2" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_e45ac120de1d85742eda1bdfe66b24ab" parent="aspace_ae747ac46776167d7c41e3bae0b290e2" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1911/1911" type="inclusive">1911</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_b65f2d49a91c24a1ff3dde6aa4b444d8" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_bf0fd1c80f23e9a18803a30c14030270" parent="aspace_b65f2d49a91c24a1ff3dde6aa4b444d8" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1912/1912" type="inclusive">1912</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_0b6196a3a6930645c3ccbaab01a747e7" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_2c22bdac08ae21330edd18b4ba4e936d" parent="aspace_0b6196a3a6930645c3ccbaab01a747e7" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1913/1913" type="inclusive">1913</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_7b770b0732563a699751200559bdfbb1" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_ae14edc1e5d15b78e8404e22f6693e45" parent="aspace_7b770b0732563a699751200559bdfbb1" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1914/1914" type="inclusive">1914</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_1afaee793bef1057d64bbee34d6ad455" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_aa20b6333b4dfcf18ec13dfd38720a70" parent="aspace_1afaee793bef1057d64bbee34d6ad455" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Letters from Thomas Edmondson, Sr.</unittitle>
+            <unitdate normal="1915/1915" type="inclusive">1915</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_89b0f7e176e7fa25bfed683041ca1253" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_36d7c1267eaec707ce3300136e32526b" parent="aspace_89b0f7e176e7fa25bfed683041ca1253" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Clippings and Articles Relating to Thomas Edmondson, Sr. (Including his Obituary)</unittitle>
+            <unitdate normal="1906/1915" type="inclusive">1906-1915</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_0509e1d16a6618bcb701047adb87b57d" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_531fb9f88604b96b020871f250487736" parent="aspace_0509e1d16a6618bcb701047adb87b57d" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Letters from Sarah Dodgson Edmondson (Mother of T. W. Edmondson)</unittitle>
+            <unitdate>undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_84f8ce44e8fe267d8187895d3935d356" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_32105151779797a9e2e89ac6548563e3" parent="aspace_84f8ce44e8fe267d8187895d3935d356" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Letters from Sarah Dodgson Edmondson </unittitle>
+            <unitdate normal="1893/1899" type="inclusive">1893-1899</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_face4dbc2e709776dd8c309160ca9f53" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_b4b5ab1b403f2d6c47b4584231d9c513" parent="aspace_face4dbc2e709776dd8c309160ca9f53" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Letters from Sarah Dodgson Edmondson </unittitle>
+            <unitdate normal="1905/1905" type="inclusive">1905</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_4799eaaf267286bc11ed8ad8ce03e9ae" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_01c878687d40d0a645d6af3ea2d2c96b" parent="aspace_4799eaaf267286bc11ed8ad8ce03e9ae" type="folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Letters from Sarah Dodgson Edmondson </unittitle>
+            <unitdate normal="1906/1906" type="inclusive">1906</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_453031c55966c75a205798b61b68274c" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_a4b6c56067dadada26688bc455a8b094" parent="aspace_453031c55966c75a205798b61b68274c" type="folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Letters from Sarah Dodgson Edmondson </unittitle>
+            <unitdate normal="1907/1907" type="inclusive">1907</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_6dad86167749b9523e79b151073addee" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_2263ab2ebf64f155960340c88bfaf4c8" parent="aspace_6dad86167749b9523e79b151073addee" type="folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Letters from Sarah Dodgson Edmondson </unittitle>
+            <unitdate normal="1908/1909" type="inclusive">1908-1909</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_560ee28f59a90be9fc8f8af184d3514c" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_89b53564ce8cea491de996c6286f0a41" parent="aspace_560ee28f59a90be9fc8f8af184d3514c" type="folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Letters from Sarah Dodgson Edmondson</unittitle>
+            <unitdate normal="1910/1911" type="inclusive">1910-1911</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_097962db2abf0743ef69b716f165842d" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_d01f38bef740a092d80d4a1bbbff5c4b" parent="aspace_097962db2abf0743ef69b716f165842d" type="folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Letters from Sarah Dodgson Edmondson </unittitle>
+            <unitdate normal="1912/1913" type="inclusive">1912-1913</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_aff8cc89a5e9aaa61046aa046759d63c" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_6cfd11a26adfc05c8036087a31353cf7" parent="aspace_aff8cc89a5e9aaa61046aa046759d63c" type="folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Letters from Sarah Dodgson Edmondson </unittitle>
+            <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_e3e23902e161b694e8200f6b8a10c17c" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_f532a75e61c96322ed68662a3cbf378c" parent="aspace_e3e23902e161b694e8200f6b8a10c17c" type="folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Letters from Sarah Dodgson Edmondson </unittitle>
+            <unitdate normal="1916/1916" type="inclusive">1916</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_0e0eee28c6dbf9f3e1190fbb37ebd3d7" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_9b9db170e79e8549c0bbc985312e5bd7" parent="aspace_0e0eee28c6dbf9f3e1190fbb37ebd3d7" type="folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Letters from Sarah Dodgson Edmondson </unittitle>
+            <unitdate normal="1917/1917" type="inclusive">1917</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_24f2fffbf9ef81901ffe9ec4f9a0ff8c" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_ce6a2b6e8b35d1d142279918a5d0d0d8" parent="aspace_24f2fffbf9ef81901ffe9ec4f9a0ff8c" type="folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Letters from Sarah Dodgson Edmondson </unittitle>
+            <unitdate normal="1918/1918" type="inclusive">1918</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_0aeb724c62a8fc646862707c438af2fc" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_e21a2d878f18940cda1d5d355c355522" parent="aspace_0aeb724c62a8fc646862707c438af2fc" type="folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Letters from Jack Edmondson (Brother of T. W. Edmondson)</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_87412f84897a2944d18acfa028a8e451" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_72cfd8c8fed053f1a625713eb9e2ee53" parent="aspace_87412f84897a2944d18acfa028a8e451" type="folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Letters from Jack Edmondson</unittitle>
+            <unitdate normal="1894/1900" type="inclusive">1894-1900</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_50d4af06fe99357f11c3f422fbe33441" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_f889ec9b71267c61ddf4541482ff31ab" parent="aspace_50d4af06fe99357f11c3f422fbe33441" type="folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Letters from Jack Edmondson</unittitle>
+            <unitdate normal="1901/1906" type="inclusive">1901-1906</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_9fc145dae431596a9211b7d79c6029a2" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_1f6f0e42cd808a1d9ca67e252dc9998d" parent="aspace_9fc145dae431596a9211b7d79c6029a2" type="folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Letters from Jack Edmondson</unittitle>
+            <unitdate normal="1907/1910" type="inclusive">1907-1910</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_c7ce75c3647a1e831d13d2e120e14729" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_ae6991a3d08b21ab8bd7eaaa28004958" parent="aspace_c7ce75c3647a1e831d13d2e120e14729" type="folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Letters from Jack Edmondson</unittitle>
+            <unitdate normal="1911/1912" type="inclusive">1911-1912</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_4b25016e51f2555e66f01907e722cdfc" label="Mixed Materials [31142063066875]" type="box">1</container>
+            <container id="aspace_05ade96722ac811db3039a189269dfab" parent="aspace_4b25016e51f2555e66f01907e722cdfc" type="folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Letters from Jack Edmondson </unittitle>
+            <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_5823039ba7f5d2347618c1a9098278b7" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_a6f0821910f7cfa1e65b62e779d3fdb4" parent="aspace_5823039ba7f5d2347618c1a9098278b7" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Letters from Jack Edmondson </unittitle>
+            <unitdate normal="1915/1916" type="inclusive">1915-1916</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_aa910ab726d6d2f3b5154bb8d2c8a7b0" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_1a2a60ab17b9d6bbd0b86eb42a39d56d" parent="aspace_aa910ab726d6d2f3b5154bb8d2c8a7b0" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Letters from Jack Edmondson </unittitle>
+            <unitdate normal="1917/1918" type="inclusive">1917-1918</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_94d820a3a02aadca0ea1a3364c690909" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_2c505863097963c71c0114990c321487" parent="aspace_94d820a3a02aadca0ea1a3364c690909" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Letters from Mabel Edmondson (Wife of Jack)</unittitle>
+            <unitdate normal="1904/1904" type="inclusive">1904</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_97cc75e0f403d090eb5d175570840580" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_bcb38c2db9fb6af53c784c62d0e9f7f9" parent="aspace_97cc75e0f403d090eb5d175570840580" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Letters from Kate Edmondson (Daughter of Jack) </unittitle>
+            <unitdate normal="1905/1916" type="inclusive">1905-1916</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_dc1e213ff1e38e4a2fecc990316bc5fe" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_4aaf7d3e3963cd4515e085f8a0201c0b" parent="aspace_dc1e213ff1e38e4a2fecc990316bc5fe" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Letters from Sallie Edmondson (Daughter of Jack)</unittitle>
+            <unitdate>undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_93ef84b980d68509233cd1f7ed166ddc" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_9430d69f4733eda4236ef5e1b894f558" parent="aspace_93ef84b980d68509233cd1f7ed166ddc" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Letters from Sallie Edmondson </unittitle>
+            <unitdate normal="1904/1917" type="inclusive">1904-1917</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_394ef1fb35ae19aced1805f11b6e148d" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_fae992e90b92a04ae3a0cbd5720e00fc" parent="aspace_394ef1fb35ae19aced1805f11b6e148d" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Letters from Tom Edmondson (Son of Jack)</unittitle>
+            <unitdate normal="1911/1916" type="inclusive">1911-1916</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_ea89a7f3fb2326fb39e7969a8d55b3c1" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_9a03cd6de5ec6ae60f0ea0f3232b607a" parent="aspace_ea89a7f3fb2326fb39e7969a8d55b3c1" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Letters from Leonard Edmondson (Son of Jack)</unittitle>
+            <unitdate normal="1913/1917" type="inclusive">1913-1917</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_68151c5aa36de70fd8bde29bcd6dc12a" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_449cbcaead0882085e08b9f8eff4ea37" parent="aspace_68151c5aa36de70fd8bde29bcd6dc12a" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Letters from Jessie Edmondson (Son of Jack)</unittitle>
+            <unitdate normal="1913/1917" type="inclusive">1913-1917</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_c7fa17593241f5e98fa2d1378bb0536d" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_fd8b1c77399bc7059c36e9f67a7f845e" parent="aspace_c7fa17593241f5e98fa2d1378bb0536d" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Letters from Jim Edmondson (Brother of T. W. Edmondson)</unittitle>
+            <unitdate>undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_63e71b41a67fdec66f2954bba77d8012" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_d5212708fdb426fdf0eb95b40731a0c3" parent="aspace_63e71b41a67fdec66f2954bba77d8012" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Letters from Jim Edmondson </unittitle>
+            <unitdate normal="1890/1899" type="inclusive">1890-1899</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_3158e9e39b4f8bd2631ce18a27495d87" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_8cc400d88d669b25794313a51128d4d2" parent="aspace_3158e9e39b4f8bd2631ce18a27495d87" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Letters from Jim Edmondson </unittitle>
+            <unitdate normal="1900/1909" type="inclusive">1900-1909</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_eca7c741b5407a16fe5c3c6985ce46f0" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_79bd2ae999738d887b233c8bed5be1b2" parent="aspace_eca7c741b5407a16fe5c3c6985ce46f0" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Letters from Jim Edmondson </unittitle>
+            <unitdate normal="1910/1913" type="inclusive">1910-1913</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_20c7ef3df90ae9bc76d4945bc5bcdba3" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_818024b500dbbfe2ebddd87f64478eef" parent="aspace_20c7ef3df90ae9bc76d4945bc5bcdba3" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Letters from Dick Edmondson Nottingham (Sister of T. W. Edmondson)</unittitle>
+            <unitdate normal="1909/1911" type="inclusive">1909-1911</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_70181d375958eebbc817d1bb9fba914e" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_a7dc7f294c875fbef92ac5e9460bbdf5" parent="aspace_70181d375958eebbc817d1bb9fba914e" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Letters from Dick Edmondson Nottingham </unittitle>
+            <unitdate normal="1912/1914" type="inclusive">1912-1914</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_cf9f8404ba8958654c9796279c80a0ef" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_7936db64fc8667c1d330da73e77e1459" parent="aspace_cf9f8404ba8958654c9796279c80a0ef" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Letters from Nan Edmondson Mattock (Sister of T. W. Edmondson)</unittitle>
+            <unitdate>undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_95cf2035a8a374a6890ba27607363fe5" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_04e936e8031e84d480242c6e852195fd" parent="aspace_95cf2035a8a374a6890ba27607363fe5" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Letters from Nan Edmondson Mattock</unittitle>
+            <unitdate>undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_355a3b4aaa73d2bc5cb7d79b6772e6c7" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_a1bced1126a0f49f73123924a27083b4" parent="aspace_355a3b4aaa73d2bc5cb7d79b6772e6c7" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Letters from Nan Edmondson Mattock</unittitle>
+            <unitdate normal="1897/1900" type="inclusive">1897-1900</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_292a9e024ec928421c063be65822a3fb" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_7d2c3ac740d04a3b7836d53904c68fc8" parent="aspace_292a9e024ec928421c063be65822a3fb" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Letters from Nan Edmondson Mattock</unittitle>
+            <unitdate normal="1901/1907" type="inclusive">1901-1907</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_c8ec603f6d761f2048e868bd7c0aca25" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_3836a079981c02218228158846637ba0" parent="aspace_c8ec603f6d761f2048e868bd7c0aca25" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Letters from Nan Edmondson Mattock</unittitle>
+            <unitdate normal="1909/1914" type="inclusive">1909-1914</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_d4ec70d3cd31a21287f157afe693a73f" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_e8115f658ce464b67f2eee6ee2d6f64e" parent="aspace_d4ec70d3cd31a21287f157afe693a73f" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Letters from Nan Edmondson Mattock</unittitle>
+            <unitdate normal="1915/1916" type="inclusive">1915-1916</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_bc5d1cfce2cad4f6bdb8ec0759f4ef43" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_dba87b0c0584fe4d3150cf5d12292dad" parent="aspace_bc5d1cfce2cad4f6bdb8ec0759f4ef43" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Letters from Nan Edmondson Mattock</unittitle>
+            <unitdate normal="1917/1918" type="inclusive">1917-1918</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_f3595ed13d41590e5ee130d7cdf7c8ac" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_4ddfa794a63a0661c64534991df1e2f0" parent="aspace_f3595ed13d41590e5ee130d7cdf7c8ac" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Letters from George Mattock (Husband of Nan)</unittitle>
+            <unitdate normal="1907/1914" type="inclusive">1907-1914</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_68663e5631e165b93a0d979404b32d34" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_f8d94b8586e28c867348eac532057182" parent="aspace_68663e5631e165b93a0d979404b32d34" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Letters from Mary Mattock (Daughter of Nan)</unittitle>
+            <unitdate normal="1918/1918" type="inclusive">1918</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_e205128c68bb9362914d7e38d34f67e9" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_4efc713bc11cb2ebef00eb1649cd41d7" parent="aspace_e205128c68bb9362914d7e38d34f67e9" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Letters from Harry D. Edmondson (Brother of T. W. Edmondson)</unittitle>
+            <unitdate>undated </unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_01ad2ea34e1ac92ed5cf064cb257fd3a" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_c1a74bdf6561698059e2ff31a20fa9ad" parent="aspace_01ad2ea34e1ac92ed5cf064cb257fd3a" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Letters from Harry D. Edmondson</unittitle>
+            <unitdate normal="1893/1897" type="inclusive">1893-1897</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_5d24906c32316320962dbdb244d2ad27" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_9ad91118bbdbfc2b4ab2cde966f1b142" parent="aspace_5d24906c32316320962dbdb244d2ad27" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Letters from Harry D. Edmondson</unittitle>
+            <unitdate normal="1898/1899" type="inclusive">1898-1899</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_ea4896935b4696df7b47564230e3342a" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_2faf98902977b460cb54b71c2e8174fa" parent="aspace_ea4896935b4696df7b47564230e3342a" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Letters from Harry D. Edmondson</unittitle>
+            <unitdate normal="1900/1904" type="inclusive">1900-1904</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_e41bc03ee609e1cfd558e31614903e8d" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_53d7444f7cafd3950c15a5f65bf25128" parent="aspace_e41bc03ee609e1cfd558e31614903e8d" type="folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Letters from Harry D. Edmondson</unittitle>
+            <unitdate normal="1905/1906" type="inclusive">1905-1906</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_37c216989fc2588d48787441a5db1f14" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_b09cd3008111ec6f14f70fa1d7d5ba38" parent="aspace_37c216989fc2588d48787441a5db1f14" type="folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Letters from Harry D. Edmondson</unittitle>
+            <unitdate normal="1907/1908" type="inclusive">1907-1908</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_5d660fa38c2c6982c578eba79b8d6906" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_5d478c344c329c68c4d2c4a9bc584735" parent="aspace_5d660fa38c2c6982c578eba79b8d6906" type="folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Letters from Harry D. Edmondson</unittitle>
+            <unitdate normal="1909/1909" type="inclusive">1909</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_b0ce8f156281189e4c68dcf14d01ae69" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_d6953ceddc87100cf9479610379c03e5" parent="aspace_b0ce8f156281189e4c68dcf14d01ae69" type="folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Letters from George Edmondson (Brother of T. W. Edmondson)</unittitle>
+            <unitdate normal="1894/1905" type="inclusive">1894-1905</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_04498eedd62ca62a6fdddfd11bd1eaee" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_3b45b46bdb0386b1be6e8220b619e704" parent="aspace_04498eedd62ca62a6fdddfd11bd1eaee" type="folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Letters from George Edmondson</unittitle>
+            <unitdate normal="1909/1914" type="inclusive">1909-1914</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_9407dc6c83e918902cafe5b29c1b8a97" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_dd4d518774c29bbe48277fd2f8a5e674" parent="aspace_9407dc6c83e918902cafe5b29c1b8a97" type="folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Letters from Frances Edmondson (Wife of George)</unittitle>
+            <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_2d2ca27a5788f11b677555141873e67f" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_1bc2e42ab6450ea01e73c5fe44d954ce" parent="aspace_2d2ca27a5788f11b677555141873e67f" type="folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Letters from Sallie Edmondson Bargh (Sister of T. W. Edmondson)</unittitle>
+            <unitdate>undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_146ae5dd9217cfed6e092d1712311b07" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_9b1f993f2e389033f311819eff9e2c54" parent="aspace_146ae5dd9217cfed6e092d1712311b07" type="folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Letters from Sallie Edmondson Bargh</unittitle>
+            <unitdate normal="1894/1901" type="inclusive">1894-1901</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_221328492f675b4e472d6d19855859ef" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_7da5c2a234575c0ffcd6523e0583f7a8" parent="aspace_221328492f675b4e472d6d19855859ef" type="folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Letters from Sallie Edmondson Bargh</unittitle>
+            <unitdate normal="1902/1909" type="inclusive">1902-1909</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_84d254772d5e805a9eee8fa874a7d397" label="Mixed Materials [31142063066883]" type="box">2</container>
+            <container id="aspace_7efdcd70b1e873559ceade90acd13d1f" parent="aspace_84d254772d5e805a9eee8fa874a7d397" type="folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Letters from Sallie Edmondson Bargh</unittitle>
+            <unitdate normal="1910/1912" type="inclusive">1910-1912</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_9bf3e5f4d3f51fe5ce627ad7e31ad77f" label="Mixed Materials [31142063066891]" type="box">3</container>
+            <container id="aspace_fbf18668fa75c7121f485a52fc4479dc" parent="aspace_9bf3e5f4d3f51fe5ce627ad7e31ad77f" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Letters from Sallie Edmondson Bargh</unittitle>
+            <unitdate normal="1913/1913" type="inclusive">1913</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_49dc5f36993e486fd439a9edb7dd17f7" label="Mixed Materials [31142063066891]" type="box">3</container>
+            <container id="aspace_adb4db3a7b122be49f48faf5b51526cc" parent="aspace_49dc5f36993e486fd439a9edb7dd17f7" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Letters from Sallie Edmondson Bargh</unittitle>
+            <unitdate normal="1914/1914" type="inclusive">1914</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_cda7f041d08f84e3dc75c27dbdbf4f3f" label="Mixed Materials [31142063066891]" type="box">3</container>
+            <container id="aspace_7ca2662eed649dca7a30125cefdfc236" parent="aspace_cda7f041d08f84e3dc75c27dbdbf4f3f" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Letters from Sallie Edmondson Bargh</unittitle>
+            <unitdate normal="1915/1915" type="inclusive">1915</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_55ab5ec6cac83e9368912a165bd5eb4f" label="Mixed Materials [31142063066891]" type="box">3</container>
+            <container id="aspace_a128f51dd82407184bab93047c5b0a3a" parent="aspace_55ab5ec6cac83e9368912a165bd5eb4f" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Letters from Sallie Edmondson Bargh</unittitle>
+            <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_64971b0e5e9bd3d04a78f7dd44b0a40d" label="Mixed Materials [31142063066891]" type="box">3</container>
+            <container id="aspace_ae534a1bc2028f9d6e7c15c82350271f" parent="aspace_64971b0e5e9bd3d04a78f7dd44b0a40d" type="folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref108" level="series">
+        <did>
+          <unittitle>Series 2: Personal Correspondence--Friends and Associates</unittitle>
+          <unitdate normal="1885/1914" type="inclusive">1885-1914</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Testimonies on behalf of T. W. Edmondson from William Briggs, E. T. Hartley, Reverend C. H. Prior, and R. R. Webb</unittitle>
+            <unitdate normal="1892/1893" type="inclusive">1892-1893</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_2e08fcbcd51692f2692b6ce950fd0b74" label="Mixed Materials [31142063066891]" type="box">3</container>
+            <container id="aspace_29ca4a2528c1e6587849fee23f92c494" parent="aspace_2e08fcbcd51692f2692b6ce950fd0b74" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Letter from Colin H. Dakers</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_fd342d3f6c180e07ce42c54ea56c5b58" label="Mixed Materials [31142063066891]" type="box">3</container>
+            <container id="aspace_8a706ce4a37dee86fb1bfd90e3b056ea" parent="aspace_fd342d3f6c180e07ce42c54ea56c5b58" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Card from D. W. Hering, Professor of Mathematics at NYU</unittitle>
+            <unitdate normal="1914/1914" type="inclusive">1914</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_6e0201fd62d7c1cb54874dde723d9735" label="Mixed Materials [31142063066891]" type="box">3</container>
+            <container id="aspace_8fe95faa42382b9983ef20d331b3f16f" parent="aspace_6e0201fd62d7c1cb54874dde723d9735" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Letter from H. S. Holmes</unittitle>
+            <unitdate normal="1913/1913" type="inclusive">1913</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_d277d3a23d18fd17ed18de598a0bf078" label="Mixed Materials [31142063066891]" type="box">3</container>
+            <container id="aspace_9cab0b618d565f26ad0adc66f4dcb0ab" parent="aspace_d277d3a23d18fd17ed18de598a0bf078" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>Letters from F. Arnold Lees</unittitle>
+            <unitdate normal="1890/1913" type="inclusive">1890-1913</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_010959fe2fa8c9797bbd34de460a82f6" label="Mixed Materials [31142063066891]" type="box">3</container>
+            <container id="aspace_53ac95091e0766b8b7f4b8f4e8b59ea8" parent="aspace_010959fe2fa8c9797bbd34de460a82f6" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Letter from J. E. Ludlum (cousin?)</unittitle>
+            <unitdate normal="1909/1909" type="inclusive">1909</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_35f488acde1f9885f17af9e6f2c8f72b" label="Mixed Materials [31142063066891]" type="box">3</container>
+            <container id="aspace_9c81585624a3d62dfb3e9f1d2c6ed670" parent="aspace_35f488acde1f9885f17af9e6f2c8f72b" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Letter from Lister Rotheray</unittitle>
+            <unitdate normal="1889/1906" type="inclusive">1889-1906</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_98aa3979e17610db3df870e50e995543" label="Mixed Materials [31142063066891]" type="box">3</container>
+            <container id="aspace_afce5093722c1e826666e134b345803b" parent="aspace_98aa3979e17610db3df870e50e995543" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Letters from Colin and Dorothy Stewart </unittitle>
+            <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_193a88a88f7fef1e71378e2204a57918" label="Mixed Materials [31142063066891]" type="box">3</container>
+            <container id="aspace_0338bebd8967be14f4505bd0f9f7da9d" parent="aspace_193a88a88f7fef1e71378e2204a57918" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Letter from G. W. Thompson [?]</unittitle>
+            <unitdate normal="1905/1905" type="inclusive">1905</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_6f199be5308678fb675a99a177f83874" label="Mixed Materials [31142063066891]" type="box">3</container>
+            <container id="aspace_1106af984ae0b9b5d01900f9b203c3a2" parent="aspace_6f199be5308678fb675a99a177f83874" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Letters from William Whitwell </unittitle>
+            <unitdate>1885-1889</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_f508166c9e3943f484520f1fbfa40c20" label="Mixed Materials [31142063066891]" type="box">3</container>
+            <container id="aspace_d7c20f02bf64e48af10844bcfd23f0bf" parent="aspace_f508166c9e3943f484520f1fbfa40c20" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Letters from William Whitwell </unittitle>
+            <unitdate normal="1890/1901" type="inclusive">1890-1901</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_cc01ce96eff252c48231b1a8f8866324" label="Mixed Materials [31142063066891]" type="box">3</container>
+            <container id="aspace_c77c7c479af9507d7ea1c8afda4e71ed" parent="aspace_cc01ce96eff252c48231b1a8f8866324" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Letters from William Whitwell </unittitle>
+            <unitdate normal="1902/1909" type="inclusive">1902-1909</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_2e7f63a8f6967adea1dce0748119d324" label="Mixed Materials [31142063066891]" type="box">3</container>
+            <container id="aspace_dfcb9233020179c3d9b6ac1e7fe26a44" parent="aspace_2e7f63a8f6967adea1dce0748119d324" type="folder">17</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

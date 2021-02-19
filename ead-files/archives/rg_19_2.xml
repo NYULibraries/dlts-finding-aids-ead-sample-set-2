@@ -1,128 +1,665 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/rg_19_2">rg_19_2</eadid><filedesc><titlestmt><titleproper>Guide to the Records of the Lyman R. Bradley Academic Freedom Case <num>RG.19.2</num></titleproper><author>Processed by Diana Maull and Marilyn Pettit</author></titlestmt><editionstmt><p>This version was derived from bradley02NC.xml</p></editionstmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 14:34:13 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>October 2018</date><item>Edited by Jasmine Larkin for compliance with DACS and ACM Required Elements for Archival Description.</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>New York University Archives</corpname>
-    </repository>
-    <unittitle>Records of the Lyman R. Bradley Academic Freedom Case</unittitle>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">New York University. Office of the Secretary</corpname>
-    </origination>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/rg_19_2">rg_19_2</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Records of the Lyman R. Bradley Academic Freedom Case <num>RG.19.2</num></titleproper>
+        <author>Processed by Diana Maull and Marilyn Pettit</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from bradley02NC.xml</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 14:34:13 -0500</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>October 2018</date>
+        <item>Edited by Jasmine Larkin for compliance with DACS and ACM Required Elements for Archival Description.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Records of the Lyman R. Bradley Academic Freedom Case</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">New York University. Office of the Secretary</corpname>
+      </origination>
+      <origination label="source">
+        <corpname role="dnr" rules="dacs" source="local">New York University. Office of the Secretary</corpname>
+      </origination>
+      <unitid>RG.19.2</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
+        <extent altrender="carrier">in 5 manuscript boxes, 2 flat file folders, 1 half manuscript box, 1 record carton, 1 folder in a shared box, and 3 audio recordings in shared boxes.</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">2 sound discs (cd)</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">1 sound tape reels</extent>
+      </physdesc>
+      <unitdate normal="1924/2009" type="inclusive">1924-2009</unitdate>
+      <abstract id="aspace_84003aa58f4af343e131ba89d0ac8a3a">The Records of the Lyman R. Bradley Academic Freedom Case detail the action of New York University in hearing charges and subsequent suspension of a tenured associate professor who was convicted of contempt of Congress in 1948. The collection consists of administrative records retained by three offices of the University: the Office of the Dean of Washington Square College; the Office of the Chancellor; and the Office of the Vice Chancellor, who as Secretary and Clerk of the University Council (later Board of Trustees) maintained the Council files. Collection materials consist of  correspondence, committee and hearing reports, legal documents, subject files, minutes, clippings, publications, and audio recordings. Materials date from 1924 to 2009.</abstract>
+      <physloc id="aspace_06eb6b976972f2df58fb969d0e70d12a">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_15e08f742a4460ee033a3cc843699823">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_6cf7516740ac98be8f277ee6a3fa2b84">
+      <head>Conditions Governing Access</head>
+      <p>Repository permission is required for access. Access to materials is restricted to recognized scholars with reasonable regard for privacy. Please contact University Archives, university-archives@nyu.edu, (212) 998-2641.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_5e9d69e30dd8f21aed466d72397c3ce4">
+      <head>Immediate Source of Acquisition</head>
+      <p>Transferred by the New York University Office of the Secretary, 1984. The accession number associated with this transfer is 84.022.</p>
+    </acqinfo>
+    <arrangement id="aspace_987f2136fd71a92ff0e4c3196d42d1f9">
+      <head>Arrangement</head>
+      <p>Acquisition and storage of these records by the Office of the Secretary did not disturb their original arrangement, which has been preserved with each of the three originating offices designated as a series. Folders within each series are topical.</p>
+      <p>
+This collection has been organized into six series:</p>
+      <list type="ordered">
+        <item>Office of the Dean of Washington Square College</item>
+        <item>Office of the Chancellor</item>
+        <item>Office of the Vice Chancellor</item>
+        <item>Related Materials</item>
+        <item>Oversized Materials</item>
+        <item>Separated Material</item>
+      </list>
+    </arrangement>
+    <bioghist id="aspace_f4db0fc02401c563a008fd4353e2d0c5">
+      <head>Biographical Note</head>
+      <p>Lyman R. Bradley, A.B., M.A. Harvard, Ph.D. New York University, joined Washington Square College as lecturer in German in 1924 and became Department Chairman in 1942. Over the years he became associated with organizations described as "radical," among them the Joint Anti-Fascist Refugee Committee, which claimed to assist refugees from the Spanish Civil War. In 1943, the organization was listed as subversive by the United States Attorney General and in 1947 was ordered to deliver its records to the Un-American Activities Committee of the U.S. House of Representatives (HUAC). Its leaders, including Bradley as Treasurer, refused and were convicted of contempt of Congress.</p>
+      <p>With the approval of the Chancellor, Dean Thomas C. Pollock relieved Bradley of his chairmanship of the German Department, assuming that position himself. Bradley was then a tenured associate professor. He was sentenced to jail, but filed an appeal and continued to teach classes. When the appeal was lost in 1948 and Bradley was sent to serve his sentence, the Dean suspended all of Bradley's academic duties. That action was approved by the Chancellor and University Council (Board of Trustees). Bradley was offered an opportunity to state his case to the University community, following which his continuence with the University was to be determined.</p>
+      <p>Bradley asked for a hearing in 1951, a year after his release from jail in 1950. Twelve professorial members of the University Senate were appointed as an advisory committee to conduct proceedings in collaboration with University counsel. The committee, with Dean Pollock as chief witness, considered Bradley's conviction and his activities on campus while awaiting appeal. Among Bradley's activities were a noisy disturbance in the office of the Dean and misstatements in letters to campus newspapers while his case was considered. The senate members rendered a nearly unanimous decision that he was unfit to teach.</p>
+      <p>Bradley then asked to appear before the University Council and a similar hearing was held later in 1951. A resolution was adopted by 20 members, with one dissenting, that he be removed from the faculty and dismissed from all academic duties. The resolution was accompanied by a decision to withhold his salary for the period following his 1948 suspension. Bradley appealed the salary decision in the courts in 1952, but lost the case in 1953, and lost an appeal in 1954. </p>
+      <p>In 1956, the American Association of University Professors (AAUP) decided to investigate the case on procedural grounds, along with that of NYU's dismissal of Professor Edwin Berry Bergum, in 1952-1953. The AAUP threatened censure unless the cases were amended and a year's quittance paid to each former faculty member. The University refused, and the AAUP pronounced censure in 1959. The designation was lifted in 1961, upon amendment of the rules of tenure, but without reversal of the salary decision.</p>
+      <p>The dismissal of Lyman R. Bradley occurred at a time when Russia's expansion into neighboring territory and the division of Europe into spheres of influence led to a fearful awareness of possible Communism in America, and an examination of Marxist philosophy of violent overthrow of adversary governments. Though the procedures of the Un-American Activities Committee of the House of Representatives were openly criticized, a dozen states defined the Communist Party as illegal in 1947 and banned it from the ballot in elections. Anxiety grew with the revelations of the Alger Hiss case in 1948 and the trial of American Communist Party leaders in 1949. Universities came under scrutiny the same year, as state legislatures investigated subversive activity at the Universities of Michigan and Washington. At the latter, three professors were dismissed in 1951 for Communist affiliation.</p>
+      <p>New York University had reestablished a liberal arts undergraduate college at Washington Square in 1913 for working commuting students and students in the professional schools of commerce (business), pedagogy (education) and law. The collegiate subculture established in other American universities in the nineteenth century, including the University Heights campus, was less evident in the urban campus, with its vocational focus, lack of playing fields and lack of dormitories; older veterans gave a serious and frequently political tone to student clubs and organizations at the Square. Organized student and political protests, however, lacked the national focus that characterized the student movement of 20 years later. It is significant the one of the charges brought against Bradley, that of holding a noisy, impetuous and potentially disorderly demonstration, was originally made by the head of the student government organization, and then adopted by the Dean of the College.</p>
+      <p>As the post-War supply of veteran students began to decline and state colleges attracted those who could not afford private tuition, the Council faced the problem of endowment for the future. Traditional sources of funding were alumni, most of whom had worked as students, and the business community, which expected NYU graduates to be trained pragmatically. While the administration took pains to define the dismissal of Bradley for his actions and activities only, the financial constituency expected from the University a strong message to the nation and the academic community that NYU was determined to sever from its midst any element that promoted a philosophy unfriendly to the national interest.</p>
+      <p>The University's administrative framework in 1947 was a federated group of schools, institutes and colleges on several campuses, following individual goals within a structure that allowed centralization of the administrative hierarchy. Authority from three administrative offices controlled the procedures of suspension and academic trial for Bradley. The Office of the Dean of Washington Square College supervised selection of faculty and curricula, and acted as liaison between students and faculty, faculty and administration. The Dean was responsible for the initiation of charges and arranged hearings to determine any change in tenure of a faculty member. Thomas C. Pollock, Phi Beta Kappa and NYU Professor of English since 1938, became Dean in March 1947.</p>
+      <p>Harry Woodburn Chase had been Professor, Dean, and Chairman of faculty at the University of North Carolina and its president for 11 years. Three years at the University of Illinois preceded his coming to NYU as Chancellor in 1933. His faculty and Dean's experience contributed to the flexibility he showed in sharing leadership and responsibility with Dean Pollock. As chief executive officer of the University, his was the explanatory voice of NYU's position to academic and political inquiries.</p>
+      <p>Harold O. Voorhis held his first administrative office at NYU in 1920, becoming Vice Chancellor (chief assistant to the Chancellor) in 1925. He maintained this position, with duties expanded by Chancellor Chase, until 1955. As Clerk of the University Council, he drafted and maintained the minutes of that body.</p>
+      <p>James Madden was Council Treasurer and member since 1946 and Acting Chancellor of the University, 1951-1952. He had a strong legal background and, like most other Council members, was a national business figure.</p>
+    </bioghist>
+    <custodhist id="aspace_a82c95dd919bb1262c834f5d9c74f6c9">
+      <head>Custodial History</head>
+      <p>The records of the New York University Academic Freedom Case of Lyman R. Bradley were transferred on June 12, 1984 to the New York University Archives by the Office of the Secretary. The records, together with those of a later case involving Edwin Berry Burgum, were sealed in 1954 by the Office of the General Counsel and stored in the President's vault in Vanderbilt Hall. Requests for research use in 1981 and 1982 led the Chancellor to appoint a Committee to evaluate provisions for access. In 1985, the Committee recommended that the collections become available to scholars, with reasonable regard for privacy.</p>
+    </custodhist>
+    <odd id="aspace_25ba0b6b39bcaad3b8065d1f069dcd05">
+      <head>General</head>
+      <list type="ordered">
+        <head> Biographical Appendix - Legal Counsel</head>
+        <item><persname>Royal W. France</persname>, Counsel to <persname>Lyman R. Bradley</persname></item>
+        <item><persname>Stuart Updike</persname>, Special counsel to the University</item>
+        <item><persname>John W. Gerdes</persname>, Counsel to the University</item>
+        <item><persname>Fowler W. Harper</persname>, <corpname>Yale Law School</corpname> Professor, Counsel to Lyman R. Bradley</item>
+        <item><persname>Arad Riggs</persname>, NYU Law School Professor, University Counsel to Dean Pollock</item>
+      </list>
+    </odd>
+    <phystech id="aspace_3d915449895e7fc08937fe40b2bb5043">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Access CDs for audiovisual materials in the collection are available by appointment for reading room viewing and listening only.</p>
+    </phystech>
+    <prefercite id="aspace_672f84f8f29293b58cb5ac7ed8364e8c">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Records of the Lyman R. Bradley Academic Freedom Case; RG 19.2; box number; folder number; New York University Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_c4c0f6dff9c8b9a126fb72ea786bbf82">
+      <head>Processing Information</head>
+      <p>The records of the Academic freedom case of Lyman R. Bradley, together with those of Edwin Berry Burgum, were delivered to the New York University Archives on June 12, 1984 and opened and separated on February 18, 1986.</p>
+      <p>The administrative office of latest origin had been the Office of the Secretary which in 1954 placed files relating to the Bradley and Burgum cases in sealed containers in the President's vault in Vanderbilt Hall. The Bradley records were administrative files from the Office of the Dean of Washington Square College, the Office of the Chancellor, and the Office of the Vice Chancellor (the office that contributed minutes and exhibits from those Council meetings (1947-1961) at which "the Bradley matter" was discussed). This collection measured 3 linear feet, consisted of 46 file folders, and included up to six copies each of various hearing books and committee reports. Processing has reduced the records to 1 1/3 linear feet, which are stored in 34 folders in 3 acid-free boxes.</p>
+      <p>The 18 folders from the Office of the Dean bore single color labels and designated individuals and organizations significant to the case: various University counsel, apologists for Bradley, the Modern Language Association, and the American Association of University Professors. Their arrangement begins with hearing reports which defined original charges, followed by the file folders maintained in the alphabetical order as received.</p>
+      <p>Of the seven folders received from the Office of the Chancellor, one had intermingled correspondence from the Vice Chancellor and has been placed at the end of the series to interface with two Vice Chancellor's folders that have Chancellor's material intermingled with them. The labelled function of these files - to provide background information to outside counsel - can be a significant focus for study of the role of outside counsel in University decision-making.</p>
+      <p>While the folders used at the University were neat and basically chronological, those used as background for lawyers were in considerable disarrangement. They have been restored to chronological order.</p>
+      <p>The Chancellor's material begins with Bradley-General and has been arranged to follow the development of the case: publicity, protests, and material sent to counsel.</p>
+      <p>The Vice Chancellor's folders begin with correspondence and end with Council files. From a large collection of duplication, there remain council dockets, minutes and exhibits, reflecting most of the 13 occasions of Bradley case discussion.</p>
+      <p>Significant to this series is that the Council exhibits are the original, signed documents from the Dean's and Chancellor's files. These were the letters and memoranda which communicated the important events of the caseâ particularly to (and from) Professor Bradley: his suspension, opportunity for hearing, etc. Since these documents are referred to throughout the collection, restoring these (or photocopies) to their series of origin would restore provenance and enhance understanding of the case.</p>
+      <p>There is evidence of considerable "correction" to minutes and hearing reports and it can be anticipated that request for study of the stenotypist tape will be made. The Chancellor's secretary played a significant role in this case and her notations and directions on the Chancellor's papers are considerable. She was an unannounced third-party listener to telephone calls to Bradley counsel and the recorder of the many "blind" copies of the documents circulated.</p>
+      <p>Overall, the Bradley material was received in excellent condition. Some court records in folders 3 and 4 used as Exhibits are missing, as are copies of the University of Pennsylvania Law Review. A few pieces of correspondence have been marked for mending with special tape and several newspapers and news clippings remain to be xeroxed (those from the University community to be added to Archives files, if appropriate.)</p>
+      <p>The removal of duplicates, printed matter and stenotypist tape reduced the collection from 3 linear feet to 1.25 linear feet. The bulk of this material falls between the years 1947 to 1951, with a few documents dating to 1924.</p>
+      <p>In October 2018, audio recordings were removed in preparation for the collection to be sent to offsite storage. The audio recordings were placed in shared boxes, and separation sheets were placed in the original folders containing the audio recordings. In addition, oversize materials were housed in flat file folders.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_70bed4635fe08418c2ce2983f46373ef">
+      <head>Related Material at the New York University Archives</head>
+      <p>A listing of Council members over the years may be found in the Bulletins of the University College of Arts and Science. Other related material includes: <list><item> University Bylaws, Archives H.</item><item>Board of Trustees (Council) Actions RG 2.1</item><item>Office of Chancellor Chase, RG 3.0.5</item><item>Presidential Administrative Records (Madden, Heald, Newsom), RG 3.0.6</item><item>Office of the Vice President (Vice Chancellor) and Secretary Voorhis, RG 4.1.1</item><item>Office of the Dean of Washington Square College, RG 19.0</item><item>Reminiscences (various), Archives H</item></list></p>
+      <p>
+See also: The Papers of Charlotte Stern (Board member of the JAFRC). Trial briefs, clippings, photos; Collection 70, Tamiment Library, NYU.</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_65d1cf41f13b0a51c6eb1fdcbbd309a3">
+      <head>Scope and Contents</head>
+      <p>The records of The Academic Freedom Case of Lyman R. Bradley came from the highest levels of University governance: the Offices of the Chancellor, the Vice Chancellor, and Dean of Washington Square College. The records reflect traditional patterns of leadership and responsibility as well as unusual postures of initiative, decisiveness and defensiveness in response to the political climate of the period. These conditions along with the unique circumstances of this case provoked an examination of the privileges of academic freedom and the responsibility of tenure. This collection contains a consecutive record of hearings of faculty and University Council sitting in judgment of one of their own. The role of legal counsel is significant, and the consultation with attorneys outside the University attests to the complexity of the case. The University Council's stated role in the bylaws as the supreme governing body with the power to make appointments and removals is here manifest in its function as final arbiter of the faculty's conclusions.</p>
+      <p>The collection primarily consists of correspondence, committee and hearing reports, legal documents, and subject files. Additionally, there is a significant assortment of news clippings, handbills, and exhibits documenting the student and political philosophies of the period. The collection also contains drafts, posters, memoranda, minutes, printed material, publications, telegrams and transcripts of hearings and trials, and audio recordings. Among the handbills, posters, and newspapers are a few belonging to NYU student organizations. Materials date from 1924 to 2009.</p>
+      <p>Summaries of case events which span all series are present in Folders 10, 11, 15, 20, 24 and 33, written by both administrators and University Council.</p>
+    </scopecontent>
+    <separatedmaterial id="aspace_a556b08889be2dd874cc9be307f2bf45">
+      <head>Separated Materials</head>
+      <p>
+        <list>
+          <head>Exhibits Missing (Series I, Folders 3,4) </head>
+          <item>#36, 37, 38, 38: Court Records and Government Briefs for Bradley, Fleischman, Bryan and Eisler cases</item>
+          <item>#45 Pollock: Communism and Academic Freedom: Tenure Cases at The University of Washington 1949 (available in Bobst Library Call No. LD 5741.JA55)</item>
+          <item>#46 Pollock: University of Pennsylvania Law Review (December, 1950) (available in New York University Law Library)</item>
+          <item>#3 Bradley: Communist Party Cases</item>
+          <item>#4 Bradley: Barsky et al vs. U.S.</item>
+        </list>
+        <list>
+          <head>The following material was removed to the non-print storage area of Archives from Series I, Folder 3:</head>
+          <item>Stenotypist Tape of 1951 Jan. hearing</item>
+          <item>Tape recording 1948 Student Meeting</item>
+        </list>
+      </p>
+    </separatedmaterial>
+    <userestrict id="aspace_d678d6a1c3d24c11555161da45b24694">
+      <head>Conditions Governing Use</head>
+      <p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>
+    </userestrict>
+    <bibliography id="aspace_6ad4b3c9854d8a3d7e5d9173b1cad67d">
+      <head>Bibliography</head>
+      <bibref>Baldridge, J. Victor, Power and Conflict in the University: Research in the Sociology of Complex Organizations (New York: John Wiley and Sons, 1971).</bibref>
+      <bibref>Burgum, Edwin Berry and Bradley, Lyman R., Academic Freedom Cases at NYU.</bibref>
+      <bibref>"Civil Liberties". Encyclopedia Britannica Book of the Year. 1949, 1950, 1951.</bibref>
+      <bibref>Inventory to the Records of the Edwin Berry Burgum Academic Freedom Case, RG 19.1</bibref>
+      <bibref>NYU Archives: NYU Charter &amp; Bylaws (various).</bibref>
+      <bibref>NYU Council and its Committees. February, 1932.</bibref>
+      <bibref>Reminiscences of Arts and Science Faculty of Washington Square College: Thomas C. Pollock, Dean; Letter of Marty Waldman, 1948.</bibref>
+      <bibref>Schrecker, Ellen W., No Ivory Tower: McCarthyism and the Universities (New York, 1986).</bibref>
+      <bibref>Who's Who in America, 1950-1951, 1952-1953 (Chicago: A. N. Marquis &amp; Company).</bibref>
+    </bibliography>
+    <controlaccess>
+      <genreform source="lcsh">Hearings.</genreform>
+      <subject source="lcsh">Academic freedom.</subject>
+      <corpname source="naf">American Association of University Professors</corpname>
+      <persname rules="dacs" source="local">Bradley, Lyman R.</persname>
+      <persname source="naf">Burgum, Edwin Berry, 1894-</persname>
+      <persname source="naf">Chase, Harry Woodburn, 1883-1955</persname>
+      <persname source="naf">Cooley, Hollis R. (Hollis Raymond), 1899-1987</persname>
+      <corpname source="naf">Daily Worker (New York)</corpname>
+      <persname rules="dacs" source="local">France, Royal Wilbur</persname>
+      <persname source="naf">Hammett, Dashiell, 1894-1961</persname>
+      <persname source="naf">Harper, Fowler V. (Fowler Vincent), 1897-1965</persname>
+      <corpname source="naf">Joint Anti-Fascist Refugee Committee</corpname>
+      <persname source="naf">Lind, Ilse Dusoir, 1917-</persname>
+      <persname rules="dacs" source="local">Madden, James L.</persname>
+      <persname source="naf">Marcantonio, Vito, 1902-1954</persname>
+      <persname source="naf">Miller, Arthur, 1915-2005</persname>
+      <corpname source="naf">Modern Language Association of America</corpname>
+      <corpname source="naf">New York University</corpname>
+      <corpname rules="dacs" source="local">New York University. Washington Square College of Arts and Science</corpname>
+      <corpname source="naf">Phi Beta Kappa</corpname>
+      <persname source="naf">Pollock, Thomas Clark, 1902-1988</persname>
+      <persname source="naf">Schlauch, Margaret, 1898-1986</persname>
+      <persname source="naf">Stern, Charlotte, 1929-</persname>
+      <corpname source="naf">United States. Attorney-General</corpname>
       <corpname role="dnr" rules="dacs" source="local">New York University. Office of the Secretary</corpname>
-    </origination>
-    <unitid>RG.19.2</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
-      <extent altrender="carrier">in 5 manuscript boxes, 2 flat file folders, 1 half manuscript box, 1 record carton, 1 folder in a shared box, and 3 audio recordings in shared boxes.</extent>
-    </physdesc>
-    <physdesc altrender="part">
-      <extent altrender="materialtype spaceoccupied">2 sound discs (cd)</extent>
-    </physdesc>
-    <physdesc altrender="part">
-      <extent altrender="materialtype spaceoccupied">1 sound tape reels</extent>
-    </physdesc>
-    <unitdate normal="1924/2009" type="inclusive">1924-2009</unitdate>
-    <abstract id="aspace_84003aa58f4af343e131ba89d0ac8a3a">The Records of the Lyman R. Bradley Academic Freedom Case detail the action of New York University in hearing charges and subsequent suspension of a tenured associate professor who was convicted of contempt of Congress in 1948. The collection consists of administrative records retained by three offices of the University: the Office of the Dean of Washington Square College; the Office of the Chancellor; and the Office of the Vice Chancellor, who as Secretary and Clerk of the University Council (later Board of Trustees) maintained the Council files. Collection materials consist of  correspondence, committee and hearing reports, legal documents, subject files, minutes, clippings, publications, and audio recordings. Materials date from 1924 to 2009.</abstract>
-    <physloc id="aspace_06eb6b976972f2df58fb969d0e70d12a">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-    <langmaterial id="aspace_15e08f742a4460ee033a3cc843699823">Materials are in English.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_6cf7516740ac98be8f277ee6a3fa2b84">
-    <head>Conditions Governing Access</head>
-<p>Repository permission is required for access. Access to materials is restricted to recognized scholars with reasonable regard for privacy. Please contact University Archives, university-archives@nyu.edu, (212) 998-2641.</p>  </accessrestrict>
-  <acqinfo id="aspace_5e9d69e30dd8f21aed466d72397c3ce4">
-    <head>Immediate Source of Acquisition</head>
-<p>Transferred by the New York University Office of the Secretary, 1984. The accession number associated with this transfer is 84.022.</p>  </acqinfo>
-  <arrangement id="aspace_987f2136fd71a92ff0e4c3196d42d1f9">
-    <head>Arrangement</head>
-<p>Acquisition and storage of these records by the Office of the Secretary did not disturb their original arrangement, which has been preserved with each of the three originating offices designated as a series. Folders within each series are topical.</p><p>
-This collection has been organized into six series:</p>    <list type="ordered">
-      <item>Office of the Dean of Washington Square College</item>
-      <item>Office of the Chancellor</item>
-      <item>Office of the Vice Chancellor</item>
-      <item>Related Materials</item>
-      <item>Oversized Materials</item>
-      <item>Separated Material</item>
-    </list>
-  </arrangement>
-  <bioghist id="aspace_f4db0fc02401c563a008fd4353e2d0c5">
-    <head>Biographical Note</head>
-<p>Lyman R. Bradley, A.B., M.A. Harvard, Ph.D. New York University, joined Washington Square College as lecturer in German in 1924 and became Department Chairman in 1942. Over the years he became associated with organizations described as "radical," among them the Joint Anti-Fascist Refugee Committee, which claimed to assist refugees from the Spanish Civil War. In 1943, the organization was listed as subversive by the United States Attorney General and in 1947 was ordered to deliver its records to the Un-American Activities Committee of the U.S. House of Representatives (HUAC). Its leaders, including Bradley as Treasurer, refused and were convicted of contempt of Congress.</p><p>With the approval of the Chancellor, Dean Thomas C. Pollock relieved Bradley of his chairmanship of the German Department, assuming that position himself. Bradley was then a tenured associate professor. He was sentenced to jail, but filed an appeal and continued to teach classes. When the appeal was lost in 1948 and Bradley was sent to serve his sentence, the Dean suspended all of Bradley's academic duties. That action was approved by the Chancellor and University Council (Board of Trustees). Bradley was offered an opportunity to state his case to the University community, following which his continuence with the University was to be determined.</p><p>Bradley asked for a hearing in 1951, a year after his release from jail in 1950. Twelve professorial members of the University Senate were appointed as an advisory committee to conduct proceedings in collaboration with University counsel. The committee, with Dean Pollock as chief witness, considered Bradley's conviction and his activities on campus while awaiting appeal. Among Bradley's activities were a noisy disturbance in the office of the Dean and misstatements in letters to campus newspapers while his case was considered. The senate members rendered a nearly unanimous decision that he was unfit to teach.</p><p>Bradley then asked to appear before the University Council and a similar hearing was held later in 1951. A resolution was adopted by 20 members, with one dissenting, that he be removed from the faculty and dismissed from all academic duties. The resolution was accompanied by a decision to withhold his salary for the period following his 1948 suspension. Bradley appealed the salary decision in the courts in 1952, but lost the case in 1953, and lost an appeal in 1954. </p><p>In 1956, the American Association of University Professors (AAUP) decided to investigate the case on procedural grounds, along with that of NYU's dismissal of Professor Edwin Berry Bergum, in 1952-1953. The AAUP threatened censure unless the cases were amended and a year's quittance paid to each former faculty member. The University refused, and the AAUP pronounced censure in 1959. The designation was lifted in 1961, upon amendment of the rules of tenure, but without reversal of the salary decision.</p><p>The dismissal of Lyman R. Bradley occurred at a time when Russia's expansion into neighboring territory and the division of Europe into spheres of influence led to a fearful awareness of possible Communism in America, and an examination of Marxist philosophy of violent overthrow of adversary governments. Though the procedures of the Un-American Activities Committee of the House of Representatives were openly criticized, a dozen states defined the Communist Party as illegal in 1947 and banned it from the ballot in elections. Anxiety grew with the revelations of the Alger Hiss case in 1948 and the trial of American Communist Party leaders in 1949. Universities came under scrutiny the same year, as state legislatures investigated subversive activity at the Universities of Michigan and Washington. At the latter, three professors were dismissed in 1951 for Communist affiliation.</p><p>New York University had reestablished a liberal arts undergraduate college at Washington Square in 1913 for working commuting students and students in the professional schools of commerce (business), pedagogy (education) and law. The collegiate subculture established in other American universities in the nineteenth century, including the University Heights campus, was less evident in the urban campus, with its vocational focus, lack of playing fields and lack of dormitories; older veterans gave a serious and frequently political tone to student clubs and organizations at the Square. Organized student and political protests, however, lacked the national focus that characterized the student movement of 20 years later. It is significant the one of the charges brought against Bradley, that of holding a noisy, impetuous and potentially disorderly demonstration, was originally made by the head of the student government organization, and then adopted by the Dean of the College.</p><p>As the post-War supply of veteran students began to decline and state colleges attracted those who could not afford private tuition, the Council faced the problem of endowment for the future. Traditional sources of funding were alumni, most of whom had worked as students, and the business community, which expected NYU graduates to be trained pragmatically. While the administration took pains to define the dismissal of Bradley for his actions and activities only, the financial constituency expected from the University a strong message to the nation and the academic community that NYU was determined to sever from its midst any element that promoted a philosophy unfriendly to the national interest.</p><p>The University's administrative framework in 1947 was a federated group of schools, institutes and colleges on several campuses, following individual goals within a structure that allowed centralization of the administrative hierarchy. Authority from three administrative offices controlled the procedures of suspension and academic trial for Bradley. The Office of the Dean of Washington Square College supervised selection of faculty and curricula, and acted as liaison between students and faculty, faculty and administration. The Dean was responsible for the initiation of charges and arranged hearings to determine any change in tenure of a faculty member. Thomas C. Pollock, Phi Beta Kappa and NYU Professor of English since 1938, became Dean in March 1947.</p><p>Harry Woodburn Chase had been Professor, Dean, and Chairman of faculty at the University of North Carolina and its president for 11 years. Three years at the University of Illinois preceded his coming to NYU as Chancellor in 1933. His faculty and Dean's experience contributed to the flexibility he showed in sharing leadership and responsibility with Dean Pollock. As chief executive officer of the University, his was the explanatory voice of NYU's position to academic and political inquiries.</p><p>Harold O. Voorhis held his first administrative office at NYU in 1920, becoming Vice Chancellor (chief assistant to the Chancellor) in 1925. He maintained this position, with duties expanded by Chancellor Chase, until 1955. As Clerk of the University Council, he drafted and maintained the minutes of that body.</p><p>James Madden was Council Treasurer and member since 1946 and Acting Chancellor of the University, 1951-1952. He had a strong legal background and, like most other Council members, was a national business figure.</p>  </bioghist>
-  <custodhist id="aspace_a82c95dd919bb1262c834f5d9c74f6c9">
-    <head>Custodial History</head>
-<p>The records of the New York University Academic Freedom Case of Lyman R. Bradley were transferred on June 12, 1984 to the New York University Archives by the Office of the Secretary. The records, together with those of a later case involving Edwin Berry Burgum, were sealed in 1954 by the Office of the General Counsel and stored in the President's vault in Vanderbilt Hall. Requests for research use in 1981 and 1982 led the Chancellor to appoint a Committee to evaluate provisions for access. In 1985, the Committee recommended that the collections become available to scholars, with reasonable regard for privacy.</p>  </custodhist>
-  <odd id="aspace_25ba0b6b39bcaad3b8065d1f069dcd05">
-    <head>General</head>
-    <list type="ordered">
-      <head> Biographical Appendix - Legal Counsel</head>
-      <item><persname>Royal W. France</persname>, Counsel to <persname>Lyman R. Bradley</persname></item>
-      <item><persname>Stuart Updike</persname>, Special counsel to the University</item>
-      <item><persname>John W. Gerdes</persname>, Counsel to the University</item>
-      <item><persname>Fowler W. Harper</persname>, <corpname>Yale Law School</corpname> Professor, Counsel to Lyman R. Bradley</item>
-      <item><persname>Arad Riggs</persname>, NYU Law School Professor, University Counsel to Dean Pollock</item>
-    </list>
-  </odd>
-  <phystech id="aspace_3d915449895e7fc08937fe40b2bb5043">
-    <head>Audiovisual Access Policies and Procedures</head>
-<p>Access CDs for audiovisual materials in the collection are available by appointment for reading room viewing and listening only.</p>  </phystech>
-  <prefercite id="aspace_672f84f8f29293b58cb5ac7ed8364e8c">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Records of the Lyman R. Bradley Academic Freedom Case; RG 19.2; box number; folder number; New York University Archives, New York University.</p>  </prefercite>
-  <processinfo id="aspace_c4c0f6dff9c8b9a126fb72ea786bbf82">
-    <head>Processing Information</head>
-<p>The records of the Academic freedom case of Lyman R. Bradley, together with those of Edwin Berry Burgum, were delivered to the New York University Archives on June 12, 1984 and opened and separated on February 18, 1986.</p><p>The administrative office of latest origin had been the Office of the Secretary which in 1954 placed files relating to the Bradley and Burgum cases in sealed containers in the President's vault in Vanderbilt Hall. The Bradley records were administrative files from the Office of the Dean of Washington Square College, the Office of the Chancellor, and the Office of the Vice Chancellor (the office that contributed minutes and exhibits from those Council meetings (1947-1961) at which "the Bradley matter" was discussed). This collection measured 3 linear feet, consisted of 46 file folders, and included up to six copies each of various hearing books and committee reports. Processing has reduced the records to 1 1/3 linear feet, which are stored in 34 folders in 3 acid-free boxes.</p><p>The 18 folders from the Office of the Dean bore single color labels and designated individuals and organizations significant to the case: various University counsel, apologists for Bradley, the Modern Language Association, and the American Association of University Professors. Their arrangement begins with hearing reports which defined original charges, followed by the file folders maintained in the alphabetical order as received.</p><p>Of the seven folders received from the Office of the Chancellor, one had intermingled correspondence from the Vice Chancellor and has been placed at the end of the series to interface with two Vice Chancellor's folders that have Chancellor's material intermingled with them. The labelled function of these files - to provide background information to outside counsel - can be a significant focus for study of the role of outside counsel in University decision-making.</p><p>While the folders used at the University were neat and basically chronological, those used as background for lawyers were in considerable disarrangement. They have been restored to chronological order.</p><p>The Chancellor's material begins with Bradley-General and has been arranged to follow the development of the case: publicity, protests, and material sent to counsel.</p><p>The Vice Chancellor's folders begin with correspondence and end with Council files. From a large collection of duplication, there remain council dockets, minutes and exhibits, reflecting most of the 13 occasions of Bradley case discussion.</p><p>Significant to this series is that the Council exhibits are the original, signed documents from the Dean's and Chancellor's files. These were the letters and memoranda which communicated the important events of the caseâ particularly to (and from) Professor Bradley: his suspension, opportunity for hearing, etc. Since these documents are referred to throughout the collection, restoring these (or photocopies) to their series of origin would restore provenance and enhance understanding of the case.</p><p>There is evidence of considerable "correction" to minutes and hearing reports and it can be anticipated that request for study of the stenotypist tape will be made. The Chancellor's secretary played a significant role in this case and her notations and directions on the Chancellor's papers are considerable. She was an unannounced third-party listener to telephone calls to Bradley counsel and the recorder of the many "blind" copies of the documents circulated.</p><p>Overall, the Bradley material was received in excellent condition. Some court records in folders 3 and 4 used as Exhibits are missing, as are copies of the University of Pennsylvania Law Review. A few pieces of correspondence have been marked for mending with special tape and several newspapers and news clippings remain to be xeroxed (those from the University community to be added to Archives files, if appropriate.)</p><p>The removal of duplicates, printed matter and stenotypist tape reduced the collection from 3 linear feet to 1.25 linear feet. The bulk of this material falls between the years 1947 to 1951, with a few documents dating to 1924.</p><p>In October 2018, audio recordings were removed in preparation for the collection to be sent to offsite storage. The audio recordings were placed in shared boxes, and separation sheets were placed in the original folders containing the audio recordings. In addition, oversize materials were housed in flat file folders.</p>  </processinfo>
-  <relatedmaterial id="aspace_70bed4635fe08418c2ce2983f46373ef">
-    <head>Related Material at the New York University Archives</head>
-<p>A listing of Council members over the years may be found in the Bulletins of the University College of Arts and Science. Other related material includes: <list><item> University Bylaws, Archives H.</item><item>Board of Trustees (Council) Actions RG 2.1</item><item>Office of Chancellor Chase, RG 3.0.5</item><item>Presidential Administrative Records (Madden, Heald, Newsom), RG 3.0.6</item><item>Office of the Vice President (Vice Chancellor) and Secretary Voorhis, RG 4.1.1</item><item>Office of the Dean of Washington Square College, RG 19.0</item><item>Reminiscences (various), Archives H</item></list></p><p>
-See also: The Papers of Charlotte Stern (Board member of the JAFRC). Trial briefs, clippings, photos; Collection 70, Tamiment Library, NYU.</p>  </relatedmaterial>
-  <scopecontent id="aspace_65d1cf41f13b0a51c6eb1fdcbbd309a3">
-    <head>Scope and Contents</head>
-<p>The records of The Academic Freedom Case of Lyman R. Bradley came from the highest levels of University governance: the Offices of the Chancellor, the Vice Chancellor, and Dean of Washington Square College. The records reflect traditional patterns of leadership and responsibility as well as unusual postures of initiative, decisiveness and defensiveness in response to the political climate of the period. These conditions along with the unique circumstances of this case provoked an examination of the privileges of academic freedom and the responsibility of tenure. This collection contains a consecutive record of hearings of faculty and University Council sitting in judgment of one of their own. The role of legal counsel is significant, and the consultation with attorneys outside the University attests to the complexity of the case. The University Council's stated role in the bylaws as the supreme governing body with the power to make appointments and removals is here manifest in its function as final arbiter of the faculty's conclusions.</p><p>The collection primarily consists of correspondence, committee and hearing reports, legal documents, and subject files. Additionally, there is a significant assortment of news clippings, handbills, and exhibits documenting the student and political philosophies of the period. The collection also contains drafts, posters, memoranda, minutes, printed material, publications, telegrams and transcripts of hearings and trials, and audio recordings. Among the handbills, posters, and newspapers are a few belonging to NYU student organizations. Materials date from 1924 to 2009.</p><p>Summaries of case events which span all series are present in Folders 10, 11, 15, 20, 24 and 33, written by both administrators and University Council.</p>  </scopecontent>
-  <separatedmaterial id="aspace_a556b08889be2dd874cc9be307f2bf45">
-    <head>Separated Materials</head>
-<p><list><head>Exhibits Missing (Series I, Folders 3,4) </head><item>#36, 37, 38, 38: Court Records and Government Briefs for Bradley, Fleischman, Bryan and Eisler cases</item><item>#45 Pollock: Communism and Academic Freedom: Tenure Cases at The University of Washington 1949 (available in Bobst Library Call No. LD 5741.JA55)</item><item>#46 Pollock: University of Pennsylvania Law Review (December, 1950) (available in New York University Law Library)</item><item>#3 Bradley: Communist Party Cases</item><item>#4 Bradley: Barsky et al vs. U.S.</item></list><list><head>The following material was removed to the non-print storage area of Archives from Series I, Folder 3:</head><item>Stenotypist Tape of 1951 Jan. hearing</item><item>Tape recording 1948 Student Meeting</item></list></p>  </separatedmaterial>
-  <userestrict id="aspace_d678d6a1c3d24c11555161da45b24694">
-    <head>Conditions Governing Use</head>
-<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
-  <bibliography id="aspace_6ad4b3c9854d8a3d7e5d9173b1cad67d">
-    <head>Bibliography</head>
-    <bibref>Baldridge, J. Victor, Power and Conflict in the University: Research in the Sociology of Complex Organizations (New York: John Wiley and Sons, 1971).</bibref>
-    <bibref>Burgum, Edwin Berry and Bradley, Lyman R., Academic Freedom Cases at NYU.</bibref>
-    <bibref>"Civil Liberties". Encyclopedia Britannica Book of the Year. 1949, 1950, 1951.</bibref>
-    <bibref>Inventory to the Records of the Edwin Berry Burgum Academic Freedom Case, RG 19.1</bibref>
-    <bibref>NYU Archives: NYU Charter &amp; Bylaws (various).</bibref>
-    <bibref>NYU Council and its Committees. February, 1932.</bibref>
-    <bibref>Reminiscences of Arts and Science Faculty of Washington Square College: Thomas C. Pollock, Dean; Letter of Marty Waldman, 1948.</bibref>
-    <bibref>Schrecker, Ellen W., No Ivory Tower: McCarthyism and the Universities (New York, 1986).</bibref>
-    <bibref>Who's Who in America, 1950-1951, 1952-1953 (Chicago: A. N. Marquis &amp; Company).</bibref>
-  </bibliography>
-  <controlaccess>
-    <genreform source="lcsh">Hearings.</genreform>
-    <subject source="lcsh">Academic freedom.</subject>
-    <corpname source="naf">American Association of University Professors</corpname>
-    <persname rules="dacs" source="local">Bradley, Lyman R.</persname>
-    <persname source="naf">Burgum, Edwin Berry, 1894-</persname>
-    <persname source="naf">Chase, Harry Woodburn, 1883-1955</persname>
-    <persname source="naf">Cooley, Hollis R. (Hollis Raymond), 1899-1987</persname>
-    <corpname source="naf">Daily Worker (New York)</corpname>
-    <persname rules="dacs" source="local">France, Royal Wilbur</persname>
-    <persname source="naf">Hammett, Dashiell, 1894-1961</persname>
-    <persname source="naf">Harper, Fowler V. (Fowler Vincent), 1897-1965</persname>
-    <corpname source="naf">Joint Anti-Fascist Refugee Committee</corpname>
-    <persname source="naf">Lind, Ilse Dusoir, 1917-</persname>
-    <persname rules="dacs" source="local">Madden, James L.</persname>
-    <persname source="naf">Marcantonio, Vito, 1902-1954</persname>
-    <persname source="naf">Miller, Arthur, 1915-2005</persname>
-    <corpname source="naf">Modern Language Association of America</corpname>
-    <corpname source="naf">New York University</corpname>
-    <corpname rules="dacs" source="local">New York University. Washington Square College of Arts and Science</corpname>
-    <corpname source="naf">Phi Beta Kappa</corpname>
-    <persname source="naf">Pollock, Thomas Clark, 1902-1988</persname>
-    <persname source="naf">Schlauch, Margaret, 1898-1986</persname>
-    <persname source="naf">Stern, Charlotte, 1929-</persname>
-    <corpname source="naf">United States. Attorney-General</corpname>
-    <corpname role="dnr" rules="dacs" source="local">New York University. Office of the Secretary</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref22" level="series"><did><unittitle>Series I: Office of the Dean of Washington Square College</unittitle><unitdate normal="1938/1961" type="inclusive">1938-1961</unitdate></did><scopecontent id="aspace_7a3605923ea96285b66092b72eb8f17f"><head>Scope and Contents</head><p>Contains material relative to the Senate Committee report which drew up initial charges. Rules of tenure and a statement of policy are present as background distributed to each committee member. The verbatim transcripts (produced from stenotypist tape) reflect the varieties of opinion in collegial discussion, but also the operation of procedures required by the Faculty Handbook.</p><p>The Dean's Exhibits (Folders 2, 3) are his collection of clippings and articles from left-wing newspapers and organizations, as well as government documents significant to this case. The HUAC Hearing which initiated the contempt charge is present, as well as (of historic interest) the alien request to leave the country of suspected communist spy, Gerhardt Eisler. The HUAC is represented further in the series in Box 1, Folder 10 and Box 2, Folder 14.</p><p>Subsequent are the Dean's topical files, which show his interaction with the Chancellor and the informatory position he took with both the Chancellor and Vice Chancellor. At the inception of this case, it fell to the Dean to explain the University position to many who protested suspension and confused it with dismissal. Some prominent academics, such as Harlow Shapley, were correspondents (Box 2, Folder 11). It is to be noted that the American Civil Liberties Union found no fault with the University's action, but chastised a Massachusetts affiliate for interfering with a local (New York) matter (Box 1, Folder 9).</p><p>Student activity and interaction with the Dean may be found in Box 2, Folders 1 and 2; student and political handbills in Box 2, Folders 6 and 15.</p></scopecontent><c id="aspace_ref23" level="otherlevel" otherlevel="unspecified"><did><unittitle>Senate Committee Transcript</unittitle><unitdate>1951 Jan. 3- 1951 Jan. 4</unitdate><container altrender="Manuscript box - Legal" id="aspace_e3619c2c775a81018402a9694cdd7651" label="Mixed Materials [31142062751345]" type="box">1</container><container id="aspace_e039d79127b2d8ba8bfa0a42ed3cb5d6" parent="aspace_e3619c2c775a81018402a9694cdd7651" type="folder">1</container></did></c><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle>Senate Committee Report/Dean's Exhibits</unittitle><unitdate>1951 Jan. 3- 1951 Jan. 4</unitdate><container altrender="Manuscript box - Legal" id="aspace_efc9e6d360b21d2189165bdbef380f2a" label="Mixed Materials [31142062751345]" type="box">1</container><container id="aspace_0560f36616730d7ae279e1ace2557c88" parent="aspace_efc9e6d360b21d2189165bdbef380f2a" type="folder">2</container></did></c><c id="aspace_ref25" level="otherlevel" otherlevel="unspecified"><did><unittitle>Senate Committee Report/Dean's Exhibits</unittitle><unitdate>1951 Jan. 5</unitdate><container altrender="Manuscript box - Legal" id="aspace_ea5bde07c8372cf336d6fb1d5fda2457" label="Mixed Materials [31142062751345]" type="box">1</container><container id="aspace_ac6ffa72d556a64ca1bb0ea13d17bc80" parent="aspace_ea5bde07c8372cf336d6fb1d5fda2457" type="folder">3</container></did></c><c id="aspace_ref26" level="otherlevel" otherlevel="unspecified"><did><unittitle>Senate Committee Report/Bradley's Exhibits</unittitle><unitdate>1951 Jan. 5</unitdate><container altrender="Manuscript box - Legal" id="aspace_de590ab9a4ea406f95a8eea1629679a4" label="Mixed Materials [31142062751345]" type="box">1</container><container id="aspace_b86436b6d5d0572275bccb9480410a1b" parent="aspace_de590ab9a4ea406f95a8eea1629679a4" type="folder">4</container></did></c><c id="aspace_ref27" level="otherlevel" otherlevel="unspecified"><did><unittitle>Senate Committee Report, Typed, without signatures, addenda</unittitle><unitdate>1951 Feb. 26</unitdate><container altrender="Manuscript box - Legal" id="aspace_b048db22f5f0e5227353b42f72d8376d" label="Mixed Materials [31142062751345]" type="box">1</container><container id="aspace_2c3c98bb194f558b7eb02aa46796295a" parent="aspace_b048db22f5f0e5227353b42f72d8376d" type="folder">5</container></did></c><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle>Senate Committee Report, Printed, signed, with addenda</unittitle><unitdate>1951 Feb. 26</unitdate><container altrender="Manuscript box - Legal" id="aspace_dbb759c3465edaab3e5462254f5870fc" label="Mixed Materials [31142062751345]" type="box">1</container><container id="aspace_d64404e33f2102a9d682b3340e7a1038" parent="aspace_dbb759c3465edaab3e5462254f5870fc" type="folder">6</container></did></c><c id="aspace_ref29" level="otherlevel" otherlevel="unspecified"><did><unittitle>Council Meeting Statement Report</unittitle><unitdate>1951 Mar. 26</unitdate><container altrender="Manuscript box - Legal" id="aspace_55be7ab0b9a0242f333f034cf75b50dc" label="Mixed Materials [31142062751345]" type="box">1</container><container id="aspace_3aae8b4f8086087f4149d9dab01acc76" parent="aspace_55be7ab0b9a0242f333f034cf75b50dc" type="folder">7</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Association of University Professors</unittitle><unitdate normal="1954/1957" type="inclusive">1954, 1956-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_03842d236b5b620e2068a24769680539" label="Mixed Materials [31142062751345]" type="box">1</container><container id="aspace_e3c6831c44f0dfdf87cb1a7db6064a28" parent="aspace_03842d236b5b620e2068a24769680539" type="folder">8</container></did></c><c id="aspace_ref31" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Civil Liberties Union</unittitle><unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_b6ffb192838a3a7ebc7586302c595a1f" label="Mixed Materials [31142062751345]" type="box">1</container><container id="aspace_dc9cb60ecdbec1f6af2671cfe7f4be46" parent="aspace_b6ffb192838a3a7ebc7586302c595a1f" type="folder">9</container></did></c><c id="aspace_ref32" level="otherlevel" otherlevel="unspecified"><did><unittitle>Lyman R. Bradley</unittitle><unitdate normal="1938/1961" type="inclusive">1938-1961</unitdate><container altrender="Manuscript box - Legal" id="aspace_7e58c5d5e1a65e23dc640e8bf2af4327" label="Mixed Materials [31142062751345]" type="box">1</container><container id="aspace_837b1ce9dc32829683f75fa24256de28" parent="aspace_7e58c5d5e1a65e23dc640e8bf2af4327" type="folder">10</container></did></c><c id="aspace_ref33" level="otherlevel" otherlevel="unspecified"><did><unittitle>Harry Woodburn Chase</unittitle><unitdate normal="1947/1950" type="inclusive">1947-1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_a6a12d40ee9b908dfa2ce14e12fe521f" label="Mixed Materials [31142062751337]" type="box">2</container><container id="aspace_5fcd40ab6f15d8bf52f5aaa17517750e" parent="aspace_a6a12d40ee9b908dfa2ce14e12fe521f" type="folder">1</container></did></c><c id="aspace_ref34" level="otherlevel" otherlevel="unspecified"><did><unittitle>Howard Fast</unittitle><unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_17e399dbee6328d4a2cccf9ee9a3200b" label="Mixed Materials [31142062751337]" type="box">2</container><container id="aspace_dc47df7e58fda788a7c34812e24fe38d" parent="aspace_17e399dbee6328d4a2cccf9ee9a3200b" type="folder">2</container></did></c><c id="aspace_ref35" level="otherlevel" otherlevel="unspecified"><did><unittitle>1st and 5th Amendments</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d109da47bdd88821c1d83220aee3c9d9" label="Mixed Materials [31142062751337]" type="box">2</container><container id="aspace_9a708231f8adb274dad05ef952357bca" parent="aspace_d109da47bdd88821c1d83220aee3c9d9" type="folder">3</container></did></c><c id="aspace_ref36" level="otherlevel" otherlevel="unspecified"><did><unittitle>Royal W. France</unittitle><unitdate normal="1952/1960" type="inclusive">1952-1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_633cd37c3dc25226c2ec90cf9e3a47dd" label="Mixed Materials [31142062751337]" type="box">2</container><container id="aspace_24973faba4d31836b3bc55c5e71a4938" parent="aspace_633cd37c3dc25226c2ec90cf9e3a47dd" type="folder">4</container></did></c><c id="aspace_ref37" level="otherlevel" otherlevel="unspecified"><did><unittitle>John W. Gerdes</unittitle><unitdate normal="1948/1952" type="inclusive">1948-1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_5960b1c22c37a794e7258d2241f25200" label="Mixed Materials [31142062751337]" type="box">2</container><container id="aspace_cecb66f582a543adf284a7bf378321bf" parent="aspace_5960b1c22c37a794e7258d2241f25200" type="folder">5</container></did></c><c id="aspace_ref38" level="otherlevel" otherlevel="unspecified"><did><unittitle>Handbills</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_81cd394079f63f3679a3318e19b59dca" label="Mixed Materials [31142062751337]" type="box">2</container><container id="aspace_5d991b9e04711a57bbefb62153811b93" parent="aspace_81cd394079f63f3679a3318e19b59dca" type="folder">6</container></did></c><c id="aspace_ref39" level="otherlevel" otherlevel="unspecified"><did><unittitle>Fowler W. Harper</unittitle><unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_af0496a3e264dac2bdcb2a0051c0e240" label="Mixed Materials [31142062751337]" type="box">2</container><container id="aspace_0ad436ed21da59a4f339116dc846efc8" parent="aspace_af0496a3e264dac2bdcb2a0051c0e240" type="folder">7</container></did></c><c id="aspace_ref40" level="otherlevel" otherlevel="unspecified"><did><unittitle>Clyde R. Miller</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_b2f0667c5f730095639b8fb54c0a86d8" label="Mixed Materials [31142062751337]" type="box">2</container><container id="aspace_28b51ef8216e4e0b1b9bba6940fe0660" parent="aspace_b2f0667c5f730095639b8fb54c0a86d8" type="folder">8</container></did></c><c id="aspace_ref41" level="otherlevel" otherlevel="unspecified"><did><unittitle>Modern Language Association</unittitle><unitdate normal="1947/1951" type="inclusive">1947-1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_93d338791860f1ee605eed7d09851d6e" label="Mixed Materials [31142062751337]" type="box">2</container><container id="aspace_e0b41450ab263fd93ea6a84961258715" parent="aspace_93d338791860f1ee605eed7d09851d6e" type="folder">9</container></did></c><c id="aspace_ref42" level="otherlevel" otherlevel="unspecified"><did><unittitle>Arad Riggs</unittitle><unitdate normal="1950/1954" type="inclusive">1950-1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_4ffea41812e7921d0279e59d31df524b" label="Mixed Materials [31142062751337]" type="box">2</container><container id="aspace_9d34ef9d337d1b4cd60149ec8cb201ca" parent="aspace_4ffea41812e7921d0279e59d31df524b" type="folder">10</container></did></c><c id="aspace_ref43" level="otherlevel" otherlevel="unspecified"><did><unittitle>Harlow Shapley</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_7a8bd0d6817be43cf2d4956774b640dd" label="Mixed Materials [31142062751337]" type="box">2</container><container id="aspace_d9b55774b298b25ed75eac1b6a5972bb" parent="aspace_7a8bd0d6817be43cf2d4956774b640dd" type="folder">11</container></did></c><c id="aspace_ref44" level="otherlevel" otherlevel="unspecified"><did><unittitle>Townley, Updike &amp; Carter</unittitle><unitdate normal="1953/1954" type="inclusive">1953-1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_c4c9676b099fee433cc8331c3f42d828" label="Mixed Materials [31142062751337]" type="box">2</container><container id="aspace_f482d22a2f285ba1b436bbbcffa7a194" parent="aspace_c4c9676b099fee433cc8331c3f42d828" type="folder">12</container></did></c><c id="aspace_ref45" level="otherlevel" otherlevel="unspecified"><did><unittitle>Harold O. Voorhis</unittitle><unitdate normal="1947/1950" type="inclusive">1947-1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_d0407d386941bf9271708938d2502e23" label="Mixed Materials [31142062751337]" type="box">2</container><container id="aspace_507134f1d1184e4a4367fefd8b8b59d3" parent="aspace_d0407d386941bf9271708938d2502e23" type="folder">13</container></did></c></c><c id="aspace_ref48" level="series"><did><unittitle>Series II: Office of the Chancellor</unittitle><unitdate normal="1934/1953" type="inclusive">1934-1953</unitdate></did><scopecontent id="aspace_4a47c4ec2699ef5479af6580ea88b681"><head>Scope and Contents</head><p>The correspondence folder of the Chancellor (Box 2, Folder 14) illustrates his role as executive officer in transmittal of charges to the accused. In 1948 he took over from the Dean as official spokesperson to members of the general and political public who wrote to protest suspension. (Box 2, Folders 15, 16). Little mention is made in these files of the scores of form/mimeographed postcards received (Box 2, Folder 17 and Box 3, Folder 1).</p><p>The Chancellor had dealings with students (Box 2, Folder 14) and was interested in a case of student suspension at Columbia. Noted here, too, is the emigration to Poland of a popular NYU professor of English, Margaret Schlauch, who was known to be Marxist. Correspondence with other university presidents on academic freedom topics similar to this one suggests that this subject may be represented in the Chancellor's general correspondence files (Record Group 3.0.5). There is considerable discussion of tenure (Box 2, Folder 14) and communication with and from the Vice Chancellor (Box 3, Folder 2 - an intermingling of office files may have occurred). The question of moral turpitude that appears occasionally is a reference to the AAUP. Also illustrated are the persuasive powers of Voorhis in countering Dean Pollock's suggestion that a year's salary must be paid in the absence of a judgement of moral turpitude.</p><p>Chancellor Chase retired in 1951. While some correspondence and memos from Acting Chancellor Madden (1951-53) are present following confirmed suspension, the Bradley matter became primarily an item for Council discussion.</p></scopecontent><c id="aspace_ref49" level="otherlevel" otherlevel="unspecified"><did><unittitle>Lyman R. Bradley</unittitle><unitdate normal="1947/1953" type="inclusive">1947-1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_deaef09a3c9144236136cb38a1d63a5f" label="Mixed Materials [31142062751337]" type="box">2</container><container id="aspace_f427e60f478d145e246ad0d8c1424ed6" parent="aspace_deaef09a3c9144236136cb38a1d63a5f" type="folder">14</container></did></c><c id="aspace_ref50" level="otherlevel" otherlevel="unspecified"><did><unittitle>Publicity (General Protests)</unittitle><unitdate normal="1947/1949" type="inclusive">1947-1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_a37eb4b7f68acbb4c3a77b2d4e947581" label="Mixed Materials [31142062751337]" type="box">2</container><container id="aspace_31063d326c35932e12219a6c02c05f07" parent="aspace_a37eb4b7f68acbb4c3a77b2d4e947581" type="folder">15</container></did></c><c id="aspace_ref51" level="otherlevel" otherlevel="unspecified"><did><unittitle>General Protests</unittitle><unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_f6c0cba8202ee46e2314769d9ffb8d22" label="Mixed Materials [31142062751337]" type="box">2</container><container id="aspace_9ff92c3b70ea8c8d75689fef48d5742d" parent="aspace_f6c0cba8202ee46e2314769d9ffb8d22" type="folder">16</container></did></c><c id="aspace_ref52" level="otherlevel" otherlevel="unspecified"><did><unittitle>Postcards to Chancellor urging reinstatement</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_e5aa0d4f19a8d3e28137f11387eb8831" label="Mixed Materials [31142062751337]" type="box">2</container><container id="aspace_26d46a70d3a814de6ec852897e61aace" parent="aspace_e5aa0d4f19a8d3e28137f11387eb8831" type="folder">17</container></did></c><c id="aspace_ref53" level="otherlevel" otherlevel="unspecified"><did><unittitle>Postcards to Chancellor urging reinstatement</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_0e21d2184d6c688fc180c8e950b20be6" label="Mixed Materials [31142062751329]" type="box">3</container><container id="aspace_67a343871647c60394d0b0a8e3f5fcce" parent="aspace_0e21d2184d6c688fc180c8e950b20be6" type="folder">1</container></did></c><c id="aspace_ref54" level="otherlevel" otherlevel="unspecified"><did><unittitle>Background Material not sent to Outside Counsel Reagan or Gerdes</unittitle><unitdate normal="1934/1951" type="inclusive">1934-1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_e435a8613ac8e7f32177acd56aff949a" label="Mixed Materials [31142062751329]" type="box">3</container><container id="aspace_ebb5edc0dd891aa3f2cd24a4c1bee732" parent="aspace_e435a8613ac8e7f32177acd56aff949a" type="folder">2</container></did></c></c><c id="aspace_ref57" level="series"><did><unittitle>Series III: Office of the Vice Chancellor</unittitle><unitdate normal="1924/1961" type="inclusive">1924-1961</unitdate></did><scopecontent id="aspace_2b6dc2c8f232286758b51e975cfc1343"><head>Scope and Contents</head><p>This series commences with background files for counsel that, as above, intermingle with material from the Office of the Chancellor and include some letters from the Dean. (There is limited correspondence to or from Chancellors Heald and Newsom.) Series III concerns the later negotiations about quittance pay and continues discussion of moral turpitude (Box 3, Folder 3), tenure (Box 3, Folders 4, 5), and the AAUP (Box 3, Folder 5). While the Vice Chancellor's role in this case is lightly documented, his opinions seem to have been valued.</p><p>Relative to tenure, Professor Horace Cooley's reminiscences (Archives H) reveal that new tenure rules were enacted the day before the Bradley suspension was finalized, thereby disallowing his participation in their broader privileges. Cooley was the sole dissenting opinion in the Senate Committee and was the AAUP representative and author of the report on NYU which contributed to its censure. Academic freedom at NYU is highlighted in the reply of Dean Pollock to a suggestion by counsel that students report on Bradley's advocacy of Communism in the classroom. Checking on faculty in such a fashion was not a policy of New York University, and Pollock affirmed that it was action, not ideology, that was involved in Bradley's trial.</p><p>Council files and exhibits (Box 3, Folders 6, 7) contain the original documents transmitting charges from the Dean and Chancellor to Bradley. Their presence here explains their mention (but absence) from the files of their origin in Series I and II. Of interest is the note of the change of wording of one Council resolution to avoid the mention of moral turpitude. No explanation is given for the dissent of Mr. Hudson in protest of the implication, or for the action of Judge Vanderbilt, who disqualified himself from Council deliberations. Reference to full Council Meeting minutes reveal that while serious attention was always paid to the Bradley matter, it was one of many items considered of importance to University governance, and only in its initial and final stages was it granted more than a routine attention in deliberation.</p></scopecontent><c id="aspace_ref58" level="otherlevel" otherlevel="unspecified"><did><unittitle>Background Material not sent to Outside Counsel Reagan or Gerdes</unittitle><unitdate normal="1951/1954" type="inclusive">1951-1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_91640547912c3c38b6002d9de6442066" label="Mixed Materials [31142062751329]" type="box">3</container><container id="aspace_39a2b6a5e8b7178923a10a471647fbc0" parent="aspace_91640547912c3c38b6002d9de6442066" type="folder">3</container></did></c><c id="aspace_ref59" level="otherlevel" otherlevel="unspecified"><did><unittitle>Background Material not sent to Outside Counsel Reagan or Gerdes</unittitle><unitdate normal="1924/1954" type="inclusive">1924-1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_68fed9b32b3dbc36a0d7a69b5124d466" label="Mixed Materials [31142062751329]" type="box">3</container><container id="aspace_0f68dee57d29206a6da1e6406a3d3daa" parent="aspace_68fed9b32b3dbc36a0d7a69b5124d466" type="folder">4</container></did></c><c id="aspace_ref60" level="otherlevel" otherlevel="unspecified"><did><unittitle>File of Vice Chancellor</unittitle><unitdate normal="1947/1961" type="inclusive">1947-1961</unitdate><container altrender="Manuscript box - Legal" id="aspace_4d825cb27d3dd0ecaef0cd79380ce0af" label="Mixed Materials [31142062751329]" type="box">3</container><container id="aspace_f5226e79de3df4eaab7bfe7bd468b1a6" parent="aspace_4d825cb27d3dd0ecaef0cd79380ce0af" type="folder">5</container></did></c><c id="aspace_ref61" level="otherlevel" otherlevel="unspecified"><did><unittitle>Supporting Papers on the Bradley Case from Council Files</unittitle><unitdate normal="1925/1952" type="inclusive">1925-1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_4ad35711cceb41fef07b70edbfe176a0" label="Mixed Materials [31142062751329]" type="box">3</container><container id="aspace_1646b147ad59e17a686570185aee40cd" parent="aspace_4ad35711cceb41fef07b70edbfe176a0" type="folder">6</container></did></c><c id="aspace_ref62" level="otherlevel" otherlevel="unspecified"><did><unittitle>Copies of Supporting Papers from Council Files</unittitle><unitdate normal="1947/1953" type="inclusive">1947-1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_c78677fa443297d590a5c9ddbd3f54bc" label="Mixed Materials [31142062751329]" type="box">3</container><container id="aspace_b253336d1ff299a939b4104d28ad7486" parent="aspace_c78677fa443297d590a5c9ddbd3f54bc" type="folder">7</container></did></c></c><c id="aspace_ref70" level="series"><did><unittitle>Series IV: Related Materials</unittitle><unitdate normal="1937/2009" type="inclusive">1937-2009</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_93f899771c16a9fac9c482d97e3cdf8a"><head>Scope and Contents</head><p>This series contains FBI files, articles, and periodicals related to Bradley's case.</p></scopecontent><c id="aspace_ref72" level="file"><did><unittitle>FBI files obtained by Prof. Phillip Deery under Freedom of Information Act </unittitle><unitdate normal="1945/2009" type="inclusive">1945-2009</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_1fe0fefc24870719d8320f0cf0284712" label="Mixed Materials [31142062751287]" type="box">4</container><container id="aspace_2a899aca44fd17138840bad337677c82" parent="aspace_1fe0fefc24870719d8320f0cf0284712" type="box-folder">1</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>"Academic Freedom and the Cold War: The dismissal of Lyman Bradley from New York Univerisity" by Phillip Deery March 2009.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_b4ececd8d9820c02277a747c1f24b682" label="Mixed Materials [31142062751287]" type="box">4</container><container id="aspace_a85762f82c5cbc9edd183a20a67305d8" parent="aspace_b4ececd8d9820c02277a747c1f24b682" type="box-folder">2</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Related Periodicals</unittitle><unitdate normal="1937/1953" type="inclusive">1937-1953</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_6510b89c34f4c92c12a14fba7dfc0a96" label="Mixed Materials [31142062751303]" type="box">5</container><container altrender="Manuscript box - Legal" id="aspace_d9ad5b095b2262fb997a05836e8d4799" label="Mixed Materials [31142062751295]" type="box">6</container><container altrender="Record carton" id="aspace_950b316d8c4ab302129375bd7aab3f13" label="Mixed Materials [31142062751311]" type="box">7</container><container id="aspace_43656684aa99ca687907a5c80fd23fd3" parent="aspace_950b316d8c4ab302129375bd7aab3f13" type="folder">8-9</container></did></c></c><c id="aspace_ref78" level="series"><did><unittitle>Series V. Oversized materials</unittitle><unitdate normal="1938/1949" type="inclusive">1938-1949</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_34bdea474f2c15dde37a224df8e98004"><head>Scope and Contents</head><p>This series contains a small amount of thermofaxed and microfilm printouts.</p></scopecontent><c id="aspace_ref79" level="file"><did><unittitle>Thermofaxed and microfilm printouts mainly of protests against McCarthyism.</unittitle><unitdate normal="1938/1949" type="inclusive">1938-1949</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Oversize Folder - Half Case" id="aspace_7b56a1961dbe3a4a44f66220bcba786e" label="Mixed Materials [31142062751386]" type="Flat-File-Folder">1 Left</container><container altrender="Oversize Folder - Half Case" id="aspace_04d357b2dc08cdfd12e73395364f39a3" label="Mixed Materials [31142062751394]" type="Flat-File-Folder">2 Left</container><container altrender="Hollinger Flat OS 13.5" id="aspace_b573380c22663705fa4ab3929ae2e750" label="Mixed Materials" type="box">Shared University Archives 001</container></did></c></c><c id="aspace_ref81" level="series"><did><unittitle>Series VI: Separated Material</unittitle><physdesc altrender="part"><extent altrender="materialtype spaceoccupied">2 sound discs (cd)</extent></physdesc><physdesc altrender="part"><extent altrender="materialtype spaceoccupied">1 sound tape reels</extent></physdesc><unitdate normal="1940/1957" type="inclusive">1940-1957</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_724fd718978fc42bc78d2ad57c99652c"><head>Scope and Contents</head><p>This series contains materials related to the Bradley hearing from 1951 including several bound transcripts of the hearing on charges against Professor Lyman R. Bradley, the original stenotype tape of the Bradley hearing, a report of the Faculty Committee, and statements made before the Meeting of the Council of New York University. Further, the series contains an audio recording of a meeting relative to Bradley in the 302 Main Building at New York University from October 11, 1948, Rules of Tenure of American Association of University Professors from 1940, and a report of the Investigating Committee from 1957.</p></scopecontent><c id="aspace_ref82" level="item"><did><unittitle>Hearing On Charges Against Professor Lyman R. Bradley By Dean Thomas C. Pollock of the Washington Square College</unittitle><unitdate normal="1951/1951" type="inclusive">1951 January 3-5</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_6c3f8b91240648680c0c9236e842af9b" label="Mixed Materials [31142062751311]" type="box">7</container><container id="aspace_089b4cf24c6d985639456033a131b252" parent="aspace_6c3f8b91240648680c0c9236e842af9b" type="folder">1</container></did></c><c id="aspace_ref83" level="item"><did><unittitle>Original Stenotype Tape of Bradely Hearing</unittitle><unitdate normal="1951/1951" type="inclusive">1951 January 3-5</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_963a208c9618a38c76581209d37c3ba0" label="Mixed Materials [31142062751311]" type="box">7</container><container id="aspace_f91dd1a2397b761b9222ef7182bc2e9c" parent="aspace_963a208c9618a38c76581209d37c3ba0" type="folder">2</container></did></c><c id="aspace_ref84" level="item"><did><unittitle>Record of Meeting in 302 Main Building Regarding Bradley - audio recording</unittitle><physdesc altrender="part"><extent altrender="materialtype spaceoccupied">2 sound discs (cd)</extent></physdesc><physdesc altrender="part"><extent altrender="materialtype spaceoccupied">1 sound tape reels</extent></physdesc><unitdate normal="1948/1948">1948 October 11</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_6ad87bf3209ca738a9d6e8e2040410c0" label="Mixed Materials [31142062751311]" type="box">7</container><container id="aspace_588ceaf6b90b0f15aeba9295ec6d18af" parent="aspace_6ad87bf3209ca738a9d6e8e2040410c0" type="folder">3</container><container altrender="Flat Box - 12 x 15.25" id="aspace_99150c418813d5b83d04b10c4bf039dc" label="Audio [31142062751360]" type="box">Shared University Archives 002</container><container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_d0845991974993f443e45f35e3d5ffde" label="access cd [31142062751378]" type="box">Shared University Archives 003</container></did></c><c id="aspace_ref85" level="item"><did><unittitle>Report of Faculty Committee</unittitle><unitdate normal="1951/1951" type="inclusive">1951 February 26</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_39cdc3d162723186a5546f7a78485e0d" label="Mixed Materials [31142062751311]" type="box">7</container><container id="aspace_636c1ba8d817d17211f1abd259099977" parent="aspace_39cdc3d162723186a5546f7a78485e0d" type="folder">4</container></did></c><c id="aspace_ref86" level="item"><did><unittitle>Report of Investigating Committee</unittitle><unitdate normal="1957/1957" type="inclusive">1957</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_3cf12d0a3ac4f87fde529ae3054c0ce6" label="Mixed Materials [31142062751311]" type="box">7</container><container id="aspace_c00e5c414fcb30d4b5ddfbc8ed99b494" parent="aspace_3cf12d0a3ac4f87fde529ae3054c0ce6" type="folder">5</container></did></c><c id="aspace_ref87" level="item"><did><unittitle>Rules of Tenure of the American Association of University Professors </unittitle><unitdate normal="1940/1940" type="inclusive">1940</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_3f33c6953b0da9fc323c5735c8eaec53" label="Mixed Materials [31142062751311]" type="box">7</container><container id="aspace_138407dc9f327c52385fb8ec9209fa0c" parent="aspace_3f33c6953b0da9fc323c5735c8eaec53" type="folder">6</container></did></c><c id="aspace_ref88" level="item"><did><unittitle>Statements Made Before Meeting of Council of New York University by Professors Arad Riggs and Fowler Harper, and Dean Thomas Pollock</unittitle><unitdate normal="1951/1951" type="inclusive">1951 March 26</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_b77ec971df5d6f8dd4056828c32fc526" label="Mixed Materials [31142062751311]" type="box">7</container><container id="aspace_51fce4e8846a7419f65ec3e437215884" parent="aspace_b77ec971df5d6f8dd4056828c32fc526" type="folder">7</container></did></c></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref22" level="series">
+        <did>
+          <unittitle>Series I: Office of the Dean of Washington Square College</unittitle>
+          <unitdate normal="1938/1961" type="inclusive">1938-1961</unitdate>
+        </did>
+        <scopecontent id="aspace_7a3605923ea96285b66092b72eb8f17f">
+          <head>Scope and Contents</head>
+          <p>Contains material relative to the Senate Committee report which drew up initial charges. Rules of tenure and a statement of policy are present as background distributed to each committee member. The verbatim transcripts (produced from stenotypist tape) reflect the varieties of opinion in collegial discussion, but also the operation of procedures required by the Faculty Handbook.</p>
+          <p>The Dean's Exhibits (Folders 2, 3) are his collection of clippings and articles from left-wing newspapers and organizations, as well as government documents significant to this case. The HUAC Hearing which initiated the contempt charge is present, as well as (of historic interest) the alien request to leave the country of suspected communist spy, Gerhardt Eisler. The HUAC is represented further in the series in Box 1, Folder 10 and Box 2, Folder 14.</p>
+          <p>Subsequent are the Dean's topical files, which show his interaction with the Chancellor and the informatory position he took with both the Chancellor and Vice Chancellor. At the inception of this case, it fell to the Dean to explain the University position to many who protested suspension and confused it with dismissal. Some prominent academics, such as Harlow Shapley, were correspondents (Box 2, Folder 11). It is to be noted that the American Civil Liberties Union found no fault with the University's action, but chastised a Massachusetts affiliate for interfering with a local (New York) matter (Box 1, Folder 9).</p>
+          <p>Student activity and interaction with the Dean may be found in Box 2, Folders 1 and 2; student and political handbills in Box 2, Folders 6 and 15.</p>
+        </scopecontent>
+        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Senate Committee Transcript</unittitle>
+            <unitdate>1951 Jan. 3- 1951 Jan. 4</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e3619c2c775a81018402a9694cdd7651" label="Mixed Materials [31142062751345]" type="box">1</container>
+            <container id="aspace_e039d79127b2d8ba8bfa0a42ed3cb5d6" parent="aspace_e3619c2c775a81018402a9694cdd7651" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Senate Committee Report/Dean's Exhibits</unittitle>
+            <unitdate>1951 Jan. 3- 1951 Jan. 4</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_efc9e6d360b21d2189165bdbef380f2a" label="Mixed Materials [31142062751345]" type="box">1</container>
+            <container id="aspace_0560f36616730d7ae279e1ace2557c88" parent="aspace_efc9e6d360b21d2189165bdbef380f2a" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Senate Committee Report/Dean's Exhibits</unittitle>
+            <unitdate>1951 Jan. 5</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ea5bde07c8372cf336d6fb1d5fda2457" label="Mixed Materials [31142062751345]" type="box">1</container>
+            <container id="aspace_ac6ffa72d556a64ca1bb0ea13d17bc80" parent="aspace_ea5bde07c8372cf336d6fb1d5fda2457" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Senate Committee Report/Bradley's Exhibits</unittitle>
+            <unitdate>1951 Jan. 5</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_de590ab9a4ea406f95a8eea1629679a4" label="Mixed Materials [31142062751345]" type="box">1</container>
+            <container id="aspace_b86436b6d5d0572275bccb9480410a1b" parent="aspace_de590ab9a4ea406f95a8eea1629679a4" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Senate Committee Report, Typed, without signatures, addenda</unittitle>
+            <unitdate>1951 Feb. 26</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b048db22f5f0e5227353b42f72d8376d" label="Mixed Materials [31142062751345]" type="box">1</container>
+            <container id="aspace_2c3c98bb194f558b7eb02aa46796295a" parent="aspace_b048db22f5f0e5227353b42f72d8376d" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Senate Committee Report, Printed, signed, with addenda</unittitle>
+            <unitdate>1951 Feb. 26</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dbb759c3465edaab3e5462254f5870fc" label="Mixed Materials [31142062751345]" type="box">1</container>
+            <container id="aspace_d64404e33f2102a9d682b3340e7a1038" parent="aspace_dbb759c3465edaab3e5462254f5870fc" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Council Meeting Statement Report</unittitle>
+            <unitdate>1951 Mar. 26</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_55be7ab0b9a0242f333f034cf75b50dc" label="Mixed Materials [31142062751345]" type="box">1</container>
+            <container id="aspace_3aae8b4f8086087f4149d9dab01acc76" parent="aspace_55be7ab0b9a0242f333f034cf75b50dc" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>American Association of University Professors</unittitle>
+            <unitdate normal="1954/1957" type="inclusive">1954, 1956-1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_03842d236b5b620e2068a24769680539" label="Mixed Materials [31142062751345]" type="box">1</container>
+            <container id="aspace_e3c6831c44f0dfdf87cb1a7db6064a28" parent="aspace_03842d236b5b620e2068a24769680539" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>American Civil Liberties Union</unittitle>
+            <unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b6ffb192838a3a7ebc7586302c595a1f" label="Mixed Materials [31142062751345]" type="box">1</container>
+            <container id="aspace_dc9cb60ecdbec1f6af2671cfe7f4be46" parent="aspace_b6ffb192838a3a7ebc7586302c595a1f" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Lyman R. Bradley</unittitle>
+            <unitdate normal="1938/1961" type="inclusive">1938-1961</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7e58c5d5e1a65e23dc640e8bf2af4327" label="Mixed Materials [31142062751345]" type="box">1</container>
+            <container id="aspace_837b1ce9dc32829683f75fa24256de28" parent="aspace_7e58c5d5e1a65e23dc640e8bf2af4327" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Harry Woodburn Chase</unittitle>
+            <unitdate normal="1947/1950" type="inclusive">1947-1950</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a6a12d40ee9b908dfa2ce14e12fe521f" label="Mixed Materials [31142062751337]" type="box">2</container>
+            <container id="aspace_5fcd40ab6f15d8bf52f5aaa17517750e" parent="aspace_a6a12d40ee9b908dfa2ce14e12fe521f" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Howard Fast</unittitle>
+            <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_17e399dbee6328d4a2cccf9ee9a3200b" label="Mixed Materials [31142062751337]" type="box">2</container>
+            <container id="aspace_dc47df7e58fda788a7c34812e24fe38d" parent="aspace_17e399dbee6328d4a2cccf9ee9a3200b" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>1st and 5th Amendments</unittitle>
+            <unitdate>undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d109da47bdd88821c1d83220aee3c9d9" label="Mixed Materials [31142062751337]" type="box">2</container>
+            <container id="aspace_9a708231f8adb274dad05ef952357bca" parent="aspace_d109da47bdd88821c1d83220aee3c9d9" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Royal W. France</unittitle>
+            <unitdate normal="1952/1960" type="inclusive">1952-1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_633cd37c3dc25226c2ec90cf9e3a47dd" label="Mixed Materials [31142062751337]" type="box">2</container>
+            <container id="aspace_24973faba4d31836b3bc55c5e71a4938" parent="aspace_633cd37c3dc25226c2ec90cf9e3a47dd" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>John W. Gerdes</unittitle>
+            <unitdate normal="1948/1952" type="inclusive">1948-1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5960b1c22c37a794e7258d2241f25200" label="Mixed Materials [31142062751337]" type="box">2</container>
+            <container id="aspace_cecb66f582a543adf284a7bf378321bf" parent="aspace_5960b1c22c37a794e7258d2241f25200" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Handbills</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_81cd394079f63f3679a3318e19b59dca" label="Mixed Materials [31142062751337]" type="box">2</container>
+            <container id="aspace_5d991b9e04711a57bbefb62153811b93" parent="aspace_81cd394079f63f3679a3318e19b59dca" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fowler W. Harper</unittitle>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_af0496a3e264dac2bdcb2a0051c0e240" label="Mixed Materials [31142062751337]" type="box">2</container>
+            <container id="aspace_0ad436ed21da59a4f339116dc846efc8" parent="aspace_af0496a3e264dac2bdcb2a0051c0e240" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Clyde R. Miller</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b2f0667c5f730095639b8fb54c0a86d8" label="Mixed Materials [31142062751337]" type="box">2</container>
+            <container id="aspace_28b51ef8216e4e0b1b9bba6940fe0660" parent="aspace_b2f0667c5f730095639b8fb54c0a86d8" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Modern Language Association</unittitle>
+            <unitdate normal="1947/1951" type="inclusive">1947-1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_93d338791860f1ee605eed7d09851d6e" label="Mixed Materials [31142062751337]" type="box">2</container>
+            <container id="aspace_e0b41450ab263fd93ea6a84961258715" parent="aspace_93d338791860f1ee605eed7d09851d6e" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Arad Riggs</unittitle>
+            <unitdate normal="1950/1954" type="inclusive">1950-1954</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4ffea41812e7921d0279e59d31df524b" label="Mixed Materials [31142062751337]" type="box">2</container>
+            <container id="aspace_9d34ef9d337d1b4cd60149ec8cb201ca" parent="aspace_4ffea41812e7921d0279e59d31df524b" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Harlow Shapley</unittitle>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7a8bd0d6817be43cf2d4956774b640dd" label="Mixed Materials [31142062751337]" type="box">2</container>
+            <container id="aspace_d9b55774b298b25ed75eac1b6a5972bb" parent="aspace_7a8bd0d6817be43cf2d4956774b640dd" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Townley, Updike &amp; Carter</unittitle>
+            <unitdate normal="1953/1954" type="inclusive">1953-1954</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c4c9676b099fee433cc8331c3f42d828" label="Mixed Materials [31142062751337]" type="box">2</container>
+            <container id="aspace_f482d22a2f285ba1b436bbbcffa7a194" parent="aspace_c4c9676b099fee433cc8331c3f42d828" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Harold O. Voorhis</unittitle>
+            <unitdate normal="1947/1950" type="inclusive">1947-1950</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d0407d386941bf9271708938d2502e23" label="Mixed Materials [31142062751337]" type="box">2</container>
+            <container id="aspace_507134f1d1184e4a4367fefd8b8b59d3" parent="aspace_d0407d386941bf9271708938d2502e23" type="folder">13</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref48" level="series">
+        <did>
+          <unittitle>Series II: Office of the Chancellor</unittitle>
+          <unitdate normal="1934/1953" type="inclusive">1934-1953</unitdate>
+        </did>
+        <scopecontent id="aspace_4a47c4ec2699ef5479af6580ea88b681">
+          <head>Scope and Contents</head>
+          <p>The correspondence folder of the Chancellor (Box 2, Folder 14) illustrates his role as executive officer in transmittal of charges to the accused. In 1948 he took over from the Dean as official spokesperson to members of the general and political public who wrote to protest suspension. (Box 2, Folders 15, 16). Little mention is made in these files of the scores of form/mimeographed postcards received (Box 2, Folder 17 and Box 3, Folder 1).</p>
+          <p>The Chancellor had dealings with students (Box 2, Folder 14) and was interested in a case of student suspension at Columbia. Noted here, too, is the emigration to Poland of a popular NYU professor of English, Margaret Schlauch, who was known to be Marxist. Correspondence with other university presidents on academic freedom topics similar to this one suggests that this subject may be represented in the Chancellor's general correspondence files (Record Group 3.0.5). There is considerable discussion of tenure (Box 2, Folder 14) and communication with and from the Vice Chancellor (Box 3, Folder 2 - an intermingling of office files may have occurred). The question of moral turpitude that appears occasionally is a reference to the AAUP. Also illustrated are the persuasive powers of Voorhis in countering Dean Pollock's suggestion that a year's salary must be paid in the absence of a judgement of moral turpitude.</p>
+          <p>Chancellor Chase retired in 1951. While some correspondence and memos from Acting Chancellor Madden (1951-53) are present following confirmed suspension, the Bradley matter became primarily an item for Council discussion.</p>
+        </scopecontent>
+        <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Lyman R. Bradley</unittitle>
+            <unitdate normal="1947/1953" type="inclusive">1947-1953</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_deaef09a3c9144236136cb38a1d63a5f" label="Mixed Materials [31142062751337]" type="box">2</container>
+            <container id="aspace_f427e60f478d145e246ad0d8c1424ed6" parent="aspace_deaef09a3c9144236136cb38a1d63a5f" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publicity (General Protests)</unittitle>
+            <unitdate normal="1947/1949" type="inclusive">1947-1949</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a37eb4b7f68acbb4c3a77b2d4e947581" label="Mixed Materials [31142062751337]" type="box">2</container>
+            <container id="aspace_31063d326c35932e12219a6c02c05f07" parent="aspace_a37eb4b7f68acbb4c3a77b2d4e947581" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>General Protests</unittitle>
+            <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f6c0cba8202ee46e2314769d9ffb8d22" label="Mixed Materials [31142062751337]" type="box">2</container>
+            <container id="aspace_9ff92c3b70ea8c8d75689fef48d5742d" parent="aspace_f6c0cba8202ee46e2314769d9ffb8d22" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Postcards to Chancellor urging reinstatement</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e5aa0d4f19a8d3e28137f11387eb8831" label="Mixed Materials [31142062751337]" type="box">2</container>
+            <container id="aspace_26d46a70d3a814de6ec852897e61aace" parent="aspace_e5aa0d4f19a8d3e28137f11387eb8831" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Postcards to Chancellor urging reinstatement</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0e21d2184d6c688fc180c8e950b20be6" label="Mixed Materials [31142062751329]" type="box">3</container>
+            <container id="aspace_67a343871647c60394d0b0a8e3f5fcce" parent="aspace_0e21d2184d6c688fc180c8e950b20be6" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Background Material not sent to Outside Counsel Reagan or Gerdes</unittitle>
+            <unitdate normal="1934/1951" type="inclusive">1934-1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e435a8613ac8e7f32177acd56aff949a" label="Mixed Materials [31142062751329]" type="box">3</container>
+            <container id="aspace_ebb5edc0dd891aa3f2cd24a4c1bee732" parent="aspace_e435a8613ac8e7f32177acd56aff949a" type="folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref57" level="series">
+        <did>
+          <unittitle>Series III: Office of the Vice Chancellor</unittitle>
+          <unitdate normal="1924/1961" type="inclusive">1924-1961</unitdate>
+        </did>
+        <scopecontent id="aspace_2b6dc2c8f232286758b51e975cfc1343">
+          <head>Scope and Contents</head>
+          <p>This series commences with background files for counsel that, as above, intermingle with material from the Office of the Chancellor and include some letters from the Dean. (There is limited correspondence to or from Chancellors Heald and Newsom.) Series III concerns the later negotiations about quittance pay and continues discussion of moral turpitude (Box 3, Folder 3), tenure (Box 3, Folders 4, 5), and the AAUP (Box 3, Folder 5). While the Vice Chancellor's role in this case is lightly documented, his opinions seem to have been valued.</p>
+          <p>Relative to tenure, Professor Horace Cooley's reminiscences (Archives H) reveal that new tenure rules were enacted the day before the Bradley suspension was finalized, thereby disallowing his participation in their broader privileges. Cooley was the sole dissenting opinion in the Senate Committee and was the AAUP representative and author of the report on NYU which contributed to its censure. Academic freedom at NYU is highlighted in the reply of Dean Pollock to a suggestion by counsel that students report on Bradley's advocacy of Communism in the classroom. Checking on faculty in such a fashion was not a policy of New York University, and Pollock affirmed that it was action, not ideology, that was involved in Bradley's trial.</p>
+          <p>Council files and exhibits (Box 3, Folders 6, 7) contain the original documents transmitting charges from the Dean and Chancellor to Bradley. Their presence here explains their mention (but absence) from the files of their origin in Series I and II. Of interest is the note of the change of wording of one Council resolution to avoid the mention of moral turpitude. No explanation is given for the dissent of Mr. Hudson in protest of the implication, or for the action of Judge Vanderbilt, who disqualified himself from Council deliberations. Reference to full Council Meeting minutes reveal that while serious attention was always paid to the Bradley matter, it was one of many items considered of importance to University governance, and only in its initial and final stages was it granted more than a routine attention in deliberation.</p>
+        </scopecontent>
+        <c id="aspace_ref58" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Background Material not sent to Outside Counsel Reagan or Gerdes</unittitle>
+            <unitdate normal="1951/1954" type="inclusive">1951-1954</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_91640547912c3c38b6002d9de6442066" label="Mixed Materials [31142062751329]" type="box">3</container>
+            <container id="aspace_39a2b6a5e8b7178923a10a471647fbc0" parent="aspace_91640547912c3c38b6002d9de6442066" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Background Material not sent to Outside Counsel Reagan or Gerdes</unittitle>
+            <unitdate normal="1924/1954" type="inclusive">1924-1954</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_68fed9b32b3dbc36a0d7a69b5124d466" label="Mixed Materials [31142062751329]" type="box">3</container>
+            <container id="aspace_0f68dee57d29206a6da1e6406a3d3daa" parent="aspace_68fed9b32b3dbc36a0d7a69b5124d466" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>File of Vice Chancellor</unittitle>
+            <unitdate normal="1947/1961" type="inclusive">1947-1961</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4d825cb27d3dd0ecaef0cd79380ce0af" label="Mixed Materials [31142062751329]" type="box">3</container>
+            <container id="aspace_f5226e79de3df4eaab7bfe7bd468b1a6" parent="aspace_4d825cb27d3dd0ecaef0cd79380ce0af" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Supporting Papers on the Bradley Case from Council Files</unittitle>
+            <unitdate normal="1925/1952" type="inclusive">1925-1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4ad35711cceb41fef07b70edbfe176a0" label="Mixed Materials [31142062751329]" type="box">3</container>
+            <container id="aspace_1646b147ad59e17a686570185aee40cd" parent="aspace_4ad35711cceb41fef07b70edbfe176a0" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Copies of Supporting Papers from Council Files</unittitle>
+            <unitdate normal="1947/1953" type="inclusive">1947-1953</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c78677fa443297d590a5c9ddbd3f54bc" label="Mixed Materials [31142062751329]" type="box">3</container>
+            <container id="aspace_b253336d1ff299a939b4104d28ad7486" parent="aspace_c78677fa443297d590a5c9ddbd3f54bc" type="folder">7</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref70" level="series">
+        <did>
+          <unittitle>Series IV: Related Materials</unittitle>
+          <unitdate normal="1937/2009" type="inclusive">1937-2009</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_93f899771c16a9fac9c482d97e3cdf8a">
+          <head>Scope and Contents</head>
+          <p>This series contains FBI files, articles, and periodicals related to Bradley's case.</p>
+        </scopecontent>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>FBI files obtained by Prof. Phillip Deery under Freedom of Information Act </unittitle>
+            <unitdate normal="1945/2009" type="inclusive">1945-2009</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_1fe0fefc24870719d8320f0cf0284712" label="Mixed Materials [31142062751287]" type="box">4</container>
+            <container id="aspace_2a899aca44fd17138840bad337677c82" parent="aspace_1fe0fefc24870719d8320f0cf0284712" type="box-folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>"Academic Freedom and the Cold War: The dismissal of Lyman Bradley from New York Univerisity" by Phillip Deery March 2009.</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_b4ececd8d9820c02277a747c1f24b682" label="Mixed Materials [31142062751287]" type="box">4</container>
+            <container id="aspace_a85762f82c5cbc9edd183a20a67305d8" parent="aspace_b4ececd8d9820c02277a747c1f24b682" type="box-folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Related Periodicals</unittitle>
+            <unitdate normal="1937/1953" type="inclusive">1937-1953</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_6510b89c34f4c92c12a14fba7dfc0a96" label="Mixed Materials [31142062751303]" type="box">5</container>
+            <container altrender="Manuscript box - Legal" id="aspace_d9ad5b095b2262fb997a05836e8d4799" label="Mixed Materials [31142062751295]" type="box">6</container>
+            <container altrender="Record carton" id="aspace_950b316d8c4ab302129375bd7aab3f13" label="Mixed Materials [31142062751311]" type="box">7</container>
+            <container id="aspace_43656684aa99ca687907a5c80fd23fd3" parent="aspace_950b316d8c4ab302129375bd7aab3f13" type="folder">8-9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref78" level="series">
+        <did>
+          <unittitle>Series V. Oversized materials</unittitle>
+          <unitdate normal="1938/1949" type="inclusive">1938-1949</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_34bdea474f2c15dde37a224df8e98004">
+          <head>Scope and Contents</head>
+          <p>This series contains a small amount of thermofaxed and microfilm printouts.</p>
+        </scopecontent>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Thermofaxed and microfilm printouts mainly of protests against McCarthyism.</unittitle>
+            <unitdate normal="1938/1949" type="inclusive">1938-1949</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Oversize Folder - Half Case" id="aspace_7b56a1961dbe3a4a44f66220bcba786e" label="Mixed Materials [31142062751386]" type="Flat-File-Folder">1 Left</container>
+            <container altrender="Oversize Folder - Half Case" id="aspace_04d357b2dc08cdfd12e73395364f39a3" label="Mixed Materials [31142062751394]" type="Flat-File-Folder">2 Left</container>
+            <container altrender="Hollinger Flat OS 13.5" id="aspace_b573380c22663705fa4ab3929ae2e750" label="Mixed Materials" type="box">Shared University Archives 001</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref81" level="series">
+        <did>
+          <unittitle>Series VI: Separated Material</unittitle>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">2 sound discs (cd)</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">1 sound tape reels</extent>
+          </physdesc>
+          <unitdate normal="1940/1957" type="inclusive">1940-1957</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_724fd718978fc42bc78d2ad57c99652c">
+          <head>Scope and Contents</head>
+          <p>This series contains materials related to the Bradley hearing from 1951 including several bound transcripts of the hearing on charges against Professor Lyman R. Bradley, the original stenotype tape of the Bradley hearing, a report of the Faculty Committee, and statements made before the Meeting of the Council of New York University. Further, the series contains an audio recording of a meeting relative to Bradley in the 302 Main Building at New York University from October 11, 1948, Rules of Tenure of American Association of University Professors from 1940, and a report of the Investigating Committee from 1957.</p>
+        </scopecontent>
+        <c id="aspace_ref82" level="item">
+          <did>
+            <unittitle>Hearing On Charges Against Professor Lyman R. Bradley By Dean Thomas C. Pollock of the Washington Square College</unittitle>
+            <unitdate normal="1951/1951" type="inclusive">1951 January 3-5</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_6c3f8b91240648680c0c9236e842af9b" label="Mixed Materials [31142062751311]" type="box">7</container>
+            <container id="aspace_089b4cf24c6d985639456033a131b252" parent="aspace_6c3f8b91240648680c0c9236e842af9b" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="item">
+          <did>
+            <unittitle>Original Stenotype Tape of Bradely Hearing</unittitle>
+            <unitdate normal="1951/1951" type="inclusive">1951 January 3-5</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_963a208c9618a38c76581209d37c3ba0" label="Mixed Materials [31142062751311]" type="box">7</container>
+            <container id="aspace_f91dd1a2397b761b9222ef7182bc2e9c" parent="aspace_963a208c9618a38c76581209d37c3ba0" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="item">
+          <did>
+            <unittitle>Record of Meeting in 302 Main Building Regarding Bradley - audio recording</unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">2 sound discs (cd)</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">1 sound tape reels</extent>
+            </physdesc>
+            <unitdate normal="1948/1948">1948 October 11</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_6ad87bf3209ca738a9d6e8e2040410c0" label="Mixed Materials [31142062751311]" type="box">7</container>
+            <container id="aspace_588ceaf6b90b0f15aeba9295ec6d18af" parent="aspace_6ad87bf3209ca738a9d6e8e2040410c0" type="folder">3</container>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_99150c418813d5b83d04b10c4bf039dc" label="Audio [31142062751360]" type="box">Shared University Archives 002</container>
+            <container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_d0845991974993f443e45f35e3d5ffde" label="access cd [31142062751378]" type="box">Shared University Archives 003</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="item">
+          <did>
+            <unittitle>Report of Faculty Committee</unittitle>
+            <unitdate normal="1951/1951" type="inclusive">1951 February 26</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_39cdc3d162723186a5546f7a78485e0d" label="Mixed Materials [31142062751311]" type="box">7</container>
+            <container id="aspace_636c1ba8d817d17211f1abd259099977" parent="aspace_39cdc3d162723186a5546f7a78485e0d" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="item">
+          <did>
+            <unittitle>Report of Investigating Committee</unittitle>
+            <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_3cf12d0a3ac4f87fde529ae3054c0ce6" label="Mixed Materials [31142062751311]" type="box">7</container>
+            <container id="aspace_c00e5c414fcb30d4b5ddfbc8ed99b494" parent="aspace_3cf12d0a3ac4f87fde529ae3054c0ce6" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="item">
+          <did>
+            <unittitle>Rules of Tenure of the American Association of University Professors </unittitle>
+            <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_3f33c6953b0da9fc323c5735c8eaec53" label="Mixed Materials [31142062751311]" type="box">7</container>
+            <container id="aspace_138407dc9f327c52385fb8ec9209fa0c" parent="aspace_3f33c6953b0da9fc323c5735c8eaec53" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="item">
+          <did>
+            <unittitle>Statements Made Before Meeting of Council of New York University by Professors Arad Riggs and Fowler Harper, and Dean Thomas Pollock</unittitle>
+            <unitdate normal="1951/1951" type="inclusive">1951 March 26</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_b77ec971df5d6f8dd4056828c32fc526" label="Mixed Materials [31142062751311]" type="box">7</container>
+            <container id="aspace_51fce4e8846a7419f65ec3e437215884" parent="aspace_b77ec971df5d6f8dd4056828c32fc526" type="folder">7</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

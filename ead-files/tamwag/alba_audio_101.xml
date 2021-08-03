@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>alba_audio_101</eadid>
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_audio_101">alba_audio_101</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>Guide to the Jonathan Solovy: Interviews for "Jewish American Volunteers and the Spanish Civil War" Audio Collection <num>ALBA.AUDIO.101</num></titleproper>
-        <author>Jenny Pondo, 2010</author>
+        <titleproper>Guide to the Jonathan Solovy Oral Histories on Jewish American Volunteers in the Spanish Civil War <num>ALBA.AUDIO.101</num></titleproper>
+        <author>Jenny Pondo</author>
       </titlestmt>
       <publicationstmt>
         <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2010</date>
+        </p>
         <address>
           <addressline>Elmer Holmes Bobst Library</addressline>
           <addressline>70 Washington Square South</addressline>
@@ -20,26 +23,37 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:36:24 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-08-03 11:48:33 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>April 2021</date>
+        <item>Edited by Megan O’Shea for compliance with DACS and ACM Required Elements for Archival Description, and to reflect new housing for collection</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
       <repository>
         <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
       </repository>
-      <unittitle>Jonathan Solovy: Interviews for "Jewish American Volunteers and the Spanish Civil War"</unittitle>
+      <unittitle>Jonathan Solovy Oral Histories on Jewish American Volunteers in the Spanish Civil War</unittitle>
       <origination label="Creator">
         <persname role="ivr" source="local">Solovy, Jonathan Stuart</persname>
       </origination>
       <unitid>ALBA.AUDIO.101</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-        <extent altrender="carrier">53 audiocassettes</extent>
+        <extent altrender="materialtype spaceoccupied">1.6 Linear Feet</extent>
+        <extent altrender="carrier">in 1 flat box, 1 card box, and 1 box</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">53 audiocassettes</extent>
       </physdesc>
       <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
+      <abstract id="aspace_186aaa0ef8317292284c1b30e3ef98d3">Jonathan Solovy graduated from the University of Michigan in 1981.  For his thesis on Jewish American volunteers in the Spanish Civil War, he conducted oral history interviews with Spanish Civil War veterans.  The Jonathan Solovy Oral Histories on Jewish American Volunteers in the Spanish Civil War consist of oral history interviews conducted by Solovy with Jewish American volunteers from the Spanish Civil War.  The interviews were conducted as research for Solovy's thesis "Jewish American Volunteers and the Spanish Civil War: a Study of Tripartite Identity".</abstract>
+      <langmaterial id="aspace_8710da16ca9df371148363e26372bb02">Materials are in English.</langmaterial>
     </did>
     <relatedmaterial id="aspace_4338bfc2faa2ab276628f292442efc85">
       <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
@@ -49,487 +63,503 @@
     </relatedmaterial>
     <scopecontent id="aspace_e8fac5f272bcb385d7cc1965c88e2162">
       <head>Scope and Content</head>
-      <p>The collection consists of 53 audio cassettes which are interviews with Jewish American volunteers from the Spanish Civil War. The interviews were conducted as research for Solovy's thesis "Jewish American Volunteers and the Spanish Civil War: a Study of Tripartite Identity". They were conducted between 1980 and 1981.</p>
+      <p>The Jonathan Solovy Oral Histories on Jewish American Volunteers in the Spanish Civil War consist of oral history interviews conducted by Solovy with Jewish American volunteers from the Spanish Civil War.  The interviews were conducted as research for Solovy's thesis "Jewish American Volunteers and the Spanish Civil War: a Study of Tripartite Identity".  The collection consists of 53 audiocassettes and dates between 1980 and 1981.</p>
     </scopecontent>
     <userestrict id="aspace_c7f35eccc4014db305a8ab8ec5b47cb5">
-      <head>Use Restrictions</head>
+      <head>Conditions Governing Use</head>
       <p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA) were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>
     </userestrict>
     <accessrestrict id="aspace_198d26e198561ef91a9fe52fcce67286">
-      <head>Access Restrictions</head>
-      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>
+      <head>Conditions Governing Access</head>
+      <p>Materials are open to researchers.</p>
     </accessrestrict>
     <bioghist id="aspace_24ef9a0210215be9d698b7385f06a3e4">
-      <head>Historical/Biographical Note</head>
-      <p>Jonathan Solovy created these tapes in the course of research for his thesis "Jewish American Volunteers and the Spanish Civil War". Through contacts with vets such as Saul Wellman and Pete Smith, other veterans were contacted and interviewed. The interviews were conducted between 1980 and 1981.</p>
+      <head>Biographical Note</head>
+      <p>Jonathan Solovy graduated from the University of Michigan in 1981.  For his thesis on Jewish American volunteers in the Spanish Civil War, he conducted oral history interviews with Spanish Civil War veterans.  His thesis is titled "Jewish American Volunteers and the Spanish Civil War: a Study of Tripartite Identity".</p>
     </bioghist>
     <phystech id="aspace_ea968f24f3fafc4926d6e3f1a64993b9">
-      <head>Physical Characteristics and Technical Requirements</head>
-      <p>Access copies of sound recordings may be available by appointment for reading room listening only. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information, to request digitization of materials, and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Access CDs for some audiovisual materials in the collection are available by appointment for reading room viewing and listening only.  </p>
+      <p>Some audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact Tamiment Library &amp; Robert F. Wagner Labor Archives, special.collections@nyu.edu, 212-998-2596 with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
     </phystech>
+    <arrangement id="aspace_68ccde158c9b5b5eddb39d14062d6e0a">
+      <head>Arrangement</head>
+      <p>The collection is arranged in alphabetical order by last name of the narrator.</p>
+    </arrangement>
+    <acqinfo id="aspace_8a5c8a45956666bae3c90834e1304b7b">
+      <head>Immediate Source of Acquisition</head>
+      <p>This collection came to New York University in January 2001 as part of the original acquisition of Abraham Lincoln Brigade Archives (ALBA) collections, formerly housed at Brandeis University.  The accession number associated with this collection is 2001.090.</p>
+    </acqinfo>
+    <prefercite id="aspace_b34f5639c19a31186f0595331e723bf3">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Jonathan Solovy Oral Histories on Jewish American Volunteers in the Spanish Civil War; ALBA AUDIO 101; box number; folder number or item identifier; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_717254a3298db0d66d52b25ddb02bacd">
+      <head>Processing Information</head>
+      <p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2021 are unknown.  In April 2021, cassettes were moved from audio cabinet drawers into cassette boxes.  New container numbers were created and cassettes were assigned to the appropriate top containers.</p>
+    </processinfo>
     <controlaccess>
-      <subject source="lcsh">Americans |z Spain |x History |y 20th century.</subject>
+      <subject source="lcsh">Americans -- Spain -- History -- 20th century.</subject>
       <genreform source="aat">Audiocassettes.</genreform>
-      <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Participation, Jewish.</geogname>
-      <persname source="local">Solovy, Jonathan Stuart</persname>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, Jewish.</geogname>
     </controlaccess>
     <dsc>
-      <c id="aspace_ref2" level="item">
+      <c id="aspace_ref2" level="file">
         <did>
           <unittitle>Bessie, Alvah (tape 1 of 4)</unittitle>
-          <unitdate>Oct 16, 1980</unitdate>
-          <container id="aspace_e31646c28aeaaf62b46f9718f25cfb92" label="Audio" type="drawer">3</container>
-          <container id="aspace_c39d9f16626422d5575f816e18a2c91a" parent="aspace_e31646c28aeaaf62b46f9718f25cfb92" type="cassette">101-002</container>
+          <unitdate normal="1980/1980">October 16, 1980</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_6e539c40e3fef5cf25ec36f285901245" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_5a47fe0b673956631eb330b3d101bc8a" parent="aspace_6e539c40e3fef5cf25ec36f285901245" type="cassette">101-001</container>
         </did>
       </c>
-      <c id="aspace_ref3" level="item">
+      <c id="aspace_ref3" level="file">
         <did>
           <unittitle>Bessie, Alvah (tape 2 of 4)</unittitle>
-          <unitdate>Oct  16, 1980</unitdate>
-          <container id="aspace_2323423b170fb8e85eb32df9e4fa92b0" label="Audio" type="drawer">3</container>
-          <container id="aspace_1468297720e9c77e20e16cd60ca73f16" parent="aspace_2323423b170fb8e85eb32df9e4fa92b0" type="cassette">101-002</container>
+          <unitdate normal="1980/1980">October 16, 1980</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_63ae55a109e67253427a520643c7e5d0" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_f46047f23d84940227dbbb81582715a0" parent="aspace_63ae55a109e67253427a520643c7e5d0" type="cassette">101-002</container>
         </did>
       </c>
-      <c id="aspace_ref4" level="item">
+      <c id="aspace_ref4" level="file">
         <did>
           <unittitle>Bessie, Alvah (tape 3 of 4)</unittitle>
-          <unitdate>Oct 16, 1980</unitdate>
-          <container id="aspace_4dbc93fc795615fce52a77d924c40215" label="Audio" type="drawer">3</container>
-          <container id="aspace_0da955fbf6cb1561319cb58c71faaabd" parent="aspace_4dbc93fc795615fce52a77d924c40215" type="cassette">101-003</container>
+          <unitdate normal="1980/1980">October 16, 1980</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_8e0707fc2ada8c06718f38f1ac364bb0" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_9530559f4e5ec64aa29c1064f6cc4ec0" parent="aspace_8e0707fc2ada8c06718f38f1ac364bb0" type="cassette">101-003</container>
         </did>
       </c>
-      <c id="aspace_ref5" level="item">
+      <c id="aspace_ref5" level="file">
         <did>
           <unittitle>Bessie, Alvah (tape 4 of 4)</unittitle>
-          <unitdate>Oct 16, 1980</unitdate>
-          <container id="aspace_176181e21c59bce12970797f762fdf8c" label="Audio" type="drawer">3</container>
-          <container id="aspace_77286c90b06060c54936058bd9ec5f0c" parent="aspace_176181e21c59bce12970797f762fdf8c" type="cassette">101-004</container>
+          <unitdate normal="1980/1980">October 16, 1980</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_eff10d53e8dbda846d2a7bbc5e0e802c" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_7dc494f6e0066e376f74ed694613e775" parent="aspace_eff10d53e8dbda846d2a7bbc5e0e802c" type="cassette">101-004</container>
         </did>
       </c>
-      <c id="aspace_ref6" level="item">
+      <c id="aspace_ref6" level="file">
         <did>
           <unittitle>Cohen, Milton</unittitle>
-          <unitdate>Aug 1, 1980</unitdate>
-          <container id="aspace_c6bc65d524591cb47f231d50276d193d" label="Audio" type="drawer">3</container>
-          <container id="aspace_efb4f6d66a92a86cd5b2c7896b00014f" parent="aspace_c6bc65d524591cb47f231d50276d193d" type="cassette">101-005</container>
+          <unitdate normal="1980/1980">August 1, 1980</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_521f3525f932b2a94c1151fddd759332" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_508904c223d97121110833a69a6d691e" parent="aspace_521f3525f932b2a94c1151fddd759332" type="cassette">101-005</container>
         </did>
       </c>
-      <c id="aspace_ref7" level="item">
+      <c id="aspace_ref7" level="file">
         <did>
           <unittitle>Fishman, Moe (tape 1 of 3)</unittitle>
-          <unitdate>Dec 28 - 29, 1980</unitdate>
-          <container id="aspace_e079e91b2ccf22a1d5d597f1505184ea" label="Audio" type="drawer">3</container>
-          <container id="aspace_76378b8fa9ac47d9ee5ef60215663a24" parent="aspace_e079e91b2ccf22a1d5d597f1505184ea" type="cassette">101-006</container>
+          <unitdate normal="1980/1980">December 28 - 29, 1980</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_de98edf8ee562214154611cb9aa39c04" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_523421f7559f02efc5b98cd19e1823e4" parent="aspace_de98edf8ee562214154611cb9aa39c04" type="cassette">101-006</container>
         </did>
       </c>
-      <c id="aspace_ref8" level="item">
+      <c id="aspace_ref8" level="file">
         <did>
           <unittitle>Fishman, Moe (tape 2 of 3)</unittitle>
-          <unitdate>Dec 28 - 29, 1980</unitdate>
-          <container id="aspace_7d2720bb72b0a2520fc7c20a06831aeb" label="Audio" type="drawer">3</container>
-          <container id="aspace_daea809f0c73a74d97284bf3d4024077" parent="aspace_7d2720bb72b0a2520fc7c20a06831aeb" type="cassette">101-007</container>
+          <unitdate normal="1980/1980">December 28 - 29, 1980</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_d4779787e671e18e7557e204759d701d" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_960e410939787295e5fb5d26a3415a29" parent="aspace_d4779787e671e18e7557e204759d701d" type="cassette">101-007</container>
         </did>
       </c>
-      <c id="aspace_ref9" level="item">
+      <c id="aspace_ref9" level="file">
         <did>
           <unittitle>Fishman, Moe (tape 3 of 3)</unittitle>
-          <unitdate>Dec 28 - 29, 1980</unitdate>
-          <container id="aspace_e33fd782cece247a70fd83386f961712" label="Audio" type="drawer">3</container>
-          <container id="aspace_becc05eef72af081b057a7a91b600b49" parent="aspace_e33fd782cece247a70fd83386f961712" type="cassette">101-008</container>
+          <unitdate normal="1980/1980">December 28 - 29, 1980</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_3e575f5369b21e57bdca98063ad85f4b" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_797534b0bd710a16a8f286c1ed0c9fb9" parent="aspace_3e575f5369b21e57bdca98063ad85f4b" type="cassette">101-008</container>
         </did>
       </c>
-      <c id="aspace_ref10" level="item">
+      <c id="aspace_ref10" level="file">
         <did>
           <unittitle>Gladnick, Robert (tape 1 of 4)</unittitle>
-          <unitdate>Nov 3, 1980</unitdate>
-          <container id="aspace_ea26ab272f2ab299064a4a3d89820ed6" label="Audio" type="drawer">3</container>
-          <container id="aspace_2f8972c641a58cad99ace891b3c88823" parent="aspace_ea26ab272f2ab299064a4a3d89820ed6" type="cassette">101-009</container>
-          <container altrender="Card Box - 6.5 - long" id="aspace_078b5d82bb5930d822fe765b2d9463c8" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
+          <unitdate normal="1980/1980">November 3, 1980</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_657f0c5842f223156e7263215ad61039" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_8d5e54c4e818516131e54e07aaa7903e" parent="aspace_657f0c5842f223156e7263215ad61039" type="cassette">101-009</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_c5c8c17f99e1b2c591ef5284b595537c" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
         </did>
       </c>
-      <c id="aspace_ref11" level="item">
+      <c id="aspace_ref11" level="file">
         <did>
           <unittitle>Gladnick, Robert (tape 2 of 4)</unittitle>
-          <unitdate>Nov 3, 1980</unitdate>
-          <container id="aspace_2543d2c09f32f2c7b62a04b4be7bc2d3" label="Audio" type="drawer">3</container>
-          <container id="aspace_c37e908c34636198f7a4a404de9e5c4f" parent="aspace_2543d2c09f32f2c7b62a04b4be7bc2d3" type="cassette">101-010</container>
-          <container altrender="Card Box - 6.5 - long" id="aspace_ba6da3023f4886e271eb8d12b8dd596a" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
+          <unitdate normal="1980/1980">November 3, 1980</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_ea95ae9d52cc9e356cf87b332be9758e" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_f2c4370d170cedb96f3c74ec6d8d9574" parent="aspace_ea95ae9d52cc9e356cf87b332be9758e" type="cassette">101-010</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_110b0668fbf454d0c78844d8bd52418c" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
         </did>
       </c>
-      <c id="aspace_ref12" level="item">
+      <c id="aspace_ref12" level="file">
         <did>
           <unittitle>Gladnick, Robert (tape 3 of 4)</unittitle>
-          <unitdate>Nov 3, 1980</unitdate>
-          <container id="aspace_49b7851b5acc3abe10cc4a5ec0f0da83" label="Audio" type="drawer">3</container>
-          <container id="aspace_3d08cc979c5d23d3ab807937897e7671" parent="aspace_49b7851b5acc3abe10cc4a5ec0f0da83" type="cassette">101-011</container>
-          <container altrender="Card Box - 6.5 - long" id="aspace_f5f693d9cbc456931a18bffc504f46ec" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
+          <unitdate normal="1980/1980">November 3, 1980</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_83759ddff99b008ac787d0a6cc19a311" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_24c2d62c07d176ce04de872dd4955ca4" parent="aspace_83759ddff99b008ac787d0a6cc19a311" type="cassette">101-011</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_28316998e2b736d2bad815aa23588743" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
         </did>
       </c>
-      <c id="aspace_ref13" level="item">
+      <c id="aspace_ref13" level="file">
         <did>
           <unittitle>Gladnick, Robert (tape 4 of 4)</unittitle>
-          <unitdate>Nov 3, 1980</unitdate>
-          <container id="aspace_c52aaf197a101e30c88e0c5e81533d3e" label="Audio" type="drawer">3</container>
-          <container id="aspace_0f30de25872f23baedc06b91184839a8" parent="aspace_c52aaf197a101e30c88e0c5e81533d3e" type="cassette">101-012</container>
-          <container altrender="Card Box - 6.5 - long" id="aspace_6cd382e8f97a4658861fb25b8dd1e96f" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
+          <unitdate normal="1980/1980">November 3, 1980</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_3cd5058591c794c902c3ceb987220ebc" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_4cf6666b6627b7bfd8e73f77bf7a579e" parent="aspace_3cd5058591c794c902c3ceb987220ebc" type="cassette">101-012</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_8998286fc9b1d2d860c67d227dfbe5a4" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
         </did>
       </c>
-      <c id="aspace_ref14" level="item">
+      <c id="aspace_ref14" level="file">
         <did>
           <unittitle>Harris, Sidney (tape 1 of 2)</unittitle>
-          <unitdate>Aug 27, 1980</unitdate>
-          <container id="aspace_1a90a347a65c4f00ee8131293a025a60" label="Audio" type="drawer">3</container>
-          <container id="aspace_6dd11c93785052cf230bab07019a8a86" parent="aspace_1a90a347a65c4f00ee8131293a025a60" type="cassette">101-013</container>
+          <unitdate normal="1980/1980">August 27, 1980</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_01f2c7204d08324e733e5aabcfea9c66" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_3dc5a06c80502ed6a033ba9eac7a7c1e" parent="aspace_01f2c7204d08324e733e5aabcfea9c66" type="cassette">101-013</container>
         </did>
       </c>
-      <c id="aspace_ref15" level="item">
+      <c id="aspace_ref15" level="file">
         <did>
           <unittitle>Harris, Sidney (tape 2 of 2)</unittitle>
-          <unitdate>Aug 27, 1980</unitdate>
-          <container id="aspace_144b3bf6b466626cbdc87322d9c0fceb" label="Audio" type="drawer">3</container>
-          <container id="aspace_31e1ee6ce7d8cd54f1ad3db074ee5ba6" parent="aspace_144b3bf6b466626cbdc87322d9c0fceb" type="cassette">101-014</container>
+          <unitdate normal="1980/1980">August 27, 1980</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_ef9079de4f25e1c5ca08dc3b120f4a6b" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_c5e51bc460d2ae117f5c7bf43a65a868" parent="aspace_ef9079de4f25e1c5ca08dc3b120f4a6b" type="cassette">101-014</container>
         </did>
       </c>
-      <c id="aspace_ref16" level="item">
+      <c id="aspace_ref16" level="file">
         <did>
           <unittitle>Hilkevitch, Aaron (tape 1 of 3)</unittitle>
-          <unitdate>[1980?]</unitdate>
-          <container id="aspace_7067020fce829d4394c9ba04cc949dd7" label="Audio" type="drawer">3</container>
-          <container id="aspace_4d44379e2859fd1c141d282bf208ddb8" parent="aspace_7067020fce829d4394c9ba04cc949dd7" type="cassette">101-015</container>
+          <unitdate normal="1980/1980">[1980?]</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_9d5e85be1b181de0466065fb6326e01c" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_f6878298e9772a87bdeb1a4a1f570341" parent="aspace_9d5e85be1b181de0466065fb6326e01c" type="cassette">101-015</container>
         </did>
       </c>
-      <c id="aspace_ref17" level="item">
+      <c id="aspace_ref17" level="file">
         <did>
           <unittitle>Hilkevitch, Aaron (tape 2 of 3)</unittitle>
-          <unitdate>[1980?]</unitdate>
-          <container id="aspace_0b8d6fbcdf7755bb5f843d0a18613826" label="Audio" type="drawer">3</container>
-          <container id="aspace_6d0503ad1514050caab35f177e1e93aa" parent="aspace_0b8d6fbcdf7755bb5f843d0a18613826" type="cassette">101-016</container>
+          <unitdate normal="1980/1980">[1980?]</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_5122f65c0c18e15541c96e58841837eb" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_bbf1727e7f885f816f741a0d83af1753" parent="aspace_5122f65c0c18e15541c96e58841837eb" type="cassette">101-016</container>
         </did>
       </c>
-      <c id="aspace_ref18" level="item">
+      <c id="aspace_ref18" level="file">
         <did>
           <unittitle>Hilkevitch, Aaron (tape 3 of 3)</unittitle>
-          <unitdate>[1980?]</unitdate>
-          <container id="aspace_6f78710d6492815629e0497b212218ac" label="Audio" type="drawer">3</container>
-          <container id="aspace_5a4bf7bc1f0cf249aefc416979d1d97e" parent="aspace_6f78710d6492815629e0497b212218ac" type="cassette">101-017</container>
+          <unitdate normal="1980/1980">[1980?]</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_314546b02f9b6ca139872423e336d3dd" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_acd6d59538eb5f7505175a5a2ef412d7" parent="aspace_314546b02f9b6ca139872423e336d3dd" type="cassette">101-017</container>
         </did>
       </c>
-      <c id="aspace_ref19" level="item">
+      <c id="aspace_ref19" level="file">
         <did>
           <unittitle>Lamb, Leonard (tape 1 of 3)</unittitle>
-          <unitdate>Oct 26, 1980</unitdate>
-          <container id="aspace_09929a1d1aa2eb5bdc76628455a47b0d" label="Audio" type="drawer">3</container>
-          <container id="aspace_6801390952088aed1f25ea0c90c096a3" parent="aspace_09929a1d1aa2eb5bdc76628455a47b0d" type="cassette">101-018</container>
+          <unitdate normal="1980/1980">October 26, 1980</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_642f7030ef59d5e2f1a136a4bb7479cb" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_3754f7cf02f63962ca9f81c2a57ed15c" parent="aspace_642f7030ef59d5e2f1a136a4bb7479cb" type="cassette">101-018</container>
         </did>
       </c>
-      <c id="aspace_ref20" level="item">
+      <c id="aspace_ref20" level="file">
         <did>
           <unittitle>Lamb, Leonard (tape 2 of 3)</unittitle>
-          <unitdate>Oct 26, 1980</unitdate>
-          <container id="aspace_cc5fdd8ccf9966cb16d1c214a01861f2" label="Audio" type="drawer">3</container>
-          <container id="aspace_9106a090bc11195276b3210783385802" parent="aspace_cc5fdd8ccf9966cb16d1c214a01861f2" type="cassette">101-019</container>
+          <unitdate normal="1980/1980">October 26, 1980</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_e080028ec5920e8165be9783e00870a5" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_87274df336953bfa44d0de6b2ca7396d" parent="aspace_e080028ec5920e8165be9783e00870a5" type="cassette">101-019</container>
         </did>
       </c>
-      <c id="aspace_ref21" level="item">
+      <c id="aspace_ref21" level="file">
         <did>
           <unittitle>Lamb, Leonard (tape 3 of 3)</unittitle>
-          <unitdate>Oct 26, 1980</unitdate>
-          <container id="aspace_35e9e8212a4304632ecb296ab56f9e9f" label="Audio" type="drawer">3</container>
-          <container id="aspace_1a7a0131014b5b12a0014304def08e97" parent="aspace_35e9e8212a4304632ecb296ab56f9e9f" type="cassette">101-020</container>
+          <unitdate normal="1980/1980">October 26, 1980</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_b6dd861a1d22c791416b7f6d806b95c4" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_e998c172d85a6efd51cd890a9c0f7b63" parent="aspace_b6dd861a1d22c791416b7f6d806b95c4" type="cassette">101-020</container>
         </did>
       </c>
-      <c id="aspace_ref22" level="item">
+      <c id="aspace_ref22" level="file">
         <did>
           <unittitle>Lending, Edward (tape 1 of 3)</unittitle>
-          <unitdate>Oct 19, 1980</unitdate>
-          <container id="aspace_d5cf0c93ab5a9331a5d31ac25fdc7a33" label="Audio" type="drawer">3</container>
-          <container id="aspace_b9d5b7fe481ed087d37bcba41c08f24e" parent="aspace_d5cf0c93ab5a9331a5d31ac25fdc7a33" type="cassette">101-021</container>
+          <unitdate normal="1980/1980">October 19, 1980</unitdate>
+          <container altrender="Flat Box - 9.25" id="aspace_5219f8bbcc7bebeb7e2c045dd573b929" label="Audio [31142062839744]" type="Box">Shared Tamiment 075</container>
+          <container id="aspace_03c3960857424fca239b349efa4f0182" parent="aspace_5219f8bbcc7bebeb7e2c045dd573b929" type="cassette">101-021</container>
         </did>
       </c>
-      <c id="aspace_ref23" level="item">
+      <c id="aspace_ref23" level="file">
         <did>
           <unittitle>Lending, Edward (tape 2 of 3)</unittitle>
-          <unitdate>Oct 19, 1980</unitdate>
-          <container id="aspace_012832dad141728e02e27785edd38197" label="Audio" type="drawer">3</container>
-          <container id="aspace_4cc122e4f94572a52249764cc915c909" parent="aspace_012832dad141728e02e27785edd38197" type="cassette">101-022</container>
+          <unitdate normal="1980/1980">October 19, 1980</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_1ad7564f03dfcc4a0b53cf313f60c0bc" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_5f2f9dc4935cc8fa23a7b15734f82fad" parent="aspace_1ad7564f03dfcc4a0b53cf313f60c0bc" type="cassette">101-022</container>
         </did>
       </c>
-      <c id="aspace_ref24" level="item">
+      <c id="aspace_ref24" level="file">
         <did>
           <unittitle>Lending, Edward (tape 3 of 3)</unittitle>
-          <unitdate>Oct 19, 1980</unitdate>
-          <container id="aspace_14880cd5fe509263a30438b0bd5c2dbb" label="Audio" type="drawer">3</container>
-          <container id="aspace_0f9110fa07ffd961f303a90adff91efe" parent="aspace_14880cd5fe509263a30438b0bd5c2dbb" type="cassette">101-023</container>
+          <unitdate normal="1980/1980">October 19, 1980</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_01bbe46f6bb747d808cb4a04e991b231" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_b633def6c1e845c10b59e822657f23d4" parent="aspace_01bbe46f6bb747d808cb4a04e991b231" type="cassette">101-023</container>
         </did>
       </c>
-      <c id="aspace_ref25" level="item">
+      <c id="aspace_ref25" level="file">
         <did>
           <unittitle>Linn, Sidney</unittitle>
-          <unitdate>[1980?]</unitdate>
-          <container id="aspace_0e489cac2ead354f9c615ec121a5b2ae" label="Audio" type="drawer">3</container>
-          <container id="aspace_22f79e73b9e64051226475dc6a8cecfc" parent="aspace_0e489cac2ead354f9c615ec121a5b2ae" type="cassette">101-024</container>
+          <unitdate normal="1980/1980">[1980?]</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_ea31560b5ebf23a4f48c8ff7c0d6a6ec" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_57a37aa8bb9ef4f55fbdd13a80a4e4db" parent="aspace_ea31560b5ebf23a4f48c8ff7c0d6a6ec" type="cassette">101-024</container>
         </did>
       </c>
-      <c id="aspace_ref26" level="item">
+      <c id="aspace_ref26" level="file">
         <did>
           <unittitle>Lossowski, Vincent (tape 1 of 3)</unittitle>
-          <unitdate>Nov 15, 1980</unitdate>
-          <container id="aspace_270d4b0ff34388f3ceaddc17cec6d17c" label="Audio" type="drawer">3</container>
-          <container id="aspace_e565ad75917ee7e0050ac9f5ebbdb63f" parent="aspace_270d4b0ff34388f3ceaddc17cec6d17c" type="cassette">101-025</container>
+          <unitdate normal="1980/1980">November 15, 1980</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_5fa301894cd19ec52211a494fadf0b87" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_c3dab67ec9658341ab285f71dce446a4" parent="aspace_5fa301894cd19ec52211a494fadf0b87" type="cassette">101-025</container>
         </did>
       </c>
-      <c id="aspace_ref27" level="item">
+      <c id="aspace_ref27" level="file">
         <did>
           <unittitle>Lossowski, Vincent (tape 2 of 3)</unittitle>
-          <unitdate>Nov 15, 1980</unitdate>
-          <container id="aspace_e11c7658b3ff290fb04276d88aa65823" label="Audio" type="drawer">3</container>
-          <container id="aspace_14aedcef943357b4bb054c5f1992636f" parent="aspace_e11c7658b3ff290fb04276d88aa65823" type="cassette">101-026</container>
+          <unitdate normal="1980/1980">November 15, 1980</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_261c9f33dc45914166be630daaf1887a" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_bad58ff94ec2383b418d0c0c45a1bbab" parent="aspace_261c9f33dc45914166be630daaf1887a" type="cassette">101-026</container>
         </did>
       </c>
-      <c id="aspace_ref28" level="item">
+      <c id="aspace_ref28" level="file">
         <did>
           <unittitle>Lossowski, Vincent ( tape 3 of 3)</unittitle>
-          <unitdate>Nov 15, 1980</unitdate>
-          <container id="aspace_cdb4b184e4e537d53d4fe083be476a1a" label="Audio" type="drawer">3</container>
-          <container id="aspace_bb3e57fc272e189ba4e67da8a6fe8a4e" parent="aspace_cdb4b184e4e537d53d4fe083be476a1a" type="cassette">101-027</container>
+          <unitdate normal="1980/1980">November 15, 1980</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_0eaa2914bfed027c71d9190b9db90e42" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_740ff603b6119486a7c9d0ceeaf5d649" parent="aspace_0eaa2914bfed027c71d9190b9db90e42" type="cassette">101-027</container>
         </did>
       </c>
-      <c id="aspace_ref29" level="item">
+      <c id="aspace_ref29" level="file">
         <did>
           <unittitle>Osheroff, Abe (tape 1 of 2)</unittitle>
-          <unitdate>Sep 29, 1980</unitdate>
-          <container id="aspace_d8ae84dda97ff37b8e56f544acbd7491" label="Audio" type="drawer">3</container>
-          <container id="aspace_24ea15ebdb6e5c43fc40ad51bac43f99" parent="aspace_d8ae84dda97ff37b8e56f544acbd7491" type="cassette">101-028</container>
-          <container altrender="Card Box - 6.5 - long" id="aspace_bcb8cd7e93c47019a2a46940ceca1251" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
+          <unitdate normal="1980/1980">September 29, 1980</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_41b65051c9270278fef15417935a5718" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_5f2d97dcbedbbe28fbfc23bf643007a1" parent="aspace_41b65051c9270278fef15417935a5718" type="cassette">101-028</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_99e919448244319ddb7ddfad73c307e5" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
         </did>
       </c>
-      <c id="aspace_ref30" level="item">
+      <c id="aspace_ref30" level="file">
         <did>
           <unittitle>Osheroff, Abe (tape 2 of 2)</unittitle>
-          <unitdate>Sep 29, 1980</unitdate>
-          <container id="aspace_6261b6de40cc106daa7eba278169f93d" label="Audio" type="drawer">3</container>
-          <container id="aspace_13671862c103c3e2981105d79adab7b6" parent="aspace_6261b6de40cc106daa7eba278169f93d" type="cassette">101-029</container>
-          <container altrender="Card Box - 6.5 - long" id="aspace_659bc2fbac8822b3295dfe84d0da26a3" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
+          <unitdate normal="1980/1980">September 29, 1980</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_37f950398a9f74da376b641231397d90" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_3cbee9262bd9d9fc039f8f893eabba9f" parent="aspace_37f950398a9f74da376b641231397d90" type="cassette">101-029</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_b495282dc415c96d55c8b0b024c67730" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
         </did>
       </c>
-      <c id="aspace_ref31" level="item">
+      <c id="aspace_ref31" level="file">
         <did>
           <unittitle>Pike, William (tape 1 of 2)</unittitle>
-          <unitdate>Apr 2, 1981</unitdate>
-          <container id="aspace_66c870b9deb6608c0bdd3213de5bb359" label="Audio" type="disk">3</container>
-          <container id="aspace_68c4eda6ef255e857514b01a10079749" parent="aspace_66c870b9deb6608c0bdd3213de5bb359" type="cassette">101-030</container>
+          <unitdate normal="1981/1981">April 2, 1981</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_a9d8487b5041ed9d063911928def104f" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_55b67344984fca231d86f3b2cf1d622d" parent="aspace_a9d8487b5041ed9d063911928def104f" type="cassette">101-030</container>
         </did>
       </c>
-      <c id="aspace_ref32" level="item">
+      <c id="aspace_ref32" level="file">
         <did>
           <unittitle>Pike, William (tape 2 of 2)</unittitle>
-          <unitdate>Apr 2, 1981</unitdate>
-          <container id="aspace_c5fbcff848a30bea1b6d41b6f06f9ee3" label="Audio" type="drawer">3</container>
-          <container id="aspace_ebbf8f10788b3a6be878fcf9c6aeacf3" parent="aspace_c5fbcff848a30bea1b6d41b6f06f9ee3" type="cassette">101-031</container>
+          <unitdate normal="1981/1981">April 2, 1981</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_86e7e6573b5cb7c5ed3ea35b927ad21f" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_1f1c3014ddb2dcdb6df0c4c1f9a02e4c" parent="aspace_86e7e6573b5cb7c5ed3ea35b927ad21f" type="cassette">101-031</container>
         </did>
       </c>
-      <c id="aspace_ref33" level="item">
+      <c id="aspace_ref33" level="file">
         <did>
           <unittitle>Prago, Albert</unittitle>
-          <unitdate>Nov 8, 1980</unitdate>
-          <container id="aspace_7752c8ac47132e4aaefffb3757420eda" label="Audio" type="drawer">3</container>
-          <container id="aspace_499c47b40166fe509ab3707aaf956def" parent="aspace_7752c8ac47132e4aaefffb3757420eda" type="cassette">101-032</container>
+          <unitdate normal="1980/1980">November 8, 1980</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_45656e6ea0889e7d6b4061a329238ce3" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_167617c4f0750d1816888ca1b9da1c29" parent="aspace_45656e6ea0889e7d6b4061a329238ce3" type="cassette">101-032</container>
         </did>
       </c>
-      <c id="aspace_ref34" level="item">
+      <c id="aspace_ref34" level="file">
         <did>
           <unittitle>Rossen, John</unittitle>
-          <unitdate>May 3, 1980</unitdate>
-          <container id="aspace_2fe9122131b6b584adddba768b366470" label="Audio" type="drawer">3</container>
-          <container id="aspace_48cc8fe835c0cbfa22af117f32164f54" parent="aspace_2fe9122131b6b584adddba768b366470" type="cassette">101-033</container>
+          <unitdate normal="1980/1980">May 3, 1980</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_57f9b0aa73de2e98f84ae7524a838c06" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_1d34ea57e48f63ef38e5746be63ed88e" parent="aspace_57f9b0aa73de2e98f84ae7524a838c06" type="cassette">101-033</container>
         </did>
       </c>
-      <c id="aspace_ref35" level="item">
+      <c id="aspace_ref35" level="file">
         <did>
           <unittitle>Simon, John L. (tape 1 of 2)</unittitle>
-          <unitdate>Jan 11, 1981</unitdate>
-          <container id="aspace_6f4e3fcc4e1d6d46cb2438b08f62d9f5" label="Audio" type="drawer">3</container>
-          <container id="aspace_760ce3d4cbc7c58d0e4e5ecd67274c5f" parent="aspace_6f4e3fcc4e1d6d46cb2438b08f62d9f5" type="cassette">101-034</container>
+          <unitdate normal="1981/1981">January 11, 1981</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_c31ce59f89fa42b4b863250680b29383" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_bd8040f4823933394dae9f86aee1037d" parent="aspace_c31ce59f89fa42b4b863250680b29383" type="cassette">101-034</container>
         </did>
         <accessrestrict id="aspace_1968a326294a2d5493b93b1ebef55ecd">
           <head>Conditions Governing Access</head>
           <p>Restricted.</p>
         </accessrestrict>
       </c>
-      <c id="aspace_ref36" level="item">
+      <c id="aspace_ref36" level="file">
         <did>
           <unittitle>Simon, John L. (tape 2 of 2)</unittitle>
-          <unitdate>Jan 11, 1981</unitdate>
-          <container id="aspace_260a613670aed6da7fd7aea45cc856bf" label="Audio" type="drawer">3</container>
-          <container id="aspace_a03b55a3cafc2981d18dd40a875cc432" parent="aspace_260a613670aed6da7fd7aea45cc856bf" type="cassette">101-035</container>
+          <unitdate normal="1981/1981">January 11, 1981</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_eb9fce1e9e8b8bd347634e4090504f4c" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_4dc3a3466ece4ad56b48385f1320eb8c" parent="aspace_eb9fce1e9e8b8bd347634e4090504f4c" type="cassette">101-035</container>
         </did>
         <accessrestrict id="aspace_e2af878d23e68ddc7dc303304624a315">
           <head>Conditions Governing Access</head>
           <p>Restricted.</p>
         </accessrestrict>
       </c>
-      <c id="aspace_ref37" level="item">
+      <c id="aspace_ref37" level="file">
         <did>
           <unittitle>Stamm, Morris (tape 1 of 3)</unittitle>
-          <unitdate>Mar 29, 1981</unitdate>
-          <container id="aspace_cbc9fdae27ce4c89f280541ee1759338" label="Audio" type="drawer">3</container>
-          <container id="aspace_e16d26b44ccfe40ced4b78aa02bae9ce" parent="aspace_cbc9fdae27ce4c89f280541ee1759338" type="cassette">101-036</container>
+          <unitdate normal="1981/1981">March 29, 1981</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_937efc9dfb5be67b719002b5505a9f4c" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_007f58ebfdb4217d49966e90c18d2af0" parent="aspace_937efc9dfb5be67b719002b5505a9f4c" type="cassette">101-036</container>
         </did>
       </c>
-      <c id="aspace_ref38" level="item">
+      <c id="aspace_ref38" level="file">
         <did>
           <unittitle>Stamm, Morris (tape 2 of 3)</unittitle>
-          <unitdate>Mar 29, 1981</unitdate>
-          <container id="aspace_5b4bc4674fe0c0aa65a0e0f5b45966fa" label="Audio" type="drawer">3</container>
-          <container id="aspace_d458436ad953b3f1d3b10e00fdea03f5" parent="aspace_5b4bc4674fe0c0aa65a0e0f5b45966fa" type="cassette">101-037</container>
+          <unitdate normal="1981/1981">March 29, 1981</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_4ffccc7a6c47ee272b68dcff42b65c56" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_a4588cd8842dd9e5b317e53bd7350ad9" parent="aspace_4ffccc7a6c47ee272b68dcff42b65c56" type="cassette">101-037</container>
         </did>
       </c>
-      <c id="aspace_ref39" level="item">
+      <c id="aspace_ref39" level="file">
         <did>
           <unittitle>Stamm, Morris (tape 3 of 3)</unittitle>
-          <unitdate>Mar 29, 1981</unitdate>
-          <container id="aspace_a9e4dd2de68ce6cc09eccb7c4d582676" label="Audio" type="drawer">3</container>
-          <container id="aspace_66cf2fee5b92547a162483d9ff5d4055" parent="aspace_a9e4dd2de68ce6cc09eccb7c4d582676" type="cassette">101-038</container>
+          <unitdate normal="1981/1981">March 29, 1981</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_2c36015fb736d6a0098acb2d970c7ee5" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_1d41b363a7cc742eafae7485d7d96aa1" parent="aspace_2c36015fb736d6a0098acb2d970c7ee5" type="cassette">101-038</container>
         </did>
       </c>
-      <c id="aspace_ref40" level="item">
+      <c id="aspace_ref40" level="file">
         <did>
           <unittitle>Susman, William (tape 1 of 2)</unittitle>
-          <unitdate>Oct 4, 1980</unitdate>
-          <container id="aspace_a595bcc8416c28b05c8e8f7a73c81ca5" label="Audio" type="drawer">3</container>
-          <container id="aspace_b1d3f2373baff91a336323777c8944a5" parent="aspace_a595bcc8416c28b05c8e8f7a73c81ca5" type="cassette">101-039</container>
+          <unitdate normal="1980/1980">October 4, 1980</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_a10acec038795f89da6401d5591e057d" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_9d8674ec9c11ab1c08dc94378711288b" parent="aspace_a10acec038795f89da6401d5591e057d" type="cassette">101-039</container>
         </did>
       </c>
-      <c id="aspace_ref41" level="item">
+      <c id="aspace_ref41" level="file">
         <did>
           <unittitle>Susman, William (tape 2 of 2)</unittitle>
-          <unitdate>Oct 4, 1980</unitdate>
-          <container id="aspace_21e0f0a7d0f412a9112634edf4cdee3e" label="Audio" type="drawer">3</container>
-          <container id="aspace_5729891598aba6343ce3b74ed49d4321" parent="aspace_21e0f0a7d0f412a9112634edf4cdee3e" type="cassette">101-040</container>
+          <unitdate normal="1980/1980">October 4, 1980</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_1a158070f6d41f73dd433fa9fbe8a4bf" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_a2def0eb127b76ea64db8c708daf66ac" parent="aspace_1a158070f6d41f73dd433fa9fbe8a4bf" type="cassette">101-040</container>
         </did>
       </c>
-      <c id="aspace_ref42" level="item">
+      <c id="aspace_ref42" level="file">
         <did>
           <unittitle>Watt, George (tape 1 of 4)</unittitle>
-          <unitdate>[1980?]</unitdate>
-          <container id="aspace_51eaf7d0996d1fcbd49fa98680e4ea76" label="Audio" type="drawer">3</container>
-          <container id="aspace_7cf7ebfdbbe9b0861fa809682a8ed24c" parent="aspace_51eaf7d0996d1fcbd49fa98680e4ea76" type="cassette">101-041</container>
-          <container altrender="Card Box - 6.5 - long" id="aspace_2dd6ddcac6aa1016d398e9c29b912b8b" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
+          <unitdate normal="1980/1980">[1980?]</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_0c632607fce0b293db6bcc27bb16f056" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_ca338e0dddfd01fb622f32e436cbc37c" parent="aspace_0c632607fce0b293db6bcc27bb16f056" type="cassette">101-041</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_be3852a1f1c3d0f6887bfea51d851287" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
         </did>
         <accessrestrict id="aspace_aaaae00b43e0e3c895d6d9c8e995faa0">
           <head>Conditions Governing Access</head>
           <p>Restricted</p>
         </accessrestrict>
       </c>
-      <c id="aspace_ref43" level="item">
+      <c id="aspace_ref43" level="file">
         <did>
           <unittitle>Watt, George (tape 2 of 4)</unittitle>
-          <unitdate>[1980?]</unitdate>
-          <container id="aspace_29b26ec4dcc565bdc5c9d0a482b5710c" label="Audio" type="drawer">3</container>
-          <container id="aspace_e9fd2c48fa319b30bd6867b72bbcd81b" parent="aspace_29b26ec4dcc565bdc5c9d0a482b5710c" type="cassette">101-042</container>
-          <container altrender="Card Box - 6.5 - long" id="aspace_4910597cb2fb532b863cae2b56f46fe6" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
+          <unitdate normal="1980/1980">[1980?]</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_04b74e91b472f56308f5058125070dd7" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_ec040015bdac90ae465c9e1a39becfe7" parent="aspace_04b74e91b472f56308f5058125070dd7" type="cassette">101-042</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_5a006a97630148c4a135793f339eed96" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
         </did>
         <accessrestrict id="aspace_bb49b418296585c6ca0e8b3166c39943">
           <head>Conditions Governing Access</head>
           <p>Restricted.</p>
         </accessrestrict>
       </c>
-      <c id="aspace_ref44" level="item">
+      <c id="aspace_ref44" level="file">
         <did>
           <unittitle>Watt, George (tape 3 of 4)</unittitle>
-          <unitdate>[1980?]</unitdate>
-          <container id="aspace_13073b727a2c2512ffbd42560a450e3e" label="Audio" type="drawer">3</container>
-          <container id="aspace_34979830488a8651cf5a578d8e299276" parent="aspace_13073b727a2c2512ffbd42560a450e3e" type="cassette">101-043</container>
-          <container altrender="Card Box - 6.5 - long" id="aspace_cf52dbaba1ee75cc29c35f0a4e3e6ea2" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
+          <unitdate normal="1980/1980">[1980?]</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_a12d9a9efabab99ae0adeec77b47753f" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_afeb81b8ac0a52d90ce2c3fa4550a472" parent="aspace_a12d9a9efabab99ae0adeec77b47753f" type="cassette">101-043</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_c27f62739e3bbe9cf5d83de9162fd690" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
         </did>
         <accessrestrict id="aspace_b28d912ad643e606ed4382beac88b7a9">
           <head>Conditions Governing Access</head>
           <p>Restricted.</p>
         </accessrestrict>
       </c>
-      <c id="aspace_ref45" level="item">
+      <c id="aspace_ref45" level="file">
         <did>
           <unittitle>Watt, George (tape 4 of 4)</unittitle>
-          <unitdate>[1980?]</unitdate>
-          <container altrender="Card Box - 6.5 - long" id="aspace_cf02a52c72de1d3614ba31d193e17770" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
-          <container id="aspace_3efd175373f1389b96920f0384e1d656" label="Audio" type="drawer">3</container>
-          <container id="aspace_e74a5b0d0c1f20c2b9ff46e8306c89c6" parent="aspace_3efd175373f1389b96920f0384e1d656" type="cassette">101-044</container>
+          <unitdate normal="1980/1980">[1980?]</unitdate>
+          <container altrender="Card Box - 6.5 - long" id="aspace_0a634c3d1307424c5846bba07fc4f491" label="access cd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container>
+          <container altrender="Box - 9 x 11" id="aspace_c3104c4dce9010dd137a49edb430296c" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_fcd0031ff3b1f103c10b55a6b2761657" parent="aspace_c3104c4dce9010dd137a49edb430296c" type="cassette">101-044</container>
         </did>
         <accessrestrict id="aspace_a700afa92c125ea747897a242bfa5367">
           <head>Conditions Governing Access</head>
           <p>Restricted.</p>
         </accessrestrict>
       </c>
-      <c id="aspace_ref46" level="item">
+      <c id="aspace_ref46" level="file">
         <did>
           <unittitle>Wellman, Saul (tape 1 of 4)</unittitle>
-          <unitdate>[1980?]</unitdate>
-          <container id="aspace_609d024d92328075dfc477028d71215f" label="Audio" type="drawer">3</container>
-          <container id="aspace_178d9aaf6b9ff7adff06cff26aac6574" parent="aspace_609d024d92328075dfc477028d71215f" type="cassette">101-045</container>
+          <unitdate normal="1980/1980">[1980?]</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_0e971282b383c12aea1c26a8383e3940" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_514de3bed83b75a363789b64ea7bf37c" parent="aspace_0e971282b383c12aea1c26a8383e3940" type="cassette">101-045</container>
         </did>
       </c>
-      <c id="aspace_ref47" level="item">
+      <c id="aspace_ref47" level="file">
         <did>
           <unittitle>Wellman, Saul (tape 2 of 4)</unittitle>
-          <unitdate>[1980?]</unitdate>
-          <container id="aspace_09f720b2beaad10b5dc35eeb70a9b836" label="Audio" type="drawer">3</container>
-          <container id="aspace_077f17970c0bfa9bb3dcbb8eac01f306" parent="aspace_09f720b2beaad10b5dc35eeb70a9b836" type="cassette">101-046</container>
+          <unitdate normal="1980/1980">[1980?]</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_fe8507273e280de5ae70a1ebe94cc3a0" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_74fa8766aa9302f3a2b2f2dc2afc2abf" parent="aspace_fe8507273e280de5ae70a1ebe94cc3a0" type="cassette">101-046</container>
         </did>
       </c>
-      <c id="aspace_ref48" level="item">
+      <c id="aspace_ref48" level="file">
         <did>
           <unittitle>Wellman, Saul (tape 3 of 4)</unittitle>
-          <unitdate>[1980?]</unitdate>
-          <container id="aspace_c2d726d84ed9bb8dcc789e43d152a97b" label="Audio" type="drawer">3</container>
-          <container id="aspace_a4839b3e899ad6fb75e3cc53cebd8270" parent="aspace_c2d726d84ed9bb8dcc789e43d152a97b" type="cassette">101-047</container>
+          <unitdate normal="1980/1980">[1980?]</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_4712bdb0099a96a2dd7078513265179f" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_ec0c9fb4587be42d1d6d6b8a215fbed0" parent="aspace_4712bdb0099a96a2dd7078513265179f" type="cassette">101-047</container>
         </did>
       </c>
-      <c id="aspace_ref49" level="item">
+      <c id="aspace_ref49" level="file">
         <did>
           <unittitle>Wellman, Saul (tape 4 of 4)</unittitle>
-          <unitdate>[1980?]</unitdate>
-          <container id="aspace_71a1a5f3d43268ca05d49ffb0d18156b" label="Audio" type="drawer">3</container>
-          <container id="aspace_1f977ee87fd4d2ae4f4866c124392ed3" parent="aspace_71a1a5f3d43268ca05d49ffb0d18156b" type="cassette">101-048</container>
+          <unitdate normal="1980/1980">[1980?]</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_acfda9774eb89b3ff0ca8698a362c2c5" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_8ec342ba7ebb52b2b2a65183724d5f35" parent="aspace_acfda9774eb89b3ff0ca8698a362c2c5" type="cassette">101-048</container>
         </did>
       </c>
-      <c id="aspace_ref50" level="item">
+      <c id="aspace_ref50" level="file">
         <did>
           <unittitle>Zawadowski, Joseph (tape 1 of 5)</unittitle>
-          <unitdate>Aug 5, 1980</unitdate>
-          <container id="aspace_1b95278d2f96c84e0b6add6200fcdb98" label="Audio" type="drawer">3</container>
-          <container id="aspace_7671dc6768475c87e17496cc291d88db" parent="aspace_1b95278d2f96c84e0b6add6200fcdb98" type="cassette">101-050</container>
+          <unitdate normal="1980/1980">August 5, 1980</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_648194e2dc9d4eda29e61a1b706e7f72" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_17075a1dccab0826bb6ea51111b034bf" parent="aspace_648194e2dc9d4eda29e61a1b706e7f72" type="cassette">101-050</container>
         </did>
       </c>
-      <c id="aspace_ref51" level="item">
+      <c id="aspace_ref51" level="file">
         <did>
           <unittitle>Zawadowski, Joseph (tape 2 of 5)</unittitle>
-          <unitdate>Aug 5, 1980</unitdate>
-          <container id="aspace_945dd0d47673d977d6302850724bb71d" label="Audio" type="drawer">3</container>
-          <container id="aspace_415bf9a51ae1a61e416d0d962aeb1d5c" parent="aspace_945dd0d47673d977d6302850724bb71d" type="cassette">101-051</container>
+          <unitdate normal="1980/1980">August 5, 1980</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_5ce6f500fb8ca858cfca47a187e1f164" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_74b6b7d46c52bab517b26ded998c4f78" parent="aspace_5ce6f500fb8ca858cfca47a187e1f164" type="cassette">101-051</container>
         </did>
       </c>
-      <c id="aspace_ref52" level="item">
+      <c id="aspace_ref52" level="file">
         <did>
           <unittitle>Zawadowski, Joseph (tape 3 of 5)</unittitle>
-          <unitdate>Aug 5, 1980</unitdate>
-          <container id="aspace_8f043c710717a2c787978ac3a6b08776" label="Audio" type="drawer">3</container>
-          <container id="aspace_abe4e3ee9e561afad031eebe90d54da5" parent="aspace_8f043c710717a2c787978ac3a6b08776" type="cassette">101-052</container>
+          <unitdate normal="1980/1980">August 5, 1980</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_84780a277a07b19863454a3683403f22" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_493f0f150ed4dd3101b067f8cee4de1c" parent="aspace_84780a277a07b19863454a3683403f22" type="cassette">101-052</container>
         </did>
       </c>
-      <c id="aspace_ref53" level="item">
+      <c id="aspace_ref53" level="file">
         <did>
           <unittitle>Zawadowski, Joseph (tape 4 of 5)</unittitle>
-          <unitdate>Aug 5, 1980</unitdate>
-          <container id="aspace_74ab376eacecb65f9c5462d32ee138ee" label="Audio" type="drawer">3</container>
-          <container id="aspace_09a110732630582975c9672238926f2f" parent="aspace_74ab376eacecb65f9c5462d32ee138ee" type="cassette">101-053</container>
+          <unitdate normal="1980/1980">August 5, 1980</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_e85ab3a31f1b2e00808dc60fdb7c05aa" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_0d6d4834f5dcfb93aa2a9070322f27ef" parent="aspace_e85ab3a31f1b2e00808dc60fdb7c05aa" type="cassette">101-053</container>
         </did>
       </c>
-      <c id="aspace_ref54" level="item">
+      <c id="aspace_ref54" level="file">
         <did>
           <unittitle>Zawadowski, Joseph (tape 5 of 5)</unittitle>
-          <unitdate>Aug 5, 1980</unitdate>
-          <container id="aspace_17b02a491303f348ffdddc2038eb34d9" label="Audio" type="drawer">3</container>
-          <container id="aspace_eac6f672b10dcb2d8138dc899e53f49e" parent="aspace_17b02a491303f348ffdddc2038eb34d9" type="cassette">101-049</container>
+          <unitdate normal="1980/1980">August 5, 1980</unitdate>
+          <container altrender="Box - 9 x 11" id="aspace_7a7037c15113789ab599ec424203bc5d" label="Audio [31142062839751]" type="Box">Shared Tamiment 076</container>
+          <container id="aspace_7aec37ed36cdf3808ff11abfeb29651f" parent="aspace_7a7037c15113789ab599ec424203bc5d" type="cassette">101-049</container>
         </did>
       </c>
     </dsc>

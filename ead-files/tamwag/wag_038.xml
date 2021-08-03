@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_038/">wag_038</eadid>
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_038">wag_038</eadid>
     <filedesc>
       <titlestmt>
         <titleproper>Guide to the American Federation of Musicians, Local 802 Records <num>WAG.038</num></titleproper>
@@ -23,7 +23,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:58:36 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-08-03 11:56:09 -0400</date>.</creation>
       <langusage>Finding aid is written in English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -58,15 +58,19 @@
       <physdesc altrender="part">
         <extent altrender="materialtype spaceoccupied">108 audiocassettes</extent>
       </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">2 websites</extent>
+        <extent altrender="carrier">in 2 archived websites.</extent>
+      </physdesc>
       <unitdate normal="1921/2010" type="inclusive">1921-2010</unitdate>
       <unitdate normal="1980/1999" type="bulk">1980-1999</unitdate>
       <abstract id="aspace_f73784a13bf74e420a90b660f7a18e0f">The American Federation of Musicians, Local 802 (Associated Musicians of Greater New York) is the largest local of professional musicians in the world. As of 2011, it represents approximately 10,000 members in and around New York City.  Members work in many fields of music: rock, rhythm and blues, jazz, Latin, concert, theater, club date, night club, ballroom and symphonic. They are also instrumentalists, copyists, arrangers, orchestral librarians, proofreaders, and editors.  Additionally, Local 802 regularly demonstrates solidarity with fellow unions (particularly other entertainment unions) and is deeply involved in lobbying for union rights.  This collection consists of minutes, departmental files, and publications of Local 802.  These records document Local 802's struggles on behalf of New York City musicians.  Particularly valuable are the extensive minutes of the executive and trial boards, which provide great detail on the history of this important union.</abstract>
-      <physloc id="aspace_45af99e53ca990015a865c54262409cf">Materials stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to research visit.</physloc>
+      <physloc id="aspace_45af99e53ca990015a865c54262409cf">Materials stored offsite and advance notice is required for use. Please contact special.collections@nyu.edu at least two business days prior to research visit.</physloc>
       <langmaterial id="aspace_51d06386860ed767b2ae2c3cd807da59">Materials are in English</langmaterial>
     </did>
     <arrangement id="aspace_e58690c6cdb032db39009ab123432648">
       <head>Arrangement</head>
-      <p>The collection is arranged into eleven series:</p>
+      <p>The collection is arranged into twelve series:</p>
       <p>Series I: Executive Board Files, 1921-1999</p>
       <p>Series II: President's Office Files, 1967-2003</p>
       <p>Series III: Secretary's Office Files, 1960s-early 2000s</p>
@@ -78,6 +82,7 @@
       <p>Series IX: Trial Board Files, 1922-1990s</p>
       <p>Series X: Oversized Material, 1921-1990s</p>
       <p>Series XI: Photographs, undated</p>
+      <p>Series XII: Archived Websites, 2007-ongoing</p>
     </arrangement>
     <bioghist id="aspace_fdaf5166d19c93b98063e956c4d043ff">
       <head>Biographical Note</head>
@@ -98,13 +103,10 @@
       <head>Conditions Governing Use</head>
       <p>Any rights (including copyright and related rights to publicity and privacy) held by the American Federation of Musicians, Local 802, were transferred to New York University in 2011 by the American Federation of Musicians, Local 802. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library and Robert F. Wagner Archives. Please contact tamiment.wagner@nyu.edu, (212) 998-2630.</p>
     </userestrict>
-    <custodhist id="aspace_56ab341531c49c13ad834b46afea9c7b">
-      <head>Custodial History</head>
-      <p>The archived website was migrated from the California Digital Library's Web Archiving Service to the Internet Archive's Archive-It Service in November 2015. The link to California Digital Library was removed in October 2017.</p>
-    </custodhist>
     <acqinfo id="aspace_76e4e46c0943e152c0cd9c44e095d18a">
       <head>Immediate Source of Acquisition</head>
       <p>Donated by the American Federation of Musicians, Local 802, in 1978. The accession numbers associated with this gift are 1978.005 and 1978.009. Additional materials were sent in 1985 and 2011. The accession numbers associated with these materials are 2011.100 and 2011.113. The accession number NPA.2003.024 is also associated with this collection. The most recent donation of materials was in 2018. The accession number associated with this donation is 2019.028</p>
+      <p>https://www.local802afm.org/ was initially selected by curators and captured through the use of The California Digital Library's Web Archiving Service in 2007 as part of the Labor Unions and Organizations (U.S.) Web Archive. In 2015, this website was migrated to Archive-It. Archive-It uses web crawling technology to capture websites at a scheduled time and displays only an archived copy, from the resulting WARC file, of the website. In May 2020, https://erf.local802afm.org/ was added. The accession number associated with this website is 2020.044.</p>
     </acqinfo>
     <phystech id="aspace_b489f0c3a546e2a500d48e76bcbc53db">
       <head>Audiovisual Access Policies and Procedures</head>
@@ -117,17 +119,26 @@
     <prefercite id="aspace_792a49153f41b9dc22b223fe999a02c2">
       <head>Preferred Citation</head>
       <p>Identification of item, date; American Federation of Musicians, Local 802 Records; WAG 038; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+      <p>To cite the archived websites in this collection:
+Identification of item, date; American Federation of Musicians, Local 802 Records; WAG 038; Wayback URL; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
     </prefercite>
     <processinfo id="aspace_fa68915e4609fd571a2dab5d29edb721">
       <head>Processing Information</head>
       <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
       <p>Photographs separated from this collection during processing were established as a separate collection, the American Federation of Musicians, Local 802 Photographs (PHOTOS 182). In 2013, the photograph collection was reincorporated into the American Federation of Musicians, Local 802 Records (WAG 038).</p>
-      <p>In 2014, the archived websites were added as Series XII. In 2019, materials from the 2019 accretion were incorporated into Series V.</p>
+      <p>In 2014, the archived websites were added as Series XII. In 2019, materials from the 2019 accretion were incorporated into Series V. In 2020, additional websites were added.</p>
     </processinfo>
     <scopecontent id="aspace_2ca5c45e91374a4f73c9a7633fc3b9ee">
       <head>Scope and Content Note</head>
       <p>This collection consists of minutes, departmental files, and publications of Local 802.  These records document the local's struggles on behalf of New York City musicians. Particularly valuable are the minutes from the bi-weekly Executive Board and Trial Board meetings, as well as minutes from the more infrequent Regular Membership meetings. Executive Board deliberations and decisions include negotiations, concessions, membership status, local policy and expenditures. The Trial Board reviews infractions of the local laws and violations of wage scales, working conditions and other contractual matters for which members can be brought up on charges. Also included in the collection are records from the President's and Secretary's Offices, in addition to the Organizing, Public Relations and Political Action Offices.</p>
     </scopecontent>
+    <appraisal id="aspace_c178af9be26c2595a893f3cb012d8698">
+      <head>Take Down Policy</head>
+      <p>Archived websites are made accessible for purposes of education and research. NYU Libraries have given attribution to rights holders when possible; however, due to the nature of archival collections, we are not always able to identify this information.</p>
+      <p>If you hold the rights to materials in our archived websites that are unattributed, please let us know so that we may maintain accurate information about these materials.</p>
+      <p>If you are a rights holder and are concerned that you have found material on this website for which you have not granted permission (or is not covered by a copyright exception under US copyright laws), you may request the removal of the material from our site by submitting a notice, with the elements described below, to the special.collections@nyu.edu.</p>
+      <p>Please include the following in your notice:  Identification of the material that you believe to be infringing and information sufficient to permit us to locate the material; your contact information, such as an address, telephone number, and email address; a statement that you are the owner, or authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed and that you have a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; a statement that the information in the notification is accurate and made under penalty of perjury; and your physical or electronic signature.  Upon receiving a notice that includes the details listed above, we will remove the allegedly infringing material from public view while we assess the issues identified in your notice.</p>
+    </appraisal>
     <controlaccess>
       <subject source="lcsh">Musicians |x Labor unions |z New York (State) |z New York.</subject>
       <subject source="lcsh">Musicians |z New York (State) |z New York.</subject>
@@ -143,17 +154,17 @@
         <did>
           <unittitle>Series I: Executive Board Files</unittitle>
           <unitdate>1921-1999</unitdate>
-          <container id="aspace_f9ff860cfe25504f90ebb53faef85577" label="Mixed Materials [31142050279234]" type="box">2</container>
-          <container id="aspace_dcea1e50d38147f1ee96f3280a6b6c64" label="Mixed Materials [31142050279242]" type="box">3</container>
-          <container id="aspace_cd2e984e1df8178f738a83079e446e4f" label="Mixed Materials [31142050299570]" type="box">1</container>
-          <container id="aspace_5faa65cdc6eff716ca835761dde4793e" label="Mixed Materials [31142054630382]" type="box">125</container>
-          <container id="aspace_e215481726809ee0b92fa6a5abb6cfc5" label="Mixed Materials [31142054630374]" type="box">126</container>
-          <container id="aspace_1faa73cc2bb7dd2f798999518d84f984" label="Mixed Materials [31142054630408]" type="box">123</container>
-          <container id="aspace_26a2e72270eed019fc808e74407b558f" label="Mixed Materials [31142054630390]" type="box">124</container>
-          <container id="aspace_9eebd94094c951d2dc667451ef7b620d" label="Mixed Materials [31142050279275]" type="box">6</container>
-          <container id="aspace_c8f4e7144184cc24de3f2d58cd712470" label="Mixed Materials [31142054630416]" type="box">122</container>
-          <container id="aspace_443f987a680e164e05f48fc13cea52f4" label="Mixed Materials [31142050279259]" type="box">4</container>
-          <container id="aspace_d49be8bdb761b8a5e633bb0c869cac52" label="Mixed Materials [31142050279267]" type="box">5</container>
+          <container id="aspace_d6131c3c41ec946d669fd3dec6dda292" label="Mixed Materials [31142050279234]" type="box">2</container>
+          <container id="aspace_a541895ba9089839ae0bf7b3b7738bf7" label="Mixed Materials [31142050279242]" type="box">3</container>
+          <container id="aspace_fe3d61c64937e34944ed3f0ff38b5260" label="Mixed Materials [31142050299570]" type="box">1</container>
+          <container id="aspace_475729f16bb1d7f8e68601578fd564e7" label="Mixed Materials [31142054630382]" type="box">125</container>
+          <container id="aspace_08d852fdc5ccae53f477b93ceacae9c5" label="Mixed Materials [31142054630374]" type="box">126</container>
+          <container id="aspace_ddbcdd32997be131dc7dec1054a92ac5" label="Mixed Materials [31142054630408]" type="box">123</container>
+          <container id="aspace_84d54395f75a08468422adb50ee01fcf" label="Mixed Materials [31142054630390]" type="box">124</container>
+          <container id="aspace_6ad8ba049d7c54129a3e8f50429edab4" label="Mixed Materials [31142050279275]" type="box">6</container>
+          <container id="aspace_536d94bab200b1847cf89fa1ca73106e" label="Mixed Materials [31142054630416]" type="box">122</container>
+          <container id="aspace_5a8da165515fc2af29e6de9223e434aa" label="Mixed Materials [31142050279259]" type="box">4</container>
+          <container id="aspace_ac30a55083256e19681b1ea7ac293a44" label="Mixed Materials [31142050279267]" type="box">5</container>
         </did>
         <scopecontent id="aspace_095c914c1df70af71158f3c74c5725c0">
           <head>Scope and Content Note</head>
@@ -163,8 +174,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1921/1923" type="inclusive">1921-1923</unitdate>
-            <container id="aspace_a5008929411c8904b300509e68e45ab6" label="Microform" type="film">R-7438</container>
-            <container id="aspace_6b74ca329a6a6c2b38e807116dae3d7b" parent="aspace_a5008929411c8904b300509e68e45ab6" type="reel">1</container>
+            <container id="aspace_5c8200bf05b9d18c1a1f5d0a7b4c6c63" label="Microform" type="film">R-7438</container>
+            <container id="aspace_6ec83dc7ff675d8e1b26895b09caf1b8" parent="aspace_5c8200bf05b9d18c1a1f5d0a7b4c6c63" type="reel">1</container>
           </did>
           <odd id="aspace_3aeff784189bf8d3d6bec27d52b00696">
             <head>General</head>
@@ -175,8 +186,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1924/1926" type="inclusive">1924-1926</unitdate>
-            <container id="aspace_146ce754798cce82175edf9a30a5ca3f" label="Microform" type="film">R-7438</container>
-            <container id="aspace_28f2ca9bc8fd4be78f1cb88ec6d2a18a" parent="aspace_146ce754798cce82175edf9a30a5ca3f" type="reel">2</container>
+            <container id="aspace_2e214f6abe22d8ce7d842fd812f6896c" label="Microform" type="film">R-7438</container>
+            <container id="aspace_a340ea20b3b8389b983d78665ac77f6e" parent="aspace_2e214f6abe22d8ce7d842fd812f6896c" type="reel">2</container>
           </did>
           <odd id="aspace_378d75a0781a9e2ed97d7dc0e4f5627c">
             <head>General</head>
@@ -187,8 +198,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1927/1928" type="inclusive">1927-1928</unitdate>
-            <container id="aspace_1869acb90b794e77249a27b0bd158744" label="Microform" type="film">R-7438</container>
-            <container id="aspace_39b27de9edd98af46202b4b71bfc2b67" parent="aspace_1869acb90b794e77249a27b0bd158744" type="reel">3</container>
+            <container id="aspace_1b05196d154ea36c4512a5e28d5a248e" label="Microform" type="film">R-7438</container>
+            <container id="aspace_05b431f750d850ae689ffde1d42f1403" parent="aspace_1b05196d154ea36c4512a5e28d5a248e" type="reel">3</container>
           </did>
           <odd id="aspace_09ff4c9e16573118c9e2a4a08f1738b7">
             <head>General</head>
@@ -199,40 +210,40 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1929/1930" type="inclusive">1929-1930</unitdate>
-            <container id="aspace_908d20c719b9c97640e661a2e1c2849a" label="Microform" type="film">R-7438</container>
-            <container id="aspace_9a19b2e0a3c3dd821dfc16263b1bc1e4" parent="aspace_908d20c719b9c97640e661a2e1c2849a" type="reel">4</container>
+            <container id="aspace_6f3e5eb5f4facae44ad24cc2a876327e" label="Microform" type="film">R-7438</container>
+            <container id="aspace_95f11047aae018dbe29119d068cf46b2" parent="aspace_6f3e5eb5f4facae44ad24cc2a876327e" type="reel">4</container>
           </did>
         </c>
         <c id="aspace_ref197" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1931/1932" type="inclusive">1931-1932</unitdate>
-            <container id="aspace_5530c43997dee12fb1b3e788e113ac2d" label="Microform" type="film">R-7438</container>
-            <container id="aspace_7ecff4e640e5b720d0905df3b9e72b49" parent="aspace_5530c43997dee12fb1b3e788e113ac2d" type="reel">5</container>
+            <container id="aspace_501eb52da1221fb67b5cf1f15511d66c" label="Microform" type="film">R-7438</container>
+            <container id="aspace_46a13db3293f65db4c4a6f7e87da0c7e" parent="aspace_501eb52da1221fb67b5cf1f15511d66c" type="reel">5</container>
           </did>
         </c>
         <c id="aspace_ref198" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1933/1934" type="inclusive">1933-1934</unitdate>
-            <container id="aspace_6a60dff63d55345594c0f14429082710" label="Microform" type="film">R-7438</container>
-            <container id="aspace_20132d35fcb0d20177182c9468095356" parent="aspace_6a60dff63d55345594c0f14429082710" type="reel">6</container>
+            <container id="aspace_d14bf6a3bd98000930d63181b218f98b" label="Microform" type="film">R-7438</container>
+            <container id="aspace_af78a3f98181887ba7f445aaab50a7e0" parent="aspace_d14bf6a3bd98000930d63181b218f98b" type="reel">6</container>
           </did>
         </c>
         <c id="aspace_ref199" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
-            <container id="aspace_a266c395ff6797e2abc9dfeb7d1dfef6" label="Microform" type="film">R-7438</container>
-            <container id="aspace_a411892e97b6c557c8d25f6089c73c58" parent="aspace_a266c395ff6797e2abc9dfeb7d1dfef6" type="reel">7</container>
+            <container id="aspace_6c4c558560cd9d19d009875a178d2c36" label="Microform" type="film">R-7438</container>
+            <container id="aspace_cea08ab2ed1a1acf7a76e21a47377081" parent="aspace_6c4c558560cd9d19d009875a178d2c36" type="reel">7</container>
           </did>
         </c>
         <c id="aspace_ref200" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
-            <container id="aspace_5ed82c26e6185a41b48175182e9e3a90" label="Microform" type="film">R-7438</container>
-            <container id="aspace_16d3d544a02de84459e178798610d4f5" parent="aspace_5ed82c26e6185a41b48175182e9e3a90" type="reel">8</container>
+            <container id="aspace_6eff47392f1750080b609e172a9596ac" label="Microform" type="film">R-7438</container>
+            <container id="aspace_2a11c5592f08061d38b22c2521ac3081" parent="aspace_6eff47392f1750080b609e172a9596ac" type="reel">8</container>
           </did>
           <odd id="aspace_bb1d597d05c97a6112d0c90fb1ef2d01">
             <head>General</head>
@@ -243,8 +254,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
-            <container id="aspace_717eecb4a162a662fe5df6bfd20a0724" label="Microform" type="film">R-7438</container>
-            <container id="aspace_cd0fae978bff404e5cc58f9d49c38a0b" parent="aspace_717eecb4a162a662fe5df6bfd20a0724" type="reel">9</container>
+            <container id="aspace_2a8532cb81b75d2180da7454098fa7a9" label="Microform" type="film">R-7438</container>
+            <container id="aspace_ea8b9b6d28e963f90937fc093fcb3eaa" parent="aspace_2a8532cb81b75d2180da7454098fa7a9" type="reel">9</container>
           </did>
           <odd id="aspace_f6614b3039aeee084d33c9aef2bd9c93">
             <head>General</head>
@@ -255,8 +266,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
-            <container id="aspace_838a4023acdc502b477ed2642f15cdcc" label="Microform" type="film">R-7438</container>
-            <container id="aspace_1c4636c487cb3212bfbdb81f2acae7fc" parent="aspace_838a4023acdc502b477ed2642f15cdcc" type="reel">10</container>
+            <container id="aspace_dc49639a4e11a33aa90d2b8529fdee0a" label="Microform" type="film">R-7438</container>
+            <container id="aspace_0c9956da5845e180fc59d25734df3add" parent="aspace_dc49639a4e11a33aa90d2b8529fdee0a" type="reel">10</container>
           </did>
           <odd id="aspace_1409586397f7321b87338b9917929dd2">
             <head>General</head>
@@ -267,8 +278,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
-            <container id="aspace_04f53a040a6fe4bb312e824febb980b1" label="Microform" type="film">R-7438</container>
-            <container id="aspace_6297b2817ca93838e8d48f5ee09975d0" parent="aspace_04f53a040a6fe4bb312e824febb980b1" type="reel">11</container>
+            <container id="aspace_abe10796f2988987c10dd956ef7b5913" label="Microform" type="film">R-7438</container>
+            <container id="aspace_dfa3e695e0a0b95cf5e016659b2378c0" parent="aspace_abe10796f2988987c10dd956ef7b5913" type="reel">11</container>
           </did>
           <odd id="aspace_31685d2f6fb958c7b3e0ca73e4846825">
             <head>General</head>
@@ -279,8 +290,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1940/1940" type="inclusive">Jan 1940-Jun 1940</unitdate>
-            <container id="aspace_1bbbe208349e1a3d27f22a8cdc7b35ab" label="Microform" type="film">R-7438</container>
-            <container id="aspace_f36a1eae13c25d69b822a071c793238e" parent="aspace_1bbbe208349e1a3d27f22a8cdc7b35ab" type="reel">12</container>
+            <container id="aspace_668f9bae3d87a9df46fa0d00291975f7" label="Microform" type="film">R-7438</container>
+            <container id="aspace_9b49b6873c84285f89d5d5c4d55f143f" parent="aspace_668f9bae3d87a9df46fa0d00291975f7" type="reel">12</container>
           </did>
           <odd id="aspace_a267032e93da687fac82b28f09c7212a">
             <head>General</head>
@@ -291,8 +302,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1940/1941" type="inclusive">Aug 1940-1941</unitdate>
-            <container id="aspace_6042e61b31dc2f41423f8702dda6e628" label="Microform" type="film">R-7438</container>
-            <container id="aspace_adb10985f953afcf91534317216f4fa2" parent="aspace_6042e61b31dc2f41423f8702dda6e628" type="reel">13</container>
+            <container id="aspace_551ca727c15af2eaf844f94c1784112f" label="Microform" type="film">R-7438</container>
+            <container id="aspace_e737b5558f83cdf80d615c5d9a6f62b9" parent="aspace_551ca727c15af2eaf844f94c1784112f" type="reel">13</container>
           </did>
           <odd id="aspace_da53c430966b938396fa9a902c89c841">
             <head>General</head>
@@ -303,8 +314,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1942/1942" type="inclusive">Jan 1942-Sep 1942</unitdate>
-            <container id="aspace_404f7f4dfb18c61c1be951b8cf4c87a2" label="Microform" type="film">R-7438</container>
-            <container id="aspace_fc7739d426c45bad7e32eff670e97016" parent="aspace_404f7f4dfb18c61c1be951b8cf4c87a2" type="reel">14</container>
+            <container id="aspace_63413f82f4d39443a4e9203685f6e7d7" label="Microform" type="film">R-7438</container>
+            <container id="aspace_2bed0b42d23b71dc9a232d68cdba51ef" parent="aspace_63413f82f4d39443a4e9203685f6e7d7" type="reel">14</container>
           </did>
           <odd id="aspace_3694544f1152d2bb145428da0a39d7e4">
             <head>General</head>
@@ -315,8 +326,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1942/1943" type="inclusive">Oct 1942-Jul 1943</unitdate>
-            <container id="aspace_4708e8acfbc63fb9715e144aefc5cff4" label="Microform" type="film">R-7438</container>
-            <container id="aspace_8a574e214dd65be33b7aa2bcfdf2422b" parent="aspace_4708e8acfbc63fb9715e144aefc5cff4" type="reel">15</container>
+            <container id="aspace_cab4fcaacc41a120a23b9ac43c52360d" label="Microform" type="film">R-7438</container>
+            <container id="aspace_97d59dcfb95af1fdf2dd6d808e8ccb27" parent="aspace_cab4fcaacc41a120a23b9ac43c52360d" type="reel">15</container>
           </did>
           <odd id="aspace_0bf05e212949dd63c3a56505d8edd834">
             <head>General</head>
@@ -327,8 +338,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1943/1944" type="inclusive">Aug 1943-Aug 1944</unitdate>
-            <container id="aspace_aec71884a9a9f584617ff51e89bf3aef" label="Microform" type="film">R-7438</container>
-            <container id="aspace_707785f837db2168d89892b19355b241" parent="aspace_aec71884a9a9f584617ff51e89bf3aef" type="reel">16</container>
+            <container id="aspace_2eab887a6175d64f50de452c58c6260a" label="Microform" type="film">R-7438</container>
+            <container id="aspace_35855e2cfb71788d501b538727e8bbe9" parent="aspace_2eab887a6175d64f50de452c58c6260a" type="reel">16</container>
           </did>
           <odd id="aspace_7976e3a62783bd04ba40c06ef299ae89">
             <head>General</head>
@@ -339,8 +350,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1944/1945" type="inclusive">Sep 1944-1945</unitdate>
-            <container id="aspace_f12ce58031141bee6dda282b257d18dc" label="Microform" type="film">R-7438</container>
-            <container id="aspace_22a80176218631e5acbda8c08484694b" parent="aspace_f12ce58031141bee6dda282b257d18dc" type="reel">17</container>
+            <container id="aspace_6ddf7c489d3c35593c9c2cac5c12643c" label="Microform" type="film">R-7438</container>
+            <container id="aspace_c7ab697cebf80a57d256609fa52be43c" parent="aspace_6ddf7c489d3c35593c9c2cac5c12643c" type="reel">17</container>
           </did>
           <odd id="aspace_9a804bfb06ccb84502971d9c429fe436">
             <head>General</head>
@@ -351,8 +362,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
-            <container id="aspace_4615d98d3649d76e9087281eb93bfe37" label="Microform" type="film">R-7438</container>
-            <container id="aspace_14cc943394381d0494fa48a5ea76a58a" parent="aspace_4615d98d3649d76e9087281eb93bfe37" type="reel">18</container>
+            <container id="aspace_3d24544c86e14322772dfedc061c3756" label="Microform" type="film">R-7438</container>
+            <container id="aspace_7fec6c066260a39a4879d4e2f8e04733" parent="aspace_3d24544c86e14322772dfedc061c3756" type="reel">18</container>
           </did>
           <odd id="aspace_637948fffad1fb71892f8adbba807194">
             <head>General</head>
@@ -363,8 +374,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
-            <container id="aspace_fe6b7d660f4946ad5d40ade6d9aed21e" label="Microform" type="film">R-7438</container>
-            <container id="aspace_208f9d3aeb25868e8010742f79e6ab16" parent="aspace_fe6b7d660f4946ad5d40ade6d9aed21e" type="reel">19</container>
+            <container id="aspace_1c5bf60f20fec3bff51841b76e553c67" label="Microform" type="film">R-7438</container>
+            <container id="aspace_809283219e1210e05a2c8a6d31debb26" parent="aspace_1c5bf60f20fec3bff51841b76e553c67" type="reel">19</container>
           </did>
           <odd id="aspace_6d0fddb2e1818db717b2c06d08a9bff8">
             <head>General</head>
@@ -375,8 +386,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
-            <container id="aspace_1939280777c6b8c6943120f3f0286589" label="Microform" type="film">R-7438</container>
-            <container id="aspace_f9a53ee101f7fc47700d272f3d07a19a" parent="aspace_1939280777c6b8c6943120f3f0286589" type="reel">20</container>
+            <container id="aspace_293e9b82a5588aa1a72b5aeb18e8c21a" label="Microform" type="film">R-7438</container>
+            <container id="aspace_05a4337ff02a6e2cac0f85182f22dd50" parent="aspace_293e9b82a5588aa1a72b5aeb18e8c21a" type="reel">20</container>
           </did>
           <odd id="aspace_2f8dfca6285d1589fc9c26214ce3585e">
             <head>General</head>
@@ -387,8 +398,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
-            <container id="aspace_de913996906b514ce14ef3d31246bcf0" label="Microform" type="film">R-7438</container>
-            <container id="aspace_c8834d9bde667af1d34a60f83606e04e" parent="aspace_de913996906b514ce14ef3d31246bcf0" type="reel">21</container>
+            <container id="aspace_5c662c380ed0084e4df7aa7d3ee40840" label="Microform" type="film">R-7438</container>
+            <container id="aspace_6a19d900a9987cec3aa0b5d4f4bc62e2" parent="aspace_5c662c380ed0084e4df7aa7d3ee40840" type="reel">21</container>
           </did>
           <odd id="aspace_f8e2b7d409ff1307a3a8ef6d85676bea">
             <head>General</head>
@@ -399,8 +410,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
-            <container id="aspace_31ce98870278a4950800aa652b814af1" label="Microform" type="film">R-7438</container>
-            <container id="aspace_5a7c517514c24c28289359d59ff6cbc3" parent="aspace_31ce98870278a4950800aa652b814af1" type="reel">22</container>
+            <container id="aspace_484375e8df74883f50fea15c338ab725" label="Microform" type="film">R-7438</container>
+            <container id="aspace_ff5109eac7a27b031d2c659bfaa8eb79" parent="aspace_484375e8df74883f50fea15c338ab725" type="reel">22</container>
           </did>
           <odd id="aspace_68815dfca6eec8484e80d0a532ffc77f">
             <head>General</head>
@@ -411,8 +422,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
-            <container id="aspace_41bb6b5007af78a0bd820f05969823e3" label="Microform" type="film">R-7438</container>
-            <container id="aspace_9f5a49e6aae550ae4c2362c2cfccffdc" parent="aspace_41bb6b5007af78a0bd820f05969823e3" type="reel">23</container>
+            <container id="aspace_2bdcde8286ccf82f30c21d20bdcc5ea7" label="Microform" type="film">R-7438</container>
+            <container id="aspace_9d14305e92aea6db2eddcfd15a43776d" parent="aspace_2bdcde8286ccf82f30c21d20bdcc5ea7" type="reel">23</container>
           </did>
           <odd id="aspace_1396d9be483fda1b5efd512218305c01">
             <head>General</head>
@@ -423,8 +434,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
-            <container id="aspace_3312918bad7b74aef62d6772aecb1ebc" label="Microform" type="film">R-7438</container>
-            <container id="aspace_4411aa2e2edaf178b066c5c0e89ba9f7" parent="aspace_3312918bad7b74aef62d6772aecb1ebc" type="reel">24</container>
+            <container id="aspace_4eb90fc6202b15f440f42fcee2ac66f0" label="Microform" type="film">R-7438</container>
+            <container id="aspace_640c0a7ac93058188068ec1cf2a7b29c" parent="aspace_4eb90fc6202b15f440f42fcee2ac66f0" type="reel">24</container>
           </did>
           <odd id="aspace_1ad9f89e1101720c21eafe3bac6b0b8e">
             <head>General</head>
@@ -435,8 +446,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
-            <container id="aspace_50b352ba754f077527b75011c576d77a" label="Microform" type="film">R-7438</container>
-            <container id="aspace_2e46ca1fb07a55c341afec251cc9bb2a" parent="aspace_50b352ba754f077527b75011c576d77a" type="reel">25</container>
+            <container id="aspace_870c2f7f510bfbf99ec505ca7bd32cfa" label="Microform" type="film">R-7438</container>
+            <container id="aspace_275874d34211dc57811bd68e63cf46a6" parent="aspace_870c2f7f510bfbf99ec505ca7bd32cfa" type="reel">25</container>
           </did>
           <odd id="aspace_b6f055fc267cb4f80086fd49e146cc6c">
             <head>General</head>
@@ -447,8 +458,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1954/1954" type="inclusive">Jan 1954-Aug 1954</unitdate>
-            <container id="aspace_59ccb1793983f9e8a48f7c2e886e2b20" label="Microform" type="film">R-7438</container>
-            <container id="aspace_9ea421dd86edb55a2931b009b6b3e204" parent="aspace_59ccb1793983f9e8a48f7c2e886e2b20" type="reel">26</container>
+            <container id="aspace_d32b9255711a6d792122a925ea421df0" label="Microform" type="film">R-7438</container>
+            <container id="aspace_16cd8730dd9b9801518bca1a7de6a85b" parent="aspace_d32b9255711a6d792122a925ea421df0" type="reel">26</container>
           </did>
           <odd id="aspace_ba42443186b8518fa848d8102344177f">
             <head>General</head>
@@ -459,8 +470,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1954/1954" type="inclusive">Aug 1954-Dec 1954</unitdate>
-            <container id="aspace_cbe94276307072863a3275bd80198cb5" label="Microform" type="film">R-7438</container>
-            <container id="aspace_139127acd213a0f51e533e7d65132815" parent="aspace_cbe94276307072863a3275bd80198cb5" type="reel">27</container>
+            <container id="aspace_30e8d0ff89c50f69bcdf7cdc0ea1c689" label="Microform" type="film">R-7438</container>
+            <container id="aspace_46674283a026f8cc2d71f3051a59f5c1" parent="aspace_30e8d0ff89c50f69bcdf7cdc0ea1c689" type="reel">27</container>
           </did>
           <odd id="aspace_db978d46b70ee02f598584558a7d3662">
             <head>General</head>
@@ -471,8 +482,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1955/1955" type="inclusive">Jan 1955-Jun 1955</unitdate>
-            <container id="aspace_ea341010bf28a780920f609048b9899e" label="Microform" type="film">R-7438</container>
-            <container id="aspace_afbd9006ff438d7930297e104ec84602" parent="aspace_ea341010bf28a780920f609048b9899e" type="reel">28</container>
+            <container id="aspace_eb12af6578197c795a492bf23a2db927" label="Microform" type="film">R-7438</container>
+            <container id="aspace_aed81d350c93e25d3d054aca6d7eb82a" parent="aspace_eb12af6578197c795a492bf23a2db927" type="reel">28</container>
           </did>
           <odd id="aspace_ba376cc14a7aaeb7628d61c2a2bddf53">
             <head>General</head>
@@ -483,8 +494,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1955/1955" type="inclusive">Jul 1955-Dec 1955</unitdate>
-            <container id="aspace_5a59acf123fbb6ce88bf5fdf4b978bef" label="Microform" type="film">R-7438</container>
-            <container id="aspace_0107aeec25737095617f3e709a08de3d" parent="aspace_5a59acf123fbb6ce88bf5fdf4b978bef" type="reel">29</container>
+            <container id="aspace_f296b5c02b8eda0f70e48e759ef6f766" label="Microform" type="film">R-7438</container>
+            <container id="aspace_57f1d7c7e34ebcf8e08b838c3db1a51f" parent="aspace_f296b5c02b8eda0f70e48e759ef6f766" type="reel">29</container>
           </did>
           <odd id="aspace_d5fe9c5bf1fefc2f901a7015f7a2e2d8">
             <head>General</head>
@@ -495,8 +506,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1956/1956" type="inclusive">Jan 1956-Jun 1956</unitdate>
-            <container id="aspace_76a7f08f16a06dc9ef1d2f4dd05a1942" label="Microform" type="film">R-7438</container>
-            <container id="aspace_5ce514be992b3a5b7ff205980243412a" parent="aspace_76a7f08f16a06dc9ef1d2f4dd05a1942" type="reel">30</container>
+            <container id="aspace_0d3080114439e1a010c42c52a669efba" label="Microform" type="film">R-7438</container>
+            <container id="aspace_018398bacebc778e67d3085c5c1287fd" parent="aspace_0d3080114439e1a010c42c52a669efba" type="reel">30</container>
           </did>
           <odd id="aspace_fad426ac1b89725a554128d645eaaa2a">
             <head>General</head>
@@ -507,8 +518,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1956/1956" type="inclusive">Jul 1956-Dec 1956</unitdate>
-            <container id="aspace_7614c94a17a495e04ff5186e38739c8d" label="Microform" type="film">R-7438</container>
-            <container id="aspace_2fa6fa19fdfad575a61eb73dd3076f2d" parent="aspace_7614c94a17a495e04ff5186e38739c8d" type="reel">31</container>
+            <container id="aspace_4dd749c1888e19627d9da83b05f19b82" label="Microform" type="film">R-7438</container>
+            <container id="aspace_0b12dee8a3abd10e12b54daef3617034" parent="aspace_4dd749c1888e19627d9da83b05f19b82" type="reel">31</container>
           </did>
           <odd id="aspace_332706be4a765617ce0793101927071f">
             <head>General</head>
@@ -519,8 +530,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1957/1957" type="inclusive">Jan 1957-Jun 1957</unitdate>
-            <container id="aspace_1b9c544cfc75d6c6ed80f94a443a8eb3" label="Microform" type="film">R-7438</container>
-            <container id="aspace_09f135d19c263cc89a8ae4fd8860258b" parent="aspace_1b9c544cfc75d6c6ed80f94a443a8eb3" type="reel">32</container>
+            <container id="aspace_c0a0958750ed6d4df355d6a2c41f3adf" label="Microform" type="film">R-7438</container>
+            <container id="aspace_89260bcbd251829a4b5d30e44859f2d7" parent="aspace_c0a0958750ed6d4df355d6a2c41f3adf" type="reel">32</container>
           </did>
           <odd id="aspace_ed5db1d6ea9658a6f141adfd03718f2b">
             <head>General</head>
@@ -531,8 +542,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1957/1958" type="inclusive">Jul 1957-1958</unitdate>
-            <container id="aspace_aaf08628151a22d857ceef28034006b1" label="Microform" type="film">R-7438</container>
-            <container id="aspace_e31b5e703a51485eee6a7d23259a02ce" parent="aspace_aaf08628151a22d857ceef28034006b1" type="reel">33</container>
+            <container id="aspace_3e9d7f8bb17f7a553bec4a7a25e4217e" label="Microform" type="film">R-7438</container>
+            <container id="aspace_5f60880b470ca5611ac87c3b50141d30" parent="aspace_3e9d7f8bb17f7a553bec4a7a25e4217e" type="reel">33</container>
           </did>
           <odd id="aspace_1f51abdea7d18b37f31dd84c6f2fcaf0">
             <head>General</head>
@@ -543,8 +554,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1959/1960" type="inclusive">Jan 1959-Jun 1960</unitdate>
-            <container id="aspace_e93af5f6738c771723a1fa167b99d87d" label="Microform" type="film">R-7438</container>
-            <container id="aspace_c0e3c2fa2b1ec337d9837162ef68c779" parent="aspace_e93af5f6738c771723a1fa167b99d87d" type="reel">34</container>
+            <container id="aspace_c0c9ba8f43c35a2e2110bc1b83103928" label="Microform" type="film">R-7438</container>
+            <container id="aspace_f204355e7947d60622c0dd7ba1fb8543" parent="aspace_c0c9ba8f43c35a2e2110bc1b83103928" type="reel">34</container>
           </did>
           <odd id="aspace_bb044426b5e80f750321d2b0525b1eec">
             <head>General</head>
@@ -555,8 +566,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1960/1961" type="inclusive">Jul 1960-1961</unitdate>
-            <container id="aspace_8fe8aff069ab50558d5fbe01bff9ced4" label="Microform" type="film">R-7438</container>
-            <container id="aspace_dacbc7f4169c5711b9f38d98cc10df4c" parent="aspace_8fe8aff069ab50558d5fbe01bff9ced4" type="reel">35</container>
+            <container id="aspace_3479cbe81aa1af5e957bb722b5f09d8b" label="Microform" type="film">R-7438</container>
+            <container id="aspace_bcd9d1cb0493856fe20e023ad1a737ab" parent="aspace_3479cbe81aa1af5e957bb722b5f09d8b" type="reel">35</container>
           </did>
           <odd id="aspace_ac313f8b0335f57fb43ebb6c34d081f2">
             <head>General</head>
@@ -567,8 +578,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1962/1963" type="inclusive">Jul 1962-1963</unitdate>
-            <container id="aspace_5c20e0dff7eb9fd2348fbabb169aeb8a" label="Microform" type="film">R-7438</container>
-            <container id="aspace_e4c0d723c41b9b80601a954f59c3a3bf" parent="aspace_5c20e0dff7eb9fd2348fbabb169aeb8a" type="reel">36</container>
+            <container id="aspace_1a521889dc88372e957f7082fb526fb8" label="Microform" type="film">R-7438</container>
+            <container id="aspace_1043cb4b14ecb53e9b4ef29df6d3e655" parent="aspace_1a521889dc88372e957f7082fb526fb8" type="reel">36</container>
           </did>
           <odd id="aspace_f54f1fe3329b9a52ca12a25f95e6e429">
             <head>General</head>
@@ -579,8 +590,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
-            <container id="aspace_f547fd062674f561e959545ccda9483f" label="Microform" type="film">R-7438</container>
-            <container id="aspace_b1591d083c98f26dfbdccbb9d155e37b" parent="aspace_f547fd062674f561e959545ccda9483f" type="reel">37</container>
+            <container id="aspace_06c3a6ef1b075d88cb43644b4a01cc99" label="Microform" type="film">R-7438</container>
+            <container id="aspace_bca86f69f667b1dbef7b337862ffb240" parent="aspace_06c3a6ef1b075d88cb43644b4a01cc99" type="reel">37</container>
           </did>
           <odd id="aspace_8938632a36f8e9dc4a2dcba3871f75c9">
             <head>General</head>
@@ -591,8 +602,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
-            <container id="aspace_aa6af69f45b162731fcc08a82511a699" label="Microform" type="film">R-7438</container>
-            <container id="aspace_f6d08a04f355f47fabfcbeebf4366cf4" parent="aspace_aa6af69f45b162731fcc08a82511a699" type="reel">38</container>
+            <container id="aspace_62cae3fd47fffc0b95bb84a58683cb3c" label="Microform" type="film">R-7438</container>
+            <container id="aspace_d7b8483a7120ac245d401240a8a32e95" parent="aspace_62cae3fd47fffc0b95bb84a58683cb3c" type="reel">38</container>
           </did>
           <odd id="aspace_d6d23ec219b58a8814ef6e105824e6f8">
             <head>General</head>
@@ -603,8 +614,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
-            <container id="aspace_c3ad34267f90b256304c75bd796d50f8" label="Microform" type="film">R-7438</container>
-            <container id="aspace_9d8eae5ca1e1d17ac73bd02cee36e2ff" parent="aspace_c3ad34267f90b256304c75bd796d50f8" type="reel">39</container>
+            <container id="aspace_0b3480a5cc89429133b210e7bfc39135" label="Microform" type="film">R-7438</container>
+            <container id="aspace_580418943c0354ed37c41ed7aae221ad" parent="aspace_0b3480a5cc89429133b210e7bfc39135" type="reel">39</container>
           </did>
           <odd id="aspace_68039b677d82179fe9109a8c4e8870c5">
             <head>General</head>
@@ -615,8 +626,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
-            <container id="aspace_b7cfc1334256af8da5b155a634a1ae61" label="Microform" type="film">R-7438</container>
-            <container id="aspace_3879aec8efa6e191e038e7593ed69b3a" parent="aspace_b7cfc1334256af8da5b155a634a1ae61" type="reel">40</container>
+            <container id="aspace_fd3f4d7998d11c61ded9ba469e2e926b" label="Microform" type="film">R-7438</container>
+            <container id="aspace_51e2135023cabdd81093277cb37f53f4" parent="aspace_fd3f4d7998d11c61ded9ba469e2e926b" type="reel">40</container>
           </did>
           <odd id="aspace_c3094aca32c2851631c91896819290b6">
             <head>General</head>
@@ -627,8 +638,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
-            <container id="aspace_9a61a95fc848211f9ca306f3cb341aff" label="Microform" type="film">R-7438</container>
-            <container id="aspace_1420aa16bafade82f782fe0b2005e39f" parent="aspace_9a61a95fc848211f9ca306f3cb341aff" type="reel">41</container>
+            <container id="aspace_7296ad2903a40530ac42a8ade3dddcc6" label="Microform" type="film">R-7438</container>
+            <container id="aspace_d9043ef483dff07548cc651925babfa1" parent="aspace_7296ad2903a40530ac42a8ade3dddcc6" type="reel">41</container>
           </did>
           <odd id="aspace_c30a5c889aa171686f054783864e2c03">
             <head>General</head>
@@ -639,8 +650,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
-            <container id="aspace_1f35f28dffedacccd7335a74765c8782" label="Microform" type="film">R-7438</container>
-            <container id="aspace_28d7f025e87c81f12e3fa579696d0a14" parent="aspace_1f35f28dffedacccd7335a74765c8782" type="reel">42</container>
+            <container id="aspace_22eeedf1f7e6a1d21930f9c73cc91d57" label="Microform" type="film">R-7438</container>
+            <container id="aspace_3f30f039f766cd5c196bc49d02279b6c" parent="aspace_22eeedf1f7e6a1d21930f9c73cc91d57" type="reel">42</container>
           </did>
           <odd id="aspace_3b919617daf4d7c259180c8f55eed9e3">
             <head>General</head>
@@ -651,8 +662,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
-            <container id="aspace_8dab6ffe144a8587cb99d2d31382357d" label="Microform" type="film">R-7438</container>
-            <container id="aspace_9026aa663b14098846abf7b0b73f9b84" parent="aspace_8dab6ffe144a8587cb99d2d31382357d" type="reel">43</container>
+            <container id="aspace_1836aeabc25eea7d56fff0e5909077b1" label="Microform" type="film">R-7438</container>
+            <container id="aspace_e7f831ab9151219e86a952f89904569e" parent="aspace_1836aeabc25eea7d56fff0e5909077b1" type="reel">43</container>
           </did>
           <odd id="aspace_39eabf4395a96d8ebd3f7238ca955416">
             <head>General</head>
@@ -663,8 +674,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
-            <container id="aspace_49c0990e90e70893d5e66dc44207b2a1" label="Microform" type="film">R-7438</container>
-            <container id="aspace_be2b97032dbbd89446a8f7c44fb7bc66" parent="aspace_49c0990e90e70893d5e66dc44207b2a1" type="reel">44</container>
+            <container id="aspace_9273cac7df9dfa6609912f9825cfc3fe" label="Microform" type="film">R-7438</container>
+            <container id="aspace_5bdabc4152a0feeaf0eff7eb434d1cc7" parent="aspace_9273cac7df9dfa6609912f9825cfc3fe" type="reel">44</container>
           </did>
           <odd id="aspace_cdd3f27a6eb0ad818ce2bc118378913f">
             <head>General</head>
@@ -675,8 +686,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
-            <container id="aspace_0f3884bcf6ddedd074eafbbaa59a74fe" label="Microform" type="film">R-7438</container>
-            <container id="aspace_f31455541d262cb2f5e9356c16b3e076" parent="aspace_0f3884bcf6ddedd074eafbbaa59a74fe" type="reel">45</container>
+            <container id="aspace_d7fe78e9b4b7d7c134443ecebbe8c7b7" label="Microform" type="film">R-7438</container>
+            <container id="aspace_502efdfb9824d4ffa18cdee7dbcd93fc" parent="aspace_d7fe78e9b4b7d7c134443ecebbe8c7b7" type="reel">45</container>
           </did>
           <odd id="aspace_2e47d04dbc33d62b7a64b9590611366c">
             <head>General</head>
@@ -687,8 +698,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
-            <container id="aspace_b79578985003142c90f85c99a006cc0f" label="Microform" type="film">R-7438</container>
-            <container id="aspace_3ac898cdf39c46b4f01e56d8d594cf5b" parent="aspace_b79578985003142c90f85c99a006cc0f" type="reel">46</container>
+            <container id="aspace_c1ae6d51c06bc5c6fdced2eca6f33d37" label="Microform" type="film">R-7438</container>
+            <container id="aspace_449cf220d2551ef18f2f00b660c51fd5" parent="aspace_c1ae6d51c06bc5c6fdced2eca6f33d37" type="reel">46</container>
           </did>
           <odd id="aspace_249ba583ae4bd7b3c6fddcdd46e46134">
             <head>General</head>
@@ -699,8 +710,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1982/1982" type="inclusive">Jan 1982-Aug 1982</unitdate>
-            <container id="aspace_5e49211beffd8cee1bb26f1b06fd8ecd" label="Microform" type="film">R-7438</container>
-            <container id="aspace_b9dc457a98d278a9cd12c282140cc728" parent="aspace_5e49211beffd8cee1bb26f1b06fd8ecd" type="reel">47</container>
+            <container id="aspace_2ab761a1124f2fb66cd46b8e4fe54f71" label="Microform" type="film">R-7438</container>
+            <container id="aspace_2c00a1ef703b273e8d07978ff725be09" parent="aspace_2ab761a1124f2fb66cd46b8e4fe54f71" type="reel">47</container>
           </did>
           <odd id="aspace_12beef73bb768fc81729ea51f8ab4245">
             <head>General</head>
@@ -711,8 +722,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1982/1982" type="inclusive">Sep 1982-Dec 1982</unitdate>
-            <container id="aspace_b2dde4245068f7c8cfbdb7054fe15b58" label="Microform" type="film">R-7438</container>
-            <container id="aspace_8334c5547430457d6f5b9fcbdd16942e" parent="aspace_b2dde4245068f7c8cfbdb7054fe15b58" type="reel">48</container>
+            <container id="aspace_b33d9ae674acac914def6d095f620380" label="Microform" type="film">R-7438</container>
+            <container id="aspace_b5f5674397472cf49a6f623e386f785b" parent="aspace_b33d9ae674acac914def6d095f620380" type="reel">48</container>
           </did>
           <odd id="aspace_16313e8b28005da715a5f1515203fab2">
             <head>General</head>
@@ -723,8 +734,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1983/1985" type="inclusive">1983-1985</unitdate>
-            <container id="aspace_ce31490f3bb374ddf96e4bf3a55a6872" label="Microform" type="film">R-7438</container>
-            <container id="aspace_adebd3a3483ecee1e6c6be099245dd66" parent="aspace_ce31490f3bb374ddf96e4bf3a55a6872" type="reel">49</container>
+            <container id="aspace_ecd6ffcc27c6fe8fd5169cbfdcd713c2" label="Microform" type="film">R-7438</container>
+            <container id="aspace_e75be559782643013e590d4045cea861" parent="aspace_ecd6ffcc27c6fe8fd5169cbfdcd713c2" type="reel">49</container>
           </did>
           <odd id="aspace_e5d7d6e2fd64e0b654363c6508ca23f5">
             <head>General</head>
@@ -735,119 +746,119 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1986/1989" type="inclusive">1986-1989</unitdate>
-            <container id="aspace_7dd9c8a1d15b995affbec6d07824d202" label="Mixed Materials [31142054630366]" type="box">127</container>
+            <container id="aspace_8fbe1fdcb3f70e14b2c0aa45969e0290" label="Mixed Materials [31142054630366]" type="box">127</container>
           </did>
         </c>
         <c id="aspace_ref336" level="file">
           <did>
             <unittitle>Handwritten Minutes</unittitle>
             <unitdate normal="1994/2000" type="inclusive">1994-2000 (incomplete)</unitdate>
-            <container id="aspace_29205a31a89cb7ebab01bf654ec7585b" label="Mixed Materials [31142054630366]" type="box">127</container>
+            <container id="aspace_f9bf394e182b73b4f76fc925806fc8de" label="Mixed Materials [31142054630366]" type="box">127</container>
           </did>
         </c>
         <c id="aspace_ref172" level="file">
           <did>
             <unittitle>Material for Inclusion in 1986 Minutes (includes copy of 1985 minutes)</unittitle>
             <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
-            <container id="aspace_53d9fb7e06c461df0dfb9753f96fc232" label="Mixed Materials [31142050279283]" type="box">7</container>
+            <container id="aspace_66ab80595c8baa75412d3f1314cd0c4c" label="Mixed Materials [31142050279283]" type="box">7</container>
           </did>
         </c>
         <c id="aspace_ref174" level="file">
           <did>
             <unittitle>Material for Inclusion in 1986 Minutes</unittitle>
             <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
-            <container id="aspace_97742eabf03170191abcf7c36bae7b13" label="Mixed Materials [31142050279291]" type="box">8</container>
+            <container id="aspace_dadf6e0a8fd95d49e38007026f3a6722" label="Mixed Materials [31142050279291]" type="box">8</container>
           </did>
         </c>
         <c id="aspace_ref175" level="file">
           <did>
             <unittitle>Material for Inclusion in 1988 Minutes (includes copy of 1987 minutes)</unittitle>
             <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
-            <container id="aspace_428935e37ccc033069af443b92dfb178" label="Mixed Materials [31142054629749]" type="box">113</container>
+            <container id="aspace_a93939720f0e9dcbbb5ac20d1442e092" label="Mixed Materials [31142054629749]" type="box">113</container>
           </did>
         </c>
         <c id="aspace_ref10" level="file">
           <did>
             <unittitle>Material for Inclusion in 1989 Minutes (includes copy of 1988 minutes), Meeting Materials (including minutes) (Jan-Apr 1990)</unittitle>
             <unitdate normal="1988/1990" type="inclusive">1988-Apr 1990</unitdate>
-            <container id="aspace_99e988d5f9ed5b9e6c36cee9dbc0ac90" label="Mixed Materials [31142050279291]" type="box">8</container>
+            <container id="aspace_8a4d6986fb850d035a5f2edc9594dee9" label="Mixed Materials [31142050279291]" type="box">8</container>
           </did>
         </c>
         <c id="aspace_ref11" level="file">
           <did>
             <unittitle>Meeting Materials (including minutes)</unittitle>
             <unitdate normal="1990/1991" type="inclusive">May 1990-Jul 1991</unitdate>
-            <container id="aspace_d4016f514b64baf61a236b2afba6309b" label="Mixed Materials [31142050279309]" type="box">9</container>
+            <container id="aspace_d4aa7e9c05ca9116712f4fa7a5e082f0" label="Mixed Materials [31142050279309]" type="box">9</container>
           </did>
         </c>
         <c id="aspace_ref12" level="file">
           <did>
             <unittitle>Meeting Materials (including minutes)</unittitle>
             <unitdate normal="1991/1992" type="inclusive">Aug 1991-Jun 1992</unitdate>
-            <container id="aspace_eb081a9e449d33e2892ce1290185885b" label="Mixed Materials [31142050279317]" type="box">10</container>
+            <container id="aspace_c3f150b6ec959568a680bea92514e431" label="Mixed Materials [31142050279317]" type="box">10</container>
           </did>
         </c>
         <c id="aspace_ref176" level="file">
           <did>
             <unittitle>Meeting Materials (including minutes)</unittitle>
             <unitdate normal="1992/1992" type="inclusive">Jul 1992-Aug 1992</unitdate>
-            <container id="aspace_ad1b803f7c15748b22e62b8e3f3d0654" label="Mixed Materials [31142054630317]" type="box">114</container>
+            <container id="aspace_86d03cec52605dbb2f603068781b574f" label="Mixed Materials [31142054630317]" type="box">114</container>
           </did>
         </c>
         <c id="aspace_ref13" level="file">
           <did>
             <unittitle>Meeting Materials (including minutes)</unittitle>
             <unitdate normal="1992/1993" type="inclusive">Sep 1992-1993</unitdate>
-            <container id="aspace_c4703096d7544b72c67f4d35e9c8150e" label="Mixed Materials [31142054629442]" type="box">11</container>
+            <container id="aspace_5764939c2be8ed9e2fa66a656ffbcde3" label="Mixed Materials [31142054629442]" type="box">11</container>
           </did>
         </c>
         <c id="aspace_ref14" level="file">
           <did>
             <unittitle>Meeting Materials (including minutes)</unittitle>
             <unitdate normal="1994/1995" type="inclusive">1994-Jul 1995</unitdate>
-            <container id="aspace_1f70ed124d228743e2b5aa8fd3ce49c2" label="Mixed Materials [31142054629434]" type="box">12</container>
+            <container id="aspace_03cbe039799bd44f5f430988574f0f93" label="Mixed Materials [31142054629434]" type="box">12</container>
           </did>
         </c>
         <c id="aspace_ref15" level="file">
           <did>
             <unittitle>Meeting Materials (including minutes)</unittitle>
             <unitdate normal="1995/1996" type="inclusive">Aug 1995-1996</unitdate>
-            <container id="aspace_241a1e1f5b7542a07542b3692deba904" label="Mixed Materials [31142054629426]" type="box">13</container>
+            <container id="aspace_5c582c890b598f1a8cc6892805eb7a1c" label="Mixed Materials [31142054629426]" type="box">13</container>
           </did>
         </c>
         <c id="aspace_ref16" level="file">
           <did>
             <unittitle>Meeting Materials (including minutes)</unittitle>
             <unitdate normal="1997/1998" type="inclusive">1997-Feb 1998</unitdate>
-            <container id="aspace_ffc8961677d27e24716a95ad66d98bfc" label="Mixed Materials [31142054629418]" type="box">14</container>
+            <container id="aspace_fb8633ca06ed15742424b02d71fd40a6" label="Mixed Materials [31142054629418]" type="box">14</container>
           </did>
         </c>
         <c id="aspace_ref17" level="file">
           <did>
             <unittitle>Meeting Materials (including minutes)</unittitle>
             <unitdate normal="1998/1999" type="inclusive">Mar 1998-Mar 1999</unitdate>
-            <container id="aspace_2ab9b781f840cfb6ab442c27769634b9" label="Mixed Materials [31142054629400]" type="box">15</container>
+            <container id="aspace_2bc510711a44e582760a2e153b97ccdd" label="Mixed Materials [31142054629400]" type="box">15</container>
           </did>
         </c>
         <c id="aspace_ref18" level="file">
           <did>
             <unittitle>Meeting Materials (including minutes)</unittitle>
             <unitdate normal="1999/1999" type="inclusive">Apr 1999-Dec 1999</unitdate>
-            <container id="aspace_57d66f8d6eeb90efa633976555b00631" label="Mixed Materials [31142054629392]" type="box">16</container>
+            <container id="aspace_2418799d3c40829e3f1a6a018cc87806" label="Mixed Materials [31142054629392]" type="box">16</container>
           </did>
         </c>
         <c id="aspace_ref187" level="file">
           <did>
             <unittitle>Meeting Attendance Book</unittitle>
             <unitdate normal="1943/1945" type="inclusive">1943-1945</unitdate>
-            <container id="aspace_e891f3ba65ae3f6bcbca7c3d09f69998" label="Mixed Materials [31142054630325]" type="box">119</container>
+            <container id="aspace_c59c9eda3b8420ea94f0a2ddb89a783f" label="Mixed Materials [31142054630325]" type="box">119</container>
           </did>
         </c>
         <c id="aspace_ref345" level="file">
           <did>
             <unittitle>Meeting Attendance Books</unittitle>
             <unitdate normal="1982/2000" type="inclusive">1982-2000</unitdate>
-            <container id="aspace_96733d5e28490667ab2e99080ebe724d" label="Mixed Materials [31142054630341]" type="box">129</container>
+            <container id="aspace_a89aed48a078afdcf42276c7bd59946d" label="Mixed Materials [31142054630341]" type="box">129</container>
           </did>
         </c>
       </c>
@@ -864,266 +875,266 @@
           <did>
             <unittitle>Computer Committee and International Executive Board</unittitle>
             <unitdate normal="1994/1996" type="inclusive">1994-1996</unitdate>
-            <container id="aspace_5ea13e700c87c543da25efb6dbe5837f" label="Mixed Materials [31142054629392]" type="box">16</container>
+            <container id="aspace_b248a3a3f4268ad8442373dbc7fbbadb" label="Mixed Materials [31142054629392]" type="box">16</container>
           </did>
         </c>
         <c id="aspace_ref21" level="file">
           <did>
             <unittitle>International Executive Board Minutes, Lawsuit Against Steven Scott Enterprises, and Strategic Planning</unittitle>
             <unitdate normal="1996/2000" type="inclusive">1996-2000</unitdate>
-            <container id="aspace_0da4790c78cdd350c2e84a82b8633313" label="Mixed Materials [31142054629384]" type="box">17</container>
+            <container id="aspace_614ec05b972978b6d8f7d3a1418844c0" label="Mixed Materials [31142054629384]" type="box">17</container>
           </did>
         </c>
         <c id="aspace_ref22" level="file">
           <did>
             <unittitle>Legal Files: A-G</unittitle>
             <unitdate normal="1987/1999" type="inclusive">late 1980s-late 1990s</unitdate>
-            <container id="aspace_4f222387e86aad2c4292f5d65af01f56" label="Mixed Materials [31142054629384]" type="box">17</container>
+            <container id="aspace_9a7ea1787a8ae131a10d3f09b6eed81c" label="Mixed Materials [31142054629384]" type="box">17</container>
           </did>
         </c>
         <c id="aspace_ref23" level="file">
           <did>
             <unittitle>Legal Files: G-T</unittitle>
             <unitdate normal="1987/2003" type="inclusive">late 1980s-2003</unitdate>
-            <container id="aspace_6eedd976cb3126ded2968b48b733e19c" label="Mixed Materials [31142050299539]" type="box">18</container>
+            <container id="aspace_7de7d646256ac43082a4a2ad30cefaf3" label="Mixed Materials [31142050299539]" type="box">18</container>
           </did>
         </c>
         <c id="aspace_ref24" level="file">
           <did>
             <unittitle>Organizing, Pamphlet B, and Booking Agents</unittitle>
             <unitdate normal="1993/1997" type="inclusive">mid 1990s</unitdate>
-            <container id="aspace_5c7efb749551fc701af96006319c1b29" label="Mixed Materials [31142050299539]" type="box">18</container>
+            <container id="aspace_52e33a395b8345863f970b80338285c6" label="Mixed Materials [31142050299539]" type="box">18</container>
           </did>
         </c>
         <c id="aspace_ref25" level="file">
           <did>
             <unittitle>Pamphlet B, Dick Gabriel, Mark Heter, Christine Maggo, Jim McGall, Advisory Committee, Assistance Program for Casual Musicians, Audio-Visual, Musicians Union of Australia, Canadian Broadcasting, Class A Scales, Western Conference, Convention (1997), Convention (1999), Electronic Press Kit, Escrow Accounts, Expense Reports, Film Negotiations, Health and Wellness, Incidental Music, International Executive Board, Investigation Task Force, Jingle Negotiations, Grievance Handling and Arbitration, Liability Insurance, Motion Picture Joint Cooperative Committee, Non-Standard Pay TV Agreement, Pamphlet F, and Federation Prescription Plan</unittitle>
             <unitdate normal="1970/1999" type="inclusive">1970-1999 (bulk 1990s)</unitdate>
-            <container id="aspace_e61e5ff7670c19e18d1bf55eacee4739" label="Mixed Materials [31142050299521]" type="box">19</container>
+            <container id="aspace_5dba754b418ea2a8a86f3801ec718c07" label="Mixed Materials [31142050299521]" type="box">19</container>
           </did>
         </c>
         <c id="aspace_ref26" level="file">
           <did>
             <unittitle>President's Advisory Committee, Public Relations Task Force -- Hotels, Regionalization Committee, and Non-Union Touring Musical Shows</unittitle>
             <unitdate normal="1990/1999" type="inclusive">1990s</unitdate>
-            <container id="aspace_927dda39f0ed3c858a9b638468b3352a" label="Mixed Materials [31142050299547]" type="box">20</container>
+            <container id="aspace_c0167ebb53fb52e0e7992296e9d5c3ec" label="Mixed Materials [31142050299547]" type="box">20</container>
           </did>
         </c>
         <c id="aspace_ref27" level="file">
           <did>
             <unittitle>Correspondence</unittitle>
             <unitdate normal="1983/1986" type="inclusive">1983-1986</unitdate>
-            <container id="aspace_6d5a3604e8c27b9043357d9ccba6bf40" label="Mixed Materials [31142050299547]" type="box">20</container>
+            <container id="aspace_cca1b8057dd7a5f0ace9c1fcda226c41" label="Mixed Materials [31142050299547]" type="box">20</container>
           </did>
         </c>
         <c id="aspace_ref28" level="file">
           <did>
             <unittitle>International Executive Board Materials (mostly correspondence, some agendas and minutes)</unittitle>
             <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
-            <container id="aspace_12b56d8ebd9018366a6ebdc8ef88f5cd" label="Mixed Materials [31142050299547]" type="box">20</container>
+            <container id="aspace_9d6fbf722c2f8d1c49b6f2ae60f96979" label="Mixed Materials [31142050299547]" type="box">20</container>
           </did>
         </c>
         <c id="aspace_ref29" level="file">
           <did>
             <unittitle>International Executive Board Materials (mostly correspondence, some agendas and minutes)</unittitle>
             <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
-            <container id="aspace_1351ba2d0e3482591be55128a4e9637a" label="Mixed Materials [31142050299554]" type="box">21</container>
+            <container id="aspace_fdff826ae11cb342ced121c82043d383" label="Mixed Materials [31142050299554]" type="box">21</container>
           </did>
         </c>
         <c id="aspace_ref30" level="file">
           <did>
             <unittitle>Correspondence: A-H</unittitle>
             <unitdate normal="1990/1999" type="inclusive">1990s</unitdate>
-            <container id="aspace_4a934c4db1551ebbe3910936e9290425" label="Mixed Materials [31142050299554]" type="box">21</container>
+            <container id="aspace_3c79195136fd9ad8880ac7992c719312" label="Mixed Materials [31142050299554]" type="box">21</container>
           </did>
         </c>
         <c id="aspace_ref31" level="file">
           <did>
             <unittitle>Correspondence: H-N</unittitle>
             <unitdate normal="1990/1999" type="inclusive">1990s</unitdate>
-            <container id="aspace_1c565c59e4cfb3bf0b25c4e7f3156508" label="Mixed Materials [31142050299562]" type="box">22</container>
+            <container id="aspace_b9146d262cfa9580949ef3dfac60721c" label="Mixed Materials [31142050299562]" type="box">22</container>
           </did>
         </c>
         <c id="aspace_ref32" level="file">
           <did>
             <unittitle>Correspondence: N-U</unittitle>
             <unitdate normal="1990/1999" type="inclusive">1990s</unitdate>
-            <container id="aspace_323f93a8f4340ac54ee5c1f932164e02" label="Mixed Materials [31142050279325]" type="box">23</container>
+            <container id="aspace_4062d7440a6f5635fbf75a4b28dd1f5f" label="Mixed Materials [31142050279325]" type="box">23</container>
           </did>
         </c>
         <c id="aspace_ref38" level="file">
           <did>
             <unittitle>Correspondence: V-Z</unittitle>
             <unitdate normal="1990/1999" type="inclusive">1990s</unitdate>
-            <container id="aspace_d7afad272127f35b0ce2fcb1219c67b1" label="Mixed Materials [31142050279333]" type="box">24</container>
+            <container id="aspace_64070b8aee93d41f6be78ec08f9b6d92" label="Mixed Materials [31142050279333]" type="box">24</container>
           </did>
         </c>
         <c id="aspace_ref39" level="file">
           <did>
             <unittitle>Subject Files: A</unittitle>
             <unitdate normal="1980/1999" type="inclusive">1980s-1990s</unitdate>
-            <container id="aspace_b82fe0813a436aa11220486fe5ce34bf" label="Mixed Materials [31142050279333]" type="box">24</container>
+            <container id="aspace_7aae009e70e6ebd79de91ede7c474771" label="Mixed Materials [31142050279333]" type="box">24</container>
           </did>
         </c>
         <c id="aspace_ref40" level="file">
           <did>
             <unittitle>Subject Files: A-C</unittitle>
             <unitdate normal="1980/1999" type="inclusive">1980s-1990s</unitdate>
-            <container id="aspace_44f29da3ab22c49dc6c335040ed0cf4e" label="Mixed Materials [31142050279341]" type="box">25</container>
+            <container id="aspace_448417783b090eb913493258e29f71ad" label="Mixed Materials [31142050279341]" type="box">25</container>
           </did>
         </c>
         <c id="aspace_ref41" level="file">
           <did>
             <unittitle>Subject Files: C-E</unittitle>
             <unitdate normal="1980/1999" type="inclusive">1980s-1990s</unitdate>
-            <container id="aspace_d07c526b5aff0c2c8559eebed78fb44e" label="Mixed Materials [31142050279358]" type="box">26</container>
+            <container id="aspace_8f4891cb5bf33032df5f6e78b93b8d99" label="Mixed Materials [31142050279358]" type="box">26</container>
           </did>
         </c>
         <c id="aspace_ref42" level="file">
           <did>
             <unittitle>Subject Files: E-G</unittitle>
             <unitdate normal="1980/1999" type="inclusive">1980s-1990s</unitdate>
-            <container id="aspace_10acf6eda6e8662b4c748a07713582a2" label="Mixed Materials [31142050279366]" type="box">27</container>
+            <container id="aspace_f3846e0fdac2b4dbf2e3c102e6e4b63c" label="Mixed Materials [31142050279366]" type="box">27</container>
           </did>
         </c>
         <c id="aspace_ref43" level="file">
           <did>
             <unittitle>Public Relations Task Force, American Federation of Musicians and Employers Pension Fund, and Correspondence</unittitle>
             <unitdate normal="1995/1997" type="inclusive">1995-1997</unitdate>
-            <container id="aspace_d411dc8a9098b0b4e685b50f9b1ecb03" label="Mixed Materials [31142050279366]" type="box">27</container>
+            <container id="aspace_9ec68934986a0e1042c7b36ffe762371" label="Mixed Materials [31142050279366]" type="box">27</container>
           </did>
         </c>
         <c id="aspace_ref44" level="file">
           <did>
             <unittitle>American Federation of Musicians and Employers Pension Fund, Public Relations Task Force, Pamphlet B, and AFM Canada Correspondence</unittitle>
             <unitdate normal="1993/1997" type="inclusive">1993-1997</unitdate>
-            <container id="aspace_6e07dddaedfa41cf873bddb6b7769274" label="Mixed Materials [31142050279374]" type="box">28</container>
+            <container id="aspace_830bb99745840cb34022ede4341a1788" label="Mixed Materials [31142050279374]" type="box">28</container>
           </did>
         </c>
         <c id="aspace_ref45" level="file">
           <did>
             <unittitle>Legislative Committee, Phonograph Record Label Agreement, Renovation, Theatre Sick Pay, United States Department of Labor, and Correspondence</unittitle>
             <unitdate normal="1975/1997" type="inclusive">1975-1997 (bulk 1990-1997)</unitdate>
-            <container id="aspace_48f3b4ef324da21a5953e7df3726e78e" label="Mixed Materials [31142054629624]" type="box">29</container>
+            <container id="aspace_0ba31c1ffe7c1fb6b4bc73baebce4106" label="Mixed Materials [31142054629624]" type="box">29</container>
           </did>
         </c>
         <c id="aspace_ref47" level="file">
           <did>
             <unittitle>Recording Department, Recording Musicians Association, New York Pops, Organization of Union Representatives (OUR), Radio City Music Hall, Circuses, and International Executive Board</unittitle>
             <unitdate normal="1980/1996" type="inclusive">1980s-1996</unitdate>
-            <container id="aspace_9e79df74f0b02256f1eb96fbf8fc8ffd" label="Mixed Materials [31142054629616]" type="box">30</container>
+            <container id="aspace_73da5ddb561312093c7833409cf3abc6" label="Mixed Materials [31142054629616]" type="box">30</container>
           </did>
         </c>
         <c id="aspace_ref48" level="file">
           <did>
             <unittitle>Conferences, Conventions, Meetings, International Executive Board, and Lou (Russ) Russo</unittitle>
             <unitdate normal="1986/1989" type="inclusive">1986-1989</unitdate>
-            <container id="aspace_9ac4fdcd96900b24144538bfbd1bf589" label="Mixed Materials [31142054629608]" type="box">31</container>
+            <container id="aspace_84416d30c5479fd660df35854c4335cb" label="Mixed Materials [31142054629608]" type="box">31</container>
           </did>
         </c>
         <c id="aspace_ref49" level="file">
           <did>
             <unittitle>International Executive Board</unittitle>
             <unitdate normal="1987/1989" type="inclusive">late 1980s</unitdate>
-            <container id="aspace_4eb554a3fe1e80ce978e0d8ece91a47b" label="Mixed Materials [31142054629590]" type="box">32</container>
+            <container id="aspace_501599a51a054763231995fb5bdaf779" label="Mixed Materials [31142054629590]" type="box">32</container>
           </did>
         </c>
         <c id="aspace_ref50" level="file">
           <did>
             <unittitle>Subject Files: N-S</unittitle>
             <unitdate normal="1987/1997" type="inclusive">late 1980s-mid 1990s</unitdate>
-            <container id="aspace_94a0f31154fb06bebf4057b417fd0953" label="Mixed Materials [31142054629590]" type="box">32</container>
+            <container id="aspace_06f0ddfc2fc4d62d763e41790c49bcd3" label="Mixed Materials [31142054629590]" type="box">32</container>
           </did>
         </c>
         <c id="aspace_ref51" level="file">
           <did>
             <unittitle>Subject Files: S-Z</unittitle>
             <unitdate normal="1987/1997" type="inclusive">late 1980s-mid 1990s</unitdate>
-            <container id="aspace_f7560a140fcc9a3b2f6963f754ec3fe5" label="Mixed Materials [31142054629582]" type="box">33</container>
+            <container id="aspace_c009169126595fd01f1613031f8b40b9" label="Mixed Materials [31142054629582]" type="box">33</container>
           </did>
         </c>
         <c id="aspace_ref52" level="file">
           <did>
             <unittitle>National Labor Relations Board and Credit Union</unittitle>
             <unitdate normal="1967/1986" type="inclusive">1967-1986</unitdate>
-            <container id="aspace_47e0e7e49bcfbcf8ec0aca32355c5bc4" label="Mixed Materials [31142054629582]" type="box">33</container>
+            <container id="aspace_896ecfb4c90b34a335b5d8aaac5ebbb2" label="Mixed Materials [31142054629582]" type="box">33</container>
           </did>
         </c>
         <c id="aspace_ref53" level="file">
           <did>
             <unittitle>Subject Files: A-B</unittitle>
             <unitdate normal="1983/1997" type="inclusive">mid 1980s-mid 1990s</unitdate>
-            <container id="aspace_48b43b6738f3db94fb4fff49ff9b001d" label="Mixed Materials [31142054629582]" type="box">33</container>
+            <container id="aspace_43a35096ab6143b4ed1a09d12df96eac" label="Mixed Materials [31142054629582]" type="box">33</container>
           </did>
         </c>
         <c id="aspace_ref54" level="file">
           <did>
             <unittitle>Subject Files: Building Committee, Legislation, Kingsborough Community College, Local 153, Music Performance Trust Funds (MPTF), and Other Material</unittitle>
             <unitdate normal="1990/1999" type="inclusive">1990s</unitdate>
-            <container id="aspace_e84748294d87d27fc683fe1333b6b4f0" label="Mixed Materials [31142054629574]" type="box">34</container>
+            <container id="aspace_f48448533ffe390e61a0459156cd5343" label="Mixed Materials [31142054629574]" type="box">34</container>
           </did>
         </c>
         <c id="aspace_ref55" level="file">
           <did>
             <unittitle>Cabaret Law, L. 802 Arbitration with League of American Theatres and Producers, Credit Union, Light Opera of Manhattan (LOOM), and Individuals Files</unittitle>
             <unitdate normal="1980/1999" type="inclusive">1980s-1990s</unitdate>
-            <container id="aspace_e82a8fcdef60da6c59d2a9fb6c155c1b" label="Mixed Materials [31142054629566]" type="box">35</container>
+            <container id="aspace_d1bdebb596e6583d9f7e05083cee1b0e" label="Mixed Materials [31142054629566]" type="box">35</container>
           </did>
         </c>
         <c id="aspace_ref56" level="file">
           <did>
             <unittitle>Subject Files: G-H</unittitle>
             <unitdate normal="1983/1993" type="inclusive">mid 1980s-early 1990s</unitdate>
-            <container id="aspace_146b632731c7cb1567ae1bf7bab63b17" label="Mixed Materials [31142054629566]" type="box">35</container>
+            <container id="aspace_f7462e059e41497072d6ee5a93d275cb" label="Mixed Materials [31142054629566]" type="box">35</container>
           </did>
         </c>
         <c id="aspace_ref57" level="file">
           <did>
             <unittitle>Subject Files: H-J, M-R</unittitle>
             <unitdate normal="1980/1997" type="inclusive">early 1980s-mid 1990s</unitdate>
-            <container id="aspace_7ed62717e239f391bb970883b4fa2503" label="Mixed Materials [31142054629558]" type="box">36</container>
+            <container id="aspace_38f968907115fb9a619f9bee54766197" label="Mixed Materials [31142054629558]" type="box">36</container>
           </did>
         </c>
         <c id="aspace_ref58" level="file">
           <did>
             <unittitle>Recording Department and Welfare Fund</unittitle>
             <unitdate normal="1983/1993" type="inclusive">1983, 1993</unitdate>
-            <container id="aspace_86aa9d1d951de0707cc10feaf23f2cba" label="Mixed Materials [31142054629541]" type="box">37</container>
+            <container id="aspace_dd21e1d9741f51a1acba7b57bb2246a8" label="Mixed Materials [31142054629541]" type="box">37</container>
           </did>
         </c>
         <c id="aspace_ref59" level="file">
           <did>
             <unittitle>Subject Files: L-N</unittitle>
             <unitdate normal="1973/1989" type="inclusive">mid 1970s-late 1980s</unitdate>
-            <container id="aspace_d3ed442b9b59e18a915ae0398d155b6c" label="Mixed Materials [31142054629541]" type="box">37</container>
+            <container id="aspace_8ecf4117b5175397f413863d2b45fe27" label="Mixed Materials [31142054629541]" type="box">37</container>
           </did>
         </c>
         <c id="aspace_ref60" level="file">
           <did>
             <unittitle>Subject Files: N-R</unittitle>
             <unitdate normal="1973/1989" type="inclusive">mid 1970s-late 1980s</unitdate>
-            <container id="aspace_a915adb5b9ba5ad48fd9007ef62579e8" label="Mixed Materials [31142054629533]" type="box">38</container>
+            <container id="aspace_6c300a6c73936758517bd892edd31741" label="Mixed Materials [31142054629533]" type="box">38</container>
           </did>
         </c>
         <c id="aspace_ref61" level="file">
           <did>
             <unittitle>Subject Files: R-S</unittitle>
             <unitdate normal="1973/1989" type="inclusive">mid 1970s-late 1980s</unitdate>
-            <container id="aspace_ee72cf40a9c625bfe96769a1ba01e2aa" label="Mixed Materials [31142054629525]" type="box">39</container>
+            <container id="aspace_56862c1a667587aa28f3b5878bd9cb23" label="Mixed Materials [31142054629525]" type="box">39</container>
           </did>
         </c>
         <c id="aspace_ref62" level="file">
           <did>
             <unittitle>Anne Walker Files: Radio City Music Hall, G. Harrell, and Music Copyists</unittitle>
             <unitdate normal="1990/1997" type="inclusive">early 1990s-mid 1990s</unitdate>
-            <container id="aspace_38d5d43d6d6fdb6454ae7e76112216c5" label="Mixed Materials [31142054629525]" type="box">39</container>
+            <container id="aspace_a6297da2f6e3e0c9ffa8d1494d7874e2" label="Mixed Materials [31142054629525]" type="box">39</container>
           </did>
         </c>
         <c id="aspace_ref63" level="file">
           <did>
             <unittitle>Anne Walker Files: Grand Hotel</unittitle>
             <unitdate normal="1990/1997" type="inclusive">early 1990s-mid 1990s</unitdate>
-            <container id="aspace_3c5987d917b70bf65708957f12fa980c" label="Mixed Materials [31142054630069]" type="box">40</container>
+            <container id="aspace_c90a5580928179e4519ca1a754acff99" label="Mixed Materials [31142054630069]" type="box">40</container>
           </did>
         </c>
       </c>
@@ -1140,210 +1151,210 @@
           <did>
             <unittitle>Correspondence: A-C</unittitle>
             <unitdate normal="1983/1989" type="inclusive">mid 1980s-late 1980s</unitdate>
-            <container id="aspace_138531cc9fe90ef7ab4b57eb563f36e0" label="Mixed Materials [31142054630069]" type="box">40</container>
+            <container id="aspace_ee70a5a8806ebd4f6f2f27a5a29c187e" label="Mixed Materials [31142054630069]" type="box">40</container>
           </did>
         </c>
         <c id="aspace_ref66" level="file">
           <did>
             <unittitle>Correspondence: C-F (mostly contracts)</unittitle>
             <unitdate normal="1983/1989" type="inclusive">mid 1980s-late 1980s</unitdate>
-            <container id="aspace_ba15d54b64e60243cd13af9caa9042f1" label="Mixed Materials [31142054630051]" type="box">41</container>
+            <container id="aspace_b4d96b13ab000e68a165f050622d144a" label="Mixed Materials [31142054630051]" type="box">41</container>
           </did>
         </c>
         <c id="aspace_ref67" level="file">
           <did>
             <unittitle>Correspondence: F-T</unittitle>
             <unitdate normal="1983/1989" type="inclusive">mid 1980s-late 1980s</unitdate>
-            <container id="aspace_363f0c9734844a43b22c8f8bd1082bbb" label="Mixed Materials [31142054630044]" type="box">42</container>
+            <container id="aspace_17358d2fd3a7c7dbd12ff6f77557438d" label="Mixed Materials [31142054630044]" type="box">42</container>
           </did>
         </c>
         <c id="aspace_ref68" level="file">
           <did>
             <unittitle>Correspondence: X-Z</unittitle>
             <unitdate normal="1983/1989" type="inclusive">mid 1980s-late 1980s</unitdate>
-            <container id="aspace_9885e3033f126e5c2c617388cbfb989a" label="Mixed Materials [31142054629459]" type="box">43</container>
+            <container id="aspace_7137d9fd6c1cd5e4c383dbaec8fca090" label="Mixed Materials [31142054629459]" type="box">43</container>
           </did>
         </c>
         <c id="aspace_ref69" level="file">
           <did>
             <unittitle>Subject Files: A-C</unittitle>
             <unitdate normal="1983/1993" type="inclusive">mid 1980s-early 1990s</unitdate>
-            <container id="aspace_e9afa72a0993eb89e21f618528c84181" label="Mixed Materials [31142054629459]" type="box">43</container>
+            <container id="aspace_b0640e7b31c676533962b8a668bbe368" label="Mixed Materials [31142054629459]" type="box">43</container>
           </did>
         </c>
         <c id="aspace_ref70" level="file">
           <did>
             <unittitle>Subject Files: C-I</unittitle>
             <unitdate normal="1983/1993" type="inclusive">mid 1980s-early 1990s</unitdate>
-            <container id="aspace_e09fd82cec70d03bc9987a37e0ffffa0" label="Mixed Materials [31142054629467]" type="box">44</container>
+            <container id="aspace_00766372183a91da6307f8c13daac3a4" label="Mixed Materials [31142054629467]" type="box">44</container>
           </did>
         </c>
         <c id="aspace_ref71" level="file">
           <did>
             <unittitle>Subject Files: I-N</unittitle>
             <unitdate normal="1983/1993" type="inclusive">mid 1980s-early 1990s</unitdate>
-            <container id="aspace_d45af790f504e2b32b5a6f13c3155f6c" label="Mixed Materials [31142054629475]" type="box">45</container>
+            <container id="aspace_a4a971fa03189fc18c1d6840b9b3d023" label="Mixed Materials [31142054629475]" type="box">45</container>
           </did>
         </c>
         <c id="aspace_ref72" level="file">
           <did>
             <unittitle>Subject Files: N-S</unittitle>
             <unitdate normal="1983/1993" type="inclusive">mid 1980s-early 1990s</unitdate>
-            <container id="aspace_4c3262d8a9e9b144e70077e7edf56a21" label="Mixed Materials [31142054629483]" type="box">46</container>
+            <container id="aspace_bd58a190f9a9961aaf57440442d13828" label="Mixed Materials [31142054629483]" type="box">46</container>
           </did>
         </c>
         <c id="aspace_ref73" level="file">
           <did>
             <unittitle>Subject Files: S-Z</unittitle>
             <unitdate normal="1983/1993" type="inclusive">mid 1980s-early 1990s</unitdate>
-            <container id="aspace_dfe53622410bbf8a9d4b221e4b9b2741" label="Mixed Materials [31142054629491]" type="box">47</container>
+            <container id="aspace_6dff33f8b7a4209160864eaa3e9b33ff" label="Mixed Materials [31142054629491]" type="box">47</container>
           </did>
         </c>
         <c id="aspace_ref74" level="file">
           <did>
             <unittitle>Subject Files: E-I</unittitle>
             <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
-            <container id="aspace_ea3205d435d5a026570114cffd275be8" label="Mixed Materials [31142054629491]" type="box">47</container>
+            <container id="aspace_122f9ef700afd4f4344d597fe0cb7a65" label="Mixed Materials [31142054629491]" type="box">47</container>
           </did>
         </c>
         <c id="aspace_ref75" level="file">
           <did>
             <unittitle>Subject Files: J-Z</unittitle>
             <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
-            <container id="aspace_290e36c2162e04e7d935cda1d2212b09" label="Mixed Materials [31142054629509]" type="box">48</container>
+            <container id="aspace_85d56ece506f2f5151af3eefb3114b7f" label="Mixed Materials [31142054629509]" type="box">48</container>
           </did>
         </c>
         <c id="aspace_ref76" level="file">
           <did>
             <unittitle>Litigation File: B-N</unittitle>
             <unitdate normal="1983/1997" type="inclusive">mid 1980s-mid 1990s</unitdate>
-            <container id="aspace_1e18d2cf62eb2731dae31cefbd182fdd" label="Mixed Materials [31142054629517]" type="box">49</container>
+            <container id="aspace_6acdb3dd557fd55dc44116c08ee8ac9e" label="Mixed Materials [31142054629517]" type="box">49</container>
           </did>
         </c>
         <c id="aspace_ref77" level="file">
           <did>
             <unittitle>Litigation File: S-W</unittitle>
             <unitdate normal="1983/1997" type="inclusive">mid 1980s-mid 1990s</unitdate>
-            <container id="aspace_17d300840fc5df1028740c5abe1fe335" label="Mixed Materials [31142054629632]" type="box">50</container>
+            <container id="aspace_b9223fa287a82c01e30553cf62e321da" label="Mixed Materials [31142054629632]" type="box">50</container>
           </did>
         </c>
         <c id="aspace_ref78" level="file">
           <did>
             <unittitle>Membership Correspondence: A-Z</unittitle>
             <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
-            <container id="aspace_b976319c19aa0800549cfb3279ba4671" label="Mixed Materials [31142054629632]" type="box">50</container>
+            <container id="aspace_3a26c3eeb47142ad9783bb2c7650ba1c" label="Mixed Materials [31142054629632]" type="box">50</container>
           </did>
         </c>
         <c id="aspace_ref79" level="file">
           <did>
             <unittitle>Membership Correspondence: A-H</unittitle>
             <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
-            <container id="aspace_bdfb9ca59666098b60b019f3e76156fa" label="Mixed Materials [31142054629632]" type="box">50</container>
+            <container id="aspace_d7cb618e5291ae6c340cd38ac0b81331" label="Mixed Materials [31142054629632]" type="box">50</container>
           </did>
         </c>
         <c id="aspace_ref80" level="file">
           <did>
             <unittitle>Membership Correspondence: I-Z</unittitle>
             <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
-            <container id="aspace_f302da98f638e3b39e7fba5883627b22" label="Mixed Materials [31142054629640]" type="box">51</container>
+            <container id="aspace_13ecae040ffa66d5c85742061b962647" label="Mixed Materials [31142054629640]" type="box">51</container>
           </did>
         </c>
         <c id="aspace_ref81" level="file">
           <did>
             <unittitle>Collective Bargaining Agreements: A-J</unittitle>
             <unitdate normal="1973/1997" type="inclusive">1973-mid 1990s</unitdate>
-            <container id="aspace_ab7e32506c6d47f401b7de31351476e1" label="Mixed Materials [31142054629640]" type="box">51</container>
+            <container id="aspace_7ec6ebeb1f10e17a8081879eb9767f41" label="Mixed Materials [31142054629640]" type="box">51</container>
           </did>
         </c>
         <c id="aspace_ref82" level="file">
           <did>
             <unittitle>Collective Bargaining Agreements: J-T</unittitle>
             <unitdate normal="1980/1999" type="inclusive">early 1980s-late 1990s</unitdate>
-            <container id="aspace_66dc2dbfcdec20a333bd81f654e5bb56" label="Mixed Materials [31142054629657]" type="box">52</container>
+            <container id="aspace_9bcfbc2d2a68384fd84d98689df11c84" label="Mixed Materials [31142054629657]" type="box">52</container>
           </did>
         </c>
         <c id="aspace_ref83" level="file">
           <did>
             <unittitle>Contracts and Executive Board Correspondence</unittitle>
             <unitdate normal="1960/1989" type="inclusive">1960s-1980s</unitdate>
-            <container id="aspace_4537a01f845799be7386d5e877d5d5e4" label="Mixed Materials [31142054629665]" type="box">53</container>
+            <container id="aspace_be04d0589093473b3311a54809ed4c24" label="Mixed Materials [31142054629665]" type="box">53</container>
           </did>
         </c>
         <c id="aspace_ref84" level="file">
           <did>
             <unittitle>Contracts</unittitle>
             <unitdate normal="1960/1989" type="inclusive">1960s-1980s</unitdate>
-            <container id="aspace_a4833467c0c45e0c5cc861b3463d7014" label="Mixed Materials [31142054629673]" type="box">54</container>
+            <container id="aspace_97b3a107903c99420db407f70814a168" label="Mixed Materials [31142054629673]" type="box">54</container>
           </did>
         </c>
         <c id="aspace_ref85" level="file">
           <did>
             <unittitle>Booking Agents and Lester Petrillo Memorial Fund for Disabled Musicians</unittitle>
             <unitdate normal="1983/1993" type="inclusive">mid 1980s-early 1990s</unitdate>
-            <container id="aspace_e6d0970abf278f7d756ac45f38592985" label="Mixed Materials [31142054629681]" type="box">55</container>
+            <container id="aspace_a72240275d6745136426ae606563a071" label="Mixed Materials [31142054629681]" type="box">55</container>
           </did>
         </c>
         <c id="aspace_ref86" level="file">
           <did>
             <unittitle>Correspondence: A-C</unittitle>
             <unitdate normal="1983/1991" type="inclusive">mid 1980s-1991</unitdate>
-            <container id="aspace_eb455a5168f2dfd4820f38701f93e224" label="Mixed Materials [31142054629681]" type="box">55</container>
+            <container id="aspace_6a91718e951ff23f9da6a886791ef6b8" label="Mixed Materials [31142054629681]" type="box">55</container>
           </did>
         </c>
         <c id="aspace_ref87" level="file">
           <did>
             <unittitle>Correspondence: C-H (mostly contracts)</unittitle>
             <unitdate normal="1983/1991" type="inclusive">mid 1980s-1991</unitdate>
-            <container id="aspace_ef8c859f46b025ca4a3443af2f89280b" label="Mixed Materials [31142054629699]" type="box">56</container>
+            <container id="aspace_e88c8a66c96fb5482a9e05d387ee550f" label="Mixed Materials [31142054629699]" type="box">56</container>
           </did>
         </c>
         <c id="aspace_ref88" level="file">
           <did>
             <unittitle>Correspondence: I-Z</unittitle>
             <unitdate normal="1983/1991" type="inclusive">mid 1980s-1991</unitdate>
-            <container id="aspace_44288e2bdbf1c539059f814fdbe74339" label="Mixed Materials [31142054629707]" type="box">57</container>
+            <container id="aspace_c387cd68650fa20588866132f1bc75e7" label="Mixed Materials [31142054629707]" type="box">57</container>
           </did>
         </c>
         <c id="aspace_ref89" level="file">
           <did>
             <unittitle>Correspondence: M-V</unittitle>
             <unitdate normal="1993/2003" type="inclusive">mid 1990s-early 2000s</unitdate>
-            <container id="aspace_67dba31aa16bca4b08460f5f21d6d14f" label="Mixed Materials [31142054629707]" type="box">57</container>
+            <container id="aspace_44637893e8939504f72f761807fd836a" label="Mixed Materials [31142054629707]" type="box">57</container>
           </did>
         </c>
         <c id="aspace_ref90" level="file">
           <did>
             <unittitle>Correspondence: W-Z</unittitle>
             <unitdate normal="1993/2003" type="inclusive">mid 1990s-early 2000s</unitdate>
-            <container id="aspace_f478f23818bf6d1964fd9584f33585c9" label="Mixed Materials [31142054629715]" type="box">58</container>
+            <container id="aspace_4c534d48d1053ab791229a3e8d9bf2a3" label="Mixed Materials [31142054629715]" type="box">58</container>
           </did>
         </c>
         <c id="aspace_ref91" level="file">
           <did>
             <unittitle>Correspondence: A-C (mostly contracts)</unittitle>
             <unitdate normal="1980/1990" type="inclusive">early 1980s-1990</unitdate>
-            <container id="aspace_9b17183eceb7ea7096b786ef65cef719" label="Mixed Materials [31142054629715]" type="box">58</container>
+            <container id="aspace_69692e8a8bcf0aea2b180cee8b0c2e10" label="Mixed Materials [31142054629715]" type="box">58</container>
           </did>
         </c>
         <c id="aspace_ref92" level="file">
           <did>
             <unittitle>Correspondence: C (mostly contracts)</unittitle>
             <unitdate normal="1980/1990" type="inclusive">early 1980s-1990</unitdate>
-            <container id="aspace_13981f7206fa352c2d2d34048e1fc4b3" label="Mixed Materials [31142054629723]" type="box">59</container>
+            <container id="aspace_981781ce8f8db8230e8a058e61f732f7" label="Mixed Materials [31142054629723]" type="box">59</container>
           </did>
         </c>
         <c id="aspace_ref93" level="file">
           <did>
             <unittitle>Correspondence: C-F (mostly contracts)</unittitle>
             <unitdate normal="1983/1988" type="inclusive">mid 1980s-1988 (bulk 1988)</unitdate>
-            <container id="aspace_bc60adc03a769b4f64418cdc9e598b28" label="Mixed Materials [31142054629723]" type="box">59</container>
+            <container id="aspace_41b30432beeb25e0336522ddab95bf04" label="Mixed Materials [31142054629723]" type="box">59</container>
           </did>
         </c>
         <c id="aspace_ref94" level="file">
           <did>
             <unittitle>Correspondence: G-Z</unittitle>
             <unitdate normal="1983/1988" type="inclusive">mid 1980s-1988 (bulk 1988)</unitdate>
-            <container id="aspace_3098bf6911ff3bbcfb83f53b83819e7e" label="Mixed Materials [31142054630077]" type="box">60</container>
+            <container id="aspace_e81cac5329ce31daaf6d30227d3829db" label="Mixed Materials [31142054630077]" type="box">60</container>
           </did>
         </c>
       </c>
@@ -1360,49 +1371,49 @@
           <did>
             <unittitle>Contract Negotiations: Brooklyn Academy of Music, Brooklyn Opera Society, and Brooklyn Philharmonic</unittitle>
             <unitdate normal="1970/1989" type="inclusive">1970s-1980s</unitdate>
-            <container id="aspace_f22dcfc866f6ecfcfbc29c35dca69757" label="Mixed Materials [31142054630077]" type="box">60</container>
+            <container id="aspace_55b4e3038907f0977b3d174477162384" label="Mixed Materials [31142054630077]" type="box">60</container>
           </did>
         </c>
         <c id="aspace_ref96" level="file">
           <did>
             <unittitle>Contract Negotiations: New York City Opera, Joffrey Ballet, and Radio City Music Hall</unittitle>
             <unitdate normal="1970/1989" type="inclusive">1970s-1980s</unitdate>
-            <container id="aspace_5b54cdabc3dbe4216bfa6d08aeea701a" label="Mixed Materials [31142054630085]" type="box">61</container>
+            <container id="aspace_9a0b1378943efffbb34a5ce39dae32b9" label="Mixed Materials [31142054630085]" type="box">61</container>
           </did>
         </c>
         <c id="aspace_ref97" level="file">
           <did>
             <unittitle>Contract Negotiations: Long Island Symphony Orchestra, Metropolitan Opera, and New York City Ballet</unittitle>
             <unitdate normal="1970/1989" type="inclusive">1970s-1980s</unitdate>
-            <container id="aspace_40ab8291db8d7c5b6dd4fc6464b37dad" label="Mixed Materials [31142054630093]" type="box">62</container>
+            <container id="aspace_a8477b3760e2b79bf2b52a4a9dc5373b" label="Mixed Materials [31142054630093]" type="box">62</container>
           </did>
         </c>
         <c id="aspace_ref98" level="file">
           <did>
             <unittitle>Contract Negotiations: New York City Ballet, New York City Opera, and New York Philharmonic</unittitle>
             <unitdate normal="1970/1989" type="inclusive">1970s-1980s</unitdate>
-            <container id="aspace_706babb3b2a943a329da470d4030823d" label="Mixed Materials [31142054630101]" type="box">63</container>
+            <container id="aspace_7a57d47f6a46b936cd48535f7268c666" label="Mixed Materials [31142054630101]" type="box">63</container>
           </did>
         </c>
         <c id="aspace_ref99" level="file">
           <did>
             <unittitle>Contract Negotiations: New York Philharmonic and Westbury Music Fair</unittitle>
             <unitdate normal="1940/1989" type="inclusive">1940s-1980s</unitdate>
-            <container id="aspace_8d21c85e079b3994ef2bc2ddb48981af" label="Mixed Materials [31142054630119]" type="box">64</container>
+            <container id="aspace_b3ab7c522ac854efc05f348f8d9bb2e5" label="Mixed Materials [31142054630119]" type="box">64</container>
           </did>
         </c>
         <c id="aspace_ref100" level="file">
           <did>
             <unittitle>Contract Negotiations: New York City Ballet, Metropolitan Opera, New York Philharmonic, and New York City Opera</unittitle>
             <unitdate normal="1990/1999" type="inclusive">1990s</unitdate>
-            <container id="aspace_7beb629af2488b1c9a8790808f509738" label="Mixed Materials [31142054630036]" type="box">65</container>
+            <container id="aspace_797fa5c1bf20cdc357c3aafe27ae58d3" label="Mixed Materials [31142054630036]" type="box">65</container>
           </did>
         </c>
         <c id="aspace_ref101" level="file">
           <did>
             <unittitle>Contract Negotiations: New York City Ballet, Long Island Symphony, and City Center of Music and Drama</unittitle>
             <unitdate normal="1950/1989" type="inclusive">1950s-1980s</unitdate>
-            <container id="aspace_64182935a844e23a7a46932e2f8f53ec" label="Mixed Materials [31142054630028]" type="box">66</container>
+            <container id="aspace_f190aad4bd3d13083c96f67e629043c9" label="Mixed Materials [31142054630028]" type="box">66</container>
           </did>
         </c>
       </c>
@@ -1419,212 +1430,212 @@
           <did>
             <unittitle>Collective Bargaining Agreements: Steady Engagement Hotel Users of Music</unittitle>
             <unitdate normal="1970/1989" type="inclusive">1970s-1980s</unitdate>
-            <container id="aspace_e1e3b1189d79fd8ac0fc2f1a34fb225d" label="Mixed Materials [31142054630127]" type="box">67</container>
+            <container id="aspace_d9246bfab450d8da3a1878f79acab922" label="Mixed Materials [31142054630127]" type="box">67</container>
           </did>
         </c>
         <c id="aspace_ref103" level="file">
           <did>
             <unittitle>Collective Bargaining Agreements: Westbury Music Fair; Legal Files (mostly National Labor Relations Board and New York State Labor Relations Board)</unittitle>
             <unitdate normal="1960/1989" type="inclusive">1960s-1980s</unitdate>
-            <container id="aspace_58856515587ab510fb9d646ebe68fab9" label="Mixed Materials [31142054630135]" type="box">68</container>
+            <container id="aspace_2e9fec69c9449a0ff5718a5dcee4fc88" label="Mixed Materials [31142054630135]" type="box">68</container>
           </did>
         </c>
         <c id="aspace_ref104" level="file">
           <did>
             <unittitle>Legal Files (mostly National Labor Relations Board and New York State Labor Relations Board); Theatre Committee Files; and Symphony Orchestra Background Files</unittitle>
             <unitdate normal="1960/1993" type="inclusive">1960s-early 1990s</unitdate>
-            <container id="aspace_fadfac28325a6a815250b3a30a52d34c" label="Mixed Materials [31142054630143]" type="box">69</container>
+            <container id="aspace_c240845f08dcc2d9707aaa6369196667" label="Mixed Materials [31142054630143]" type="box">69</container>
           </did>
         </c>
         <c id="aspace_ref105" level="file">
           <did>
             <unittitle>Symphony Orchestra Background Files, Restructuring and Strategic Planning, Arbitration and Legal Files relating to Livent (Toronto), and List of Recording Contracts [?]</unittitle>
             <unitdate normal="1990/1997" type="inclusive">early 1990s-mid 1990s</unitdate>
-            <container id="aspace_5791b135425d20026928069aa658bd46" label="Mixed Materials [31142054630150]" type="box">70</container>
+            <container id="aspace_0ecaccb974f2076a683a041e33f3b015" label="Mixed Materials [31142054630150]" type="box">70</container>
           </did>
         </c>
         <c id="aspace_ref106" level="file">
           <did>
             <unittitle>National Labor Relations Board Cases and Television and Videotape Negotiations</unittitle>
             <unitdate normal="1970/1989" type="inclusive">1970s-1980s</unitdate>
-            <container id="aspace_c8aaca21b230918dd226a06f42fc0597" label="Mixed Materials [31142054630168]" type="box">71</container>
+            <container id="aspace_c147a7bc26dbd181684d46fcfc1b75e1" label="Mixed Materials [31142054630168]" type="box">71</container>
           </did>
         </c>
         <c id="aspace_ref107" level="file">
           <did>
             <unittitle>Bylaws (1981-2000), Steven Scott Enterprises, Recording Musicians Association (RMA) Files relating to the Low Budget Phonograph Agreement, and New York City Ballet</unittitle>
             <unitdate normal="1981/2000" type="inclusive">1981-2000</unitdate>
-            <container id="aspace_effdaecfb238331e970ff5f0854cb307" label="Mixed Materials [31142054630176]" type="box">72</container>
+            <container id="aspace_78ee2209467d4c50441504cd5ccbeb36" label="Mixed Materials [31142054630176]" type="box">72</container>
           </did>
         </c>
         <c id="aspace_ref108" level="file">
           <did>
             <unittitle>Reel-to-reel Audiotapes of Meetings [?]</unittitle>
             <unitdate normal="1940/1970" type="inclusive">circa 1950s</unitdate>
-            <container id="aspace_c95d68826fadb11c1237a273c200b0cf" label="Mixed Materials [31142054630176]" type="box">72</container>
+            <container id="aspace_78f4f3e8fd1a38ed89aad4b88ab83cdb" label="Mixed Materials [31142054630176]" type="box">72</container>
           </did>
         </c>
         <c id="aspace_ref110" level="file">
           <did>
             <unittitle>National Labor Relations Board Cases and MEMBERS Party Files</unittitle>
             <unitdate normal="1970/1993" type="inclusive">1970s-early 1990s</unitdate>
-            <container id="aspace_34d8b08f06411ab7c553e60410daed7f" label="Mixed Materials [31142054630184]" type="box">73</container>
+            <container id="aspace_a9fcfdec2bda32a9d782ee5ed0810b46" label="Mixed Materials [31142054630184]" type="box">73</container>
           </did>
         </c>
         <c id="aspace_ref111" level="file">
           <did>
             <unittitle>MEMBERS Party Files and Vice-President Mary Landolfi's Files (mostly on orchestras)</unittitle>
             <unitdate normal="1980/2003" type="inclusive">early 1980s-early 2000s</unitdate>
-            <container id="aspace_31c57ea7c8a2524d2178f083367d6242" label="Mixed Materials [31142054630192]" type="box">74</container>
+            <container id="aspace_0e579a015e0ccf5b7dae090fc31e783a" label="Mixed Materials [31142054630192]" type="box">74</container>
           </did>
         </c>
         <c id="aspace_ref112" level="file">
           <did>
             <unittitle>Vice-President Mary Landolfi's Files (mostly on orchestras)</unittitle>
             <unitdate normal="1990/2003" type="inclusive">early 1990s-early 2000s</unitdate>
-            <container id="aspace_6f82270e39eab6a3648891befc201914" label="Mixed Materials [31142054630200]" type="box">75</container>
+            <container id="aspace_27c1c48e87e523b2b02c5e4a723b43f6" label="Mixed Materials [31142054630200]" type="box">75</container>
           </did>
         </c>
         <c id="aspace_ref113" level="file">
           <did>
             <unittitle>Vice-President Mary Landolfi's Files (mostly on orchestras) and Files on Contracts and Agreements from Unknown Office</unittitle>
             <unitdate normal="1990/2003" type="inclusive">early 1990s-early 2000s</unitdate>
-            <container id="aspace_517c91525a08d7ffea3fb3ad889cf362" label="Mixed Materials [31142054630218]" type="box">76</container>
+            <container id="aspace_7639d3b072e8c76216cdd3e28cc22b00" label="Mixed Materials [31142054630218]" type="box">76</container>
           </did>
         </c>
         <c id="aspace_ref177" level="file">
           <did>
             <unittitle>China United Restaurant Contract, McGraw-Hill Office, and Gellman and Rosoff Cases</unittitle>
             <unitdate normal="1969/1993" type="inclusive">1969-early 1990s</unitdate>
-            <container id="aspace_a7184f1aedf20fc5377d6e0af2d9e6fb" label="Mixed Materials [31142054630317]" type="box">114</container>
+            <container id="aspace_b1323d1c678f3042d2ff6d580b6380e2" label="Mixed Materials [31142054630317]" type="box">114</container>
           </did>
         </c>
         <c id="aspace_ref178" level="file">
           <did>
             <unittitle>Senior Musicians Association (includes photographs)</unittitle>
             <unitdate normal="1970/1999" type="inclusive">1970s-1990s</unitdate>
-            <container id="aspace_7e9fae00de8be8d276646891609893d6" label="Mixed Materials [31142054630309]" type="box">115</container>
+            <container id="aspace_e3b16e2e3ca94c257d4a56dca22a18a8" label="Mixed Materials [31142054630309]" type="box">115</container>
           </did>
         </c>
         <c id="aspace_ref189" level="file">
           <did>
             <unittitle>Miscellaneous Correspondence</unittitle>
             <unitdate normal="1932/1941" type="inclusive">1932-1941</unitdate>
-            <container id="aspace_dde0ab4112a6099ea153e91a64d5cc6e" label="Mixed Materials [31142054630325]" type="box">119</container>
+            <container id="aspace_8e1d331aee08415298e15d8cab875871" label="Mixed Materials [31142054630325]" type="box">119</container>
           </did>
         </c>
         <c id="aspace_ref190" level="file">
           <did>
             <unittitle>New York Philharmonic File</unittitle>
             <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
-            <container id="aspace_b6ee98a21b309dd1e74d3f20030be2f3" label="Mixed Materials [31142054630325]" type="box">119</container>
+            <container id="aspace_c150b85ce8d82ec27a0b32d3921ae297" label="Mixed Materials [31142054630325]" type="box">119</container>
           </did>
         </c>
         <c id="aspace_ref184" level="file">
           <did>
             <unittitle>Local 802 Directories</unittitle>
             <unitdate normal="1922/1950" type="inclusive">1922-1950</unitdate>
-            <container id="aspace_e3a530147ad8557f5469e017316af910" label="Mixed Materials [31142054629731]" type="box">118</container>
+            <container id="aspace_729235d59df31a67655b0e2c018e8998" label="Mixed Materials [31142054629731]" type="box">118</container>
           </did>
         </c>
         <c id="aspace_ref337" level="file">
           <did>
             <unittitle>Local 802 Directories</unittitle>
             <unitdate normal="1951/2008" type="inclusive">1951-2008</unitdate>
-            <container id="aspace_a4a6fbe4312e6865b5111add540f5c0e" label="Mixed Materials [31142054630358]" type="box">128</container>
+            <container id="aspace_d040254288d820f245e3426213dd1df1" label="Mixed Materials [31142054630358]" type="box">128</container>
           </did>
         </c>
         <c id="aspace_ref338" level="file">
           <did>
             <unittitle>Lists of American Federation of Musicians Locals</unittitle>
             <unitdate normal="1993/2010" type="inclusive">1993-2010</unitdate>
-            <container id="aspace_84a33f686d9e3e2489950b353e82acf0" label="Mixed Materials [31142054630358]" type="box">128</container>
+            <container id="aspace_58e46209a4ff11fae235fbe501c5554a" label="Mixed Materials [31142054630358]" type="box">128</container>
           </did>
         </c>
         <c id="aspace_ref339" level="file">
           <did>
             <unittitle>American Federation of Musicians Constitutions and Bylaws</unittitle>
             <unitdate normal="1926/2005" type="inclusive">1926-2005</unitdate>
-            <container id="aspace_a3159ff79cad21387ccfd323ee1a34b0" label="Mixed Materials [31142054630358]" type="box">128</container>
+            <container id="aspace_70239e08cccd9a0c059f41d4b0323e05" label="Mixed Materials [31142054630358]" type="box">128</container>
           </did>
         </c>
         <c id="aspace_ref340" level="file">
           <did>
             <unittitle>Local 802 Constitutions and Bylaws</unittitle>
             <unitdate normal="1921/1955" type="inclusive">1921-1955</unitdate>
-            <container id="aspace_3328a07caeca4e4646b753708f8e5b27" label="Mixed Materials [31142054630358]" type="box">128</container>
+            <container id="aspace_481c0ffe5106d357e21f02b733527c02" label="Mixed Materials [31142054630358]" type="box">128</container>
           </did>
         </c>
         <c id="aspace_ref341" level="file">
           <did>
             <unittitle>Local 802 Constitutions and Bylaws</unittitle>
             <unitdate normal="1957/1983" type="inclusive">1957-1983</unitdate>
-            <container id="aspace_d8e7e008e1f3831f91dd5c170b298402" label="Mixed Materials [31142054630341]" type="box">129</container>
+            <container id="aspace_8b385fbe0f6c342fbd52198063a7ee66" label="Mixed Materials [31142054630341]" type="box">129</container>
           </did>
         </c>
         <c id="aspace_ref342" level="file">
           <did>
             <unittitle>Agreements</unittitle>
             <unitdate normal="1975/1984" type="inclusive">1975-1984</unitdate>
-            <container id="aspace_108265987167f522c68573819d67aeb7" label="Mixed Materials [31142054630341]" type="box">129</container>
+            <container id="aspace_659ba3555fac8f2d8ea7727de961be26" label="Mixed Materials [31142054630341]" type="box">129</container>
           </did>
         </c>
         <c id="aspace_ref185" level="file">
           <did>
             <unittitle>Directories, Constitutions, and Price Lists from Locals 4, 6, 47, 72, 76, 238, 310 (802's predecessor) 402, 526, 655 and Related Organizations</unittitle>
             <unitdate normal="1921/1995" type="inclusive">1921-1995</unitdate>
-            <container id="aspace_44943a6b5a0247c904ec9647d8c684e7" label="Mixed Materials [31142054630341]" type="box">129</container>
+            <container id="aspace_980d9d7a264c6408e9d19c3ac21973ad" label="Mixed Materials [31142054630341]" type="box">129</container>
           </did>
         </c>
         <c id="aspace_ref343" level="file">
           <did>
             <unittitle>Price Lists and Other Local 802 Pamphlets</unittitle>
-            <container id="aspace_f5be98371cc63116ae3d315c76004947" label="Mixed Materials [31142054630341]" type="box">129</container>
+            <container id="aspace_c73e5216efb98484f3794469832e9c2d" label="Mixed Materials [31142054630341]" type="box">129</container>
           </did>
         </c>
         <c id="aspace_ref346" level="file">
           <did>
             <unittitle>Restructure Committee</unittitle>
             <unitdate normal="1990/1999" type="inclusive">1990s</unitdate>
-            <container id="aspace_7709c81656933dce4b22e4a4925f4e2f" label="Mixed Materials [31142054630333]" type="box">130</container>
+            <container id="aspace_4c12c51cd6df00564b57defeac2f6e3e" label="Mixed Materials [31142054630333]" type="box">130</container>
           </did>
         </c>
         <c id="aspace_ref347" level="file">
           <did>
             <unittitle>National Convention</unittitle>
             <unitdate normal="1995/2003" type="inclusive">1995-2003</unitdate>
-            <container id="aspace_782bd9f21fcd2f7e08229b6cd972981f" label="Mixed Materials [31142054630333]" type="box">130</container>
+            <container id="aspace_5e5445d5323ccf28543f2f7b99fd1608" label="Mixed Materials [31142054630333]" type="box">130</container>
           </did>
         </c>
         <c id="aspace_ref186" level="file">
           <did>
             <unittitle>1938 Election and Committee of Fifteen Material (sent by David B. Freed)</unittitle>
             <unitdate normal="1934/1990" type="inclusive">1934-1990</unitdate>
-            <container id="aspace_3a542728bf72637e5df08e6a6eac2f16" label="Mixed Materials [31142054630333]" type="box">130</container>
+            <container id="aspace_9d4a9146a188cc04caa3828a2083593d" label="Mixed Materials [31142054630333]" type="box">130</container>
           </did>
         </c>
         <c id="aspace_ref272" level="file">
           <did>
             <unittitle>Regular Membership Meetings Minutes</unittitle>
             <unitdate normal="1922/1965" type="inclusive">1922-1965</unitdate>
-            <container id="aspace_3e52147fe47cab4d0171c0867797b590" label="Microform" type="film">R-7438</container>
-            <container id="aspace_8b6a696ab10fc91b8bdbeffca4680a2b" parent="aspace_3e52147fe47cab4d0171c0867797b590" type="reel">79</container>
+            <container id="aspace_93502d6245d0842b895ebe69b5e69bfd" label="Microform" type="film">R-7438</container>
+            <container id="aspace_51486980322d0b3c0b5832c00ed05dfe" parent="aspace_93502d6245d0842b895ebe69b5e69bfd" type="reel">79</container>
           </did>
         </c>
         <c id="aspace_ref273" level="file">
           <did>
             <unittitle>Medical Board Minutes</unittitle>
             <unitdate normal="1936/1940" type="inclusive">1936-1940</unitdate>
-            <container id="aspace_9c84177afc0a9ff0df66050b30c07ae5" label="Microform" type="film">R-7438</container>
-            <container id="aspace_1fe4bcc1c662c85a3b60f07062933f8c" parent="aspace_9c84177afc0a9ff0df66050b30c07ae5" type="reel">79</container>
+            <container id="aspace_e434fac8476cb8de517c3c7fecb1a403" label="Microform" type="film">R-7438</container>
+            <container id="aspace_67aaec32a83ff7907e91e2e9b1f78f00" parent="aspace_e434fac8476cb8de517c3c7fecb1a403" type="reel">79</container>
           </did>
         </c>
         <c id="aspace_2863f7f7f135dadc2a2c5b5ddbadbdf0" level="file">
           <did>
             <unittitle>Music Festival Dance Jubliee program</unittitle>
             <unitdate normal="1939/1939">1939</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_6d158b66d6700719d50c95a874b7e9b3" label="Mixed Materials [31142063434123]" type="box">Shared Tamiment 049</container>
-            <container id="aspace_38b8de68ea1128924a5f35899896d812" parent="aspace_6d158b66d6700719d50c95a874b7e9b3" type="folder">7</container>
+            <container altrender="Manuscript box - Legal" id="aspace_252256ecf6fbd72e8f607620dd14dc79" label="Mixed Materials [31142063434123]" type="box">Shared Tamiment 049</container>
+            <container id="aspace_89ed9a52722c30aeece5a312a1339cfc" parent="aspace_252256ecf6fbd72e8f607620dd14dc79" type="folder">7</container>
           </did>
         </c>
       </c>
@@ -1641,98 +1652,98 @@
           <did>
             <unittitle>Subject Files: A-M</unittitle>
             <unitdate normal="1983/1987" type="inclusive">mid 1980s</unitdate>
-            <container id="aspace_b9fd93b23e6ef210469e25a8a29ad67b" label="Mixed Materials [31142054630226]" type="box">77</container>
+            <container id="aspace_8ea1ef93c65a474f615277d6f68cc22b" label="Mixed Materials [31142054630226]" type="box">77</container>
           </did>
         </c>
         <c id="aspace_ref115" level="file">
           <did>
             <unittitle>Joe Eisman's Files</unittitle>
             <unitdate normal="1997/2007" type="inclusive">late 1990s-mid 2000s</unitdate>
-            <container id="aspace_aff7837c0961e5475d8934b6ce260028" label="Mixed Materials [31142054630234]" type="box">78</container>
+            <container id="aspace_070a2cee76bc1de859263ff5215122b2" label="Mixed Materials [31142054630234]" type="box">78</container>
           </did>
         </c>
         <c id="aspace_ref116" level="file">
           <did>
             <unittitle>Marvin Moschel's Files: A-C (mostly club date)</unittitle>
             <unitdate normal="1990/1997" type="inclusive">early 1990s-mid 1990s</unitdate>
-            <container id="aspace_5b88339d823c304475f61e0e93c371b0" label="Mixed Materials [31142054630242]" type="box">79</container>
+            <container id="aspace_e18712f22a7b0a95bb34e872f45c840e" label="Mixed Materials [31142054630242]" type="box">79</container>
           </did>
         </c>
         <c id="aspace_ref117" level="file">
           <did>
             <unittitle>Marvin Moschel's Files: C-F (mostly club date)</unittitle>
             <unitdate normal="1990/1997" type="inclusive">early 1990s-mid 1990s</unitdate>
-            <container id="aspace_238d05efd6da9bcdc58aed7cd712ab08" label="Mixed Materials [31142054630259]" type="box">80</container>
+            <container id="aspace_d59c05b67eeb80956e64c57d49d96c19" label="Mixed Materials [31142054630259]" type="box">80</container>
           </did>
         </c>
         <c id="aspace_ref118" level="file">
           <did>
             <unittitle>Marvin Moschel's Files: G-M</unittitle>
             <unitdate normal="1990/1997" type="inclusive">early 1990s-mid 1990s</unitdate>
-            <container id="aspace_03dea5056b6262725cb0d119e3e00afc" label="Mixed Materials [31142054630267]" type="box">81</container>
+            <container id="aspace_dd3439487ad2f22c883d6091ce68ed4e" label="Mixed Materials [31142054630267]" type="box">81</container>
           </did>
         </c>
         <c id="aspace_ref119" level="file">
           <did>
             <unittitle>Marvin Moschel's Files: W</unittitle>
             <unitdate normal="1990/1997" type="inclusive">early 1990s-mid 1990s</unitdate>
-            <container id="aspace_d3d9763bdc58e9daf360b41c8bc67032" label="Mixed Materials [31142054630275]" type="box">82</container>
+            <container id="aspace_f84c1f74695be46cd512e4448feeac6b" label="Mixed Materials [31142054630275]" type="box">82</container>
           </did>
         </c>
         <c id="aspace_ref120" level="file">
           <did>
             <unittitle>Subject Files A-Z</unittitle>
             <unitdate normal="1993/1999" type="inclusive">mid 1990s-late 1990s</unitdate>
-            <container id="aspace_02b6d241f3e8cc8e383a01eb426f1263" label="Mixed Materials [31142054630275]" type="box">82</container>
+            <container id="aspace_e4ee74a440f6af90402b699cdb40a3db" label="Mixed Materials [31142054630275]" type="box">82</container>
           </did>
         </c>
         <c id="aspace_ref121" level="file">
           <did>
             <unittitle>Marvin Moschel's Files</unittitle>
             <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
-            <container id="aspace_ce8b187e674f9cc3f4fdc30fc744bce0" label="Mixed Materials [31142054630275]" type="box">82</container>
+            <container id="aspace_a16d0437d9800922fd70f717b14904af" label="Mixed Materials [31142054630275]" type="box">82</container>
           </did>
         </c>
         <c id="aspace_ref122" level="file">
           <did>
             <unittitle>Marvin Moschel's Files</unittitle>
             <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
-            <container id="aspace_38244a13384d2b2ed228df957802586d" label="Mixed Materials [31142054630283]" type="box">83</container>
+            <container id="aspace_7e37f494bb2e1814e0a0c6bca892359a" label="Mixed Materials [31142054630283]" type="box">83</container>
           </did>
         </c>
         <c id="aspace_ref123" level="file">
           <did>
             <unittitle>Marvin Moschel's Files (mostly hotel negotiations)</unittitle>
             <unitdate normal="1990/1997" type="inclusive">early 1990s-mid 1990s</unitdate>
-            <container id="aspace_b4e6d5e3bce6948129f559f04f69d631" label="Mixed Materials [31142054630283]" type="box">83</container>
+            <container id="aspace_44117ededd58374947c521316887fa03" label="Mixed Materials [31142054630283]" type="box">83</container>
           </did>
         </c>
         <c id="aspace_ref124" level="file">
           <did>
             <unittitle>Marvin Moschel's Files</unittitle>
             <unitdate normal="1990/1997" type="inclusive">early 1990s-mid 1990s</unitdate>
-            <container id="aspace_48a26266f6c17dfceb1daeadd95fe245" label="Mixed Materials [31142054630291]" type="box">84</container>
+            <container id="aspace_27c5ccd5053920fee0a7a5762689f8ae" label="Mixed Materials [31142054630291]" type="box">84</container>
           </did>
         </c>
         <c id="aspace_ref125" level="file">
           <did>
             <unittitle>Subject Files: P-T</unittitle>
             <unitdate normal="1983/2003" type="inclusive">mid 1980s-early 2000s</unitdate>
-            <container id="aspace_0e52c6868fb10914c274585065d90a66" label="Mixed Materials [31142054630291]" type="box">84</container>
+            <container id="aspace_83bd60ff2d93626aa3c07468e96beb4f" label="Mixed Materials [31142054630291]" type="box">84</container>
           </did>
         </c>
         <c id="aspace_ref126" level="file">
           <did>
             <unittitle>Subject Files: U-Z</unittitle>
             <unitdate normal="1983/2003" type="inclusive">mid 1980s-early 2000s</unitdate>
-            <container id="aspace_17abecf817246cb93f4f254fb14fab19" label="Mixed Materials [31142054630010]" type="box">85</container>
+            <container id="aspace_45ee0b3ece4fa99d7eff00a304d08cf6" label="Mixed Materials [31142054630010]" type="box">85</container>
           </did>
         </c>
         <c id="aspace_ref127" level="file">
           <did>
             <unittitle>Organizing Campaigns</unittitle>
             <unitdate normal="1987/1993" type="inclusive">late 1980s-early 1990s</unitdate>
-            <container id="aspace_c17c3c5d0c64abf21144e87299f70388" label="Mixed Materials [31142054630010]" type="box">85</container>
+            <container id="aspace_797b147460e5b263fd86108667e7fb18" label="Mixed Materials [31142054630010]" type="box">85</container>
           </did>
         </c>
       </c>
@@ -1749,56 +1760,56 @@
           <did>
             <unittitle>Cabaret Law</unittitle>
             <unitdate normal="1983/1989" type="inclusive">mid 1980s-late 1980s</unitdate>
-            <container id="aspace_84841237bbdfefdbc91c6672a8048e55" label="Mixed Materials [31142054630010]" type="box">85</container>
+            <container id="aspace_64672e6c129904152949d55cc5dc5fdd" label="Mixed Materials [31142054630010]" type="box">85</container>
           </did>
         </c>
         <c id="aspace_ref129" level="file">
           <did>
             <unittitle>Cabaret Law</unittitle>
             <unitdate normal="1977/1993" type="inclusive">late 1970s-early 1990s</unitdate>
-            <container id="aspace_b0146567e87e8136127c0bd036bc57b9" label="Mixed Materials [31142054630002]" type="box">86</container>
+            <container id="aspace_5f3c2820924b6b24c78884c838a16601" label="Mixed Materials [31142054630002]" type="box">86</container>
           </did>
         </c>
         <c id="aspace_ref130" level="file">
           <did>
             <unittitle>Cabaret Law</unittitle>
             <unitdate normal="1984/1990" type="inclusive">1984-1990</unitdate>
-            <container id="aspace_6e051cc9889d20fea439c4022e615985" label="Mixed Materials [31142054629996]" type="box">87</container>
+            <container id="aspace_63edbf7cd95858b0459ec3d805f7ec95" label="Mixed Materials [31142054629996]" type="box">87</container>
           </did>
         </c>
         <c id="aspace_ref131" level="file">
           <did>
             <unittitle>Unions for the Performing Arts and the New York City Coalition for Economic Survival of Entertainment and the Arts</unittitle>
             <unitdate normal="1980/1993" type="inclusive">early 1980s-early 1990s</unitdate>
-            <container id="aspace_d2d83bbeef6c54df844eab7a590f0c39" label="Mixed Materials [31142054629996]" type="box">87</container>
+            <container id="aspace_0b3f420eadaae1c0be3bf10c575d2d8a" label="Mixed Materials [31142054629996]" type="box">87</container>
           </did>
         </c>
         <c id="aspace_ref132" level="file">
           <did>
             <unittitle>Unions for the Performing Arts and the New York City Coalition for Economic Survival of Entertainment and the Arts (includes audio cassettes of 1985 Legislative Conference and a VHS tape of a 1984 teleconference)</unittitle>
             <unitdate normal="1980/1993" type="inclusive">early 1980s-early 1990s</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_430b9baa4e931c1e92f191ebda79badf" label="Mixed Materials [31142062838845]" type="box">131</container>
+            <container altrender="Card Box - 6.5" id="aspace_79c56170bbcf9698e6ce90b6318647c0" label="Mixed Materials [31142062838845]" type="box">131</container>
           </did>
         </c>
         <c id="aspace_ref133" level="file">
           <did>
             <unittitle>Judy West (Public Relations Director) Files: Jazz Foundation and Ad Hoc Committee for New York City</unittitle>
             <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
-            <container id="aspace_13b8027be7a49aef41fc412195e94a84" label="Mixed Materials [31142054629988]" type="box">88</container>
+            <container id="aspace_8f61c288501f75ed87ec96141dc2d4df" label="Mixed Materials [31142054629988]" type="box">88</container>
           </did>
         </c>
         <c id="aspace_ref134" level="file">
           <did>
             <unittitle>Judy West (Public Relations Director) Files (mostly relating to New York City legislature)</unittitle>
             <unitdate normal="1980/2000" type="inclusive">early 1980s-2000</unitdate>
-            <container id="aspace_84245a1542c41889b949f157c9c728a1" label="Mixed Materials [31142054629970]" type="box">89</container>
+            <container id="aspace_a602cbb5c887be34d886ec2004f65a3e" label="Mixed Materials [31142054629970]" type="box">89</container>
           </did>
         </c>
         <c id="aspace_ref135" level="file">
           <did>
             <unittitle>Judy West (Public Relations Director) Files</unittitle>
             <unitdate normal="1980/2000" type="inclusive">early 1980s-2000</unitdate>
-            <container id="aspace_d5037204d64be45706bb55ed4109d2db" label="Mixed Materials [31142054629962]" type="box">90</container>
+            <container id="aspace_88f707799da79b151cc2245e92f930b7" label="Mixed Materials [31142054629962]" type="box">90</container>
           </did>
         </c>
       </c>
@@ -1815,189 +1826,189 @@
           <did>
             <unittitle>Show Files: A-Y</unittitle>
             <unitdate normal="1983/1993" type="inclusive">mid 1980s-early 1990s</unitdate>
-            <container id="aspace_5c573dd2b49edf2c9228a23e258e3ac0" label="Mixed Materials [31142054629962]" type="box">90</container>
+            <container id="aspace_103b2ab440c935a9c4edc6559ce3d2a2" label="Mixed Materials [31142054629962]" type="box">90</container>
           </did>
         </c>
         <c id="aspace_ref137" level="file">
           <did>
             <unittitle>Show Files: A-Y</unittitle>
             <unitdate normal="1973/1996" type="inclusive">mid 1970s-1996</unitdate>
-            <container id="aspace_77796f3531eb9986d82761a8ae2e4663" label="Mixed Materials [31142054629954]" type="box">91</container>
+            <container id="aspace_72b61cfd0cc0a6831113c6de7932050d" label="Mixed Materials [31142054629954]" type="box">91</container>
           </did>
         </c>
         <c id="aspace_ref138" level="file">
           <did>
             <unittitle>Show Files: A</unittitle>
             <unitdate normal="1990/1999" type="inclusive">1990s</unitdate>
-            <container id="aspace_cee0a424255ac501e6b7c163b133a88e" label="Mixed Materials [31142054629954]" type="box">91</container>
+            <container id="aspace_a7461940c52d91ea5bb81a4a4c8e9f15" label="Mixed Materials [31142054629954]" type="box">91</container>
           </did>
         </c>
         <c id="aspace_ref139" level="file">
           <did>
             <unittitle>Show Files: A-N</unittitle>
             <unitdate normal="1990/1999" type="inclusive">1990s</unitdate>
-            <container id="aspace_2835da961a53ca79d521a0473b8c9ce4" label="Mixed Materials [31142054629947]" type="box">92</container>
+            <container id="aspace_e681a694aa4384355ba41207461868a1" label="Mixed Materials [31142054629947]" type="box">92</container>
           </did>
         </c>
         <c id="aspace_ref140" level="file">
           <did>
             <unittitle>Show Files: O-T</unittitle>
             <unitdate normal="1990/1999" type="inclusive">1990s</unitdate>
-            <container id="aspace_6b10654a4492bca214c4c574b349e878" label="Mixed Materials [31142054629939]" type="box">93</container>
+            <container id="aspace_e49cc199b5625e46ea1972d15919bcd6" label="Mixed Materials [31142054629939]" type="box">93</container>
           </did>
         </c>
         <c id="aspace_ref141" level="file">
           <did>
             <unittitle>Show Files: A-C</unittitle>
             <unitdate normal="1970/1996" type="inclusive">1970s-1996</unitdate>
-            <container id="aspace_44700731ff1b6f5a609494609ead166b" label="Mixed Materials [31142054629939]" type="box">93</container>
+            <container id="aspace_eeb8eaae1402d39ec97f0ad4ca8018ae" label="Mixed Materials [31142054629939]" type="box">93</container>
           </did>
         </c>
         <c id="aspace_ref142" level="file">
           <did>
             <unittitle>Show Files: C-Z</unittitle>
             <unitdate normal="1970/1996" type="inclusive">1970s-1996</unitdate>
-            <container id="aspace_ec1839c58d2c2c537da449733eabaa47" label="Mixed Materials [31142054629921]" type="box">94</container>
+            <container id="aspace_bfd332f2b1c2a83e347acb0ff67a131b" label="Mixed Materials [31142054629921]" type="box">94</container>
           </did>
         </c>
         <c id="aspace_ref143" level="file">
           <did>
             <unittitle>Show Files: A-S</unittitle>
             <unitdate normal="1980/1995" type="inclusive">1980s-1995</unitdate>
-            <container id="aspace_ba66828ebf51dd7aa253e40d938b38ed" label="Mixed Materials [31142054629913]" type="box">95</container>
+            <container id="aspace_ea809353b2b0a91f5c83d93d898c079c" label="Mixed Materials [31142054629913]" type="box">95</container>
           </did>
         </c>
         <c id="aspace_ref144" level="file">
           <did>
             <unittitle>Show Files: S-Y</unittitle>
             <unitdate normal="1980/1995" type="inclusive">1980s-1995</unitdate>
-            <container id="aspace_d2d2bdf47a0809cac9adbd22d78aa2d2" label="Mixed Materials [31142054629905]" type="box">96</container>
+            <container id="aspace_23d7b42f742b323d82d8c8561f78729b" label="Mixed Materials [31142054629905]" type="box">96</container>
           </did>
         </c>
         <c id="aspace_ref145" level="file">
           <did>
             <unittitle>Show Files: A-C</unittitle>
             <unitdate normal="1970/1993" type="inclusive">1970s-1993</unitdate>
-            <container id="aspace_f6309331be180f08b146ad0403fa3a7b" label="Mixed Materials [31142054629905]" type="box">96</container>
+            <container id="aspace_6d45e2dfb5df5b36e8b54338976b2d2f" label="Mixed Materials [31142054629905]" type="box">96</container>
           </did>
         </c>
         <c id="aspace_ref146" level="file">
           <did>
             <unittitle>Show Files: C-S</unittitle>
             <unitdate normal="1970/1993" type="inclusive">1970s-1993</unitdate>
-            <container id="aspace_17af6fd0d48095a4a534cba6589182d8" label="Mixed Materials [31142054629897]" type="box">97</container>
+            <container id="aspace_62eea921aeff797ed2881976d446ca82" label="Mixed Materials [31142054629897]" type="box">97</container>
           </did>
         </c>
         <c id="aspace_ref147" level="file">
           <did>
             <unittitle>Show Files: T-Y</unittitle>
             <unitdate normal="1970/1993" type="inclusive">1970s-1993</unitdate>
-            <container id="aspace_170760a928748bc1f9f8c6fdef9faff4" label="Mixed Materials [31142054629889]" type="box">98</container>
+            <container id="aspace_d4bda4f6e7e65259bb9ab4304ccba0fb" label="Mixed Materials [31142054629889]" type="box">98</container>
           </did>
         </c>
         <c id="aspace_ref148" level="file">
           <did>
             <unittitle>Show Files: A-K</unittitle>
             <unitdate normal="1990/1999" type="inclusive">1990s</unitdate>
-            <container id="aspace_43ea587187c7832495fd8937e95c6a74" label="Mixed Materials [31142054629889]" type="box">98</container>
+            <container id="aspace_d70740ab3ea4bd6f57d1cfe3ffa3a9ae" label="Mixed Materials [31142054629889]" type="box">98</container>
           </did>
         </c>
         <c id="aspace_ref149" level="file">
           <did>
             <unittitle>Show Files: K-T</unittitle>
             <unitdate normal="1990/1999" type="inclusive">1990s</unitdate>
-            <container id="aspace_8e591996d44f31b7bb5bda0581f74520" label="Mixed Materials [31142054629871]" type="box">99</container>
+            <container id="aspace_9a5312af5170637271173fd6a2ab1e4c" label="Mixed Materials [31142054629871]" type="box">99</container>
           </did>
         </c>
         <c id="aspace_ref150" level="file">
           <did>
             <unittitle>Show Files: T-W</unittitle>
             <unitdate normal="1990/1999" type="inclusive">1990s</unitdate>
-            <container id="aspace_36872f3bc4ad4b6abb17dee1c0c6fef5" label="Mixed Materials [31142054629863]" type="box">100</container>
+            <container id="aspace_8492ffd6d3a3c34c6f7053ef9677911b" label="Mixed Materials [31142054629863]" type="box">100</container>
           </did>
         </c>
         <c id="aspace_ref151" level="file">
           <did>
             <unittitle>Show Files: A-S</unittitle>
             <unitdate normal="1970/1995" type="inclusive">1970s-1995</unitdate>
-            <container id="aspace_c1638957bc493d22ece0ca42843dbbcd" label="Mixed Materials [31142054629863]" type="box">100</container>
+            <container id="aspace_63858ae65e73642e61758f45dc227bbe" label="Mixed Materials [31142054629863]" type="box">100</container>
           </did>
         </c>
         <c id="aspace_ref153" level="file">
           <did>
             <unittitle>Show Files: A-T</unittitle>
             <unitdate normal="1960/1989" type="inclusive">1960s-1980s</unitdate>
-            <container id="aspace_2b80f5a8d0cd60f859d8e7946cfa9a83" label="Mixed Materials [31142054629855]" type="box">101</container>
+            <container id="aspace_18240b0ba1d6dea04cd33b761b723053" label="Mixed Materials [31142054629855]" type="box">101</container>
           </did>
         </c>
         <c id="aspace_ref154" level="file">
           <did>
             <unittitle>Show Files: A-T</unittitle>
             <unitdate normal="1970/1991" type="inclusive">1970s-1991</unitdate>
-            <container id="aspace_61bee30ce8c051054c2f4470895be374" label="Mixed Materials [31142054629848]" type="box">102</container>
+            <container id="aspace_d416fc3ad7c5286dab30c3229355e2be" label="Mixed Materials [31142054629848]" type="box">102</container>
           </did>
         </c>
         <c id="aspace_ref155" level="file">
           <did>
             <unittitle>League of American Theatres and Producers Grievances and Arbitrations</unittitle>
             <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
-            <container id="aspace_3d7f4bc99b690309e4af733b750613f5" label="Mixed Materials [31142054629848]" type="box">102</container>
+            <container id="aspace_1c11e926a0310c51e741bdde53cd3ab1" label="Mixed Materials [31142054629848]" type="box">102</container>
           </did>
         </c>
         <c id="aspace_ref156" level="file">
           <did>
             <unittitle>Show Files: A-W</unittitle>
             <unitdate normal="1983/1993" type="inclusive">mid 1980s-early 1990s</unitdate>
-            <container id="aspace_21cb5bc09cdbc03a5ad2f8649b729109" label="Mixed Materials [31142054629830]" type="box">103</container>
+            <container id="aspace_4d48a0d8afe4320d9215de320e57618e" label="Mixed Materials [31142054629830]" type="box">103</container>
           </did>
         </c>
         <c id="aspace_ref157" level="file">
           <did>
             <unittitle>Show Files: A-B</unittitle>
             <unitdate normal="1980/2004" type="inclusive">1980s-2004</unitdate>
-            <container id="aspace_e540f83650bee6c06c81bfacafbed274" label="Mixed Materials [31142054629830]" type="box">103</container>
+            <container id="aspace_ce0161241e2723990c83d2f86d7c963b" label="Mixed Materials [31142054629830]" type="box">103</container>
           </did>
         </c>
         <c id="aspace_ref158" level="file">
           <did>
             <unittitle>Show Files: B-F</unittitle>
             <unitdate normal="1980/2004" type="inclusive">1980s-2004</unitdate>
-            <container id="aspace_e0ceb0f24fb7cea5810341b9cbb1ec0e" label="Mixed Materials [31142054629822]" type="box">104</container>
+            <container id="aspace_12d588aea30c7bdf437ef8df0dd3318e" label="Mixed Materials [31142054629822]" type="box">104</container>
           </did>
         </c>
         <c id="aspace_ref159" level="file">
           <did>
             <unittitle>Show Files: G-P</unittitle>
             <unitdate normal="1980/2004" type="inclusive">1980s-2004</unitdate>
-            <container id="aspace_bbba516e662b2b4c87bc90693ba738f6" label="Mixed Materials [31142054629814]" type="box">105</container>
+            <container id="aspace_5d70e199cb6fc9be27a006c98f233d10" label="Mixed Materials [31142054629814]" type="box">105</container>
           </did>
         </c>
         <c id="aspace_ref160" level="file">
           <did>
             <unittitle>Show Files: P-Y</unittitle>
             <unitdate normal="1980/2004" type="inclusive">1980s-2004</unitdate>
-            <container id="aspace_30ae41cb13851674fd16520e4412d167" label="Mixed Materials [31142054629806]" type="box">106</container>
+            <container id="aspace_71e7528fea2b76cf054786f2fe05f66e" label="Mixed Materials [31142054629806]" type="box">106</container>
           </did>
         </c>
         <c id="aspace_ref161" level="file">
           <did>
             <unittitle>Subject Files: B-W</unittitle>
             <unitdate normal="1987/2001" type="inclusive">1987-2001</unitdate>
-            <container id="aspace_8c85ff593d5a9544c432c7edba794466" label="Mixed Materials [31142054629806]" type="box">106</container>
+            <container id="aspace_d946e571c2df0bc707b41f058481ff24" label="Mixed Materials [31142054629806]" type="box">106</container>
           </did>
         </c>
         <c id="aspace_ref162" level="file">
           <did>
             <unittitle>Show Files: B</unittitle>
             <unitdate normal="1970/1989" type="inclusive">1970s-1980s</unitdate>
-            <container id="aspace_7d40f694c16886a4fe728e69b74987c4" label="Mixed Materials [31142054629806]" type="box">106</container>
+            <container id="aspace_99873431ce3da3fee4ede6ba0ca3abb0" label="Mixed Materials [31142054629806]" type="box">106</container>
           </did>
         </c>
         <c id="aspace_ref163" level="file">
           <did>
             <unittitle>Show Files: B-W</unittitle>
             <unitdate normal="1970/1989" type="inclusive">1970s-1980s</unitdate>
-            <container id="aspace_104fd4bb38cb59bae79188bf3e1423aa" label="Mixed Materials [31142054629798]" type="box">107</container>
+            <container id="aspace_804b91600f306e5e346bdca507ccd14f" label="Mixed Materials [31142054629798]" type="box">107</container>
           </did>
         </c>
       </c>
@@ -2014,40 +2025,40 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1922/1923" type="inclusive">1922-Jan 1923</unitdate>
-            <container id="aspace_79f6006569825c8ba2bfdd7fde080e82" label="Microform" type="film">R-7438</container>
-            <container id="aspace_3f350b3f46277c58ee3b7a4e6fce2758" parent="aspace_79f6006569825c8ba2bfdd7fde080e82" type="reel">50</container>
+            <container id="aspace_b42ab404bfb51c07abb8bf5ffea5b03f" label="Microform" type="film">R-7438</container>
+            <container id="aspace_7ae3cd676ea013f10f3100147fe537e1" parent="aspace_b42ab404bfb51c07abb8bf5ffea5b03f" type="reel">50</container>
           </did>
         </c>
         <c id="aspace_ref244" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1923/1924" type="inclusive">Jan 1923-Oct 1924</unitdate>
-            <container id="aspace_18b9ce550163228f25150d2a74bd9aa0" label="Microform" type="film">R-7438</container>
-            <container id="aspace_0a7b3acf92fac0e5545c5832d7e6ccc1" parent="aspace_18b9ce550163228f25150d2a74bd9aa0" type="reel">51</container>
+            <container id="aspace_73256fb48d94c249569c01f2a61f5045" label="Microform" type="film">R-7438</container>
+            <container id="aspace_d29b27197f810a54bc44c2bb0ea61124" parent="aspace_73256fb48d94c249569c01f2a61f5045" type="reel">51</container>
           </did>
         </c>
         <c id="aspace_ref245" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1924/1926" type="inclusive">Oct 1924-Apr 1926</unitdate>
-            <container id="aspace_99be9479f1503aba599c8da6ef6d820b" label="Microform" type="film">R-7438</container>
-            <container id="aspace_fc752a3a92a3f80fe9b30378720602e3" parent="aspace_99be9479f1503aba599c8da6ef6d820b" type="reel">52</container>
+            <container id="aspace_9c667a8430ed938f00b2254e266956eb" label="Microform" type="film">R-7438</container>
+            <container id="aspace_fe084746ef595028ac759c0a1bc45408" parent="aspace_9c667a8430ed938f00b2254e266956eb" type="reel">52</container>
           </did>
         </c>
         <c id="aspace_ref246" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1926/1927" type="inclusive">Apr 1926-Sep 1927</unitdate>
-            <container id="aspace_4ecc396db18c3a0209006fe2af148038" label="Microform" type="film">R-7438</container>
-            <container id="aspace_52f592a3fff5f13eaba66b3b5826550d" parent="aspace_4ecc396db18c3a0209006fe2af148038" type="reel">53</container>
+            <container id="aspace_16384e8ba62ec27ea98fe87692219a11" label="Microform" type="film">R-7438</container>
+            <container id="aspace_cc06ab58e16d57b9e2c93b670070ea38" parent="aspace_16384e8ba62ec27ea98fe87692219a11" type="reel">53</container>
           </did>
         </c>
         <c id="aspace_ref247" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1927/1929" type="inclusive">Sep 1927-Jan 1929</unitdate>
-            <container id="aspace_15e06c8dd5c68e5571e5e42fdbfba5b7" label="Microform" type="film">R-7438</container>
-            <container id="aspace_8f606b3784c24d81f479c805c2bb68b3" parent="aspace_15e06c8dd5c68e5571e5e42fdbfba5b7" type="reel">54</container>
+            <container id="aspace_6519172fd381bae90971a253f570efea" label="Microform" type="film">R-7438</container>
+            <container id="aspace_471d0f44e22ca6db3f21859ad2256b74" parent="aspace_6519172fd381bae90971a253f570efea" type="reel">54</container>
           </did>
           <odd id="aspace_c7d62ec49a9549c759a9b12fd573e6bb">
             <head>General</head>
@@ -2058,8 +2069,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1929/1930" type="inclusive">1929-1930</unitdate>
-            <container id="aspace_3deef22ce6c5d76a120b0b0d32f06d56" label="Microform" type="film">R-7438</container>
-            <container id="aspace_eb6fe8467fda67d5938f2f29df68de93" parent="aspace_3deef22ce6c5d76a120b0b0d32f06d56" type="reel">55</container>
+            <container id="aspace_ce2f53f1d40233e400f634e9f0cfe5b1" label="Microform" type="film">R-7438</container>
+            <container id="aspace_26ca6401cf28e204ba4b9ad6e8b6ff9a" parent="aspace_ce2f53f1d40233e400f634e9f0cfe5b1" type="reel">55</container>
           </did>
           <odd id="aspace_03e4e39682c5343d6b834e88f1f7ec2a">
             <head>General</head>
@@ -2070,8 +2081,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1931/1932" type="inclusive">1931-1932</unitdate>
-            <container id="aspace_06428da72182a35804e9fb138b87631a" label="Microform" type="film">R-7438</container>
-            <container id="aspace_22e29ad4bacb304630cab88c70ccc568" parent="aspace_06428da72182a35804e9fb138b87631a" type="reel">56</container>
+            <container id="aspace_cb6c9246f545f04d9a4ef9556bae08e5" label="Microform" type="film">R-7438</container>
+            <container id="aspace_5c5863dcb17c5a53189798665da2da9d" parent="aspace_cb6c9246f545f04d9a4ef9556bae08e5" type="reel">56</container>
           </did>
           <odd id="aspace_4a9b2e7e0413d883f3aa6dffaca2971f">
             <head>General</head>
@@ -2082,8 +2093,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1933/1934" type="inclusive">Jan 1933-Jun 1934</unitdate>
-            <container id="aspace_74d81ba1cb8e3285b933bbfea7f010b1" label="Microform" type="film">R-7438</container>
-            <container id="aspace_07e106e18bd899ce8d861fca902c9ed1" parent="aspace_74d81ba1cb8e3285b933bbfea7f010b1" type="reel">57</container>
+            <container id="aspace_37dff515e39674b5d0a90592ea41617a" label="Microform" type="film">R-7438</container>
+            <container id="aspace_d0bbdbad05075bdb5c5720887b64f9c9" parent="aspace_37dff515e39674b5d0a90592ea41617a" type="reel">57</container>
           </did>
           <odd id="aspace_724bba270a42b2bdc9bcaf5274d8d38d">
             <head>General</head>
@@ -2094,8 +2105,8 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1934/1935" type="inclusive">Jul 1934-1935</unitdate>
-            <container id="aspace_72e7b9e2aabb49595c0e7ffdded23a01" label="Microform" type="film">R-7438</container>
-            <container id="aspace_f3dce58ed770061e8d2cf8b9642e4c39" parent="aspace_72e7b9e2aabb49595c0e7ffdded23a01" type="reel">58</container>
+            <container id="aspace_466ff3f1058e033b0af6892fd3314ac4" label="Microform" type="film">R-7438</container>
+            <container id="aspace_8cc43f7d71051c4677db959ec0d0d8c6" parent="aspace_466ff3f1058e033b0af6892fd3314ac4" type="reel">58</container>
           </did>
           <odd id="aspace_cd52b6fbb2cf075474e4f6407609d473">
             <head>General</head>
@@ -2106,230 +2117,230 @@
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1936/1937" type="inclusive">Jan 1936-Jun 1937</unitdate>
-            <container id="aspace_c58ba578f032f4bb3be455aa1b871bce" label="Microform" type="film">R-7438</container>
-            <container id="aspace_f21a8b1f779b6322d2df6432cd92eb07" parent="aspace_c58ba578f032f4bb3be455aa1b871bce" type="reel">59</container>
+            <container id="aspace_bb152654eaf90d0d7aa690ec55463034" label="Microform" type="film">R-7438</container>
+            <container id="aspace_d7a31a7bd48a9cf08c2f6aac102d4ed7" parent="aspace_bb152654eaf90d0d7aa690ec55463034" type="reel">59</container>
           </did>
         </c>
         <c id="aspace_ref253" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1937/1938" type="inclusive">Jul 1937-Nov 1938</unitdate>
-            <container id="aspace_165d2cc9ad37185a2f2ebade4b1993c5" label="Microform" type="film">R-7438</container>
-            <container id="aspace_ee4e8b24d1fec12accbc7f0bfc788cc0" parent="aspace_165d2cc9ad37185a2f2ebade4b1993c5" type="reel">60</container>
+            <container id="aspace_bdc4ec2e90e76511f4f36e19440f8ba7" label="Microform" type="film">R-7438</container>
+            <container id="aspace_7094f44e6e3a1097a9c10611ef31d402" parent="aspace_bdc4ec2e90e76511f4f36e19440f8ba7" type="reel">60</container>
           </did>
         </c>
         <c id="aspace_ref254" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1938/1939" type="inclusive">Nov 1938-Aug 1939</unitdate>
-            <container id="aspace_f099c5b51612f5f436a29edcda53da76" label="Microform" type="film">R-7438</container>
-            <container id="aspace_f143d6b37fa3caa634466623379ea9c7" parent="aspace_f099c5b51612f5f436a29edcda53da76" type="reel">61</container>
+            <container id="aspace_28b97607a303c24d5e804d91191e538d" label="Microform" type="film">R-7438</container>
+            <container id="aspace_0a0b1f82110df9a0502fcda1c564ea9c" parent="aspace_28b97607a303c24d5e804d91191e538d" type="reel">61</container>
           </did>
         </c>
         <c id="aspace_ref255" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1939/1940" type="inclusive">Aug 1939-1940</unitdate>
-            <container id="aspace_8045ea586e0e58a490e45c4c72dce011" label="Microform" type="film">R-7438</container>
-            <container id="aspace_65b7aacf99d4a4ce030af208e215d7e9" parent="aspace_8045ea586e0e58a490e45c4c72dce011" type="reel">62</container>
+            <container id="aspace_5837509dfda1835fafe5e3a980b6a3e4" label="Microform" type="film">R-7438</container>
+            <container id="aspace_79b92c81ef4f7b36e21f50373fa806e3" parent="aspace_5837509dfda1835fafe5e3a980b6a3e4" type="reel">62</container>
           </did>
         </c>
         <c id="aspace_ref256" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
-            <container id="aspace_c9bd8a483101b8cf1cad7fa30ae85e3e" label="Microform" type="film">R-7438</container>
-            <container id="aspace_543bafab5c090c6de65c65d68ade5d3e" parent="aspace_c9bd8a483101b8cf1cad7fa30ae85e3e" type="reel">63</container>
+            <container id="aspace_22ad81e2b55291f42f8589a34856e9bc" label="Microform" type="film">R-7438</container>
+            <container id="aspace_856b076142dd8ea0d17e500b3c94095e" parent="aspace_22ad81e2b55291f42f8589a34856e9bc" type="reel">63</container>
           </did>
         </c>
         <c id="aspace_ref257" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1942/1943" type="inclusive">Jan 1942-Jun 1943</unitdate>
-            <container id="aspace_6e4c549dcaeb5f3ea7b41287ce03d310" label="Microform" type="film">R-7438</container>
-            <container id="aspace_27ef375ec7989f109b0f0935880712a2" parent="aspace_6e4c549dcaeb5f3ea7b41287ce03d310" type="reel">64</container>
+            <container id="aspace_c691e0b80582ea43e93ecc74e34db168" label="Microform" type="film">R-7438</container>
+            <container id="aspace_8efdd9f6a52af6b17e88edd8ff6d441a" parent="aspace_c691e0b80582ea43e93ecc74e34db168" type="reel">64</container>
           </did>
         </c>
         <c id="aspace_ref258" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1943/1944" type="inclusive">Jul 1943-1944</unitdate>
-            <container id="aspace_3d300b0ca675f039255dc8c697414954" label="Microform" type="film">R-7438</container>
-            <container id="aspace_94335f6d4cd0e49ac72eea34badf15e4" parent="aspace_3d300b0ca675f039255dc8c697414954" type="reel">65</container>
+            <container id="aspace_654942b63db23ca0ebc4a514f3f16055" label="Microform" type="film">R-7438</container>
+            <container id="aspace_b44c834a7b5ff147a783e5c08927d15f" parent="aspace_654942b63db23ca0ebc4a514f3f16055" type="reel">65</container>
           </did>
         </c>
         <c id="aspace_ref259" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate>
-            <container id="aspace_5ed51d6579d9650ee408e1b02fb3b778" label="Microform" type="film">R-7438</container>
-            <container id="aspace_f16f2186aef3909c0f101488847a0ee7" parent="aspace_5ed51d6579d9650ee408e1b02fb3b778" type="reel">66</container>
+            <container id="aspace_c2e8e621eaf34a8fccdabdb520356cb6" label="Microform" type="film">R-7438</container>
+            <container id="aspace_f8e38e799d8f294249ef1550bc550c4e" parent="aspace_c2e8e621eaf34a8fccdabdb520356cb6" type="reel">66</container>
           </did>
         </c>
         <c id="aspace_ref260" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
-            <container id="aspace_1b8b1a4df85526218761255a79d84123" label="Microform" type="film">R-7438</container>
-            <container id="aspace_d88b1c20306f70d10be5c2269b5d232a" parent="aspace_1b8b1a4df85526218761255a79d84123" type="reel">67</container>
+            <container id="aspace_872b705e8266575ccc8ba5f72d73cf90" label="Microform" type="film">R-7438</container>
+            <container id="aspace_3d4f11135451a5028228bd75f11a625d" parent="aspace_872b705e8266575ccc8ba5f72d73cf90" type="reel">67</container>
           </did>
         </c>
         <c id="aspace_ref261" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
-            <container id="aspace_003ad3e47ee01b5134286dd835752f40" label="Microform" type="film">R-7438</container>
-            <container id="aspace_61d43d11d81594b82b99000d29125279" parent="aspace_003ad3e47ee01b5134286dd835752f40" type="reel">68</container>
+            <container id="aspace_e4469651cbafed2600b31bb152665ae6" label="Microform" type="film">R-7438</container>
+            <container id="aspace_d02af9d539a830c49cc0259a659aa25b" parent="aspace_e4469651cbafed2600b31bb152665ae6" type="reel">68</container>
           </did>
         </c>
         <c id="aspace_ref262" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
-            <container id="aspace_2340ae582145aa92c6faf5d8996e17ad" label="Microform" type="film">R-7438</container>
-            <container id="aspace_f8dee353b0a536713aa58bfcba3c33ce" parent="aspace_2340ae582145aa92c6faf5d8996e17ad" type="reel">69</container>
+            <container id="aspace_de6c9e153f246d18f17aee641cbe9908" label="Microform" type="film">R-7438</container>
+            <container id="aspace_df2d12a700923e7b5bdf4de2e1bc09b7" parent="aspace_de6c9e153f246d18f17aee641cbe9908" type="reel">69</container>
           </did>
         </c>
         <c id="aspace_ref263" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1952/1953" type="inclusive">1952-1953</unitdate>
-            <container id="aspace_b22fa2f5d8fc2cec6081647812beaf74" label="Microform" type="film">R-7438</container>
-            <container id="aspace_173864bb1e99170b8811533fc451700e" parent="aspace_b22fa2f5d8fc2cec6081647812beaf74" type="reel">70</container>
+            <container id="aspace_073d78698c552f962c9c3b144a35ba6b" label="Microform" type="film">R-7438</container>
+            <container id="aspace_2f58ca986fa75d6f3b4863403a1758c7" parent="aspace_073d78698c552f962c9c3b144a35ba6b" type="reel">70</container>
           </did>
         </c>
         <c id="aspace_ref264" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1954/1955" type="inclusive">1954-1955</unitdate>
-            <container id="aspace_6b110ea1a547df527d408fdce72ae7cf" label="Microform" type="film">R-7438</container>
-            <container id="aspace_2a8b32114b6479d717bd32f5c04e5a53" parent="aspace_6b110ea1a547df527d408fdce72ae7cf" type="reel">71</container>
+            <container id="aspace_1a8ce3228f7dffb24690ae17b14f41b9" label="Microform" type="film">R-7438</container>
+            <container id="aspace_febc478322467a7244b4ed69257ebab1" parent="aspace_1a8ce3228f7dffb24690ae17b14f41b9" type="reel">71</container>
           </did>
         </c>
         <c id="aspace_ref265" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate>
-            <container id="aspace_84593dc979f9aa756142a668efb6e67a" label="Microform" type="film">R-7438</container>
-            <container id="aspace_dd9ae7bc0f51c90039651ec1f0551052" parent="aspace_84593dc979f9aa756142a668efb6e67a" type="reel">72</container>
+            <container id="aspace_24c14df1ad58ecd8eca3b4b21eec6a05" label="Microform" type="film">R-7438</container>
+            <container id="aspace_6eb81607c2fe689915e38e815c4c7020" parent="aspace_24c14df1ad58ecd8eca3b4b21eec6a05" type="reel">72</container>
           </did>
         </c>
         <c id="aspace_ref266" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1958/1959" type="inclusive">1958-1959</unitdate>
-            <container id="aspace_7825e4b3b907b3e05ac85e480e125be4" label="Microform" type="film">R-7438</container>
-            <container id="aspace_ba165fafdbe1aa68c6d4e76cc6824c70" parent="aspace_7825e4b3b907b3e05ac85e480e125be4" type="reel">73</container>
+            <container id="aspace_578ba12682963501d96680d01ccb5e94" label="Microform" type="film">R-7438</container>
+            <container id="aspace_549f69ed3bd40c7bc27190407e7031a1" parent="aspace_578ba12682963501d96680d01ccb5e94" type="reel">73</container>
           </did>
         </c>
         <c id="aspace_ref267" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1960/1961" type="inclusive">Jan 1960-Jun 1961</unitdate>
-            <container id="aspace_56009a2547c9fd2358c6fa621641919c" label="Microform" type="film">R-7438</container>
-            <container id="aspace_f92b3c34a5c60e443bc8538470f8464c" parent="aspace_56009a2547c9fd2358c6fa621641919c" type="reel">74</container>
+            <container id="aspace_ddf82e5849a3a3167c684d28269eb532" label="Microform" type="film">R-7438</container>
+            <container id="aspace_850963bca7165146c24fa7b1958cfeb5" parent="aspace_ddf82e5849a3a3167c684d28269eb532" type="reel">74</container>
           </did>
         </c>
         <c id="aspace_ref268" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1961/1962" type="inclusive">Jul 1961-Apr 1962</unitdate>
-            <container id="aspace_126d4e9e3ba50965f3ec304ecfd2a05d" label="Microform" type="film">R-7438</container>
-            <container id="aspace_1aeaa2ecc58ea31c36618024628ed1c7" parent="aspace_126d4e9e3ba50965f3ec304ecfd2a05d" type="reel">75</container>
+            <container id="aspace_687f52d09bf6e55ce32538c17154c122" label="Microform" type="film">R-7438</container>
+            <container id="aspace_21e9a7c5053a26691c3ddd3982eebcff" parent="aspace_687f52d09bf6e55ce32538c17154c122" type="reel">75</container>
           </did>
         </c>
         <c id="aspace_ref269" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1962/1963" type="inclusive">Apr 1962-Aug 1963</unitdate>
-            <container id="aspace_927c13307791a24dbd01cf0faf31ae7e" label="Microform" type="film">R-7438</container>
-            <container id="aspace_a8677f988ee2bd1c1b204bdf3716284a" parent="aspace_927c13307791a24dbd01cf0faf31ae7e" type="reel">76</container>
+            <container id="aspace_7557372d96c034452bdc7b6292c999c8" label="Microform" type="film">R-7438</container>
+            <container id="aspace_04f31605c687f9562ee8f560e387340d" parent="aspace_7557372d96c034452bdc7b6292c999c8" type="reel">76</container>
           </did>
         </c>
         <c id="aspace_ref270" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1963/1964" type="inclusive">Aug 1963-1964</unitdate>
-            <container id="aspace_84ebab9cc47767606073b4454da6ff72" label="Microform" type="film">R-7438</container>
-            <container id="aspace_6aaab29e66e1aa7fb41f970752ec5779" parent="aspace_84ebab9cc47767606073b4454da6ff72" type="reel">77</container>
+            <container id="aspace_daf75ce9eadb8ff58095a782c7a926b3" label="Microform" type="film">R-7438</container>
+            <container id="aspace_64d2c27e96692e97ac8cc4858bd40746" parent="aspace_daf75ce9eadb8ff58095a782c7a926b3" type="reel">77</container>
           </did>
         </c>
         <c id="aspace_ref271" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
-            <container id="aspace_433b8c9b26d12301efb023b215bba427" label="Microform" type="film">R-7438</container>
-            <container id="aspace_369132dc797c8636be6cbae8b2ce43f7" parent="aspace_433b8c9b26d12301efb023b215bba427" type="reel">78</container>
+            <container id="aspace_5ada1e55ef0b44ca2aef19b85893a8a1" label="Microform" type="film">R-7438</container>
+            <container id="aspace_1f0840affd93eff761f606a01918e5a3" parent="aspace_5ada1e55ef0b44ca2aef19b85893a8a1" type="reel">78</container>
           </did>
         </c>
         <c id="aspace_ref164" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
-            <container id="aspace_f22f1859b4f89e064f11d80387433359" label="Mixed Materials [31142054629780]" type="box">108</container>
+            <container id="aspace_98664a51ef9abf6c806383e2f93267b8" label="Mixed Materials [31142054629780]" type="box">108</container>
           </did>
         </c>
         <c id="aspace_ref165" level="file">
           <did>
             <unittitle>Cases, Minutes, and Related Material</unittitle>
             <unitdate normal="1980/1999" type="inclusive">1980s-1990s</unitdate>
-            <container id="aspace_d9e69b38e99d27b8aa8a83c373b30b45" label="Mixed Materials [31142054629780]" type="box">108</container>
+            <container id="aspace_0a5f6800ec7d3582bb2e5c8facbdb4af" label="Mixed Materials [31142054629780]" type="box">108</container>
           </did>
         </c>
         <c id="aspace_ref166" level="file">
           <did>
             <unittitle>Cases, Minutes, and Related Material</unittitle>
             <unitdate normal="1960/1999" type="inclusive">1960s-1990s</unitdate>
-            <container id="aspace_343566dffcbdd0db3d7956bbd90c0c3f" label="Mixed Materials [31142054629772]" type="box">109</container>
+            <container id="aspace_bbcf7c6325d6048cf28ac0433b7778d9" label="Mixed Materials [31142054629772]" type="box">109</container>
           </did>
         </c>
         <c id="aspace_ref167" level="file">
           <did>
             <unittitle>Cases, Minutes, and Related Material</unittitle>
             <unitdate normal="1975/1977" type="inclusive">1975-1977</unitdate>
-            <container id="aspace_3e909fff8584c03cce17aa478ae54c69" label="Mixed Materials [31142054629764]" type="box">110</container>
+            <container id="aspace_446caff82d6094f98699f9d80ce96d2c" label="Mixed Materials [31142054629764]" type="box">110</container>
           </did>
         </c>
         <c id="aspace_ref168" level="file">
           <did>
             <unittitle>Cases, Minutes, and Related Material</unittitle>
             <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
-            <container id="aspace_0916abc8680d911ea5a1455cbc1711ba" label="Mixed Materials [31142054629756]" type="box">111</container>
+            <container id="aspace_00e4ae8c2a5699fd7e5f514d04dbe807" label="Mixed Materials [31142054629756]" type="box">111</container>
           </did>
         </c>
         <c id="aspace_ref169" level="file">
           <did>
             <unittitle>Audio Cassette Recording of Trial Board Hearings</unittitle>
             <unitdate normal="1980/1999" type="inclusive">1980s-1990s</unitdate>
-            <container altrender="Record carton" id="aspace_b0742731051826b5fe8dd972d06dc186" label="Mixed Materials" type="box">112</container>
+            <container altrender="Record carton" id="aspace_412a27b5cbc2952241b362f15be0b07a" label="Mixed Materials" type="box">112</container>
           </did>
         </c>
         <c id="aspace_ref170" level="file">
           <did>
             <unittitle>Sixteen 5 1/4 inch Floppy Disks</unittitle>
             <unitdate normal="1980/1983" type="inclusive">early 1980s</unitdate>
-            <container altrender="Record carton" id="aspace_5daa442aeccf290af4725670bcef75d0" label="Mixed Materials" type="box">112</container>
+            <container altrender="Record carton" id="aspace_a8b9fe2fb470ee71fe461cee9a831a11" label="Mixed Materials" type="box">112</container>
           </did>
         </c>
         <c id="aspace_ref171" level="file">
           <did>
             <unittitle>Cases, Minutes, and Related Material</unittitle>
             <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
-            <container id="aspace_bd60e98ed00fe3651a99b11a915e85e0" label="Mixed Materials [31142054629749]" type="box">113</container>
+            <container id="aspace_2e5c70285eaf560db2912b14af631f7f" label="Mixed Materials [31142054629749]" type="box">113</container>
           </did>
         </c>
         <c id="aspace_ref188" level="file">
           <did>
             <unittitle>Meeting Attendance Book</unittitle>
             <unitdate normal="1938/1941" type="inclusive">1938-1941</unitdate>
-            <container id="aspace_0c7ecf878f021da6c90f6a79afafe573" label="Mixed Materials [31142054630325]" type="box">119</container>
+            <container id="aspace_9a5ef4918feaf671b1fe2565cefb5f1f" label="Mixed Materials [31142054630325]" type="box">119</container>
           </did>
         </c>
         <c id="aspace_ref344" level="file">
           <did>
             <unittitle>Meeting Attendance Book</unittitle>
             <unitdate normal="1982/1986" type="inclusive">1982-1986</unitdate>
-            <container id="aspace_853d9ed6c00ab2c443518503426b8da7" label="Mixed Materials [31142054630341]" type="box">129</container>
+            <container id="aspace_3973dbbd9881fcb1c69023d30cc4d514" label="Mixed Materials [31142054630341]" type="box">129</container>
           </did>
         </c>
       </c>
@@ -2337,8 +2348,8 @@
         <did>
           <unittitle>Series X: Oversized Material</unittitle>
           <unitdate>1921-1990s</unitdate>
-          <container id="aspace_cc0314b68cb10123307fb09394c54ad0" label="Mixed Materials [31142054612604]" type="box">121</container>
-          <container id="aspace_1736563363c1334892c117db11103a63" label="Mixed Materials [31142054612596]" type="box">120</container>
+          <container id="aspace_580688057b2764f41f69749fa0584900" label="Mixed Materials [31142054612604]" type="box">121</container>
+          <container id="aspace_2de521bb38b9a60e174ca07db3719778" label="Mixed Materials [31142054612596]" type="box">120</container>
         </did>
         <scopecontent id="aspace_1439af834c3b2fa79a88659649fc384a">
           <head>Scope and Content Note</head>
@@ -2348,50 +2359,50 @@
           <did>
             <unittitle>American Federation of Musicians Convention, Las Vegas: Group Photo of Attendees</unittitle>
             <unitdate normal="1995/1995">1995</unitdate>
-            <container altrender="Flat Box - 12 x 15.25" id="aspace_c963615ec99dadc677882e9e57fa192f" label="Mixed Materials [31142062759843]" type="box">C001</container>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_cea8c2389ca428ea128bf85ab2fa707b" label="Mixed Materials [31142062759843]" type="box">Tamiment Shared C001</container>
           </did>
         </c>
         <c id="aspace_76a4dfcb0eb795c062ba3c85bc077e39" level="file">
           <did>
             <unittitle>Senior Musicians Association: Practice Photos (contact print)</unittitle>
             <unitdate normal="1991/1991">1991</unitdate>
-            <container altrender="Flat Box - 12 x 15.25" id="aspace_a5274891dff01b42836542cbbd8909f8" label="Mixed Materials [31142062759843]" type="box">C001</container>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_fb4dc231b7496762dceaed7e6cbe9f6a" label="Mixed Materials [31142062759843]" type="box">Tamiment Shared C001</container>
           </did>
         </c>
         <c id="aspace_ref180" level="file">
           <did>
             <unittitle>William Feinberg (Secretary) Scrapbook of Correspondence and Ephemera (RESTRICTED: FRAGILE)</unittitle>
             <unitdate normal="1939/1946" type="inclusive">1939-1946</unitdate>
-            <container altrender="OS Flat Box - 15x19x3" id="aspace_d09d021923539e7676b6504534041824" label="Mixed Materials" type="box">116</container>
+            <container altrender="OS Flat Box - 15x19x3" id="aspace_37d75876b49a0a55f96217915a3d04f7" label="Mixed Materials [31142067126311]" type="box">116</container>
           </did>
         </c>
         <c id="aspace_ref181" level="file">
           <did>
             <unittitle>Clippings Scrapbook Covering the Picketing of Movie Theatres that Play "Canned Music" (RESTRICTED: FRAGILE)</unittitle>
             <unitdate normal="1936/1936" type="inclusive">Sep 1936-Dec 1936</unitdate>
-            <container altrender="OS Flat Box - 15x19x3" id="aspace_3dd2ffeade6bc8ef2e94df749a927891" label="Mixed Materials" type="box">116</container>
+            <container altrender="OS Flat Box - 15x19x3" id="aspace_9c13755a8e1027f4c994aa617df98fe2" label="Mixed Materials [31142067126311]" type="box">116</container>
           </did>
         </c>
         <c id="aspace_ref182" level="file">
           <did>
             <unittitle>Clippings Scrapbook (RESTRICTED: FRAGILE)</unittitle>
             <unitdate normal="1935/1946" type="inclusive">1935-1946</unitdate>
-            <container altrender="OS Flat Box - 15x19x3" id="aspace_b6d9afc0560d6ca10c7e216f612265f8" label="Mixed Materials" type="box">117</container>
+            <container altrender="OS Flat Box - 15x19x3" id="aspace_e93bf008ace6b04f1643fc1496c3ee6c" label="Mixed Materials [31142067126329]" type="box">117</container>
           </did>
         </c>
         <c id="aspace_ref183" level="file">
           <did>
             <unittitle>Leaves from Clippings Scrapbook (RESTRICTED: FRAGILE)</unittitle>
             <unitdate normal="1938/1946" type="inclusive">circa 1940-1944</unitdate>
-            <container altrender="OS Flat Box - 15x19x3" id="aspace_999cb2dbef270136af08ecb30a518ef5" label="Mixed Materials" type="box">117</container>
+            <container altrender="OS Flat Box - 15x19x3" id="aspace_26547d1819d54930f652fd24d9c37046" label="Mixed Materials [31142067126329]" type="box">117</container>
           </did>
         </c>
         <c id="aspace_ref318" level="file">
           <did>
             <unittitle>Founding Membership Ledger: A-L</unittitle>
             <unitdate normal="1921/1924" type="inclusive">1921-1924</unitdate>
-            <container id="aspace_04026bb9f0b6cc8863ce08f25f1981d4" label="Microform" type="film">R-7886</container>
-            <container id="aspace_59efeec2b085c734cce625ca26de97b9" parent="aspace_04026bb9f0b6cc8863ce08f25f1981d4" type="reel">1</container>
+            <container id="aspace_d204f55d154946309f354a2f69242256" label="Microform" type="film">R-7886</container>
+            <container id="aspace_ea625aa0b4eedfc5dc4627160455c1ea" parent="aspace_d204f55d154946309f354a2f69242256" type="reel">1</container>
           </did>
           <odd id="aspace_93a24e976be6ba4a56649babd161d932">
             <head>General</head>
@@ -2402,8 +2413,8 @@
           <did>
             <unittitle>Founding Membership Ledger: M-Z</unittitle>
             <unitdate normal="1921/1924" type="inclusive">1921-1924</unitdate>
-            <container id="aspace_5dcd5ebb88fde18c282332ba7f842c8b" label="Microform" type="film">R-7886</container>
-            <container id="aspace_49cfdc7d1aec5367c61ea2e9637bd52d" parent="aspace_5dcd5ebb88fde18c282332ba7f842c8b" type="reel">2</container>
+            <container id="aspace_ca6e64101eaed71ccbf72d775cb54702" label="Microform" type="film">R-7886</container>
+            <container id="aspace_f72ca792c41a4a8fe45100469fb0edb9" parent="aspace_ca6e64101eaed71ccbf72d775cb54702" type="reel">2</container>
           </did>
           <odd id="aspace_f6e153513d9bb7d1bb2afec1ff96a491">
             <head>General</head>
@@ -2424,28 +2435,47 @@
           <did>
             <unittitle>Publicity Photographs</unittitle>
             <unitdate normal="1921/2010" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_49e836edfba4276257f4c230ae583fbe" label="Mixed Materials [31142062722569]" type="box">A005</container>
+            <container altrender="Manuscript box - Legal" id="aspace_31eba75df1cb41d7861feb695228bb82" label="Mixed Materials [31142062722569]" type="box">Tamiment Shared A005</container>
           </did>
         </c>
       </c>
       <c id="aspace_ref378" level="series">
         <did>
-          <unittitle>Series XII: Archived Website</unittitle>
-          <unitdate>Jan 28, 2009-ongoing</unitdate>
-          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6349/*/http://www.local802afm.org/" xlink:role="external-link" xlink:show="new" xlink:title="American Federation of Musicans, Local 802" xlink:type="simple">
+          <unittitle>Series XII: Archived Websites</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2 websites</extent>
+            <extent altrender="carrier">in 2 archived websites.</extent>
+          </physdesc>
+          <unitdate normal="2007-09-23/2007-09-23">September 2007-ongoing</unitdate>
+          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6349/*/http://www.local802afm.org/" xlink:role="external-link" xlink:show="new" xlink:title="American Federation of Musicans, Local 802 Archived Website" xlink:type="simple">
             <daodesc>
-              <p>American Federation of Musicans, Local 802</p>
+              <p>American Federation of Musicans, Local 802 Archived Website: September 2007-ongoing</p>
+            </daodesc>
+          </dao>
+          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6349/*/https://erf.local802afm.org/" xlink:role="external-link" xlink:show="new" xlink:title="Musicians' Emergency Relief Fund Archived Website" xlink:type="simple">
+            <daodesc>
+              <p>Musicians' Emergency Relief Fund Archived Website: May 2020-ongoing</p>
             </daodesc>
           </dao>
         </did>
         <scopecontent id="aspace_5c537ef57b5896d529fdd3ce5a09aadb">
           <head>Scope and Content Note</head>
-          <p>Local 802 of the American Federation of Musicians is a local union of professional musicians living or working in New York City, Nassau and Suffolk counties, New York. The union's mission is to fight for the interests and well being of the musicians employed in New York's music and entertainment industries through organizing and collective bargaining as well as through legislative and political action. The website contains agreements and contracts, their Allegro magazine and other news postings, and event listings.</p>
+          <p>Local 802 of the American Federation of Musicians is a local union of professional musicians living or working in New York City, Nassau and Suffolk counties, New York. The union's mission is to fight for the interests and well being of the musicians employed in New York's music and entertainment industries through organizing and collective bargaining as well as through legislative and political action. The website contains agreements and contracts, their <emph render="italic">Allegro</emph> magazine and other news postings, and event listings.</p>
+          <p>The Musicians' Emergency Relief Fund is a fund for members of the American Federation of Musicians, Local 802. The website contains assistance applications, board of trustees and supporter information, initiatives and event information that fund raise for the fund, information on services to support member musicians, and testimonials from fund recipients. In 2020, the fund focused on raising funds for musicians affected by the COVID-19 pandemic.</p>
         </scopecontent>
         <phystech id="aspace_a575dc970fd9d25eb6a60eb9c9baef03">
           <head>Physical Characteristics and Technical Requirements</head>
           <p>Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</p>
         </phystech>
+        <accruals id="aspace_4a7789b16339f8e849a095efbf77cd93">
+          <head>Accruals</head>
+          <p>https://www.local802afm.org/ is accrued quarterly. https://erf.local802afm.org/ is accrued monthly.</p>
+        </accruals>
+        <appraisal id="aspace_84d905adfab7ebea6c2cfa35e271d91e">
+          <head>Appraisal</head>
+          <p>Crawl was limited to domains and subdomains of local802afm.org in order to remain within the collection scope and data constraints.</p>
+          <p>Robots.txt (a piece of code designed to limit crawler activity within a website) was ignored with the permission of the content owner. </p>
+        </appraisal>
       </c>
     </dsc>
   </archdesc>

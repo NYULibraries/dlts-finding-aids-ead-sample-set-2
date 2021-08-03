@@ -23,7 +23,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:38:14 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-08-03 11:40:07 -0400</date>.</creation>
       <langusage>Finding aid written in English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -44,6 +44,14 @@
         <date>January 2020</date>
         <item>Edited by Nic Caldwell to reflect the arrangement of digital materials</item>
       </change>
+      <change>
+        <date>July 2020</date>
+        <item>Edited by Anna Björnsson McCormick to add a Related Archival Materials note. </item>
+      </change>
+      <change>
+        <date>May 2021</date>
+        <item>Edited by Rachel Searcy to reflect 2021 accretion</item>
+      </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
@@ -61,8 +69,8 @@
         <extent altrender="carrier">in 1 manuscript box and one card box</extent>
       </physdesc>
       <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">17.35 Gigabytes</extent>
-        <extent altrender="carrier">in 23 computer files</extent>
+        <extent altrender="materialtype spaceoccupied">17.48 Gigabytes</extent>
+        <extent altrender="carrier">in 27 computer files</extent>
       </physdesc>
       <physdesc altrender="part">
         <extent altrender="materialtype spaceoccupied">6 sound discs (cd)</extent>
@@ -70,7 +78,7 @@
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">2 sound discs (minidisc)</extent>
       </physdesc>
-      <unitdate normal="2014/2019" type="inclusive">2014-2019</unitdate>
+      <unitdate normal="2014/2021" type="inclusive">2014-2021</unitdate>
       <abstract id="aspace_608607052618a9a87ec6e0d79649ba41">The Professional Staff Congress (PSC) is a union founded in 1972 that represents staff and faculty at the City University of New York (CUNY) and CUNY Research Foundation. The Professional Staff Congress/City University of New York Oral History Collection represents a collective oral history project, which documents the activities of the organization from its inception to 2017. Some of the interviews were recorded on sound discs and some were recorded digitally. Written transcripts are available for the interviews recorded on sound discs.</abstract>
       <langmaterial id="aspace_dc3b0eec214d6340971baef30fccdf21">Materials are in English.</langmaterial>
     </did>
@@ -80,7 +88,7 @@
     </accessrestrict>
     <acqinfo id="aspace_b3ae15522de76bf03a918ce2060693cc">
       <head>Immediate Source of Acquisition</head>
-      <p>Donated by the Professional Staff Congress/CUNY in circa 2014; additional materails were donated in increments between 2014 and 2019. The accession number associated with these gifts are 1986.012 and 2018.083. An additional interview with Bob Cermele was donated by Shomial Ahmad in May 2019; the accession number associated with this gift is 2019.115. Ahmad later donated transcripts of interviews with Joan Green and Lilia Melani, as well as an audio recording of Melani's interview in September 2019; the accession number associated with this gift is 2020.001.</p>
+      <p>Donated by the Professional Staff Congress/CUNY in circa 2014; additional materails were donated in increments between 2014 and 2021. The accession number associated with these gifts are 1986.012 and 2018.083. An additional interview with Bob Cermele was donated by Shomial Ahmad in May 2019; the accession number associated with this gift is 2019.115. Ahmad later donated transcripts of interviews with Joan Green and Lilia Melani, as well as an audio recording of Melani's interview in September 2019; the accession number associated with this gift is 2020.001. In 2021, Ahmad donated audio recordings and transcripts of interviews with Peter Jonas and Lorraine Cohen; the accession number associated with this gift is 2021.025.</p>
     </acqinfo>
     <bioghist id="aspace_e6f8cdf76f33a7cfe40436ed8ad280ba">
       <head>Historical Note</head>
@@ -124,14 +132,55 @@
       <corpname source="naf">City University of New York -- Faculty</corpname>
     </controlaccess>
     <dsc>
+      <c id="aspace_3db93708e9577981504d5861af9acf48" level="file">
+        <did>
+          <unittitle>Debra Bergen</unittitle>
+          <unitdate normal="2016-11-22/2016-11-22">2016-11-22</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_a4ab4500fd14d390ea8d7a4cd0fb7623" label="electronic records" type="box">Electronic Records</container>
+          <container id="aspace_2a2084a16f417565f9f90a4993138e06" parent="aspace_a4ab4500fd14d390ea8d7a4cd0fb7623" type="E-records">TW_OH_61_ER_1</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Debra Bergen" xlink:type="simple">
+            <daodesc>
+              <p>Debra Bergen: 2016-11-22-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_a976073f289e08b258220a3daca1f605" level="file">
+        <did>
+          <unittitle>Bob Cermele</unittitle>
+          <unitdate>undated</unitdate>
+          <container id="aspace_5e5b146f2f143528e2df0530a6637f4c" label="electronic records" type="box">Electronic Records</container>
+          <container id="aspace_aebb3f5ce4f824e1a65ed6bbdb871c84" parent="aspace_5e5b146f2f143528e2df0530a6637f4c" type="E-records">TW_OH_61_ER_11</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Bob Cermele" xlink:type="simple">
+            <daodesc>
+              <p>Bob Cermele: undated</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_aee90eb03382b75dc52916721d3af331" level="file">
+        <did>
+          <unittitle>Lorraine Cohen</unittitle>
+          <unitid>cuid34861</unitid>
+          <unitdate normal="2020-02-26/2020-02-26">2020-02-26</unitdate>
+          <container id="aspace_67cba532e6b297192389f859d64d59ea" label="electronic records" type="box">Electronic Records</container>
+          <container id="aspace_d6a191c072a7b4afecf259d34925f0fd" parent="aspace_67cba532e6b297192389f859d64d59ea" type="E-records">TW_OH_61_ER_14</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Lorraine Cohen" xlink:type="simple">
+            <daodesc>
+              <p>Lorraine Cohen: 2020-02-26-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
       <c id="aspace_1b0a907ec8fc39137894f8189403776e" level="file">
         <did>
           <unittitle>Joan Greenbaum</unittitle>
           <unitid>cuid34411</unitid>
           <unitdate normal="2019-05-16/2019-05-16">2019-05-16</unitdate>
-          <container id="aspace_66b33a8a64518a9689aafd89038dfcfa" label="electronic records" type="box">Electronic Records</container>
-          <container id="aspace_094654b3099a8dbd43de2a7ac763f311" parent="aspace_66b33a8a64518a9689aafd89038dfcfa" type="E-records">TW_OH_61_ER_12</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-service" xlink:show="new" xlink:title="Joan Green" xlink:type="simple">
+          <container id="aspace_cb090acef660180fed4707f101f29160" label="electronic records" type="box">Electronic Records</container>
+          <container id="aspace_b4b1dafa96a12139c0d983f9977bb72d" parent="aspace_cb090acef660180fed4707f101f29160" type="E-records">TW_OH_61_ER_12</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Joan Green" xlink:type="simple">
             <daodesc>
               <p>Joan Green: 2019-05-16-</p>
             </daodesc>
@@ -142,68 +191,10 @@
         <did>
           <unittitle>Beatrice Kachuck</unittitle>
           <unitdate>undated</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_4a37a1603ae27107e0a6621933e0478f" label="Mixed Materials [31142062672285]" type="box">1</container>
-          <container id="aspace_efedb5bb60d840bd50cd558a98f38896" parent="aspace_4a37a1603ae27107e0a6621933e0478f" type="folder">1</container>
-          <container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_7ad0a947e3bc1cdbd25085fceeeef288" label="master cd [31142062672293]" type="box">2</container>
-          <container id="aspace_abefca449f1a05ec084229434da69fc3" parent="aspace_7ad0a947e3bc1cdbd25085fceeeef288" type="cd">Kachuck</container>
-        </did>
-      </c>
-      <c id="aspace_505a2b07b764ee20ecd257b513d00fda" level="file">
-        <did>
-          <unittitle>Gerald Meyer</unittitle>
-          <unitdate>undated</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Letter" id="aspace_6883a592edc9250a8ea8d0affd72a8f1" label="Mixed Materials [31142062672285]" type="box">1</container>
-          <container id="aspace_7fc67e4ec6c560f6687a730e45fe8d77" parent="aspace_6883a592edc9250a8ea8d0affd72a8f1" type="folder">3</container>
-          <container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_94e45a9d9cd4c8c6e8ce5ef0808f51ce" label="master cd [31142062672293]" type="box">2</container>
-          <container id="aspace_033e93c4449ab151372851f24a713390" parent="aspace_94e45a9d9cd4c8c6e8ce5ef0808f51ce" type="cd">Meyer</container>
-        </did>
-      </c>
-      <c id="aspace_c78568280d60317d9f635460a5c08a18" level="file">
-        <did>
-          <unittitle>Irwin Poolishook</unittitle>
-          <unitdate normal="2004-07-12/2004-07-12">2004-07-12</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Letter" id="aspace_44080cc497b2bacf736bfc16af2c649d" label="Mixed Materials [31142062672285]" type="box">1</container>
-          <container id="aspace_8c704dff1673d58b30b7871ca21761c5" parent="aspace_44080cc497b2bacf736bfc16af2c649d" type="folder">4</container>
-          <container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_99ac9b2133785ef68fe2b48b5703dc21" label="master cd [31142062672293]" type="box">2</container>
-          <container id="aspace_23fae826eac05b7bb19ade0b668d3b81" parent="aspace_99ac9b2133785ef68fe2b48b5703dc21" type="cd">Polishook</container>
-        </did>
-      </c>
-      <c id="aspace_cf4d00bea93bb0bb6edb322c2ca9ef4f" level="file">
-        <did>
-          <unittitle>Clarissa Weiss</unittitle>
-          <unitdate>undated</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Letter" id="aspace_75a627da15ac225e54c6afd9dd3ff6bc" label="Mixed Materials [31142062672285]" type="box">1</container>
-          <container id="aspace_c0391c4a89495644c0ea509a2b91f737" parent="aspace_75a627da15ac225e54c6afd9dd3ff6bc" type="folder">5</container>
-          <container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_b503c13c9dd218c6a1fa7a20a2145009" label="master cd [31142062672293]" type="box">2</container>
-          <container id="aspace_f8640099a74b9a9ff78a5bcf10067da6" parent="aspace_b503c13c9dd218c6a1fa7a20a2145009" type="cd">Weiss</container>
-        </did>
-      </c>
-      <c id="aspace_5be76a618810b44311415bf14c1d0ea8" level="file">
-        <did>
-          <unittitle>Mohammed Yusef</unittitle>
-          <unitdate normal="2005-03-02/2005-03-02">2005-03-02</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Letter" id="aspace_15910f491fcdd259269181375d387cdd" label="Mixed Materials [31142062672285]" type="box">1</container>
-          <container id="aspace_b9ece7d49c2e5f8dc0c39fd96db897a1" parent="aspace_15910f491fcdd259269181375d387cdd" type="folder">6</container>
-          <container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_88eb15df6864e1b4ea04929293f9ecd7" label="master cd [31142062672293]" type="box">2</container>
-          <container id="aspace_ccddcf64511d38e6485cd02a2d2319bb" parent="aspace_88eb15df6864e1b4ea04929293f9ecd7" type="cd">Yusef</container>
-        </did>
-      </c>
-      <c id="aspace_3db93708e9577981504d5861af9acf48" level="file">
-        <did>
-          <unittitle>Debra Bergen</unittitle>
-          <unitdate normal="2016-11-22/2016-11-22">2016-11-22</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container id="aspace_90fb7fec214b1eed1a650c245ea54ac6" label="electronic records" type="box">Electronic Records</container>
-          <container id="aspace_4b52f4420ade4f5f868f97c692066986" parent="aspace_90fb7fec214b1eed1a650c245ea54ac6" type="E-records">TW_OH_61_ER_1</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-service" xlink:show="new" xlink:title="Debra Bergen" xlink:type="simple">
-            <daodesc>
-              <p>Debra Bergen: 2016-11-22-</p>
-            </daodesc>
-          </dao>
+          <container altrender="Manuscript box - Letter" id="aspace_8b759988f9afd3cf00f55218a41ba370" label="Mixed Materials [31142062672285]" type="box">1</container>
+          <container id="aspace_b433622f84823f0fe27de4bf63f88ce0" parent="aspace_8b759988f9afd3cf00f55218a41ba370" type="folder">1</container>
+          <container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_d6c27fd7551101d513daac414b512ba1" label="master cd [31142062672293]" type="box">2</container>
+          <container id="aspace_292a4566c65efd6f3b72d44d35e187a1" parent="aspace_d6c27fd7551101d513daac414b512ba1" type="cd">Kachuck</container>
         </did>
       </c>
       <c id="aspace_db716b66a84510103206400b9b4f9f51" level="file">
@@ -211,9 +202,9 @@
           <unittitle>Bill Friedheim</unittitle>
           <unitdate normal="2016-01-08/2016-01-08">2016-01-08</unitdate>
           <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container id="aspace_1faeb24b023c8e186a9c78afb77d926e" label="electronic records" type="box">Electronic Records</container>
-          <container id="aspace_2cd01eea9da61012ca682b0eea25aa7c" parent="aspace_1faeb24b023c8e186a9c78afb77d926e" type="E-records">TW_OH_61_ER_2</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-service" xlink:show="new" xlink:title="Bill Friedheim" xlink:type="simple">
+          <container id="aspace_aaf3744cb79513da6a2eacd07523f2f1" label="electronic records" type="box">Electronic Records</container>
+          <container id="aspace_dafc752733de81fcae15bb4fd3185fc3" parent="aspace_aaf3744cb79513da6a2eacd07523f2f1" type="E-records">TW_OH_61_ER_2</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Bill Friedheim" xlink:type="simple">
             <daodesc>
               <p>Bill Friedheim: 2016-01-08-</p>
             </daodesc>
@@ -225,9 +216,9 @@
           <unittitle>John Hyland</unittitle>
           <unitdate normal="2014-07-23/2014-07-23">2014-07-23</unitdate>
           <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container id="aspace_e8324f955d02506d911ec8e2b0bb9507" label="electronic records" type="box">Electronic Records</container>
-          <container id="aspace_c508c0e0efda977a49be92d6455d49fe" parent="aspace_e8324f955d02506d911ec8e2b0bb9507" type="E-records">TW_OH_61_ER_3</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-service" xlink:show="new" xlink:title="John Hyland" xlink:type="simple">
+          <container id="aspace_69b7e1922bd9eef6a78c11b592854446" label="electronic records" type="box">Electronic Records</container>
+          <container id="aspace_0094995b22c030ec1f129a814c024ee4" parent="aspace_69b7e1922bd9eef6a78c11b592854446" type="E-records">TW_OH_61_ER_3</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="John Hyland" xlink:type="simple">
             <daodesc>
               <p>John Hyland: 2014-07-23-</p>
             </daodesc>
@@ -239,17 +230,31 @@
           <unittitle>Mary F. Brice Jennings</unittitle>
           <unitdate type="inclusive">undated</unitdate>
           <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_a9797cae76759ce6cbb83f8fa8c54eea" label="master cd [31142062672293]" type="box">2</container>
-          <container id="aspace_3e334d005dc96c691edd8d857b95d601" parent="aspace_a9797cae76759ce6cbb83f8fa8c54eea" type="cd">Brice Jennings</container>
+          <container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_3384e8193db8979b550f8fc45b84b73e" label="master cd [31142062672293]" type="box">2</container>
+          <container id="aspace_8c5f9cba8e1d315bcea2b698d4bb44d4" parent="aspace_3384e8193db8979b550f8fc45b84b73e" type="cd">Brice Jennings</container>
+        </did>
+      </c>
+      <c id="aspace_3022d03494fee22e438cd8ca6c3fcbcd" level="file">
+        <did>
+          <unittitle>Peter Jonas</unittitle>
+          <unitid>cuid34862</unitid>
+          <unitdate normal="2021-02-05/2021-02-05">2021-02-05</unitdate>
+          <container id="aspace_d2abaf32eaabb2ee66e9bd8a78bef1f0" label="electronic records" type="box">Electronic Records</container>
+          <container id="aspace_c027f0fc48d043017dfe0011a28b87c3" parent="aspace_d2abaf32eaabb2ee66e9bd8a78bef1f0" type="E-records">TW_OH_61_ER_15</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Peter Jonas" xlink:type="simple">
+            <daodesc>
+              <p>Peter Jonas: 2021-02-05-</p>
+            </daodesc>
+          </dao>
         </did>
       </c>
       <c id="aspace_af2d31e832be0cf6b9e2b9f0380bf43f" level="file">
         <did>
           <unittitle>Steve Leberstein</unittitle>
           <unitdate normal="2016-01-21/2016-01-21">2016-01-21</unitdate>
-          <container id="aspace_839d04dcc7533288341dcbf82ee4151b" label="electronic records" type="box">Electronic Records</container>
-          <container id="aspace_3dfc273a2ec433cedd6a728ae5d88b9a" parent="aspace_839d04dcc7533288341dcbf82ee4151b" type="E-records">TW_OH_61_ER_4</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-service" xlink:show="new" xlink:title="Steve Leberstein" xlink:type="simple">
+          <container id="aspace_07ac883f4b86721fb545ae6e627c2fd3" label="electronic records" type="box">Electronic Records</container>
+          <container id="aspace_1f76a4d1f0f87f2b4ba614bef6cb45b0" parent="aspace_07ac883f4b86721fb545ae6e627c2fd3" type="E-records">TW_OH_61_ER_4</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Steve Leberstein" xlink:type="simple">
             <daodesc>
               <p>Steve Leberstein: 2016-01-21-</p>
             </daodesc>
@@ -260,9 +265,9 @@
         <did>
           <unittitle>Cecelia McCall</unittitle>
           <unitdate normal="2016-03-23/2016-03-23">2016-03-23</unitdate>
-          <container id="aspace_f70b7471797040b3034865f2204c4951" label="electronic records" type="box">Electronic Records</container>
-          <container id="aspace_1c218955181fc59517c3372ca9a0fae3" parent="aspace_f70b7471797040b3034865f2204c4951" type="E-records">TW_OH_61_ER_5</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-service" xlink:show="new" xlink:title="Cecelia McCall" xlink:type="simple">
+          <container id="aspace_3eae3614cd7474fd4cad0af0d160ffd7" label="electronic records" type="box">Electronic Records</container>
+          <container id="aspace_dd76bf6a6a0a60d7d2701198142ae102" parent="aspace_3eae3614cd7474fd4cad0af0d160ffd7" type="E-records">TW_OH_61_ER_5</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Cecelia McCall" xlink:type="simple">
             <daodesc>
               <p>Cecelia McCall: 2016-03-23-</p>
             </daodesc>
@@ -274,13 +279,24 @@
           <unittitle>Lilia Melani</unittitle>
           <unitid>cuid34412</unitid>
           <unitdate normal="2019-05-22/2019-05-22">2019-05-22</unitdate>
-          <container id="aspace_cd5021028069ccd6797203bed92f0b75" label="electronic records" type="box">Electronic Records</container>
-          <container id="aspace_8c5ff45e5e9db6d898feb78855c7c5e7" parent="aspace_cd5021028069ccd6797203bed92f0b75" type="E-records">TW_OH_61_ER_13</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-service" xlink:show="new" xlink:title="Lilia Melani" xlink:type="simple">
+          <container id="aspace_46868c9417d5655b813313fc37723dc7" label="electronic records" type="box">Electronic Records</container>
+          <container id="aspace_8cae8d8ca5fb27393b43012e2f4626ec" parent="aspace_46868c9417d5655b813313fc37723dc7" type="E-records">TW_OH_61_ER_13</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Lilia Melani" xlink:type="simple">
             <daodesc>
               <p>Lilia Melani: 2019-05-22-</p>
             </daodesc>
           </dao>
+        </did>
+      </c>
+      <c id="aspace_505a2b07b764ee20ecd257b513d00fda" level="file">
+        <did>
+          <unittitle>Gerald Meyer</unittitle>
+          <unitdate>undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_b1b56da5fca7ead54c7557b723d82d31" label="Mixed Materials [31142062672285]" type="box">1</container>
+          <container id="aspace_2432439171e65ba878ca167a5ea74b49" parent="aspace_b1b56da5fca7ead54c7557b723d82d31" type="folder">3</container>
+          <container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_aecc8834804d450304c0b92b1ff65f72" label="master cd [31142062672293]" type="box">2</container>
+          <container id="aspace_615fdf22d074da792e09fb1f6be0eeea" parent="aspace_aecc8834804d450304c0b92b1ff65f72" type="cd">Meyer</container>
         </did>
       </c>
       <c id="aspace_cd334382334af68ff88c893ce5e5199c" level="file">
@@ -288,22 +304,33 @@
           <unittitle>Marcia Newfield</unittitle>
           <unitdate normal="2017-01-31/2017-01-31">2017-01-31</unitdate>
           <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container id="aspace_268d5eb05ab70b44c9e9ff3430dea51d" label="electronic records" type="box">Electronic Records</container>
-          <container id="aspace_4f8b4c737cc744d618d84ab76e084f95" parent="aspace_268d5eb05ab70b44c9e9ff3430dea51d" type="E-records">TW_OH_61_ER_6</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-service" xlink:show="new" xlink:title="Marcia Newfield" xlink:type="simple">
+          <container id="aspace_ed16c8a640cb7fd2af7bc1ce37944989" label="electronic records" type="box">Electronic Records</container>
+          <container id="aspace_0caf98311125c1dc9eb6c59f377b6b3a" parent="aspace_ed16c8a640cb7fd2af7bc1ce37944989" type="E-records">TW_OH_61_ER_6</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Marcia Newfield" xlink:type="simple">
             <daodesc>
               <p>Marcia Newfield: 2017-01-31-</p>
             </daodesc>
           </dao>
         </did>
       </c>
+      <c id="aspace_c78568280d60317d9f635460a5c08a18" level="file">
+        <did>
+          <unittitle>Irwin Poolishook</unittitle>
+          <unitdate normal="2004-07-12/2004-07-12">2004-07-12</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_382007c8b7347d5b562657e12c99fd00" label="Mixed Materials [31142062672285]" type="box">1</container>
+          <container id="aspace_51a7d0b0a789a55cfd456d142efcb6bb" parent="aspace_382007c8b7347d5b562657e12c99fd00" type="folder">4</container>
+          <container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_9b6b2272bee43ff9621f6ea705fffd2d" label="master cd [31142062672293]" type="box">2</container>
+          <container id="aspace_def9852c0f8fdb7ff7bd351ffbb4eaf5" parent="aspace_9b6b2272bee43ff9621f6ea705fffd2d" type="cd">Polishook</container>
+        </did>
+      </c>
       <c id="aspace_73e0be89e62e38c385c7bb6fbf3d5ef3" level="file">
         <did>
           <unittitle>Nick Russo</unittitle>
           <unitdate normal="2014-08-07/2014-08-07">2014-08-07</unitdate>
-          <container id="aspace_222141015d42867ec55593ed819a6593" label="electronic records" type="box">Electronic Records</container>
-          <container id="aspace_f8aeec067c8fc35f8fe2d91e257b6f02" parent="aspace_222141015d42867ec55593ed819a6593" type="E-records">TW_OH_61_ER_7</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-service" xlink:show="new" xlink:title="Nick Russo" xlink:type="simple">
+          <container id="aspace_660cae4312de800c8d7bd26d0115e97e" label="electronic records" type="box">Electronic Records</container>
+          <container id="aspace_95d8ea69d07ba3dc845e6db7b7841560" parent="aspace_660cae4312de800c8d7bd26d0115e97e" type="E-records">TW_OH_61_ER_7</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Nick Russo" xlink:type="simple">
             <daodesc>
               <p>Nick Russo: 2014-08-07-</p>
             </daodesc>
@@ -315,9 +342,9 @@
           <unittitle>Ezra Seltzer</unittitle>
           <unitdate normal="2014-07-14/2014-07-14">2014-07-14</unitdate>
           <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container id="aspace_af24803c9b96d5045eb8ec670666ec70" label="electronic records" type="box">Electronic Records</container>
-          <container id="aspace_368cea1260bc884efdb72cffb8204b29" parent="aspace_af24803c9b96d5045eb8ec670666ec70" type="E-records">TW_OH_61_ER_8</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-service" xlink:show="new" xlink:title="Ezra Seltzer" xlink:type="simple">
+          <container id="aspace_9597c58d972e3044d631603c18d889a6" label="electronic records" type="box">Electronic Records</container>
+          <container id="aspace_2c7027ea6142acaf72a1661c909a71fa" parent="aspace_9597c58d972e3044d631603c18d889a6" type="E-records">TW_OH_61_ER_8</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Ezra Seltzer" xlink:type="simple">
             <daodesc>
               <p>Ezra Seltzer: 2014-07-14-</p>
             </daodesc>
@@ -329,13 +356,24 @@
           <unittitle>Vera Weekes</unittitle>
           <unitdate normal="2014-11-06/2014-11-06">2014-11-06</unitdate>
           <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container id="aspace_f381e80740e96a4bd17d0153263b42fe" label="electronic records" type="box">Electronic Records</container>
-          <container id="aspace_cfe19b1390a9d38bfa80ff373e72c9b1" parent="aspace_f381e80740e96a4bd17d0153263b42fe" type="E-records">TW_OH_61_ER_9</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-service" xlink:show="new" xlink:title="Vera Weekes" xlink:type="simple">
+          <container id="aspace_a076bdbfddb020c9c732acce205165be" label="electronic records" type="box">Electronic Records</container>
+          <container id="aspace_0cedc27da6a9b65c0d5fe0417abfb714" parent="aspace_a076bdbfddb020c9c732acce205165be" type="E-records">TW_OH_61_ER_9</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Vera Weekes" xlink:type="simple">
             <daodesc>
               <p>Vera Weekes: 2014-11-06-</p>
             </daodesc>
           </dao>
+        </did>
+      </c>
+      <c id="aspace_cf4d00bea93bb0bb6edb322c2ca9ef4f" level="file">
+        <did>
+          <unittitle>Clarissa Weiss</unittitle>
+          <unitdate>undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_9bb44a19a41fb14a05f05135786595f3" label="Mixed Materials [31142062672285]" type="box">1</container>
+          <container id="aspace_208e2b162abe36f2786d859cead34e78" parent="aspace_9bb44a19a41fb14a05f05135786595f3" type="folder">5</container>
+          <container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_7048e95cf1a7cbfb982dbf765d3c77a2" label="master cd [31142062672293]" type="box">2</container>
+          <container id="aspace_d4247198a67a5ac4fb159b37bdf2f56b" parent="aspace_7048e95cf1a7cbfb982dbf765d3c77a2" type="cd">Weiss</container>
         </did>
       </c>
       <c id="aspace_ca5d0f0dde33b466cc707c783402ed01" level="file">
@@ -343,26 +381,24 @@
           <unittitle>Irwin Yellowitz</unittitle>
           <unitdate normal="2014-11-05/2014-11-05">2014-11-05</unitdate>
           <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container id="aspace_a7cc1c2acb99facec453e4bac5ac6674" label="electronic records" type="box">Electronic Records</container>
-          <container id="aspace_ca6fc29fe8cbe7640354733070f478a6" parent="aspace_a7cc1c2acb99facec453e4bac5ac6674" type="E-records">TW_OH_61_ER_10</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-service" xlink:show="new" xlink:title="Irwin Yellowitz" xlink:type="simple">
+          <container id="aspace_e8b5a49f639745c25a3476cd6f168a30" label="electronic records" type="box">Electronic Records</container>
+          <container id="aspace_fcf20b7ef317531b66ba9f6e59a5d524" parent="aspace_e8b5a49f639745c25a3476cd6f168a30" type="E-records">TW_OH_61_ER_10</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Irwin Yellowitz" xlink:type="simple">
             <daodesc>
               <p>Irwin Yellowitz: 2014-11-05-</p>
             </daodesc>
           </dao>
         </did>
       </c>
-      <c id="aspace_a976073f289e08b258220a3daca1f605" level="file">
+      <c id="aspace_5be76a618810b44311415bf14c1d0ea8" level="file">
         <did>
-          <unittitle>Bob Cermele</unittitle>
-          <unitdate>undated</unitdate>
-          <container id="aspace_df2f96bf44ad163e772ecf6f3304d5e3" label="electronic records" type="box">Electronic Records</container>
-          <container id="aspace_538579b18c3bca8e222e1b5ced533f40" parent="aspace_df2f96bf44ad163e772ecf6f3304d5e3" type="E-records">TW_OH_61_ER_11</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_061.xml&amp;view=xml" xlink:role="electronic-records-service" xlink:show="new" xlink:title="Bob Cermele" xlink:type="simple">
-            <daodesc>
-              <p>Bob Cermele: undated</p>
-            </daodesc>
-          </dao>
+          <unittitle>Mohammed Yusef</unittitle>
+          <unitdate normal="2005-03-02/2005-03-02">2005-03-02</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter" id="aspace_aebe837bb53c82551365fc40e1c17c07" label="Mixed Materials [31142062672285]" type="box">1</container>
+          <container id="aspace_6146ab22a3bb9235ef5fa0c91149d95a" parent="aspace_aebe837bb53c82551365fc40e1c17c07" type="folder">6</container>
+          <container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_bd08060ba2365236c2855f990dbb8e69" label="master cd [31142062672293]" type="box">2</container>
+          <container id="aspace_e7068a725302b4c00bc4b02efb0524d6" parent="aspace_bd08060ba2365236c2855f990dbb8e69" type="cd">Yusef</container>
         </did>
       </c>
     </dsc>

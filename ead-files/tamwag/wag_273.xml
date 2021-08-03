@@ -23,10 +23,16 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 16:03:17 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-08-03 12:08:24 -0400</date>.</creation>
       <langusage>Description is in English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>March 2021</date>
+        <item>Record updated by Rachel Searcy to reflect 2020 accretion</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -47,12 +53,11 @@
       </physdesc>
       <unitdate normal="1950/1989" type="inclusive">circa 1950s-1980s</unitdate>
       <abstract id="aspace_b75c58ac42513db6cf2387dada3d44ed">Morris Rosenzweig was the comptroller of District 65/United Automobile Workers. This collection contains clippings, booklets, buttons, photographs, artifacts, ephemera and a typescript on the history of District 65 written by Morris Rosenzweig.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
+      <langmaterial id="aspace_84bc74c02a3d4990c0fa09579eae171f">Materials are in English.</langmaterial>
     </did>
     <userestrict id="aspace_0f4f3c7723f47829eee02551db994799">
       <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Morris Rosenzweig was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+      <p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>
     </userestrict>
     <arrangement id="aspace_4a48a16b2d4b382de5eba825e156e7b9">
       <head>Arrangement</head>
@@ -64,26 +69,43 @@
     </prefercite>
     <acqinfo id="aspace_21f0d87d511a8c01ffefea8bd9a7f0e5">
       <head>Immediate Source of Acquisition</head>
-      <p>Donated by Sheldon Rosenzweig (son) in 2008 and 2015. The accession numbers associated with this gift are 2008.004 and 2015.013.</p>
+      <p>Donated by Sheldon Rosenzweig, Morris Rosenzweig's son, in 2008, 2015, and 2020. The accession numbers associated with this gift are 2008.004, 2015.013, and 2021.023.</p>
     </acqinfo>
     <accessrestrict id="aspace_52835a8eba946dceed10d5714947accf">
       <head>Conditions Governing Access</head>
       <p>Materials are open without restrictions.</p>
     </accessrestrict>
     <scopecontent id="aspace_97bb37aeea61f109074237992d229544">
-      <head>Scope and Content Note</head>
-      <p>This collection contains clippings, booklets, buttons, photographs, newspapers, artifacts (jacket, caps, luggage tag), ephemera and a typescript on the history of District 65 written by Morris Rosenzweig.</p>
+      <head>Scope and Contents</head>
+      <p>This collection contains clippings, booklets, buttons, photographs, newspapers, artifacts (jacket, caps, luggage tag, leather case), ephemera and a typescript on the history of District 65 written by Morris Rosenzweig.</p>
     </scopecontent>
     <bioghist id="aspace_03b445ac342ccb795afbffa7b71a4ce6">
-      <head>Historical/Biographical Note</head>
+      <head>Biographical Note</head>
       <p>Morris Rosenzweig was the comptroller of District 65/United Automobile Workers.</p>
     </bioghist>
+    <appraisal id="aspace_8cfdb785ccbd7afda1d65b1bc1700a48">
+      <head>Appraisal</head>
+      <p>Duplicate photographs and typescripts, as well as membership booklets with personally identifiable information, were returned to the donor.</p>
+    </appraisal>
+    <processinfo id="aspace_12902522d9e157e5a098e4ba9a5273be">
+      <head>Processing Information</head>
+      <p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2021 are unknown. In 2021 an accretion of photographs and a leather UAW case with buttons were rehoused in archival folders and incorporated into the collection in Box 1.</p>
+    </processinfo>
     <controlaccess>
       <corpname source="naf">International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. District 65</corpname>
       <corpname source="naf">Distributive, Processing, and Office Workers of America. District 65</corpname>
       <corpname rules="dacs" source="local">United Automobile, Aircraft, and Vehicle Workers of America. District 65</corpname>
       <persname role="dnr" rules="dacs" source="local">Rosenzweig, Sheldon L.</persname>
     </controlaccess>
-    <dsc/>
+    <dsc>
+      <c id="aspace_9087e04a9f00baf7a8ef1df8e46c2f98" level="file">
+        <did>
+          <unittitle>Unprocessed</unittitle>
+          <unitdate normal="1950/1989" type="inclusive">circa 1950s-1980s</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_cdb80e82268d88efb8115a0e748739c9" label="Mixed Materials [31142062773208]" type="box">1</container>
+          <container altrender="Flat OS Box - 16.5" id="aspace_c1c36bbcd0eb2c237ec8dd1ecd541cf2" label="Mixed Materials [31142062729564]" type="box">2</container>
+        </did>
+      </c>
+    </dsc>
   </archdesc>
 </ead>

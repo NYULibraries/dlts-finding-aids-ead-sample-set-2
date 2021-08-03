@@ -15,7 +15,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:14:05 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-08-03 11:57:48 -0400</date>.</creation>
       <langusage>Materials are in English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -45,7 +45,7 @@
       <unitdate normal="2012/2017" type="inclusive">2012-2017</unitdate>
       <abstract id="aspace_b91522d9e0947f3195defa5f6afafcdf">K. Marie Kim is a composer and audio engineer based in Brooklyn, NY. The K. Marie Kim Papers contain born digital materials documenting Kim's career and musical works. The collection includes audio files and an archived copy of her website, kmariekim.com. The collection documents her solo work and her BLANK PAPER project as well as her collaborations with other artists. Materials in the collection were created between 2012-2017.</abstract>
       <langmaterial id="aspace_c65960c8e115c9162ccc5d0cf28dd847">Materials are in English.</langmaterial>
-      <container id="aspace_d82201fc071f5e2ffe1716bfac74b64a" label="electronic records" type="E-records">Box electronic records</container>
+      <container id="aspace_4c17f6abb3ddb4d859f04578caf652ed" label="electronic records" type="E-records">Box electronic records</container>
     </did>
     <processinfo id="aspace_cbb41e935c63d168cbddd84ce56c97f8">
       <head>Processing Information</head>
@@ -120,9 +120,9 @@ She has participated in both solo work and collaborations with other artists in 
           </physdesc>
           <unitdate normal="2014-07-01/2014-07-01">July 1, 2014</unitdate>
           <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container id="aspace_da7c5fb6571d83de6a05a0e92df91fe1" label="electronic records" type="E-records">Box electronic records</container>
-          <container id="aspace_1f30b7cd04f5303a190c9051c202ad44" parent="aspace_da7c5fb6571d83de6a05a0e92df91fe1" type="E-records">FA_MSS_504_ER_1</container>
-          <dao xlink:actuate="onRequest" xlink:href="https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10&amp;Form=10&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_504.xml&amp;view=xml" xlink:show="new" xlink:title="Blank Paper" xlink:type="simple">
+          <container id="aspace_778a82a36c6c0ee799e5ba7005430d76" label="electronic records" type="E-records">Box electronic records</container>
+          <container id="aspace_0de78bcf267eddc1530145da2ff9c8ad" parent="aspace_778a82a36c6c0ee799e5ba7005430d76" type="E-records">FA_MSS_504_ER_1</container>
+          <dao xlink:actuate="onRequest" xlink:href="https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10&amp;Form=10&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_504.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Blank Paper" xlink:type="simple">
             <daodesc>
               <p>Blank Paper</p>
             </daodesc>
@@ -145,9 +145,9 @@ She has participated in both solo work and collaborations with other artists in 
             <extent altrender="carrier">in 6 audio files.</extent>
           </physdesc>
           <unitdate normal="2012-10-10/2012-10-10">October 10, 2012</unitdate>
-          <container id="aspace_2078e7b02bec8489ea5090cb2c62044d" label="electronic records" type="E-records">Box electronic records</container>
-          <container id="aspace_83d1e5c085ddd64cb2a10598d3e34829" parent="aspace_2078e7b02bec8489ea5090cb2c62044d" type="E-records">FA_MSS_504_ER_2</container>
-          <dao xlink:actuate="onRequest" xlink:href="https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10&amp;Form=10&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_504.xml&amp;view=xml" xlink:role="electronic-records-service" xlink:show="new" xlink:title="Tape Dreams" xlink:type="simple">
+          <container id="aspace_9ed393f1a1c6c59e2443d95b674f8788" label="electronic records" type="E-records">Box electronic records</container>
+          <container id="aspace_d2b73deb49e475a6af660670b28523bf" parent="aspace_9ed393f1a1c6c59e2443d95b674f8788" type="E-records">FA_MSS_504_ER_2</container>
+          <dao xlink:actuate="onRequest" xlink:href="https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10&amp;Form=10&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_504.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Tape Dreams" xlink:type="simple">
             <daodesc>
               <p>Tape Dreams</p>
             </daodesc>
@@ -174,8 +174,8 @@ She has participated in both solo work and collaborations with other artists in 
             <daodesc>
               <p>Archived website of K. Marie Kim</p>
             </daodesc>
-            <daoloc xlink:href="https://wayback.archive-it.org/9898/*/http://kmariekim.com" xlink:role="service" xlink:type="locator"/>
-            <daoloc xlink:href="https://wayback.archive-it.org/4049/*/http://kmariekim.com" xlink:role="service" xlink:type="locator"/>
+            <daoloc xlink:href="https://wayback.archive-it.org/9898/*/http://kmariekim.com" xlink:role="external-link" xlink:type="locator"/>
+            <daoloc xlink:href="https://wayback.archive-it.org/4049/*/http://kmariekim.com" xlink:role="external-link" xlink:type="locator"/>
           </daogrp>
         </did>
         <appraisal id="aspace_bff62c0c7052b2c884325eec3027f22b">

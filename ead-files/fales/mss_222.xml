@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NNU-F">mss_222</eadid>
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_222">mss_222</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>Guide to the Joe Campbell Collection of Dorothy Dean Letters <lb/><date calendar="gregorian" era="ce">1964-1987</date><lb/><num>MSS 222</num> <num>MSS.222</num></titleproper>
+        <titleproper>Guide to the Joe Campbell Collection of Dorothy Dean Letters <num>MSS.222</num></titleproper>
         <author>Processed by Nicholas Martin</author>
       </titlestmt>
       <publicationstmt>
@@ -15,9 +15,16 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-21 15:08:58 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-08-03 12:12:11 -0400</date>.</creation>
       <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>February 2021</date>
+        <item>Edited by Amy C. Vo for compliance with DACS and ACM Required Elements for Archival Description</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -34,30 +41,20 @@
       <unitid>MSS.222</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-        <extent altrender="carrier">(1 box)</extent>
+        <extent altrender="carrier">in 1 manuscript box.</extent>
       </physdesc>
       <unitdate normal="1964/1987" type="inclusive">1964-1987</unitdate>
       <abstract id="aspace_e6462f1b01a4a1245f9d44d862a379a2">The Joe Campbell Collection of Dorothy Dean Letters contains 46 letters written to Joe Campbell. Of the 46, 42 were written by Dorothy Dean; the other four were written by various friends of Campbell after Dean's death. The letters are dated from 1964-1987.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
+      <langmaterial id="aspace_c29c7c0463cebdf1b72d8e9b3c4eb3a9">Materials are in English.</langmaterial>
     </did>
     <accessrestrict id="aspace_5082641a78e177ce7990c0606f4782ee">
-      <head>Access Restrictions</head>
-      <p>Materials are open to researchers without restrictions. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
     </accessrestrict>
     <acqinfo id="aspace_0b0b885648f2f6ee647c4c5c0cb70af2">
       <head>Provenance</head>
-      <p>Received by donation from Callie Angell, Andy Warhol Film Project, Whitney Museum of American Art, 2008.</p>
+      <p>Received by donation from Callie Angell, Andy Warhol Film Project, Whitney Museum of American Art, 2008. The accession number associated with this gift is 2008.222.</p>
     </acqinfo>
-    <arrangement id="aspace_836037f1cd7b1a6162b752ea63b93eaa">
-      <head>Arrangement</head>
-      <p>The collection consists of 46 folders, each containing one letter.</p>
-      <p>The letters are arranged in chronological order.</p>
-      <list numeration="arabic" type="ordered">
-        <head>Arrangement</head>
-        <item>Series I: The Joe Campbell Collection of Dorothy Dean Letters</item>
-      </list>
-    </arrangement>
     <bioghist id="aspace_6846ea1544dd91f55053d5b044d2dd60">
       <head>Biographical Note</head>
       <p>Dorothy Dean was a downtown social figure. Born into a bourgeois black family in 1932 in White Plains, New York, she attended Radcliffe College and in 1958 earned a masters degree in Fine Arts from Harvard College. While at Cambridge, she began associating almost entirely with gay white men, presumably in an effort to distance herself from the politics surrounding being both black and female in the fifties and sixties, politics with which she did not identify.</p>
@@ -69,11 +66,11 @@
     </bioghist>
     <prefercite id="aspace_933e9b9465d0b51f1c97e82c9e88faec">
       <head>Preferred Citation</head>
-      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date (if known); Joe Campbell Collection of Dorothy Dean Letters; MSS 222; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
+      <p>Identification of item, date; Joe Campbell Collection of Dorothy Dean Letters; MSS 222; box number; folder number or item identifier; Fales Library and Special Collections, New York University Libraries.</p>
     </prefercite>
     <relatedmaterial id="aspace_bfdbfaf9052e1cf57f66c8343e5c0f4e">
       <head>Related Material at Fales Library and Special Collections</head>
-      <p>The Fred W. McDarrah Gay Pride Photographs Collection</p>
+      <p>The Fred W. McDarrah Gay Pride Photographs Collection (MSS 193)</p>
     </relatedmaterial>
     <scopecontent id="aspace_0acfa1a7728bf2334669e576ae7846f0">
       <head>Scope and Content Note</head>
@@ -81,9 +78,14 @@
       <p>A number of the letters contain newspaper clippings, dealing with a range of topics from downtown musicians such as Lou Reed to pivotal moments in the gay rights movement. One letter contains a manuscript of the first issue of Dean's film review, which she called the "All-Lavender Cinema Courier." Evincing her creative and erudite linguistic control, the prose and content of the letters vividly represent Dean's literary wit and personality.</p>
     </scopecontent>
     <userestrict id="aspace_44d69410778fdc17363b3c5f9ba9d590">
-      <head>Use Restrictions</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact NYU Special Collections, special.collections@nyu.edu, 212-998-2596</p>
     </userestrict>
+    <arrangement id="aspace_111cf799634f26444ba9bee777047767">
+      <head>Arrangement</head>
+      <p>The collection consists of 46 folders, each containing one letter.</p>
+      <p>The letters are arranged in chronological order.</p>
+    </arrangement>
     <controlaccess>
       <subject source="lcsh">Gay men.</subject>
       <genreform source="aat">Correspondence.</genreform>
@@ -97,382 +99,625 @@
       <persname source="naf">Reed, Lou</persname>
     </controlaccess>
     <dsc>
-      <c id="aspace_ref10" level="series">
+      <c id="aspace_ref11" level="file">
         <did>
-          <unittitle>Series I: The Joe Campbell Collection of Dorothy Dean Letters</unittitle>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28860</unitid>
+          <unitdate normal="1964/1987" type="inclusive">undated</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_6c7dee88a6ccc67652c70838a059ae89" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_299f3198ebe3d0102849b787ba970d5d" parent="aspace_6c7dee88a6ccc67652c70838a059ae89" type="folder">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/jwstqw3r" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: undated</p>
+            </daodesc>
+          </dao>
         </did>
-        <scopecontent id="aspace_c6d74e30a67c04d634baaed4b4d5e174">
-          <head>Scope and Contents note</head>
-          <p>This series comprises the entire collection of Dorothy Dean Letters.</p>
-        </scopecontent>
-        <c id="aspace_ref11" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>undated</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_880a3f68e852869cd7268afc063c9735" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_3263f0fb87b55b5b8e3cc4a05aa08eab" parent="aspace_880a3f68e852869cd7268afc063c9735" type="folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref12" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>19-Aug-64</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_59820d6272554e1091a33bc4ea059f9a" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_a06ce9b2de7222412eccb534ad45fac2" parent="aspace_59820d6272554e1091a33bc4ea059f9a" type="folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref13" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>18-Oct-64</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_a67b50139edde114756f09fb137c01b4" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_5a0c202137cbd33061ac44de7cd2178c" parent="aspace_a67b50139edde114756f09fb137c01b4" type="folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>15-Feb-65</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_ca8d2283172618d62dd1cafe619120fd" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_ae45571b1d3cb7395cbcc6b3b54b2e9a" parent="aspace_ca8d2283172618d62dd1cafe619120fd" type="folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>23-Apr-65</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_eedbcfe4338cc05cc2f87b5d6b9a8564" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_35c0fce6526eb95b38b8d9c01e2be438" parent="aspace_eedbcfe4338cc05cc2f87b5d6b9a8564" type="folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>25-Oct-65</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_e1f591acbffaedef28c6b740f2edba91" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_a549e675e80b5769b1b8b3ac1fe195b0" parent="aspace_e1f591acbffaedef28c6b740f2edba91" type="folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>1-Nov-65</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_1299b0b96f111df172c9ced69b9abaa0" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_d46aa5d9d560e0522e6ce7489b41e632" parent="aspace_1299b0b96f111df172c9ced69b9abaa0" type="folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>24-May-66</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_300150cfa022239ce79868bffe55a61d" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_fa6b5f9ba2a1ae77ef41b0d0ac39cb1d" parent="aspace_300150cfa022239ce79868bffe55a61d" type="folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>16-Jun-66</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_f32bb756e2ac43794a7d07b10200e4e0" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_03a801a9b17da66a1f55b4279588327e" parent="aspace_f32bb756e2ac43794a7d07b10200e4e0" type="folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>12-Jul-66</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_cef5f2c43b295e10c8401782247638a4" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_15d02e811aab82a9ae628c0bc00f5f7f" parent="aspace_cef5f2c43b295e10c8401782247638a4" type="folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>26-Feb-67</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_75510960b9b3d2b3cb5d9973c8e95cdb" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_8808fbdcabc225497810c4ea2ad919f9" parent="aspace_75510960b9b3d2b3cb5d9973c8e95cdb" type="folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>12-Mar-67</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_5c63036ef16f561cbc7718ce1f6a8aae" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_5b3ac96626a740152b5fd914680d5b25" parent="aspace_5c63036ef16f561cbc7718ce1f6a8aae" type="folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>22-Mar-67</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_393dd47a91acb38f5560fb1ee17e284e" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_c818b79c7149d448c04f59499037f4a2" parent="aspace_393dd47a91acb38f5560fb1ee17e284e" type="folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>27-Apr-67</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_3386240fc03c2b69cfc99a53d552310d" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_f00872734501344bbdb576ff476b4371" parent="aspace_3386240fc03c2b69cfc99a53d552310d" type="folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>29-Apr-67</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_50cd109284ea009780f334a310e3c18a" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_a46e72ec0fa7894c3f0e194a604f358c" parent="aspace_50cd109284ea009780f334a310e3c18a" type="folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>19-May-67</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_b81ff31e56c7673065de723bea851533" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_e4280cb391f887500f6bd1c540aadb53" parent="aspace_b81ff31e56c7673065de723bea851533" type="folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>11-Jun-67</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_c593317bf57c8295ee0d29da3f1cb0d4" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_a0a94332025c7d1294e43cb485a291cd" parent="aspace_c593317bf57c8295ee0d29da3f1cb0d4" type="folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>3-Sep-67</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_59137336771a7258a8301e70cf75ef2e" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_0f21f9216b0532393a54cf78c9c9fbba" parent="aspace_59137336771a7258a8301e70cf75ef2e" type="folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>25-Sep-67</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_675a73499845bd864558747831ee1e6b" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_8ca5fd528be22368b26b899286dfb07a" parent="aspace_675a73499845bd864558747831ee1e6b" type="folder">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>2-Nov-67</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_44090eecc55f3b74fca33a8247741da4" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_31756cba111880460ae1d2844f72e58a" parent="aspace_44090eecc55f3b74fca33a8247741da4" type="folder">20</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>30-Jan-68</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_4bb11db31a8efe2c3cb7a48505f32f2d" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_875454d6ccb1d15cd636dadd15b06340" parent="aspace_4bb11db31a8efe2c3cb7a48505f32f2d" type="folder">21</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>20-Feb-68</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_0868408b6a99d9992ffc7c536174ca49" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_d2a170efda23e223bb4fd2ceb22b66fa" parent="aspace_0868408b6a99d9992ffc7c536174ca49" type="folder">22</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>25-Apr-68</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_32b1ee3f72f7f83355ae72017c56eb70" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_f5356aaa32325612e066aaf91c19f516" parent="aspace_32b1ee3f72f7f83355ae72017c56eb70" type="folder">23</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>2-Jun-68</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_fcac37a03cfc3822da0f4618841a9d1f" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_fb25d6fffade123e7d77719778a16909" parent="aspace_fcac37a03cfc3822da0f4618841a9d1f" type="folder">24</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>22-Apr-69</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_5c200dffd3244ace055b8fcb168d6e01" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_3e4d4150d3f3ac71cbab9cb31dffa3de" parent="aspace_5c200dffd3244ace055b8fcb168d6e01" type="folder">25</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>2-Aug-69</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_74fc8400f10865e6a9edd8d01e451b6e" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_1281204bde2c64af52e3b284308d8c95" parent="aspace_74fc8400f10865e6a9edd8d01e451b6e" type="folder">26</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>18-Dec-69</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_1e94219efa6f0f43ef74a4fb9e534eaa" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_386d2e21e6047e567e61451e4bb3d16d" parent="aspace_1e94219efa6f0f43ef74a4fb9e534eaa" type="folder">27</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>14-Feb-70</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_f2b4d48abe5a47169d60883bb52c9c52" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_72c2a159b5f8c3664e1bb6c01da17bac" parent="aspace_f2b4d48abe5a47169d60883bb52c9c52" type="folder">28</container>
-          </did>
-        </c>
-        <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>3-Jul-71</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_e38b36a043876d829a4fdab2770a3ab9" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_46c4330e00c7b067f594ccd6d0247d83" parent="aspace_e38b36a043876d829a4fdab2770a3ab9" type="folder">29</container>
-          </did>
-        </c>
-        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>2-Nov-71</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_e00f68823b547bb7880b72d9e1da5e2c" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_66594602e0537e2946525b90a95d443b" parent="aspace_e00f68823b547bb7880b72d9e1da5e2c" type="folder">30</container>
-          </did>
-        </c>
-        <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>18-Dec-74</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_00f64432fb86d6474384c1440694c3e0" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_6607e07569f9a0d9bce712ed08107c9e" parent="aspace_00f64432fb86d6474384c1440694c3e0" type="folder">31</container>
-          </did>
-        </c>
-        <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>22-Dec-74</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_099d7ba7aab62d45e2c2312766284fac" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_e0f5e97be1e4f95dc4be7323c0360dc6" parent="aspace_099d7ba7aab62d45e2c2312766284fac" type="folder">32</container>
-          </did>
-        </c>
-        <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>8-Mar-75</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_8b65d8209492c232313ebf1c5f9eed90" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_d4dc726f2ca7fb418630857cd1691e10" parent="aspace_8b65d8209492c232313ebf1c5f9eed90" type="folder">33</container>
-          </did>
-        </c>
-        <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>11-Oct-75</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_2eed8f1e5ad5ce9439cdeb44a3a96279" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_551936f26b2918552507eaea4e1d2c42" parent="aspace_2eed8f1e5ad5ce9439cdeb44a3a96279" type="folder">34</container>
-          </did>
-        </c>
-        <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>11-Feb-76</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_1fb15124c0b2d5c818128fe04fc990eb" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_a808122a7c71a2af2bb870d1d450fef7" parent="aspace_1fb15124c0b2d5c818128fe04fc990eb" type="folder">35</container>
-          </did>
-        </c>
-        <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>27-Apr-76</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_097fe1fbd25bdbaf654c36ecbf4a58ea" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_c29715f0960c20ae4c58e77eeed58b77" parent="aspace_097fe1fbd25bdbaf654c36ecbf4a58ea" type="folder">36</container>
-          </did>
-        </c>
-        <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>4-Jun-76</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_0d2117cd21e75de60470de5100bd9f7b" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_8313a9c938c93b2566eb30638ac5ea39" parent="aspace_0d2117cd21e75de60470de5100bd9f7b" type="folder">37</container>
-          </did>
-        </c>
-        <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>28-Jan-78</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_f783b9be120585188d46bd2c39bc4a1b" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_8141565e245b81712f05d7da658d70db" parent="aspace_f783b9be120585188d46bd2c39bc4a1b" type="folder">38</container>
-          </did>
-        </c>
-        <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>29-Mar-81</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_a2f79d44e8be9a4db4b787d1e81a27f7" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_bb9754b3035579ad108f52cc676d7497" parent="aspace_a2f79d44e8be9a4db4b787d1e81a27f7" type="folder">39</container>
-          </did>
-        </c>
-        <c id="aspace_ref50" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>9-Feb-86</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_1d6927dd807454262fa09acb9dce0427" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_fdd0ae8cc065b2a5660a44c8cc7f6db4" parent="aspace_1d6927dd807454262fa09acb9dce0427" type="folder">40</container>
-          </did>
-        </c>
-        <c id="aspace_ref51" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>9-Mar-86</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_3105c4c8e90fdbcd0e352c459c787f49" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_1254fef7fb22f2da587a55a85d155920" parent="aspace_3105c4c8e90fdbcd0e352c459c787f49" type="folder">41</container>
-          </did>
-        </c>
-        <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dorothy Dean to Joe Campbell</unittitle>
-            <unitdate>22-Jun-86</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_d95adf93d6b4804b8eed7e4e19ea6ac2" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_b20f56b21b800b8cc48eb5e31bb3fe94" parent="aspace_d95adf93d6b4804b8eed7e4e19ea6ac2" type="folder">42</container>
-          </did>
-        </c>
-        <c id="aspace_ref53" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Nora Sayre to Joe Campbell</unittitle>
-            <unitdate>14-Feb-87</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_38b2949c95b311fafa99f60e3749b8c9" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_8323cedb7d1795d7e0664f30ce44bdd2" parent="aspace_38b2949c95b311fafa99f60e3749b8c9" type="folder">43</container>
-          </did>
-        </c>
-        <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Nora Sayre to Joe Campbell</unittitle>
-            <unitdate>17-Feb-87</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_921de09e69af60e0d97e477a03a1fd1f" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_c7991fe168e5002b325031f8e1870bfb" parent="aspace_921de09e69af60e0d97e477a03a1fd1f" type="folder">44</container>
-          </did>
-        </c>
-        <c id="aspace_ref55" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>"Libby" to Joe Campbell</unittitle>
-            <unitdate>25-Feb-87</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_77e414650598c951417c0b16dec81041" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_0f78391c7f7a1589ea5846180c685fd8" parent="aspace_77e414650598c951417c0b16dec81041" type="folder">45</container>
-          </did>
-        </c>
-        <c id="aspace_ref56" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Nora Sayre to Joe Campbell</unittitle>
-            <unitdate>25-Mar-87</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_f19bb5d2a848a7b2f6558373050122cd" label="Mixed Materials [31142054877041]" type="box">1</container>
-            <container id="aspace_97d6d240e1b28846a6e9794fe53cf0a1" parent="aspace_f19bb5d2a848a7b2f6558373050122cd" type="folder">46</container>
-          </did>
-        </c>
+      </c>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28861</unitid>
+          <unitdate normal="1964-08-19/1964-08-19">1964-08-19</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_487a9c751c4bd2891bf23a74d04d8acb" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_e357154824055a7cb6c714c68e7ffa64" parent="aspace_487a9c751c4bd2891bf23a74d04d8acb" type="folder">2</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/vhhmh22d" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1964-08-19-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28862</unitid>
+          <unitdate normal="1964-10-18/1964-10-18">1964-10-18</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_22be86dd4f80bc338a8d2fe1b11af678" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_3d023a583f7ecaa815843cf06acbefc1" parent="aspace_22be86dd4f80bc338a8d2fe1b11af678" type="folder">3</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/qrfj71k9" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1964-10-18-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28863</unitid>
+          <unitdate normal="1965-02-15/1965-02-15">1965-02-15</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_cd0bf69fca3d7ef48a564849098dfc50" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_4a618d879c9ddedd608991e5977c9421" parent="aspace_cd0bf69fca3d7ef48a564849098dfc50" type="folder">4</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/m37pvxp1" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1965-02-15-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28864</unitid>
+          <unitdate normal="1965-04-23/1965-04-23">1965-04-23</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_27affc3be2dc31152cf2438bdb3599b6" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_4068e3350a47cf5293ef255801c2798e" parent="aspace_27affc3be2dc31152cf2438bdb3599b6" type="folder">5</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/gb5mkx64" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1965-04-23-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28865</unitid>
+          <unitdate normal="1965-10-25/1965-10-25">1965-10-25</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_c2c3ef8b37db0af83a8fb676bd1df27a" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_0841db6a3f48fbcdd88432cb4b53ac58" parent="aspace_c2c3ef8b37db0af83a8fb676bd1df27a" type="folder">6</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/bk3j9wq1" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1965-10-25-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28866</unitid>
+          <unitdate normal="1965-11-01/1965-11-01">1965-11-01</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_f1c02ebcee8e24b47bba09bba2e1fa62" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_cdb9918d35b98cfd412ad621668bfa16" parent="aspace_f1c02ebcee8e24b47bba09bba2e1fa62" type="folder">7</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/6t1g1w6w" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1965-11-01-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28867</unitid>
+          <unitdate normal="1966-05-24/1966-05-24">1966-05-24</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_60837fad52643093661c176778fdc296" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_8f679e1a5c16af47bbc6fec8a237716e" parent="aspace_60837fad52643093661c176778fdc296" type="folder">8</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/31zcrvmw" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1966-05-24-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28868</unitid>
+          <unitdate normal="1966-06-16/1966-06-16">1966-06-16</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_e689f3cb642ce3381f274fec9e95d84c" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_17b895631eec72cb9b54caef97180c21" parent="aspace_e689f3cb642ce3381f274fec9e95d84c" type="folder">9</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/z8w9gv96" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1966-06-16-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28869</unitid>
+          <unitdate normal="1966-07-12/1966-07-12">1966-07-12</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_45e2d333097c04bf512a2e7a97b305d9" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_ca1201fa05c88ce0282e84917a526361" parent="aspace_45e2d333097c04bf512a2e7a97b305d9" type="folder">10</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/tht76tt3" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1966-07-12-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28870</unitid>
+          <unitdate normal="1967-02-26/1967-02-26">1967-02-26</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_529492a48337e5aa205f9235fca416c4" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_fec77efd565370a54f1bc6a48689254d" parent="aspace_529492a48337e5aa205f9235fca416c4" type="folder">11</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/pvmcvr0n" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1967-02-26-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28871</unitid>
+          <unitdate normal="1967-03-12/1967-03-12">1967-03-12</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_17bc153e18729f323a334666dbb49ee4" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_b7901b24738f21d0f84d48d082aa9807" parent="aspace_17bc153e18729f323a334666dbb49ee4" type="folder">12</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/k3j9kqhk" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1967-03-12-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28872</unitid>
+          <unitdate normal="1967-03-22/1967-03-22">1967-03-22</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_6b9224dba09f14bf9b4e1e70a30bd605" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_de4aeed6b6b7d581ae15187014074f8b" parent="aspace_6b9224dba09f14bf9b4e1e70a30bd605" type="folder">13</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/fbg79q1p" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1967-03-22-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28873</unitid>
+          <unitdate normal="1967-04-27/1967-04-27">1967-04-27</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_03e038faaae450c8f0e718a89df2377c" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_2c03df89db8c2b5cc54d6185c121ef7c" parent="aspace_03e038faaae450c8f0e718a89df2377c" type="folder">14</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/9kd51phb" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1967-04-27-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28874</unitid>
+          <unitdate normal="1967-04-29/1967-04-29">1967-04-29</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_a494527c704457ee80dc6c0a1e630e93" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_efbb2fdfc92462a2e7e25eb45c3eb8e0" parent="aspace_a494527c704457ee80dc6c0a1e630e93" type="folder">15</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/5tb2rnzm" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1967-04-29-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28875</unitid>
+          <unitdate normal="1967-05-19/1967-05-19">1967-05-19</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_d7bad1a7770afea8ae1941377f1dec78" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_074ed971aba61ca33899caf8b1a289de" parent="aspace_d7bad1a7770afea8ae1941377f1dec78" type="folder">16</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/2280gngr" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1967-05-19-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28876</unitid>
+          <unitdate normal="1967-06-11/1967-06-11">1967-06-11</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_1df78a8cc0336e065341a5e6d6f2ffb7" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_719aff6a6a4c98119dd3c88392612895" parent="aspace_1df78a8cc0336e065341a5e6d6f2ffb7" type="folder">17</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/xd254js6" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1967-06-11-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28877</unitid>
+          <unitdate normal="1967-09-03/1967-09-03">1967-09-03</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_5f1893c1f24122bc1731965e14ea4117" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_6b304f344c518b37dcf2f3f5627cbdc7" parent="aspace_5f1893c1f24122bc1731965e14ea4117" type="folder">18</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/sn02vj95" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1967-09-03-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28878</unitid>
+          <unitdate normal="1967-09-25/1967-09-25">1967-09-25</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_841d3b5bec5b9936d6a5c19515a7dda6" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_c98bb6fecc80a04a507f5fef3602b742" parent="aspace_841d3b5bec5b9936d6a5c19515a7dda6" type="folder">19</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/nvx0kht0" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1967-09-25-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28879</unitid>
+          <unitdate normal="1967-11-02/1967-11-02">1967-11-02</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_9a135d7d2a1f7ac0863c65d57154a803" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_61cbfaf5e285486db3dd0113bbc1b07b" parent="aspace_9a135d7d2a1f7ac0863c65d57154a803" type="folder">20</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/j3tx9hb1" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1967-11-02-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28880</unitid>
+          <unitdate normal="1968-01-30/1968-01-30">1968-01-30</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_e5ec4a7840f6053b80f6ba59e386dc4a" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_ffc91db6a340f39305345cafef1c2155" parent="aspace_e5ec4a7840f6053b80f6ba59e386dc4a" type="folder">21</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/dbrv1gtp" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1968-01-30-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28881</unitid>
+          <unitdate normal="1968-02-20/1968-02-20">1968-02-20</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_013b5796d26cb96f6cc1d70badbc2c1e" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_692aae527466a076f300d2c7bc1b37b2" parent="aspace_013b5796d26cb96f6cc1d70badbc2c1e" type="folder">22</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/8kprrg7x" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1968-02-20-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28882</unitid>
+          <unitdate normal="1968-04-25/1968-04-25">1968-04-25</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_f3a98e8b731beaa37466b9909f3c1100" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_6e8e80241a65361ac65358d4d08b556e" parent="aspace_f3a98e8b731beaa37466b9909f3c1100" type="folder">23</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/4tmpgfrt" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1968-04-25-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28883</unitid>
+          <unitdate normal="1968-06-02/1968-06-02">1968-06-02</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_ea3987a4246c2ad088e66fc23c9259e4" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_cf89bb625355220f802ec5275c613035" parent="aspace_ea3987a4246c2ad088e66fc23c9259e4" type="folder">24</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/15dv4bw3" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1968-06-02-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28884</unitid>
+          <unitdate normal="1969-04-22/1969-04-22">1969-04-22</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_7afc3eca97d20e0cbd83e0d1a68e41e9" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_11e4d4da82924095a83aedafa1353136" parent="aspace_7afc3eca97d20e0cbd83e0d1a68e41e9" type="folder">25</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/wdbrvbk8" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1969-04-22-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28885</unitid>
+          <unitdate normal="1969-08-02/1969-08-02">1969-08-02</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_42bfd370e2ee5fa35f51c2a50e1e49fc" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_076b6943bbaacd544e40c632611f3ce1" parent="aspace_42bfd370e2ee5fa35f51c2a50e1e49fc" type="folder">26</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/rn8pkb3c" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1969-08-02-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28886</unitid>
+          <unitdate normal="1969-12-18/1969-12-18">1969-12-18</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_abb4614f00bff822442d2b2a3dfee553" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_1620d0c993bde2b52cab4d9f7b2910ee" parent="aspace_abb4614f00bff822442d2b2a3dfee553" type="folder">27</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/mw6m99m8" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1969-12-18-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28887</unitid>
+          <unitdate normal="1970-02-14/1970-02-14">1970-02-14</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_17b85d11ea687e40e5cf0c2a942170ba" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_80ffadd4dc1e12a65c05d25fb5b7bc99" parent="aspace_17b85d11ea687e40e5cf0c2a942170ba" type="folder">28</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/h44j1935" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1970-02-14-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref39" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28888</unitid>
+          <unitdate normal="1971-07-03/1971-07-03">1971-07-03</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_54070f04e8ef060c8aa3623ccccb962d" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_4cbaf811da95323f3d1f620c3e5c4f49" parent="aspace_54070f04e8ef060c8aa3623ccccb962d" type="folder">29</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/cc2fr8h6" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1971-07-03-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref40" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28889</unitid>
+          <unitdate normal="1971-11-02/1971-11-02">1971-11-02</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_e4f3276b9951f4583c5b260fb14d5593" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_3ea480f0f464d87f182c097de9442c79" parent="aspace_e4f3276b9951f4583c5b260fb14d5593" type="folder">30</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/7m0cg802" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1971-11-02-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref41" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28890</unitid>
+          <unitdate normal="1974-12-18/1974-12-18">1974-12-18</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_e4f245d7833e6f651d31923bfb30cd89" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_3040222e026e074a91f5a1afb419b9c0" parent="aspace_e4f245d7833e6f651d31923bfb30cd89" type="folder">31</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/3xsj457z" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1974-12-18-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref42" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28891</unitid>
+          <unitdate normal="1974-12-22/1974-12-22">1974-12-22</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_3a26ae9e88270cb2a2a4b2abfc9a91cc" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_98c87224d15ecf5fc2d31c60ad34fd6c" parent="aspace_3a26ae9e88270cb2a2a4b2abfc9a91cc" type="folder">32</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/05qfv4rr" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1974-12-22-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref43" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28892</unitid>
+          <unitdate normal="1975-03-08/1975-03-08">1975-03-08</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_c9bf38c8e22bd7220ac050d88935ca9b" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_0914a3f30a8d47adf485c83fe7266941" parent="aspace_c9bf38c8e22bd7220ac050d88935ca9b" type="folder">33</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/vdnck4dt" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1975-03-08-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref44" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28893</unitid>
+          <unitdate normal="1975-10-11/1975-10-11">1975-10-11</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_6537e41fefb078d2eb08c3d7fa27ce5f" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_65207b7401e5f3c326d1ea355438597c" parent="aspace_6537e41fefb078d2eb08c3d7fa27ce5f" type="folder">34</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/qnk993xq" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1975-10-11-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref45" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28894</unitid>
+          <unitdate normal="1976-02-11/1976-02-11">1976-02-11</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_94ced0e231da4a652ca333857393caff" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_945230965a25c1b24c75e001bf712b5e" parent="aspace_94ced0e231da4a652ca333857393caff" type="folder">35</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/kwh713cb" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1976-02-11-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref46" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28895</unitid>
+          <unitdate normal="1976-04-27/1976-04-27">1976-04-27</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_91054b0c2745fd25991ab8b4a5c177c3" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_df80c5ff0379e23f639855c38809467f" parent="aspace_91054b0c2745fd25991ab8b4a5c177c3" type="folder">36</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/g4f4r2tn" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1976-04-27-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref47" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28896</unitid>
+          <unitdate normal="1976-06-04/1976-06-04">1976-06-04</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_c74fc151b267793c74b8e5399df3a3ef" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_bfbdabaab87c0b376a56d0f1e3365bfa" parent="aspace_c74fc151b267793c74b8e5399df3a3ef" type="folder">37</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/bcc2g29h" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1976-06-04-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref48" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28897</unitid>
+          <unitdate normal="1978-01-28/1978-01-28">1978-01-28</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_74df946182b9a9809e8a3f1bb12099ed" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_76f4589d9e64599bb034e45678b13252" parent="aspace_74df946182b9a9809e8a3f1bb12099ed" type="folder">38</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/6q573zh2" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1978-01-28-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref49" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28898</unitid>
+          <unitdate normal="1981-03-29/1981-03-29">1981-03-29</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_a5159b16b71f81bcad3ca7f14d0a6e10" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_1245f023bbf130eea5230638e6a7604e" parent="aspace_a5159b16b71f81bcad3ca7f14d0a6e10" type="folder">39</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/2z34tz11" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1981-03-29-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref50" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28899</unitid>
+          <unitdate normal="1986-02-09/1986-02-09">1986-02-09</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_edc475704494c52c9d3669ee17b0f827" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_5e89accb2fb2352792e0c67a306c7b70" parent="aspace_edc475704494c52c9d3669ee17b0f827" type="folder">40</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/z612jxpx" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1986-02-09-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref51" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28900</unitid>
+          <unitdate normal="1986-03-09/1986-03-09">1986-03-09</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_1d41375905282f50537a753fbf4b6553" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_14fa079f4ff0994b602345a326d3af51" parent="aspace_1d41375905282f50537a753fbf4b6553" type="folder">41</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/tdz08x6z" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1986-03-09-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref52" level="file">
+        <did>
+          <unittitle>Dorothy Dean to Joe Campbell</unittitle>
+          <unitid>cuid28901</unitid>
+          <unitdate normal="1986-06-22/1986-06-22">1986-06-22</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_b5fa8e8f0c4bcd6591371d742b2907cd" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_01a84ff6fa0bc217e0f2a3aed2bb05ee" parent="aspace_b5fa8e8f0c4bcd6591371d742b2907cd" type="folder">42</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/pnvx0wph" xlink:role="image-service" xlink:show="new" xlink:title="Dorothy Dean to Joe Campbell" xlink:type="simple">
+            <daodesc>
+              <p>Dorothy Dean to Joe Campbell: 1986-06-22-</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_ref53" level="file">
+        <did>
+          <unittitle>Nora Sayre to Joe Campbell</unittitle>
+          <unitdate normal="1987-02-14/1987-02-14">1987-02-14</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_66637675fbf718e32d3f9d28b5edb88d" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_9c6ebe0b97ae45caa6ec89084ffa9fe0" parent="aspace_66637675fbf718e32d3f9d28b5edb88d" type="folder">43</container>
+        </did>
+      </c>
+      <c id="aspace_ref54" level="file">
+        <did>
+          <unittitle>Nora Sayre to Joe Campbell</unittitle>
+          <unitdate normal="1987-02-17/1987-02-17">1987-02-17</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_e18cacdc54ced83def8cf8ed7205409d" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_24a24c43056c75f02e00c50ed4d3fd0c" parent="aspace_e18cacdc54ced83def8cf8ed7205409d" type="folder">44</container>
+        </did>
+      </c>
+      <c id="aspace_ref55" level="file">
+        <did>
+          <unittitle>"Libby" to Joe Campbell</unittitle>
+          <unitdate normal="1987-02-25/1987-02-25">1987-02-25</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_005da5b0fa2ad9ae43651ce977bf3044" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_37cd011d422eaa1972c7cf9458f4e4f0" parent="aspace_005da5b0fa2ad9ae43651ce977bf3044" type="folder">45</container>
+        </did>
+      </c>
+      <c id="aspace_ref56" level="file">
+        <did>
+          <unittitle>Nora Sayre to Joe Campbell</unittitle>
+          <unitdate normal="1987-03-25/1987-03-25">1987-03-25</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_81c160e88acdf306cae4661d6533a107" label="Mixed Materials [31142054877041]" type="box">1</container>
+          <container id="aspace_8d014ca776c3b118e3532c3a6fe2aaa3" parent="aspace_81c160e88acdf306cae4661d6533a107" type="folder">46</container>
+        </did>
       </c>
     </dsc>
   </archdesc>
